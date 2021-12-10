@@ -1,0 +1,5 @@
+# .gitignore
+.vs/
+Dlls/
+obj/
+bin/Original/

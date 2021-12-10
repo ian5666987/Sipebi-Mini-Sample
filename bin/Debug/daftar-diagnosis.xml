@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<ArrayOfSipebiDiagnosticsErrorInformation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<SipebiDiagnosticsErrorInformation>
+	  <ErrorCode>[KBBI BTB]</ErrorCode>
+	  <Error>[KBBI] Bentuk Takbaku</Error>
+	  <ErrorExplanation>[KBBI] Kata yang digunakan merupakan bentuk takbaku</ErrorExplanation>
+	  <AppearOnVersion>1.0.0.0</AppearOnVersion>
+	  <IsCustom>false</IsCustom>
+	</SipebiDiagnosticsErrorInformation>
+	<SipebiDiagnosticsErrorInformation>
+	  <ErrorCode>[KBBI KA]</ErrorCode>
+	  <Error>[KBBI] Kata Ambigu</Error>
+	  <ErrorExplanation>[KBBI] Kata yang digunakan bersifat ambigu, dapat merupakan bentuk baku atau takbaku tergantung dari makna yang dimaksudkan</ErrorExplanation>
+	  <AppearOnVersion>1.0.0.0</AppearOnVersion>
+	  <IsCustom>false</IsCustom>
+	</SipebiDiagnosticsErrorInformation>
+	<SipebiDiagnosticsErrorInformation>
+	  <ErrorCode>[Sipebi BTB]</ErrorCode>
+	  <Error>[Sipebi] Bentuk Takbaku</Error>
+	  <ErrorExplanation>[Sipebi] Kata yang digunakan merupakan bentuk takbaku</ErrorExplanation>
+	  <AppearOnVersion>1.0.0.0</AppearOnVersion>
+	  <IsCustom>false</IsCustom>
+	</SipebiDiagnosticsErrorInformation>
+	<SipebiDiagnosticsErrorInformation>
+	  <ErrorCode>[Sipebi KA]</ErrorCode>
+	  <Error>[Sipebi] Kata Ambigu</Error>
+	  <ErrorExplanation>[Sipebi] Kata yang digunakan bersifat ambigu, dapat merupakan bentuk baku atau takbaku tergantung dari makna yang dimaksudkan</ErrorExplanation>
+	  <AppearOnVersion>1.0.0.0</AppearOnVersion>
+	  <IsCustom>false</IsCustom>
+	</SipebiDiagnosticsErrorInformation>
+	<SipebiDiagnosticsErrorInformation>
+	  <ErrorCode>[Sipebi BT]</ErrorCode>
+	  <Error>[Sipebi] Bentuk Terikat</Error>
+	  <ErrorExplanation>[Sipebi] Kata yang digunakan merupakan bentuk terikat. Penulisannya harus disambungkan dengan kata sebelum atau sesudahnya</ErrorExplanation>
+	  <AppearOnVersion>1.0.0.0</AppearOnVersion>
+	  <IsCustom>false</IsCustom>
+	</SipebiDiagnosticsErrorInformation>
+	<SipebiDiagnosticsErrorInformation>
+	  <ErrorCode>[Sipebi BT-M]</ErrorCode>
+	  <Error>[Sipebi] Mungkin Bentuk Terikat</Error>
+	  <ErrorExplanation>[Sipebi] Kata yang digunakan mungkin merupakan bentuk terikat. Jika benar, penulisannya seharusnya disambungkan dengan kata sebelum atau sesudahnya</ErrorExplanation>
+	  <AppearOnVersion>1.0.0.0</AppearOnVersion>
+	  <IsCustom>false</IsCustom>
+	</SipebiDiagnosticsErrorInformation>
+	<SipebiDiagnosticsErrorInformation>
+	  <ErrorCode>[Sipebi KHS]</ErrorCode>
+	  <Error>[Sipebi] Kata Hubung Subordinatif</Error>
+	  <ErrorExplanation>[Sipebi] Kata yang digunakan mungkin merupakan kata hubung subordinatif yang harus ditulis tanpa didahului oleh tanda koma</ErrorExplanation>
+	  <AppearOnVersion>1.0.0.0</AppearOnVersion>
+	  <IsCustom>false</IsCustom>
+	</SipebiDiagnosticsErrorInformation>
+	<SipebiDiagnosticsErrorInformation>
+	  <ErrorCode>[Sipebi KHIK]</ErrorCode>
+	  <Error>[Sipebi] Kata Hubung Intrakalimat</Error>
+	  <ErrorExplanation>[Sipebi] Kata hubung intrakalimat harus ditulis didahului oleh tanda koma</ErrorExplanation>
+	  <AppearOnVersion>1.0.0.0</AppearOnVersion>
+	  <IsCustom>false</IsCustom>
+	</SipebiDiagnosticsErrorInformation>
+	<SipebiDiagnosticsErrorInformation>
+	  <ErrorCode>[Sipebi KHIK-M]</ErrorCode>
+	  <Error>[Sipebi] Mungkin Kata Hubung Intrakalimat</Error>
+	  <ErrorExplanation>[Sipebi] Kata yang digunakan mungkin merupakan kata hubung intrakalimat yang harus ditulis didahului oleh tanda koma</ErrorExplanation>
+	  <AppearOnVersion>1.0.0.0</AppearOnVersion>
+	  <IsCustom>false</IsCustom>
+	</SipebiDiagnosticsErrorInformation>
+	<SipebiDiagnosticsErrorInformation>
+	  <ErrorCode>[Sipebi KHAK]</ErrorCode>
+	  <Error>[Sipebi] Kata Hubung Antarkalimat</Error>
+	  <ErrorExplanation>[Sipebi] Kata hubung antarkalimat harus ditulis diikuti oleh tanda koma</ErrorExplanation>
+	  <AppearOnVersion>1.0.0.0</AppearOnVersion>
+	  <IsCustom>false</IsCustom>
+	</SipebiDiagnosticsErrorInformation>
+	<SipebiDiagnosticsErrorInformation>
+	  <ErrorCode>[Sipebi KAK]</ErrorCode>
+	  <Error>[Sipebi] Kapital pada Awal Kalimat</Error>
+	  <ErrorExplanation>[Sipebi] Huruf kapital dipakai sebagai huruf pertama awal kalimat</ErrorExplanation>
+	  <AppearOnVersion>1.0.0.0</AppearOnVersion>
+	  <IsCustom>false</IsCustom>
+	</SipebiDiagnosticsErrorInformation>
+	<SipebiDiagnosticsErrorInformation>
+	  <ErrorCode>[Sipebi ke-{0}]</ErrorCode>
+	  <Error>[Sipebi] ke-{angka}</Error>
+	  <ErrorExplanation>[Sipebi] Tanda hubung (-) dipakai untuk merangkai ke- dengan angka</ErrorExplanation>
+	  <AppearOnVersion>1.0.0.0</AppearOnVersion>
+	  <IsCustom>false</IsCustom>
+	</SipebiDiagnosticsErrorInformation>
+	<SipebiDiagnosticsErrorInformation>
+	  <ErrorCode>[Sipebi {0}-an]</ErrorCode>
+	  <Error>[Sipebi] {angka}-an</Error>
+	  <ErrorExplanation>[Sipebi] Tanda hubung (-) dipakai untuk merangkai angka dengan -an</ErrorExplanation>
+	  <AppearOnVersion>1.0.0.0</AppearOnVersion>
+	  <IsCustom>false</IsCustom>
+	</SipebiDiagnosticsErrorInformation>
+	<SipebiDiagnosticsErrorInformation>
+	  <ErrorCode>[Sipebi {A}-{kg}]</ErrorCode>
+	  <Error>[Sipebi] Singkatan Kapital -ku/-mu/-nya</Error>
+	  <ErrorExplanation>[Sipebi] Tanda hubung (-) dipakai untuk merangkai singkatan berupa huruf kapital dengan kata ganti -ku, -mu, dan -nya</ErrorExplanation>
+	  <AppearOnVersion>1.0.0.0</AppearOnVersion>
+	  <IsCustom>false</IsCustom>
+	</SipebiDiagnosticsErrorInformation>
+	<SipebiDiagnosticsErrorInformation>
+	  <ErrorCode>[Sipebi TPW]</ErrorCode>
+	  <Error>[Sipebi] Titik pada Penulisan Waktu</Error>
+	  <ErrorExplanation>[Sipebi] Tanda titik (.) dipakai untuk memisahkan angka jam, menit, dan detik yang menunjukkan waktu atau jangka waktu</ErrorExplanation>
+	  <AppearOnVersion>1.0.0.0</AppearOnVersion>
+	  <IsCustom>false</IsCustom>
+	</SipebiDiagnosticsErrorInformation>
+</ArrayOfSipebiDiagnosticsErrorInformation>
