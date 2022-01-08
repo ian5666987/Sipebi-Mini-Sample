@@ -8,8 +8,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Xml.Serialization;
 
-namespace SipebiMini.Sample {
-	public class SampleState {
+namespace SipebiMini {
+	public class SipebiMiniState {
 		public const string JudulContohTeksBawaan = "contoh-teks.txt";
 		public const string JudulTeksAwalBawaan = "teks-awal.txt";
 		public const string JudulLaporanAnalisisBawaan = "laporan-diagnosis.xml"; //Jangan diganti
@@ -52,9 +52,11 @@ namespace SipebiMini.Sample {
 			//Tambahkan proses inisiasi lain untuk proses penyuntingan buatan			
 			try { //Muat fail tambahan untuk proses penyuntingan buatan
 				string[] barisTeksBuatan = File.ReadAllLines(JudulTambahanDataBuatan);
-				daftarKesalahanPenulisanSingkat = barisTeksBuatan.Select(x => x.Split('|').Where(y => !string.IsNullOrWhiteSpace(y)).Select(y => y.Trim()).ToList())
+				daftarKesalahanPenulisanSingkat = barisTeksBuatan.Select(x => x.Split('|')
+					.Where(y => !string.IsNullOrWhiteSpace(y)).Select(y => y.Trim()).ToList())
 					.Where(x => x.Count == 2).ToDictionary(x => x[0],
-						x => x[1].Split(',').Where(y => !string.IsNullOrWhiteSpace(y)).Select(y => y.Trim()).ToList());
+						x => x[1].Split(',').Where(y => !string.IsNullOrWhiteSpace(y))
+						.Select(y => y.Trim()).ToList());
 			} catch (Exception exc){
 				throw new Exception($"Terjadi kesalahan pada proses inisiasi data buatan: {exc}");
 			}

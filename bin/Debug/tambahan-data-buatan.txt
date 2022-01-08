@@ -14,3 +14,4 @@ dgn|dengan
 org|orang
 jg|juga
 sdg|sedang
+jgn|jangan

@@ -1,7 +1,7 @@
 ﻿using System.IO;
 using System.Threading;
 
-namespace SipebiMini.Sample {
+namespace SipebiMini {
 	public class FileHelper {
 		public static bool PastikanTerhapus(string namaFail)  {
 			int counter = 0;

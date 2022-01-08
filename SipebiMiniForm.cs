@@ -1,16 +1,18 @@
 ﻿using SipebiMini.Core;
 using System;
 using System.Linq;
+using System.Reflection;
 using System.Windows.Forms;
 
-namespace SipebiMini.Sample {
+namespace SipebiMini {
 	public partial class SampleForm : Form {
 		public SampleForm() {
 			InitializeComponent();
+			Text += $" v{Assembly.GetExecutingAssembly().GetName().Version}";
 			state.Inisiasi();
 		}
 
-		SampleState state = new SampleState();
+		SipebiMiniState state = new SipebiMiniState();
 		const string formatPesanMuatContoh = "Contoh {0} dimuat!";
 		const string formatPesanPenyuntinganAsal = "Penyuntingan dengan cara asal Sipebi {0}!";
 		const string formatPesanPenyuntinganBuatan = "Penyuntingan dengan cara buatan Sipebi {0}!";

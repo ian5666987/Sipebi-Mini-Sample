@@ -1,4 +1,4 @@
-﻿namespace SipebiMini.Sample {
+﻿namespace SipebiMini {
 	partial class SampleForm {
 		/// <summary>
 		/// Required designer variable.
@@ -296,7 +296,7 @@
 			this.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.Margin = new System.Windows.Forms.Padding(4);
 			this.Name = "SampleForm";
-			this.Text = "Sipebi Sample Form";
+			this.Text = "Sipebi Mini Form";
 			this.splitContainerMain.Panel1.ResumeLayout(false);
 			this.splitContainerMain.Panel2.ResumeLayout(false);
 			((System.ComponentModel.ISupportInitialize)(this.splitContainerMain)).EndInit();
