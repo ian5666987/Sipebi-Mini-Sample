@@ -148,7 +148,6 @@ namespace SipebiMini {
 							(char.ToUpper(perbaikanMentah[0]).ToString() + perbaikanMentah.Substring(1)) : //perbaiki dengan mempertahankan huruf kapital di awal kata
 							perbaikanMentah; //jika kata asal tidak diawali dengan huruf kapital, perbaikan mentah juga dapat digunakan langsung
 						kesalahan.CorrectedElement = perbaikan;
-						daftarKesalahanTambahan.Add(kesalahan); //daftarkan kesalahan ini
 					} else //jika kesalahan ini ambigu
 						kesalahan.CorrectedElement = string.Join(", ", daftarPerbaikan); //dapatkan saran perbaikan, bukan hanya satu perbaikan						
 
