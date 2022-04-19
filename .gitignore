@@ -3,3 +3,11 @@
 Dlls/
 obj/
 bin/Original/
+bin/Debug/laporan-diagnosis-buatan.xml
+bin/Debug/laporan-diagnosis.xml
+bin/Debug/teks-awal-perbaikan.txt
+bin/Debug/teks-awal.txt
+bin/Release/laporan-diagnosis-buatan.xml
+bin/Release/laporan-diagnosis.xml
+bin/Release/teks-awal-perbaikan.txt
+bin/Release/teks-awal.txt
