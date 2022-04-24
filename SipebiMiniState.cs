@@ -12,12 +12,12 @@ namespace SipebiMini {
 	public class SipebiMiniState {
 		public const string JudulContohTeksBawaan = "contoh-teks.txt";
 		public const string JudulTeksAwalBawaan = "teks-awal.txt";
+		public const string JudulLaporanAnalisisBuatan = "laporan-diagnosis-buatan.xml";
+		public const string JudulTambahanDataBuatan = "tambahan-data-buatan.txt"; //tambahan data untuk proses penyuntingan buatan
 		public const string JudulLaporanAnalisisBawaan = "laporan-diagnosis.xml"; //Jangan diganti
 		public const string JudulDaftarDiagnosisBawaan = "daftar-diagnosis.xml"; //Jangan diganti
 		public const string NamaProsesAnalisis = "SipebiMini.Analyser.exe"; //Jangan diganti
 		public const string NamaProsesPenyuntingan = "SipebiMini.Editor.exe"; //Jangan diganti
-		public const string JudulLaporanAnalisisBuatan = "laporan-diagnosis-buatan.xml";
-		public const string JudulTambahanDataBuatan = "tambahan-data-buatan.txt"; //tambahan data untuk proses penyuntingan buatan
 
 		public Dictionary<string, SipebiDiagnosticsErrorInformation> InformasiKesalahan = 
 			new Dictionary<string, SipebiDiagnosticsErrorInformation>();
@@ -26,7 +26,7 @@ namespace SipebiMini {
 			ErrorCode = "[Buatan-KPS-D]", 
 			Error = "[Buatan] Kesalahan Penulisan Singkat (Definit)",
 			ErrorExplanation = "[Buatan] Kata yang digunakan merupakan bentuk penulisan singkat(an) yang tidak baku - biasa hanya dipakai dalam bentuk percakapan tertulis",
-			AppearOnVersion = "1.1.0.0",
+			AppearOnVersion = "1.1.0.0", // Ini seharusnya otomatis dibuat ketika aplikasi terdeploy
 			IsCustom = true
 		};
 
@@ -34,7 +34,7 @@ namespace SipebiMini {
 			ErrorCode = "[Buatan-KPS-A]",
 			Error = "[Buatan] Kesalahan Penulisan Singkat (Ambigu)",
 			ErrorExplanation = "[Buatan] Kata yang digunakan mungkin merupakan bentuk penulisan singkat(an) yang tidak baku - biasa hanya dipakai dalam bentuk percakapan tertulis",
-			AppearOnVersion = "1.1.0.0",
+			AppearOnVersion = "1.1.0.0", // Ini seharusnya otomatis dibuat ketika aplikasi terdeploy
 			IsCustom = true
 		};
 
