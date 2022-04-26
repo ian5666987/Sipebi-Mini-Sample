@@ -26,7 +26,7 @@ namespace SipebiMini {
 			ErrorCode = "[Buatan-KPS-D]", 
 			Error = "[Buatan] Kesalahan Penulisan Singkat (Definit)",
 			ErrorExplanation = "[Buatan] Kata yang digunakan merupakan bentuk penulisan singkat(an) yang tidak baku - biasa hanya dipakai dalam bentuk percakapan tertulis",
-			AppearOnVersion = "1.1.0.0", // Ini seharusnya otomatis dibuat ketika aplikasi terdeploy
+			AppearOnVersion = "1.1.0.0",
 			IsCustom = true
 		};
 
@@ -34,7 +34,7 @@ namespace SipebiMini {
 			ErrorCode = "[Buatan-KPS-A]",
 			Error = "[Buatan] Kesalahan Penulisan Singkat (Ambigu)",
 			ErrorExplanation = "[Buatan] Kata yang digunakan mungkin merupakan bentuk penulisan singkat(an) yang tidak baku - biasa hanya dipakai dalam bentuk percakapan tertulis",
-			AppearOnVersion = "1.1.0.0", // Ini seharusnya otomatis dibuat ketika aplikasi terdeploy
+			AppearOnVersion = "1.1.0.0",
 			IsCustom = true
 		};
 
