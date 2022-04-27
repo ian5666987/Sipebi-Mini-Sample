@@ -3,23 +3,22 @@ using System.Threading;
 
 namespace SipebiMini {
 	public class FileHelper {
+		// Fungsi untuk mengecek apakah file telah dihapus dari sistem
 		public static bool PastikanTerhapus(string namaFail)  {
 			int counter = 0;
 			int counterMaksimum = 50;
-
-			//Hapus fail jika ada
 			if (File.Exists(namaFail)) {
 				File.Delete(namaFail);
 				while (File.Exists(namaFail) && counter <= counterMaksimum) {
-					Thread.Sleep(100); //tunggu hingga fail selesai dihapus dengan sempurna
+					Thread.Sleep(100);
 					counter++;
 				}
 			}
 			return counter <= counterMaksimum;
 		}
 
+		// Fungsi untuk mengecek apakah file telah dibuat oleh sistem
 		public static bool PastikanTerbuat(string namaFail) {
-			//Pastikan fail telah dibuat dengan sempurna
 			FileInfo informasiFail = new FileInfo(namaFail);
 			int counter = 0;
 			int counterMaksimum = 50;
@@ -30,24 +29,19 @@ namespace SipebiMini {
 			return counter <= counterMaksimum;
 		}
 
-		//Didapat dari: https://stackoverflow.com/questions/10982104/wait-until-file-is-completely-written
+		/* Mengecek apakah file tidak dikunci oleh sistem atau suatu proses
+		 * Didapat dari: https://stackoverflow.com/questions/10982104/wait-until-file-is-completely-written
+		 */
 		private static bool isFileLocked(FileInfo file) {
 			FileStream stream = null;
-
 			try {
 				stream = file.Open(FileMode.Open, FileAccess.ReadWrite, FileShare.None);
 			} catch (IOException) {
-				//the file is unavailable because it is:
-				//still being written to
-				//or being processed by another thread
-				//or does not exist (has already been processed)
 				return true;
 			} finally {
 				if (stream != null)
 					stream.Close();
 			}
-
-			//file is not locked
 			return false;
 		}
 	}
