@@ -10,6 +10,7 @@ using IronPython;
 using IronPython.Hosting;
 using IronPython.Runtime;
 using Microsoft.Scripting.Hosting;
+using SipebiMini.Core;
 
 namespace SipebiMini {
 	//Contoh penggunaan IronPython didapat dari:
@@ -95,24 +96,94 @@ namespace SipebiMini {
 			}
 		}
 
-		private static void jalankanSkripDiagnosis(string script) {
+		private static Dictionary<string, ScriptSource> pySources = new Dictionary<string, ScriptSource>();
+		private static Dictionary<string, ScriptScope> pyScopes = new Dictionary<string, ScriptScope>();
+		private static Dictionary<string, dynamic> pyClasses = new Dictionary<string, dynamic>();
+		private static Dictionary<string, dynamic> pyInstances = new Dictionary<string, dynamic>();
+		private static List<SipebiDiagnosticsError> jalankanSkripDiagnosis(string teksAsal, string namaFailSkrip, string namaKelasPython) {
+			List<SipebiDiagnosticsError> daftarKesalahanTambahan = new List<SipebiDiagnosticsError>();
 
+			//Proses menjalankan skrip di sini
+			string scriptPath = Path.Combine(baseDir, namaFailSkrip);
+
+			//Jika skrip tidak ditemukan, diagnosis tidak perlu dijalankan
+			if (!File.Exists(scriptPath)) return daftarKesalahanTambahan;
+
+			//Ambil isi, sumber, dan cakupan skrip
+			string skrip = File.ReadAllText(scriptPath);
+			if (!pySources.ContainsKey(namaFailSkrip))
+				pySources.Add(namaFailSkrip, pythonEngine.CreateScriptSourceFromString(skrip));
+			ScriptSource pySource = pySources[namaFailSkrip];
+			if (!pyScopes.ContainsKey(namaFailSkrip))
+				pyScopes.Add(namaFailSkrip, pythonEngine.CreateScope());
+			ScriptScope pyScope = pyScopes[namaFailSkrip];
+			pySource.Execute(pyScope);
+			if (!pyClasses.ContainsKey(namaFailSkrip))
+				pyClasses.Add(namaFailSkrip, pyScope.GetVariable(namaKelasPython));			
+			dynamic pyClass = pyClasses[namaFailSkrip];
+			if (!pyInstances.ContainsKey(namaFailSkrip)) 
+				pyInstances.Add(namaFailSkrip, pythonEngine.Operations.CreateInstance(pyClass));
+			dynamic pyInstance = pyInstances[namaFailSkrip];
+
+			//Jalankan skrip dengan input teks asal
+			pyInstance.execute(teksAsal);
+
+			//Dapatkan hasil diagnosis skrip ini
+			PythonList diagList = pyInstance.diagList;
+			foreach (dynamic diagItem in diagList) {
+				SipebiDiagnosticsError kesalahan = new SipebiDiagnosticsError();
+				kesalahan.CorrectedCharPosition = diagItem.CorrectedCharPosition;
+				kesalahan.CorrectedElement = diagItem.CorrectedElement;
+				kesalahan.ElementNo = diagItem.ElementNo;
+				kesalahan.ErrorCode = diagItem.ErrorCode;
+				kesalahan.IsAmbiguous = diagItem.IsAmbiguous;
+				kesalahan.OriginalElement = diagItem.OriginalElement;
+				kesalahan.OriginalParagraphOffset = diagItem.OriginalParagraphOffset;
+				kesalahan.ParagraphNo = diagItem.ParagraphNo;
+				kesalahan.PositionOffset = diagItem.PositionOffset;
+				daftarKesalahanTambahan.Add(kesalahan);
+			}
+
+			//Kembalikan hasil daftar kesalahan tambahan
+			return daftarKesalahanTambahan;
 		}
 
-		public static void JalankanDiagnosis() {
-			if (pythonEngine == null) return;
+		public static List<SipebiDiagnosticsError> JalankanDiagnosis(string teksAsal, SipebiMiniDiagnosticsReport laporan) {
+			List<SipebiDiagnosticsError> daftarKesalahanTambahan = new List<SipebiDiagnosticsError>();
+			if (pythonEngine == null) return daftarKesalahanTambahan;
 			string currentDiagnosticsScript = string.Empty;
 			try {
-				foreach (var script in pyDiagnosticsScripts) {
-					//Dapatkan skrip diagnosis yang akan digunakan satu per satu
-					currentDiagnosticsScript = script;
+				foreach (var skripDiagnosis in pyDiagnosticsScripts) {
+					//Siapkan daftar baru khusus untuk kesalahan yang ditemukan oleh skrip ini
+					List<SipebiDiagnosticsError> daftarKesalahanSkripIni = new List<SipebiDiagnosticsError>();
+
+					//Dapatkan skrip diagnosis dan nama kelas Python yang akan digunakan satu per satu
+					currentDiagnosticsScript = skripDiagnosis;
+
+					//Format skrip diagnosis: namaFailSkrip-namaKelasPython atau namaFailSkrip
+					string namaFailSkrip = skripDiagnosis;
+					string namaKelasPython = Path.GetFileNameWithoutExtension(skripDiagnosis);
+					if (skripDiagnosis.Contains("-")) {
+						List<string> bagianSkripDiagnosis = skripDiagnosis
+							.Split('-').Where(x => !string.IsNullOrWhiteSpace(x))
+							.Select(x => x.Trim()).ToList();
+						//Bagian skrip diagnosis yang mengandung "-" harus tepat terdiri dari dua bagian
+						if (bagianSkripDiagnosis.Count == 2) {
+							namaFailSkrip = bagianSkripDiagnosis[0];
+							namaKelasPython = bagianSkripDiagnosis[1];
+						}
+					}
 
 					//Jalankan skrip diagnosis
-					jalankanSkripDiagnosis(script);
+					daftarKesalahanSkripIni = jalankanSkripDiagnosis(teksAsal, namaFailSkrip, namaKelasPython);
+
+					//Tambahkan hasil diagnosis skrip ini ke daftar kesalahan tambahan
+					daftarKesalahanTambahan.AddRange(daftarKesalahanSkripIni);
 				}
 			} catch (Exception ex) {
 				throw new Exception($"Diagnosis [{currentDiagnosticsScript}] gagal: {ex}");
 			}
+			return daftarKesalahanTambahan;
 		}
 
 		#region Sampel
@@ -201,11 +272,13 @@ namespace SipebiMini {
 			sb.AppendLine("\t\thasilDiagnosis.ErrorCode = '[Kode Contoh A]'");
 			sb.AppendLine("\t\thasilDiagnosis.OriginalElement = 'contoh-' + str(self.varNo)");
 			sb.AppendLine("\t\thasilDiagnosis.CorrectedElement = 'contoh-' + str(self.varNo) + 'A'");
+			sb.AppendLine("\t\thasilDiagnosis.IsAmbiguous = True");
 			sb.AppendLine("\t\tself.diagList.append(hasilDiagnosis)");
 			sb.AppendLine("\t\thasilDiagnosis = PySipebiDiagnosticsError()");
 			sb.AppendLine("\t\thasilDiagnosis.ErrorCode = '[Kode Contoh B]'");
 			sb.AppendLine("\t\thasilDiagnosis.OriginalElement = 'contoh-'+ str(self.varNo)");
 			sb.AppendLine("\t\thasilDiagnosis.CorrectedElement = 'contoh-' + str(self.varNo) + 'B'");
+			sb.AppendLine("\t\thasilDiagnosis.IsAmbiguous = True");
 			sb.AppendLine("\t\tself.diagList.append(hasilDiagnosis)");
 			sb.AppendLine("\t\tif len(self.diagList) > 10:");
 			sb.AppendLine("\t\t\tself.diagList.pop(1)");

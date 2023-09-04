@@ -18,6 +18,7 @@ namespace SipebiMini {
 		const string formatPesanMuatContoh = "Contoh {0} dimuat!";
 		const string formatPesanPenyuntinganAsal = "Penyuntingan dengan cara asal Sipebi {0}!";
 		const string formatPesanPenyuntinganBuatan = "Penyuntingan dengan cara buatan Sipebi {0}!";
+		const string formatPesanPenyuntinganPython = "Penyuntingan dengan skrip Python Sipebi {0}!";
 
 		private void buttonMuatContoh_Click(object sender, EventArgs e) {
 			prosedurUmum(formatPesanMuatContoh, () => {
@@ -54,6 +55,7 @@ namespace SipebiMini {
 		private void prosedurUmumPenyuntingan(string formatPesan,
 			Func<string, Tuple<SipebiMiniDiagnosticsReport, string>> fungsiPenyuntingan) {
 			string teksAsal = richTextBoxTeksMasukan.Text;
+			if (string.IsNullOrWhiteSpace(teksAsal)) return;
 			prosedurUmum(formatPesan, () => {
 				waktuMulai = DateTime.Now;
 				Tuple<SipebiMiniDiagnosticsReport, string> hasil = fungsiPenyuntingan(teksAsal);
@@ -91,7 +93,7 @@ namespace SipebiMini {
 		}
 
 		private void buttonSuntingPython_Click(object sender, EventArgs e) {
-
+			prosedurUmumPenyuntingan(formatPesanPenyuntinganPython, state.SuntingPython);
 		}
 
 		private string dapatkanPesanJumlahKesalahanTerdeteksi(Tuple<SipebiMiniDiagnosticsReport, string> hasil,

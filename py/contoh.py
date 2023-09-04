@@ -14,11 +14,13 @@ class PySampleClass:
 		hasilDiagnosis.ErrorCode = '[Kode Contoh A]'
 		hasilDiagnosis.OriginalElement = 'contoh-' + str(self.varNo)
 		hasilDiagnosis.CorrectedElement = 'contoh-' + str(self.varNo) + 'A'
+		hasilDiagnosis.IsAmbiguous = True
 		self.diagList.append(hasilDiagnosis)
 		hasilDiagnosis = PySipebiDiagnosticsError()
 		hasilDiagnosis.ErrorCode = '[Kode Contoh B]'
 		hasilDiagnosis.OriginalElement = 'contoh-'+ str(self.varNo)
 		hasilDiagnosis.CorrectedElement = 'contoh-' + str(self.varNo) + 'B'
+		hasilDiagnosis.IsAmbiguous = True
 		self.diagList.append(hasilDiagnosis)
 		if len(self.diagList) > 10:
 			self.diagList.pop(1)
