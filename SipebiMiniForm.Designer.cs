@@ -26,10 +26,13 @@
 			this.splitContainerMain = new System.Windows.Forms.SplitContainer();
 			this.groupBoxActions = new System.Windows.Forms.GroupBox();
 			this.flowLayoutPanelActions = new System.Windows.Forms.FlowLayoutPanel();
+			this.labelJudulContoh = new System.Windows.Forms.Label();
+			this.textBoxJudulContoh = new System.Windows.Forms.TextBox();
 			this.buttonMuatContoh = new System.Windows.Forms.Button();
 			this.buttonSuntingAsal = new System.Windows.Forms.Button();
 			this.buttonSuntingBuatan = new System.Windows.Forms.Button();
 			this.buttonUjiCobaPython = new System.Windows.Forms.Button();
+			this.buttonSuntingPython = new System.Windows.Forms.Button();
 			this.splitContainerContent = new System.Windows.Forms.SplitContainer();
 			this.splitContainerInputOutput = new System.Windows.Forms.SplitContainer();
 			this.groupBoxTeksMasukan = new System.Windows.Forms.GroupBox();
@@ -46,7 +49,6 @@
 			this.ColumnAsli = new System.Windows.Forms.DataGridViewTextBoxColumn();
 			this.ColumnPerbaikan = new System.Windows.Forms.DataGridViewTextBoxColumn();
 			this.ColumnPenjelasan = new System.Windows.Forms.DataGridViewTextBoxColumn();
-			this.buttonSuntingPython = new System.Windows.Forms.Button();
 			((System.ComponentModel.ISupportInitialize)(this.splitContainerMain)).BeginInit();
 			this.splitContainerMain.Panel1.SuspendLayout();
 			this.splitContainerMain.Panel2.SuspendLayout();
@@ -100,56 +102,87 @@
 			// 
 			// flowLayoutPanelActions
 			// 
+			this.flowLayoutPanelActions.Controls.Add(this.labelJudulContoh);
+			this.flowLayoutPanelActions.Controls.Add(this.textBoxJudulContoh);
 			this.flowLayoutPanelActions.Controls.Add(this.buttonMuatContoh);
 			this.flowLayoutPanelActions.Controls.Add(this.buttonSuntingAsal);
 			this.flowLayoutPanelActions.Controls.Add(this.buttonSuntingBuatan);
 			this.flowLayoutPanelActions.Controls.Add(this.buttonUjiCobaPython);
 			this.flowLayoutPanelActions.Controls.Add(this.buttonSuntingPython);
 			this.flowLayoutPanelActions.Dock = System.Windows.Forms.DockStyle.Fill;
+			this.flowLayoutPanelActions.FlowDirection = System.Windows.Forms.FlowDirection.TopDown;
 			this.flowLayoutPanelActions.Location = new System.Drawing.Point(3, 22);
 			this.flowLayoutPanelActions.Name = "flowLayoutPanelActions";
 			this.flowLayoutPanelActions.Size = new System.Drawing.Size(124, 576);
 			this.flowLayoutPanelActions.TabIndex = 0;
 			// 
+			// labelJudulContoh
+			// 
+			this.labelJudulContoh.AutoSize = true;
+			this.labelJudulContoh.Location = new System.Drawing.Point(3, 0);
+			this.labelJudulContoh.Name = "labelJudulContoh";
+			this.labelJudulContoh.Size = new System.Drawing.Size(107, 20);
+			this.labelJudulContoh.TabIndex = 5;
+			this.labelJudulContoh.Text = "Judul Contoh";
+			// 
+			// textBoxJudulContoh
+			// 
+			this.textBoxJudulContoh.BackColor = System.Drawing.SystemColors.Info;
+			this.textBoxJudulContoh.Location = new System.Drawing.Point(3, 23);
+			this.textBoxJudulContoh.Name = "textBoxJudulContoh";
+			this.textBoxJudulContoh.Size = new System.Drawing.Size(118, 26);
+			this.textBoxJudulContoh.TabIndex = 0;
+			this.textBoxJudulContoh.Text = "contoh-teks.txt";
+			// 
 			// buttonMuatContoh
 			// 
-			this.buttonMuatContoh.Location = new System.Drawing.Point(3, 3);
+			this.buttonMuatContoh.Location = new System.Drawing.Point(3, 55);
 			this.buttonMuatContoh.Name = "buttonMuatContoh";
 			this.buttonMuatContoh.Size = new System.Drawing.Size(118, 25);
-			this.buttonMuatContoh.TabIndex = 0;
+			this.buttonMuatContoh.TabIndex = 1;
 			this.buttonMuatContoh.Text = "Muat Contoh";
 			this.buttonMuatContoh.UseVisualStyleBackColor = true;
 			this.buttonMuatContoh.Click += new System.EventHandler(this.buttonMuatContoh_Click);
 			// 
 			// buttonSuntingAsal
 			// 
-			this.buttonSuntingAsal.Location = new System.Drawing.Point(3, 34);
+			this.buttonSuntingAsal.Location = new System.Drawing.Point(3, 86);
 			this.buttonSuntingAsal.Name = "buttonSuntingAsal";
 			this.buttonSuntingAsal.Size = new System.Drawing.Size(118, 25);
-			this.buttonSuntingAsal.TabIndex = 1;
+			this.buttonSuntingAsal.TabIndex = 2;
 			this.buttonSuntingAsal.Text = "Sunting (Asal)";
 			this.buttonSuntingAsal.UseVisualStyleBackColor = true;
 			this.buttonSuntingAsal.Click += new System.EventHandler(this.buttonSuntingAsal_Click);
 			// 
 			// buttonSuntingBuatan
 			// 
-			this.buttonSuntingBuatan.Location = new System.Drawing.Point(3, 65);
+			this.buttonSuntingBuatan.Location = new System.Drawing.Point(3, 117);
 			this.buttonSuntingBuatan.Name = "buttonSuntingBuatan";
 			this.buttonSuntingBuatan.Size = new System.Drawing.Size(118, 25);
-			this.buttonSuntingBuatan.TabIndex = 2;
+			this.buttonSuntingBuatan.TabIndex = 3;
 			this.buttonSuntingBuatan.Text = "Sunting (Buatan)";
 			this.buttonSuntingBuatan.UseVisualStyleBackColor = true;
 			this.buttonSuntingBuatan.Click += new System.EventHandler(this.buttonSuntingBuatan_Click);
 			// 
 			// buttonUjiCobaPython
 			// 
-			this.buttonUjiCobaPython.Location = new System.Drawing.Point(3, 96);
+			this.buttonUjiCobaPython.Location = new System.Drawing.Point(3, 148);
 			this.buttonUjiCobaPython.Name = "buttonUjiCobaPython";
 			this.buttonUjiCobaPython.Size = new System.Drawing.Size(118, 25);
-			this.buttonUjiCobaPython.TabIndex = 3;
+			this.buttonUjiCobaPython.TabIndex = 4;
 			this.buttonUjiCobaPython.Text = "Uji Coba Python";
 			this.buttonUjiCobaPython.UseVisualStyleBackColor = true;
 			this.buttonUjiCobaPython.Click += new System.EventHandler(this.buttonUjiCobaPython_Click);
+			// 
+			// buttonSuntingPython
+			// 
+			this.buttonSuntingPython.Location = new System.Drawing.Point(3, 179);
+			this.buttonSuntingPython.Name = "buttonSuntingPython";
+			this.buttonSuntingPython.Size = new System.Drawing.Size(118, 25);
+			this.buttonSuntingPython.TabIndex = 5;
+			this.buttonSuntingPython.Text = "Sunting (Python)";
+			this.buttonSuntingPython.UseVisualStyleBackColor = true;
+			this.buttonSuntingPython.Click += new System.EventHandler(this.buttonSuntingPython_Click);
 			// 
 			// splitContainerContent
 			// 
@@ -314,16 +347,6 @@
 			this.ColumnPenjelasan.Name = "ColumnPenjelasan";
 			this.ColumnPenjelasan.Width = 300;
 			// 
-			// buttonSuntingPython
-			// 
-			this.buttonSuntingPython.Location = new System.Drawing.Point(3, 127);
-			this.buttonSuntingPython.Name = "buttonSuntingPython";
-			this.buttonSuntingPython.Size = new System.Drawing.Size(118, 25);
-			this.buttonSuntingPython.TabIndex = 4;
-			this.buttonSuntingPython.Text = "Sunting (Python)";
-			this.buttonSuntingPython.UseVisualStyleBackColor = true;
-			this.buttonSuntingPython.Click += new System.EventHandler(this.buttonSuntingPython_Click);
-			// 
 			// SampleForm
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
@@ -340,6 +363,7 @@
 			this.splitContainerMain.ResumeLayout(false);
 			this.groupBoxActions.ResumeLayout(false);
 			this.flowLayoutPanelActions.ResumeLayout(false);
+			this.flowLayoutPanelActions.PerformLayout();
 			this.splitContainerContent.Panel1.ResumeLayout(false);
 			this.splitContainerContent.Panel2.ResumeLayout(false);
 			((System.ComponentModel.ISupportInitialize)(this.splitContainerContent)).EndInit();
@@ -382,6 +406,8 @@
 		private System.Windows.Forms.DataGridViewTextBoxColumn ColumnPenjelasan;
 		private System.Windows.Forms.Button buttonUjiCobaPython;
 		private System.Windows.Forms.Button buttonSuntingPython;
+		private System.Windows.Forms.Label labelJudulContoh;
+		private System.Windows.Forms.TextBox textBoxJudulContoh;
 	}
 }
 
