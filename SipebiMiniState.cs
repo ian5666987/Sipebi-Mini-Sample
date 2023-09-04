@@ -17,56 +17,39 @@ namespace SipebiMini {
 		public const string JudulTambahanDataBuatan = "tambahan-data-buatan.txt"; //tambahan data untuk proses penyuntingan buatan
 		public const string JudulLaporanAnalisisBawaan = "laporan-diagnosis.xml"; //Jangan diganti
 		public const string JudulDaftarDiagnosisBawaan = "daftar-diagnosis.xml"; //Jangan diganti
+		public const string JudulDaftarDiagnosisTambahan = "daftar-diagnosis-tambahan.xml"; //Jangan diganti
 		public const string NamaProsesAnalisis = "SipebiMini.Analyser.exe"; //Jangan diganti
 		public const string NamaProsesPenyuntingan = "SipebiMini.Editor.exe"; //Jangan diganti
 
 		public Dictionary<string, SipebiDiagnosticsErrorInformation> InformasiKesalahan = 
 			new Dictionary<string, SipebiDiagnosticsErrorInformation>();
 
-		SipebiDiagnosticsErrorInformation kesalahanPenulisanSingkatDefinit = new SipebiDiagnosticsErrorInformation {
-			ErrorCode = "[Buatan-KPS-D]", 
-			Error = "[Buatan] Kesalahan Penulisan Singkat (Definit)",
-			ErrorExplanation = "[Buatan] Kata yang digunakan merupakan bentuk penulisan singkat(an) yang tidak baku - biasa hanya dipakai dalam bentuk percakapan tertulis",
-			AppearOnVersion = "1.1.0.0",
-			IsCustom = true
-		};
-
-		SipebiDiagnosticsErrorInformation kesalahanPenulisanSingkatAmbigu = new SipebiDiagnosticsErrorInformation {
-			ErrorCode = "[Buatan-KPS-A]",
-			Error = "[Buatan] Kesalahan Penulisan Singkat (Ambigu)",
-			ErrorExplanation = "[Buatan] Kata yang digunakan mungkin merupakan bentuk penulisan singkat(an) yang tidak baku - biasa hanya dipakai dalam bentuk percakapan tertulis",
-			AppearOnVersion = "1.1.0.0",
-			IsCustom = true
-		};
-
-		//Informasi kesalahan di bawah hanya digunakan sebagai contoh informasi kesalahan, tidak mengandung kemampuan perbaikan
-		SipebiDiagnosticsErrorInformation kesalahanContohPythonA = new SipebiDiagnosticsErrorInformation {
-			ErrorCode = "[Kode Contoh A]",
-			Error = "[Contoh] Contoh Kode Kesalahan A",
-			ErrorExplanation = "[Contoh] Contoh penjelasan kode kesalahan A",
-			AppearOnVersion = "1.2.0.0",
-			IsCustom = true
-		};
-
-		//Informasi kesalahan di bawah hanya digunakan sebagai contoh informasi kesalahan, tidak mengandung kemampuan perbaikan
-		SipebiDiagnosticsErrorInformation kesalahanContohPythonB = new SipebiDiagnosticsErrorInformation {
-			ErrorCode = "[Kode Contoh B]",
-			Error = "[Contoh] Contoh Kode Kesalahan B",
-			ErrorExplanation = "[Buatan] Contoh penjelasan kode kesalahan B",
-			AppearOnVersion = "1.2.0.0",
-			IsCustom = true
-		};
-
+		SipebiDiagnosticsErrorInformation kesalahanPenulisanSingkatDefinit;
+		SipebiDiagnosticsErrorInformation kesalahanPenulisanSingkatAmbigu;
 		Dictionary<string, List<string>> daftarKesalahanPenulisanSingkat = new Dictionary<string, List<string>>();
 
 		public void Inisiasi() {
 			XmlSerializer serializer = new XmlSerializer(typeof(List<SipebiDiagnosticsErrorInformation>));
 			List<SipebiDiagnosticsErrorInformation> daftarDiagnosis = new List<SipebiDiagnosticsErrorInformation>();
+
+			//Penambahan daftar diagnosis bawaan
+			InformasiKesalahan.Clear();
 			using (FileStream fileStream = new FileStream(JudulDaftarDiagnosisBawaan, FileMode.Open))
 				daftarDiagnosis = (List<SipebiDiagnosticsErrorInformation>)serializer.Deserialize(fileStream);
-			InformasiKesalahan.Clear();
 			foreach (var info in daftarDiagnosis)
 				InformasiKesalahan.Add(info.ErrorCode, info);
+
+			//Penambahan daftar diagnosis tambahan
+			if (File.Exists(JudulDaftarDiagnosisTambahan)) {
+				using (FileStream fileStream = new FileStream(JudulDaftarDiagnosisTambahan, FileMode.Open))
+					daftarDiagnosis = (List<SipebiDiagnosticsErrorInformation>)serializer.Deserialize(fileStream);
+				foreach (var info in daftarDiagnosis)
+					InformasiKesalahan.Add(info.ErrorCode, info);
+			}
+
+			//Dapatkan informasi kesalahan suntingan buatan
+			kesalahanPenulisanSingkatDefinit = InformasiKesalahan["[Buatan-KPS-D]"];
+			kesalahanPenulisanSingkatAmbigu = InformasiKesalahan["[Buatan-KPS-A]"];
 
 			//Tambahkan proses inisiasi lain untuk proses penyuntingan buatan			
 			try { //Muat fail tambahan untuk proses penyuntingan buatan
@@ -79,14 +62,6 @@ namespace SipebiMini {
 			} catch (Exception exc){
 				throw new Exception($"Terjadi kesalahan pada proses inisiasi data buatan: {exc}");
 			}
-
-			//Tambahkan informasi kesalahan baru (untuk proses penyuntingan buatan)
-			InformasiKesalahan.Add(kesalahanPenulisanSingkatDefinit.ErrorCode, kesalahanPenulisanSingkatDefinit);
-			InformasiKesalahan.Add(kesalahanPenulisanSingkatAmbigu.ErrorCode, kesalahanPenulisanSingkatAmbigu);
-
-			//Tambahkan contoh informasi kesalahan (untuk contoh proses penyuntingan Python)
-			InformasiKesalahan.Add(kesalahanContohPythonA.ErrorCode, kesalahanContohPythonA);
-			InformasiKesalahan.Add(kesalahanContohPythonB.ErrorCode, kesalahanContohPythonB);
 		}
 
 		public string MuatContoh(string judulContohTeks = null) => 
