@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<ArrayOfSipebiDiagnosticsErrorInformation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<SipebiDiagnosticsErrorInformation>
+	  <ErrorCode>[Buatan-KPS-D]</ErrorCode>
+	  <Error>[Buatan] Kesalahan Penulisan Singkat (Definit)</Error>
+	  <ErrorExplanation>[Buatan] Kata yang digunakan merupakan bentuk penulisan singkat(an) yang tidak baku - biasa hanya dipakai dalam bentuk percakapan tertulis</ErrorExplanation>
+	  <AppearOnVersion>1.1.0.0</AppearOnVersion>
+	  <IsCustom>true</IsCustom>
+	</SipebiDiagnosticsErrorInformation>
+	<SipebiDiagnosticsErrorInformation>
+	  <ErrorCode>[Buatan-KPS-A]</ErrorCode>
+	  <Error>[Buatan] Kesalahan Penulisan Singkat (Ambigu)</Error>
+	  <ErrorExplanation>[Buatan] Kata yang digunakan mungkin merupakan bentuk penulisan singkat(an) yang tidak baku - biasa hanya dipakai dalam bentuk percakapan tertulis</ErrorExplanation>
+	  <AppearOnVersion>1.1.0.0</AppearOnVersion>
+	  <IsCustom>true</IsCustom>
+	</SipebiDiagnosticsErrorInformation>
+	<SipebiDiagnosticsErrorInformation>
+	  <ErrorCode>[Kode Contoh A]</ErrorCode>
+	  <Error>[Contoh] Contoh Kode Kesalahan A</Error>
+	  <ErrorExplanation>[Contoh] Contoh penjelasan kode kesalahan A</ErrorExplanation>
+	  <AppearOnVersion>1.2.0.0</AppearOnVersion>
+	  <IsCustom>true</IsCustom>
+	</SipebiDiagnosticsErrorInformation>
+	<SipebiDiagnosticsErrorInformation>
+	  <ErrorCode>[Kode Contoh B]</ErrorCode>
+	  <Error>[Contoh] Contoh Kode Kesalahan B</Error>
+	  <ErrorExplanation>[Contoh] Contoh penjelasan kode kesalahan B</ErrorExplanation>
+	  <AppearOnVersion>1.2.0.0</AppearOnVersion>
+	  <IsCustom>true</IsCustom>
+	</SipebiDiagnosticsErrorInformation>
+</ArrayOfSipebiDiagnosticsErrorInformation>
