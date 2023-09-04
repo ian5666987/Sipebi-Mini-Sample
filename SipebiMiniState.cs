@@ -12,12 +12,12 @@ namespace SipebiMini {
 	public class SipebiMiniState {
 		public const string JudulContohTeksBawaan = "contoh-teks.txt";
 		public const string JudulTeksAwalBawaan = "teks-awal.txt";
+		public const string JudulLaporanAnalisisBuatan = "laporan-diagnosis-buatan.xml";
+		public const string JudulTambahanDataBuatan = "tambahan-data-buatan.txt"; //tambahan data untuk proses penyuntingan buatan
 		public const string JudulLaporanAnalisisBawaan = "laporan-diagnosis.xml"; //Jangan diganti
 		public const string JudulDaftarDiagnosisBawaan = "daftar-diagnosis.xml"; //Jangan diganti
 		public const string NamaProsesAnalisis = "SipebiMini.Analyser.exe"; //Jangan diganti
 		public const string NamaProsesPenyuntingan = "SipebiMini.Editor.exe"; //Jangan diganti
-		public const string JudulLaporanAnalisisBuatan = "laporan-diagnosis-buatan.xml";
-		public const string JudulTambahanDataBuatan = "tambahan-data-buatan.txt"; //tambahan data untuk proses penyuntingan buatan
 
 		public Dictionary<string, SipebiDiagnosticsErrorInformation> InformasiKesalahan = 
 			new Dictionary<string, SipebiDiagnosticsErrorInformation>();
