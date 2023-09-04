@@ -89,7 +89,9 @@ namespace SipebiMini {
 			InformasiKesalahan.Add(kesalahanContohPythonB.ErrorCode, kesalahanContohPythonB);
 		}
 
-		public string MuatContoh() => File.ReadAllText(JudulContohTeksBawaan);		
+		public string MuatContoh(string judulContohTeks = null) => 
+			File.ReadAllText(string.IsNullOrWhiteSpace(judulContohTeks) || !File.Exists(judulContohTeks) ? 
+				JudulContohTeksBawaan : judulContohTeks);		
 		
 		public Tuple<SipebiMiniDiagnosticsReport, string> SuntingAsal(string teksAwal) {
 			SipebiMiniDiagnosticsReport laporan = analisis(teksAwal);

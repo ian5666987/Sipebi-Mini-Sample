@@ -21,8 +21,9 @@ namespace SipebiMini {
 		const string formatPesanPenyuntinganPython = "Penyuntingan dengan skrip Python Sipebi {0}!";
 
 		private void buttonMuatContoh_Click(object sender, EventArgs e) {
+			string judulContoh = textBoxJudulContoh.Text;
 			prosedurUmum(formatPesanMuatContoh, () => {
-				richTextBoxTeksMasukan.Text = state.MuatContoh();
+				richTextBoxTeksMasukan.Text = state.MuatContoh(judulContohTeks: judulContoh);
 			});
 		}
 
