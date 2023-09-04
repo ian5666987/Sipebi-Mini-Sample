@@ -29,6 +29,7 @@
 			this.buttonMuatContoh = new System.Windows.Forms.Button();
 			this.buttonSuntingAsal = new System.Windows.Forms.Button();
 			this.buttonSuntingBuatan = new System.Windows.Forms.Button();
+			this.buttonUjiCobaPython = new System.Windows.Forms.Button();
 			this.splitContainerContent = new System.Windows.Forms.SplitContainer();
 			this.splitContainerInputOutput = new System.Windows.Forms.SplitContainer();
 			this.groupBoxTeksMasukan = new System.Windows.Forms.GroupBox();
@@ -45,6 +46,7 @@
 			this.ColumnAsli = new System.Windows.Forms.DataGridViewTextBoxColumn();
 			this.ColumnPerbaikan = new System.Windows.Forms.DataGridViewTextBoxColumn();
 			this.ColumnPenjelasan = new System.Windows.Forms.DataGridViewTextBoxColumn();
+			this.buttonSuntingPython = new System.Windows.Forms.Button();
 			((System.ComponentModel.ISupportInitialize)(this.splitContainerMain)).BeginInit();
 			this.splitContainerMain.Panel1.SuspendLayout();
 			this.splitContainerMain.Panel2.SuspendLayout();
@@ -101,10 +103,12 @@
 			this.flowLayoutPanelActions.Controls.Add(this.buttonMuatContoh);
 			this.flowLayoutPanelActions.Controls.Add(this.buttonSuntingAsal);
 			this.flowLayoutPanelActions.Controls.Add(this.buttonSuntingBuatan);
+			this.flowLayoutPanelActions.Controls.Add(this.buttonUjiCobaPython);
+			this.flowLayoutPanelActions.Controls.Add(this.buttonSuntingPython);
 			this.flowLayoutPanelActions.Dock = System.Windows.Forms.DockStyle.Fill;
-			this.flowLayoutPanelActions.Location = new System.Drawing.Point(3, 18);
+			this.flowLayoutPanelActions.Location = new System.Drawing.Point(3, 22);
 			this.flowLayoutPanelActions.Name = "flowLayoutPanelActions";
-			this.flowLayoutPanelActions.Size = new System.Drawing.Size(124, 580);
+			this.flowLayoutPanelActions.Size = new System.Drawing.Size(124, 576);
 			this.flowLayoutPanelActions.TabIndex = 0;
 			// 
 			// buttonMuatContoh
@@ -136,6 +140,16 @@
 			this.buttonSuntingBuatan.Text = "Sunting (Buatan)";
 			this.buttonSuntingBuatan.UseVisualStyleBackColor = true;
 			this.buttonSuntingBuatan.Click += new System.EventHandler(this.buttonSuntingBuatan_Click);
+			// 
+			// buttonUjiCobaPython
+			// 
+			this.buttonUjiCobaPython.Location = new System.Drawing.Point(3, 96);
+			this.buttonUjiCobaPython.Name = "buttonUjiCobaPython";
+			this.buttonUjiCobaPython.Size = new System.Drawing.Size(118, 25);
+			this.buttonUjiCobaPython.TabIndex = 3;
+			this.buttonUjiCobaPython.Text = "Uji Coba Python";
+			this.buttonUjiCobaPython.UseVisualStyleBackColor = true;
+			this.buttonUjiCobaPython.Click += new System.EventHandler(this.buttonUjiCobaPython_Click);
 			// 
 			// splitContainerContent
 			// 
@@ -188,9 +202,9 @@
 			// richTextBoxTeksMasukan
 			// 
 			this.richTextBoxTeksMasukan.Dock = System.Windows.Forms.DockStyle.Fill;
-			this.richTextBoxTeksMasukan.Location = new System.Drawing.Point(3, 18);
+			this.richTextBoxTeksMasukan.Location = new System.Drawing.Point(3, 22);
 			this.richTextBoxTeksMasukan.Name = "richTextBoxTeksMasukan";
-			this.richTextBoxTeksMasukan.Size = new System.Drawing.Size(440, 267);
+			this.richTextBoxTeksMasukan.Size = new System.Drawing.Size(440, 263);
 			this.richTextBoxTeksMasukan.TabIndex = 10;
 			this.richTextBoxTeksMasukan.Text = "";
 			// 
@@ -208,9 +222,9 @@
 			// richTextBoxTeksSuntingan
 			// 
 			this.richTextBoxTeksSuntingan.Dock = System.Windows.Forms.DockStyle.Fill;
-			this.richTextBoxTeksSuntingan.Location = new System.Drawing.Point(3, 18);
+			this.richTextBoxTeksSuntingan.Location = new System.Drawing.Point(3, 22);
 			this.richTextBoxTeksSuntingan.Name = "richTextBoxTeksSuntingan";
-			this.richTextBoxTeksSuntingan.Size = new System.Drawing.Size(474, 267);
+			this.richTextBoxTeksSuntingan.Size = new System.Drawing.Size(474, 263);
 			this.richTextBoxTeksSuntingan.TabIndex = 11;
 			this.richTextBoxTeksSuntingan.Text = "";
 			// 
@@ -238,58 +252,81 @@
             this.ColumnPerbaikan,
             this.ColumnPenjelasan});
 			this.dataGridViewHasilAnalisis.Dock = System.Windows.Forms.DockStyle.Fill;
-			this.dataGridViewHasilAnalisis.Location = new System.Drawing.Point(3, 18);
+			this.dataGridViewHasilAnalisis.Location = new System.Drawing.Point(3, 22);
 			this.dataGridViewHasilAnalisis.Name = "dataGridViewHasilAnalisis";
-			this.dataGridViewHasilAnalisis.Size = new System.Drawing.Size(924, 288);
+			this.dataGridViewHasilAnalisis.RowHeadersWidth = 51;
+			this.dataGridViewHasilAnalisis.Size = new System.Drawing.Size(924, 284);
 			this.dataGridViewHasilAnalisis.TabIndex = 20;
 			// 
 			// ColumnNo
 			// 
 			this.ColumnNo.HeaderText = "No";
+			this.ColumnNo.MinimumWidth = 6;
 			this.ColumnNo.Name = "ColumnNo";
 			this.ColumnNo.Width = 50;
 			// 
 			// ColumnPara
 			// 
 			this.ColumnPara.HeaderText = "Para";
+			this.ColumnPara.MinimumWidth = 6;
 			this.ColumnPara.Name = "ColumnPara";
 			this.ColumnPara.Width = 50;
 			// 
 			// ColumnKe
 			// 
 			this.ColumnKe.HeaderText = "Ke";
+			this.ColumnKe.MinimumWidth = 6;
 			this.ColumnKe.Name = "ColumnKe";
 			this.ColumnKe.Width = 50;
 			// 
 			// ColumnKode
 			// 
 			this.ColumnKode.HeaderText = "Kode";
+			this.ColumnKode.MinimumWidth = 6;
 			this.ColumnKode.Name = "ColumnKode";
+			this.ColumnKode.Width = 125;
 			// 
 			// ColumnJenisKesalahan
 			// 
 			this.ColumnJenisKesalahan.HeaderText = "Jenis Kesalahan";
+			this.ColumnJenisKesalahan.MinimumWidth = 6;
 			this.ColumnJenisKesalahan.Name = "ColumnJenisKesalahan";
+			this.ColumnJenisKesalahan.Width = 125;
 			// 
 			// ColumnAsli
 			// 
 			this.ColumnAsli.HeaderText = "Asli";
+			this.ColumnAsli.MinimumWidth = 6;
 			this.ColumnAsli.Name = "ColumnAsli";
+			this.ColumnAsli.Width = 125;
 			// 
 			// ColumnPerbaikan
 			// 
 			this.ColumnPerbaikan.HeaderText = "Perbaikan";
+			this.ColumnPerbaikan.MinimumWidth = 6;
 			this.ColumnPerbaikan.Name = "ColumnPerbaikan";
+			this.ColumnPerbaikan.Width = 125;
 			// 
 			// ColumnPenjelasan
 			// 
 			this.ColumnPenjelasan.HeaderText = "Penjelasan";
+			this.ColumnPenjelasan.MinimumWidth = 6;
 			this.ColumnPenjelasan.Name = "ColumnPenjelasan";
 			this.ColumnPenjelasan.Width = 300;
 			// 
+			// buttonSuntingPython
+			// 
+			this.buttonSuntingPython.Location = new System.Drawing.Point(3, 127);
+			this.buttonSuntingPython.Name = "buttonSuntingPython";
+			this.buttonSuntingPython.Size = new System.Drawing.Size(118, 25);
+			this.buttonSuntingPython.TabIndex = 4;
+			this.buttonSuntingPython.Text = "Sunting (Python)";
+			this.buttonSuntingPython.UseVisualStyleBackColor = true;
+			this.buttonSuntingPython.Click += new System.EventHandler(this.buttonSuntingPython_Click);
+			// 
 			// SampleForm
 			// 
-			this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+			this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
 			this.ClientSize = new System.Drawing.Size(1064, 601);
 			this.Controls.Add(this.splitContainerMain);
@@ -343,6 +380,8 @@
 		private System.Windows.Forms.DataGridViewTextBoxColumn ColumnAsli;
 		private System.Windows.Forms.DataGridViewTextBoxColumn ColumnPerbaikan;
 		private System.Windows.Forms.DataGridViewTextBoxColumn ColumnPenjelasan;
+		private System.Windows.Forms.Button buttonUjiCobaPython;
+		private System.Windows.Forms.Button buttonSuntingPython;
 	}
 }
 

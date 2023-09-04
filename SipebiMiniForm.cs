@@ -3,6 +3,7 @@ using System;
 using System.Linq;
 using System.Reflection;
 using System.Windows.Forms;
+using py = SipebiMini.SipebiMiniPythonRunner;
 
 namespace SipebiMini {
 	public partial class SampleForm : Form {
@@ -10,6 +11,7 @@ namespace SipebiMini {
 			InitializeComponent();
 			Text += $" v{Assembly.GetExecutingAssembly().GetName().Version}";
 			state.Inisiasi();
+			py.Inisiasi();
 		}
 
 		SipebiMiniState state = new SipebiMiniState();
@@ -81,6 +83,15 @@ namespace SipebiMini {
 
 		private void aturKontrol(bool aktifkan) {
 			flowLayoutPanelActions.Enabled = aktifkan;
+		}
+
+		private void buttonUjiCobaPython_Click(object sender, EventArgs e) {
+			string result = SipebiMiniPythonRunner.JalankanSampel();
+			MessageBox.Show($"{result}", "Hasil Uji Coba", MessageBoxButtons.OK);
+		}
+
+		private void buttonSuntingPython_Click(object sender, EventArgs e) {
+
 		}
 
 		private string dapatkanPesanJumlahKesalahanTerdeteksi(Tuple<SipebiMiniDiagnosticsReport, string> hasil,
