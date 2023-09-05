@@ -21,13 +21,9 @@ namespace SipebiMini {
 		private const string NAMA_DIR_INTI = "core";
 		private const string NAMA_DIR_PAKET = "libs";
 		private const string NAMA_DIR_DATA = "data";
-		private const string NAMA_FAIL_CONTOH = "contoh.py";
+		private const string NAMA_FAIL_CONTOH = "contoh.py"; 
 		private const string NAMA_CONTOH_KELAS_PY = "PySampleClass";
-		private const string NAMA_FAIL_HASIL_DIAGNOSIS_PY = "PySipebiDiagnosticsError.py";
-		private const string NAMA_KELAS_HASIL_DIAGNOSIS_PY = "PySipebiDiagnosticsError";
 		private const string NAMA_KUNCI_DAFTAR_FAIL_DIAGNOSIS_PY = "PyDiagnosticsScripts";
-		private const bool BUAT_FAIL_SAMPEL = true;
-		private const bool GUNAKAN_FAIL_SAMPEL = true;
 
 		//Python Engine, daftar skrip diagnosis
 		private static ScriptEngine pythonEngine;
@@ -63,11 +59,6 @@ namespace SipebiMini {
 				Directory.CreateDirectory(packageDir);
 				Directory.CreateDirectory(dataDir);
 
-				//Pembuatan fail kelas hasil diagnosis, jika tidak ada
-				diagnosticErrorClassFilePath = Path.Combine(coreDir, NAMA_FAIL_HASIL_DIAGNOSIS_PY);
-				if (!File.Exists(diagnosticErrorClassFilePath))
-					buatFailKelasHasilDiagnosis();
-
 				//Penambahan search paths
 				List<string> searchPaths = new List<string>();
 				searchPaths.Add(baseDir);
@@ -82,14 +73,8 @@ namespace SipebiMini {
 						.Split(new string[] { "," }, StringSplitOptions.RemoveEmptyEntries)
 						.Select(x => x.Trim()).ToList();
 
-				//Pembuatan sampel
-				if (BUAT_FAIL_SAMPEL) {
-					sampleFilePath = Path.Combine(baseDir, NAMA_FAIL_CONTOH);
-					if (!File.Exists(sampleFilePath)) {
-						buatFailDenganSkripSampel();
-						return;
-					}
-				}  
+				//Dapatkan skrip sampel
+				sampleFilePath = Path.Combine(baseDir, NAMA_FAIL_CONTOH);
 				sampleScript = dapatkanSkripSampel();
 			} catch (Exception ex){
 				throw new Exception($"Gagal menginisiasi [{nameof(SipebiMiniPythonRunner)}]: {ex}");
@@ -124,6 +109,10 @@ namespace SipebiMini {
 			if (!pyInstances.ContainsKey(namaFailSkrip)) 
 				pyInstances.Add(namaFailSkrip, pythonEngine.Operations.CreateInstance(pyClass));
 			dynamic pyInstance = pyInstances[namaFailSkrip];
+
+			//Siapkan skrip hanya jika belum dipersiapkan sebelumnya
+			if (pyInstance.isReady == false)
+				pyInstance.setup();
 
 			//Jalankan skrip dengan input teks asal
 			pyInstance.execute(teksAsal);
@@ -190,7 +179,7 @@ namespace SipebiMini {
 		public static string JalankanSampel() {
 			if (pythonEngine == null) return "Tes gagal!";
 			if (string.IsNullOrWhiteSpace(sampleScript) ||
-				(GUNAKAN_FAIL_SAMPEL && (string.IsNullOrWhiteSpace(sampleFilePath) || !File.Exists(sampleFilePath))))
+				  string.IsNullOrWhiteSpace(sampleFilePath) || !File.Exists(sampleFilePath))
 				sampleScript = dapatkanSkripSampel();
 			if (sampleSource == null)
 				sampleSource = pythonEngine.CreateScriptSourceFromString(sampleScript);
@@ -201,6 +190,8 @@ namespace SipebiMini {
 				sampleClass = sampleScope.GetVariable(NAMA_CONTOH_KELAS_PY);
 			if (sampleInstance == null)
 				sampleInstance = pythonEngine.Operations.CreateInstance(sampleClass);
+			if (sampleInstance.isReady == false)
+				sampleInstance.setup();
 			sampleInstance.execute("teks awal");
 			StringBuilder sb = new StringBuilder();
 			sb.AppendLine($"varNo: {sampleInstance.varNo.ToString()}");
@@ -210,81 +201,7 @@ namespace SipebiMini {
 			return sb.ToString();
 		}
 
-		private static string dapatkanSkripSampel() => GUNAKAN_FAIL_SAMPEL ? 
-			File.ReadAllText(sampleFilePath) : buatSkripSampel();
-
-		private static void buatFailKelasHasilDiagnosis() {
-			File.WriteAllText(diagnosticErrorClassFilePath, buatSkripKelasHasilDiagnosis());
-			int maxCount = 1000;
-			int currentCount = 0;
-			while (!File.Exists(diagnosticErrorClassFilePath) && currentCount < maxCount) {
-				Thread.Sleep(1);
-				currentCount++;
-			}
-			if (!File.Exists(diagnosticErrorClassFilePath))
-				throw new Exception($"Gagal membuat [{NAMA_FAIL_HASIL_DIAGNOSIS_PY}]");
-		}
-
-		private static string buatSkripKelasHasilDiagnosis() {
-			StringBuilder sb = new StringBuilder();
-			sb.AppendLine($"class {NAMA_KELAS_HASIL_DIAGNOSIS_PY}:");
-			sb.AppendLine("\tErrorCode = '[Kode]'");
-			sb.AppendLine("\tParagraphNo = 0");
-			sb.AppendLine("\tElementNo = 0");
-			sb.AppendLine("\tOriginalElement = ''");
-			sb.AppendLine("\tCorrectedElement = ''");
-			sb.AppendLine("\tOriginalParagraphOffset = 0");
-			sb.AppendLine("\tPositionOffset = 0");
-			sb.AppendLine("\tCorrectedCharPosition = 0");
-			sb.AppendLine("\tIsAmbiguous = False");
-			sb.AppendLine("\tdef SimpleDisplay(self):");
-			sb.AppendLine("\t\treturn self.ErrorCode + ' ' + self.OriginalElement + ' -> ' + self.CorrectedElement");
-			return sb.ToString();
-		}
-
-		private static void buatFailDenganSkripSampel() {
-			File.WriteAllText(sampleFilePath, buatSkripSampel());
-			int maxCount = 1000;
-			int currentCount = 0;
-			while (!File.Exists(sampleFilePath) && currentCount < maxCount) {
-				Thread.Sleep(1);
-				currentCount++;
-			}
-			if (!File.Exists(sampleFilePath))
-				throw new Exception("Gagal membuat [contoh.py]");
-		}
-
-		private static string buatSkripSampel() {
-			StringBuilder sb = new StringBuilder();
-			sb.AppendLine($"#baris di bawah ini harus ada untuk mengimpor {NAMA_KELAS_HASIL_DIAGNOSIS_PY}");
-			sb.AppendLine($"from {NAMA_KELAS_HASIL_DIAGNOSIS_PY} import {NAMA_KELAS_HASIL_DIAGNOSIS_PY}");
-			sb.AppendLine($"class {NAMA_CONTOH_KELAS_PY}:");
-			sb.AppendLine("\tvarNo = 0 #contoh angka");
-			sb.AppendLine("\tvarStr = 'sample text' #contoh teks");
-			sb.AppendLine("\tdiagList = [] #daftar kesalahan, list ini harus ada");
-			sb.AppendLine("\tdef execute(self, text): #signature dari fungsi harus selalu seperti ini: def execute(self, text):");
-			sb.AppendLine("\t\tself.varNo = self.varNo + 1 #contoh penggunaan variabel");
-			sb.AppendLine("\t\tself.varStr = text #contoh penggunaan input/variabel");
-			sb.AppendLine("\t\t#---text dapat diproses di sini untuk mendapatkan hasil diagnosis---");
-			sb.AppendLine("\t\t#contoh penambahan hasil diagnosis dapat dilihat di bawah");
-			sb.AppendLine("\t\t#elemen PySipebiDiagnosticsError dalam contoh di bawah tidak lengkap, hanya diperuntukkan sebagai contoh, silakan dilengkapi");
-			sb.AppendLine("\t\thasilDiagnosis = PySipebiDiagnosticsError()");
-			sb.AppendLine("\t\thasilDiagnosis.ErrorCode = '[Kode Contoh A]'");
-			sb.AppendLine("\t\thasilDiagnosis.OriginalElement = 'contoh-' + str(self.varNo)");
-			sb.AppendLine("\t\thasilDiagnosis.CorrectedElement = 'contoh-' + str(self.varNo) + 'A'");
-			sb.AppendLine("\t\thasilDiagnosis.IsAmbiguous = True");
-			sb.AppendLine("\t\tself.diagList.append(hasilDiagnosis)");
-			sb.AppendLine("\t\thasilDiagnosis = PySipebiDiagnosticsError()");
-			sb.AppendLine("\t\thasilDiagnosis.ErrorCode = '[Kode Contoh B]'");
-			sb.AppendLine("\t\thasilDiagnosis.OriginalElement = 'contoh-'+ str(self.varNo)");
-			sb.AppendLine("\t\thasilDiagnosis.CorrectedElement = 'contoh-' + str(self.varNo) + 'B'");
-			sb.AppendLine("\t\thasilDiagnosis.IsAmbiguous = True");
-			sb.AppendLine("\t\tself.diagList.append(hasilDiagnosis)");
-			sb.AppendLine("\t\tif len(self.diagList) > 10:");
-			sb.AppendLine("\t\t\tself.diagList.pop(1)");
-			sb.AppendLine("\t\t\tself.diagList.pop(0)");
-			return sb.ToString();
-		}
+		private static string dapatkanSkripSampel() => File.ReadAllText(sampleFilePath);
 		#endregion Sampel
 	}
 }
