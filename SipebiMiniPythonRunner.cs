@@ -125,6 +125,10 @@ namespace SipebiMini {
 				pyInstances.Add(namaFailSkrip, pythonEngine.Operations.CreateInstance(pyClass));
 			dynamic pyInstance = pyInstances[namaFailSkrip];
 
+			//Siapkan skrip hanya jika belum dipersiapkan sebelumnya
+			if (pyInstance.isReady == false)
+				pyInstance.setup();
+
 			//Jalankan skrip dengan input teks asal
 			pyInstance.execute(teksAsal);
 
@@ -201,6 +205,8 @@ namespace SipebiMini {
 				sampleClass = sampleScope.GetVariable(NAMA_CONTOH_KELAS_PY);
 			if (sampleInstance == null)
 				sampleInstance = pythonEngine.Operations.CreateInstance(sampleClass);
+			if (sampleInstance.isReady == false)
+				sampleInstance.setup();
 			sampleInstance.execute("teks awal");
 			StringBuilder sb = new StringBuilder();
 			sb.AppendLine($"varNo: {sampleInstance.varNo.ToString()}");
