@@ -13,41 +13,43 @@ namespace SipebiMini {
 		public const string JudulContohTeksBawaan = "contoh-teks.txt";
 		public const string JudulTeksAwalBawaan = "teks-awal.txt";
 		public const string JudulLaporanAnalisisBuatan = "laporan-diagnosis-buatan.xml";
+		public const string JudulLaporanAnalisisPython = "laporan-diagnosis-python.xml";
 		public const string JudulTambahanDataBuatan = "tambahan-data-buatan.txt"; //tambahan data untuk proses penyuntingan buatan
 		public const string JudulLaporanAnalisisBawaan = "laporan-diagnosis.xml"; //Jangan diganti
 		public const string JudulDaftarDiagnosisBawaan = "daftar-diagnosis.xml"; //Jangan diganti
+		public const string JudulDaftarDiagnosisTambahan = "daftar-diagnosis-tambahan.xml"; //Jangan diganti
 		public const string NamaProsesAnalisis = "SipebiMini.Analyser.exe"; //Jangan diganti
 		public const string NamaProsesPenyuntingan = "SipebiMini.Editor.exe"; //Jangan diganti
 
 		public Dictionary<string, SipebiDiagnosticsErrorInformation> InformasiKesalahan = 
 			new Dictionary<string, SipebiDiagnosticsErrorInformation>();
 
-		SipebiDiagnosticsErrorInformation kesalahanPenulisanSingkatDefinit = new SipebiDiagnosticsErrorInformation {
-			ErrorCode = "[Buatan-KPS-D]", 
-			Error = "[Buatan] Kesalahan Penulisan Singkat (Definit)",
-			ErrorExplanation = "[Buatan] Kata yang digunakan merupakan bentuk penulisan singkat(an) yang tidak baku - biasa hanya dipakai dalam bentuk percakapan tertulis",
-			AppearOnVersion = "1.1.0.0",
-			IsCustom = true
-		};
-
-		SipebiDiagnosticsErrorInformation kesalahanPenulisanSingkatAmbigu = new SipebiDiagnosticsErrorInformation {
-			ErrorCode = "[Buatan-KPS-A]",
-			Error = "[Buatan] Kesalahan Penulisan Singkat (Ambigu)",
-			ErrorExplanation = "[Buatan] Kata yang digunakan mungkin merupakan bentuk penulisan singkat(an) yang tidak baku - biasa hanya dipakai dalam bentuk percakapan tertulis",
-			AppearOnVersion = "1.1.0.0",
-			IsCustom = true
-		};
-
+		SipebiDiagnosticsErrorInformation kesalahanPenulisanSingkatDefinit;
+		SipebiDiagnosticsErrorInformation kesalahanPenulisanSingkatAmbigu;
 		Dictionary<string, List<string>> daftarKesalahanPenulisanSingkat = new Dictionary<string, List<string>>();
 
 		public void Inisiasi() {
 			XmlSerializer serializer = new XmlSerializer(typeof(List<SipebiDiagnosticsErrorInformation>));
 			List<SipebiDiagnosticsErrorInformation> daftarDiagnosis = new List<SipebiDiagnosticsErrorInformation>();
+
+			//Penambahan daftar diagnosis bawaan
+			InformasiKesalahan.Clear();
 			using (FileStream fileStream = new FileStream(JudulDaftarDiagnosisBawaan, FileMode.Open))
 				daftarDiagnosis = (List<SipebiDiagnosticsErrorInformation>)serializer.Deserialize(fileStream);
-			InformasiKesalahan.Clear();
 			foreach (var info in daftarDiagnosis)
 				InformasiKesalahan.Add(info.ErrorCode, info);
+
+			//Penambahan daftar diagnosis tambahan
+			if (File.Exists(JudulDaftarDiagnosisTambahan)) {
+				using (FileStream fileStream = new FileStream(JudulDaftarDiagnosisTambahan, FileMode.Open))
+					daftarDiagnosis = (List<SipebiDiagnosticsErrorInformation>)serializer.Deserialize(fileStream);
+				foreach (var info in daftarDiagnosis)
+					InformasiKesalahan.Add(info.ErrorCode, info);
+			}
+
+			//Dapatkan informasi kesalahan suntingan buatan
+			kesalahanPenulisanSingkatDefinit = InformasiKesalahan["[Buatan-KPS-D]"];
+			kesalahanPenulisanSingkatAmbigu = InformasiKesalahan["[Buatan-KPS-A]"];
 
 			//Tambahkan proses inisiasi lain untuk proses penyuntingan buatan			
 			try { //Muat fail tambahan untuk proses penyuntingan buatan
@@ -60,13 +62,11 @@ namespace SipebiMini {
 			} catch (Exception exc){
 				throw new Exception($"Terjadi kesalahan pada proses inisiasi data buatan: {exc}");
 			}
-
-			//Tambahkan informasi kesalahan baru (untuk proses penyuntingan buatan)
-			InformasiKesalahan.Add(kesalahanPenulisanSingkatDefinit.ErrorCode, kesalahanPenulisanSingkatDefinit);
-			InformasiKesalahan.Add(kesalahanPenulisanSingkatAmbigu.ErrorCode, kesalahanPenulisanSingkatAmbigu);
 		}
 
-		public string MuatContoh() => File.ReadAllText(JudulContohTeksBawaan);		
+		public string MuatContoh(string judulContohTeks = null) => 
+			File.ReadAllText(string.IsNullOrWhiteSpace(judulContohTeks) || !File.Exists(judulContohTeks) ? 
+				JudulContohTeksBawaan : judulContohTeks);		
 		
 		public Tuple<SipebiMiniDiagnosticsReport, string> SuntingAsal(string teksAwal) {
 			SipebiMiniDiagnosticsReport laporan = analisis(teksAwal);
@@ -77,6 +77,12 @@ namespace SipebiMini {
 		public Tuple<SipebiMiniDiagnosticsReport, string> SuntingBuatan(string teksAwal) {
 			SipebiMiniDiagnosticsReport laporan = analisis(teksAwal);
 			string teksPenyuntingan = suntingBuatan(teksAwal, laporan);
+			return new Tuple<SipebiMiniDiagnosticsReport, string>(laporan, teksPenyuntingan);
+		}
+
+		public Tuple<SipebiMiniDiagnosticsReport, string> SuntingPython(string teksAwal) {
+			SipebiMiniDiagnosticsReport laporan = analisis(teksAwal);
+			string teksPenyuntingan = suntingPython(teksAwal, laporan);
 			return new Tuple<SipebiMiniDiagnosticsReport, string>(laporan, teksPenyuntingan);
 		}
 
@@ -188,6 +194,37 @@ namespace SipebiMini {
 				"Proses penyuntingan buatan gagal diselesaikan!");
 
 			//Kembalikan isi teks fail hasil penyuntingan buatan
+			return File.ReadAllText(failHasil);
+		}
+
+		private string suntingPython(string teksAwal, SipebiMiniDiagnosticsReport laporan) {
+			//Jalankan diagnosis Python di sini
+			List<SipebiDiagnosticsError> daftarKesalahanTambahan = SipebiMiniPythonRunner.JalankanDiagnosis(teksAwal, laporan);
+
+			//Masukkan daftar kesalahan tambahan pada laporan, dan urutkan ulang posisi kesalahan pada daftar kesalahan
+			laporan.Errors.AddRange(daftarKesalahanTambahan);
+			laporan.Errors = laporan.Errors.OrderBy(x => x.ParagraphNo).ThenBy(x => x.PositionOffset).ToList();
+
+			//Pastikan fail hasil analisis Python terhapus (jika ada)
+			bool hasil = FileHelper.PastikanTerhapus(JudulLaporanAnalisisPython);
+
+			//Simpan hasil penyuntingan Python
+			XmlSerializer serializer = new XmlSerializer(typeof(SipebiMiniDiagnosticsReport));
+			using (FileStream stream = new FileStream(JudulLaporanAnalisisPython, FileMode.Create))
+				serializer.Serialize(stream, laporan);
+
+			//Pastikan fail hasil analisis Python telah dibuat dengan sempurna
+			hasil = FileHelper.PastikanTerbuat(JudulLaporanAnalisisPython);
+
+			//Fail hasil perbaikan
+			string failHasil = JudulTeksAwalBawaan.Substring(0, JudulTeksAwalBawaan.Length - 4) + "-perbaikan.txt";
+
+			//Jalankan prosedur umum menggunakan nama dan argumen proses penyuntingan Python
+			prosedurUmum(teksAwal, failHasil, NamaProsesPenyuntingan,
+				$"\"{JudulTeksAwalBawaan}\" \"{JudulLaporanAnalisisPython}\"",
+				"Proses penyuntingan Python gagal diselesaikan!");
+
+			//Kembalikan isi teks fail hasil penyuntingan Python
 			return File.ReadAllText(failHasil);
 		}
 

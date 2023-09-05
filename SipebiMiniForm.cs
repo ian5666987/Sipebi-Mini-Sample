@@ -3,6 +3,7 @@ using System;
 using System.Linq;
 using System.Reflection;
 using System.Windows.Forms;
+using py = SipebiMini.SipebiMiniPythonRunner;
 
 namespace SipebiMini {
 	public partial class SampleForm : Form {
@@ -10,16 +11,19 @@ namespace SipebiMini {
 			InitializeComponent();
 			Text += $" v{Assembly.GetExecutingAssembly().GetName().Version}";
 			state.Inisiasi();
+			py.Inisiasi();
 		}
 
 		SipebiMiniState state = new SipebiMiniState();
 		const string formatPesanMuatContoh = "Contoh {0} dimuat!";
 		const string formatPesanPenyuntinganAsal = "Penyuntingan dengan cara asal Sipebi {0}!";
 		const string formatPesanPenyuntinganBuatan = "Penyuntingan dengan cara buatan Sipebi {0}!";
+		const string formatPesanPenyuntinganPython = "Penyuntingan dengan skrip Python Sipebi {0}!";
 
 		private void buttonMuatContoh_Click(object sender, EventArgs e) {
+			string judulContoh = textBoxJudulContoh.Text;
 			prosedurUmum(formatPesanMuatContoh, () => {
-				richTextBoxTeksMasukan.Text = state.MuatContoh();
+				richTextBoxTeksMasukan.Text = state.MuatContoh(judulContohTeks: judulContoh);
 			});
 		}
 
@@ -52,6 +56,7 @@ namespace SipebiMini {
 		private void prosedurUmumPenyuntingan(string formatPesan,
 			Func<string, Tuple<SipebiMiniDiagnosticsReport, string>> fungsiPenyuntingan) {
 			string teksAsal = richTextBoxTeksMasukan.Text;
+			if (string.IsNullOrWhiteSpace(teksAsal)) return;
 			prosedurUmum(formatPesan, () => {
 				waktuMulai = DateTime.Now;
 				Tuple<SipebiMiniDiagnosticsReport, string> hasil = fungsiPenyuntingan(teksAsal);
@@ -81,6 +86,15 @@ namespace SipebiMini {
 
 		private void aturKontrol(bool aktifkan) {
 			flowLayoutPanelActions.Enabled = aktifkan;
+		}
+
+		private void buttonUjiCobaPython_Click(object sender, EventArgs e) {
+			string result = SipebiMiniPythonRunner.JalankanSampel();
+			MessageBox.Show($"{result}", "Hasil Uji Coba", MessageBoxButtons.OK);
+		}
+
+		private void buttonSuntingPython_Click(object sender, EventArgs e) {
+			prosedurUmumPenyuntingan(formatPesanPenyuntinganPython, state.SuntingPython);
 		}
 
 		private string dapatkanPesanJumlahKesalahanTerdeteksi(Tuple<SipebiMiniDiagnosticsReport, string> hasil,
