@@ -262,6 +262,13 @@ namespace SipebiMini {
 			sb.AppendLine("\tvarNo = 0 #contoh angka");
 			sb.AppendLine("\tvarStr = 'sample text' #contoh teks");
 			sb.AppendLine("\tdiagList = [] #daftar kesalahan, list ini harus ada");
+			sb.AppendLine("\tisReady = False #bendera yang menandakan pengaturan awal sudah selesai dikerjakan. Bendera ini harus ada");
+			sb.AppendLine("\t#setup: fungsi untuk melakukan pengaturan awal sebelum 'execute' dijalankan. Fungsi ini harus ada");
+			sb.AppendLine("\tdef setup(self): #signature dari fungsi harus selalu seperti ini: setup(self):");
+			sb.AppendLine("\t\t#---lakukan pengaturan awal di sini---");
+			sb.AppendLine("\t\t#---mis: membaca data (dari folder \\data), melakukan sorting internal, mempersiapkan variabel, dsb.---");
+			sb.AppendLine("\t\tself.isReady = True #Fungi setup(), jika dianggap sudah dijalankan dengan benar, harus diakhiri dengan baris ini");
+			sb.AppendLine("\t#execute: fungsi untuk menjalankan penyuntingan. Fungsi ini harus ada");
 			sb.AppendLine("\tdef execute(self, text): #signature dari fungsi harus selalu seperti ini: def execute(self, text):");
 			sb.AppendLine("\t\tself.varNo = self.varNo + 1 #contoh penggunaan variabel");
 			sb.AppendLine("\t\tself.varStr = text #contoh penggunaan input/variabel");
