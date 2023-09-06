@@ -21,7 +21,9 @@ namespace SipebiMini {
 		private const string NAMA_DIR_INTI = "core";
 		private const string NAMA_DIR_PAKET = "libs";
 		private const string NAMA_DIR_DATA = "data";
-		private const string NAMA_FAIL_CONTOH = "contoh.py"; 
+		private const string NAMA_DIR_DOC = "docs";
+		private const string NAMA_DIR_VAL = "val";
+		private const string NAMA_FAIL_CONTOH = "PySampleClass.py"; 
 		private const string NAMA_CONTOH_KELAS_PY = "PySampleClass";
 		private const string NAMA_KUNCI_DAFTAR_FAIL_DIAGNOSIS_PY = "PyDiagnosticsScripts";
 
@@ -40,7 +42,12 @@ namespace SipebiMini {
 		private static string baseDir;
 		private static string coreDir;
 		private static string dataDir;
-		private static string packageDir;
+		private static string docsDir;
+		private static string libsDir;
+		private static string valDir;
+		private static string valCoreDir;
+		private static string valDataDir;
+		private static string valLibsDir;
 		private static string sampleFilePath;
 		private static string diagnosticErrorClassFilePath;
 		public static void Inisiasi() {
@@ -52,18 +59,21 @@ namespace SipebiMini {
 				//Pembuatan semua direktori yang diperlukan
 				baseDir = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, NAMA_DIR_PY);
 				coreDir = Path.Combine(baseDir, NAMA_DIR_INTI);
-				packageDir = Path.Combine(baseDir, NAMA_DIR_PAKET);
 				dataDir = Path.Combine(baseDir, NAMA_DIR_DATA);
-				Directory.CreateDirectory(baseDir);
-				Directory.CreateDirectory(coreDir);
-				Directory.CreateDirectory(packageDir);
-				Directory.CreateDirectory(dataDir);
+				docsDir = Path.Combine(baseDir, NAMA_DIR_DOC);
+				libsDir = Path.Combine(baseDir, NAMA_DIR_PAKET);
+				valDir = Path.Combine(baseDir, NAMA_DIR_VAL);
+				valCoreDir = Path.Combine(valDir, NAMA_DIR_INTI);
+				valDataDir = Path.Combine(valDir, NAMA_DIR_DATA);
+				valLibsDir = Path.Combine(valDir, NAMA_DIR_PAKET);
 
 				//Penambahan search paths
-				List<string> searchPaths = new List<string>();
-				searchPaths.Add(baseDir);
-				searchPaths.Add(coreDir);
-				searchPaths.Add(packageDir);
+				List<string> searchPaths = new List<string>() {
+					baseDir, coreDir, dataDir, docsDir, libsDir,
+					valDir, valCoreDir, valDataDir, valLibsDir,
+				};
+				foreach (string dir in searchPaths)
+					Directory.CreateDirectory(dir);
 				pythonEngine.SetSearchPaths(searchPaths);
 
 				//Dapatkan semua fail Python yang akan digunakan dalam diagnosis
