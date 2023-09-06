@@ -105,4 +105,18 @@
 	  <AppearOnVersion>1.0.0.0</AppearOnVersion>
 	  <IsCustom>false</IsCustom>
 	</SipebiDiagnosticsErrorInformation>
+	<SipebiDiagnosticsErrorInformation>
+	  <ErrorCode>[Buatan-KPS-D]</ErrorCode>
+	  <Error>[Sipebi] Buatan</Error>
+	  <ErrorExplanation>Tes</ErrorExplanation>
+	  <AppearOnVersion>1.0.0.0</AppearOnVersion>
+	  <IsCustom>true</IsCustom>
+	</SipebiDiagnosticsErrorInformation>
+	<SipebiDiagnosticsErrorInformation>
+	  <ErrorCode>[Buatan-KPS-A]</ErrorCode>
+	  <Error>[Sipebi] Buatan</Error>
+	  <ErrorExplanation>Tes</ErrorExplanation>
+	  <AppearOnVersion>1.0.0.0</AppearOnVersion>
+	  <IsCustom>true</IsCustom>
+	</SipebiDiagnosticsErrorInformation>
 </ArrayOfSipebiDiagnosticsErrorInformation>

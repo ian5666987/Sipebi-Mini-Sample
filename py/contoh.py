@@ -1,10 +1,17 @@
-#baris di bawah ini harus ada untuk mengimpor PySipebiDiagnosticsError
-from PySipebiDiagnosticsError import PySipebiDiagnosticsError
+# baris di bawah ini harus ada untuk mengimpor PySipebiDiagnosticsError
+
+from core.sipebi_struct import *
+from core.PySipebiDiagnosticsError import PySipebiDiagnosticsError
 class PySampleClass:
 	varNo = 0 #contoh angka
 	varStr = 'sample text' #contoh teks
+
+	sipebi_text = SipebiMiniText()
+
 	diagList = [] #daftar kesalahan, list ini harus ada
 	def execute(self, text): #signature dari fungsi harus selalu seperti ini: def execute(self, text):
+		self.process_text(text)
+		
 		self.varNo = self.varNo + 1 #contoh penggunaan variabel
 		self.varStr = text #contoh penggunaan input/variabel
 		#---text dapat diproses di sini untuk mendapatkan hasil diagnosis---
@@ -25,3 +32,8 @@ class PySampleClass:
 		if len(self.diagList) > 10:
 			self.diagList.pop(1)
 			self.diagList.pop(0)
+
+	def process_text(self, text):
+		self.sipebi_text.text = text
+		self.sipebi_text.process_text()
+		
