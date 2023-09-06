@@ -49,6 +49,7 @@
 			this.ColumnAsli = new System.Windows.Forms.DataGridViewTextBoxColumn();
 			this.ColumnPerbaikan = new System.Windows.Forms.DataGridViewTextBoxColumn();
 			this.ColumnPenjelasan = new System.Windows.Forms.DataGridViewTextBoxColumn();
+			this.buttonValidasiPython = new System.Windows.Forms.Button();
 			((System.ComponentModel.ISupportInitialize)(this.splitContainerMain)).BeginInit();
 			this.splitContainerMain.Panel1.SuspendLayout();
 			this.splitContainerMain.Panel2.SuspendLayout();
@@ -109,6 +110,7 @@
 			this.flowLayoutPanelActions.Controls.Add(this.buttonSuntingBuatan);
 			this.flowLayoutPanelActions.Controls.Add(this.buttonUjiCobaPython);
 			this.flowLayoutPanelActions.Controls.Add(this.buttonSuntingPython);
+			this.flowLayoutPanelActions.Controls.Add(this.buttonValidasiPython);
 			this.flowLayoutPanelActions.Dock = System.Windows.Forms.DockStyle.Fill;
 			this.flowLayoutPanelActions.FlowDirection = System.Windows.Forms.FlowDirection.TopDown;
 			this.flowLayoutPanelActions.Location = new System.Drawing.Point(3, 22);
@@ -347,6 +349,16 @@
 			this.ColumnPenjelasan.Name = "ColumnPenjelasan";
 			this.ColumnPenjelasan.Width = 300;
 			// 
+			// buttonValidasiPython
+			// 
+			this.buttonValidasiPython.Location = new System.Drawing.Point(3, 210);
+			this.buttonValidasiPython.Name = "buttonValidasiPython";
+			this.buttonValidasiPython.Size = new System.Drawing.Size(118, 25);
+			this.buttonValidasiPython.TabIndex = 6;
+			this.buttonValidasiPython.Text = "Validasi (Python)";
+			this.buttonValidasiPython.UseVisualStyleBackColor = true;
+			this.buttonValidasiPython.Click += new System.EventHandler(this.buttonValidasiPython_Click);
+			// 
 			// SampleForm
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
@@ -408,6 +420,7 @@
 		private System.Windows.Forms.Button buttonSuntingPython;
 		private System.Windows.Forms.Label labelJudulContoh;
 		private System.Windows.Forms.TextBox textBoxJudulContoh;
+		private System.Windows.Forms.Button buttonValidasiPython;
 	}
 }
 

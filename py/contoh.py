@@ -4,7 +4,6 @@ from core.sipebi_struct import *
 from core.PySipebiDiagnosticsError import PySipebiDiagnosticsError
 class PySampleClass:
 	varNo = 0 #contoh angka
-	varStr = 'sample text' #contoh teks
 
 	sipebi_text = SipebiMiniText()
 

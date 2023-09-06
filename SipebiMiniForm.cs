@@ -97,6 +97,11 @@ namespace SipebiMini {
 			prosedurUmumPenyuntingan(formatPesanPenyuntinganPython, state.SuntingPython);
 		}
 
+		private void buttonValidasiPython_Click(object sender, EventArgs e) {
+			MessageBox.Show("Fungsi belum tersedia!", "Pesan", MessageBoxButtons.OK, MessageBoxIcon.Information);
+			//TODO: add Python validation scripts execution here
+		}
+
 		private string dapatkanPesanJumlahKesalahanTerdeteksi(Tuple<SipebiMiniDiagnosticsReport, string> hasil,
 			int panjangTeksAwal) {
 			if (hasil == null || hasil.Item1 == null || hasil.Item1.Errors == null) return string.Empty;
