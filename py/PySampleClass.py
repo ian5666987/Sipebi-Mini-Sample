@@ -1,6 +1,6 @@
 #baris-baris di bawah ini harus ada untuk mengimpor kelas-kelas inti Python
-from PySipebiDiagnosticsError import PySipebiDiagnosticsError
-from PySipebiAnalyzerBase import PySipebiAnalyzerBase
+from core.PySipebiDiagnosticsError import PySipebiDiagnosticsError
+from core.PySipebiAnalyzerBase import PySipebiAnalyzerBase
 class PySampleClass(PySipebiAnalyzerBase):
 	varNo = 0 #contoh angka
 	varStr = 'sample text' #contoh teks

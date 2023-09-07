@@ -1,4 +1,4 @@
-from PySipebiMiniValidationBase import PySipebiMiniValidationBase
+from core.PySipebiMiniValidationBase import PySipebiMiniValidationBase
 
 # An example of Sipebi Mini validation script
 # All Sipebi Mini validation script must be derived from PySipebiMiniValidationBase

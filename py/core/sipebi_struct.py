@@ -6,19 +6,21 @@ class SipebiMiniText:
 
         self.paragraph_divs: SipebiMiniParagraph = []
 
+        self.process_text()
+
     def add_paragraph_division(self, paragraph_division):
         self.paragraph_divs.append(paragraph_division)
 
+    # method untuk memisahkan paragraph berdasarkan line break
     def separate_paragraph_by_line_break(self):
         paragraph_divs = self.text.split("\n\n")
         for i, paragraph_div in enumerate(paragraph_divs):
             self.add_paragraph_division(SipebiMiniParagraph(i, 0, paragraph_div, len(paragraph_div)))
 
+    # method untuk memproses setiap paragraph division dan memisahkan kata-kata di dalamnya
     def process_paragraph_divisions(self):
         for paragraph_div in self.paragraph_divs:
-            paragraph_div.separate_sentence_by_punctuation() # tokenisasi kalimat
-            for sentence_div in paragraph_div.sentence_divs:
-                sentence_div.separate_word_by_space() # tokenisasi kata
+            paragraph_div.separate_word_by_space() # tokenisasi kata
 
     def process_text(self):
         self.separate_paragraph_by_line_break()
@@ -34,42 +36,66 @@ class SipebiMiniParagraph:
         self.offset = offset
         self.text = text
         self.length = length
-
-        self.sentence_divs: SipebiMiniSentence = []
-
-    def add_sentence_division(self, sentence_division):
-        self.sentence_divs.append(sentence_division)
-
-    def separate_sentence_by_punctuation(self):
-        sentence_divs = self.text.split(".")
-        for i, sentence_div in enumerate(sentence_divs):
-            self.add_sentence_division(SipebiMiniSentence(i, 0, sentence_div + ".", len(sentence_div)))
-
-    def __str__(self):
-        return self.text
-
-class SipebiMiniSentence:
-    def __init__(self, index, offset, text, length):
-        self.index = index
-        self.offset = offset
-        self.text = text
-        self.length = length
+        # untuk sementara tidak pake sentence division dulu karena belum ada pengecekan untuk menentukan suatu kalimat itu berakhir atau tidak
+        # self.sentence_divs: SipebiMiniSentence = [] 
 
         self.word_divs: SipebiMiniWordDivision = []
 
     def add_word_division(self, word_division):
         self.word_divs.append(word_division)
 
-    # create a method to split word by space
+    # create a method to split word by one space or more
     def separate_word_by_space(self):
-        word_divs = self.text.split(" ")
+        word_divs = self.text.split()
         for i, word_div in enumerate(word_divs):
             self.add_word_division(SipebiMiniWordDivision(word_div))
-    
+
+    # def add_sentence_division(self, sentence_division):
+    #     self.sentence_divs.append(sentence_division)
+
+    # def separate_sentence_by_punctuation(self):
+    #     # seharusnya ada pengecekan apakah titiknya merupakan penanda kalimat terakhir atau bukan
+    #     sentence_divs = self.text.split(".")
+    #     for i, sentence_div in enumerate(sentence_divs):
+    #         sentence: SipebiMiniSentence = sentence_div
+    #         if sentence.check_last_word():
+    #             self.add_sentence_division(SipebiMiniSentence(i, 0, sentence_div + ".", len(sentence_div)))
+
     def __str__(self):
         return self.text
 
+# class SipebiMiniSentence:
+#     def __init__(self, index, offset, text, length):
+#         self.index = index
+#         self.offset = offset
+#         self.text = text
+#         self.length = length
+
+#         self.word_divs: SipebiMiniWordDivision = []
+
+#     def add_word_division(self, word_division):
+#         self.word_divs.append(word_division)
+
+#     # create a method to split word by one space or more
+#     def separate_word_by_space(self):
+#         word_divs = self.text.split()
+#         for i, word_div in enumerate(word_divs):
+#             self.add_word_division(SipebiMiniWordDivision(word_div))
+
+#     def check_last_word(self):
+#         last_word = self.text.split()[-1]
+#         # logic to checking if the dot is actually to end the sentence or not
+#         return True
+    
+#     def __str__(self):
+#         return self.text
+
 class SipebiMiniWordDivision:
+    PRE_CHARS_OMITTED = {'(', '\'', '"', '[', '{', '-'}
+    POST_CHARS_OMITTED = {
+        '?', ',', '!', '.', ')', ':', '-', '\'', '"', '}',
+        ']', ';'
+    }
     def __init__(self, original_string):
         self.original_string = original_string
         self.clean_word_string = original_string.strip()
@@ -79,6 +105,44 @@ class SipebiMiniWordDivision:
         self.position_offset = 0
         self.element_no = -1
         self.is_handled = False
+
+        self.double_quote_error = False # attribute specific to flagging double quote error 
+
+        self.process_word()
+
+    def check_pre_word(self):
+        first_char = self.clean_word_string[0]
+        if first_char in self.PRE_CHARS_OMITTED:
+            self.pre_word = first_char
+            self.clean_word_string = self.clean_word_string[1:]
+
+    def check_post_word(self):
+        last_char = self.clean_word_string[-1]
+        if last_char in self.POST_CHARS_OMITTED:
+            # checking if last char is a double quote
+            if last_char == '"':
+                if (self.clean_word_string[-2] in self.POST_CHARS_OMITTED):
+                    self.post_word = self.clean_word_string[-2] + last_char
+                    self.clean_word_string = self.clean_word_string[:-2]
+                else:
+                    self.double_quote_error = True
+                    self.post_word = last_char
+                    self.clean_word_string = self.clean_word_string[:-1]
+            else:
+                self.post_word = last_char
+                self.clean_word_string = self.clean_word_string[:-1]
+
+    def process_word(self):
+        self.check_pre_word()
+        self.check_post_word()
+
+    @property
+    def check_post_word_is_double_quote(self):
+        return self.clean_word_string[-1] == '"'
+    
+    @property   
+    def check_post_word_is_double_quote_without_error(self):
+        return self.check_post_word_is_double_quote and not self.double_quote_error
 
     @property
     def has_pre_word(self):
