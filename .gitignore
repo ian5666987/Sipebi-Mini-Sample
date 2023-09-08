@@ -453,6 +453,7 @@ $RECYCLE.BIN/
 !.vscode/launch.json
 !.vscode/extensions.json
 
+# Additional
 Dlls/
 obj/
 bin/Original/
@@ -464,3 +465,4 @@ bin/Release/laporan-diagnosis-buatan.xml
 bin/Release/laporan-diagnosis.xml
 bin/Release/teks-awal-perbaikan.txt
 bin/Release/teks-awal.txt
+bin/py/.idea/

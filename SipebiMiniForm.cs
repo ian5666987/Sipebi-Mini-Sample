@@ -3,7 +3,7 @@ using System;
 using System.Linq;
 using System.Reflection;
 using System.Windows.Forms;
-using py = SipebiMini.SipebiMiniPythonRunner;
+using py = SipebiMini.SipebiPythonManager;
 
 namespace SipebiMini {
 	public partial class SampleForm : Form {
@@ -11,7 +11,7 @@ namespace SipebiMini {
 			InitializeComponent();
 			Text += $" v{Assembly.GetExecutingAssembly().GetName().Version}";
 			state.Inisiasi();
-			py.Inisiasi();
+			py.Initialize();
 		}
 
 		SipebiMiniState state = new SipebiMiniState();
@@ -89,7 +89,7 @@ namespace SipebiMini {
 		}
 
 		private void buttonUjiCobaPython_Click(object sender, EventArgs e) {
-			string result = SipebiMiniPythonRunner.JalankanSampel();
+			string result = SipebiPythonManager.RunDiagnosticsExample();
 			MessageBox.Show($"{result}", "Hasil Uji Coba", MessageBoxButtons.OK);
 		}
 
@@ -98,8 +98,7 @@ namespace SipebiMini {
 		}
 
 		private void buttonValidasiPython_Click(object sender, EventArgs e) {
-			MessageBox.Show("Fungsi belum tersedia!", "Pesan", MessageBoxButtons.OK, MessageBoxIcon.Information);
-			//TODO: add Python validation scripts execution here
+			SipebiPythonManager.RunValidation();
 		}
 
 		private string dapatkanPesanJumlahKesalahanTerdeteksi(Tuple<SipebiMiniDiagnosticsReport, string> hasil,

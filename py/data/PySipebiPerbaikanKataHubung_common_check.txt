@@ -1,0 +1,5 @@
+KH01, KH02, Sipebi Error 1
+3
+KH01|01|02|burungburung|burung-burung|False 
+KH01|01|13|berhari hari|berhari-hari|False 
+KH01|02|08|Kurukuru,|kuru-kuru,|True

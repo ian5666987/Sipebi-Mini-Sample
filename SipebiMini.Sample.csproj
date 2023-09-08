@@ -94,7 +94,8 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SipebiMiniPythonRunner.cs" />
+    <Compile Include="SipebiPythonScript.cs" />
+    <Compile Include="SipebiPythonRunner.cs" />
     <Compile Include="SipebiMiniState.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

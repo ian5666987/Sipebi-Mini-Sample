@@ -33,6 +33,7 @@
 			this.buttonSuntingBuatan = new System.Windows.Forms.Button();
 			this.buttonUjiCobaPython = new System.Windows.Forms.Button();
 			this.buttonSuntingPython = new System.Windows.Forms.Button();
+			this.buttonValidasiPython = new System.Windows.Forms.Button();
 			this.splitContainerContent = new System.Windows.Forms.SplitContainer();
 			this.splitContainerInputOutput = new System.Windows.Forms.SplitContainer();
 			this.groupBoxTeksMasukan = new System.Windows.Forms.GroupBox();
@@ -49,7 +50,6 @@
 			this.ColumnAsli = new System.Windows.Forms.DataGridViewTextBoxColumn();
 			this.ColumnPerbaikan = new System.Windows.Forms.DataGridViewTextBoxColumn();
 			this.ColumnPenjelasan = new System.Windows.Forms.DataGridViewTextBoxColumn();
-			this.buttonValidasiPython = new System.Windows.Forms.Button();
 			((System.ComponentModel.ISupportInitialize)(this.splitContainerMain)).BeginInit();
 			this.splitContainerMain.Panel1.SuspendLayout();
 			this.splitContainerMain.Panel2.SuspendLayout();
@@ -185,6 +185,16 @@
 			this.buttonSuntingPython.Text = "Sunting (Python)";
 			this.buttonSuntingPython.UseVisualStyleBackColor = true;
 			this.buttonSuntingPython.Click += new System.EventHandler(this.buttonSuntingPython_Click);
+			// 
+			// buttonValidasiPython
+			// 
+			this.buttonValidasiPython.Location = new System.Drawing.Point(3, 210);
+			this.buttonValidasiPython.Name = "buttonValidasiPython";
+			this.buttonValidasiPython.Size = new System.Drawing.Size(118, 25);
+			this.buttonValidasiPython.TabIndex = 6;
+			this.buttonValidasiPython.Text = "Validasi (Python)";
+			this.buttonValidasiPython.UseVisualStyleBackColor = true;
+			this.buttonValidasiPython.Click += new System.EventHandler(this.buttonValidasiPython_Click);
 			// 
 			// splitContainerContent
 			// 
@@ -348,16 +358,6 @@
 			this.ColumnPenjelasan.MinimumWidth = 6;
 			this.ColumnPenjelasan.Name = "ColumnPenjelasan";
 			this.ColumnPenjelasan.Width = 300;
-			// 
-			// buttonValidasiPython
-			// 
-			this.buttonValidasiPython.Location = new System.Drawing.Point(3, 210);
-			this.buttonValidasiPython.Name = "buttonValidasiPython";
-			this.buttonValidasiPython.Size = new System.Drawing.Size(118, 25);
-			this.buttonValidasiPython.TabIndex = 6;
-			this.buttonValidasiPython.Text = "Validasi (Python)";
-			this.buttonValidasiPython.UseVisualStyleBackColor = true;
-			this.buttonValidasiPython.Click += new System.EventHandler(this.buttonValidasiPython_Click);
 			// 
 			// SampleForm
 			// 
