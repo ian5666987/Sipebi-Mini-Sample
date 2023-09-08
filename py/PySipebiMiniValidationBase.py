@@ -1,0 +1,111 @@
+from diag.core.PySipebiDiagnosticsError import PySipebiDiagnosticsError
+
+# The base class for all validation scripts
+class PySipebiMiniValidationBase:
+    # Validation script execution-related properties
+    diagScriptFileName = ''  # the name of the Python diagnostics script (DS) associated with this validation script (i.e. PySipebiPerbaikanKataHubung.py)
+    sipebiErrorCodes = []  # the list of Sipebi error codes (i.e. [KH01, KH02, Sipebi Error 1]) associated with this validation base. Note that Sipebi error code may or may not be the same as EYD error code
+    commonCheckErrorCodes = []  # the list of error codes provided by common check file, this may or may not be identical to sipebiErrorCodes
+    commonCheckDiagnosticsErrors = []  # the list of diagnostics errors in the common check file, if any
+    isReady = False  # flag to indicate if this validation script is ready to be run (in case it needs a special preparation)
+    isCompleted = False  # flag to indicate if a validation script is executed completely and successfully. Do not set this flag as true if the validation script is executed but not successfully
+    failReason = ''  # string to explain the result for the failing the validation script execution (that is, isCompleted = False), if any
+
+    # Diagnostics script result-related properties
+    isPassed = False  # flag to indicate if the DS functions fully as expected
+    commonMistakes = []  # list of common mistakes after the execution of the DS, if any (the DS does NOT functions fully as expected)
+    specialMistakes = []  # list of special mistakes after the execution of the DS, if any (the DS does NOT functions fully as expected)
+
+    # Functions/Methods
+    # The base function for validation script setup (by default there is nothing prepared for the validation to be ready)
+    def setup(self):
+        self.isReady = True
+
+    # The base function to execute the validation script
+    def execute(self):
+        pass
+
+    # The base function to re-initialize "changing" variables for the preparation of the next call
+    def init_changing_vars(self):
+        self.isCompleted = False
+        self.isPassed = False
+        self.failReason = ''
+        self.commonMistakes = []
+        self.specialMistakes = []
+
+    # The base function to get base diagnostics name from the given diagnostics script file name
+    # Example: PyDiagExampleClass.py -> PyDiagExampleClass
+    def get_diag_base_name(self):
+        if len(self.diagScriptFileName) <= len('.py'):
+            return ''
+        return self.diagScriptFileName[0:len(self.diagScriptFileName)-len('.py')]
+
+    # The base function to write the validation result to an output file
+    def write_to_file(self):
+        # Prepare to write the results to the output file
+        output_content = 'complete\r\n' if self.isCompleted else 'fail\r\n'
+        if not self.isCompleted:
+            output_content += self.failReason + '\r\n'
+        output_content += 'pass\r\n' if self.isPassed else 'fail\r\n'
+        cm_no = len(self.commonMistakes)
+        output_content += str(cm_no)
+        for i in range(0, cm_no):
+            output_content += self.commonMistakes[i] + '\r\n'
+        sm_no = len(self.specialMistakes)
+        output_content += str(sm_no)
+        for i in range(0, sm_no):
+            output_content += self.specialMistakes[i] + '\r\n'
+
+        # Getting the supposed output file name from the script name
+        # PyDiagExampleClass.py -> PyDiagExampleClass + _result.txt
+        output_filename = self.get_diag_base_name() + '_result.txt'
+        output_file = open(output_filename, 'w')
+        output_file.write(output_content)
+        output_file.close()
+
+    """ Content example:
+        <line 1> KH01, KH02, Sipebi Error 1
+        <line 2> 3
+        <line 3> KH01|01|02|burungburung|burung-burung|False 
+        <line 4> KH01|01|13|berhari hari|berhari-hari|False 
+        <line 5> KH01|02|08|Kurukuru,|kuru-kuru,|True
+        
+        Content explanation:
+        <line 1> KH01, KH02, Sipebi Error 1  -> the associated Sipebi error code tested
+        <line 2> 3                           -> the expected no of PySipebiDiagnosticsError 
+        <line 3>-<line 5>                    -> the list of PySipebiDiagnosticsErrors, in sequence
+          Format of each PySipebiDiagnosticsError item in <line 3>-<line 5>: 
+            <ErrorCode>|<ParagraphNo>|<ElementNo>|<OriginalElement>|<CorrectedElement>|<IsAmbiguous>
+    """
+    # The base method to parse common check file associated with this validation
+    def parse_common_check(self):
+        common_check_filename = self.get_diag_base_name() + '_common_check.txt'
+        try:
+            # Read common check file, get its content
+            common_check_file = open(common_check_filename, 'r')
+            common_check_lines = common_check_file.readlines()
+
+            # Splitting error codes (i.e. "KH01, KH02, Sipebi Error 1")
+            self.commonCheckErrorCodes = [x.strip() for x in common_check_lines[0].split(',')]
+
+            # Get the number of expected number of diagnostics errors/common mistakes
+            common_check_no = int(common_check_lines[1].strip())
+            self.commonCheckDiagnosticsErrors.clear()
+
+            # List all the expected diagnostics errors
+            for i in range(common_check_no):
+                de_info_lines = [x for x in common_check_lines[i + 2].split('|')]  # Note: we must NOT use x.strip() here because whitespace could be part of the diagnosed and/or corrected text
+                new_de = PySipebiDiagnosticsError()
+                new_de.ErrorCode = '[' + de_info_lines[0] + ']'
+                new_de.ParagraphNo = int(de_info_lines[1])
+                new_de.ElementNo = int(de_info_lines[2])
+                new_de.OriginalElement = int(de_info_lines[3])
+                new_de.CorrectedElement = int(de_info_lines[4])
+                new_de.IsAmbiguous = de_info_lines[5].lower() == 'true'
+                self.commonCheckDiagnosticsErrors.append(new_de)
+
+            # Return true if everything is OK
+            return True
+        except:
+            # Return false if there is any problem with the common check file parsing
+            return False

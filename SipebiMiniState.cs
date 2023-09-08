@@ -199,7 +199,7 @@ namespace SipebiMini {
 
 		private string suntingPython(string teksAwal, SipebiMiniDiagnosticsReport laporan) {
 			//Jalankan diagnosis Python di sini
-			List<SipebiDiagnosticsError> daftarKesalahanTambahan = SipebiMiniPythonRunner.JalankanDiagnosis(teksAwal, laporan);
+			List<SipebiDiagnosticsError> daftarKesalahanTambahan = SipebiPythonManager.RunDiagnostics(teksAwal, laporan);
 
 			//Masukkan daftar kesalahan tambahan pada laporan, dan urutkan ulang posisi kesalahan pada daftar kesalahan
 			laporan.Errors.AddRange(daftarKesalahanTambahan);
