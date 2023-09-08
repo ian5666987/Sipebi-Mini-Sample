@@ -5,13 +5,13 @@ class PySipebiMiniValidationBase:
     # Validation script execution-related properties
     diagScriptFileName = ''  # the name of the Python diagnostics script (DS) associated with this validation script (i.e. PySipebiPerbaikanKataHubung.py)
     sipebiErrorCodes = []  # the list of Sipebi error codes (i.e. [KH01, KH02, Sipebi Error 1]) associated with this validation base. Note that Sipebi error code may or may not be the same as EYD error code
-    commonCheckErrorCodes = []  # the list of error codes provided by common check file, this may or may not be identical to sipebiErrorCodes
-    commonCheckDiagnosticsErrors = []  # the list of diagnostics errors in the common check file, if any
     isReady = False  # flag to indicate if this validation script is ready to be run (in case it needs a special preparation)
     isCompleted = False  # flag to indicate if a validation script is executed completely and successfully. Do not set this flag as true if the validation script is executed but not successfully
     failReason = ''  # string to explain the result for the failing the validation script execution (that is, isCompleted = False), if any
 
     # Diagnostics script result-related properties
+    commonCheckErrorCodes = []  # the list of error codes provided by common check file, this may or may not be identical to sipebiErrorCodes
+    commonCheckDiagnosticsErrors = []  # the list of diagnostics errors in the common check file, if any
     isPassed = False  # flag to indicate if the DS functions fully as expected
     commonMistakes = []  # list of common mistakes after the execution of the DS, if any (the DS does NOT functions fully as expected)
     specialMistakes = []  # list of special mistakes after the execution of the DS, if any (the DS does NOT functions fully as expected)
