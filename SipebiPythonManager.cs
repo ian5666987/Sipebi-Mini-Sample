@@ -8,6 +8,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using IronPython.Hosting;
 using IronPython.Runtime;
+using IronPython.Runtime.Types;
 using Microsoft.Scripting.Hosting;
 using SipebiMini.Core;
 
@@ -51,9 +52,11 @@ namespace SipebiMini {
 
 		//Diagnostics scripts-related properties
 		private static Dictionary<string, SipebiPythonScript> pyDiagScripts = new Dictionary<string, SipebiPythonScript>();
+		private static Dictionary<string, object> pyDiagSharedResources = new Dictionary<string, object>();
 
 		//Validation scripts-related properties
 		private static Dictionary<string, SipebiPythonScript> pyValScripts = new Dictionary<string, SipebiPythonScript>();
+
 		public static void Initialize() {
 			try {
 				//Python Engine initialization
@@ -120,7 +123,7 @@ namespace SipebiMini {
 		}
 
 		//Method to run a single diagnostics script
-		private static List<SipebiDiagnosticsError> runDiagnosticsScript(string originalText, string scriptFileName, 
+		private static List<SipebiDiagnosticsError> runDiagnosticsScript(string text, string scriptFileName, 
 			string scriptClassName) {
 			List<SipebiDiagnosticsError> errors = new List<SipebiDiagnosticsError>();
 			string scriptPath = Path.Combine(diagDir, scriptFileName);
@@ -137,11 +140,8 @@ namespace SipebiMini {
 			} else 
 				pyScript = pyDiagScripts[scriptFileName];
 
-			//Execute the script with the original text as an argument
-			if (pyScript.IsReady)
-				pyScript.PyInstance.execute(originalText);
-			else
-				throw new Exception($"Script [{scriptPath}, {scriptFileName}] is not ready!");
+			//Execute the script
+			pyScript.Execute(text, pyDiagSharedResources);
 
 			//Get the diagnostics results of the script
 			PythonList diagList = pyScript.PyInstance.diagList;
@@ -187,11 +187,14 @@ namespace SipebiMini {
 		}
 
 		//Method to run all diagnostics scripts
-		public static List<SipebiDiagnosticsError> RunDiagnostics(string originalText, SipebiMiniDiagnosticsReport report) {
+		public static List<SipebiDiagnosticsError> RunDiagnostics(string text, SipebiMiniDiagnosticsReport report) {
 			List<SipebiDiagnosticsError> errors = new List<SipebiDiagnosticsError>();
 			if (pyEngine == null) return errors;
 			string currentDiagnosticsScript = string.Empty;
 			try {
+				//Every time the diagnostics script sequence is re-executed, the shared resources must be cleared
+				pyDiagSharedResources.Clear();
+
 				foreach (var scriptNameClass in pyDiagScriptNameClasses) {
 					List<SipebiDiagnosticsError> currentScriptErrors = new List<SipebiDiagnosticsError>();
 
@@ -199,6 +202,7 @@ namespace SipebiMini {
 					currentDiagnosticsScript = scriptNameClass;
 
 					//script-name possible formats: (1) scriptName-scriptClass or (2) scriptName
+					//TODO (1) may no longer be supported
 					string scriptFileName = scriptNameClass;
 					string scriptClassName = Path.GetFileNameWithoutExtension(scriptNameClass);
 					if (scriptNameClass.Contains("-")) {
@@ -213,7 +217,7 @@ namespace SipebiMini {
 					}
 
 					//Run the script
-					currentScriptErrors = runDiagnosticsScript(originalText, scriptFileName, scriptClassName);
+					currentScriptErrors = runDiagnosticsScript(text, scriptFileName, scriptClassName);
 
 					//Add the current diagnostics result to the overall diagnostics result
 					errors.AddRange(currentScriptErrors);
@@ -234,6 +238,7 @@ namespace SipebiMini {
 					currentValidationScript = scriptNameClass;
 
 					//script-name possible formats: (1) scriptName-scriptClass or (2) scriptName
+					//TODO (1) may no longer be supported
 					string scriptFileName = scriptNameClass;
 					string scriptClassName = Path.GetFileNameWithoutExtension(scriptNameClass);
 					if (scriptNameClass.Contains("-")) {
@@ -263,7 +268,9 @@ namespace SipebiMini {
 				initDiagExampleScript();
 			if (!diagPyExampleScript.IsReady)
 				return "Diagnostics example script is not ready!";
-			diagPyExampleScript.PyInstance.execute("initial text");
+			//Note we do NOT clear the shared resources used in the example to test if it is indeed
+			//  NOT re-creating shared resources (supposedly simulating sequential, different, diagnostics scripts execution)
+			diagPyExampleScript.Execute("initial text", pyDiagSharedResources);
 			StringBuilder sb = new StringBuilder();
 			sb.AppendLine($"varNo: {diagPyExampleScript.PyInstance.varNo.ToString()}");
 			sb.AppendLine($"varStr: {diagPyExampleScript.PyInstance.varStr.ToString()}");
