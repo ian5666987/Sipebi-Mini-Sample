@@ -86,11 +86,11 @@ namespace SipebiMini {
 				if (subLibsDirs != null && subLibsDirs.Count > 0)
 					foreach (string dir in subLibsDirs)
 						if (!searchPaths.Contains(dir))
-							subLibsDirs.Add(dir);
+							searchPaths.Add(dir);
 				if (subDiagLibsDirs != null && subDiagLibsDirs.Count > 0)
 					foreach (string dir in subDiagLibsDirs)
 						if (!searchPaths.Contains(dir))
-							subDiagLibsDirs.Add(dir);
+							searchPaths.Add(dir);
 				pyEngine.SetSearchPaths(searchPaths);
 
 				//Get all Python files used for diagnostics and for validation
