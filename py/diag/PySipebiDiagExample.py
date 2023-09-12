@@ -20,8 +20,6 @@ class PySipebiDiagExample(PySipebiDiagnosticsBase):
 
 	# execute: fungsi untuk menjalankan penyuntingan. Fungsi ini harus ada (sudah terdefinisikan pada PySipebiAnalyzerBase)
 	def execute(self, text):  # harus ada, signature dari fungsi harus selalu seperti ini: def execute(self, text):
-		self.isCompleted = False  # bendera ini harus selalu direset sebelum eksekusi
-		self.diagList = []  # kosongkan daftar kesalahan sebelum script dijalankan ulang
 		self.varNo = self.varNo + 1  # contoh penggunaan variabel
 		self.varStr = text  # contoh penggunaan input/variabel
 		# ---text dapat diproses di sini untuk mendapatkan hasil diagnosis---

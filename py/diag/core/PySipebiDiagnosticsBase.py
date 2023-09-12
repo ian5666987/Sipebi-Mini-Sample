@@ -26,6 +26,10 @@ class PySipebiDiagnosticsBase:
 	# execute: fungsi untuk menjalankan penyuntingan tanpa input lain selain teks awal
 	# fungsi ini harus di-override
 	def execute(self, text):
+		self.empty_diagnostics_and_reinit()
+		# <------------------------------->
+		# skrip untuk menjalankan diagnosis tanpa menggunakan shared resources
+		# <------------------------------->
 		self.isCompleted = True
 
 	# create_shared_resources: fungsi untuk mempersiapkan shared resources, jika ada
@@ -47,4 +51,12 @@ class PySipebiDiagnosticsBase:
 	# shared_resources adalah sebuah dictionary(string:object)
 	#   string (keys) dari shared_resources adalah sama dengan yang terdaftar pada sharedResourcesOutputKeys
 	def execute_with_shared_resources(self, text, shared_resources):
+		self.empty_diagnostics_and_reinit()
+		# <------------------------------->
+		# skrip untuk menjalankan diagnosis dengan menggunakan shared resources
+		# <------------------------------->
 		self.isCompleted = True
+
+	def empty_diagnostics_and_reinit(self):
+		self.isCompleted = False
+		self.diagList = []

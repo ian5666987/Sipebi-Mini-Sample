@@ -48,8 +48,8 @@ namespace SipebiMini {
 			}
 
 			//Dapatkan informasi kesalahan suntingan buatan
-			kesalahanPenulisanSingkatDefinit = InformasiKesalahan["[Buatan-KPS-D]"];
-			kesalahanPenulisanSingkatAmbigu = InformasiKesalahan["[Buatan-KPS-A]"];
+			// kesalahanPenulisanSingkatDefinit = InformasiKesalahan["[Buatan-KPS-D]"];
+			// kesalahanPenulisanSingkatAmbigu = InformasiKesalahan["[Buatan-KPS-A]"];
 
 			//Tambahkan proses inisiasi lain untuk proses penyuntingan buatan			
 			try { //Muat fail tambahan untuk proses penyuntingan buatan
