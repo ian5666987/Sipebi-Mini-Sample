@@ -96,7 +96,9 @@ namespace SipebiMini {
 						PythonDictionary pySharedDict = new PythonDictionary();
 						foreach (var sr in SharedResourcesOutputKeys)
 							pySharedDict.Add(sr, pyDiagSharedResources[sr]);
+						PyInstance.pre_execute();
 						PyInstance.execute_with_shared_resources(text, pySharedDict);
+						PyInstance.post_execute();
 					}
 					//else if we:
 					//(1a) do not have all the needed shared resources and
@@ -104,12 +106,25 @@ namespace SipebiMini {
 					//or 
 					//(2) unable to create all the needed shared resources until the end for some reason
 					//we have no choice but to run a standard execution
-					else
+					//  as long as it is possible
+					else if (PyInstance.require_shared_resources() == false) {
+						PyInstance.pre_execute();
 						PyInstance.execute(text);
+						PyInstance.post_execute();
+					} 
+					else
+						throw new Exception($"Script [{pyScriptPath}] does not have all the necessary resources " +
+							$"[{string.Join(", ", SharedResourcesOutputKeys)}] to be executed");
 				}
 				//Script without shared resources shall be executed with only the original text as the argument
-				else
+				//  as long as it is possible
+				else if (PyInstance.require_shared_resources() == false) {
+					PyInstance.pre_execute();
 					PyInstance.execute(text);
+					PyInstance.post_execute();
+				} else
+					throw new Exception($"Script [{pyScriptPath}] does not have all the necessary resources " +
+						$"[{string.Join(", ", SharedResourcesOutputKeys)}] to be executed");
 			} else //We will throw exception if the script is not ready by now
 				throw new Exception($"Script [{pyScriptPath}] is not ready!");
 		}

@@ -46,8 +46,6 @@ class PySipebiDiagExample(PySipebiDiagnosticsBase):
 	# shared_resources adalah sebuah dictionary(string:object)
 	#   string (keys) dari shared_resources adalah sama dengan yang terdaftar pada sharedResourcesOutputKeys
 	def execute_with_shared_resources(self, text, shared_resources):
-		self.isCompleted = False  # bendera ini harus selalu direset sebelum eksekusi
-		self.diagList = []  # kosongkan daftar kesalahan sebelum script dijalankan ulang
 		self.varNo = self.varNo + 1  # contoh penggunaan variabel
 		self.varStr = text  # contoh penggunaan input/variabel
 		self.run_common_diagnostics()

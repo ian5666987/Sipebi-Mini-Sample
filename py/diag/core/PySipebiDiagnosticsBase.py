@@ -18,15 +18,33 @@ class PySipebiDiagnosticsBase:
 	# Catatan:
 	# - Idealnya, sharedResourcesInputKeys dan sharedResourcesOutputKeys tidak dibuat beririsan
 
-	# setup: fungsi untuk melakukan pengaturan awal sebelum 'execute' dijalankan
+	# setup: fungsi untuk melakukan pengaturan awal satu kali saja sebelum 'execute' dijalankan berulang kali
 	# fungsi ini harus di-override jika terdapat persiapan awal satu kali (one-time setup) untuk diagnosis ini
 	def setup(self):
 		self.isReady = True
+
+	# pre_execute: fungsi yang akan secara otomatis dijalankan sebelum fungsi execute dijalankan
+	# override fungsi ini jika diperlukan
+	def pre_execute(self):
+		self.isCompleted = False  # bendera ini harus selalu direset sebelum eksekusi
+		self.diagList = []  # kosongkan daftar kesalahan sebelum script dijalankan ulang
 
 	# execute: fungsi untuk menjalankan penyuntingan tanpa input lain selain teks awal
 	# fungsi ini harus di-override
 	def execute(self, text):
 		self.isCompleted = True
+
+	# post_execute: fungsi yang akan secara otomatis dijalankan setelah fungsi execute selesai dijalankan
+	# override fungsi ini jika diperlukan
+	def post_execute(self):
+		pass
+
+	# require_shared_resources: fungsi untuk mengindikasikan apakah fungsi ini harus dijalankan menggunakan
+	#   execute_with_shared_resources atau dapat dijalankan menggunakan execute saja jika shared_resources
+	#   tidak secara lengkap berhasil ditemukan
+	# override fungsi ini jika diperlukan
+	def require_shared_resources(self):
+		return False
 
 	# create_shared_resources: fungsi untuk mempersiapkan shared resources, jika ada
 	# fungsi ini harus di-override jika hasSharedResources = True
