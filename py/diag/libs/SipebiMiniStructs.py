@@ -48,8 +48,16 @@ class SipebiMiniParagraph:
     # create a method to split word by one space or more
     def tokenize_words(self):
         word_divs = self.text.split()
-        for i, word_div in enumerate(word_divs):
-            self.add_word_division(SipebiMiniWordDivision(word_div))
+        # tokenize word by space and set the next and previous word division
+        for i in range(len(word_divs)):
+            word_div = SipebiMiniWordDivision(word_divs[i])
+            if i < len(word_divs) - 1:
+                word_div.next_word_div = SipebiMiniWordDivision(word_divs[i+1])
+            if i > 0:
+                word_div.prev_word_div = SipebiMiniWordDivision(word_divs[i-1])
+
+            self.add_word_division(word_div)
+        
 
     def __str__(self):
         return self.text
@@ -69,7 +77,9 @@ class SipebiMiniWordDivision:
         self.position_offset = 0
         self.element_no = -1
         self.is_handled = False
-        self.next_word_div = None
+        
+        self.next_word_div: SipebiMiniWordDivision = None
+        self.prev_word_div: SipebiMiniWordDivision = None
 
         self.double_quote_error = False # attribute specific to flagging double quote error 
 

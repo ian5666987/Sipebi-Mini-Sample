@@ -28,4 +28,11 @@
 	  <AppearOnVersion>1.2.0.0</AppearOnVersion>
 	  <IsCustom>true</IsCustom>
 	</SipebiDiagnosticsErrorInformation>
+		<SipebiDiagnosticsErrorInformation>
+	  <ErrorCode>TB07</ErrorCode>
+	  <Error>[Contoh] Contoh Kode Kesalahan B</Error>
+	  <ErrorExplanation>[Contoh] Contoh penjelasan kode kesalahan B</ErrorExplanation>
+	  <AppearOnVersion>1.2.0.0</AppearOnVersion>
+	  <IsCustom>true</IsCustom>
+	</SipebiDiagnosticsErrorInformation>
 </ArrayOfSipebiDiagnosticsErrorInformation>
