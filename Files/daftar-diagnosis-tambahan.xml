@@ -28,10 +28,10 @@
 	  <AppearOnVersion>1.2.0.0</AppearOnVersion>
 	  <IsCustom>true</IsCustom>
 	</SipebiDiagnosticsErrorInformation>
-		<SipebiDiagnosticsErrorInformation>
+	<SipebiDiagnosticsErrorInformation>
 	  <ErrorCode>TB07</ErrorCode>
-	  <Error>[Contoh] Contoh Kode Kesalahan B</Error>
-	  <ErrorExplanation>[Contoh] Contoh penjelasan kode kesalahan B</ErrorExplanation>
+	  <Error>Tanda koma digunakan untuk memisahkan petikan langsung dari bagian lain dalam kalimat</Error>
+	  <ErrorExplanation>Tanda koma digunakan untuk memisahkan petikan langsung dari bagian lain dalam kalimat</ErrorExplanation>
 	  <AppearOnVersion>1.2.0.0</AppearOnVersion>
 	  <IsCustom>true</IsCustom>
 	</SipebiDiagnosticsErrorInformation>
