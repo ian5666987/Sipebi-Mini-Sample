@@ -16,42 +16,51 @@ class PySipebiDiagAturanTandaBacaPadaDialog(PySipebiDiagnosticsBase):
         return output_resources
 
     def execute_with_shared_resources(self, text, shared_resources):
-        self.empty_diagnostics_and_reinit()
-
         sipebi_text: SipebiMiniText = shared_resources['sipebi_text_division']
-        char_sum_pos = 0
         for i, paragraph_div in enumerate(sipebi_text.paragraph_divs):
             paragraph: SipebiMiniParagraph = paragraph_div
             for j, word_div in enumerate(paragraph.word_divs):
                 word: SipebiMiniWordDivision = word_div
-                if word.check_post_word_is_double_quote:
-                    if word.post_word in SipebiMiniWordDivision.POST_CHARS_OMITTED:
-                        char_sum_pos += len(word.original_string)
+
+                if word.pre_word == '"': 
+                    prev_word = word.prev_word_div
+                    if prev_word and not prev_word.has_post_word:
                         hasilDiagnosis = PySipebiDiagnosticsError()
-                        hasilDiagnosis.ParagraphNo = i + 1
-                        hasilDiagnosis.ElementNo = j + 1
+                        hasilDiagnosis.ParagraphNo = paragraph.index
+                        hasilDiagnosis.ElementNo = prev_word.element_no
                         hasilDiagnosis.ErrorCode = 'TB07'
-                        hasilDiagnosis.OriginalElement = word.clean_word_string
-                        hasilDiagnosis.CorrectedElement = word.original_string[:-1] + ","
+                        hasilDiagnosis.OriginalElement = prev_word.clean_word_string
+                        hasilDiagnosis.CorrectedElement = prev_word.clean_word_string + ","
                         hasilDiagnosis.CorrectedCharPosition = 0
                         hasilDiagnosis.IsAmbiguous = False
-                        hasilDiagnosis.OriginalParagraphOffset = char_sum_pos - len(word.original_string)
+                        hasilDiagnosis.OriginalParagraphOffset = paragraph.offset
+                        hasilDiagnosis.PositionOffset = prev_word.position_offset
+                        self.diagList.append(hasilDiagnosis)
+
+                if word.check_post_word_is_double_quote:
+                    if word.post_word in SipebiMiniWordDivision.POST_CHARS_OMITTED and word.next_word_div:
+                        hasilDiagnosis = PySipebiDiagnosticsError()
+                        hasilDiagnosis.ParagraphNo = paragraph.index
+                        hasilDiagnosis.ElementNo = word.element_no
+                        hasilDiagnosis.ErrorCode = 'TB07'
+                        hasilDiagnosis.OriginalElement = word.clean_word_string
+                        hasilDiagnosis.CorrectedElement = word.clean_word_string + ","
+                        hasilDiagnosis.CorrectedCharPosition = 0
+                        hasilDiagnosis.IsAmbiguous = False
+                        hasilDiagnosis.OriginalParagraphOffset = paragraph.offset
                         hasilDiagnosis.PositionOffset = word.position_offset
                         self.diagList.append(hasilDiagnosis)
 
         self.isCompleted = True
 
-text = '"Aku ingin pergi ke pasar" kata dia.'
+# text = 'aku mau "aku mau" katanya'
+# text = SipebiMiniText(text)
 
-sipebi_text = SipebiMiniText(text)
-dict = {
-    'sipebi_text_division': sipebi_text
-}
+# diag = PySipebiDiagAturanTandaBacaPadaDialog()
 
-diagnosis = PySipebiDiagAturanTandaBacaPadaDialog()
-diagnosis.setup()
-diagnosis.execute_with_shared_resources(text, dict)
+# dict = {
+#     'sipebi_text_division': text
+# }
 
-for diag in diagnosis.diagList:
-    print(diag.OriginalElement, diag.CorrectedElement, diag.CorrectedCharPosition, diag.ErrorCode)
-    print(diag.OriginalParagraphOffset, diag.PositionOffset, diag.ParagraphNo, diag.ElementNo, diag.IsAmbiguous)
+# diag.execute_with_shared_resources(text, dict)
+
