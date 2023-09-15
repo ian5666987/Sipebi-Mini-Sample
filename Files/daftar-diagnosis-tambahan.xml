@@ -28,4 +28,11 @@
 	  <AppearOnVersion>1.2.0.0</AppearOnVersion>
 	  <IsCustom>true</IsCustom>
 	</SipebiDiagnosticsErrorInformation>
+	<SipebiDiagnosticsErrorInformation>
+	  <ErrorCode>TB07</ErrorCode>
+	  <Error>Tanda koma digunakan untuk memisahkan petikan langsung dari bagian lain dalam kalimat</Error>
+	  <ErrorExplanation>Tanda koma digunakan untuk memisahkan petikan langsung dari bagian lain dalam kalimat</ErrorExplanation>
+	  <AppearOnVersion>1.2.0.0</AppearOnVersion>
+	  <IsCustom>true</IsCustom>
+	</SipebiDiagnosticsErrorInformation>
 </ArrayOfSipebiDiagnosticsErrorInformation>
