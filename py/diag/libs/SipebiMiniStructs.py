@@ -42,6 +42,8 @@ class SipebiMiniParagraph:
         self.text = text
         self.length = length
 
+        self.is_pre_char_occured = False
+
         self.word_divs: SipebiMiniWordDivision = []
         self.size = 0
 
@@ -56,6 +58,7 @@ class SipebiMiniParagraph:
         offset = 0
         for i in range(len(word_divs)):
             word_div = SipebiMiniWordDivision(original_string=word_divs[i])
+
             if i > 0:
                 # 1 is the length of space character
                 offset += len(word_divs[i-1]) + 1
@@ -66,12 +69,6 @@ class SipebiMiniParagraph:
 
                 # checking if a word only contains punctuation
                 if not word_div.clean_word_string:
-                    # previous_word = word_div.prev_word_div
-                    # previous_word.reconstruct_string(new_clean_word=previous_word.clean_post_word, 
-                    #                                 new_pre_word=word_div.pre_clean_word, 
-                    #                                 new_post_word=word_div.clean_post_word)
-
-                    # checking if punctuation is PRE_CHARS_OMITTED or POST_CHARS_OMITTED
                     if word_div.has_post_word:
                         ori_string = word_div.prev_word_div.clean_post_word
                         new_word = word_div.pre_clean_word + ori_string + word_div.clean_post_word
@@ -92,76 +89,53 @@ class SipebiMiniParagraph:
 
     def __str__(self):
         return self.text
-
+    
 class SipebiMiniWordDivision:
-    PRE_CHARS_OMITTED = {'(', '\'', '"', '[', '{', '-'}
-    POST_CHARS_OMITTED = {
-        '?', ',', '!', '.', ')', ':', '-', '\'', '"', '}',
-        ']', ';'
-    }
     def __init__(self, element_no=-1, original_string='', offset=-1):
         self.original_string = original_string
         self.element_no = element_no
         self.position_offset = offset
         self.clean_word_string = original_string.strip()
-        self.pre_word = ""
-        self.post_word = ""
-        self.word_position_in_sentence = None
+        self.pre_word: SipebiMiniPreWordPunctuation = SipebiMiniPreWordPunctuation()
+        self.post_word: SipebiMiniPostWordPunctuation = SipebiMiniPostWordPunctuation()
 
         self.is_handled = False
         
         self.next_word_div: SipebiMiniWordDivision = None
         self.prev_word_div: SipebiMiniWordDivision = None
 
-        self.double_quote_error = False # attribute specific to flagging double quote error 
-
         self.process_word()
 
-    def check_pre_word(self):
-        first_char = self.clean_word_string[0]
-        if first_char in self.PRE_CHARS_OMITTED:
-            self.pre_word = first_char
-            self.clean_word_string = self.clean_word_string[1:]
-
-    def check_post_word(self):
-        if not self.clean_word_string:
-            return
-        last_char = self.clean_word_string[-1]
-        if last_char in self.POST_CHARS_OMITTED:
-            # checking if last char is a double quote
-            if last_char == '"':
-                if (self.clean_word_string[-2] in self.POST_CHARS_OMITTED):
-                    self.post_word = self.clean_word_string[-2] + last_char
-                    self.clean_word_string = self.clean_word_string[:-2]
-                else:
-                    self.double_quote_error = True
-                    self.post_word = last_char
-                    self.clean_word_string = self.clean_word_string[:-1]
+    def _check_pre_word(self):
+        self.pre_word = SipebiMiniPreWordPunctuation()
+        for char in self.clean_word_string:
+            if char in SipebiMiniPunctuationDivision.PRE_CHARS_OMITTED:
+                self.pre_word.add_punctuation_division(char)
             else:
-                self.post_word = last_char
-                self.clean_word_string = self.clean_word_string[:-1]
+                break
+        self.clean_word_string = self.clean_word_string[self.pre_word.length:]
+
+    def _check_post_word(self):
+        self.post_word = SipebiMiniPostWordPunctuation()
+        for char in reversed(self.clean_word_string):
+            if char in SipebiMiniPunctuationDivision.POST_CHARS_OMITTED:
+                self.post_word.add_punctuation_division(char)
+            else:
+                break
+        if self.post_word.length > 0:
+            self.clean_word_string = self.clean_word_string[:-self.post_word.length]
 
     def process_word(self):
-        self.check_pre_word()
-        self.check_post_word()
-
-    @property
-    def check_post_word_is_double_quote(self):
-        if self.post_word:
-            return self.post_word[-1] == '"'
-        return False
-    
-    @property   
-    def check_post_word_is_double_quote_without_error(self):
-        return self.check_post_word_is_double_quote and not self.double_quote_error
+        self._check_pre_word()
+        self._check_post_word()
 
     @property
     def has_pre_word(self):
-        return bool(self.pre_word.strip())
-
+        return self.pre_word.has_punctuation_div
+    
     @property
     def has_post_word(self):
-        return bool(self.post_word.strip())
+        return self.post_word.has_punctuation_div
     
     def ended_with(self, character):
         return self.clean_word_string.endswith(character)
@@ -170,28 +144,12 @@ class SipebiMiniWordDivision:
         return self.clean_word_string.startswith(character)
 
     @property
-    def ended_with_dot(self):
-        return self.ended_with(".")
-
-    @property
-    def ended_with_comma(self):
-        return self.ended_with(",")
-
-    @property
-    def ended_with_question_mark(self):
-        return self.ended_with("?")
-
-    @property
-    def ended_with_exclamation(self):
-        return self.ended_with("!")
-
-    @property
     def pre_clean_word(self):
-        return self.pre_word + self.clean_word_string
+        return self.pre_word.string_repr + self.clean_word_string
 
     @property
     def clean_post_word(self):
-        return self.clean_word_string + self.post_word
+        return self.clean_word_string + self.post_word.string_repr
     
     def first_char_is(self, char_type):
         return self.clean_word_string and char_type(self.clean_word_string[0])
@@ -206,34 +164,82 @@ class SipebiMiniWordDivision:
 
     @property
     def only_has_post_word(self):
-        return not self.clean_word_string and bool(self.post_word.strip())
+        return not self.clean_word_string and self.post_word.has_punctuation_div
 
     @property
     def word_with_no_pre_word(self):
-        return not self.pre_word.strip() and bool(self.clean_word_string.strip())
+        return not self.pre_word.has_punctuation_div and bool(self.clean_word_string.strip())
 
     @property
     def is_null_or_empty(self):
         return not self.original_string
 
-    def reconstruct_string(self, new_clean_word, new_pre_word=None, new_post_word=None):
-        self.clean_word_string = new_clean_word
-        self.pre_word = new_pre_word or self.pre_word
-        self.post_word = new_post_word or self.post_word
-        self.original_string = self.pre_word + new_clean_word + self.post_word
-
-    def space_combine(self, another_word_div):
-        return self.original_string + " " + another_word_div.original_string
-
-    @staticmethod
-    def space_combine_list(other_word_divs):
-        return " ".join([x.original_string for x in other_word_divs if x])
-
-    def pre_post_combine(self, mid_string, another_word_div):
-        return self.pre_clean_word + mid_string + another_word_div.clean_post_word
-
-    def pre_post_combine_without_mid(self, another_word_div):
-        return self.pre_clean_word + another_word_div.clean_post_word
-
     def __str__(self):
         return self.original_string
+    
+class SipebiMiniPunctuationDivision:
+    PRE_CHARS_OMITTED = {'(', '\'', '"', '[', '{', '-'}
+    POST_CHARS_OMITTED = {
+        '?', ',', '!', '.', ')', ':', '\'', '"', '}',
+        ']', ';', '-'
+    }
+
+    def __init__(self):
+        self.punctuation_div = []
+
+    @property
+    def string_repr(self):
+        str = ""
+        return str.join(self.punctuation_div)
+
+    @property
+    def length(self):
+        return len(self.punctuation_div)
+
+    def add_punctuation_division(self, char):
+        self.punctuation_div.append(char)
+
+    def punctuation_div_contains(self, char):
+        for char in self.punctuation_div:
+            if char in self.punctuation_div:
+                return True
+            
+    def ended_with(self, character):
+        return self.last_punctuation == character
+    
+    def start_with(self, character):
+        return self.first_punctuation == character
+    
+    def contains(self, character):
+        return character in self.punctuation_div
+    
+    def index(self, character):
+        return self.punctuation_div.index(character)
+
+    @property
+    def last_punctuation(self):
+        if self.has_punctuation_div:
+            return self.punctuation_div[-1]
+        return None
+    @property
+    def first_punctuation(self):
+        if self.has_punctuation_div:
+            return self.punctuation_div[0]
+        return None
+    
+    @property
+    def has_punctuation_div(self):
+        return self.length != 0
+
+    def __str__(self):
+        return self.punctuation_div
+
+
+class SipebiMiniPreWordPunctuation(SipebiMiniPunctuationDivision):
+    pass
+
+class SipebiMiniPostWordPunctuation(SipebiMiniPunctuationDivision):
+    # override method
+    def add_punctuation_division(self, char):
+        return self.punctuation_div.insert(0, char)
+
