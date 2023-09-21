@@ -35,4 +35,11 @@
 	  <AppearOnVersion>1.2.0.0</AppearOnVersion>
 	  <IsCustom>true</IsCustom>
 	</SipebiDiagnosticsErrorInformation>
+	<SipebiDiagnosticsErrorInformation>
+	  <ErrorCode>TB08</ErrorCode>
+	  <Error>Tanda koma tidak digunakan untuk memisahkan petikan langsung yang diakhiri tanda tanya atau tanda seru dari bagian kalimat yang mengikutinya</Error>
+	  <ErrorExplanation>Tanda koma tidak digunakan untuk memisahkan petikan langsung yang diakhiri tanda tanya atau tanda seru dari bagian kalimat yang mengikutinya</ErrorExplanation>
+	  <AppearOnVersion>1.2.0.0</AppearOnVersion>
+	  <IsCustom>true</IsCustom>
+	</SipebiDiagnosticsErrorInformation>
 </ArrayOfSipebiDiagnosticsErrorInformation>
