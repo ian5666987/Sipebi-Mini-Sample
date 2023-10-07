@@ -54,6 +54,8 @@ namespace SipebiMini {
 		private static Dictionary<string, SipebiPythonScript> pyDiagScripts = new Dictionary<string, SipebiPythonScript>();
 		private static Dictionary<string, object> pyDiagSharedResources = new Dictionary<string, object>();
 		private static Dictionary<string, object> pyDiagFileResources = new Dictionary<string, object>();
+		private static Dictionary<string, object> pyValSharedResources = new Dictionary<string, object>();
+		private static Dictionary<string, object> pyValFileResources = new Dictionary<string, object>();
 
 		//Validation scripts-related properties
 		private static Dictionary<string, SipebiPythonScript> pyValScripts = new Dictionary<string, SipebiPythonScript>();
@@ -110,22 +112,26 @@ namespace SipebiMini {
 
 				//Get all files under data and save their contents as shared resources
 				string[] fileResourcePaths = Directory.GetFiles(dataDir, "*.*", SearchOption.TopDirectoryOnly)
-					.Where(x => !x.ToLower().EndsWith(".md")).ToArray();
+					.Where(x => !x.ToLower().EndsWith(".md")).ToArray(); //.md files are excluded
 				foreach (string fileResourcePath in fileResourcePaths) {
 					string text = File.ReadAllText(fileResourcePath, Encoding.UTF8);
 					string fileName = Path.GetFileName(fileResourcePath);
 					string fileResourceName = Path.Combine(DATA_DIR_NAME, fileName);
-					if (!pyDiagFileResources.ContainsKey(fileResourceName))
-						pyDiagFileResources.Add(fileResourceName, text);
+					//Validation file resources are available only for validation scripts, not for diagnostics scripts
+					if (!pyValFileResources.ContainsKey(fileResourceName))
+						pyValFileResources.Add(fileResourceName, text);
 				}
 				string[] diagFileResourcePaths = Directory.GetFiles(diagDataDir, "*.*", SearchOption.TopDirectoryOnly)
-					.Where(x => !x.ToLower().EndsWith(".md")).ToArray();
+					.Where(x => !x.ToLower().EndsWith(".md")).ToArray(); //.md files are excluded
 				foreach (string dataFileResourcePath in diagFileResourcePaths) {
 					string text = File.ReadAllText(dataFileResourcePath, Encoding.UTF8);
 					string fileName = Path.GetFileName(dataFileResourcePath);
 					string fileResourceName = Path.Combine(DIAG_DIR_NAME, DATA_DIR_NAME, fileName);
+					//Diagnostics file resources are available for both diagnostics scripts and validation scripts
 					if (!pyDiagFileResources.ContainsKey(fileResourceName))
 						pyDiagFileResources.Add(fileResourceName, text);
+					if (!pyValFileResources.ContainsKey(fileResourceName))
+						pyValFileResources.Add(fileResourceName, text);
 				}
 
 				//Initialize diagnostics example script
@@ -164,7 +170,7 @@ namespace SipebiMini {
 				pyScript = pyDiagScripts[scriptFileName];
 
 			//Execute the script
-			pyScript.Execute(text, pyDiagSharedResources, pyDiagFileResources);
+			pyScript.ExecuteDiagnostics(text, pyDiagSharedResources, pyDiagFileResources);
 
 			//Get the diagnostics results of the script
 			PythonList diagList = pyScript.PyInstance.diagList;
@@ -197,16 +203,13 @@ namespace SipebiMini {
 			SipebiPythonScript pyScript = null;
 			if (!pyValScripts.ContainsKey(scriptFileName)) {
 				pyScript = new SipebiPythonScript();
-				pyScript.Initialize(pyEngine, scriptPath, scriptFileName, scriptClassName);
+				pyScript.Initialize(pyEngine, scriptPath, scriptFileName, scriptClassName, isValidation: true);
 				pyValScripts.Add(scriptFileName, pyScript);
 			} else
-				pyScript = pyDiagScripts[scriptFileName];
+				pyScript = pyValScripts[scriptFileName];
 
 			//Execute the script with the original text as an argument
-			if (pyScript.IsReady)
-				pyScript.PyInstance.execute();
-			else
-				throw new Exception($"Script [{scriptPath}, {scriptFileName}] is not ready!");
+			pyScript.ExecuteValidation(pyValSharedResources, pyValFileResources);
 		}
 
 		//Method to run all diagnostics scripts
@@ -256,6 +259,9 @@ namespace SipebiMini {
 			if (pyEngine == null) return;
 			string currentValidationScript = string.Empty;
 			try {
+				//Every time the validation script sequence is re-executed, the shared resources must be cleared
+				pyValSharedResources.Clear();
+
 				foreach (var scriptNameClass in pyValScriptNameClasses) {
 					//Get the validation script and name
 					currentValidationScript = scriptNameClass;
@@ -293,7 +299,7 @@ namespace SipebiMini {
 				return "Diagnostics example script is not ready!";
 			//Note we do NOT clear the shared resources used in the example to test if it is indeed
 			//  NOT re-creating shared resources (supposedly simulating sequential, different, diagnostics scripts execution)
-			diagPyExampleScript.Execute("initial text", pyDiagSharedResources);
+			diagPyExampleScript.ExecuteDiagnostics("initial text", pyDiagSharedResources);
 			StringBuilder sb = new StringBuilder();
 			sb.AppendLine($"varNo: {diagPyExampleScript.PyInstance.varNo.ToString()}");
 			sb.AppendLine($"varStr: {diagPyExampleScript.PyInstance.varStr.ToString()}");

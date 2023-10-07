@@ -11,6 +11,7 @@ using IronPython.Hosting;
 using IronPython.Runtime;
 using Microsoft.Scripting.Hosting;
 using SipebiMini.Core;
+using static System.Net.Mime.MediaTypeNames;
 
 namespace SipebiMini {
 	//IronPython example is taken from:
@@ -30,8 +31,10 @@ namespace SipebiMini {
 		public List<string> SharedResourcesInputKeys { get; private set; } = new List<string>();
 		public List<string> SharedResourcesOutputKeys { get; private set; } = new List<string>();
 		public List<string> FileResourceNames { get; private set; } = new List<string>();
+		public bool IsValidation { get; private set; }
 
-		public void Initialize(ScriptEngine pyEngine, string scriptPath, string scriptFileName, string scriptClassName) {
+		public void Initialize(ScriptEngine pyEngine, string scriptPath, string scriptFileName, string scriptClassName,
+			bool isValidation = false) {
 			if (pyEngine == null || string.IsNullOrWhiteSpace(scriptPath) || !File.Exists(scriptPath) ||
 				string.IsNullOrWhiteSpace(scriptFileName) || string.IsNullOrWhiteSpace(scriptClassName))
 				return;
@@ -46,19 +49,22 @@ namespace SipebiMini {
 			pyClass = pyScope.GetVariable(scriptClassName);
 			PyInstance = this.pyEngine.Operations.CreateInstance(pyClass);
 			PyInstance.setup(); //Setup the script
+			IsValidation = isValidation;
 			HasSharedResources = PyInstance.hasSharedResources;
 			if (HasSharedResources) {
-				SharedResourcesInputKeys = ((PythonList)PyInstance.sharedResourcesInputKeys)
-					.ToList().Select(x => (string)x).ToList();
-				SharedResourcesOutputKeys = ((PythonList)PyInstance.sharedResourcesOutputKeys)
-					.ToList().Select(x => (string)x).ToList();
+				if (!IsValidation) { //Validation scripts only have file resources
+					SharedResourcesInputKeys = ((PythonList)PyInstance.sharedResourcesInputKeys)
+						.ToList().Select(x => (string)x).ToList();
+					SharedResourcesOutputKeys = ((PythonList)PyInstance.sharedResourcesOutputKeys)
+						.ToList().Select(x => (string)x).ToList();
+				}
 				FileResourceNames = ((PythonList)PyInstance.fileResourceNames)
 					.ToList().Select(x => (string)x).ToList();
 			}
 			IsReady = PyInstance.isReady;
 		}
 
-		public void Execute(string text, Dictionary<string, object> pyDiagSharedResources = null, Dictionary<string, object> pyDiagFileResources = null) {
+		public void ExecuteDiagnostics(string text, Dictionary<string, object> pyDiagSharedResources = null, Dictionary<string, object> pyDiagFileResources = null) {
 			//Check if the script is ready
 			if (IsReady) {
 				//Check if the script has shared resources and the resources needed are listed
@@ -88,7 +94,6 @@ namespace SipebiMini {
 						areAllFileResourcesAvailable = FileResourceNames.All(x => pyDiagSharedResources.ContainsKey(
 							Path.Combine(SipebiPythonManager.DIAG_DIR_NAME, SipebiPythonManager.DATA_DIR_NAME, x)));
 					}
-					
 
 					//If not all the output shared resources are available
 					//We check if we could provide the inputs needed to create the output shared resources
@@ -114,7 +119,7 @@ namespace SipebiMini {
 							}
 
 						//We check again if we truly have all the output shared resources needed again here
-						areAllOutputResourcesAvailable = 
+						areAllOutputResourcesAvailable =
 							SharedResourcesOutputKeys.All(x => pyDiagSharedResources.ContainsKey(x));
 					}
 
@@ -124,6 +129,8 @@ namespace SipebiMini {
 					//If we have all the shared resources needed, we will execute the script with the shared resources needed as the inputs + original text
 					if (areAllSharedResourcesAvailable) {
 						PythonDictionary pySharedDict = new PythonDictionary();
+						foreach (var sr in FileResourceNames)
+							pySharedDict.Add(sr, pyDiagSharedResources[sr]);
 						foreach (var sr in SharedResourcesOutputKeys)
 							pySharedDict.Add(sr, pyDiagSharedResources[sr]);
 						PyInstance.pre_execute();
@@ -168,6 +175,28 @@ namespace SipebiMini {
 				}
 			} else //We will throw exception if the script is not ready by now
 				throw new Exception($"Script [{pyScriptPath}] is not ready!");
+		}
+
+		public void ExecuteValidation(Dictionary<string, object> pyValSharedResources = null, Dictionary<string, object> pyValFileResources = null) {
+			//Check if the script is ready
+			if (IsReady) {
+				//Check if the script has shared resources and the resources needed are listed
+				if (HasSharedResources && pyValSharedResources != null &&
+					//Validation only has file resources, not other shared resources for now
+					FileResourceNames != null && FileResourceNames.Count > 0
+					) {
+					//We first check if we do not already have all the needed shared resources (both file and output)
+					bool areAllFileResourcesAvailable =
+						FileResourceNames == null || FileResourceNames.Count <= 0 ||
+						FileResourceNames.All(x => pyValSharedResources.ContainsKey(
+							Path.Combine(SipebiPythonManager.DIAG_DIR_NAME, SipebiPythonManager.DATA_DIR_NAME, x)));
+
+					//TODO add more stuffs for executing validation script, such as open file, maybe write file is not necessary
+					PyInstance.execute();
+				}
+			} else {
+				throw new Exception($"Script [{pyScriptPath}] is not ready!");
+			}
 		}
 
 		//Method to reformat original Python script into script that is executable using this SipebiPythonScript

@@ -16,6 +16,11 @@ class PySipebiMiniValidationBase:
     commonMistakes = []  # list of common mistakes after the execution of the DS, if any (the DS does NOT functions fully as expected)
     specialMistakes = []  # list of special mistakes after the execution of the DS, if any (the DS does NOT functions fully as expected)
 
+    # Shared resources related properties
+    # hasSharedResources: indicating that this validation has file resources
+    hasSharedResources = False
+    fileResourceNames = []
+
     # Functions/Methods
     # The base function for validation script setup (by default there is nothing prepared for the validation to be ready)
     def setup(self):
