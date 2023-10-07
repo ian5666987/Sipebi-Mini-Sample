@@ -130,7 +130,7 @@ namespace SipebiMini {
 					if (areAllSharedResourcesAvailable) {
 						PythonDictionary pySharedDict = new PythonDictionary();
 						foreach (var sr in FileResourceNames)
-							pySharedDict.Add(sr, pyDiagSharedResources[sr]);
+							pySharedDict.Add(sr, pyDiagSharedResources[Path.Combine(SipebiPythonManager.DIAG_DIR_NAME, SipebiPythonManager.DATA_DIR_NAME, sr)]);
 						foreach (var sr in SharedResourcesOutputKeys)
 							pySharedDict.Add(sr, pyDiagSharedResources[sr]);
 						PyInstance.pre_execute();

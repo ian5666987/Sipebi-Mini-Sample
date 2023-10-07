@@ -58,7 +58,7 @@ class PySipebiDiagExample(PySipebiDiagnosticsBase):
 		hasil_diagnosis = PySipebiDiagnosticsError()
 		hasil_diagnosis.ErrorCode = '[Kode Contoh R]'
 		hasil_diagnosis.OriginalElement = 'sr-contoh-' + str(self.varNo)
-		hasil_diagnosis.CorrectedElement = 'sr-contoh-' + str(self.varNo) + ('R' if not file_resource_text else '0')
+		hasil_diagnosis.CorrectedElement = 'sr-contoh-' + str(self.varNo) + ('R' if file_resource_text != '' else '0')
 		hasil_diagnosis.IsAmbiguous = True
 		self.diagList.append(hasil_diagnosis)
 
