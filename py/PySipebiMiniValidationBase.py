@@ -59,6 +59,7 @@ class PySipebiMiniValidationBase:
         # Getting the supposed output file name from the script name
         # PyDiagExampleClass.py -> PyDiagExampleClass + _result.txt
         output_filename = self.get_diag_base_name() + '_result.txt'
+        # TODO: mekanisme menulis file menggunakan open di bawah kemungkinan harus diganti
         output_file = open(output_filename, 'w')
         output_file.write(output_content)
         output_file.close()
@@ -82,6 +83,7 @@ class PySipebiMiniValidationBase:
         common_check_filename = self.get_diag_base_name() + '_common_check.txt'
         try:
             # Read common check file, get its content
+            # TODO: mekanisme membuka file menggunakan open di bawah kemungkinan harus diganti
             common_check_file = open(common_check_filename, 'r')
             common_check_lines = common_check_file.readlines()
 

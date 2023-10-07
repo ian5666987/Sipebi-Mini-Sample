@@ -3,6 +3,7 @@ if not exist py mkdir py
 if not exist py\core mkdir py\core
 if not exist py\libs mkdir py\libs 
 if not exist py\data mkdir py\data
+if not exist py\diag mkdir py\diag
 if not exist bin\Debug mkdir bin\Debug
 if not exist bin\Release mkdir bin\Release
 if not exist Files mkdir Files

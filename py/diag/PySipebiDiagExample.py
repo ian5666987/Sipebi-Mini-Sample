@@ -11,6 +11,8 @@ class PySipebiDiagExample(PySipebiDiagnosticsBase):
 	hasSharedResources = True  # diagnosis ini memiliki shared resources
 	sharedResourcesInputKeys = []  # tidak memerlukan input selain text untuk membuat shared resources
 	sharedResourcesOutputKeys = ['DummySharedResource']  # contoh shared_resource yang akan dihasilkan eksekusi yang berantai
+	namaFailDaftarFrase = 'initial_diag_file_resource_example.txt'  # contoh nama fail yang dibutuhkan sebagai file resources
+	fileResourceNames = [namaFailDaftarFrase]  # memerlukan file resource untuk melakukan eksekusi diagnosis. File resource yang diperlukan harus didaftarkan di sini agar dapat ditemukan pada shared_resources waktu execute_with_shared_resources dijalankan
 
 	# setup: fungsi untuk melakukan pengaturan awal sebelum 'execute' dijalankan. Fungsi ini harus ada (sudah terdefinisikan pada PySipebiAnalyzerBase)
 	def setup(self):  # signature dari fungsi harus selalu seperti ini: setup(self):
@@ -49,6 +51,17 @@ class PySipebiDiagExample(PySipebiDiagnosticsBase):
 		self.varNo = self.varNo + 1  # contoh penggunaan variabel
 		self.varStr = text  # contoh penggunaan input/variabel
 		self.run_common_diagnostics()
+
+		# contoh cara "membaca" isi file bagi skrip diagnosis
+		file_resource_text = self.open_file(self.namaFailDaftarFrase, shared_resources)
+
+		hasil_diagnosis = PySipebiDiagnosticsError()
+		hasil_diagnosis.ErrorCode = '[Kode Contoh R]'
+		hasil_diagnosis.OriginalElement = 'sr-contoh-' + str(self.varNo)
+		hasil_diagnosis.CorrectedElement = 'sr-contoh-' + str(self.varNo) + ('R' if not file_resource_text else '0')
+		hasil_diagnosis.IsAmbiguous = True
+		self.diagList.append(hasil_diagnosis)
+
 		if type(shared_resources is dict) and ('DummySharedResource' in shared_resources.keys()):
 			hasil_diagnosis = PySipebiDiagnosticsError()
 			hasil_diagnosis.ErrorCode = '[Kode Contoh A]'

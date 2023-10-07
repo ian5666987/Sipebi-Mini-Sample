@@ -6,7 +6,7 @@ class PySipebiDiagnosticsBase:
 	isReady = False
 	# isCompleted: bendera yang menandakan diagnosis telah selesai dikerjakan dengan sempurna
 	isCompleted = False
-	# hasSharedResources: menandakan diagnosis ini memiliki shared resources
+	# hasSharedResources: menandakan diagnosis ini membutuhkan shared resources atau file resources
 	hasSharedResources = False
 	# sharedResourcesInputKeys: daftar key dari input_resources
 	#   yang diperlukan untuk menjalankan create_shared_resources
@@ -14,9 +14,12 @@ class PySipebiDiagnosticsBase:
 	# sharedResourcesOutputKeys: daftar key yang, jika create_shared_resources berjalan dengan benar,
 	#   akan dihasilkan (yaitu, output_resources) dari menjalankan create_shared_resources,
 	#   yang juga merupakan keys yang dimiliki oleh shared_resources pada execute_with_shared_resources
-	sharedResourcesOutputKeys = []
 	# Catatan:
 	# - Idealnya, sharedResourcesInputKeys dan sharedResourcesOutputKeys tidak dibuat beririsan
+	sharedResourcesOutputKeys = []
+	# fileResourceNames: daftar nama file resource yang terdapat pada folder py\diag\resources
+	#   yang diperlukan untuk menjalankan skrip diagnosis dengan benar
+	fileResourceNames = []
 
 	# setup: fungsi untuk melakukan pengaturan awal satu kali saja sebelum 'execute' dijalankan berulang kali
 	# fungsi ini harus di-override jika terdapat persiapan awal satu kali (one-time setup) untuk diagnosis ini
@@ -66,3 +69,21 @@ class PySipebiDiagnosticsBase:
 	#   string (keys) dari shared_resources adalah sama dengan yang terdaftar pada sharedResourcesOutputKeys
 	def execute_with_shared_resources(self, text, shared_resources):
 		self.isCompleted = True
+
+	# get_file_resource_key: fungsi untuk mendapatkan nama file resource key yang digunakan pada shared_resources
+	#   pada waktu menjalankan execute_with_shared_resources
+	def get_file_resource_key(self, file_resource_name):
+		return "diag\\data\\" + file_resource_name
+
+	# open_file: fungsi untuk mendapatkan file yang sudah terlebih dahulu didaftarkan pada fileResourceNames
+	#   fungsi ini memerlukan input berupa shared_resources
+	#   dengan demikian, fungsi ini hanya dapat berjalan dengan jika dipanggil di dalam fungsi execute_with_shared_resources
+	# catatan: saat ini encoding yang digunakan untuk semua file resources adalah 'UTF-8'
+	def open_file(self, file_name, shared_resources):
+		# contoh cara mendapatkan file resource key bagi skrip diagnosis
+		file_resource_key = self.get_file_resource_key(file_name)
+		# contoh cara mengecek apakah file resource key ditemukan pada shared_resources
+		if (file_resource_key in shared_resources.keys()):
+			# contoh cara mendapatkan teks pada file resource menggunakan file resource key
+			return shared_resources[file_resource_key]
+		return ''  # jika file yang diminta tidak berhasil ditemukan pada shared_resources, maka yang dikembalikan berupa string kosong

@@ -28,4 +28,11 @@
 	  <AppearOnVersion>1.2.0.0</AppearOnVersion>
 	  <IsCustom>true</IsCustom>
 	</SipebiDiagnosticsErrorInformation>
+	<SipebiDiagnosticsErrorInformation>
+	  <ErrorCode>[Kode Contoh R]</ErrorCode>
+	  <Error>[Contoh] Contoh Kode Kesalahan R</Error>
+	  <ErrorExplanation>[Contoh] Kode ini muncul jika file resource dapat terbaca dengan sempurna</ErrorExplanation>
+	  <AppearOnVersion>1.2.0.0</AppearOnVersion>
+	  <IsCustom>true</IsCustom>
+	</SipebiDiagnosticsErrorInformation>
 </ArrayOfSipebiDiagnosticsErrorInformation>
