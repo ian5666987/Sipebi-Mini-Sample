@@ -83,7 +83,7 @@ class PySipebiDiagnosticsBase:
 		# contoh cara mendapatkan file resource key bagi skrip diagnosis
 		file_resource_key = self.get_file_resource_key(file_name)
 		# contoh cara mengecek apakah file resource key ditemukan pada shared_resources
-		if (file_resource_key in shared_resources.keys()):
+		if file_resource_key in shared_resources.keys():
 			# contoh cara mendapatkan teks pada file resource menggunakan file resource key
 			return shared_resources[file_resource_key]
 		return ''  # jika file yang diminta tidak berhasil ditemukan pada shared_resources, maka yang dikembalikan berupa string kosong

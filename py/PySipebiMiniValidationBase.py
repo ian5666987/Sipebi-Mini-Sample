@@ -8,6 +8,8 @@ class PySipebiMiniValidationBase:
     isReady = False  # flag to indicate if this validation script is ready to be run (in case it needs a special preparation)
     isCompleted = False  # flag to indicate if a validation script is executed completely and successfully. Do not set this flag as true if the validation script is executed but not successfully
     failReason = ''  # string to explain the result for the failing the validation script execution (that is, isCompleted = False), if any
+    outputContent = ''  # MUST BE FILLED PROPERLY: the string result of the validation
+    outputFilename = ''  # MUST BE DEFINED PROPERLY: the string to indicate the intended output file name of this validation script
 
     # Diagnostics script result-related properties
     commonCheckErrorCodes = []  # the list of error codes provided by common check file, this may or may not be identical to sipebiErrorCodes
@@ -19,7 +21,8 @@ class PySipebiMiniValidationBase:
     # Shared resources related properties
     # hasSharedResources: indicating that this validation has file resources
     hasSharedResources = False
-    fileResourceNames = []
+    fileResourceNames = []  # file resources that are taken from py\data\ folder
+    diagFileResourceNames = []  # file resources that are taken from py\diag\data\ folder instead of from data folder
 
     # Functions/Methods
     # The base function for validation script setup (by default there is nothing prepared for the validation to be ready)
@@ -30,6 +33,10 @@ class PySipebiMiniValidationBase:
     def execute(self):
         pass
 
+    # The base function to execute the validation script with shared resources
+    def execute_with_shared_resources(self, shared_resources):
+        pass
+
     # The base function to re-initialize "changing" variables for the preparation of the next call
     def init_changing_vars(self):
         self.isCompleted = False
@@ -38,6 +45,11 @@ class PySipebiMiniValidationBase:
         self.commonMistakes = []
         self.specialMistakes = []
 
+    # Function to indicate if this script has to be executed using execute_with_shared_resources
+    # override this function when needed
+    def require_shared_resources(self):
+        return False
+
     # The base function to get base diagnostics name from the given diagnostics script file name
     # Example: PyDiagExampleClass.py -> PyDiagExampleClass
     def get_diag_base_name(self):
@@ -45,29 +57,51 @@ class PySipebiMiniValidationBase:
             return ''
         return self.diagScriptFileName[0:len(self.diagScriptFileName)-len('.py')]
 
-    # The base function to write the validation result to an output file
-    def write_to_file(self):
+    # The base function to obtain the full name used as the key for the validation-exclusive file resource in the shared_resources
+    def get_file_resource_key(self, file_resource_name):
+        return "data\\" + file_resource_name
+
+    # The base function to obtain the full name used as the key for the diagnostics file resource in the shared_resources
+    def get_dfile_resource_key(self, file_resource_name):
+        return "diag\\data\\" + file_resource_name
+
+    # The base function to read the content of the file resources which have been registered in the fileResourceNames
+    #   This function requires shared_resources as an input
+    #   Thus, this function can only be called properly inside the function execute_with_shared_resources
+    # Note: the encoding used for all file resources are 'UTF-8'
+    def read_file(self, file_name, shared_resources):
+        file_resource_key = self.get_file_resource_key(file_name)
+        if file_resource_key in shared_resources.keys():
+            return shared_resources[file_resource_key]
+        return ''
+
+    # Exactly the same function as read_file, except that this is used to read the file from py\diag\data folder
+    #   instead of from py\data folder
+    def read_dfile(self, file_name, shared_resources):
+        file_resource_key = self.get_dfile_resource_key(file_name)
+        if file_resource_key in shared_resources.keys():
+            return shared_resources[file_resource_key]
+        return ''
+
+    # The base function to write the validation result to the outputContent
+    def write_output_content(self):
         # Prepare to write the results to the output file
-        output_content = 'complete\r\n' if self.isCompleted else 'fail\r\n'
+        self.outputContent = 'complete\r\n' if self.isCompleted else 'fail\r\n'
         if not self.isCompleted:
-            output_content += self.failReason + '\r\n'
-        output_content += 'pass\r\n' if self.isPassed else 'fail\r\n'
+            self.outputContent += self.failReason + '\r\n'
+        self.outputContent += 'pass\r\n' if self.isPassed else 'fail\r\n'
         cm_no = len(self.commonMistakes)
-        output_content += str(cm_no)
+        self.outputContent += str(cm_no)
         for i in range(0, cm_no):
-            output_content += self.commonMistakes[i] + '\r\n'
+            self.outputContent += self.commonMistakes[i] + '\r\n'
         sm_no = len(self.specialMistakes)
-        output_content += str(sm_no)
+        self.outputContent += str(sm_no)
         for i in range(0, sm_no):
-            output_content += self.specialMistakes[i] + '\r\n'
+            self.outputContent += self.specialMistakes[i] + '\r\n'
 
         # Getting the supposed output file name from the script name
         # PyDiagExampleClass.py -> PyDiagExampleClass + _result.txt
-        output_filename = self.get_diag_base_name() + '_result.txt'
-        # TODO: mekanisme menulis file menggunakan open di bawah kemungkinan harus diganti
-        output_file = open(output_filename, 'w')
-        output_file.write(output_content)
-        output_file.close()
+        self.outputFilename = self.get_diag_base_name() + '_result.txt'
 
     """ Content example:
         <line 1> KH01, KH02, Sipebi Error 1
@@ -84,13 +118,12 @@ class PySipebiMiniValidationBase:
             <ErrorCode>|<ParagraphNo>|<ElementNo>|<OriginalElement>|<CorrectedElement>|<IsAmbiguous>
     """
     # The base method to parse common check file associated with this validation
-    def parse_common_check(self):
+    def parse_common_check(self, shared_resources):
         common_check_filename = self.get_diag_base_name() + '_common_check.txt'
         try:
             # Read common check file, get its content
-            # TODO: mekanisme membuka file menggunakan open di bawah kemungkinan harus diganti
-            common_check_file = open(common_check_filename, 'r')
-            common_check_lines = common_check_file.readlines()
+            common_check_file = self.read_file(common_check_filename, shared_resources)
+            common_check_lines = common_check_file.splitlines()
 
             # Splitting error codes (i.e. "KH01, KH02, Sipebi Error 1")
             self.commonCheckErrorCodes = [x.strip() for x in common_check_lines[0].split(',')]

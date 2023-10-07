@@ -208,7 +208,7 @@ namespace SipebiMini {
 			} else
 				pyScript = pyValScripts[scriptFileName];
 
-			//Execute the script with the original text as an argument
+			//Execute the validation script
 			pyScript.ExecuteValidation(pyValSharedResources, pyValFileResources);
 		}
 
