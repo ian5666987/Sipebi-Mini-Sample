@@ -75,11 +75,11 @@ class PySipebiDiagnosticsBase:
 	def get_file_resource_key(self, file_resource_name):
 		return "diag\\data\\" + file_resource_name
 
-	# open_file: fungsi untuk mendapatkan file yang sudah terlebih dahulu didaftarkan pada fileResourceNames
+	# read_file: fungsi untuk membaca konten file yang sudah terlebih dahulu didaftarkan pada fileResourceNames
 	#   fungsi ini memerlukan input berupa shared_resources
 	#   dengan demikian, fungsi ini hanya dapat berjalan dengan jika dipanggil di dalam fungsi execute_with_shared_resources
 	# catatan: saat ini encoding yang digunakan untuk semua file resources adalah 'UTF-8'
-	def open_file(self, file_name, shared_resources):
+	def read_file(self, file_name, shared_resources):
 		# contoh cara mendapatkan file resource key bagi skrip diagnosis
 		file_resource_key = self.get_file_resource_key(file_name)
 		# contoh cara mengecek apakah file resource key ditemukan pada shared_resources

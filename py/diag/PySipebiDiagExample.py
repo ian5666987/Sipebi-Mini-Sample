@@ -53,7 +53,7 @@ class PySipebiDiagExample(PySipebiDiagnosticsBase):
 		self.run_common_diagnostics()
 
 		# contoh cara "membaca" isi file bagi skrip diagnosis
-		file_resource_text = self.open_file(self.namaFailDaftarFrase, shared_resources)
+		file_resource_text = self.read_file(self.namaFailDaftarFrase, shared_resources)
 
 		hasil_diagnosis = PySipebiDiagnosticsError()
 		hasil_diagnosis.ErrorCode = '[Kode Contoh R]'
