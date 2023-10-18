@@ -1,0 +1,12 @@
+Kata ibu "Jika kamu juara 1, ibu akan belikan sepatu baru."
+Kata ibu,"Jika kamu juara 1, ibu akan belikan sepatu baru."
+Kata ibu ,"Jika kamu juara 1, ibu akan belikan sepatu baru."
+Kata ibu, "jika kamu juara 1, ibu akan belikan sepatu baru."
+Kata ibu "jika kamu juara 1, ibu akan belikan sepatu baru."
+"Jika kamu juara 1" kata ibu "ibu akan belikan sepatu baru."
+"Jika kamu juara 1", kata ibu, "ibu akan belikan sepatu baru."
+"Jika kamu juara 1," kata ibu "ibu akan belikan sepatu baru."
+"Kapan kamu pulang kampung?," tanya nenek.
+"Kapan kamu pulang kampung?", tanya nenek.
+"Jangan bohong!," teriaknya.
+"Jangan bohong!", teriaknya.

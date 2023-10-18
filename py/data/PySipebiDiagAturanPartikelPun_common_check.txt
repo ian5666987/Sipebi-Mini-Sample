@@ -1,0 +1,5 @@
+KE02, KE03
+3
+KE02|01|01|Merekapun|Mereka pun|False
+KE03|02|01|Biar pun|Biarpun|False
+KE04|03|01|Meski pun|Meskipun|False
