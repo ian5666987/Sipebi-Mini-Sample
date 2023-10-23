@@ -466,3 +466,4 @@ bin/Release/laporan-diagnosis.xml
 bin/Release/teks-awal-perbaikan.txt
 bin/Release/teks-awal.txt
 bin/py/.idea/
+py/diag/libs/tes.py

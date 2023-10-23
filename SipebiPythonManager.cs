@@ -88,6 +88,7 @@ namespace SipebiMini {
 					Directory.CreateDirectory(dir);
 				List<string> subLibsDirs = Directory.GetDirectories(libsDir, "*", SearchOption.AllDirectories).ToList();
 				List<string> subDiagLibsDirs = Directory.GetDirectories(diagLibsDir, "*", SearchOption.AllDirectories).ToList();
+
 				if (subLibsDirs != null && subLibsDirs.Count > 0)
 					foreach (string dir in subLibsDirs)
 						if (!searchPaths.Contains(dir))
