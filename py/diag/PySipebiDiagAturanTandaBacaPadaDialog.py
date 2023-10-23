@@ -95,19 +95,3 @@ class PySipebiDiagAturanTandaBacaPadaDialog(PySipebiDiagnosticsBase):
         self.diagList.append(hasilDiagnosis)
 
         return hasilDiagnosis
-
-
-# text = 'alo aku disini "menang"'
-# text = PySipebiTextDivision(text)
-
-# diag = PySipebiDiagAturanTandaBacaPadaDialog()
-
-# dict = {
-#     'sipebi_text_division': text
-# }
-# diag.execute_with_shared_resources(text, dict)
-
-# for diag in diag.diagList:
-#     print(diag.OriginalElement)
-#     print(diag.CorrectedElement)
-

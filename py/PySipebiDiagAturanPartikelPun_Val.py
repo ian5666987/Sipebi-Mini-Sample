@@ -46,7 +46,6 @@ class PySipebiDiagAturanPartikelPun_Val(PySipebiMiniValidationBase):
 
             # Run the diagnostics script here
             diag_script = PySipebiDiagAturanPartikelPun()
-            # TODO read test input file here and execute the diagnostics script using the test input file [PySipebiDiagExample_test.txt]
             test_file = shared_resources.get('PySipebiDiagAturanPartikelPun_test.txt')
 
             sipebi_text_division = PySipebiTextDivision(test_file)
@@ -54,13 +53,9 @@ class PySipebiDiagAturanPartikelPun_Val(PySipebiMiniValidationBase):
 
             diag_script.execute_with_shared_resources(test_file, shared_resources)
 
-            # TODO put clearer example here if needed
             counter = 0
             for diag in diag_script.diagList:
                 if diag.ErrorCode in self.sipebiErrorCodes:
-                    # compare with self.commonCheckDiagnosticsErrors
-                    # self.commonCheckDiagnosticsErrors is a list of PySipebiDiagnosticsError
-                    # code
                     checkDiag = self.commonCheckDiagnosticsErrors[counter]
                     if diag.ElementNo == checkDiag.ElementNo and diag.ParagraphNo == checkDiag.ParagraphNo and diag.OriginalElement == checkDiag.OriginalElement:
                         if diag.CorrectedElement != checkDiag.CorrectedElement:
@@ -71,7 +66,7 @@ class PySipebiDiagAturanPartikelPun_Val(PySipebiMiniValidationBase):
             for i in range(counter, len(self.commonCheckDiagnosticsErrors)):
                 self.commonMistakes.append(f"P{self.commonCheckDiagnosticsErrors[i].ParagraphNo} E{self.commonCheckDiagnosticsErrors[i].ElementNo} | Expected '{self.commonCheckDiagnosticsErrors[i].OriginalElement} => {self.commonCheckDiagnosticsErrors[i].CorrectedElement}' but not detected")
 
-                # Check the conditions to consider that the validation result is 'pass' or 'fail'
+            # Check the conditions to consider that the validation result is 'pass' or 'fail'
             self.isPassed = len(self.commonMistakes) == 0 and len(self.specialMistakes) == 0
 
             # If we reach this point, the validation has been executed successfully

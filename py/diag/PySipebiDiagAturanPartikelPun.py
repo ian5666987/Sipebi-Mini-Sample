@@ -67,21 +67,3 @@ class PySipebiDiagAturanPartikelPun(PySipebiDiagnosticsBase):
         self.diagList.append(hasilDiagnosis)
 
         return hasilDiagnosis
-    
-# text = 'mama ada pun dia begitu sekarang apapun yang terjadi'
-# text = PySipebiTextDivision(text)
-
-# diag = PySipebiDiagAturanPartikelPun()
-
-# file = open('py\diag\data\data_partikel_pun.txt', 'r').read()
-
-# dict = {
-#     'sipebi_text_division': text,
-#     'data_partikel_pun.txt': file
-# }
-# diag.setup()
-# diag.execute_with_shared_resources(text, dict)
-
-# for diag in diag.diagList:
-#     print(diag.OriginalElement)
-#     print(diag.CorrectedElement)

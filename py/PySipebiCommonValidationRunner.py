@@ -1,8 +1,9 @@
+# This class is used to run the validation classes
 class PySipebiCommonValidationRunner:
     def __init__(self, validation_class):
         self.validation_class = validation_class
         self.shared_resources = {}
-
+    
     def input_into_shared_resources(self, file_resource_name):
         abs_filename = ''
         if "diag" in file_resource_name:

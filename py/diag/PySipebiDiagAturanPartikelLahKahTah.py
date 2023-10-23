@@ -54,18 +54,3 @@ class PySipebiDiagAturanPartikelLahKahTah(PySipebiDiagnosticsBase):
         self.diagList.append(hasilDiagnosis)
 
         return hasilDiagnosis
-    
-# text = 'Cq. Saya mau tanya, apakah ini benar?\napa kah uya kah yang benar?\n\nTerima kasih.'
-# text = PySipebiTextDivision(text)
-
-# diag = PySipebiDiagAturanPartikelLahKahTah()
-
-# dict = {
-#     'sipebi_text_division': text
-# }
-
-# diag.execute_with_shared_resources(text, dict)
-
-# for diag in diag.diagList:
-#     print(diag.OriginalElement)
-#     print(diag.CorrectedElement)
