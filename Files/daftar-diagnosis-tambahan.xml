@@ -29,16 +29,44 @@
 	  <IsCustom>true</IsCustom>
 	</SipebiDiagnosticsErrorInformation>
 	<SipebiDiagnosticsErrorInformation>
-	  <ErrorCode>TB07</ErrorCode>
+	  <ErrorCode>[TB07]</ErrorCode>
 	  <Error>Tanda koma digunakan untuk memisahkan petikan langsung dari bagian lain dalam kalimat</Error>
 	  <ErrorExplanation>Tanda koma digunakan untuk memisahkan petikan langsung dari bagian lain dalam kalimat</ErrorExplanation>
 	  <AppearOnVersion>1.2.0.0</AppearOnVersion>
-	  <IsCustom>true</IsCustom>
+	  <IsCustom>false</IsCustom>
 	</SipebiDiagnosticsErrorInformation>
 	<SipebiDiagnosticsErrorInformation>
-	  <ErrorCode>TB08</ErrorCode>
+	  <ErrorCode>[TB08]</ErrorCode>
 	  <Error>Tanda koma tidak digunakan untuk memisahkan petikan langsung yang diakhiri tanda tanya atau tanda seru dari bagian kalimat yang mengikutinya</Error>
 	  <ErrorExplanation>Tanda koma tidak digunakan untuk memisahkan petikan langsung yang diakhiri tanda tanya atau tanda seru dari bagian kalimat yang mengikutinya</ErrorExplanation>
+	  <AppearOnVersion>1.2.0.0</AppearOnVersion>
+	  <IsCustom>false</IsCustom>
+	</SipebiDiagnosticsErrorInformation>
+	<SipebiDiagnosticsErrorInformation>
+	  <ErrorCode>[KE01]</ErrorCode>
+	  <Error>Partikel -lah, -kah, dan -tah ditulis serangkai dengan kata yang mendahuluinya</Error>
+	  <ErrorExplanation>Partikel -lah, -kah, dan -tah ditulis serangkai dengan kata yang mendahuluinya</ErrorExplanation>
+	  <AppearOnVersion>1.2.0.0</AppearOnVersion>
+	  <IsCustom>false</IsCustom>
+	</SipebiDiagnosticsErrorInformation>
+	<SipebiDiagnosticsErrorInformation>
+	  <ErrorCode>[KE02]</ErrorCode>
+	  <Error>Partikel pun ditulis terpisah dari kata yang mendahuluinya</Error>
+	  <ErrorExplanation>Partikel pun ditulis terpisah dari kata yang mendahuluinya</ErrorExplanation>
+	  <AppearOnVersion>1.2.0.0</AppearOnVersion>
+	  <IsCustom>false</IsCustom>
+	</SipebiDiagnosticsErrorInformation>
+	<SipebiDiagnosticsErrorInformation>
+	  <ErrorCode>[KE03]</ErrorCode>
+	  <Error>Bentuk pun yang merupakan bagian kata penghubung seperti berikut ditulis serangkai</Error>
+	  <ErrorExplanation>Bentuk pun yang merupakan bagian kata penghubung seperti berikut ditulis serangkai</ErrorExplanation>
+	  <AppearOnVersion>1.2.0.0</AppearOnVersion>
+	  <IsCustom>false</IsCustom>
+	</SipebiDiagnosticsErrorInformation>
+	<SipebiDiagnosticsErrorInformation>
+	  <ErrorCode>[Kode Contoh R]</ErrorCode>
+	  <Error>[Contoh] Contoh Kode Kesalahan R</Error>
+	  <ErrorExplanation>[Contoh] Kode ini muncul jika file resource dapat terbaca dengan sempurna</ErrorExplanation>
 	  <AppearOnVersion>1.2.0.0</AppearOnVersion>
 	  <IsCustom>true</IsCustom>
 	</SipebiDiagnosticsErrorInformation>

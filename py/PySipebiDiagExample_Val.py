@@ -16,9 +16,21 @@ class PySipebiDiagExample_Val(PySipebiMiniValidationBase):
     diagScriptFileName = 'PySipebiDiagExample.py'
     sipebiErrorCodes = ['KH01', 'KH02', 'Sipebi Error 1']
 
-    # Supposing there is no override needed in the setup, init_changing_vars, and write_to_file methods
+    # Shared resources and output-related properties
+    hasSharedResources = True
+    # file resources that are taken from py\data\ folder
+    fileResourceNames = \
+        ['initial_file_resource_example.txt',
+         'PySipebiPerbaikanKataHubung_common_check.txt',
+         'PySipebiPerbaikanKataHubung_test.txt']
+    # file resources that are taken from py\diag\data\ folder instead of from data folder
+    diagFileResourceNames = ['initial_diag_file_resource_example.txt']
+    # the output file name of this validation script
+    outputFilename = 'PySipebiPerbaikanKataHubung_result.txt'
+
+    # Supposing there is no override needed in the setup, init_changing_vars, and write_output_content methods
     # We will only need to override execute method as shown below
-    def execute(self):
+    def execute_with_shared_resources(self, shared_resources):
         # Some initialization here
         # re-initialize all the variables (to clear the results from the previous call)
         self.init_changing_vars()
@@ -27,7 +39,7 @@ class PySipebiDiagExample_Val(PySipebiMiniValidationBase):
         self.commonMistakeFound = False
         self.specialMistakeFound = False
 
-        # Wrap the whole mechanism except for write_to_file in a single try-except block
+        # Wrap the whole mechanism except for write_output_content in a single try-except block
         try:
             # Some setup and checking here (i.e. the checking and getting of input files)
             # Input files: [PySipebiDiagExample_test.txt] + [PySipebiDiagExample_common_guide.txt] + other files needed for this validation
@@ -37,7 +49,7 @@ class PySipebiDiagExample_Val(PySipebiMiniValidationBase):
                 return  # Return immediately as nothing else can be done if there is no input file
 
             # Here, parse the common_guide text
-            self.parse_common_check()
+            self.parse_common_check(shared_resources)
 
             # Run the diagnostics script here
             diag_script = PySipebiDiagExample()
@@ -71,4 +83,4 @@ class PySipebiDiagExample_Val(PySipebiMiniValidationBase):
             self.failReason = 'Exception: ' + str(e.args)
 
         # Write the validation result to a text file using default (base) method
-        self.write_to_file()
+        self.write_output_content()
