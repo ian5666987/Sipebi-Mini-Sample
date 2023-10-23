@@ -10,6 +10,7 @@ class PySipebiTextDivision:
         
         self.process_text()
 
+    # method for adding paragraph division to the list
     def add_paragraph_division(self, paragraph_division):
         self.paragraph_divs.append(paragraph_division)
 
@@ -141,35 +142,36 @@ class PySipebiWordDivision:
         self.prev_word_div: PySipebiWordDivision = None # previous word division
 
         self.process_word()
+
     # Method for checking if a word contains punctuation in middle of word, example: 'aku,"mau,kamu."'
     # Pisahkan 'aku,"mau,kamu."' menjadi 'aku,"', 'mau,', 'kamu."', kemudian cek setiap kata
-    def get_analyzed_word_divs(self):
-        analyzed_word_divs = []
+    # def get_analyzed_word_divs(self):
+    #     analyzed_word_divs = []
 
-        i = 0
-        while i < len(self.clean_word_string): 
-            if self.clean_word_string[i] == '"':
-                if not self.DOUBLE_QUOTE_APPEAR:
-                    analyzed_word_divs.append(self.clean_word_string[:i])
-                    analyzed_word_divs.append(self.clean_word_string[i:])
-                else:
-                    analyzed_word_divs.append(self.clean_word_string[:i+1])
-                    analyzed_word_divs.append(self.clean_word_string[i+1:])
-                self.DOUBLE_QUOTE_APPEAR = not self.DOUBLE_QUOTE_APPEAR
-            else:
-                if self.clean_word_string[i] in PySipebiPunctuationDivision.PRE_CHARS_OMITTED:
-                    analyzed_word_divs.append(self.clean_word_string[:i])
-                    analyzed_word_divs.append(self.clean_word_string[i:])
-                if self.clean_word_string[i] in PySipebiPunctuationDivision.POST_CHARS_OMITTED:
-                    for j in range(i+1, len(self.clean_word_string)):
-                        if self.clean_word_string[j].isalnum() or self.clean_word_string[j] == '"' and not self.DOUBLE_QUOTE_APPEAR:
-                            self.DOUBLE_QUOTE_APPEAR = True
-                            i = j - 1
-                            break;
-                    analyzed_word_divs.append(self.clean_word_string[:i+1])
-                    analyzed_word_divs.append(self.clean_word_string[i+1:])
-            i += 1
-        return analyzed_word_divs
+    #     i = 0
+    #     while i < len(self.clean_word_string): 
+    #         if self.clean_word_string[i] == '"':
+    #             if not self.DOUBLE_QUOTE_APPEAR:
+    #                 analyzed_word_divs.append(self.clean_word_string[:i])
+    #                 analyzed_word_divs.append(self.clean_word_string[i:])
+    #             else:
+    #                 analyzed_word_divs.append(self.clean_word_string[:i+1])
+    #                 analyzed_word_divs.append(self.clean_word_string[i+1:])
+    #             self.DOUBLE_QUOTE_APPEAR = not self.DOUBLE_QUOTE_APPEAR
+    #         else:
+    #             if self.clean_word_string[i] in PySipebiPunctuationDivision.PRE_CHARS_OMITTED:
+    #                 analyzed_word_divs.append(self.clean_word_string[:i])
+    #                 analyzed_word_divs.append(self.clean_word_string[i:])
+    #             if self.clean_word_string[i] in PySipebiPunctuationDivision.POST_CHARS_OMITTED:
+    #                 for j in range(i+1, len(self.clean_word_string)):
+    #                     if self.clean_word_string[j].isalnum() or self.clean_word_string[j] == '"' and not self.DOUBLE_QUOTE_APPEAR:
+    #                         self.DOUBLE_QUOTE_APPEAR = True
+    #                         i = j - 1
+    #                         break;
+    #                 analyzed_word_divs.append(self.clean_word_string[:i+1])
+    #                 analyzed_word_divs.append(self.clean_word_string[i+1:])
+    #         i += 1
+    #     return analyzed_word_divs
 
     def _check_pre_word(self):
         for char in self.clean_word_string:
@@ -206,12 +208,8 @@ class PySipebiWordDivision:
     def ended_with(self, character):
         return self.clean_word_string.endswith(character)
     
-    def start_with(self, character):
-        return self.clean_word_string.startswith(character)
-    
-    
-    def end_with(self, character):
-        return self.clean_word_string.endswith(character)
+    def start_with(self, substring):
+        return self.clean_word_string.startswith(substring)
 
     @property
     def pre_clean_word(self):
@@ -220,9 +218,6 @@ class PySipebiWordDivision:
     @property
     def clean_post_word(self):
         return self.clean_word_string + self.post_word.string_repr
-    
-    def first_char_is(self, char_type):
-        return self.clean_word_string and char_type(self.clean_word_string[0])
 
     @property
     def first_char_is_letter(self):
@@ -237,17 +232,13 @@ class PySipebiWordDivision:
         return not self.clean_word_string and self.post_word.has_punctuation_div
 
     @property
-    def word_with_no_pre_word(self):
-        return not self.pre_word.has_punctuation_div and bool(self.clean_word_string.strip())
-
-    @property
     def is_null_or_empty(self):
         return not self.original_string
 
     def __str__(self):
         return self.original_string
     
-class PySipebiPunctuationDivision: # aku!",
+class PySipebiPunctuationDivision:
     PRE_CHARS_OMITTED = {'(', '\'', '"', '[', '{', '-'}
     POST_CHARS_OMITTED = {
         '?', ',', '!', '.', ')', ':', '\'', '"', '}',
@@ -267,11 +258,6 @@ class PySipebiPunctuationDivision: # aku!",
 
     def add_punctuation_division(self, char):
         self.punctuation_div.append(char)
-
-    def punctuation_div_contains(self, char):
-        for char in self.punctuation_div:
-            if char in self.punctuation_div:
-                return True
             
     def ended_with(self, character):
         return self.last_punctuation == character
