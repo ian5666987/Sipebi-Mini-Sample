@@ -59,6 +59,7 @@ class PySipebiParagraphDivision:
         for i in range(len(word_divs)):
             # create a word division object
             word_div = PySipebiWordDivision(original_string=word_divs[i])
+            word_div = word_div.identify_word_type()
 
             if i > 0:
                 # 1 is the length of space character
@@ -86,6 +87,7 @@ class PySipebiParagraphDivision:
             word_div.position_offset = offset
             word_div.element_no = self.size + 1
             self.add_word_division(word_div)
+
         
     # def tokenize_words_modified(self):
         # word_divs = self.text.split()
@@ -197,6 +199,21 @@ class PySipebiWordDivision:
         self._check_pre_word()
         self._check_post_word()
 
+    def identify_word_type(self):
+        word = None
+        if self.isnumeric():
+            word = PySipebiNumericDivision(original_string=self.original_string)
+        else:
+            word = self
+        return word
+    
+    def isnumeric(self):
+        clean_word = self.clean_word_string.replace('.', '').replace(',', '')
+        return clean_word.isnumeric()
+
+    def find_index(self, substring):
+        return self.clean_word_string.find(substring)
+
     @property
     def has_pre_word(self):
         return self.pre_word.has_punctuation_div
@@ -299,4 +316,16 @@ class PySipebiPostWordPunctuation(PySipebiPunctuationDivision):
         return self.punctuation_div.insert(0, char)
 
 class PySipebiNumericDivision(PySipebiWordDivision):
-    pass
+    
+    @property
+    def nominal_only(self):
+        return self.clean_word_string.replace('.', '')
+
+    def greater_than(self, number):
+        return int(self.nominal_only) > number
+    
+    def less_than(self, number):
+        return int(self.nominal_only) < number
+    
+    def equal_to(self, number):
+        return int(self.nominal_only) == number

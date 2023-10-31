@@ -1,5 +1,4 @@
 complete
-fail
-1 common mistakes found
-P1 E1 | Expected 'Mereka,pun' but got 'Mereka pun'
+pass
+0 common mistakes found
 0 special mistakes found

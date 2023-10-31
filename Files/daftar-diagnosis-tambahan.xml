@@ -64,6 +64,13 @@
 	  <IsCustom>false</IsCustom>
 	</SipebiDiagnosticsErrorInformation>
 	<SipebiDiagnosticsErrorInformation>
+	  <ErrorCode>[KG05]</ErrorCode>
+	  <Error>Angka yang menunjukkan bilangan besar dapat ditulis sebagian dengan huruf supaya lebih mudah dibaca</Error>
+	  <ErrorExplanation>Angka yang menunjukkan bilangan besar dapat ditulis sebagian dengan huruf supaya lebih mudah dibaca</ErrorExplanation>
+	  <AppearOnVersion>1.2.0.0</AppearOnVersion>
+	  <IsCustom>false</IsCustom>
+	</SipebiDiagnosticsErrorInformation>
+	<SipebiDiagnosticsErrorInformation>
 	  <ErrorCode>[Kode Contoh R]</ErrorCode>
 	  <Error>[Contoh] Contoh Kode Kesalahan R</Error>
 	  <ErrorExplanation>[Contoh] Kode ini muncul jika file resource dapat terbaca dengan sempurna</ErrorExplanation>
