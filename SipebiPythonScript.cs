@@ -12,7 +12,6 @@ using IronPython.Modules;
 using IronPython.Runtime;
 using Microsoft.Scripting.Hosting;
 using SipebiMini.Core;
-using static System.Net.Mime.MediaTypeNames;
 
 namespace SipebiMini {
 	//IronPython example is taken from:
