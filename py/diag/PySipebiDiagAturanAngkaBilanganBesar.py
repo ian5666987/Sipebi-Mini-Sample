@@ -1,6 +1,6 @@
-from core.PySipebiDiagnosticsBase import PySipebiDiagnosticsBase
-from core.PySipebiDiagnosticsError import PySipebiDiagnosticsError
-from core.PySipebiStructs import PySipebiTextDivision, PySipebiParagraphDivision, PySipebiWordDivision, PySipebiNumericDivision
+from .core.PySipebiDiagnosticsBase import PySipebiDiagnosticsBase
+from .core.PySipebiDiagnosticsError import PySipebiDiagnosticsError
+from .core.PySipebiStructs import PySipebiTextDivision, PySipebiParagraphDivision, PySipebiWordDivision, PySipebiNumericDivision
 
 class PySipebiDiagAturanAngkaBilanganBesar(PySipebiDiagnosticsBase):
     hasSharedResources = True
@@ -64,18 +64,3 @@ class PySipebiDiagAturanAngkaBilanganBesar(PySipebiDiagnosticsBase):
         self.diagList.append(hasilDiagnosis)
 
         return hasilDiagnosis
-    
-# text = "Dia berhasil mengumpulkan donasi 11.000 rupiah biaya sekolah anak-anak kurang mampu di desanya."
-
-# test = PySipebiTextDivision(text)
-
-# shared_resources = {
-#     'sipebi_text_division': test
-# }
-
-# test2 = PySipebiAturanAngkaBilanganBesar()
-# test2.execute_with_shared_resources(text, shared_resources)
-
-# for diag in test2.diagList:
-#     print("ElementNo: ", diag.ElementNo)
-#     print(diag.OriginalElement, diag.CorrectedElement)

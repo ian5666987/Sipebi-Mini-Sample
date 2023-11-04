@@ -1,0 +1,5 @@
+fail
+Exception: ('list index out of range',)
+fail
+0 common mistakes found
+0 special mistakes found
