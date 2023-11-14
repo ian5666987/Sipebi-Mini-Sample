@@ -60,7 +60,7 @@ namespace SipebiMini {
 		//Validation scripts-related properties
 		private static Dictionary<string, SipebiPythonScript> pyValScripts = new Dictionary<string, SipebiPythonScript>();
 
-		public static void Initialize() {
+		public static void Initialize(bool diagnosticsOnly = false) {
 			try {
 				//Python Engine initialization
 				if (pyEngine != null) return;
@@ -68,17 +68,23 @@ namespace SipebiMini {
 
 				//All necessary directories
 				baseDir = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, PY_DIR_NAME);
-				coreDir = Path.Combine(baseDir, CORE_DIR_NAME);
-				dataDir = Path.Combine(baseDir, DATA_DIR_NAME);
+				if (!diagnosticsOnly) {
+					coreDir = Path.Combine(baseDir, CORE_DIR_NAME);
+					dataDir = Path.Combine(baseDir, DATA_DIR_NAME);
+					docsDir = Path.Combine(baseDir, DOCS_DIR_NAME);
+					libsDir = Path.Combine(baseDir, LIBS_DIR_NAME);
+				}
 				diagDir = Path.Combine(baseDir, DIAG_DIR_NAME);
-				docsDir = Path.Combine(baseDir, DOCS_DIR_NAME);
-				libsDir = Path.Combine(baseDir, LIBS_DIR_NAME);
 				diagCoreDir = Path.Combine(diagDir, CORE_DIR_NAME);
 				diagDataDir = Path.Combine(diagDir, DATA_DIR_NAME);
 				diagLibsDir = Path.Combine(diagDir, LIBS_DIR_NAME);
 
 				//Get all search paths
-				List<string> searchPaths = new List<string>() {
+				List<string> searchPaths = diagnosticsOnly ?
+				new List<string>() {
+					baseDir, diagDir, diagCoreDir, diagLibsDir
+				} :
+				new List<string>() {
 					baseDir, coreDir, docsDir, libsDir,
 					diagDir, diagCoreDir, diagLibsDir,
 					//NOTE: data directiories are intentionally excluded from the search paths 
@@ -86,13 +92,14 @@ namespace SipebiMini {
 				};
 				foreach (string dir in searchPaths)
 					Directory.CreateDirectory(dir);
-				List<string> subLibsDirs = Directory.GetDirectories(libsDir, "*", SearchOption.AllDirectories).ToList();
+				if (!diagnosticsOnly) {
+					List<string> subLibsDirs = Directory.GetDirectories(libsDir, "*", SearchOption.AllDirectories).ToList();
+					if (subLibsDirs != null && subLibsDirs.Count > 0)
+						foreach (string dir in subLibsDirs)
+							if (!searchPaths.Contains(dir))
+								searchPaths.Add(dir);
+				}
 				List<string> subDiagLibsDirs = Directory.GetDirectories(diagLibsDir, "*", SearchOption.AllDirectories).ToList();
-
-				if (subLibsDirs != null && subLibsDirs.Count > 0)
-					foreach (string dir in subLibsDirs)
-						if (!searchPaths.Contains(dir))
-							searchPaths.Add(dir);
 				if (subDiagLibsDirs != null && subDiagLibsDirs.Count > 0)
 					foreach (string dir in subDiagLibsDirs)
 						if (!searchPaths.Contains(dir))
@@ -100,27 +107,30 @@ namespace SipebiMini {
 				pyEngine.SetSearchPaths(searchPaths);
 
 				//Get all Python files used for diagnostics and for validation
+				if (!diagnosticsOnly)
+					if (ConfigurationManager.AppSettings.AllKeys.Contains(PY_VAL_SCRIPT_KEY))
+						pyValScriptNameClasses = ConfigurationManager
+							.AppSettings[PY_VAL_SCRIPT_KEY]
+							.Split(new string[] { "," }, StringSplitOptions.RemoveEmptyEntries)
+							.Select(x => x.Trim()).ToList();
 				if (ConfigurationManager.AppSettings.AllKeys.Contains(PY_DIAG_SCRIPT_KEY))
 					pyDiagScriptNameClasses = ConfigurationManager
 						.AppSettings[PY_DIAG_SCRIPT_KEY]
 						.Split(new string[] { "," }, StringSplitOptions.RemoveEmptyEntries)
 						.Select(x => x.Trim()).ToList();
-				if (ConfigurationManager.AppSettings.AllKeys.Contains(PY_VAL_SCRIPT_KEY))
-					pyValScriptNameClasses = ConfigurationManager
-						.AppSettings[PY_VAL_SCRIPT_KEY]
-						.Split(new string[] { "," }, StringSplitOptions.RemoveEmptyEntries)
-						.Select(x => x.Trim()).ToList();
 
 				//Get all files under data and save their contents as shared resources
-				string[] fileResourcePaths = Directory.GetFiles(dataDir, "*.*", SearchOption.TopDirectoryOnly)
-					.Where(x => !x.ToLower().EndsWith(".md")).ToArray(); //.md files are excluded
-				foreach (string fileResourcePath in fileResourcePaths) {
-					string text = File.ReadAllText(fileResourcePath, Encoding.UTF8);
-					string fileName = Path.GetFileName(fileResourcePath);
-					string fileResourceName = Path.Combine(DATA_DIR_NAME, fileName);
-					//Validation file resources are available only for validation scripts, not for diagnostics scripts
-					if (!pyValFileResources.ContainsKey(fileResourceName))
-						pyValFileResources.Add(fileResourceName, text);
+				if (!diagnosticsOnly) {
+					string[] fileResourcePaths = Directory.GetFiles(dataDir, "*.*", SearchOption.TopDirectoryOnly)
+						.Where(x => !x.ToLower().EndsWith(".md")).ToArray(); //.md files are excluded
+					foreach (string fileResourcePath in fileResourcePaths) {
+						string text = File.ReadAllText(fileResourcePath, Encoding.UTF8);
+						string fileName = Path.GetFileName(fileResourcePath);
+						string fileResourceName = Path.Combine(DATA_DIR_NAME, fileName);
+						//Validation file resources are available only for validation scripts, not for diagnostics scripts
+						if (!pyValFileResources.ContainsKey(fileResourceName))
+							pyValFileResources.Add(fileResourceName, text);
+					}
 				}
 				string[] diagFileResourcePaths = Directory.GetFiles(diagDataDir, "*.*", SearchOption.TopDirectoryOnly)
 					.Where(x => !x.ToLower().EndsWith(".md")).ToArray(); //.md files are excluded
@@ -136,8 +146,9 @@ namespace SipebiMini {
 				}
 
 				//Initialize diagnostics example script
-				initDiagExampleScript();
-			} catch (Exception ex){
+				if (!diagnosticsOnly)
+					initDiagExampleScript();
+			} catch (Exception ex) {
 				throw new Exception($"[{nameof(SipebiPythonManager)}] initialization failed! Ex: {ex}");
 			}
 		}
@@ -153,7 +164,7 @@ namespace SipebiMini {
 		}
 
 		//Method to run a single diagnostics script
-		private static List<SipebiDiagnosticsError> runDiagnosticsScript(string text, string scriptFileName, 
+		private static List<SipebiDiagnosticsError> runDiagnosticsScript(string text, string scriptFileName,
 			string scriptClassName) {
 			List<SipebiDiagnosticsError> errors = new List<SipebiDiagnosticsError>();
 			string scriptPath = Path.Combine(diagDir, scriptFileName);
@@ -167,7 +178,7 @@ namespace SipebiMini {
 				pyScript = new SipebiPythonScript();
 				pyScript.Initialize(pyEngine, scriptPath, scriptFileName, scriptClassName);
 				pyDiagScripts.Add(scriptFileName, pyScript);
-			} else 
+			} else
 				pyScript = pyDiagScripts[scriptFileName];
 
 			//Execute the script
@@ -294,7 +305,7 @@ namespace SipebiMini {
 		public static string RunDiagnosticsExample() {
 			if (pyEngine == null) return "Test failed!";
 			if (diagPyExampleScript == null || !diagPyExampleScript.IsReady ||
-				  string.IsNullOrWhiteSpace(diagExampleFilePath) || !File.Exists(diagExampleFilePath))
+					string.IsNullOrWhiteSpace(diagExampleFilePath) || !File.Exists(diagExampleFilePath))
 				initDiagExampleScript();
 			if (!diagPyExampleScript.IsReady)
 				return "Diagnostics example script is not ready!";
