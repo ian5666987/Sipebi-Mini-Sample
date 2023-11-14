@@ -1,4 +1,7 @@
 # This class is used to run the validation classes
+import os.path
+from diag.core.PySipebiHelper import PySipebiHelper
+
 class PySipebiCommonValidationRunner:
     def __init__(self, validation_class):
         self.validation_class = validation_class
@@ -8,10 +11,11 @@ class PySipebiCommonValidationRunner:
         abs_filename = ''
         if "diag" in file_resource_name:
             file_resource_name = file_resource_name[file_resource_name.find('diag') + 5:]
-            abs_filename = f'py\\diag\\data\\{file_resource_name}'       
+            abs_filename = PySipebiHelper.find_proper_path(f'py\\diag\\data\\{file_resource_name}')
             file_resource_name = f'diag\\data\\{file_resource_name}'
+
         else:
-            abs_filename = f'py\\data\\{file_resource_name}'
+            abs_filename = PySipebiHelper.find_proper_path(f'py\\data\\{file_resource_name}')
         self.shared_resources[file_resource_name] = self.read_file(abs_filename)
 
     def read_file(self, filename):
