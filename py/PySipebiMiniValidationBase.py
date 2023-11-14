@@ -1,4 +1,5 @@
 from diag.core.PySipebiDiagnosticsError import PySipebiDiagnosticsError
+from diag.core.PySipebiHelper import PySipebiHelper
 
 # The base class for all validation scripts
 class PySipebiMiniValidationBase:
@@ -202,7 +203,7 @@ class PySipebiMiniValidationBase:
         self.outputFilename = self.get_diag_base_name() + '_result.txt'
         root = 'py\\data\\results\\'
 
-        root_and_filename = root + self.outputFilename
+        root_and_filename = PySipebiHelper.find_proper_path(root + self.outputFilename)
 
         # Write the output content to the output file
         with open(root_and_filename, 'w') as f:
