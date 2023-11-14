@@ -1,0 +1,8 @@
+KE01
+6
+KE01|01|07|mantap lah|mantaplah|False
+KE01|02|01|Bukan kah|Bukankah|False
+KE01|03|01|Aku tah|Akutah|False
+KE01|04|01|Apa tah|Apatah|False
+KE01|04|10|merah lah|merahlah|False
+KE01|04|11|atau kah|ataukah|False

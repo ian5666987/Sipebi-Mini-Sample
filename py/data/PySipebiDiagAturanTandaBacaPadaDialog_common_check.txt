@@ -1,0 +1,12 @@
+TB07, TB08
+11
+TB07|01|02|ibu|ibu,,|False
+TB07|03|02|ibu ,"kamu|ibu, "kamu|False
+TB07|06|04|1|1,|False
+TB07|06|06|ibu|ibu,|False
+TB07|07|04|1",|1,"|False
+TB07|08|06|ibu|ibu,|False
+TB08|09|04|kampung?,"|kampung?"|False
+TB08|10|04|kampung?",|kampung?"|False
+TB08|11|02|bohong!,"|bohong!"|False
+TB08|12|02|bohong!",|bohong!"|False

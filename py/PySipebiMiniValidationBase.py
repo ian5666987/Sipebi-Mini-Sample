@@ -1,4 +1,5 @@
 from diag.core.PySipebiDiagnosticsError import PySipebiDiagnosticsError
+from diag.core.PySipebiHelper import PySipebiHelper
 
 # The base class for all validation scripts
 class PySipebiMiniValidationBase:
@@ -149,3 +150,61 @@ class PySipebiMiniValidationBase:
         except:
             # Return false if there is any problem with the common check file parsing
             return False
+        
+    def parse_common_check_python(self, shared_resources):
+        common_check_filename = self.get_diag_base_name() + '_common_check.txt'
+        try:
+            # Read common check file, get its content
+            common_check_file = shared_resources.get(common_check_filename)
+            common_check_lines = common_check_file.splitlines()
+
+            # Splitting error codes (i.e. "KH01, KH02, Sipebi Error 1")
+            self.commonCheckErrorCodes = [x.strip() for x in common_check_lines[0].split(',')]
+
+            # Get the number of expected number of diagnostics errors/common mistakes
+            common_check_no = int(common_check_lines[1].strip())
+            self.commonCheckDiagnosticsErrors.clear()
+
+            # List all the expected diagnostics errors
+            for i in range(common_check_no):
+                de_info_lines = [x for x in common_check_lines[i + 2].split('|')]  # Note: we must NOT use x.strip() here because whitespace could be part of the diagnosed and/or corrected text
+                new_de = PySipebiDiagnosticsError()
+                new_de.ErrorCode = '[' + de_info_lines[0] + ']'
+                new_de.ParagraphNo = int(de_info_lines[1])
+                new_de.ElementNo = int(de_info_lines[2])
+                new_de.OriginalElement = de_info_lines[3]
+                new_de.CorrectedElement = de_info_lines[4]
+                new_de.IsAmbiguous = de_info_lines[5].lower() == 'true'
+                self.commonCheckDiagnosticsErrors.append(new_de)
+
+            # Return true if everything is OK
+            return True
+        except:
+            # Return false if there is any problem with the common check file parsing
+            return False
+        
+    def write_output_content_python(self):
+        # Prepare to write the results to the output file
+        self.outputContent = 'complete\r\n' if self.isCompleted else 'fail\r\n'
+        if not self.isCompleted:
+            self.outputContent += self.failReason + '\r\n'
+        self.outputContent += 'pass\r\n' if self.isPassed else 'fail\r\n'
+        cm_no = len(self.commonMistakes)
+        self.outputContent += str(cm_no) + ' common mistakes found\r\n'
+        for i in range(0, cm_no):
+            self.outputContent += self.commonMistakes[i] + '\r\n'
+        sm_no = len(self.specialMistakes)
+        self.outputContent += str(sm_no) + ' special mistakes found\r\n'
+        for i in range(0, sm_no):
+            self.outputContent += self.specialMistakes[i] + '\r\n'
+
+        # Getting the supposed output file name from the script name
+        # PyDiagExampleClass.py -> PyDiagExampleClass + _result.txt
+        self.outputFilename = self.get_diag_base_name() + '_result.txt'
+        root = 'py\\data\\results\\'
+
+        root_and_filename = PySipebiHelper.find_proper_path(root + self.outputFilename)
+
+        # Write the output content to the output file
+        with open(root_and_filename, 'w') as f:
+            f.write(self.outputContent)
