@@ -225,7 +225,7 @@ namespace SipebiMini {
 		}
 
 		//Method to run all diagnostics scripts
-		public static List<SipebiDiagnosticsError> RunDiagnostics(string text, SipebiMiniDiagnosticsReport report) {
+		public static List<SipebiDiagnosticsError> RunDiagnostics(string text) {
 			List<SipebiDiagnosticsError> errors = new List<SipebiDiagnosticsError>();
 			if (pyEngine == null) return errors;
 			string currentDiagnosticsScript = string.Empty;
