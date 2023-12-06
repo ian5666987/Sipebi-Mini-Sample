@@ -10,14 +10,14 @@ Sebagai proyek semi-terbuka, data dan kode pemrograman nonkonfidensial Sipebi di
 
 Di samping itu, Sipebi versi Beta juga diluncurkan agar masyarakat dapat memiliki akses terhadap pengembangan Sipebi yang belum resmi namun termutakhir. Tidak seperti versi keluaran resmi, Sipebi versi Beta mungkin untuk dimutakhirkan kapan saja ketika terdapat pengembangan maupun fitur uji coba baru di dalam Sipebi, sebelum pengembangan/fitur baru tersebut secara resmi dimasukkan ke dalam Sipebi versi keluaran resmi selanjutnya ketika didapati bahwa fitur tersebut telah bekerja dengan cukup memuaskan
 
-Sipebi Mini merupakan suatu proyek publik pada laman github yang berisikan versi nonkonfidensial Sipebi resmi yang termutakhir. Sipebi Mini dibuat untuk mengakomodasi kebutuhan pengembang TI yang hendak berbagian dalam mengembangkan Sipebi tanpa perlu memiliki akses ke sumber kode asli Sipebi (yang dilindungi oleh Hak Cipta)
+Sipebi Mini merupakan suatu proyek publik pada laman GitHub yang berisikan versi nonkonfidensial Sipebi resmi yang termutakhir. Sipebi Mini dibuat untuk mengakomodasi kebutuhan pengembang TI yang hendak berbagian dalam mengembangkan Sipebi tanpa perlu memiliki akses ke sumber kode asli Sipebi (yang dilindungi oleh Hak Cipta)
 
 ## Berkontribusi
 
 Pastikan Anda memiliki prasyarat berikut:
 
 1. Platform desktop dengan [.NET 4.6.2 Targeting Runtime / SDK terpasang](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net462-developer-pack-offline-installer).
-2. Saat bekerja dengan basis kode, sebaiknya gunakan IDE dengan penyelesaian kode cerdas dan penyorotan sintaks, seperti versi terbaru [Visual Studio](https://visualstudio.microsoft.com/), atau [Visual Studio Code](https://code.visualstudio.com//).
+2. Saat bekerja dengan basis kode, sebaiknya gunakan IDE dengan penyelesaian kode cerdas dan penyorotan sintaks, seperti versi terbaru [Visual Studio](https://visualstudio.microsoft.com), atau [Visual Studio Code](https://code.visualstudio.com).
 
 ### Mengunduh Sumber Kode SIPEBI
 
@@ -48,4 +48,4 @@ Konfigurasi build untuk IDE yang direkomendasikan disertakan. Anda harus menggun
 
 ## Lisensi
 
-Sumber kode Sipebi Mini adalah sepenuhnya kode terbuka, namun menggunakan program penyuntingan (bersumber kode tertutup) yang sama persis dengan Sipebi keluaran resmi. Dengan demkian, Sipebi Mini memiliki fungsi penyuntingan dasar yang sama persis dengan Sipebi keluaran resmi, hanya berbeda di dalam hal tampilan pengguna dan fungsi-fungsi non-penyuntingan lainnya.
+Sumber kode Sipebi Mini adalah sepenuhnya kode terbuka, namun menggunakan program penyuntingan (bersumber kode tertutup) yang sama persis dengan Sipebi keluaran resmi. Dengan demikian, Sipebi Mini memiliki fungsi penyuntingan dasar yang sama persis dengan Sipebi keluaran resmi, hanya berbeda di dalam hal tampilan pengguna dan fungsi-fungsi non-penyuntingan lainnya.
