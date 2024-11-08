@@ -1,0 +1,1666 @@
+Nomor,KP,Jumlah,Entri,Tipe,Pembentukan
+88219,v,2,olahrasa,dasar,
+,,,,,
+88220,k,9,olak,dasar,
+,,,,,
+88221,k,0,olak-alik,dasar,
+88221.1,v,,<[olak:olak-alik]>,bentukan,[Reduplication-Rhyming]
+,,,,,
+88222,k,0,olak-olak,dasar,
+88222.1,x,,<olak> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+88223,k,0,olakan,dasar,
+88223.1,x,,<ola> + -kan,bentukan,[29] [S] -kan + (<all>)
+88223.2,v,,<olak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+88224,k,0,olakan air,dasar,
+,,,,,
+88225,k,0,olakan angin,dasar,
+,,,,,
+88226,k,3,olanda,dasar,
+88226.1,x,,<ola> + [-anda:-nda],bentukan,[183] [S] -anda + (i;u;a;[k:])
+88226.2,x,,<olan> + [-anda:-da],bentukan,[184] [S] -anda + (an)
+88226.3,x,,<ol> + -anda,bentukan,[185] [S] -anda + (<others>)
+,,,,,
+88227,k,0,olang-aling,dasar,
+88227.1,v,,<olang-aling>,bentukan,[Reduplication-Rhyming]
+,,,,,
+88228,k,0,olang-alingan,dasar,
+88228.1,v,,<olang-aling> + -an,bentukan,[Reduplication-Rhyming] => [38] [S] -an + (<all>)
+,,,,,
+88229,k,2,ole-ole,dasar,
+88229.1,v,,<ole> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+88230,k,0,oleagin,dasar,
+,,,,,
+88231,k,0,oleander,dasar,
+,,,,,
+88232,k,12,olefin,dasar,
+,,,,,
+88233,k,23167,oleh,dasar,
+,,,,,
+88234,k,0,oleh karena itu,dasar,
+,,,,,
+88235,k,0,oleh sebab itu,dasar,
+,,,,,
+88236,k,153,oleh-oleh,dasar,
+88236.1,v,,<oleh> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+88237,k,3,olek,dasar,
+,,,,,
+88238,k,53,oleng,dasar,
+,,,,,
+88239,k,0,oleng naik turun,dasar,
+,,,,,
+88240,k,0,olengan,dasar,
+88240.1,v,,<oleng> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+88241,k,0,oleografi,dasar,
+88241.1,x,,<oleograf> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+88242,k,8,oleokimia,dasar,
+,,,,,
+88243,k,0,oleometer,dasar,
+88243.1,x,,<oleo> + -meter,bentukan,[189] [S] -meter + (<all>)
+,,,,,
+88244,k,2,oleoresin,dasar,
+,,,,,
+88245,k,0,oleovitamin,dasar,
+,,,,,
+88246,k,13,oles,dasar,
+,,,,,
+88247,k,10,olesan,dasar,
+88247.1,v,,<oles> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+88248,v,6,olesi,dasar,
+88248.1,v,,<oles> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+88249,v,34,oleskan,dasar,
+88249.1,v,,<oles> + -kan,bentukan,[29] [S] -kan + (<all>)
+88249.2,x,,<olesk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+88250,k,0,olet,dasar,
+,,,,,
+88251,k,0,oleum,dasar,
+,,,,,
+88252,k,0,olfaktofobia,dasar,
+88252.1,x,,<olfakto> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+88253,k,4,olfaktori,dasar,
+88253.1,x,,<olfaktor> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+88254,k,96,oli,dasar,
+88254.1,x,,<ol> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+88255,k,0,olia,dasar,
+,,,,,
+88256,k,6,oligark,dasar,
+,,,,,
+88257,k,47,oligarki,dasar,
+88257.1,x,,<oligark> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+88258,k,0,oligarki kapital,dasar,
+,,,,,
+88259,k,0,oligofagus,dasar,
+,,,,,
+88260,k,0,oligofili,dasar,
+88260.1,x,,<oligofil> + -i,bentukan,[28] [S] -i + (<all>)
+88260.2,x,,<oligo> + -fili,bentukan,[193] [S] -fili + (<all>)
+,,,,,
+88261,k,0,oligofrenia,dasar,
+,,,,,
+88262,k,0,oligohalin,dasar,
+,,,,,
+88263,k,0,oligohidromion,dasar,
+,,,,,
+88264,k,0,oligokasta,dasar,
+,,,,,
+88265,k,0,oligomenorea,dasar,
+,,,,,
+88266,k,0,oligopoda,dasar,
+,,,,,
+88267,k,17,oligopoli,dasar,
+88267.1,x,,<oligopol> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+88268,v,2,oligopolis,dasar,
+88268.1,v,,<oligopoli> + [-is:-s],bentukan,[177] [S] -is + (i)
+88268.2,x,,<oligopol> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+88269,v,3,oligopolistik,dasar,
+,,,,,
+88270,k,0,oligopolistis,dasar,
+88270.1,x,,<oligopolisti> + [-is:-s],bentukan,[177] [S] -is + (i)
+88270.2,x,,<oligopolist> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+88271,k,2,oligopsoni,dasar,
+88271.1,x,,<oligopson> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+88272,k,0,oligoriza,dasar,
+,,,,,
+88273,v,8,oligosakarida,dasar,
+,,,,,
+88274,k,2,oligosen,dasar,
+,,,,,
+88275,k,0,oligositemia,dasar,
+,,,,,
+88276,k,0,oligosperma,dasar,
+,,,,,
+88277,k,0,oligotrofik,dasar,
+,,,,,
+88278,k,0,oligozospermia,dasar,
+,,,,,
+88279,k,4,oliguria,dasar,
+,,,,,
+88280,k,0,oliman,dasar,
+88280.1,x,,<olim> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+88281,k,439,olimpiade,dasar,
+,,,,,
+88282,k,0,olimpiade fisika,dasar,
+,,,,,
+88283,k,0,olimpiade matematika,dasar,
+,,,,,
+88284,k,0,olimpiade musim dingin,dasar,
+,,,,,
+88285,k,0,olimpiade musim panas,dasar,
+,,,,,
+88286,k,0,olimpiade persemakmuran,dasar,
+88286.1,x,,<olimpiade persemakmur> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+88287,k,0,olistium,dasar,
+,,,,,
+88288,k,0,oliva,dasar,
+,,,,,
+88289,k,0,olivin,dasar,
+,,,,,
+88290,k,0,oloh masih,dasar,
+,,,,,
+88291,k,0,olohok,dasar,
+,,,,,
+88292,k,3,olok,dasar,
+,,,,,
+88293,k,45,olok-olok,dasar,
+88293.1,v,,<olok> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+88294,k,6,olok-olokan,dasar,
+88294.1,v,,<olok> [-] <r> + -an,bentukan,[23] [RD] |
+,,,,,
+88295,v,9,olokan,dasar,
+88295.1,x,,<olo> + -kan,bentukan,[29] [S] -kan + (<all>)
+88295.2,v,,<olok> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+88296,k,0,olong-olong,dasar,
+88296.1,x,,<olong> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+88297,k,0,olongiva,dasar,
+,,,,,
+88298,k,178,om,dasar,
+,,,,,
+88299,k,0,om santi santi santi om,dasar,
+,,,,,
+88300,k,0,om senang,dasar,
+,,,,,
+88301,k,0,om swastiastu,dasar,
+,,,,,
+88302,k,24,oma,dasar,
+,,,,,
+88303,k,47,oman,dasar,
+88303.1,x,,<om> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+88304,k,2,omasum,dasar,
+,,,,,
+88305,k,342,ombak,dasar,
+,,,,,
+88306,k,0,ombak pikiran,dasar,
+88306.1,x,,<ombak pikir> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+88307,k,0,ombak selaba,dasar,
+,,,,,
+88308,k,0,ombang-ambing,dasar,
+88308.1,v,,<ombang-ambing>,bentukan,[Reduplication-Rhyming]
+,,,,,
+88309,k,0,ombitoro,dasar,
+,,,,,
+88310,k,4,ombre,dasar,
+,,,,,
+88311,k,0,ombrofobia,dasar,
+88311.1,x,,<ombro> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+88312,k,0,ombrotifi,dasar,
+88312.1,x,,<ombrotif> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+88313,k,0,ombyok,dasar,
+,,,,,
+88314,k,0,ombyokan,dasar,
+88314.1,x,,<ombyo> + -kan,bentukan,[29] [S] -kan + (<all>)
+88314.2,v,,<ombyok> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+88315,k,41,omega,dasar,
+,,,,,
+88316,k,0,omegatron,dasar,
+,,,,,
+88317,k,5,omel,dasar,
+,,,,,
+88318,k,51,omelan,dasar,
+88318.1,v,,<omel> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+88319,v,9,omelet,dasar,
+,,,,,
+88320,v,4,omeprazol,dasar,
+,,,,,
+88321,k,0,ometafobia,dasar,
+88321.1,x,,<ometa> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+88322,k,0,omfalitis,dasar,
+88322.1,x,,<omfaliti> + [-is:-s],bentukan,[177] [S] -is + (i)
+88322.2,x,,<omfalit> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+88323,k,0,omfalopagus,dasar,
+,,,,,
+88324,k,0,omikron,dasar,
+,,,,,
+88325,k,103,omnibus,dasar,
+,,,,,
+88326,k,0,omnipoten,dasar,
+,,,,,
+88327,k,0,omnivor,dasar,
+,,,,,
+88328,c,9,omnivora,dasar,omnivor
+,,,,,
+88329,k,191,omong,dasar,
+,,,,,
+88330,k,0,omong kosong,dasar,
+,,,,,
+88331,k,42,omong-omong,dasar,
+88331.1,v,,<omong> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+88332,k,150,omongan,dasar,
+88332.1,v,,<omong> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+88333,k,0,ompok,dasar,
+,,,,,
+88334,k,2,ompol,dasar,
+,,,,,
+88335,k,39,ompong,dasar,
+,,,,,
+88336,k,3,ompreng,dasar,
+,,,,,
+88337,k,8,omprengan,dasar,
+88337.1,v,,<ompreng> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+88338,k,0,omprok,dasar,
+,,,,,
+88339,k,0,omprong,dasar,
+,,,,,
+88340,k,6,ompu,dasar,
+,,,,,
+88341,k,0,ompu mulajadi nabolon,dasar,
+,,,,,
+88342,c,39,omset,dasar,omzet
+,,,,,
+88343,k,0,omslah,dasar,
+88343.1,x,,<oms> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+88344,k,0,omswastiastu,dasar,
+,,,,,
+88345,k,0,omvalopagus,dasar,
+,,,,,
+88346,k,0,omzet,dasar,
+,,,,,
+88347,c,1601,on,dasar,ons
+,,,,,
+88348,k,0,onagata,dasar,
+,,,,,
+88349,k,7,onak,dasar,
+,,,,,
+88350,k,0,onan,dasar,
+88350.1,x,,<on> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+88351,k,0,onango,dasar,
+,,,,,
+88352,k,5,onani,dasar,
+88352.1,x,,<onan> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+88353,k,62,onar,dasar,
+,,,,,
+88354,k,0,oncat,dasar,
+,,,,,
+88355,k,0,oncek,dasar,
+,,,,,
+88356,k,0,oncen,dasar,
+,,,,,
+88357,k,0,oncer,dasar,
+,,,,,
+88358,k,0,oncoe,dasar,
+,,,,,
+88359,k,10,oncom,dasar,
+,,,,,
+88360,k,0,oncom hitam,dasar,
+,,,,,
+88361,k,0,oncom merah,dasar,
+,,,,,
+88362,k,9,oncor,dasar,
+,,,,,
+88363,v,4,ondansetron,dasar,
+,,,,,
+88364,k,6,onde-onde,dasar,
+88364.1,v,,<onde> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+88365,k,0,onde-onde ketawa,dasar,
+,,,,,
+88366,k,14,ondel-ondel,dasar,
+88366.1,v,,<ondel> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+88367,k,10,onder,dasar,
+,,,,,
+88368,k,31,onderdil,dasar,
+,,,,,
+88369,k,2,onderdistrik,dasar,
+,,,,,
+88370,k,7,onderneming,dasar,
+,,,,,
+88371,k,0,onderok,dasar,
+,,,,,
+88372,k,2,ondo,dasar,
+,,,,,
+88373,k,0,ondoafi,dasar,
+88373.1,x,,<ondoaf> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+88374,k,0,ondofolo,dasar,
+,,,,,
+88375,k,0,ondok,dasar,
+,,,,,
+88376,k,0,ondos,dasar,
+,,,,,
+88377,k,0,ondos-ondos,dasar,
+88377.1,v,,<ondos> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+88378,k,0,oneng-oneng,dasar,
+88378.1,v,,<oneng> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+88379,k,49,ong,dasar,
+,,,,,
+88380,k,0,ongah-angih,dasar,
+88380.1,v,,<ongah-angih>,bentukan,[Reduplication-Rhyming]
+,,,,,
+88381,k,0,ongeh,dasar,
+,,,,,
+88382,k,0,onggar,dasar,
+,,,,,
+88383,k,12,onggok,dasar,
+,,,,,
+88384,k,29,onggokan,dasar,
+88384.1,x,,<onggo> + -kan,bentukan,[29] [S] -kan + (<all>)
+88384.2,v,,<onggok> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+88385,k,0,ongji,dasar,
+88385.1,x,,<ongj> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+88386,k,0,ongkang,dasar,
+,,,,,
+88387,k,9,ongkang-ongkang,dasar,
+88387.1,v,,<ongkang> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+88388,k,0,ongkek,dasar,
+,,,,,
+88389,v,2,ongkir,dasar,
+,,,,,
+88390,k,0,ongkok,dasar,
+,,,,,
+88391,k,395,ongkos,dasar,
+,,,,,
+88392,k,0,ongok,dasar,
+,,,,,
+88393,k,0,ongol-ongol,dasar,
+88393.1,v,,<ongol> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+88394,k,4,onigiri,dasar,
+88394.1,x,,<onigir> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+88395,k,0,onikofagia,dasar,
+,,,,,
+88396,k,0,oniks,dasar,
+,,,,,
+88397,k,0,onin,dasar,
+,,,,,
+88398,k,0,oniomania,dasar,
+,,,,,
+88399,k,0,onjal,dasar,
+,,,,,
+88400,k,0,onjem,dasar,
+,,,,,
+88401,k,7,onkogen,dasar,
+,,,,,
+88402,k,2,onkogenesis,dasar,
+88402.1,x,,<onkogenesi> + [-is:-s],bentukan,[177] [S] -is + (i)
+88402.2,x,,<onkogenes> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+88403,v,2,onkogenik,dasar,
+,,,,,
+88404,k,0,onkogonik,dasar,
+,,,,,
+88405,k,28,onkologi,dasar,
+88405.1,x,,<onkolog> + -i,bentukan,[28] [S] -i + (<all>)
+88405.2,x,,<onko> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+88406,k,0,onkomikosis,dasar,
+88406.1,x,,<onkomikosi> + [-is:-s],bentukan,[177] [S] -is + (i)
+88406.2,x,,<onkomikos> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+88407,v,2,onkotik,dasar,
+,,,,,
+88408,k,0,onom,dasar,
+,,,,,
+88409,k,0,onomasiologi,dasar,
+88409.1,x,,<onomasiolog> + -i,bentukan,[28] [S] -i + (<all>)
+88409.2,x,,<onomasio> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+88410,k,0,onomastika,dasar,
+,,,,,
+88411,k,0,onomatologi,dasar,
+88411.1,x,,<onomatolog> + -i,bentukan,[28] [S] -i + (<all>)
+88411.2,x,,<onomato> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+88412,k,2,onomatope,dasar,
+,,,,,
+88413,k,0,onot,dasar,
+,,,,,
+88414,k,38,ons,dasar,
+,,,,,
+88415,k,2,onsen,dasar,
+,,,,,
+88416,k,0,onslah,dasar,
+88416.1,x,,<ons> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+88417,c,6,onta,dasar,unta
+,,,,,
+88418,k,0,ontam,dasar,
+,,,,,
+88419,k,16,ontel,dasar,
+,,,,,
+88420,k,0,ontogeni,dasar,
+88420.1,x,,<ontogen> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+88421,k,0,ontohod,dasar,
+,,,,,
+88422,k,24,ontologi,dasar,
+88422.1,x,,<ontolog> + -i,bentukan,[28] [S] -i + (<all>)
+88422.2,x,,<onto> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+88423,k,27,ontologis,dasar,
+88423.1,v,,<ontologi> + [-is:-s],bentukan,[177] [S] -is + (i)
+88423.2,x,,<ontolog> + -is,bentukan,[178] [S] -is + (<others>)
+88423.3,x,,<onto> + -logi+-s,bentukan,[194] [MS] -logi+-s + (<all>)
+,,,,,
+88424,k,4,ontran-ontran,dasar,
+88424.1,v,,<ontran> [-] <r>,bentukan,[23] [RD] |
+88424.2,x,,<ontr> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+88425,k,0,onyah-anyih,dasar,
+88425.1,v,,<onyah-anyih>,bentukan,[Reduplication-Rhyming]
+,,,,,
+88426,k,0,onyak-anyik,dasar,
+88426.1,v,,<onyak-anyik>,bentukan,[Reduplication-Rhyming]
+,,,,,
+88427,k,0,onyang,dasar,
+,,,,,
+88428,k,0,onyok,dasar,
+,,,,,
+88429,k,0,onyot,dasar,
+,,,,,
+88430,k,0,onyotan,dasar,
+88430.1,v,,<onyot> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+88431,k,0,ooapogami,dasar,
+88431.1,x,,<ooapogam> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+88432,k,0,ooblastema,dasar,
+,,,,,
+88433,k,3,oogenesis,dasar,
+88433.1,x,,<oogenesi> + [-is:-s],bentukan,[177] [S] -is + (i)
+88433.2,x,,<oogenes> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+88434,k,0,ooglea,dasar,
+,,,,,
+88435,k,0,oogonia,dasar,
+,,,,,
+88436,k,0,oogonium,dasar,
+,,,,,
+88437,k,0,ookinesis,dasar,
+88437.1,x,,<ookinesi> + [-is:-s],bentukan,[177] [S] -is + (i)
+88437.2,x,,<ookines> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+88438,k,0,oolit,dasar,
+,,,,,
+88439,k,0,oologi,dasar,
+88439.1,x,,<oolog> + -i,bentukan,[28] [S] -i + (<all>)
+88439.2,x,,<oo> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+88440,k,0,oosfer,dasar,
+,,,,,
+88441,k,11,oosit,dasar,
+,,,,,
+88442,k,0,oosit primer,dasar,
+,,,,,
+88443,k,26,opa,dasar,
+,,,,,
+88444,k,12,opak,dasar,
+,,,,,
+88445,k,0,opak-apik,dasar,
+88445.1,v,,<opak-apik>,bentukan,[Reduplication-Rhyming]
+,,,,,
+88446,k,0,opakus,dasar,
+,,,,,
+88447,k,7,opal,dasar,
+,,,,,
+88448,k,0,opalesen,dasar,
+,,,,,
+88449,k,2,opang,dasar,
+,,,,,
+88450,k,9,opas,dasar,
+,,,,,
+88451,k,0,opasimeter,dasar,
+88451.1,x,,<opasi> + -meter,bentukan,[189] [S] -meter + (<all>)
+,,,,,
+88452,k,2,opasitas,dasar,
+88452.1,x,,<opas> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+88453,k,0,opau,dasar,
+,,,,,
+88454,k,0,opdar,dasar,
+,,,,,
+88455,k,2,opelet,dasar,
+,,,,,
+88456,c,515,open,dasar,oven
+,,,,,
+88457,k,0,opendim,dasar,
+,,,,,
+88458,k,0,openkap,dasar,
+,,,,,
+88459,k,32,oper,dasar,
+,,,,,
+88460,k,0,oper-operan,dasar,
+88460.1,v,,<oper> [-] <r> + -an,bentukan,[23] [RD] |
+,,,,,
+88461,k,93,opera,dasar,
+,,,,,
+88462,k,0,opera balada,dasar,
+,,,,,
+88463,k,0,opera komik,dasar,
+,,,,,
+88464,k,0,opera sabun,dasar,
+,,,,,
+88465,k,18,operan,dasar,
+88465.1,v,,<oper> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+88466,k,0,operan atas kepala,dasar,
+,,,,,
+88467,k,0,operan bola terobos,dasar,
+,,,,,
+88468,k,0,operan dorong,dasar,
+,,,,,
+88469,k,0,operan dua orang,dasar,
+,,,,,
+88470,k,0,operan dua tangan sedada,dasar,
+,,,,,
+88471,k,0,operan gaet,dasar,
+,,,,,
+88472,k,0,operan jarak pendek,dasar,
+,,,,,
+88473,k,0,operan pantulan,dasar,
+88473.1,x,,<operan pantul> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+88474,k,0,operan satu tangan,dasar,
+88474.1,x,,<operan satu tang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+88475,v,36,operandi,dasar,
+88475.1,x,,<operand> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+88476,k,2364,operasi,dasar,
+88476.1,x,,<operas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+88477,k,0,operasi aljabar,dasar,
+,,,,,
+88478,k,0,operasi bakti,dasar,
+88478.1,x,,<operasi bakt> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+88479,k,0,operasi baris elementer,dasar,
+,,,,,
+88480,k,0,operasi besar,dasar,
+,,,,,
+88481,k,0,operasi biner,dasar,
+,,,,,
+88482,k,0,operasi caesar,dasar,
+,,,,,
+88483,k,0,operasi dasar,dasar,
+,,,,,
+88484,k,0,operasi dasar aritmetika,dasar,
+,,,,,
+88485,k,0,operasi dwikora,dasar,
+,,,,,
+88486,k,0,operasi ilegal,dasar,
+,,,,,
+88487,k,0,operasi kecil,dasar,
+,,,,,
+88488,k,0,operasi kolom,dasar,
+,,,,,
+88489,k,0,operasi lasik,dasar,
+,,,,,
+88490,k,0,operasi mayor,dasar,
+,,,,,
+88491,k,0,operasi militer,dasar,
+,,,,,
+88492,k,0,operasi minor,dasar,
+,,,,,
+88493,k,0,operasi pasar,dasar,
+,,,,,
+88494,k,0,operasi pasar terbuka,dasar,
+,,,,,
+88495,k,0,operasi plastik,dasar,
+,,,,,
+88496,k,0,operasi riset,dasar,
+,,,,,
+88497,k,0,operasi septoplasti,dasar,
+88497.1,x,,<operasi septoplast> + -i,bentukan,[28] [S] -i + (<all>)
+88497.2,x,,<operasi septo> + -plasti,bentukan,[199] [S] -plasti + (<all>)
+,,,,,
+88498,k,0,operasi tangkap tangan,dasar,
+88498.1,x,,<operasi tangkap tang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+88499,k,0,operasi trikora,dasar,
+,,,,,
+88500,k,0,operasi yustisi,dasar,
+88500.1,x,,<operasi yustis> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+88501,k,2318,operasional,dasar,
+,,,,,
+88502,k,0,operasional normal,dasar,
+,,,,,
+88503,k,97,operasionalisasi,dasar,
+88503.1,x,,<operasionalisas> + -i,bentukan,[28] [S] -i + (<all>)
+88503.2,x,,<operasionali> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+88503.3,x,,<operasionalis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+88503.4,x,,<operasional> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+88504,k,41,operatif,dasar,
+,,,,,
+88505,k,651,operator,dasar,
+,,,,,
+88506,k,0,operator pemrosesan data,dasar,
+,,,,,
+88507,k,0,operator pendekodean,dasar,
+88507.1,x,,<operator pendekode> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+88508,k,0,operator relasional,dasar,
+,,,,,
+88509,k,0,operator telepon,dasar,
+,,,,,
+88510,k,5,operet,dasar,
+,,,,,
+88511,k,0,operkulum,dasar,
+,,,,,
+88512,k,518,opini,dasar,
+88512.1,x,,<opin> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+88513,k,0,opini politik,dasar,
+,,,,,
+88514,k,0,opini publik,dasar,
+,,,,,
+88515,k,0,opini umum,dasar,
+,,,,,
+88516,k,20,opioid,dasar,
+88516.1,x,,<opi> + -oid,bentukan,[209] [S] -oid + (<all>)
+,,,,,
+88517,k,0,opior,dasar,
+,,,,,
+88518,k,0,opisometer,dasar,
+88518.1,x,,<opiso> + -meter,bentukan,[189] [S] -meter + (<all>)
+,,,,,
+88519,k,17,opium,dasar,
+,,,,,
+88520,k,19,oplah,dasar,
+88520.1,x,,<op> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+88521,c,7,oplet,dasar,opelet
+,,,,,
+88522,k,0,oplos,dasar,
+,,,,,
+88523,k,15,oplosan,dasar,
+88523.1,v,,<oplos> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+88524,k,0,opmak,dasar,
+,,,,,
+88525,k,0,opnaisel,dasar,
+,,,,,
+88526,k,29,opname,dasar,
+,,,,,
+88527,k,30,opo,dasar,
+,,,,,
+88528,k,5,oponen,dasar,
+,,,,,
+88529,k,33,opor,dasar,
+,,,,,
+88530,k,42,oportunis,dasar,
+88530.1,x,,<oportuni> + [-is:-s],bentukan,[177] [S] -is + (i)
+88530.2,x,,<oportun> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+88531,k,11,oportunisme,dasar,
+88531.1,x,,<oportun> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+88532,t,27,oportunistik,dasar,oportunistis
+,,,,,
+88533,k,5,oportunistis,dasar,
+88533.1,x,,<oportunisti> + [-is:-s],bentukan,[177] [S] -is + (i)
+88533.2,x,,<oportunist> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+88534,k,2,oportunitas,dasar,
+88534.1,x,,<oportun> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+88535,k,33,oposan,dasar,
+88535.1,x,,<opos> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+88536,k,337,oposisi,dasar,
+88536.1,x,,<oposis> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+88537,k,0,oposisi berarah,dasar,
+,,,,,
+88538,k,0,oposisi bertahap,dasar,
+,,,,,
+88539,k,0,oposisi bilateral,dasar,
+,,,,,
+88540,k,0,oposisi ekuipolen,dasar,
+,,,,,
+88541,k,0,oposisi leksikal,dasar,
+,,,,,
+88542,k,0,oposisi melintang,dasar,
+,,,,,
+88543,k,0,oposisi menyiku,dasar,
+88543.1,x,,<oposisi menyi> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+88543.2,x,,<oposisi meny> + -i + -ku,bentukan,[28] [S] -i + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+88544,k,0,oposisi multilateral,dasar,
+,,,,,
+88545,k,0,oposisi privatif,dasar,
+,,,,,
+88546,k,0,oposisi proporsional,dasar,
+,,,,,
+88547,k,0,oposisi taklangsung,dasar,
+,,,,,
+88548,k,0,oposisi ternetralkan,dasar,
+88548.1,x,,<oposisi ternetral> + -kan,bentukan,[29] [S] -kan + (<all>)
+88548.2,x,,<oposisi ternetralk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+88549,k,0,oposisi terpencil,dasar,
+,,,,,
+88550,k,2,oppa,dasar,
+,,,,,
+88551,k,15,opresi,dasar,
+88551.1,x,,<opres> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+88552,v,11,opresif,dasar,
+,,,,,
+88553,v,2,oprit,dasar,
+,,,,,
+88554,k,0,opsen,dasar,
+,,,,,
+88555,k,2,opseter,dasar,
+,,,,,
+88556,k,628,opsi,dasar,
+88556.1,x,,<ops> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+88557,v,19,opsi-opsi,dasar,
+88557.1,v,,<opsi> [-] <r>,bentukan,[23] [RD] |
+88557.2,x,,<ops> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+88558,k,0,opsin,dasar,
+,,,,,
+88559,k,0,opsiner,dasar,
+,,,,,
+88560,v,17,opsinya,dasar,
+88560.1,v,,<opsi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+88560.2,x,,<ops> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+88561,k,33,opsional,dasar,
+,,,,,
+88562,k,22,opsir,dasar,
+,,,,,
+88563,v,3,opsir-opsir,dasar,
+88563.1,v,,<opsir> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+88564,k,3,opstal,dasar,
+,,,,,
+88565,k,0,optatif,dasar,
+,,,,,
+88566,k,123,optik,dasar,
+,,,,,
+88567,k,0,optik dapat hapus,dasar,
+,,,,,
+88568,k,0,optika,dasar,
+,,,,,
+88569,k,0,optika atmosfer,dasar,
+,,,,,
+88570,k,0,optika geometrik,dasar,
+88570.1,x,,<optika geo> + -metrik,bentukan,[211] [S] -metrik + (<all>)
+,,,,,
+88571,v,17,optikal,dasar,
+,,,,,
+88572,k,1745,optimal,dasar,
+,,,,,
+88573,k,438,optimalisasi,dasar,
+88573.1,x,,<optimalisas> + -i,bentukan,[28] [S] -i + (<all>)
+88573.2,x,,<optimali> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+88573.3,x,,<optimalis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+88573.4,v,,<optimal> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+88574,k,0,optimalisasi lahan,dasar,
+88574.1,x,,<optimalisasi lah> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+88575,v,4,optimalitas,dasar,
+88575.1,v,,<optimal> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+88576,v,2,optimalitasnya,dasar,
+88576.1,v,,<optimalitas> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+88576.2,x,,<optimal> + -itas + -nya,bentukan,[205] [S] -itas + (<others>) => [34] [SFS] -nya + (<all>)
+,,,,,
+88577,v,2,optimalkanlah,dasar,
+88577.1,x,,<optimalkan> + -lah,bentukan,[31] [FS] -lah + (<all>)
+88577.2,v,,<optimal> + -kan + -lah,bentukan,[29] [S] -kan + (<all>) => [31] [FS] -lah + (<all>)
+88577.3,x,,<optimalk> + -an + -lah,bentukan,[38] [S] -an + (<all>) => [31] [FS] -lah + (<all>)
+,,,,,
+88578,v,92,optimalnya,dasar,
+88578.1,v,,<optimal> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+88579,k,111,optimasi,dasar,
+88579.1,x,,<optimas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+88580,k,410,optimis,dasar,
+88580.1,x,,<optimi> + [-is:-s],bentukan,[177] [S] -is + (i)
+88580.2,x,,<optim> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+88581,k,19,optimisasi,dasar,
+88581.1,x,,<optimisas> + -i,bentukan,[28] [S] -i + (<all>)
+88581.2,x,,<optimi> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+88581.3,v,,<optimis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+88581.4,x,,<optim> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+88582,v,2,optimisitis,dasar,
+88582.1,x,,<optimisiti> + [-is:-s],bentukan,[177] [S] -is + (i)
+88582.2,x,,<optimisit> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+88583,k,309,optimisme,dasar,
+88583.1,x,,<optim> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+88584,v,17,optimismenya,dasar,
+88584.1,v,,<optimisme> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+88584.2,x,,<optim> + -isme + -nya,bentukan,[89] [S] -isme + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+88585,v,3,optimisnya,dasar,
+88585.1,v,,<optimis> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+88585.2,x,,<optimi> + [-is:-s] + -nya,bentukan,[177] [S] -is + (i) => [34] [SFS] -nya + (<all>)
+88585.3,x,,<optim> + -is + -nya,bentukan,[178] [S] -is + (<others>) => [34] [SFS] -nya + (<all>)
+,,,,,
+88586,k,10,optimistik,dasar,
+,,,,,
+88587,k,517,optimistis,dasar,
+88587.1,x,,<optimisti> + [-is:-s],bentukan,[177] [S] -is + (i)
+88587.2,x,,<optimist> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+88588,k,185,optimum,dasar,
+,,,,,
+88589,v,5,optimumnya,dasar,
+88589.1,v,,<optimum> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+88590,k,2,optis,dasar,
+88590.1,x,,<opti> + [-is:-s],bentukan,[177] [S] -is + (i)
+88590.2,x,,<opt> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+88591,k,6,optisien,dasar,
+,,,,,
+88592,k,0,optoelektronika,dasar,
+,,,,,
+88593,k,0,optofon,dasar,
+,,,,,
+88594,k,0,optoisolator,dasar,
+,,,,,
+88595,k,0,optometri,dasar,
+88595.1,x,,<optometr> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+88596,k,2,optometris,dasar,
+88596.1,v,,<optometri> + [-is:-s],bentukan,[177] [S] -is + (i)
+88596.2,x,,<optometr> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+88597,v,3,opung,dasar,
+,,,,,
+88598,k,5,opus,dasar,
+,,,,,
+88599,k,4,orak,dasar,
+,,,,,
+88600,k,3,orak-arik,dasar,
+88600.1,v,,<orak-arik>,bentukan,[Reduplication-Rhyming]
+,,,,,
+88601,k,0,orakel,dasar,
+,,,,,
+88602,k,183,oral,dasar,
+,,,,,
+88603,k,7,oralit,dasar,
+,,,,,
+88604,k,15595,orang,dasar,
+,,,,,
+88605,k,0,orang aluan,dasar,
+88605.1,x,,<orang alu> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+88606,k,0,orang am,dasar,
+,,,,,
+88607,k,0,orang antum,dasar,
+,,,,,
+88608,k,0,orang asing,dasar,
+,,,,,
+88609,k,0,orang atasan,dasar,
+88609.1,x,,<orang atas> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+88610,k,0,orang awak,dasar,
+,,,,,
+88611,k,0,orang awam,dasar,
+,,,,,
+88612,k,0,orang banyak,dasar,
+,,,,,
+88613,k,0,orang barat,dasar,
+,,,,,
+88614,k,0,orang batu,dasar,
+,,,,,
+88615,k,0,orang belakang,dasar,
+,,,,,
+88616,k,0,orang besar,dasar,
+,,,,,
+88617,k,0,orang biasa,dasar,
+,,,,,
+88618,k,0,orang buangan,dasar,
+88618.1,x,,<orang buang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+88619,k,0,orang dagang,dasar,
+,,,,,
+88620,k,0,orang dalam,dasar,
+,,,,,
+88621,k,0,orang gajian,dasar,
+88621.1,x,,<orang gaji> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+88622,k,0,orang gedean,dasar,
+88622.1,x,,<orang gede> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+88623,k,0,orang halimunan,dasar,
+88623.1,x,,<orang halimun> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+88624,k,0,orang halus,dasar,
+,,,,,
+88625,k,0,orang hanyut,dasar,
+,,,,,
+88626,k,0,orang helat,dasar,
+,,,,,
+88627,k,0,orang hilir,dasar,
+,,,,,
+88628,k,0,orang hulu,dasar,
+,,,,,
+88629,k,0,orang hutan,dasar,
+88629.1,x,,<orang hut> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+88630,k,0,orang jauh,dasar,
+,,,,,
+88631,k,0,orang kajang,dasar,
+,,,,,
+88632,k,0,orang kampung,dasar,
+,,,,,
+88633,k,0,orang kasim,dasar,
+,,,,,
+88634,k,0,orang kaya,dasar,
+,,,,,
+88635,k,0,orang keblangsak,dasar,
+,,,,,
+88636,k,0,orang kota,dasar,
+,,,,,
+88637,k,0,orang kulit putih,dasar,
+,,,,,
+88638,k,0,orang laut,dasar,
+,,,,,
+88639,k,0,orang luar,dasar,
+,,,,,
+88640,k,0,orang luntang-lantung,dasar,
+,,,,,
+88641,k,0,orang lurus,dasar,
+,,,,,
+88642,k,0,orang merdeka,dasar,
+,,,,,
+88643,k,0,orang muda,dasar,
+,,,,,
+88644,k,0,orang ombak,dasar,
+,,,,,
+88645,k,0,orang palung,dasar,
+,,,,,
+88646,k,0,orang pangan,dasar,
+88646.1,x,,<orang pang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+88647,k,0,orang patut,dasar,
+,,,,,
+88648,k,0,orang pesisir,dasar,
+,,,,,
+88649,k,0,orang pintar,dasar,
+,,,,,
+88650,k,0,orang ramai,dasar,
+88650.1,x,,<orang rama> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+88651,k,0,orang rumah,dasar,
+,,,,,
+88652,k,0,orang sabun,dasar,
+,,,,,
+88653,k,0,orang sebelah,dasar,
+88653.1,x,,<orang sebe> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+88654,k,0,orang semenda,dasar,
+,,,,,
+88655,k,0,orang setangga,dasar,
+,,,,,
+88656,k,0,orang sipil,dasar,
+,,,,,
+88657,k,0,orang tani,dasar,
+88657.1,x,,<orang tan> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+88658,k,0,orang tengah,dasar,
+,,,,,
+88659,k,0,orang tepi,dasar,
+88659.1,x,,<orang tep> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+88660,k,0,orang tua,dasar,
+,,,,,
+88661,k,0,orang tua angkat,dasar,
+,,,,,
+88662,k,0,orang tua asuh,dasar,
+,,,,,
+88663,k,0,orang tua tunggal,dasar,
+,,,,,
+88664,k,0,orang tugu,dasar,
+,,,,,
+88665,k,0,orang udik,dasar,
+,,,,,
+88666,k,0,orang utan,dasar,
+88666.1,x,,<orang ut> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+88667,k,2,orang-aring,dasar,
+88667.1,v,,<orang-aring>,bentukan,[Reduplication-Rhyming]
+,,,,,
+88668,v,3549,orang-orang,dasar,
+88668.1,v,,<orang> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+88669,d,0,orang-orang tua,dasar,
+,,,,,
+88670,k,12,orang-orangan,dasar,
+88670.1,v,,<orang> [-] <r> + -an,bentukan,[23] [RD] |
+,,,,,
+88671,k,0,orang-orangan mata,dasar,
+,,,,,
+88672,k,0,orang-orangan sawah,dasar,
+,,,,,
+88673,v,3,orang-perorang,dasar,
+,,,,,
+88674,x,4,orang-perorangan,dasar,
+88674.1,x,,<orang-perorang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+88675,v,293,orangnya,dasar,
+88675.1,v,,<orang> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+88676,t,791,orangtua,dasar,orang tua
+,,,,,
+88677,c,30,orangutan,dasar,orang utan
+88677.1,x,,<orangut> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+88678,k,150,oranye,dasar,
+,,,,,
+88679,k,67,orasi,dasar,
+88679.1,x,,<oras> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+88680,k,0,orasi ilmiah,dasar,
+88680.1,x,,<orasi ilm> + -iah,bentukan,[175] [S] -iah + (<others>)
+,,,,,
+88681,v,2,orasi-orasi,dasar,
+88681.1,v,,<orasi> [-] <r>,bentukan,[23] [RD] |
+88681.2,x,,<oras> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+88682,v,15,orasinya,dasar,
+88682.1,v,,<orasi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+88682.2,x,,<oras> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+88683,k,0,orasio,dasar,
+,,,,,
+88684,k,0,orat-oret,dasar,
+88684.1,v,,<[oret:orat-oret]>,bentukan,[Reduplication-Rhyming]
+,,,,,
+88685,k,41,orator,dasar,
+,,,,,
+88686,k,0,oratoria,dasar,
+,,,,,
+88687,k,0,oratoris,dasar,
+88687.1,x,,<oratori> + [-is:-s],bentukan,[177] [S] -is + (i)
+88687.2,v,,<orator> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+88688,k,3,oratorium,dasar,
+,,,,,
+88689,t,28,orba,dasar,Orba
+,,,,,
+88690,k,58,orbit,dasar,
+,,,,,
+88691,k,3,orbita,dasar,
+,,,,,
+88692,k,19,orbital,dasar,
+,,,,,
+88693,v,2,orbitalis,dasar,
+88693.1,x,,<orbitali> + [-is:-s],bentukan,[177] [S] -is + (i)
+88693.2,v,,<orbital> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+88694,v,9,orbitnya,dasar,
+88694.1,v,,<orbit> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+88695,k,452,orde,dasar,
+,,,,,
+88696,k,0,orde baru,dasar,
+,,,,,
+88697,k,0,orde lama,dasar,
+,,,,,
+88698,k,0,orde matriks,dasar,
+,,,,,
+88699,k,0,orde reformasi,dasar,
+88699.1,x,,<orde reformas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+88700,t,9,ordebaru,dasar,Orde Baru
+,,,,,
+88701,t,2,ordelama,dasar,Orde Lama
+,,,,,
+88702,v,3,ordenya,dasar,
+88702.1,v,,<orde> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+88703,k,264,order,dasar,
+,,,,,
+88704,k,21,orderan,dasar,
+88704.1,v,,<order> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+88705,v,3,orderannya,dasar,
+88705.1,x,,<orderan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+88705.2,v,,<order> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+88706,v,9,ordernya,dasar,
+88706.1,v,,<order> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+88707,k,0,ordi,dasar,
+88707.1,x,,<ord> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+88708,k,33,ordinal,dasar,
+,,,,,
+88709,k,9,ordinasi,dasar,
+88709.1,x,,<ordinas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+88710,k,14,ordinat,dasar,
+,,,,,
+88711,k,0,ordiner,dasar,
+,,,,,
+88712,k,0,ordner,dasar,
+,,,,,
+88713,k,46,ordo,dasar,
+,,,,,
+88714,k,0,ordonans,dasar,
+,,,,,
+88715,k,13,ordonansi,dasar,
+88715.1,v,,<ordonans> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+88716,k,5,oregano,dasar,
+,,,,,
+88717,k,4,oren,dasar,
+,,,,,
+88718,k,2,oreng,dasar,
+,,,,,
+88719,v,2,orentalis,dasar,
+88719.1,x,,<orentali> + [-is:-s],bentukan,[177] [S] -is + (i)
+88719.2,x,,<orental> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+88720,k,0,oreol,dasar,
+,,,,,
+88721,k,0,oret,dasar,
+,,,,,
+88722,k,0,oretan,dasar,
+88722.1,v,,<oret> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+88723,k,0,orgadofit,dasar,
+,,,,,
+88724,k,716,organ,dasar,
+88724.1,x,,<org> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+88725,k,0,organ bicara,dasar,
+,,,,,
+88726,k,0,organ intim,dasar,
+,,,,,
+88727,k,0,organ pelvis,dasar,
+88727.1,x,,<organ pelvi> + [-is:-s],bentukan,[177] [S] -is + (i)
+88727.2,x,,<organ pelv> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+88728,k,0,organ pencernaan aksesoris,dasar,
+88728.1,x,,<organ pencernaan aksesori> + [-is:-s],bentukan,[177] [S] -is + (i)
+88728.2,x,,<organ pencernaan aksesor> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+88729,k,0,organ pipa,dasar,
+,,,,,
+88730,k,0,organ reproduksi,dasar,
+88730.1,x,,<organ reproduks> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+88731,k,0,organ tendon golgi,dasar,
+88731.1,x,,<organ tendon golg> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+88732,k,0,organ tunggal,dasar,
+,,,,,
+88733,v,68,organ-organ,dasar,
+88733.1,v,,<organ> [-] <r>,bentukan,[23] [RD] |
+88733.2,x,,<org> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+88734,v,3,organ-organnya,dasar,
+88734.1,x,,<organ> [-] <r> + -nya,bentukan,[23] [RD] |
+88734.2,x,,<org> + -an [-] <r> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+88734.3,v,,<organ> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+88734.4,x,,<org> + -an [-] <r> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+88735,k,6,organdi,dasar,
+88735.1,x,,<organd> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+88736,k,7,organel,dasar,
+,,,,,
+88737,k,460,organik,dasar,
+,,,,,
+88738,k,16,organis,dasar,
+88738.1,x,,<organi> + [-is:-s],bentukan,[177] [S] -is + (i)
+88738.2,x,,<organ> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+88739,k,3928,organisasi,dasar,
+88739.1,x,,<organisas> + -i,bentukan,[28] [S] -i + (<all>)
+88739.2,x,,<organi> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+88739.3,x,,<organis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+88739.4,x,,<orga> + [-isasi:-nisasi],bentukan,[168] [S] -isasi + (a;e;u;o)
+88739.5,x,,<organ> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+88740,k,0,organisasi antarpemerintah,dasar,
+,,,,,
+88741,k,0,organisasi berdasar pasar,dasar,
+,,,,,
+88742,k,0,organisasi berkas,dasar,
+,,,,,
+88743,k,0,organisasi bisnis,dasar,
+88743.1,x,,<organisasi bisni> + [-is:-s],bentukan,[177] [S] -is + (i)
+88743.2,x,,<organisasi bisn> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+88744,k,0,organisasi ditunjang produk,dasar,
+,,,,,
+88745,k,0,organisasi fungsional,dasar,
+,,,,,
+88746,k,0,organisasi keagenan,dasar,
+88746.1,x,,<organisasi keagen> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+88747,k,0,organisasi kesehatan,dasar,
+88747.1,x,,<organisasi kesehat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+88748,k,0,organisasi lini,dasar,
+88748.1,x,,<organisasi lin> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+88749,k,0,organisasi massa,dasar,
+,,,,,
+88750,k,0,organisasi nonpemerintah,dasar,
+,,,,,
+88751,k,0,organisasi penyedia utama,dasar,
+,,,,,
+88752,k,0,organisasi politik,dasar,
+,,,,,
+88753,k,0,organisasi profesi,dasar,
+88753.1,x,,<organisasi profes> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+88754,k,0,organisasi sosial,dasar,
+,,,,,
+88755,v,108,organisasi-organisasi,dasar,
+88755.1,v,,<organisasi> [-] <r>,bentukan,[23] [RD] |
+88755.2,x,,<organisas> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+88755.3,x,,<organi> + [-isasi:-sasi] [-] <r> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i) => [23] [RD] |
+88755.4,x,,<organis> + [-isasi:-asi] [-] <r> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is) => [23] [RD] |
+88755.5,x,,<orga> + [-isasi:-nisasi] [-] <r> + [-isasi:-nisasi],bentukan,[168] [S] -isasi + (a;e;u;o) => [23] [RD] |
+88755.6,x,,<organ> + -isasi [-] <r> + -isasi,bentukan,[169] [S] -isasi + (<others>) => [23] [RD] |
+,,,,,
+88756,v,144,organisasinya,dasar,
+88756.1,v,,<organisasi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+88756.2,x,,<organisas> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+88756.3,x,,<organi> + [-isasi:-sasi] + -nya,bentukan,[166] [S] -isasi + (i) => [34] [SFS] -nya + (<all>)
+88756.4,x,,<organis> + [-isasi:-asi] + -nya,bentukan,[167] [S] -isasi + (is) => [34] [SFS] -nya + (<all>)
+88756.5,x,,<orga> + [-isasi:-nisasi] + -nya,bentukan,[168] [S] -isasi + (a;e;u;o) => [34] [SFS] -nya + (<all>)
+88756.6,x,,<organ> + -isasi + -nya,bentukan,[169] [S] -isasi + (<others>) => [34] [SFS] -nya + (<all>)
+,,,,,
+88757,v,49,organisasional,dasar,
+,,,,,
+88758,v,4,organisasionalnya,dasar,
+88758.1,v,,<organisasional> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+88759,k,14,organisator,dasar,
+,,,,,
+88760,k,19,organisatoris,dasar,
+88760.1,x,,<organisatori> + [-is:-s],bentukan,[177] [S] -is + (i)
+88760.2,v,,<organisator> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+88761,c,2,organisir,dasar,organisasi
+,,,,,
+88762,k,213,organisme,dasar,
+88762.1,x,,<organ> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+88763,k,0,organisme akuatik,dasar,
+,,,,,
+88764,k,0,organisme bentuk,dasar,
+,,,,,
+88765,k,0,organisme heterotrop,dasar,
+,,,,,
+88766,k,0,organisme mikroskopik,dasar,
+,,,,,
+88767,k,0,organisme pengganggu,dasar,
+,,,,,
+88768,k,0,organisme penyusup,dasar,
+,,,,,
+88769,k,0,organisme termofilik,dasar,
+,,,,,
+88770,k,0,organisme ubikuitas,dasar,
+88770.1,x,,<organisme ubiku> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+88771,v,2,organisme-organisme,dasar,
+88771.1,v,,<organisme> [-] <r>,bentukan,[23] [RD] |
+88771.2,x,,<organ> + -isme [-] <r> + -isme,bentukan,[89] [S] -isme + (<all>) => [23] [RD] |
+,,,,,
+88772,k,0,organismik,dasar,
+,,,,,
+88773,k,0,organismus,dasar,
+88773.1,x,,<organ> + -ismus,bentukan,[198] [S] -ismus + (<all>)
+,,,,,
+88774,v,6,organnya,dasar,
+88774.1,v,,<organ> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+88774.2,x,,<org> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+88775,k,3,organofosfat,dasar,
+,,,,,
+88776,k,5,organogenesis,dasar,
+88776.1,x,,<organogenesi> + [-is:-s],bentukan,[177] [S] -is + (i)
+88776.2,x,,<organogenes> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+88777,k,0,organogram,dasar,
+,,,,,
+88778,k,29,organoleptik,dasar,
+,,,,,
+88779,k,3,organologam,dasar,
+,,,,,
+88780,k,2,organologi,dasar,
+88780.1,x,,<organolog> + -i,bentukan,[28] [S] -i + (<all>)
+88780.2,x,,<organo> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+88781,k,0,organometaloid,dasar,
+88781.1,x,,<organometal> + -oid,bentukan,[209] [S] -oid + (<all>)
+,,,,,
+88782,k,2,organon,dasar,
+,,,,,
+88783,k,0,organonimi,dasar,
+88783.1,x,,<organonim> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+88784,k,3,organza,dasar,
+,,,,,
+88785,k,33,orgasme,dasar,
+,,,,,
+88786,k,0,orgasmik,dasar,
+,,,,,
+88787,k,2,orgel,dasar,
+,,,,,
+88788,k,0,oria,dasar,
+,,,,,
+88789,k,2,orien,dasar,
+,,,,,
+88790,k,45,oriental,dasar,
+,,,,,
+88791,k,26,orientalis,dasar,
+88791.1,x,,<orientali> + [-is:-s],bentukan,[177] [S] -is + (i)
+88791.2,v,,<oriental> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+88792,v,10,orientalisme,dasar,
+88792.1,v,,<oriental> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+88793,k,526,orientasi,dasar,
+88793.1,x,,<orientas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+88794,k,0,orientasi pasar,dasar,
+,,,,,
+88795,k,0,orientasi realitas,dasar,
+88795.1,x,,<orientasi real> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+88796,k,0,orientasi terhubung,dasar,
+,,,,,
+88797,v,62,orientasinya,dasar,
+88797.1,v,,<orientasi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+88797.2,x,,<orientas> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+88798,k,8,origami,dasar,
+88798.1,x,,<origam> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+88799,c,116,original,dasar,orisinal
+,,,,,
+88800,v,18,originalitas,dasar,
+88800.1,v,,<original> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+88801,v,5,originalnya,dasar,
+88801.1,v,,<original> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+88802,k,8,orion,dasar,
+,,,,,
+88803,k,72,orisinal,dasar,
+,,,,,
+88804,k,54,orisinalitas,dasar,
+88804.1,v,,<orisinal> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+88805,v,9,orisinalnya,dasar,
+88805.1,v,,<orisinal> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+88806,c,51,orisinil,dasar,orisinal
+,,,,,
+88807,k,0,oritsuru,dasar,
+,,,,,
+88808,k,35,orkes,dasar,
+,,,,,
+88809,k,0,orkes dangdut,dasar,
+,,,,,
+88810,k,0,orkes gambus,dasar,
+,,,,,
+88811,k,0,orkes gesek,dasar,
+,,,,,
+88812,k,0,orkes melayu,dasar,
+,,,,,
+88813,k,0,orkes simfoni,dasar,
+88813.1,x,,<orkes simfon> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+88814,k,0,orkes tiup,dasar,
+,,,,,
+88815,k,54,orkestra,dasar,
+,,,,,
+88816,k,11,orkestrasi,dasar,
+88816.1,x,,<orkestras> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+88817,v,2,orkidektomi,dasar,
+88817.1,x,,<orkidektom> + -i,bentukan,[28] [S] -i + (<all>)
+88817.2,x,,<orkidek> + -tomi,bentukan,[200] [S] -tomi + (<all>)
+,,,,,
+88818,t,5,orla,dasar,Orla
+,,,,,
+88819,v,227,ormas,dasar,
+,,,,,
+88820,v,32,ormas-ormas,dasar,
+88820.1,v,,<ormas> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+88821,v,2,ormas-ormasnya,dasar,
+88821.1,x,,<ormas> [-] <r> + -nya,bentukan,[23] [RD] |
+88821.2,v,,<ormas> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+88822,v,2,ormasnya,dasar,
+88822.1,v,,<ormas> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+88823,k,0,ormu,dasar,
+88823.1,x,,<or> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+,,,,,
+88824,k,145,ornamen,dasar,
+,,,,,
+88825,k,0,ornamen lawas,dasar,
+,,,,,
+88826,v,11,ornamen-ornamen,dasar,
+88826.1,v,,<ornamen> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+88827,k,3,ornamental,dasar,
+,,,,,
+88828,k,5,ornamentasi,dasar,
+88828.1,x,,<ornamentas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+88829,k,0,ornitin,dasar,
+,,,,,
+88830,k,0,ornitina,dasar,
+,,,,,
+88831,k,0,ornitofili,dasar,
+88831.1,x,,<ornitofil> + -i,bentukan,[28] [S] -i + (<all>)
+88831.2,x,,<ornito> + -fili,bentukan,[193] [S] -fili + (<all>)
+,,,,,
+88832,k,0,ornitofobia,dasar,
+88832.1,x,,<ornito> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+88833,k,0,ornitokori,dasar,
+88833.1,x,,<ornitokor> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+88834,k,2,ornitologi,dasar,
+88834.1,x,,<ornitolog> + -i,bentukan,[28] [S] -i + (<all>)
+88834.2,x,,<ornito> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+88835,k,0,ornitologis,dasar,
+88835.1,x,,<ornitologi> + [-is:-s],bentukan,[177] [S] -is + (i)
+88835.2,x,,<ornitolog> + -is,bentukan,[178] [S] -is + (<others>)
+88835.3,x,,<ornito> + -logi+-s,bentukan,[194] [MS] -logi+-s + (<all>)
+,,,,,
+88836,k,0,ornitomansi,dasar,
+88836.1,x,,<ornitomans> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+88837,k,0,ornitosis,dasar,
+88837.1,x,,<ornitosi> + [-is:-s],bentukan,[177] [S] -is + (i)
+88837.2,x,,<ornitos> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+88838,k,0,ornotofili,dasar,
+88838.1,x,,<ornotofil> + -i,bentukan,[28] [S] -i + (<all>)
+88838.2,x,,<ornoto> + -fili,bentukan,[193] [S] -fili + (<all>)
+,,,,,
+88839,k,0,ornotofilia,dasar,
+88839.1,x,,<ornoto> + -filia,bentukan,[216] [S] -filia + (<all>)
+,,,,,
+88840,k,6,orofaring,dasar,
+,,,,,
+88841,k,0,orografi,dasar,
+88841.1,x,,<orograf> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+88842,k,0,orografik,dasar,
+,,,,,
+88843,k,0,orografis,dasar,
+88843.1,v,,<orografi> + [-is:-s],bentukan,[177] [S] -is + (i)
+88843.2,x,,<orograf> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+88844,k,21,orok,dasar,
+,,,,,
+88845,k,4,orok-orok,dasar,
+88845.1,v,,<orok> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+88846,v,4,oroknya,dasar,
+88846.1,v,,<orok> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+88847,v,2,orologis,dasar,
+88847.1,x,,<orologi> + [-is:-s],bentukan,[177] [S] -is + (i)
+88847.2,x,,<orolog> + -is,bentukan,[178] [S] -is + (<others>)
+88847.3,x,,<oro> + -logi+-s,bentukan,[194] [MS] -logi+-s + (<all>)
+,,,,,
+88848,k,0,oromotor,dasar,
+88848.1,x,,<oro> + -motor,bentukan,[201] [S] -motor + (<all>)
+,,,,,
+88849,k,4,orong-orong,dasar,
+88849.1,v,,<orong> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+88850,k,0,ortodentis,dasar,
+88850.1,x,,<ortodenti> + [-is:-s],bentukan,[177] [S] -is + (i)
+88850.2,x,,<ortodent> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+88851,k,0,ortodidaktik,dasar,
+,,,,,
+88852,t,3,ortodok,dasar,ortodoks
+,,,,,
+88853,k,40,ortodoks,dasar,
+,,,,,
+88854,k,8,ortodoksi,dasar,
+88854.1,v,,<ortodoks> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+88855,k,0,ortodonsia,dasar,
+,,,,,
+88856,k,0,ortodontik,dasar,
+,,,,,
+88857,k,0,ortodrom,dasar,
+88857.1,x,,<orto> + -drom,bentukan,[202] [S] -drom + (<all>)
+,,,,,
+88858,k,0,ortodromik,dasar,
+,,,,,
+88859,k,0,ortoepi,dasar,
+88859.1,x,,<ortoep> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+88860,k,8,ortogonal,dasar,
+,,,,,
+88861,k,0,ortografi,dasar,
+88861.1,x,,<ortograf> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+88862,k,3,ortografis,dasar,
+88862.1,v,,<ortografi> + [-is:-s],bentukan,[177] [S] -is + (i)
+88862.2,x,,<ortograf> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+88863,k,0,ortoheksagonal,dasar,
+,,,,,
+88864,k,0,ortohelium,dasar,
+,,,,,
+88865,k,0,ortohidrogen,dasar,
+,,,,,
+88866,k,2,ortoklas,dasar,
+,,,,,
+88867,k,0,ortonormal,dasar,
+,,,,,
+88868,k,0,ortonormalitas,dasar,
+88868.1,v,,<ortonormal> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+88869,k,0,ortopedagogik,dasar,
+,,,,,
+88870,k,25,ortopedi,dasar,
+88870.1,x,,<ortoped> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+88871,k,0,ortopedis,dasar,
+88871.1,v,,<ortopedi> + [-is:-s],bentukan,[177] [S] -is + (i)
+88871.2,x,,<ortoped> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+88872,k,0,ortoreksia,dasar,
+,,,,,
+88873,k,0,ortorombik,dasar,
+,,,,,
+88874,k,4,ortotik,dasar,
+,,,,,
+88875,k,0,ortotrop,dasar,
+,,,,,
+88876,v,11,ortu,dasar,
+,,,,,
+88877,v,4,ortunya,dasar,
+88877.1,v,,<ortu> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+88878,k,0,osara,dasar,
+,,,,,
+88879,k,26,ose,dasar,
+,,,,,
+88880,k,0,osealus,dasar,
+,,,,,
+88881,k,0,osean,dasar,
+88881.1,x,,<ose> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+88882,k,0,oseanarium,dasar,
+,,,,,
+88883,k,0,oseanodrom,dasar,
+88883.1,x,,<oseano> + -drom,bentukan,[202] [S] -drom + (<all>)

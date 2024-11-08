@@ -1,0 +1,1555 @@
+Nomor,KP,Jumlah,Entri,Tipe,Pembentukan
+86918,k,0,nimfomania,dasar,
+,,,,,
+86919,t,3,nimpa,dasar,menimpa
+,,,,,
+86920,k,2,ninabobo,dasar,
+,,,,,
+86921,k,64,ning,dasar,
+,,,,,
+86922,t,4,ninggal,dasar,meninggal
+,,,,,
+86923,t,18,ninggalin,dasar,meninggalkan
+,,,,,
+86924,t,4,ninggalkan,dasar,meninggalkan
+86924.1,x,,<ninggal> + -kan,bentukan,[29] [S] -kan + (<all>)
+86924.2,x,,<ninggalk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+86925,k,0,ninggrum,dasar,
+,,,,,
+86926,t,5,ningkat,dasar,meningkat
+,,,,,
+86927,t,2,ningkatan,dasar,
+86927.1,x,,<ningkat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+86928,t,5,ningkatkan,dasar,meningkatkan
+86928.1,x,,<ningkat> + -kan,bentukan,[29] [S] -kan + (<all>)
+86928.2,x,,<ningkatk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+86929,k,0,ningnong,dasar,
+,,,,,
+86930,k,44,ningrat,dasar,
+,,,,,
+86931,k,18,nini,dasar,
+86931.1,x,,<nin> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+86932,k,19,ninik,dasar,
+,,,,,
+86933,k,0,ninik mamak,dasar,
+,,,,,
+86934,k,0,ninitowok,dasar,
+,,,,,
+86935,k,0,ninitowong,dasar,
+,,,,,
+86936,k,52,ninja,dasar,
+,,,,,
+86937,k,0,ninjutsu,dasar,
+,,,,,
+86938,k,5,niobium,dasar,
+,,,,,
+86939,k,31,nipah,dasar,
+,,,,,
+86940,k,0,nipas,dasar,
+,,,,,
+86941,k,26,nipis,dasar,
+86941.1,x,,<nipi> + [-is:-s],bentukan,[177] [S] -is + (i)
+86941.2,x,,<nip> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+86942,k,32,nira,dasar,
+,,,,,
+86943,k,0,niraksara,dasar,
+,,,,,
+86944,k,0,niraksarawan,dasar,
+86944.1,x,,<niraksaraw> + -an,bentukan,[38] [S] -an + (<all>)
+86944.2,v,,<niraksara> + -wan,bentukan,[180] [S] -wan + (<others>)
+86944.3,x,,<niraksar> + [-wan:-awan],bentukan,[18000001] [S] -wan + (<all>)
+,,,,,
+86945,k,17,nirawak,dasar,
+,,,,,
+86946,k,0,nirbangun,dasar,
+,,,,,
+86947,k,0,nirbatas,dasar,
+,,,,,
+86948,k,0,nirbentuk,dasar,
+,,,,,
+86949,k,2,nirbobol,dasar,
+,,,,,
+86950,k,0,nirca,dasar,
+,,,,,
+86951,k,0,nirdividen,dasar,
+,,,,,
+86952,k,0,nirfaedah,dasar,
+,,,,,
+86953,k,0,nirgagasan,dasar,
+86953.1,x,,<nirgagas> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+86954,k,5,nirgelar,dasar,
+,,,,,
+86955,k,0,nirgesekan,dasar,
+86955.1,x,,<nirgese> + -kan,bentukan,[29] [S] -kan + (<all>)
+86955.2,x,,<nirgesek> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+86956,k,0,nirguna,dasar,
+,,,,,
+86957,k,0,nirhubung,dasar,
+,,,,,
+86958,k,88,nirkabel,dasar,
+,,,,,
+86959,k,0,nirkertas,dasar,
+,,,,,
+86960,k,0,nirkoneksi,dasar,
+86960.1,x,,<nirkoneks> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+86961,k,132,nirlaba,dasar,
+,,,,,
+86962,k,2,nirleka,dasar,
+,,,,,
+86963,k,0,nirlemak,dasar,
+,,,,,
+86964,k,16,nirmala,dasar,
+,,,,,
+86965,k,0,nirmana,dasar,
+,,,,,
+86966,k,0,nirmana datar,dasar,
+,,,,,
+86967,k,0,nirmana dua dimensi,dasar,
+86967.1,x,,<nirmana dua dimens> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+86968,k,0,nirmana ruang,dasar,
+,,,,,
+86969,k,0,nirmana tiga dimensi,dasar,
+86969.1,x,,<nirmana tiga dimens> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+86970,k,3,nirsangkal,dasar,
+,,,,,
+86971,k,0,nirselera,dasar,
+,,,,,
+86972,k,3,nirsentuh,dasar,
+,,,,,
+86973,c,6,niru,dasar,nyiru
+,,,,,
+86974,k,25,nirwana,dasar,
+,,,,,
+86975,k,0,nirwarta,dasar,
+,,,,,
+86976,k,38,nisa,dasar,
+,,,,,
+86977,k,8,nisab,dasar,
+,,,,,
+86978,k,95,nisan,dasar,
+86978.1,x,,<nis> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+86979,k,64,nisbah,dasar,
+,,,,,
+86980,k,0,nisbah aspek,dasar,
+,,,,,
+86981,k,0,nisbah campur,dasar,
+,,,,,
+86982,k,0,nisbah campur kelembapan,dasar,
+86982.1,x,,<nisbah campur kelembap> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+86983,k,0,nisbah kegiatan,dasar,
+86983.1,x,,<nisbah kegiat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+86984,k,0,nisbah likuiditas,dasar,
+86984.1,x,,<nisbah likuid> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+86985,k,0,nisbah neraca,dasar,
+,,,,,
+86986,k,0,nisbah pajak,dasar,
+,,,,,
+86987,k,0,nisbah pengisian,dasar,
+86987.1,x,,<nisbah pengisi> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+86988,k,0,nisbah pengupasan,dasar,
+86988.1,x,,<nisbah pengupas> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+86989,k,0,nisbah rongga,dasar,
+,,,,,
+86990,k,26,nisbi,dasar,
+86990.1,x,,<nisb> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+86991,k,241,niscaya,dasar,
+,,,,,
+86992,k,0,nisin,dasar,
+,,,,,
+86993,k,15,niskala,dasar,
+,,,,,
+86994,k,0,nisomo,dasar,
+,,,,,
+86995,k,46,nista,dasar,
+,,,,,
+86996,k,0,nistaan,dasar,
+86996.1,v,,<nista> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+86997,k,4,nistagmus,dasar,
+,,,,,
+86998,k,0,nistatin,dasar,
+,,,,,
+86999,t,3,nitik,dasar,menitik
+,,,,,
+87000,t,16,nitip,dasar,menitip
+,,,,,
+87001,t,4,nitipin,dasar,menitipkan
+,,,,,
+87002,t,2,nitis,dasar,menitis
+87002.1,x,,<niti> + [-is:-s],bentukan,[177] [S] -is + (i)
+87002.2,x,,<nit> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+87003,k,0,nitramina,dasar,
+,,,,,
+87004,k,66,nitrat,dasar,
+,,,,,
+87005,k,11,nitrifikasi,dasar,
+87005.1,x,,<nitrifikas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+87006,k,30,nitrit,dasar,
+,,,,,
+87007,k,0,nitrobenzena,dasar,
+,,,,,
+87008,k,0,nitrofili,dasar,
+87008.1,x,,<nitrofil> + -i,bentukan,[28] [S] -i + (<all>)
+87008.2,x,,<nitro> + -fili,bentukan,[193] [S] -fili + (<all>)
+,,,,,
+87009,k,0,nitrofit,dasar,
+,,,,,
+87010,k,172,nitrogen,dasar,
+,,,,,
+87011,k,0,nitrogen dioksida,dasar,
+,,,,,
+87012,k,0,nitrogen eksogen,dasar,
+,,,,,
+87013,k,0,nitrogen metabolik,dasar,
+,,,,,
+87014,k,0,nitrogenase,dasar,
+87014.1,x,,<nitrogen> + -ase,bentukan,[210] [S] -ase + (<all>)
+,,,,,
+87015,k,2,nitrogliserin,dasar,
+,,,,,
+87016,k,0,nitrometer,dasar,
+87016.1,x,,<nitro> + -meter,bentukan,[189] [S] -meter + (<all>)
+,,,,,
+87017,k,2,nitrosamin,dasar,
+,,,,,
+87018,k,4,nitroselulosa,dasar,
+,,,,,
+87019,k,0,nitrosohemikrom,dasar,
+,,,,,
+87020,k,0,nitrotokobalamin,dasar,
+,,,,,
+87021,k,0,nituro,dasar,
+,,,,,
+87022,k,0,niur,dasar,
+,,,,,
+87023,k,0,niyaga,dasar,
+,,,,,
+87024,t,2,njaga,dasar,menjaga
+,,,,,
+87025,t,2,njajah,dasar,menjajah
+,,,,,
+87026,t,2,njawab,dasar,menjawab
+,,,,,
+87027,k,2,njawani,dasar,
+87027.1,x,,<njawan> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+87028,t,2,njumlah,dasar,menjumlah
+87028.1,x,,<njum> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+87029,k,60,noa,dasar,
+,,,,,
+87030,v,14,nobar,dasar,
+,,,,,
+87031,k,0,nobat,dasar,
+,,,,,
+87032,t,5,nobatkan,dasar,menobatkan
+87032.1,v,,<nobat> + -kan,bentukan,[29] [S] -kan + (<all>)
+87032.2,x,,<nobatk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+87033,v,108,nobel,dasar,
+,,,,,
+87034,k,0,nobelium,dasar,
+,,,,,
+87035,k,0,nobuk,dasar,
+,,,,,
+87036,k,160,noda,dasar,
+,,,,,
+87037,t,3,nodai,dasar,menodai
+87037.1,v,,<noda> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+87038,k,12,nodul,dasar,
+,,,,,
+87039,k,0,nodula,dasar,
+,,,,,
+87040,k,0,nodulus,dasar,
+,,,,,
+87041,k,0,nodulus kistik,dasar,
+,,,,,
+87042,k,8,nodus,dasar,
+,,,,,
+87043,k,0,noja,dasar,
+,,,,,
+87044,k,10,nok,dasar,
+,,,,,
+87045,k,2,nokdiak,dasar,
+,,,,,
+87046,k,15,noken,dasar,
+,,,,,
+87047,k,22,noktah,dasar,
+,,,,,
+87048,k,0,noktifili,dasar,
+87048.1,x,,<noktifil> + -i,bentukan,[28] [S] -i + (<all>)
+87048.2,x,,<nokti> + -fili,bentukan,[193] [S] -fili + (<all>)
+,,,,,
+87049,k,0,noktifilia,dasar,
+87049.1,x,,<nokti> + -filia,bentukan,[216] [S] -filia + (<all>)
+,,,,,
+87050,k,0,noktifobia,dasar,
+87050.1,x,,<nokti> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+87051,k,2,nokturia,dasar,
+,,,,,
+87052,k,13,nokturnal,dasar,
+,,,,,
+87053,k,0,nokturnalitas,dasar,
+87053.1,v,,<nokturnal> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+87054,k,676,nol,dasar,
+,,,,,
+87055,k,0,nol absolut,dasar,
+,,,,,
+87056,k,0,nol fungsi,dasar,
+87056.1,x,,<nol fungs> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+87057,k,0,nol mutlak,dasar,
+,,,,,
+87058,t,20,nolak,dasar,menolak
+,,,,,
+87059,k,0,nolam,dasar,
+,,,,,
+87060,t,2,noleh,dasar,menoleh
+,,,,,
+87061,t,6,nolong,dasar,menolong
+,,,,,
+87062,t,4,nolongin,dasar,menolong
+,,,,,
+87063,k,9,nomad,dasar,
+,,,,,
+87064,k,20,nomaden,dasar,
+,,,,,
+87065,k,0,nomadik,dasar,
+,,,,,
+87066,t,5,nombok,dasar,menomboki
+,,,,,
+87067,k,110,nomenklatur,dasar,
+,,,,,
+87068,c,80,nomer,dasar,nomor
+,,,,,
+87069,k,35,nomina,dasar,
+,,,,,
+87070,k,0,nomina abstrak,dasar,
+,,,,,
+87071,k,0,nomina atributif,dasar,
+,,,,,
+87072,k,0,nomina kolektif,dasar,
+,,,,,
+87073,k,0,nomina konkret,dasar,
+,,,,,
+87074,k,0,nomina predikatif,dasar,
+,,,,,
+87075,k,0,nomina verbal,dasar,
+,,,,,
+87076,k,605,nominal,dasar,
+,,,,,
+87077,k,3,nominalisasi,dasar,
+87077.1,x,,<nominalisas> + -i,bentukan,[28] [S] -i + (<all>)
+87077.2,x,,<nominali> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+87077.3,x,,<nominalis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+87077.4,x,,<nominal> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+87078,k,0,nominalisme,dasar,
+87078.1,v,,<nominal> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+87079,k,163,nominasi,dasar,
+87079.1,x,,<nominas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+87080,k,7,nominatif,dasar,
+,,,,,
+87081,k,18,nominator,dasar,
+,,,,,
+87082,k,19,nomine,dasar,
+,,,,,
+87083,k,0,nomofobia,dasar,
+87083.1,x,,<nomo> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+87084,k,0,nomograf,dasar,
+87084.1,x,,<nomo> + -graf,bentukan,[191] [S] -graf + (<all>)
+,,,,,
+87085,k,0,nomografi,dasar,
+87085.1,x,,<nomograf> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+87086,k,2,nomogram,dasar,
+,,,,,
+87087,k,4,nomokrasi,dasar,
+87087.1,x,,<nomokras> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+87088,k,7411,nomor,dasar,
+,,,,,
+87089,k,0,nomor atom,dasar,
+,,,,,
+87090,k,0,nomor baris,dasar,
+87090.1,x,,<nomor bari> + [-is:-s],bentukan,[177] [S] -is + (i)
+87090.2,x,,<nomor bar> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+87091,k,0,nomor buntut,dasar,
+,,,,,
+87092,k,0,nomor cantik,dasar,
+,,,,,
+87093,k,0,nomor dada,dasar,
+,,,,,
+87094,d,0,nomor dua,dasar,
+,,,,,
+87095,k,0,nomor identitas bank,dasar,
+,,,,,
+87096,k,0,nomor iklan,dasar,
+87096.1,x,,<nomor ikl> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+87097,k,0,nomor indeks internasional,dasar,
+,,,,,
+87098,k,0,nomor induk,dasar,
+,,,,,
+87099,k,0,nomor kode,dasar,
+,,,,,
+87100,k,0,nomor lambung,dasar,
+,,,,,
+87101,k,0,nomor lepas,dasar,
+,,,,,
+87102,k,0,nomor massa atom,dasar,
+,,,,,
+87103,k,0,nomor penerbangan,dasar,
+87103.1,x,,<nomor penerbang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+87104,k,0,nomor perdana,dasar,
+,,,,,
+87105,k,0,nomor perkenalan,dasar,
+87105.1,x,,<nomor perkenal> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+87106,k,0,nomor pokok,dasar,
+,,,,,
+87107,k,0,nomor pokok wajib pajak,dasar,
+,,,,,
+87108,k,0,nomor polisi,dasar,
+87108.1,x,,<nomor polis> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+87109,k,0,nomor punggung,dasar,
+,,,,,
+87110,k,0,nomor rekening,dasar,
+,,,,,
+87111,d,0,nomor satu,dasar,
+,,,,,
+87112,k,0,nomor seri,dasar,
+87112.1,x,,<nomor ser> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+87113,k,0,nomor sial,dasar,
+,,,,,
+87114,k,0,nomor surat,dasar,
+,,,,,
+87115,k,0,nomor tukar,dasar,
+,,,,,
+87116,k,0,nomor undi,dasar,
+87116.1,x,,<nomor und> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+87117,k,0,nomor wahid,dasar,
+,,,,,
+87118,k,0,nomor wisata,dasar,
+87118.1,x,,<nomor > + -wisata,bentukan,[212] [S] -wisata + (<all>)
+,,,,,
+87119,k,10,nomplok,dasar,
+,,,,,
+87120,k,2100,non,dasar,
+,,,,,
+87121,k,0,non-brt,dasar,
+,,,,,
+87122,d,0,non-terkait,dasar,
+,,,,,
+87123,k,84,nona,dasar,
+87123.1,x,,non- + <a>,bentukan,[94] non- + (<all>)
+,,,,,
+87124,k,0,nona makan sirih,dasar,
+87124.1,x,,non- + <a makan sirih>,bentukan,[94] non- + (<all>)
+,,,,,
+87125,v,4,nonafiliasi,dasar,
+87125.1,v,,non- + <afiliasi>,bentukan,[94] non- + (<all>)
+87125.2,x,,<nonafilias> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+87126,k,0,nonagon,dasar,
+87126.1,x,,non- + <agon>,bentukan,[94] non- + (<all>)
+,,,,,
+87127,k,0,nonagresi,dasar,
+87127.1,v,,non- + <agresi>,bentukan,[94] non- + (<all>)
+87127.2,x,,<nonagres> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+87128,k,0,nonai,dasar,
+87128.1,x,,non- + <ai>,bentukan,[94] non- + (<all>)
+87128.2,x,,<nona> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+87129,v,4,nonakademis,dasar,
+87129.1,v,,non- + <akademis>,bentukan,[94] non- + (<all>)
+87129.2,x,,<nonakademi> + [-is:-s],bentukan,[177] [S] -is + (i)
+87129.3,x,,<nonakadem> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+87130,k,48,nonaktif,dasar,
+87130.1,v,,non- + <aktif>,bentukan,[94] non- + (<all>)
+,,,,,
+87131,v,2,nonalami,dasar,
+87131.1,v,,non- + <alami>,bentukan,[94] non- + (<all>)
+87131.2,x,,<nonalam> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+87132,v,5,nonanggaran,dasar,
+87132.1,v,,non- + <anggaran>,bentukan,[94] non- + (<all>)
+87132.2,x,,<nonanggar> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+87133,k,4,nonanggota,dasar,
+87133.1,v,,non- + <anggota>,bentukan,[94] non- + (<all>)
+,,,,,
+87134,v,3,nonaparatur,dasar,
+87134.1,v,,non- + <aparatur>,bentukan,[94] non- + (<all>)
+,,,,,
+87135,v,3,nonbahasa,dasar,
+87135.1,v,,non- + <bahasa>,bentukan,[94] non- + (<all>)
+,,,,,
+87136,v,2,nonbangunan,dasar,
+87136.1,v,,non- + <bangunan>,bentukan,[94] non- + (<all>)
+87136.2,x,,<nonbangun> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+87137,k,57,nonbank,dasar,
+87137.1,v,,non- + <bank>,bentukan,[94] non- + (<all>)
+,,,,,
+87138,k,8,nonbendawi,dasar,
+87138.1,v,,non- + <bendawi>,bentukan,[94] non- + (<all>)
+87138.2,x,,<nonbendaw> + -i,bentukan,[28] [S] -i + (<all>)
+87138.3,x,,<nonbenda> + -wi,bentukan,[174] [S] -wi + (<others>)
+,,,,,
+87139,v,3,nonberas,dasar,
+87139.1,v,,non- + <beras>,bentukan,[94] non- + (<all>)
+,,,,,
+87140,v,2,nonbisnis,dasar,
+87140.1,v,,non- + <bisnis>,bentukan,[94] non- + (<all>)
+87140.2,x,,<nonbisni> + [-is:-s],bentukan,[177] [S] -is + (i)
+87140.3,x,,<nonbisn> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+87141,k,4,nonblok,dasar,
+87141.1,v,,non- + <blok>,bentukan,[94] non- + (<all>)
+,,,,,
+87142,v,2,nondarurat,dasar,
+87142.1,v,,non- + <darurat>,bentukan,[94] non- + (<all>)
+,,,,,
+87143,v,3,nondasar,dasar,
+87143.1,v,,non- + <dasar>,bentukan,[94] non- + (<all>)
+,,,,,
+87144,v,2,nondaya,dasar,
+87144.1,v,,non- + <daya>,bentukan,[94] non- + (<all>)
+,,,,,
+87145,k,0,nondepartemen,dasar,
+87145.1,v,,non- + <departemen>,bentukan,[94] non- + (<all>)
+,,,,,
+87146,k,0,nondepartemental,dasar,
+87146.1,v,,non- + <departemental>,bentukan,[94] non- + (<all>)
+,,,,,
+87147,v,2,nondestruktif,dasar,
+87147.1,v,,non- + <destruktif>,bentukan,[94] non- + (<all>)
+,,,,,
+87148,v,3,nondiabetes,dasar,
+87148.1,v,,non- + <diabetes>,bentukan,[94] non- + (<all>)
+,,,,,
+87149,v,2,nondigital,dasar,
+87149.1,v,,non- + <digital>,bentukan,[94] non- + (<all>)
+,,,,,
+87150,v,18,nondiskriminasi,dasar,
+87150.1,v,,non- + <diskriminasi>,bentukan,[94] non- + (<all>)
+87150.2,x,,<nondiskriminas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+87151,v,18,nondiskriminatif,dasar,
+87151.1,v,,non- + <diskriminatif>,bentukan,[94] non- + (<all>)
+,,,,,
+87152,k,0,nondistingtif,dasar,
+87152.1,v,,non- + <distingtif>,bentukan,[94] non- + (<all>)
+,,,,,
+87153,v,3,nondomestik,dasar,
+87153.1,v,,non- + <domestik>,bentukan,[94] non- + (<all>)
+,,,,,
+87154,k,22,none,dasar,
+87154.1,x,,non- + <e>,bentukan,[94] non- + (<all>)
+,,,,,
+87155,k,6,nonekonomi,dasar,
+87155.1,v,,non- + <ekonomi>,bentukan,[94] non- + (<all>)
+87155.2,x,,<nonekonom> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+87156,k,0,noneksakta,dasar,
+87156.1,v,,non- + <eksakta>,bentukan,[94] non- + (<all>)
+,,,,,
+87157,v,4,noneksperimental,dasar,
+87157.1,v,,non- + <eksperimental>,bentukan,[94] non- + (<all>)
+,,,,,
+87158,k,0,nonekstraksi,dasar,
+87158.1,v,,non- + <ekstraksi>,bentukan,[94] non- + (<all>)
+87158.2,x,,<nonekstraks> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+87159,k,0,nonelektrik,dasar,
+87159.1,v,,non- + <elektrik>,bentukan,[94] non- + (<all>)
+,,,,,
+87160,k,2,nonelektrolit,dasar,
+87160.1,v,,non- + <elektrolit>,bentukan,[94] non- + (<all>)
+,,,,,
+87161,v,22,nonelektronik,dasar,
+87161.1,v,,non- + <elektronik>,bentukan,[94] non- + (<all>)
+,,,,,
+87162,v,6,noneselon,dasar,
+87162.1,v,,non- + <eselon>,bentukan,[94] non- + (<all>)
+,,,,,
+87163,k,6,nonesensial,dasar,
+87163.1,v,,non- + <esensial>,bentukan,[94] non- + (<all>)
+,,,,,
+87164,k,2,nonet,dasar,
+87164.1,x,,non- + <et>,bentukan,[94] non- + (<all>)
+,,,,,
+87165,v,7,nonfarmakologi,dasar,
+87165.1,v,,non- + <farmakologi>,bentukan,[94] non- + (<all>)
+87165.2,x,,<nonfarmakolog> + -i,bentukan,[28] [S] -i + (<all>)
+87165.3,x,,<nonfarmako> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+87166,v,7,nonfarmakologis,dasar,
+87166.1,v,,non- + <farmakologis>,bentukan,[94] non- + (<all>)
+87166.2,x,,<nonfarmakologi> + [-is:-s],bentukan,[177] [S] -is + (i)
+87166.3,x,,<nonfarmakolog> + -is,bentukan,[178] [S] -is + (<others>)
+87166.4,x,,<nonfarmako> + -logi+-s,bentukan,[194] [MS] -logi+-s + (<all>)
+,,,,,
+87167,k,31,nonfiksi,dasar,
+87167.1,v,,non- + <fiksi>,bentukan,[94] non- + (<all>)
+87167.2,x,,<nonfiks> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+87168,v,9,nonfinansial,dasar,
+87168.1,v,,non- + <finansial>,bentukan,[94] non- + (<all>)
+,,,,,
+87169,k,73,nonfisik,dasar,
+87169.1,v,,non- + <fisik>,bentukan,[94] non- + (<all>)
+,,,,,
+87170,k,8,nonfiskal,dasar,
+87170.1,v,,non- + <fiskal>,bentukan,[94] non- + (<all>)
+,,,,,
+87171,k,145,nonformal,dasar,
+87171.1,v,,non- + <formal>,bentukan,[94] non- + (<all>)
+,,,,,
+87172,v,2,nonfosil,dasar,
+87172.1,v,,non- + <fosil>,bentukan,[94] non- + (<all>)
+,,,,,
+87173,v,2,nonfundamental,dasar,
+87173.1,v,,non- + <fundamental>,bentukan,[94] non- + (<all>)
+,,,,,
+87174,v,3,nonfungsional,dasar,
+87174.1,v,,non- + <fungsional>,bentukan,[94] non- + (<all>)
+,,,,,
+87175,k,11,nong,dasar,
+87175.1,x,,non- + <g>,bentukan,[94] non- + (<all>)
+,,,,,
+87176,k,0,nong-nong,dasar,
+87176.1,x,,<nong> [-] <r>,bentukan,[23] [RD] |
+87176.2,x,,non- + <g> [-] non- + <r>,bentukan,[94] non- + (<all>) => [23] [RD] |
+,,,,,
+87177,v,2,nongenetik,dasar,
+87177.1,v,,non- + <genetik>,bentukan,[94] non- + (<all>)
+,,,,,
+87178,k,0,nongeometris,dasar,
+87178.1,v,,non- + <geometris>,bentukan,[94] non- + (<all>)
+87178.2,x,,<nongeometri> + [-is:-s],bentukan,[177] [S] -is + (i)
+87178.3,x,,<nongeometr> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+87179,k,0,nongki,dasar,
+87179.1,x,,<nongk> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+87180,k,145,nongkrong,dasar,
+,,,,,
+87181,t,3,nongkrongin,dasar,menongkrong
+,,,,,
+87182,k,54,nongol,dasar,
+87182.1,x,,non- + <gol>,bentukan,[94] non- + (<all>)
+,,,,,
+87183,k,0,nongon,dasar,
+87183.1,x,,non- + <gon>,bentukan,[94] non- + (<all>)
+,,,,,
+87184,v,6,nonhalal,dasar,
+87184.1,v,,non- + <halal>,bentukan,[94] non- + (<all>)
+,,,,,
+87185,v,14,nonhayati,dasar,
+87185.1,v,,non- + <hayati>,bentukan,[94] non- + (<all>)
+87185.2,x,,<nonhayat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+87186,k,0,nonhistoris,dasar,
+87186.1,v,,non- + <historis>,bentukan,[94] non- + (<all>)
+87186.2,x,,<nonhistori> + [-is:-s],bentukan,[177] [S] -is + (i)
+87186.3,x,,<nonhistor> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+87187,v,5,nonhukum,dasar,
+87187.1,v,,non- + <hukum>,bentukan,[94] non- + (<all>)
+,,,,,
+87188,k,21,noni,dasar,
+87188.1,x,,non- + <i>,bentukan,[94] non- + (<all>)
+87188.2,x,,<non> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+87189,t,3,nonik,dasar,noni
+87189.1,x,,non- + <ik>,bentukan,[94] non- + (<all>)
+,,,,,
+87190,k,0,nonilium,dasar,
+87190.1,x,,non- + <ilium>,bentukan,[94] non- + (<all>)
+,,,,,
+87191,v,2,nonilmiah,dasar,
+87191.1,v,,non- + <ilmiah>,bentukan,[94] non- + (<all>)
+87191.2,x,,<nonilm> + -iah,bentukan,[175] [S] -iah + (<others>)
+,,,,,
+87192,k,0,nonindustri,dasar,
+87192.1,v,,non- + <industri>,bentukan,[94] non- + (<all>)
+87192.2,x,,<nonindustr> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+87193,v,2,noninfeksi,dasar,
+87193.1,v,,non- + <infeksi>,bentukan,[94] non- + (<all>)
+87193.2,x,,<noninfeks> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+87194,v,2,noninflamasi,dasar,
+87194.1,v,,non- + <inflamasi>,bentukan,[94] non- + (<all>)
+87194.2,x,,<noninflamas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+87195,k,0,noninsani,dasar,
+87195.1,v,,non- + <insani>,bentukan,[94] non- + (<all>)
+87195.2,x,,<noninsan> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+87196,v,2,noninteraktif,dasar,
+87196.1,v,,non- + <interaktif>,bentukan,[94] non- + (<all>)
+,,,,,
+87197,k,0,noninterferensi,dasar,
+87197.1,v,,non- + <interferensi>,bentukan,[94] non- + (<all>)
+87197.2,x,,<noninterferens> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+87198,k,0,nonintervensi,dasar,
+87198.1,v,,non- + <intervensi>,bentukan,[94] non- + (<all>)
+87198.2,x,,<nonintervens> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+87199,v,8,noninvasif,dasar,
+87199.1,v,,non- + <invasif>,bentukan,[94] non- + (<all>)
+,,,,,
+87200,k,0,nonius,dasar,
+87200.1,x,,non- + <ius>,bentukan,[94] non- + (<all>)
+,,,,,
+87201,v,2,nonjasa,dasar,
+87201.1,v,,non- + <jasa>,bentukan,[94] non- + (<all>)
+,,,,,
+87202,k,3,nonkader,dasar,
+87202.1,v,,non- + <kader>,bentukan,[94] non- + (<all>)
+,,,,,
+87203,v,2,nonkalori,dasar,
+87203.1,v,,non- + <kalori>,bentukan,[94] non- + (<all>)
+87203.2,x,,<nonkalor> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+87204,k,0,nonkarbohidrat,dasar,
+87204.1,v,,non- + <karbohidrat>,bentukan,[94] non- + (<all>)
+,,,,,
+87205,v,3,nonkarier,dasar,
+87205.1,v,,non- + <karier>,bentukan,[94] non- + (<all>)
+,,,,,
+87206,v,2,nonkas,dasar,
+87206.1,v,,non- + <kas>,bentukan,[94] non- + (<all>)
+,,,,,
+87207,v,3,nonkebahasaan,dasar,
+87207.1,x,,non- + <kebahasaan>,bentukan,[94] non- + (<all>)
+87207.2,x,,<nonkebahasa> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+87208,v,3,nonkeluarga,dasar,
+87208.1,v,,non- + <keluarga>,bentukan,[94] non- + (<all>)
+,,,,,
+87209,v,80,nonkementerian,dasar,
+87209.1,v,,non- + <kementerian>,bentukan,[94] non- + (<all>)
+87209.2,x,,<nonkementeri> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+87210,v,2,nonkemitraan,dasar,
+87210.1,v,,non- + <kemitraan>,bentukan,[94] non- + (<all>)
+87210.2,x,,<nonkemitra> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+87211,v,2,nonkependidikan,dasar,
+87211.1,v,,non- + <kependidikan>,bentukan,[94] non- + (<all>)
+87211.2,x,,<nonkependidi> + -kan,bentukan,[29] [S] -kan + (<all>)
+87211.3,x,,<nonkependidik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+87212,v,3,nonkesehatan,dasar,
+87212.1,v,,non- + <kesehatan>,bentukan,[94] non- + (<all>)
+87212.2,x,,<nonkesehat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+87213,v,3,nonketentuan,dasar,
+87213.1,v,,non- + <ketentuan>,bentukan,[94] non- + (<all>)
+87213.2,x,,<nonketentu> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+87214,v,21,nonkeuangan,dasar,
+87214.1,v,,non- + <keuangan>,bentukan,[94] non- + (<all>)
+87214.2,x,,<nonkeuang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+87215,v,2,nonkeyakinan,dasar,
+87215.1,v,,non- + <keyakinan>,bentukan,[94] non- + (<all>)
+87215.2,x,,<nonkeyakin> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+87216,k,0,nonkimia,dasar,
+87216.1,v,,non- + <kimia>,bentukan,[94] non- + (<all>)
+,,,,,
+87217,k,3,nonkolesterol,dasar,
+87217.1,v,,non- + <kolesterol>,bentukan,[94] non- + (<all>)
+87217.2,x,,<nonkole> + -sterol,bentukan,[208] [S] -sterol + (<all>)
+,,,,,
+87218,k,4,nonkombatan,dasar,
+87218.1,v,,non- + <kombatan>,bentukan,[94] non- + (<all>)
+87218.2,x,,<nonkombat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+87219,k,15,nonkomersial,dasar,
+87219.1,v,,non- + <komersial>,bentukan,[94] non- + (<all>)
+,,,,,
+87220,v,11,nonkompetitif,dasar,
+87220.1,v,,non- + <kompetitif>,bentukan,[94] non- + (<all>)
+,,,,,
+87221,v,6,nonkomunis,dasar,
+87221.1,v,,non- + <komunis>,bentukan,[94] non- + (<all>)
+87221.2,x,,<nonkomuni> + [-is:-s],bentukan,[177] [S] -is + (i)
+87221.3,x,,<nonkomun> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+87222,v,5,nonkonstruksi,dasar,
+87222.1,v,,non- + <konstruksi>,bentukan,[94] non- + (<all>)
+87222.2,x,,<nonkonstruks> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+87223,k,13,nonkonvensional,dasar,
+87223.1,v,,non- + <konvensional>,bentukan,[94] non- + (<all>)
+,,,,,
+87224,k,7,nonkooperasi,dasar,
+87224.1,v,,non- + <kooperasi>,bentukan,[94] non- + (<all>)
+87224.2,x,,<nonkooperas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+87225,k,8,nonkooperatif,dasar,
+87225.1,v,,non- + <kooperatif>,bentukan,[94] non- + (<all>)
+,,,,,
+87226,v,4,nonkoperasi,dasar,
+87226.1,v,,non- + <koperasi>,bentukan,[94] non- + (<all>)
+87226.2,x,,<nonkoperas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+87227,k,0,nonkoridor,dasar,
+87227.1,v,,non- + <koridor>,bentukan,[94] non- + (<all>)
+,,,,,
+87228,v,2,nonkriminal,dasar,
+87228.1,v,,non- + <kriminal>,bentukan,[94] non- + (<all>)
+,,,,,
+87229,k,2,nonkuota,dasar,
+87229.1,v,,non- + <kuota>,bentukan,[94] non- + (<all>)
+,,,,,
+87230,v,3,nonkurikuler,dasar,
+87230.1,v,,non- + <kurikuler>,bentukan,[94] non- + (<all>)
+,,,,,
+87231,v,16,nonlelang,dasar,
+87231.1,v,,non- + <lelang>,bentukan,[94] non- + (<all>)
+,,,,,
+87232,v,2,nonliberal,dasar,
+87232.1,v,,non- + <liberal>,bentukan,[94] non- + (<all>)
+,,,,,
+87233,v,2,nonlikuid,dasar,
+87233.1,v,,non- + <likuid>,bentukan,[94] non- + (<all>)
+,,,,,
+87234,v,13,nonlinear,dasar,
+87234.1,v,,non- + <linear>,bentukan,[94] non- + (<all>)
+,,,,,
+87235,v,2,nonlinguistik,dasar,
+87235.1,v,,non- + <linguistik>,bentukan,[94] non- + (<all>)
+,,,,,
+87236,v,11,nonlinier,dasar,
+87236.1,v,,non- + <linier>,bentukan,[94] non- + (<all>)
+,,,,,
+87237,v,2,nonlinieritas,dasar,
+87237.1,v,,non- + <linieritas>,bentukan,[94] non- + (<all>)
+87237.2,x,,<nonlinier> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+87238,k,2,nonlistrik,dasar,
+87238.1,v,,non- + <listrik>,bentukan,[94] non- + (<all>)
+,,,,,
+87239,v,3,nonliteral,dasar,
+87239.1,v,,non- + <literal>,bentukan,[94] non- + (<all>)
+,,,,,
+87240,v,11,nonlitigasi,dasar,
+87240.1,v,,non- + <litigasi>,bentukan,[94] non- + (<all>)
+87240.2,x,,<nonlitigas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+87241,v,5,nonlogam,dasar,
+87241.1,v,,non- + <logam>,bentukan,[94] non- + (<all>)
+,,,,,
+87242,v,2,nonlokal,dasar,
+87242.1,v,,non- + <lokal>,bentukan,[94] non- + (<all>)
+,,,,,
+87243,v,2,nonmakanan,dasar,
+87243.1,v,,non- + <makanan>,bentukan,[94] non- + (<all>)
+87243.2,x,,<nonmakan> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+87244,v,4,nonmanusia,dasar,
+87244.1,v,,non- + <manusia>,bentukan,[94] non- + (<all>)
+,,,,,
+87245,k,3,nonmateri,dasar,
+87245.1,v,,non- + <materi>,bentukan,[94] non- + (<all>)
+87245.2,x,,<nonmater> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+87246,v,12,nonmaterial,dasar,
+87246.1,v,,non- + <material>,bentukan,[94] non- + (<all>)
+,,,,,
+87247,k,3,nonmateriel,dasar,
+87247.1,v,,non- + <materiel>,bentukan,[94] non- + (<all>)
+,,,,,
+87248,t,3,nonmateriil,dasar,
+87248.1,x,,non- + <materiil>,bentukan,[94] non- + (<all>)
+,,,,,
+87249,v,2,nonmedia,dasar,
+87249.1,v,,non- + <media>,bentukan,[94] non- + (<all>)
+,,,,,
+87250,k,13,nonmedis,dasar,
+87250.1,v,,non- + <medis>,bentukan,[94] non- + (<all>)
+87250.2,x,,<nonmedi> + [-is:-s],bentukan,[177] [S] -is + (i)
+87250.3,x,,<nonmed> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+87251,k,64,nonmigas,dasar,
+87251.1,v,,non- + <migas>,bentukan,[94] non- + (<all>)
+,,,,,
+87252,k,0,nonmigran,dasar,
+87252.1,v,,non- + <migran>,bentukan,[94] non- + (<all>)
+87252.2,x,,<nonmigr> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+87253,k,13,nonmiliter,dasar,
+87253.1,v,,non- + <militer>,bentukan,[94] non- + (<all>)
+,,,,,
+87254,v,9,nonminyak,dasar,
+87254.1,v,,non- + <minyak>,bentukan,[94] non- + (<all>)
+,,,,,
+87255,v,2,nonmusisi,dasar,
+87255.1,v,,non- + <musisi>,bentukan,[94] non- + (<all>)
+87255.2,x,,<nonmusis> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+87256,v,33,nonmuslim,dasar,
+87256.1,v,,non- + <muslim>,bentukan,[94] non- + (<all>)
+,,,,,
+87257,k,0,nonoh,dasar,
+87257.1,x,,non- + <oh>,bentukan,[94] non- + (<all>)
+,,,,,
+87258,k,0,nonok,dasar,
+87258.1,x,,non- + <ok>,bentukan,[94] non- + (<all>)
+,,,,,
+87259,k,0,nonol,dasar,
+87259.1,x,,non- + <ol>,bentukan,[94] non- + (<all>)
+,,,,,
+87260,k,0,nonong,dasar,
+87260.1,x,,non- + <ong>,bentukan,[94] non- + (<all>)
+,,,,,
+87261,v,6,nonoperasional,dasar,
+87261.1,v,,non- + <operasional>,bentukan,[94] non- + (<all>)
+,,,,,
+87262,k,9,nonorganik,dasar,
+87262.1,v,,non- + <organik>,bentukan,[94] non- + (<all>)
+,,,,,
+87263,k,0,nonotomatis,dasar,
+87263.1,v,,non- + <otomatis>,bentukan,[94] non- + (<all>)
+87263.2,x,,<nonotomati> + [-is:-s],bentukan,[177] [S] -is + (i)
+87263.3,x,,<nonotomat> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+87264,v,8,nonpangan,dasar,
+87264.1,v,,non- + <pangan>,bentukan,[94] non- + (<all>)
+87264.2,x,,<nonpang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+87265,v,2,nonpanti,dasar,
+87265.1,v,,non- + <panti>,bentukan,[94] non- + (<all>)
+87265.2,x,,<nonpant> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+87266,v,17,nonparametrik,dasar,
+87266.1,v,,non- + <parametrik>,bentukan,[94] non- + (<all>)
+87266.2,x,,<nonpara> + -metrik,bentukan,[211] [S] -metrik + (<all>)
+,,,,,
+87267,k,0,nonparel,dasar,
+87267.1,x,,non- + <parel>,bentukan,[94] non- + (<all>)
+,,,,,
+87268,k,6,nonpartai,dasar,
+87268.1,v,,non- + <partai>,bentukan,[94] non- + (<all>)
+87268.2,x,,<nonparta> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+87269,k,8,nonpartisan,dasar,
+87269.1,v,,non- + <partisan>,bentukan,[94] non- + (<all>)
+87269.2,x,,<nonpartis> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+87270,v,3,nonpartisipan,dasar,
+87270.1,v,,non- + <partisipan>,bentukan,[94] non- + (<all>)
+87270.2,x,,<nonpartisip> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+87271,v,2,nonpatogen,dasar,
+87271.1,v,,non- + <patogen>,bentukan,[94] non- + (<all>)
+,,,,,
+87272,k,4,nonpatogenik,dasar,
+87272.1,v,,non- + <patogenik>,bentukan,[94] non- + (<all>)
+,,,,,
+87273,v,10,nonpegawai,dasar,
+87273.1,v,,non- + <pegawai>,bentukan,[94] non- + (<all>)
+87273.2,x,,<nonpegawa> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+87274,v,3,nonpelajaran,dasar,
+87274.1,v,,non- + <pelajaran>,bentukan,[94] non- + (<all>)
+87274.2,x,,<nonpelajar> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+87275,k,3,nonpelatnas,dasar,
+87275.1,v,,non- + <pelatnas>,bentukan,[94] non- + (<all>)
+,,,,,
+87276,k,55,nonpemerintah,dasar,
+87276.1,v,,non- + <pemerintah>,bentukan,[94] non- + (<all>)
+,,,,,
+87277,v,2,nonpendidikan,dasar,
+87277.1,v,,non- + <pendidikan>,bentukan,[94] non- + (<all>)
+87277.2,x,,<nonpendidi> + -kan,bentukan,[29] [S] -kan + (<all>)
+87277.3,x,,<nonpendidik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+87278,v,3,nonpengendali,dasar,
+87278.1,v,,non- + <pengendali>,bentukan,[94] non- + (<all>)
+87278.2,x,,<nonpengendal> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+87279,v,2,nonpengusahaan,dasar,
+87279.1,v,,non- + <pengusahaan>,bentukan,[94] non- + (<all>)
+87279.2,x,,<nonpengusaha> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+87280,v,8,nonperbankan,dasar,
+87280.1,v,,non- + <perbankan>,bentukan,[94] non- + (<all>)
+87280.2,x,,<nonperban> + -kan,bentukan,[29] [S] -kan + (<all>)
+87280.3,x,,<nonperbank> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+87281,v,2,nonperformance,dasar,
+87281.1,x,,non- + <performance>,bentukan,[94] non- + (<all>)
+,,,,,
+87282,v,17,nonperizinan,dasar,
+87282.1,v,,non- + <perizinan>,bentukan,[94] non- + (<all>)
+87282.2,x,,<nonperizin> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+87283,v,6,nonpermanen,dasar,
+87283.1,v,,non- + <permanen>,bentukan,[94] non- + (<all>)
+,,,,,
+87284,v,2,nonperorangan,dasar,
+87284.1,v,,non- + <perorangan>,bentukan,[94] non- + (<all>)
+87284.2,x,,<nonperorang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+87285,v,2,nonpersisten,dasar,
+87285.1,v,,non- + <persisten>,bentukan,[94] non- + (<all>)
+,,,,,
+87286,v,2,nonpersonalia,dasar,
+87286.1,x,,non- + <personalia>,bentukan,[94] non- + (<all>)
+,,,,,
+87287,v,11,nonpertanian,dasar,
+87287.1,v,,non- + <pertanian>,bentukan,[94] non- + (<all>)
+87287.2,x,,<nonpertani> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+87288,k,0,nonpetahana,dasar,
+87288.1,v,,non- + <petahana>,bentukan,[94] non- + (<all>)
+,,,,,
+87289,v,2,nonpetani,dasar,
+87289.1,v,,non- + <petani>,bentukan,[94] non- + (<all>)
+87289.2,x,,<nonpetan> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+87290,v,8,nonpokok,dasar,
+87290.1,v,,non- + <pokok>,bentukan,[94] non- + (<all>)
+,,,,,
+87291,v,10,nonpolar,dasar,
+87291.1,v,,non- + <polar>,bentukan,[94] non- + (<all>)
+,,,,,
+87292,k,6,nonpolitik,dasar,
+87292.1,v,,non- + <politik>,bentukan,[94] non- + (<all>)
+,,,,,
+87293,v,3,nonpolitis,dasar,
+87293.1,v,,non- + <politis>,bentukan,[94] non- + (<all>)
+87293.2,x,,<nonpoliti> + [-is:-s],bentukan,[177] [S] -is + (i)
+87293.3,x,,<nonpolit> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+87294,k,0,nonpredikatif,dasar,
+87294.1,v,,non- + <predikatif>,bentukan,[94] non- + (<all>)
+,,,,,
+87295,k,14,nonpribumi,dasar,
+87295.1,v,,non- + <pribumi>,bentukan,[94] non- + (<all>)
+87295.2,x,,<nonpribum> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+87296,v,2,nonprioritas,dasar,
+87296.1,v,,non- + <prioritas>,bentukan,[94] non- + (<all>)
+87296.2,x,,<nonprior> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+87297,v,2,nonproduk,dasar,
+87297.1,v,,non- + <produk>,bentukan,[94] non- + (<all>)
+,,,,,
+87298,k,12,nonproduktif,dasar,
+87298.1,v,,non- + <produktif>,bentukan,[94] non- + (<all>)
+,,,,,
+87299,v,5,nonprofesional,dasar,
+87299.1,v,,non- + <profesional>,bentukan,[94] non- + (<all>)
+,,,,,
+87300,v,2,nonprofesor,dasar,
+87300.1,v,,non- + <profesor>,bentukan,[94] non- + (<all>)
+,,,,,
+87301,k,35,nonprofit,dasar,
+87301.1,v,,non- + <profit>,bentukan,[94] non- + (<all>)
+,,,,,
+87302,v,5,nonproletisi,dasar,
+87302.1,v,,non- + <proletisi>,bentukan,[94] non- + (<all>)
+87302.2,x,,<nonproletis> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+87303,k,2,nonproliferasi,dasar,
+87303.1,v,,non- + <proliferasi>,bentukan,[94] non- + (<all>)
+87303.2,x,,<nonproliferas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+87304,k,4,nonprotein,dasar,
+87304.1,v,,non- + <protein>,bentukan,[94] non- + (<all>)
+,,,,,
+87305,v,2,nonpublik,dasar,
+87305.1,v,,non- + <publik>,bentukan,[94] non- + (<all>)
+,,,,,
+87306,v,2,nonradiologi,dasar,
+87306.1,v,,non- + <radiologi>,bentukan,[94] non- + (<all>)
+87306.2,x,,<nonradiolog> + -i,bentukan,[28] [S] -i + (<all>)
+87306.3,x,,<nonradio> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+87307,v,5,nonreaktif,dasar,
+87307.1,v,,non- + <reaktif>,bentukan,[94] non- + (<all>)
+,,,,,
+87308,v,2,nonreaktor,dasar,
+87308.1,v,,non- + <reaktor>,bentukan,[94] non- + (<all>)
+,,,,,
+87309,v,2,nonreguler,dasar,
+87309.1,v,,non- + <reguler>,bentukan,[94] non- + (<all>)
+,,,,,
+87310,v,2,nonreligius,dasar,
+87310.1,v,,non- + <religius>,bentukan,[94] non- + (<all>)
+,,,,,
+87311,v,2,nonrepresentatif,dasar,
+87311.1,v,,non- + <representatif>,bentukan,[94] non- + (<all>)
+,,,,,
+87312,k,0,nonrepudiasi,dasar,
+87312.1,v,,non- + <repudiasi>,bentukan,[94] non- + (<all>)
+87312.2,x,,<nonrepudias> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+87313,v,4,nonresiden,dasar,
+87313.1,v,,non- + <residen>,bentukan,[94] non- + (<all>)
+,,,,,
+87314,v,2,nonruminansia,dasar,
+87314.1,v,,non- + <ruminansia>,bentukan,[94] non- + (<all>)
+,,,,,
+87315,v,2,nonsaran,dasar,
+87315.1,v,,non- + <saran>,bentukan,[94] non- + (<all>)
+87315.2,x,,<nonsar> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+87316,v,5,nonsastra,dasar,
+87316.1,v,,non- + <sastra>,bentukan,[94] non- + (<all>)
+,,,,,
+87317,v,2,nonselektif,dasar,
+87317.1,v,,non- + <selektif>,bentukan,[94] non- + (<all>)
+,,,,,
+87318,k,10,nonsens,dasar,
+87318.1,x,,non- + <sens>,bentukan,[94] non- + (<all>)
+,,,,,
+87319,k,0,nonsilabis,dasar,
+87319.1,v,,non- + <silabis>,bentukan,[94] non- + (<all>)
+87319.2,x,,<nonsilabi> + [-is:-s],bentukan,[177] [S] -is + (i)
+87319.3,x,,<nonsilab> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+87320,v,2,nonskolastik,dasar,
+87320.1,v,,non- + <skolastik>,bentukan,[94] non- + (<all>)
+,,,,,
+87321,v,8,nonspesifik,dasar,
+87321.1,v,,non- + <spesifik>,bentukan,[94] non- + (<all>)
+,,,,,
+87322,k,0,nonstandar,dasar,
+87322.1,v,,non- + <standar>,bentukan,[94] non- + (<all>)
+,,,,,
+87323,k,7,nonsteroid,dasar,
+87323.1,v,,non- + <steroid>,bentukan,[94] non- + (<all>)
+87323.2,x,,<nonster> + -oid,bentukan,[209] [S] -oid + (<all>)
+,,,,,
+87324,v,4,nonsteroidal,dasar,
+87324.1,v,,non- + <steroidal>,bentukan,[94] non- + (<all>)
+,,,,,
+87325,k,32,nonstop,dasar,
+87325.1,v,,non- + <stop>,bentukan,[94] non- + (<all>)
+,,,,,
+87326,v,3,nonstruktur,dasar,
+87326.1,v,,non- + <struktur>,bentukan,[94] non- + (<all>)
+,,,,,
+87327,v,30,nonstruktural,dasar,
+87327.1,v,,non- + <struktural>,bentukan,[94] non- + (<all>)
+,,,,,
+87328,k,26,nonsubsidi,dasar,
+87328.1,v,,non- + <subsidi>,bentukan,[94] non- + (<all>)
+87328.2,x,,<nonsubsid> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+87329,k,10,nontarif,dasar,
+87329.1,v,,non- + <tarif>,bentukan,[94] non- + (<all>)
+,,,,,
+87330,v,5,nonteknik,dasar,
+87330.1,v,,non- + <teknik>,bentukan,[94] non- + (<all>)
+,,,,,
+87331,k,20,nonteknis,dasar,
+87331.1,v,,non- + <teknis>,bentukan,[94] non- + (<all>)
+87331.2,x,,<nontekni> + [-is:-s],bentukan,[177] [S] -is + (i)
+87331.3,x,,<nontekn> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+87332,v,3,nonteks,dasar,
+87332.1,v,,non- + <teks>,bentukan,[94] non- + (<all>)
+,,,,,
+87333,v,3,nontes,dasar,
+87333.1,v,,non- + <tes>,bentukan,[94] non- + (<all>)
+,,,,,
+87334,v,2,nontoksik,dasar,
+87334.1,v,,non- + <toksik>,bentukan,[94] non- + (<all>)
+,,,,,
+87335,k,0,nontol,dasar,
+87335.1,v,,non- + <tol>,bentukan,[94] non- + (<all>)
+,,,,,
+87336,t,376,nonton,dasar,menonton
+87336.1,x,,non- + <ton>,bentukan,[94] non- + (<all>)
+,,,,,
+87337,t,3,nontonin,dasar,menonton
+87337.1,x,,non- + <tonin>,bentukan,[94] non- + (<all>)
+,,,,,
+87338,v,2,nontradisi,dasar,
+87338.1,v,,non- + <tradisi>,bentukan,[94] non- + (<all>)
+87338.2,x,,<nontradis> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+87339,k,13,nontradisional,dasar,
+87339.1,v,,non- + <tradisional>,bentukan,[94] non- + (<all>)
+,,,,,
+87340,k,0,nontronit,dasar,
+87340.1,x,,non- + <tronit>,bentukan,[94] non- + (<all>)
+,,,,,
+87341,v,2,nontumor,dasar,
+87341.1,v,,non- + <tumor>,bentukan,[94] non- + (<all>)
+,,,,,
+87342,k,104,nontunai,dasar,
+87342.1,v,,non- + <tunai>,bentukan,[94] non- + (<all>)
+87342.2,x,,<nontuna> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+87343,v,2,nonuang,dasar,
+87343.1,v,,non- + <uang>,bentukan,[94] non- + (<all>)
+,,,,,
+87344,k,2,nonunggulan,dasar,
+87344.1,v,,non- + <unggulan>,bentukan,[94] non- + (<all>)
+87344.2,x,,<nonunggul> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+87345,v,2,nonunion,dasar,
+87345.1,v,,non- + <union>,bentukan,[94] non- + (<all>)
+,,,,,
+87346,k,0,nonuplet,dasar,
+87346.1,x,,non- + <uplet>,bentukan,[94] non- + (<all>)
+,,,,,
+87347,k,0,nonvaskular,dasar,
+87347.1,v,,non- + <vaskular>,bentukan,[94] non- + (<all>)
+,,,,,
+87348,k,0,nonvegan,dasar,
+87348.1,v,,non- + <vegan>,bentukan,[94] non- + (<all>)
+87348.2,x,,<nonveg> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+87349,k,57,nonverbal,dasar,
+87349.1,v,,non- + <verbal>,bentukan,[94] non- + (<all>)
+,,,,,
+87350,k,0,nonvolatil,dasar,
+87350.1,v,,non- + <volatil>,bentukan,[94] non- + (<all>)
+,,,,,
+87351,v,2,nonyudisial,dasar,
+87351.1,v,,non- + <yudisial>,bentukan,[94] non- + (<all>)
+,,,,,
+87352,k,0,noosfer,dasar,
+,,,,,
+87353,k,0,nopek,dasar,
+,,,,,
+87354,c,152,nopember,dasar,november
+,,,,,
+87355,v,4,nopol,dasar,
+,,,,,
+87356,v,11,noradrenalin,dasar,
+,,,,,
+87357,k,36,norak,dasar,
+,,,,,
+87358,v,6,nordik,dasar,
+,,,,,
+87359,v,284,noreg,dasar,
+,,,,,
+87360,v,5,norek,dasar,
+,,,,,
+87361,k,13,norepinefrin,dasar,
+,,,,,
+87362,k,5,nori,dasar,
+87362.1,x,,<nor> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+87363,k,2,norit,dasar,
+,,,,,
+87364,k,717,norma,dasar,
+,,,,,
+87365,k,0,norma agama,dasar,
+,,,,,
+87366,k,0,norma matriks,dasar,
+,,,,,
+87367,k,0,norma sosial,dasar,
+,,,,,
+87368,k,0,norma susila,dasar,
+,,,,,
+87369,k,2164,normal,dasar,
+,,,,,
+87370,k,0,normal baku klimatologi,dasar,
+87370.1,x,,<normal baku klimatolog> + -i,bentukan,[28] [S] -i + (<all>)
+87370.2,x,,<normal baku klimato> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+87371,k,188,normalisasi,dasar,
+87371.1,x,,<normalisas> + -i,bentukan,[28] [S] -i + (<all>)
+87371.2,x,,<normali> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+87371.3,x,,<normalis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+87371.4,x,,<normal> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+87372,v,149,normalitas,dasar,
+87372.1,v,,<normal> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+87373,k,306,normatif,dasar,
+,,,,,
+87374,v,5,normativitas,dasar,
+87374.1,x,,<normativ> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+87375,k,0,normobarik,dasar,
+,,,,,
+87376,v,3,normoglikemia,dasar,
+,,,,,
+87377,v,7,normotensi,dasar,
+87377.1,x,,<normotens> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+87378,v,3,normotermia,dasar,
+,,,,,
+87379,k,0,normotiroid,dasar,
+87379.1,x,,<normotir> + -oid,bentukan,[209] [S] -oid + (<all>)
+,,,,,
+87380,v,2,norovirus,dasar,
+,,,,,
+87381,k,0,norwegia,dasar,
+,,,,,
+87382,c,5,nosel,dasar,nozel
+,,,,,
+87383,k,0,nosemafobia,dasar,
+87383.1,x,,<nosema> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+87384,v,7,nosiseptif,dasar,
+,,,,,
+87385,v,2,nosiseptor,dasar,
+,,,,,
+87386,k,0,nosofit,dasar,
+,,,,,
+87387,k,0,nosofobia,dasar,
+87387.1,x,,<noso> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+87388,k,0,nosokomefobia,dasar,
+87388.1,x,,<nosokome> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+87389,k,15,nosokomial,dasar,
+,,,,,
+87390,k,0,nosologi,dasar,
+87390.1,x,,<nosolog> + -i,bentukan,[28] [S] -i + (<all>)
+87390.2,x,,<noso> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+87391,k,89,nostalgia,dasar,
+,,,,,
+87392,k,0,nostofobia,dasar,
+87392.1,x,,<nosto> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+87393,k,0,nostrum,dasar,
+,,,,,
+87394,k,485,not,dasar,
+,,,,,
+87395,k,0,not angka,dasar,
+,,,,,
+87396,k,0,not balok,dasar,
+,,,,,
+87397,k,0,not bantu,dasar,
+,,,,,
+87398,k,0,not bendera,dasar,
+,,,,,
+87399,k,0,not garis,dasar,
+87399.1,x,,<not gari> + [-is:-s],bentukan,[177] [S] -is + (i)
+87399.2,x,,<not gar> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+87400,k,0,not seperdelapan,dasar,
+87400.1,x,,<not seperdelap> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+87401,k,0,not seperempat,dasar,
+,,,,,
+87402,k,0,not spasi,dasar,
+87402.1,x,,<not spas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+87403,k,443,nota,dasar,
+,,,,,
+87404,k,0,nota debit,dasar,
+,,,,,
+87405,k,0,nota dinas,dasar,
+,,,,,
+87406,k,0,nota kesepahaman,dasar,
+87406.1,x,,<nota kesepaham> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+87407,k,0,nota kredit,dasar,
+,,,,,
+87408,k,0,nota pengiriman,dasar,
+87408.1,x,,<nota pengirim> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+87409,k,0,nota penjualan,dasar,
+87409.1,x,,<nota penjual> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+87410,k,0,nota penyerahan,dasar,
+87410.1,x,,<nota penyerah> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+87411,k,0,nota serah terima,dasar,
+,,,,,
+87412,k,0,nota siap,dasar,
+,,,,,
+87413,k,0,nota terpisah,dasar,
+,,,,,
+87414,k,0,nota tiba,dasar,
+,,,,,
+87415,k,174,notabene,dasar,
+,,,,,
+87416,k,5,notariat,dasar,
+,,,,,
+87417,k,165,notaris,dasar,
+87417.1,x,,<notari> + [-is:-s],bentukan,[177] [S] -is + (i)
+87417.2,x,,<notar> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+87418,k,56,notasi,dasar,
+87418.1,x,,<notas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+87419,k,0,notasi alfabetis,dasar,
+87419.1,x,,<notasi alfabeti> + [-is:-s],bentukan,[177] [S] -is + (i)
+87419.2,x,,<notasi alfabet> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+87420,k,0,notasi analfabetis,dasar,
+87420.1,x,,<notasi analfabeti> + [-is:-s],bentukan,[177] [S] -is + (i)
+87420.2,x,,<notasi analfabet> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+87421,k,0,notasi fonemis,dasar,
+87421.1,x,,<notasi fonemi> + [-is:-s],bentukan,[177] [S] -is + (i)
+87421.2,x,,<notasi fonem> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+87422,k,0,notasi fonetis,dasar,
+87422.1,x,,<notasi foneti> + [-is:-s],bentukan,[177] [S] -is + (i)
+87422.2,x,,<notasi fonet> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+87423,k,0,notasi musik,dasar,
+,,,,,
+87424,k,0,notasi sintaks abstrak,dasar,
+,,,,,
+87425,k,85,notes,dasar,
+,,,,,
+87426,k,0,notes tempel,dasar,
+,,,,,
+87427,t,2,notif,dasar,notifikasi
+,,,,,
+87428,k,122,notifikasi,dasar,
+87428.1,x,,<notifikas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+87429,k,5,notula,dasar,
+,,,,,
+87430,c,39,notulen,dasar,notula
+,,,,,
+87431,c,7,notulensi,dasar,notula
+87431.1,x,,<notulens> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+87432,k,6,notulis,dasar,
+87432.1,x,,<notuli> + [-is:-s],bentukan,[177] [S] -is + (i)
+87432.2,x,,<notul> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+87433,t,19,nov,dasar,November
+,,,,,
+87434,k,59,nova,dasar,
+,,,,,
+87435,k,0,novasi,dasar,
+87435.1,x,,<novas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+87436,k,0,novel,dasar,
+,,,,,
+87437,k,0,novel grafis,dasar,
+87437.1,x,,<novel grafi> + [-is:-s],bentukan,[177] [S] -is + (i)
+87437.2,x,,<novel graf> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+87438,k,0,novel polifonik,dasar,
+,,,,,
+87439,k,0,novel web,dasar,
+,,,,,
+87440,k,0,novela,dasar,
+,,,,,
+87441,k,17,novelet,dasar,
+,,,,,
+87442,k,61,novelis,dasar,
+87442.1,x,,<noveli> + [-is:-s],bentukan,[177] [S] -is + (i)
+87442.2,v,,<novel> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+87443,k,0,novelisasi,dasar,
+87443.1,x,,<novelisas> + -i,bentukan,[28] [S] -i + (<all>)
+87443.2,x,,<noveli> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+87443.3,x,,<novelis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+87443.4,x,,<novel> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+87444,k,0,november,dasar,
+,,,,,
+87445,k,0,novena,dasar,
+,,,,,
+87446,k,0,noverkafobia,dasar,
+87446.1,x,,<noverka> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+87447,k,0,novis,dasar,
+87447.1,x,,<novi> + [-is:-s],bentukan,[177] [S] -is + (i)
+87447.2,x,,<nov> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+87448,k,0,novisiat,dasar,
+,,,,,
+87449,k,0,novokaina,dasar,
+,,,,,
+87450,k,0,novum,dasar,
+,,,,,
+87451,k,0,noyod,dasar,
+,,,,,
+87452,k,7,nozel,dasar,
+,,,,,
+87453,k,0,nozel pompa,dasar,
+,,,,,
+87454,k,4,nrima,dasar,
+,,,,,
+87455,k,258,nu,dasar,
+,,,,,
+87456,k,5,nua,dasar,
+,,,,,
+87457,k,0,nuahunai,dasar,
+87457.1,x,,<nuahuna> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+87458,k,471,nuansa,dasar,
+,,,,,
+87459,k,0,nuansa makna,dasar,
+,,,,,
+87460,k,0,nuansa warna,dasar,
+,,,,,
+87461,k,0,nuaulu,dasar,
+,,,,,
+87462,k,0,nub,dasar,
+,,,,,
+87463,k,8,nubuat,dasar,
+,,,,,
+87464,k,4,nudis,dasar,
+87464.1,x,,<nudi> + [-is:-s],bentukan,[177] [S] -is + (i)
+87464.2,x,,<nud> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+87465,k,0,nudisme,dasar,
+87465.1,x,,<nud> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+87466,t,7,nuduh,dasar,menuduh
+,,,,,
+87467,k,0,nue newa wungu,dasar,
+,,,,,
+87468,k,0,nued,dasar,
+,,,,,
+87469,k,0,nufur,dasar,
+,,,,,
+87470,k,0,nuga,dasar,
+,,,,,
+87471,k,0,nugal,dasar,
+,,,,,
+87472,k,0,nugat,dasar,

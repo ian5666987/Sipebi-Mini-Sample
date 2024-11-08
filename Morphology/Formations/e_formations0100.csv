@@ -1,0 +1,1394 @@
+Nomor,KP,Jumlah,Entri,Tipe,Pembentukan
+50014,v,2,kausembunyikan,dasar,
+50014.1,x,,kau- + <sembunyi> + -kan,bentukan,[36] kau- + (<all>) + (-i;-kan)
+50014.2,x,,kau- + <sembunyikan>,bentukan,[36] kau- + (<all>) + (-i;-kan)
+50014.3,x,,<kausembunyi> + -kan,bentukan,[29] [S] -kan + (<all>)
+50014.4,x,,<kausembunyik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50015,v,3,kauserahkan,dasar,
+50015.1,x,,kau- + <serah> + -kan,bentukan,[36] kau- + (<all>) + (-i;-kan)
+50015.2,x,,kau- + <serahkan>,bentukan,[36] kau- + (<all>) + (-i;-kan)
+50015.3,x,,<kauserah> + -kan,bentukan,[29] [S] -kan + (<all>)
+50015.4,x,,<kauserahk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50016,v,2,kausertakan,dasar,
+50016.1,x,,kau- + <serta> + -kan,bentukan,[36] kau- + (<all>) + (-i;-kan)
+50016.2,x,,kau- + <sertakan>,bentukan,[36] kau- + (<all>) + (-i;-kan)
+50016.3,x,,<kauserta> + -kan,bentukan,[29] [S] -kan + (<all>)
+50016.4,x,,<kausertak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50017,v,2,kausesali,dasar,
+50017.1,x,,kau- + <sesal> + -i,bentukan,[36] kau- + (<all>) + (-i;-kan)
+50017.2,x,,kau- + <sesali>,bentukan,[36] kau- + (<all>) + (-i;-kan)
+50017.3,x,,<kausesal> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+50018,v,2,kausiapkan,dasar,
+50018.1,x,,kau- + <siap> + -kan,bentukan,[36] kau- + (<all>) + (-i;-kan)
+50018.2,x,,kau- + <siapkan>,bentukan,[36] kau- + (<all>) + (-i;-kan)
+50018.3,x,,<kausiap> + -kan,bentukan,[29] [S] -kan + (<all>)
+50018.4,x,,<kausiapk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50019,v,3,kausimpan,dasar,
+50019.1,x,,kau- + <simpan>,bentukan,[36] kau- + (<all>) + (-i;-kan)
+50019.2,x,,<kausimp> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50020,v,3,kausku,dasar,
+50020.1,x,,kau- + <sku>,bentukan,[36] kau- + (<all>) + (-i;-kan)
+50020.2,v,,<kaus> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+50020.3,x,,kau- + <s> + -ku,bentukan,[36] kau- + (<all>) + (-i;-kan) => [32] [SFS] -ku + (<all>)
+,,,,,
+50021,v,23,kausnya,dasar,
+50021.1,v,,<kaus> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+50021.2,x,,kau- + <s> + -nya,bentukan,[36] kau- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+,,,,,
+50022,k,3,kaustik,dasar,
+50022.1,x,,kau- + <stik>,bentukan,[36] kau- + (<all>) + (-i;-kan)
+,,,,,
+50023,k,0,kaustiksoda,dasar,
+50023.1,x,,kau- + <stiksoda>,bentukan,[36] kau- + (<all>) + (-i;-kan)
+,,,,,
+50024,v,5,kausuruh,dasar,
+50024.1,x,,kau- + <suruh>,bentukan,[36] kau- + (<all>) + (-i;-kan)
+,,,,,
+50025,k,0,kaut,dasar,
+50025.1,x,,kau- + <t>,bentukan,[36] kau- + (<all>) + (-i;-kan)
+,,,,,
+50026,v,2,kautanggung,dasar,
+50026.1,x,,kau- + <tanggung>,bentukan,[36] kau- + (<all>) + (-i;-kan)
+,,,,,
+50027,v,3,kautangkap,dasar,
+50027.1,x,,kau- + <tangkap>,bentukan,[36] kau- + (<all>) + (-i;-kan)
+,,,,,
+50028,v,6,kautanyakan,dasar,
+50028.1,x,,kau- + <tanya> + -kan,bentukan,[36] kau- + (<all>) + (-i;-kan)
+50028.2,x,,kau- + <tanyakan>,bentukan,[36] kau- + (<all>) + (-i;-kan)
+50028.3,x,,<kautanya> + -kan,bentukan,[29] [S] -kan + (<all>)
+50028.4,x,,<kautanyak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50029,v,3,kautawarkan,dasar,
+50029.1,x,,kau- + <tawar> + -kan,bentukan,[36] kau- + (<all>) + (-i;-kan)
+50029.2,x,,kau- + <tawarkan>,bentukan,[36] kau- + (<all>) + (-i;-kan)
+50029.3,x,,<kautawar> + -kan,bentukan,[29] [S] -kan + (<all>)
+50029.4,x,,<kautawark> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50030,v,3,kautebas,dasar,
+50030.1,x,,kau- + <tebas>,bentukan,[36] kau- + (<all>) + (-i;-kan)
+,,,,,
+50031,v,2,kautempati,dasar,
+50031.1,x,,kau- + <tempat> + -i,bentukan,[36] kau- + (<all>) + (-i;-kan)
+50031.2,x,,kau- + <tempati>,bentukan,[36] kau- + (<all>) + (-i;-kan)
+50031.3,x,,<kautempat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+50032,v,5,kautemui,dasar,
+50032.1,x,,kau- + <temu> + -i,bentukan,[36] kau- + (<all>) + (-i;-kan)
+50032.2,x,,kau- + <temui>,bentukan,[36] kau- + (<all>) + (-i;-kan)
+50032.3,x,,<kautemu> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+50033,v,7,kautemukan,dasar,
+50033.1,x,,kau- + <temu> + -kan,bentukan,[36] kau- + (<all>) + (-i;-kan)
+50033.2,x,,kau- + <temukan>,bentukan,[36] kau- + (<all>) + (-i;-kan)
+50033.3,x,,<kautemu> + -kan,bentukan,[29] [S] -kan + (<all>)
+50033.4,x,,<kautemuk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50034,v,5,kauterima,dasar,
+50034.1,x,,kau- + <terima>,bentukan,[36] kau- + (<all>) + (-i;-kan)
+,,,,,
+50035,v,2,kautimbang,dasar,
+50035.1,x,,kau- + <timbang>,bentukan,[36] kau- + (<all>) + (-i;-kan)
+,,,,,
+50036,v,2,kautinggal,dasar,
+50036.1,x,,kau- + <tinggal>,bentukan,[36] kau- + (<all>) + (-i;-kan)
+,,,,,
+50037,v,2,kautinggali,dasar,
+50037.1,x,,kau- + <tinggal> + -i,bentukan,[36] kau- + (<all>) + (-i;-kan)
+50037.2,x,,kau- + <tinggali>,bentukan,[36] kau- + (<all>) + (-i;-kan)
+50037.3,x,,<kautinggal> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+50038,v,3,kautinggalkan,dasar,
+50038.1,x,,kau- + <tinggal> + -kan,bentukan,[36] kau- + (<all>) + (-i;-kan)
+50038.2,x,,kau- + <tinggalkan>,bentukan,[36] kau- + (<all>) + (-i;-kan)
+50038.3,x,,<kautinggal> + -kan,bentukan,[29] [S] -kan + (<all>)
+50038.4,x,,<kautinggalk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50039,v,2,kautonton,dasar,
+50039.1,x,,kau- + <tonton>,bentukan,[36] kau- + (<all>) + (-i;-kan)
+,,,,,
+50040,v,3,kautulis,dasar,
+50040.1,x,,kau- + <tulis>,bentukan,[36] kau- + (<all>) + (-i;-kan)
+50040.2,x,,<kautuli> + [-is:-s],bentukan,[177] [S] -is + (i)
+50040.3,x,,<kautul> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+50041,v,5,kautunggu,dasar,
+50041.1,x,,kau- + <tunggu>,bentukan,[36] kau- + (<all>) + (-i;-kan)
+,,,,,
+50042,v,4,kautunjukkan,dasar,
+50042.1,x,,kau- + <tunjuk> + -kan,bentukan,[36] kau- + (<all>) + (-i;-kan)
+50042.2,x,,kau- + <tunjukkan>,bentukan,[36] kau- + (<all>) + (-i;-kan)
+50042.3,x,,<kautunjuk> + -kan,bentukan,[29] [S] -kan + (<all>)
+50042.4,x,,<kautunjukk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50043,k,0,kauwol,dasar,
+50043.1,x,,kau- + <wol>,bentukan,[36] kau- + (<all>) + (-i;-kan)
+,,,,,
+50044,k,19,kavaleri,dasar,
+50044.1,x,,<kavaler> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+50045,k,24,kaveling,dasar,
+,,,,,
+50046,k,0,kaveling siap bangun,dasar,
+,,,,,
+50047,k,0,kaver,dasar,
+,,,,,
+50048,k,3,kaviar,dasar,
+,,,,,
+50049,k,2,kavitasi,dasar,
+50049.1,x,,<kavitas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+50050,k,0,kavling,dasar,
+,,,,,
+50051,k,0,kawa-kawa,dasar,
+50051.1,x,,<kawa> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+50052,k,101,kawah,dasar,
+,,,,,
+50053,k,0,kawah candradimuka,dasar,
+,,,,,
+50054,v,6,kawahnya,dasar,
+50054.1,v,,<kawah> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+50055,k,0,kawak,dasar,
+,,,,,
+50056,k,64,kawakan,dasar,
+50056.1,x,,<kawa> + -kan,bentukan,[29] [S] -kan + (<all>)
+50056.2,v,,<kawak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50057,k,61,kawal,dasar,
+,,,,,
+50058,k,0,kawal batas,dasar,
+,,,,,
+50059,k,0,kawal jaga,dasar,
+,,,,,
+50060,k,0,kawal sambang,dasar,
+,,,,,
+50061,k,18,kawalan,dasar,
+50061.1,v,,<kawal> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50062,k,3,kawalu,dasar,
+,,,,,
+50063,k,595,kawan,dasar,
+50063.1,x,,<kaw> + -an,bentukan,[38] [S] -an + (<all>)
+50063.2,x,,<ka> + -wan,bentukan,[180] [S] -wan + (<others>)
+50063.3,x,,<k> + [-wan:-awan],bentukan,[18000001] [S] -wan + (<all>)
+,,,,,
+50064,k,0,kawan berbuat,dasar,
+,,,,,
+50065,k,0,kawan berlomba,dasar,
+,,,,,
+50066,k,0,kawan bicara,dasar,
+,,,,,
+50067,k,0,kawan hidup,dasar,
+,,,,,
+50068,k,0,kawan sekelas,dasar,
+,,,,,
+50069,k,0,kawan sekerja,dasar,
+,,,,,
+50070,k,0,kawan sirih,dasar,
+,,,,,
+50071,k,0,kawan tebusan,dasar,
+50071.1,x,,<kawan tebus> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50072,v,488,kawan-kawan,dasar,
+50072.1,v,,<kawan> [-] <r>,bentukan,[23] [RD] |
+50072.2,x,,<kaw> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+50072.3,x,,<ka> + -wan [-] <r> + -wan,bentukan,[180] [S] -wan + (<others>) => [23] [RD] |
+50072.4,x,,<k> + [-wan:-awan] [-] <r> + [-wan:-awan],bentukan,[18000001] [S] -wan + (<all>) => [23] [RD] |
+,,,,,
+50073,v,24,kawan-kawanku,dasar,
+50073.1,x,,<kawan-kawan> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+50073.2,v,,<kawan> [-] <r> + -ku,bentukan,[23] [RD] | => [32] [SFS] -ku + (<all>)
+50073.3,x,,<kaw> + -an [-] <r> + -an + -ku,bentukan,[38] [S] -an + (<all>) => [23] [RD] | => [32] [SFS] -ku + (<all>)
+50073.4,x,,<ka> + -wan [-] <r> + -wan + -ku,bentukan,[180] [S] -wan + (<others>) => [23] [RD] | => [32] [SFS] -ku + (<all>)
+50073.5,x,,<k> + [-wan:-awan] [-] <r> + [-wan:-awan] + -ku,bentukan,[18000001] [S] -wan + (<all>) => [23] [RD] | => [32] [SFS] -ku + (<all>)
+,,,,,
+50074,v,14,kawan-kawanmu,dasar,
+50074.1,x,,<kawan-kawan> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+50074.2,v,,<kawan> [-] <r> + -mu,bentukan,[23] [RD] | => [33] [SFS] -mu + (<all>)
+50074.3,x,,<kaw> + -an [-] <r> + -an + -mu,bentukan,[38] [S] -an + (<all>) => [23] [RD] | => [33] [SFS] -mu + (<all>)
+50074.4,x,,<ka> + -wan [-] <r> + -wan + -mu,bentukan,[180] [S] -wan + (<others>) => [23] [RD] | => [33] [SFS] -mu + (<all>)
+50074.5,x,,<k> + [-wan:-awan] [-] <r> + [-wan:-awan] + -mu,bentukan,[18000001] [S] -wan + (<all>) => [23] [RD] | => [33] [SFS] -mu + (<all>)
+,,,,,
+50075,v,176,kawan-kawannya,dasar,
+50075.1,v,,<kawan> [-] <r> + -nya,bentukan,[23] [RD] |
+50075.2,x,,<kaw> + -an [-] <r> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+50075.3,x,,<ka> + -wan [-] <r> + -wan + -nya,bentukan,[180] [S] -wan + (<others>) => [23] [RD] |
+50075.4,x,,<k> + [-wan:-awan] [-] <r> + [-wan:-awan] + -nya,bentukan,[18000001] [S] -wan + (<all>) => [23] [RD] |
+50075.5,v,,<kawan> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+50075.6,x,,<kaw> + -an [-] <r> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [23] [RD] | => [34] [SFS] -nya + (<all>)
+50075.7,x,,<ka> + -wan [-] <r> + -wan + -nya,bentukan,[180] [S] -wan + (<others>) => [23] [RD] | => [34] [SFS] -nya + (<all>)
+50075.8,x,,<k> + [-wan:-awan] [-] <r> + [-wan:-awan] + -nya,bentukan,[18000001] [S] -wan + (<all>) => [23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+50076,k,94,kawanan,dasar,
+50076.1,v,,<kawan> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50077,v,17,kawanannya,dasar,
+50077.1,x,,<kawanan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+50077.2,v,,<kawan> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+50078,k,0,kawang,dasar,
+,,,,,
+50079,v,60,kawanku,dasar,
+50079.1,v,,<kawan> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+50079.2,x,,<kaw> + -an + -ku,bentukan,[38] [S] -an + (<all>) => [32] [SFS] -ku + (<all>)
+50079.3,x,,<ka> + -wan + -ku,bentukan,[180] [S] -wan + (<others>) => [32] [SFS] -ku + (<all>)
+50079.4,x,,<k> + [-wan:-awan] + -ku,bentukan,[18000001] [S] -wan + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+50080,v,12,kawanmu,dasar,
+50080.1,v,,<kawan> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+50080.2,x,,<kaw> + -an + -mu,bentukan,[38] [S] -an + (<all>) => [33] [SFS] -mu + (<all>)
+50080.3,x,,<ka> + -wan + -mu,bentukan,[180] [S] -wan + (<others>) => [33] [SFS] -mu + (<all>)
+50080.4,x,,<k> + [-wan:-awan] + -mu,bentukan,[18000001] [S] -wan + (<all>) => [33] [SFS] -mu + (<all>)
+,,,,,
+50081,v,130,kawannya,dasar,
+50081.1,v,,<kawan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+50081.2,x,,<kaw> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+50081.3,x,,<ka> + -wan + -nya,bentukan,[180] [S] -wan + (<others>) => [34] [SFS] -nya + (<all>)
+50081.4,x,,<k> + [-wan:-awan] + -nya,bentukan,[18000001] [S] -wan + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+50082,k,8,kawanua,dasar,
+,,,,,
+50083,k,0,kawao,dasar,
+,,,,,
+50084,k,0,kaware,dasar,
+,,,,,
+50085,k,0,kawargaan,dasar,
+50085.1,x,,<kawarga> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50086,k,3587,kawasan,dasar,
+50086.1,x,,<kawas> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50087,k,0,kawasan agropolitan,dasar,
+50087.1,x,,<kawasan agropolit> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50088,k,0,kawasan berikat,dasar,
+,,,,,
+50089,k,0,kawasan bersinyal,dasar,
+,,,,,
+50090,k,0,kawasan ekonomi khusus,dasar,
+,,,,,
+50091,k,0,kawasan hutan,dasar,
+50091.1,x,,<kawasan hut> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50092,k,0,kawasan industri,dasar,
+50092.1,x,,<kawasan industr> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+50093,k,0,kawasan industri berat,dasar,
+,,,,,
+50094,k,0,kawasan kumuh,dasar,
+,,,,,
+50095,k,0,kawasan lindung,dasar,
+,,,,,
+50096,k,0,kawasan pecinan,dasar,
+50096.1,x,,<kawasan pecin> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50097,k,0,kawasan pengembangan ekonomi terpadu,dasar,
+,,,,,
+50098,k,0,kawasan penyangga,dasar,
+,,,,,
+50099,k,0,kawasan pertambangan,dasar,
+50099.1,x,,<kawasan pertambang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50100,k,0,kawasan super blok,dasar,
+,,,,,
+50101,v,74,kawasan-kawasan,dasar,
+50101.1,v,,<kawasan> [-] <r>,bentukan,[23] [RD] |
+50101.2,x,,<kawas> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+50102,v,29,kawasannya,dasar,
+50102.1,v,,<kawasan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+50102.2,x,,<kawas> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+50103,k,184,kawat,dasar,
+,,,,,
+50104,k,0,kawat berduri,dasar,
+50104.1,x,,<kawat berdur> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+50105,k,0,kawat gigi,dasar,
+50105.1,x,,<kawat gig> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+50106,k,0,kawat kasa,dasar,
+,,,,,
+50107,k,0,kawat listrik,dasar,
+,,,,,
+50108,k,0,kawat nyamuk,dasar,
+,,,,,
+50109,k,0,kawat pandu,dasar,
+,,,,,
+50110,k,0,kawat pijar,dasar,
+,,,,,
+50111,k,0,kawat sling,dasar,
+,,,,,
+50112,k,0,kawat tanah,dasar,
+,,,,,
+50113,k,0,kawat telepon,dasar,
+,,,,,
+50114,k,0,kawat untai,dasar,
+50114.1,x,,<kawat unta> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+50115,v,8,kawat-kawat,dasar,
+50115.1,v,,<kawat> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+50116,c,8,kawatir,dasar,khawatir
+,,,,,
+50117,v,2,kawatnya,dasar,
+50117.1,v,,<kawat> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+50118,k,37,kawi,dasar,
+50118.1,x,,<kaw> + -i,bentukan,[28] [S] -i + (<all>)
+50118.2,x,,<ka> + -wi,bentukan,[174] [S] -wi + (<others>)
+,,,,,
+50119,k,5,kawih,dasar,
+,,,,,
+50120,k,0,kawijayan,dasar,
+50120.1,x,,<kawijay> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50121,k,350,kawin,dasar,
+,,,,,
+50122,k,0,kawin acak,dasar,
+,,,,,
+50123,k,0,kawin amanua,dasar,
+,,,,,
+50124,k,0,kawin angkat bapak,dasar,
+,,,,,
+50125,k,0,kawin bantu,dasar,
+,,,,,
+50126,k,0,kawin batin,dasar,
+,,,,,
+50127,k,0,kawin belis,dasar,
+50127.1,x,,<kawin beli> + [-is:-s],bentukan,[177] [S] -is + (i)
+50127.2,x,,<kawin bel> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+50128,k,0,kawin campur,dasar,
+,,,,,
+50129,k,0,kawin di bawah tangan,dasar,
+50129.1,x,,<kawin di bawah tang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50130,k,0,kawin gantung,dasar,
+,,,,,
+50131,k,0,kawin gelap,dasar,
+,,,,,
+50132,k,0,kawin kantor,dasar,
+,,,,,
+50133,k,0,kawin kontrak,dasar,
+,,,,,
+50134,k,0,kawin lari,dasar,
+50134.1,x,,<kawin lar> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+50135,k,0,kawin liwat,dasar,
+,,,,,
+50136,k,0,kawin masuk,dasar,
+,,,,,
+50137,k,0,kawin mutah,dasar,
+,,,,,
+50138,k,0,kawin paksa,dasar,
+,,,,,
+50139,k,0,kawin roko,dasar,
+,,,,,
+50140,k,0,kawin siri,dasar,
+50140.1,x,,<kawin sir> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+50141,k,0,kawin sirih pinang,dasar,
+,,,,,
+50142,k,0,kawin sumbang,dasar,
+,,,,,
+50143,k,0,kawin suntik,dasar,
+,,,,,
+50144,k,0,kawin tambahan,dasar,
+50144.1,x,,<kawin tambah> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50145,k,0,kawin tukar gadis,dasar,
+50145.1,x,,<kawin tukar gadi> + [-is:-s],bentukan,[177] [S] -is + (i)
+50145.2,x,,<kawin tukar gad> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+50146,k,0,kawin wakil,dasar,
+,,,,,
+50147,k,6,kawin-mawin,dasar,
+50147.1,v,,<[kawin:kawin-mawin]>,bentukan,[Reduplication-Rhyming]
+,,,,,
+50148,t,18,kawinan,dasar,
+50148.1,x,,<kawin> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50149,t,6,kawini,dasar,
+50149.1,v,,<kawin> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+50150,t,3,kawinilah,dasar,
+50150.1,v,,<kawini> + -lah,bentukan,[31] [FS] -lah + (<all>)
+50150.2,v,,<kawin> + -i + -lah,bentukan,[28] [S] -i + (<all>) => [31] [FS] -lah + (<all>)
+,,,,,
+50151,t,6,kawinkan,dasar,
+50151.1,v,,<kawin> + -kan,bentukan,[29] [S] -kan + (<all>)
+50151.2,x,,<kawink> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50152,t,3,kawinlah,dasar,
+50152.1,v,,<kawin> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+50153,k,0,kawista,dasar,
+,,,,,
+50154,k,0,kawoto,dasar,
+,,,,,
+50155,k,0,kawuk,dasar,
+,,,,,
+50156,k,0,kawul,dasar,
+,,,,,
+50157,k,52,kawula,dasar,
+,,,,,
+50158,k,0,kawula muda,dasar,
+,,,,,
+50159,v,3,kawulanya,dasar,
+50159.1,v,,<kawula> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+50160,k,18,kawung,dasar,
+,,,,,
+50161,v,3,kawungnya,dasar,
+50161.1,v,,<kawung> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+50162,c,1401,kaya,dasar,kayak
+,,,,,
+50163,k,0,kaya hati,dasar,
+50163.1,x,,<kaya hat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+50164,k,0,kaya raya,dasar,
+,,,,,
+50165,k,0,kaya vitamin,dasar,
+,,,,,
+50166,k,2,kayai,dasar,
+50166.1,x,,<kaya> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+50167,k,405,kayak,dasar,
+,,,,,
+50168,k,0,kayak air tenang,dasar,
+,,,,,
+50169,v,134,kayaknya,dasar,
+50169.1,v,,<kayak> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+50170,k,0,kayal,dasar,
+,,,,,
+50171,c,2,kayambang,dasar,kiambang
+,,,,,
+50172,k,14,kayan,dasar,
+50172.1,x,,<kay> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50173,k,5,kayang,dasar,
+,,,,,
+50174,k,18,kayangan,dasar,
+50174.1,x,,<kayang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50175,k,0,kayas,dasar,
+,,,,,
+50176,k,4,kayat,dasar,
+,,,,,
+50177,k,2,kayau,dasar,
+,,,,,
+50178,k,0,kaygir,dasar,
+,,,,,
+50179,k,11,kayo,dasar,
+,,,,,
+50180,k,0,kayong utara,dasar,
+,,,,,
+50181,k,1377,kayu,dasar,
+,,,,,
+50182,k,0,kayu agung,dasar,
+,,,,,
+50183,k,0,kayu ambon,dasar,
+,,,,,
+50184,k,0,kayu anduan,dasar,
+50184.1,x,,<kayu andu> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50185,k,0,kayu angin,dasar,
+,,,,,
+50186,k,0,kayu api,dasar,
+50186.1,x,,<kayu ap> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+50187,k,0,kayu apu,dasar,
+,,,,,
+50188,k,0,kayu apu-apu,dasar,
+,,,,,
+50189,k,0,kayu arang,dasar,
+,,,,,
+50190,k,0,kayu bakar,dasar,
+,,,,,
+50191,k,0,kayu bangunan,dasar,
+50191.1,x,,<kayu bangun> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50192,k,0,kayu basung,dasar,
+,,,,,
+50193,k,0,kayu besi,dasar,
+50193.1,x,,<kayu bes> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+50194,k,0,kayu bintang,dasar,
+,,,,,
+50195,k,0,kayu bulat,dasar,
+,,,,,
+50196,k,0,kayu cagak,dasar,
+,,,,,
+50197,k,0,kayu celup,dasar,
+,,,,,
+50198,k,0,kayu cendana,dasar,
+,,,,,
+50199,k,0,kayu daun,dasar,
+,,,,,
+50200,k,0,kayu dowel,dasar,
+,,,,,
+50201,k,0,kayu embun,dasar,
+,,,,,
+50202,k,0,kayu gabus,dasar,
+,,,,,
+50203,k,0,kayu gambir,dasar,
+,,,,,
+50204,k,0,kayu gelam,dasar,
+,,,,,
+50205,k,0,kayu gelondong(an),dasar,
+,,,,,
+50206,k,0,kayu gergajian,dasar,
+50206.1,x,,<kayu gergaji> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50207,k,0,kayu giling,dasar,
+,,,,,
+50208,k,0,kayu hitam,dasar,
+,,,,,
+50209,k,0,kayu jaran,dasar,
+50209.1,x,,<kayu jar> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50210,k,0,kayu jarum,dasar,
+,,,,,
+50211,k,0,kayu kapur,dasar,
+,,,,,
+50212,k,0,kayu kapur barus,dasar,
+,,,,,
+50213,k,0,kayu kayan,dasar,
+50213.1,x,,<kayu kay> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50214,k,0,kayu keras,dasar,
+,,,,,
+50215,k,0,kayu kesturi,dasar,
+50215.1,x,,<kayu kestur> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+50216,k,0,kayu ketimuran,dasar,
+50216.1,x,,<kayu ketimur> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50217,k,0,kayu kuda,dasar,
+,,,,,
+50218,k,0,kayu kunyit,dasar,
+,,,,,
+50219,k,0,kayu lapis,dasar,
+50219.1,x,,<kayu lapi> + [-is:-s],bentukan,[177] [S] -is + (i)
+50219.2,x,,<kayu lap> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+50220,k,0,kayu liat,dasar,
+,,,,,
+50221,k,0,kayu lilin,dasar,
+,,,,,
+50222,k,0,kayu lintang,dasar,
+,,,,,
+50223,k,0,kayu lunak,dasar,
+,,,,,
+50224,k,0,kayu manis,dasar,
+50224.1,x,,<kayu mani> + [-is:-s],bentukan,[177] [S] -is + (i)
+50224.2,x,,<kayu man> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+50225,k,0,kayu olahan,dasar,
+50225.1,x,,<kayu olah> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50226,k,0,kayu pacat,dasar,
+,,,,,
+50227,k,0,kayu palang,dasar,
+,,,,,
+50228,k,0,kayu pelet,dasar,
+,,,,,
+50229,k,0,kayu pok,dasar,
+,,,,,
+50230,k,0,kayu putih,dasar,
+,,,,,
+50231,k,0,kayu rapat,dasar,
+,,,,,
+50232,k,0,kayu renceh,dasar,
+,,,,,
+50233,k,0,kayu ribu,dasar,
+,,,,,
+50234,k,0,kayu samidra,dasar,
+,,,,,
+50235,k,0,kayu sepat,dasar,
+,,,,,
+50236,k,0,kayu siku-siku,dasar,
+50236.1,x,,<kayu siku-si> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+50236.2,x,,<kayu siku-s> + -i + -ku,bentukan,[28] [S] -i + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+50237,k,0,kayu silang,dasar,
+,,,,,
+50238,k,0,kayu singapura,dasar,
+,,,,,
+50239,k,0,kayu sugi,dasar,
+50239.1,x,,<kayu sug> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+50240,k,0,kayu tahun,dasar,
+,,,,,
+50241,k,0,kayu teja,dasar,
+,,,,,
+50242,k,0,kayu telur,dasar,
+,,,,,
+50243,k,0,kayu timur,dasar,
+,,,,,
+50244,k,0,kayu tulang,dasar,
+,,,,,
+50245,k,0,kayu ular,dasar,
+,,,,,
+50246,k,0,kayu urang,dasar,
+,,,,,
+50247,k,53,kayu-kayu,dasar,
+50247.1,v,,<kayu> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+50248,k,10,kayu-kayuan,dasar,
+50248.1,v,,<kayu> [-] <r> + -an,bentukan,[23] [RD] |
+,,,,,
+50249,v,7,kayu-kayunya,dasar,
+50249.1,x,,<kayu> [-] <r> + -nya,bentukan,[23] [RD] |
+50249.2,v,,<kayu> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+50250,k,14,kayuh,dasar,
+,,,,,
+50251,k,0,kayumwungan,dasar,
+50251.1,x,,<kayumwung> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50252,k,2,kayun,dasar,
+,,,,,
+50253,k,0,kayung,dasar,
+,,,,,
+50254,v,63,kayunya,dasar,
+50254.1,v,,<kayu> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+50255,k,0,kayupulau,dasar,
+,,,,,
+50256,k,0,kazak,dasar,
+,,,,,
+50257,k,15,kazakstan,dasar,
+50257.1,x,,<kazakst> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50258,c,3,kazanah,dasar,khazanah
+,,,,,
+50259,k,0,kdrt,dasar,
+,,,,,
+50260,k,22736,ke,dasar,
+,,,,,
+50261,k,0,ke atas,dasar,
+,,,,,
+50262,k,0,ke bawah,dasar,
+,,,,,
+50263,k,0,ke belakang,dasar,
+,,,,,
+50264,k,0,ke bumi,dasar,
+50264.1,x,,<ke bum> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+50265,k,0,ke depan,dasar,
+50265.1,x,,<ke dep> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50266,k,0,ke mana-mana,dasar,
+,,,,,
+50267,k,0,ke muka,dasar,
+,,,,,
+50268,k,0,ke samping,dasar,
+,,,,,
+50269,k,0,ke sini,dasar,
+50269.1,x,,<ke sin> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+50270,k,0,ke sisi,dasar,
+50270.1,x,,<ke sis> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+50271,k,0,ke sungai,dasar,
+50271.1,x,,<ke sunga> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+50272,d,0,ke tahun,dasar,
+,,,,,
+50273,k,0,ke tanah,dasar,
+,,,,,
+50274,k,0,ke tengah,dasar,
+,,,,,
+50275,k,0,ke tepi,dasar,
+50275.1,x,,<ke tep> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+50276,k,0,ke--an,dasar,
+,,,,,
+50277,x,28,ke-i,dasar,
+,,,,,
+50278,x,13,ke-ii,dasar,
+,,,,,
+50279,x,5,ke-iv,dasar,
+,,,,,
+50280,x,4,ke-ix,dasar,
+,,,,,
+50281,x,3,ke-v,dasar,
+,,,,,
+50282,x,3,ke-vi,dasar,
+,,,,,
+50283,x,3,ke-x,dasar,
+,,,,,
+50284,k,57,keabadian,dasar,
+50284.1,v,,ke- + <abadi> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50284.2,x,,ke- + <abadian>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50284.3,x,,<keabadi> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50285,v,2,keabadiannya,dasar,
+50285.1,x,,ke- + <abadian> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50285.2,x,,ke- + <abadiannya>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50285.3,x,,<keabadian> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+50285.4,v,,ke- + <abadi> + -an + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+50285.5,x,,ke- + <abadian> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+50285.6,x,,<keabadi> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+50286,k,0,keabnormalan,dasar,
+50286.1,v,,ke- + <abnormal> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50286.2,x,,ke- + <abnormalan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50286.3,x,,<keabnormal> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50287,k,226,keabsahan,dasar,
+50287.1,v,,ke- + <absah> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50287.2,x,,ke- + <absahan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50287.3,x,,<keabsah> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50288,v,27,keabsahannya,dasar,
+50288.1,x,,ke- + <absahan> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50288.2,x,,ke- + <absahannya>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50288.3,v,,<keabsahan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+50288.4,v,,ke- + <absah> + -an + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+50288.5,x,,ke- + <absahan> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+50288.6,x,,<keabsah> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+50289,k,0,keabsenan,dasar,
+50289.1,v,,ke- + <absen> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50289.2,x,,ke- + <absenan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50289.3,x,,<keabsen> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50290,v,5,keabsolutan,dasar,
+50290.1,v,,ke- + <absolut> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50290.2,x,,ke- + <absolutan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50290.3,x,,<keabsolut> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50291,k,0,keabstainan,dasar,
+50291.1,v,,ke- + <abstain> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50291.2,x,,ke- + <abstainan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50291.3,x,,<keabstain> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50292,k,2,keabsurdan,dasar,
+50292.1,v,,ke- + <absurd> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50292.2,x,,ke- + <absurdan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50292.3,x,,<keabsurd> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50293,k,23,keabu-abuan,dasar,
+50293.1,v,,ke- + <abu> [-] <r> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [81] [RD] ke-|
+,,,,,
+50294,v,12,keabuan,dasar,
+50294.1,v,,ke- + <abu> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50294.2,x,,ke- + <abuan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50294.3,x,,<keabu> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50295,v,2,keacehan,dasar,
+50295.1,v,,ke- + <aceh> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50295.2,x,,ke- + <acehan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50295.3,x,,<keaceh> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50296,k,3346,keadaan,dasar,
+50296.1,v,,ke- + <ada> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50296.2,x,,ke- + <adaan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50296.3,x,,<keada> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50297,k,0,keadaan darurat,dasar,
+50297.1,x,,ke- + <adaan darurat>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+50298,k,0,keadaan kahar,dasar,
+50298.1,x,,ke- + <adaan kahar>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+50299,k,0,keadaan memaksa,dasar,
+50299.1,x,,ke- + <adaan memaksa>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+50300,k,0,keadaan peralihan,dasar,
+50300.1,x,,ke- + <adaan peralih> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50300.2,x,,ke- + <adaan peralihan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50300.3,x,,<keadaan peralih> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50301,v,28,keadaan-keadaan,dasar,
+50301.1,v,,<keadaan> [-] <r>,bentukan,[23] [RD] |
+50301.2,x,,ke- + <ada> + -an [-] ke- + <r> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [23] [RD] |
+50301.3,x,,ke- + <adaan> [-] ke- + <r>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [23] [RD] |
+50301.4,x,,<keada> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+50302,v,41,keadaanku,dasar,
+50302.1,x,,ke- + <adaanku>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50302.2,x,,<keadaan> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+50302.3,v,,ke- + <ada> + -an + -ku,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [32] [SFS] -ku + (<all>)
+50302.4,x,,ke- + <adaan> + -ku,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [32] [SFS] -ku + (<all>)
+50302.5,x,,<keada> + -an + -ku,bentukan,[38] [S] -an + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+50303,v,12,keadaanmu,dasar,
+50303.1,x,,ke- + <adaanmu>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50303.2,x,,<keadaan> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+50303.3,v,,ke- + <ada> + -an + -mu,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [33] [SFS] -mu + (<all>)
+50303.4,x,,ke- + <adaan> + -mu,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [33] [SFS] -mu + (<all>)
+50303.5,x,,<keada> + -an + -mu,bentukan,[38] [S] -an + (<all>) => [33] [SFS] -mu + (<all>)
+,,,,,
+50304,v,186,keadaannya,dasar,
+50304.1,x,,ke- + <adaan> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50304.2,x,,ke- + <adaannya>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50304.3,x,,<keadaan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+50304.4,v,,ke- + <ada> + -an + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+50304.5,x,,ke- + <adaan> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+50304.6,x,,<keada> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+50305,k,19,keadaban,dasar,
+50305.1,v,,ke- + <adab> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50305.2,x,,ke- + <adaban>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50305.3,x,,<keadab> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50306,k,0,keadijenuhan,dasar,
+50306.1,v,,ke- + <adijenuh> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50306.2,x,,ke- + <adijenuhan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50306.3,x,,<keadijenuh> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50307,k,0,keadikuasaan,dasar,
+50307.1,v,,ke- + <adikuasa> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50307.2,x,,ke- + <adikuasaan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50307.3,x,,<keadikuasa> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50308,k,1512,keadilan,dasar,
+50308.1,v,,ke- + <adil> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50308.2,x,,ke- + <adilan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50308.3,x,,<keadil> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50309,k,0,keadilan sosial,dasar,
+50309.1,x,,ke- + <adilan sosial>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+50310,v,7,keadilannya,dasar,
+50310.1,x,,ke- + <adilan> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50310.2,x,,ke- + <adilannya>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50310.3,x,,<keadilan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+50310.4,v,,ke- + <adil> + -an + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+50310.5,x,,ke- + <adilan> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+50310.6,x,,<keadil> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+50311,k,0,keafiatan,dasar,
+50311.1,v,,ke- + <afiat> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50311.2,x,,ke- + <afiatan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50311.3,x,,<keafiat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50312,k,0,keagaan,dasar,
+50312.1,v,,ke- + <aga> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50312.2,x,,ke- + <agaan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50312.3,x,,<keaga> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50313,k,982,keagamaan,dasar,
+50313.1,v,,ke- + <agama> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50313.2,x,,ke- + <agamaan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50313.3,x,,<keagama> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50314,v,30,keagamaannya,dasar,
+50314.1,x,,ke- + <agamaan> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50314.2,x,,ke- + <agamaannya>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50314.3,x,,<keagamaan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+50314.4,v,,ke- + <agama> + -an + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+50314.5,x,,ke- + <agamaan> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+50314.6,x,,<keagama> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+50315,k,106,keagenan,dasar,
+50315.1,v,,ke- + <agen> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50315.2,x,,ke- + <agenan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50315.3,x,,<keagen> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50316,k,8,keagresifan,dasar,
+50316.1,v,,ke- + <agresif> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50316.2,x,,ke- + <agresifan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50316.3,x,,<keagresif> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50317,k,77,keagungan,dasar,
+50317.1,v,,ke- + <agung> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50317.2,x,,ke- + <agungan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50317.3,x,,<keagung> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50318,v,5,keagungannya,dasar,
+50318.1,x,,ke- + <agungan> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50318.2,x,,ke- + <agungannya>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50318.3,x,,<keagungan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+50318.4,v,,ke- + <agung> + -an + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+50318.5,x,,ke- + <agungan> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+50318.6,x,,<keagung> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+50319,k,961,keahlian,dasar,
+50319.1,v,,ke- + <ahli> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50319.2,x,,ke- + <ahlian>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50319.3,x,,<keahli> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50320,v,10,keahlian-keahlian,dasar,
+50320.1,v,,<keahlian> [-] <r>,bentukan,[23] [RD] |
+50320.2,x,,ke- + <ahli> + -an [-] ke- + <r> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [23] [RD] |
+50320.3,x,,ke- + <ahlian> [-] ke- + <r>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [23] [RD] |
+50320.4,x,,<keahli> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+50321,v,2,keahlian-keahliannya,dasar,
+50321.1,v,,<keahlian> [-] <r> + -nya,bentukan,[23] [RD] |
+50321.2,x,,ke- + <ahli> + -an [-] ke- + <r> + -an + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [23] [RD] |
+50321.3,x,,ke- + <ahlian> [-] ke- + <r> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [23] [RD] |
+50321.4,x,,<keahli> + -an [-] <r> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+50321.5,v,,<keahlian> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+50321.6,x,,ke- + <ahli> + -an [-] ke- + <r> + -an + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [23] [RD] | => [34] [SFS] -nya + (<all>)
+50321.7,x,,ke- + <ahlian> [-] ke- + <r> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [23] [RD] | => [34] [SFS] -nya + (<all>)
+50321.8,x,,<keahli> + -an [-] <r> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+50322,v,12,keahlianku,dasar,
+50322.1,x,,ke- + <ahlianku>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50322.2,x,,<keahlian> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+50322.3,v,,ke- + <ahli> + -an + -ku,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [32] [SFS] -ku + (<all>)
+50322.4,x,,ke- + <ahlian> + -ku,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [32] [SFS] -ku + (<all>)
+50322.5,x,,<keahli> + -an + -ku,bentukan,[38] [S] -an + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+50323,v,4,keahlianmu,dasar,
+50323.1,x,,ke- + <ahlianmu>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50323.2,x,,<keahlian> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+50323.3,v,,ke- + <ahli> + -an + -mu,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [33] [SFS] -mu + (<all>)
+50323.4,x,,ke- + <ahlian> + -mu,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [33] [SFS] -mu + (<all>)
+50323.5,x,,<keahli> + -an + -mu,bentukan,[38] [S] -an + (<all>) => [33] [SFS] -mu + (<all>)
+,,,,,
+50324,v,225,keahliannya,dasar,
+50324.1,x,,ke- + <ahlian> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50324.2,x,,ke- + <ahliannya>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50324.3,x,,<keahlian> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+50324.4,v,,ke- + <ahli> + -an + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+50324.5,x,,ke- + <ahlian> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+50324.6,x,,<keahli> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+50325,k,0,keahlinegaraan,dasar,
+50325.1,x,,ke- + <ahlinegara> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50325.2,x,,ke- + <ahlinegaraan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50325.3,x,,<keahlinegara> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50326,k,2,keaiban,dasar,
+50326.1,v,,ke- + <aib> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50326.2,x,,ke- + <aiban>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50326.3,x,,<keaib> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50327,k,0,keairan,dasar,
+50327.1,v,,ke- + <air> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50327.2,x,,ke- + <airan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50327.3,x,,<keair> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50328,k,226,keajaiban,dasar,
+50328.1,v,,ke- + <ajaib> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50328.2,x,,ke- + <ajaiban>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50328.3,x,,<keajaib> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50329,v,6,keajaiban-keajaiban,dasar,
+50329.1,v,,<keajaiban> [-] <r>,bentukan,[23] [RD] |
+50329.2,x,,ke- + <ajaib> + -an [-] ke- + <r> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [23] [RD] |
+50329.3,x,,ke- + <ajaiban> [-] ke- + <r>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [23] [RD] |
+50329.4,x,,<keajaib> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+50330,v,2,keajaibanmu,dasar,
+50330.1,x,,ke- + <ajaibanmu>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50330.2,x,,<keajaiban> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+50330.3,v,,ke- + <ajaib> + -an + -mu,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [33] [SFS] -mu + (<all>)
+50330.4,x,,ke- + <ajaiban> + -mu,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [33] [SFS] -mu + (<all>)
+50330.5,x,,<keajaib> + -an + -mu,bentukan,[38] [S] -an + (<all>) => [33] [SFS] -mu + (<all>)
+,,,,,
+50331,v,7,keajaibannya,dasar,
+50331.1,x,,ke- + <ajaiban> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50331.2,x,,ke- + <ajaibannya>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50331.3,x,,<keajaiban> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+50331.4,v,,ke- + <ajaib> + -an + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+50331.5,x,,ke- + <ajaiban> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+50331.6,x,,<keajaib> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+50332,k,5,keajekan,dasar,
+50332.1,v,,ke- + <ajek> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50332.2,x,,ke- + <aje> + -kan,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50332.3,x,,ke- + <ajekan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50332.4,x,,<keaje> + -kan,bentukan,[29] [S] -kan + (<all>)
+50332.5,x,,<keajek> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50333,k,0,keajukan,dasar,
+50333.1,v,,ke- + <ajuk> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50333.2,x,,ke- + <aju> + -kan,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50333.3,x,,ke- + <ajukan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50333.4,x,,<keaju> + -kan,bentukan,[29] [S] -kan + (<all>)
+50333.5,x,,<keajuk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50334,k,2,keakanan,dasar,
+50334.1,v,,ke- + <akan> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50334.2,x,,ke- + <akanan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50334.3,x,,<keakan> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50335,k,0,keakasan,dasar,
+50335.1,v,,ke- + <akas> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50335.2,x,,ke- + <akasan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50335.3,x,,<keakas> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50336,k,0,keakhiratan,dasar,
+50336.1,v,,ke- + <akhirat> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50336.2,x,,ke- + <akhiratan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50336.3,x,,<keakhirat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50337,k,112,keakraban,dasar,
+50337.1,v,,ke- + <akrab> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50337.2,x,,ke- + <akraban>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50337.3,x,,<keakrab> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50338,v,6,keakrabannya,dasar,
+50338.1,x,,ke- + <akraban> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50338.2,x,,ke- + <akrabannya>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50338.3,x,,<keakraban> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+50338.4,v,,ke- + <akrab> + -an + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+50338.5,x,,ke- + <akraban> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+50338.6,x,,<keakrab> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+50339,k,12,keaksaraan,dasar,
+50339.1,v,,ke- + <aksara> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50339.2,x,,ke- + <aksaraan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50339.3,x,,<keaksara> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50340,k,90,keaktifan,dasar,
+50340.1,v,,ke- + <aktif> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50340.2,x,,ke- + <aktifan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50340.3,x,,<keaktif> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50341,v,17,keaktifannya,dasar,
+50341.1,x,,ke- + <aktifan> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50341.2,x,,ke- + <aktifannya>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50341.3,x,,<keaktifan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+50341.4,v,,ke- + <aktif> + -an + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+50341.5,x,,ke- + <aktifan> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+50341.6,x,,<keaktif> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+50342,k,3,keaktoran,dasar,
+50342.1,v,,ke- + <aktor> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50342.2,x,,ke- + <aktoran>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50342.3,x,,<keaktor> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50343,k,0,keaktualan,dasar,
+50343.1,v,,ke- + <aktual> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50343.2,x,,ke- + <aktualan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50343.3,x,,<keaktual> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50344,k,7,keakuan,dasar,
+50344.1,v,,ke- + <aku> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50344.2,x,,ke- + <akuan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50344.3,x,,<keaku> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50345,k,0,keakuran,dasar,
+50345.1,v,,ke- + <akur> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50345.2,x,,ke- + <akuran>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50345.3,x,,<keakur> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50346,k,7,keakurasian,dasar,
+50346.1,v,,ke- + <akurasi> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50346.2,x,,ke- + <akurasian>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50346.3,x,,<keakurasi> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50347,k,121,keakuratan,dasar,
+50347.1,v,,ke- + <akurat> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50347.2,x,,ke- + <akuratan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50347.3,x,,<keakurat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50348,v,17,keakuratannya,dasar,
+50348.1,x,,ke- + <akuratan> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50348.2,x,,ke- + <akuratannya>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50348.3,x,,<keakuratan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+50348.4,v,,ke- + <akurat> + -an + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+50348.5,x,,ke- + <akuratan> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+50348.6,x,,<keakurat> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+50349,k,0,kealahan,dasar,
+50349.1,v,,ke- + <alah> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50349.2,x,,ke- + <alahan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50349.3,x,,<kealah> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50350,k,3,kealaman,dasar,
+50350.1,v,,ke- + <alam> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50350.2,x,,ke- + <alaman>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50350.3,x,,<kealam> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50351,v,6,kealamian,dasar,
+50351.1,v,,ke- + <alami> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50351.2,x,,ke- + <alamian>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50351.3,x,,<kealami> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50352,k,4,kealiman,dasar,
+50352.1,v,,ke- + <alim> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50352.2,x,,ke- + <aliman>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50352.3,x,,<kealim> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50353,k,0,kealkalian,dasar,
+50353.1,v,,ke- + <alkali> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50353.2,x,,ke- + <alkalian>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50353.3,x,,<kealkali> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50354,k,0,keallahan,dasar,
+50354.1,v,,ke- + <allah> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50354.2,x,,ke- + <allahan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50354.3,x,,<keallah> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50355,k,22,kealpaan,dasar,
+50355.1,v,,ke- + <alpa> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50355.2,x,,ke- + <alpaan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50355.3,x,,<kealpa> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50356,v,11,kealpaannya,dasar,
+50356.1,x,,ke- + <alpaan> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50356.2,x,,ke- + <alpaannya>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50356.3,x,,<kealpaan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+50356.4,v,,ke- + <alpa> + -an + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+50356.5,x,,ke- + <alpaan> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+50356.6,x,,<kealpa> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+50357,k,0,keamanahan,dasar,
+50357.1,v,,ke- + <amanah> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50357.2,x,,ke- + <amanahan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50357.3,x,,<keamanah> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50358,k,3325,keamanan,dasar,
+50358.1,v,,ke- + <aman> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50358.2,x,,ke- + <amanan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50358.3,x,,<keaman> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50359,k,0,keamanan berkas,dasar,
+50359.1,x,,ke- + <amanan berkas>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+50360,k,0,keamanan bersama,dasar,
+50360.1,x,,ke- + <amanan bersama>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+50361,k,0,keamanan data,dasar,
+50361.1,x,,ke- + <amanan data>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+50362,k,0,keamanan internal,dasar,
+50362.1,x,,ke- + <amanan internal>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+50363,k,0,keamanan komputer,dasar,
+50363.1,x,,ke- + <amanan komputer>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+50364,k,0,keamanan nasional,dasar,
+50364.1,x,,ke- + <amanan nasional>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+50365,v,105,keamanannya,dasar,
+50365.1,x,,ke- + <amanan> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50365.2,x,,ke- + <amanannya>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50365.3,x,,<keamanan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+50365.4,v,,ke- + <aman> + -an + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+50365.5,x,,ke- + <amanan> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+50365.6,x,,<keaman> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+50366,v,2,keambisiusan,dasar,
+50366.1,v,,ke- + <ambisius> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50366.2,x,,ke- + <ambisiusan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50366.3,x,,<keambisius> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50367,v,2,keambisiusannya,dasar,
+50367.1,x,,ke- + <ambisiusan> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50367.2,x,,ke- + <ambisiusannya>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50367.3,x,,<keambisiusan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+50367.4,v,,ke- + <ambisius> + -an + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+50367.5,x,,ke- + <ambisiusan> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+50367.6,x,,<keambisius> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+50368,k,5,keambrukan,dasar,
+50368.1,v,,ke- + <ambruk> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50368.2,x,,ke- + <ambru> + -kan,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50368.3,x,,ke- + <ambrukan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50368.4,x,,<keambru> + -kan,bentukan,[29] [S] -kan + (<all>)
+50368.5,x,,<keambruk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50369,k,0,keamiran,dasar,
+50369.1,v,,ke- + <amir> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50369.2,x,,ke- + <amiran>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50369.3,x,,<keamir> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50370,k,20,keampuhan,dasar,
+50370.1,v,,ke- + <ampuh> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50370.2,x,,ke- + <ampuhan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50370.3,x,,<keampuh> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50371,v,10,keampuhannya,dasar,
+50371.1,x,,ke- + <ampuhan> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50371.2,x,,ke- + <ampuhannya>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50371.3,v,,<keampuhan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+50371.4,v,,ke- + <ampuh> + -an + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+50371.5,x,,ke- + <ampuhan> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+50371.6,x,,<keampuh> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+50372,k,0,keampunan,dasar,
+50372.1,v,,ke- + <ampun> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50372.2,x,,ke- + <ampunan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50372.3,x,,<keampun> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50373,k,200,keandalan,dasar,
+50373.1,v,,ke- + <andal> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50373.2,x,,ke- + <andalan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50373.3,x,,<keandal> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50374,v,14,keandalannya,dasar,
+50374.1,x,,ke- + <andalan> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50374.2,x,,ke- + <andalannya>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50374.3,x,,<keandalan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+50374.4,v,,ke- + <andal> + -an + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+50374.5,x,,ke- + <andalan> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+50374.6,x,,<keandal> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+50375,k,114,keanehan,dasar,
+50375.1,v,,ke- + <aneh> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50375.2,x,,ke- + <anehan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50375.3,x,,<keaneh> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50376,v,6,keanehan-keanehan,dasar,
+50376.1,v,,<keanehan> [-] <r>,bentukan,[23] [RD] |
+50376.2,x,,ke- + <aneh> + -an [-] ke- + <r> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [23] [RD] |
+50376.3,x,,ke- + <anehan> [-] ke- + <r>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [23] [RD] |
+50376.4,x,,<keaneh> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+50377,v,5,keanehannya,dasar,
+50377.1,x,,ke- + <anehan> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50377.2,x,,ke- + <anehannya>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50377.3,x,,<keanehan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+50377.4,v,,ke- + <aneh> + -an + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+50377.5,x,,ke- + <anehan> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+50377.6,x,,<keaneh> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+50378,k,3,keanekaan,dasar,
+50378.1,v,,ke- + <aneka> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50378.2,x,,ke- + <anekaan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50378.3,x,,<keaneka> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50379,k,405,keanekaragaman,dasar,
+50379.1,v,,ke- + <anekaragam> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50379.2,x,,ke- + <anekaragaman>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50379.3,x,,<keanekaragam> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50380,k,0,keanekaragaman hayati,dasar,
+50380.1,x,,ke- + <anekaragaman hayati>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50380.2,x,,<keanekaragaman hayat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+50381,v,13,keanekaragamannya,dasar,
+50381.1,x,,ke- + <anekaragaman> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50381.2,x,,ke- + <anekaragamannya>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50381.3,x,,<keanekaragaman> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+50381.4,v,,ke- + <anekaragam> + -an + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+50381.5,x,,ke- + <anekaragaman> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+50381.6,x,,<keanekaragam> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+50382,k,432,keanggotaan,dasar,
+50382.1,v,,ke- + <anggota> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50382.2,x,,ke- + <anggotaan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50382.3,x,,<keanggota> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50383,v,76,keanggotaannya,dasar,
+50383.1,x,,ke- + <anggotaan> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50383.2,x,,ke- + <anggotaannya>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50383.3,v,,<keanggotaan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+50383.4,v,,ke- + <anggota> + -an + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+50383.5,x,,ke- + <anggotaan> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+50383.6,x,,<keanggota> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+50384,k,31,keanggunan,dasar,
+50384.1,v,,ke- + <anggun> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50384.2,x,,ke- + <anggunan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50384.3,x,,<keanggun> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50385,v,3,keanggunannya,dasar,
+50385.1,x,,ke- + <anggunan> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50385.2,x,,ke- + <anggunannya>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50385.3,x,,<keanggunan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+50385.4,v,,ke- + <anggun> + -an + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+50385.5,x,,ke- + <anggunan> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+50385.6,x,,<keanggun> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+50386,k,0,keanginan,dasar,
+50386.1,v,,ke- + <angin> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50386.2,x,,ke- + <anginan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50386.3,x,,<keangin> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50387,k,0,keanginan pektoris,dasar,
+50387.1,x,,ke- + <anginan pektoris>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50387.2,x,,<keanginan pektori> + [-is:-s],bentukan,[177] [S] -is + (i)
+50387.3,x,,<keanginan pektor> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+50388,k,0,keangkaraan,dasar,
+50388.1,v,,ke- + <angkara> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50388.2,x,,ke- + <angkaraan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50388.3,x,,<keangkara> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50389,k,5,keangkatan,dasar,
+50389.1,v,,ke- + <angkat> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50389.2,x,,ke- + <angkatan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50389.3,x,,<keangkat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50390,k,7,keangkeran,dasar,
+50390.1,v,,ke- + <angker> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50390.2,x,,ke- + <angkeran>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50390.3,x,,<keangker> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50391,k,36,keangkuhan,dasar,
+50391.1,v,,ke- + <angkuh> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50391.2,x,,ke- + <angkuhan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50391.3,x,,<keangkuh> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50392,v,8,keangkuhannya,dasar,
+50392.1,x,,ke- + <angkuhan> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50392.2,x,,ke- + <angkuhannya>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50392.3,x,,<keangkuhan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+50392.4,v,,ke- + <angkuh> + -an + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+50392.5,x,,ke- + <angkuhan> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+50392.6,x,,<keangkuh> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+50393,k,0,keanjalan,dasar,
+50393.1,v,,ke- + <anjal> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50393.2,x,,ke- + <anjalan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50393.3,x,,<keanjal> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50394,k,0,keanoniman,dasar,
+50394.1,v,,ke- + <anonim> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50394.2,x,,ke- + <anoniman>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50394.3,x,,<keanonim> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50395,v,6,keantariksaan,dasar,
+50395.1,v,,ke- + <antariksa> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50395.2,x,,ke- + <antariksaan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50395.3,x,,<keantariksa> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50396,k,2,keantikan,dasar,
+50396.1,v,,ke- + <antik> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50396.2,x,,ke- + <anti> + -kan,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50396.3,x,,ke- + <antikan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50396.4,x,,<keanti> + -kan,bentukan,[29] [S] -kan + (<all>)
+50396.5,x,,<keantik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50397,v,3,keantisipatifan,dasar,
+50397.1,v,,ke- + <antisipatif> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50397.2,x,,ke- + <antisipatifan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50397.3,x,,<keantisipatif> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50398,k,0,keantoniman,dasar,
+50398.1,v,,ke- + <antonim> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50398.2,x,,ke- + <antoniman>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50398.3,x,,<keantonim> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50399,v,3,keantusiasan,dasar,
+50399.1,v,,ke- + <antusias> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50399.2,x,,ke- + <antusiasan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50399.3,x,,<keantusias> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50400,k,0,keapesan,dasar,
+50400.1,v,,ke- + <apes> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50400.2,x,,ke- + <apesan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50400.3,x,,<keapes> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50401,k,3,kearab-araban,dasar,
+50401.1,v,,ke- + <arab> [-] <r> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [81] [RD] ke-|
+,,,,,
+50402,v,2,kearabannya,dasar,
+50402.1,x,,ke- + <araban> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50402.2,x,,ke- + <arabannya>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+50402.3,x,,<kearaban> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+50402.4,v,,ke- + <arab> + -an + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+50402.5,x,,ke- + <araban> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+50402.6,x,,<kearab> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)

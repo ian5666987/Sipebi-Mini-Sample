@@ -1,0 +1,1670 @@
+Nomor,KP,Jumlah,Entri,Tipe,Pembentukan
+37742,k,0,gerakan kaki,dasar,
+37742.1,x,,<gerakan kak> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+37743,k,0,gerakan monsun,dasar,
+,,,,,
+37744,k,0,gerakan sosial,dasar,
+,,,,,
+37745,k,0,gerakan spontan,dasar,
+37745.1,x,,<gerakan spont> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+37746,k,0,gerakan tak beraturan,dasar,
+37746.1,x,,<gerakan tak beratur> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+37747,k,0,gerakan tertutup,dasar,
+,,,,,
+37748,v,135,gerakan-gerakan,dasar,
+37748.1,x,,<gerakan> [-] <r>,bentukan,[23] [RD] |
+37748.2,x,,<gera> + -kan [-] <r> + -kan,bentukan,[29] [S] -kan + (<all>) => [23] [RD] |
+37748.3,v,,<gerak> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+37749,v,3,gerakan-gerakannya,dasar,
+37749.1,v,,<gerakan> [-] <r> + -nya,bentukan,[23] [RD] |
+37749.2,x,,<gera> + -kan [-] <r> + -kan + -nya,bentukan,[29] [S] -kan + (<all>) => [23] [RD] |
+37749.3,v,,<gerak> + -an [-] <r> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+37749.4,x,,<gerakan> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+37749.5,x,,<gera> + -kan [-] <r> + -kan + -nya,bentukan,[29] [S] -kan + (<all>) => [23] [RD] | => [34] [SFS] -nya + (<all>)
+37749.6,v,,<gerak> + -an [-] <r> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+37750,v,16,gerakanku,dasar,
+37750.1,x,,<gerakan> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+37750.2,x,,<gera> + -kan + -ku,bentukan,[29] [S] -kan + (<all>) => [32] [SFS] -ku + (<all>)
+37750.3,v,,<gerak> + -an + -ku,bentukan,[38] [S] -an + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+37751,v,3,gerakanmu,dasar,
+37751.1,x,,<gerakan> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+37751.2,x,,<gera> + -kan + -mu,bentukan,[29] [S] -kan + (<all>) => [33] [SFS] -mu + (<all>)
+37751.3,v,,<gerak> + -an + -mu,bentukan,[38] [S] -an + (<all>) => [33] [SFS] -mu + (<all>)
+,,,,,
+37752,v,128,gerakannya,dasar,
+37752.1,x,,<gerakan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+37752.2,x,,<gera> + -kan + -nya,bentukan,[29] [S] -kan + (<all>) => [34] [SFS] -nya + (<all>)
+37752.3,v,,<gerak> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+37753,v,38,gerakkan,dasar,
+37753.1,v,,<gerak> + -kan,bentukan,[29] [S] -kan + (<all>)
+37753.2,x,,<gerakk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+37754,v,4,gerakku,dasar,
+37754.1,v,,<gerak> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+37755,v,3,gerakmu,dasar,
+37755.1,v,,<gerak> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+,,,,,
+37756,v,64,geraknya,dasar,
+37756.1,v,,<gerak> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+37757,k,187,geram,dasar,
+,,,,,
+37758,k,0,gerama,dasar,
+,,,,,
+37759,k,12,geraman,dasar,
+37759.1,v,,<geram> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+37760,k,0,geramang,dasar,
+,,,,,
+37761,k,0,gerameh,dasar,
+,,,,,
+37762,k,0,gerami,dasar,
+37762.1,x,,<geram> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+37763,v,2,geramlah,dasar,
+37763.1,v,,<geram> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+37764,v,12,geramnya,dasar,
+37764.1,v,,<geram> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+37765,k,0,geramsut,dasar,
+,,,,,
+37766,k,0,geramus,dasar,
+,,,,,
+37767,k,3,gerang,dasar,
+,,,,,
+37768,k,107,gerangan,dasar,
+37768.1,v,,<gerang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+37769,k,0,geranggaman,dasar,
+37769.1,v,,<geranggam> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+37770,k,0,geranggang,dasar,
+,,,,,
+37771,k,0,gerangsang,dasar,
+,,,,,
+37772,k,4,geranium,dasar,
+,,,,,
+37773,k,0,gerantak,dasar,
+,,,,,
+37774,k,0,gerantang,dasar,
+,,,,,
+37775,k,0,gerantang keling,dasar,
+,,,,,
+37776,k,0,geranyam,dasar,
+,,,,,
+37777,k,0,gerapai,dasar,
+37777.1,x,,<gerapa> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+37778,k,0,gerapu,dasar,
+,,,,,
+37779,k,0,geraskofobia,dasar,
+37779.1,x,,<gerasko> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+37780,k,0,gerat,dasar,
+,,,,,
+37781,k,0,geratak,dasar,
+,,,,,
+37782,k,0,geratih,dasar,
+,,,,,
+37783,k,0,gerau,dasar,
+,,,,,
+37784,k,0,gerawan,dasar,
+37784.1,x,,<geraw> + -an,bentukan,[38] [S] -an + (<all>)
+37784.2,x,,<gera> + -wan,bentukan,[180] [S] -wan + (<others>)
+37784.3,x,,<ger> + [-wan:-awan],bentukan,[18000001] [S] -wan + (<all>)
+,,,,,
+37785,k,0,gerawat,dasar,
+,,,,,
+37786,k,0,gerayah,dasar,
+,,,,,
+37787,k,0,gerayang,dasar,
+,,,,,
+37788,k,0,gerayangan,dasar,
+37788.1,v,,<gerayang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+37789,k,0,gerbak,dasar,
+,,,,,
+37790,k,659,gerbang,dasar,
+,,,,,
+37791,k,0,gerbang gersul,dasar,
+,,,,,
+37792,k,0,gerbang keluar,dasar,
+,,,,,
+37793,k,0,gerbang wisata,dasar,
+37793.1,x,,<gerbang > + -wisata,bentukan,[212] [S] -wisata + (<all>)
+,,,,,
+37794,v,4,gerbang-gerbang,dasar,
+37794.1,v,,<gerbang> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+37795,v,14,gerbangnya,dasar,
+37795.1,v,,<gerbang> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+37796,k,0,gerbas-gerbus,dasar,
+37796.1,v,,<gerbas-gerbus>,bentukan,[Reduplication-Rhyming]
+,,,,,
+37797,k,0,gerbera,dasar,
+,,,,,
+37798,k,0,gerbil,dasar,
+,,,,,
+37799,k,139,gerbong,dasar,
+,,,,,
+37800,k,0,gerbong administrasi,dasar,
+37800.1,x,,<gerbong administras> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+37801,k,0,gerbong datar,dasar,
+,,,,,
+37802,k,0,gerbong kuda,dasar,
+,,,,,
+37803,k,0,gerbong lekuk,dasar,
+,,,,,
+37804,k,0,gerbong makan,dasar,
+37804.1,x,,<gerbong ma> + -kan,bentukan,[29] [S] -kan + (<all>)
+37804.2,x,,<gerbong mak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+37805,k,0,gerbong ternak,dasar,
+,,,,,
+37806,v,11,gerbong-gerbong,dasar,
+37806.1,v,,<gerbong> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+37807,v,6,gerbongnya,dasar,
+37807.1,v,,<gerbong> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+37808,k,0,gerbus,dasar,
+,,,,,
+37809,k,3,gerda,dasar,
+,,,,,
+37810,k,0,gerdam,dasar,
+,,,,,
+37811,k,0,gerdan,dasar,
+37811.1,x,,<gerd> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+37812,k,0,gerdek,dasar,
+,,,,,
+37813,k,0,gerdum,dasar,
+,,,,,
+37814,k,0,gerdung,dasar,
+,,,,,
+37815,k,0,gerdut,dasar,
+,,,,,
+37816,k,0,gerebak,dasar,
+,,,,,
+37817,c,9,gerebek,dasar,garebek
+,,,,,
+37818,k,0,gerebok,dasar,
+,,,,,
+37819,k,0,gerebusan,dasar,
+37819.1,v,,<gerebus> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+37820,k,0,gerecak,dasar,
+,,,,,
+37821,k,0,gerecok,dasar,
+,,,,,
+37822,k,0,gerege,dasar,
+,,,,,
+37823,k,11,gereget,dasar,
+,,,,,
+37824,k,23,geregetan,dasar,
+37824.1,v,,<gereget> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+37825,v,2,geregetnya,dasar,
+37825.1,v,,<gereget> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+37826,k,3,gereh,dasar,
+,,,,,
+37827,k,0,gereh kodok,dasar,
+,,,,,
+37828,k,523,gereja,dasar,
+,,,,,
+37829,v,31,gereja-gereja,dasar,
+37829.1,v,,<gereja> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+37830,v,2,gerejamu,dasar,
+37830.1,v,,<gereja> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+,,,,,
+37831,k,7,gerejani,dasar,
+37831.1,x,,<gerejan> + -i,bentukan,[28] [S] -i + (<all>)
+37831.2,v,,<gereja> + -ni,bentukan,[186] [SL] -ni + (<all>)
+,,,,,
+37832,v,13,gerejanya,dasar,
+37832.1,v,,<gereja> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+37833,k,4,gerejawi,dasar,
+37833.1,x,,<gerejaw> + -i,bentukan,[28] [S] -i + (<all>)
+37833.2,v,,<gereja> + -wi,bentukan,[174] [S] -wi + (<others>)
+,,,,,
+37834,k,0,gerek,dasar,
+,,,,,
+37835,k,0,geremet,dasar,
+,,,,,
+37836,k,0,gerempang,dasar,
+,,,,,
+37837,k,0,gerencang,dasar,
+,,,,,
+37838,k,14,gerendel,dasar,
+,,,,,
+37839,k,0,gerendeng,dasar,
+,,,,,
+37840,k,0,gerenek,dasar,
+,,,,,
+37841,k,0,gereneng,dasar,
+,,,,,
+37842,k,0,gerenengan,dasar,
+37842.1,v,,<gereneng> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+37843,k,0,gereng-gereng,dasar,
+37843.1,v,,<gereng> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+37844,k,0,gerengseng,dasar,
+,,,,,
+37845,k,0,gerenik,dasar,
+,,,,,
+37846,k,0,gerenjeng,dasar,
+,,,,,
+37847,k,0,gerenjet,dasar,
+,,,,,
+37848,k,0,gerentam,dasar,
+,,,,,
+37849,k,0,gerentang,dasar,
+,,,,,
+37850,k,0,gerenyam,dasar,
+,,,,,
+37851,k,0,gerenyau,dasar,
+,,,,,
+37852,k,0,gerenyeng,dasar,
+,,,,,
+37853,k,0,gerenyet,dasar,
+,,,,,
+37854,k,0,gerenying,dasar,
+,,,,,
+37855,k,0,gerenyit,dasar,
+,,,,,
+37856,k,0,gerenyot,dasar,
+,,,,,
+37857,k,0,gerenyut,dasar,
+,,,,,
+37858,k,0,gerep,dasar,
+,,,,,
+37859,k,0,gerepe,dasar,
+,,,,,
+37860,k,0,gerepek,dasar,
+,,,,,
+37861,k,0,gerepes,dasar,
+,,,,,
+37862,k,0,geresek,dasar,
+,,,,,
+37863,k,0,geret,dasar,
+,,,,,
+37864,k,0,geretak,dasar,
+,,,,,
+37865,k,6,geretan,dasar,
+37865.1,v,,<geret> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+37866,k,0,geretang,dasar,
+,,,,,
+37867,k,0,gerga,dasar,
+,,,,,
+37868,k,70,gergaji,dasar,
+37868.1,x,,<gergaj> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+37869,k,0,gergaji balik,dasar,
+,,,,,
+37870,k,0,gergaji balok,dasar,
+,,,,,
+37871,k,0,gergaji belah,dasar,
+37871.1,x,,<gergaji be> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+37872,k,0,gergaji besi,dasar,
+37872.1,x,,<gergaji bes> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+37873,k,0,gergaji mesin,dasar,
+,,,,,
+37874,k,0,gergaji pemangkas,dasar,
+,,,,,
+37875,k,0,gergaji potong,dasar,
+,,,,,
+37876,k,0,gergaji rantai,dasar,
+37876.1,x,,<gergaji ranta> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+37877,k,0,gergaji tangan,dasar,
+37877.1,x,,<gergaji tang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+37878,k,5,gergajian,dasar,
+37878.1,v,,<gergaji> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+37879,v,3,gergajinya,dasar,
+37879.1,v,,<gergaji> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+37879.2,x,,<gergaj> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+37880,k,0,gergajul,dasar,
+,,,,,
+37881,k,3,gergasi,dasar,
+37881.1,x,,<gergas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+37882,k,0,gergeran,dasar,
+37882.1,x,,<gerger> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+37883,k,0,gerha,dasar,
+,,,,,
+37884,k,43,gerhana,dasar,
+,,,,,
+37885,k,0,gerhana bulan,dasar,
+37885.1,x,,<gerhana bul> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+37886,k,0,gerhana cincin,dasar,
+,,,,,
+37887,k,0,gerhana gelang,dasar,
+,,,,,
+37888,k,0,gerhana matahari,dasar,
+37888.1,x,,<gerhana matahar> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+37889,k,0,gerhana mutlak,dasar,
+,,,,,
+37890,k,0,gerhana parsial,dasar,
+,,,,,
+37891,k,0,gerhana sebagian,dasar,
+37891.1,x,,<gerhana sebagi> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+37892,k,0,gerhana total,dasar,
+,,,,,
+37893,k,3,geria,dasar,
+,,,,,
+37894,k,0,geriak,dasar,
+,,,,,
+37895,k,0,geriak-geriuk,dasar,
+37895.1,v,,<[geriak:geriak-geriuk]>,bentukan,[Reduplication-Rhyming]
+,,,,,
+37896,k,3,geriap,dasar,
+,,,,,
+37897,k,14,geriatri,dasar,
+37897.1,x,,<geriatr> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+37898,v,4,geriatrik,dasar,
+,,,,,
+37899,k,0,geribas,dasar,
+,,,,,
+37900,k,0,geribik,dasar,
+,,,,,
+37901,k,0,gericau,dasar,
+,,,,,
+37902,k,0,geridip,dasar,
+,,,,,
+37903,k,0,geridit pidit,dasar,
+,,,,,
+37904,k,13,gerigi,dasar,
+37904.1,x,,<gerig> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+37905,k,0,gerigik,dasar,
+,,,,,
+37906,v,2,geriginya,dasar,
+37906.1,v,,<gerigi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+37906.2,x,,<gerig> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+37907,k,0,gerigis,dasar,
+37907.1,x,,<gerigi> + [-is:-s],bentukan,[177] [S] -is + (i)
+37907.2,x,,<gerig> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+37908,k,0,gerih,dasar,
+,,,,,
+37909,k,20,gerik,dasar,
+,,,,,
+37910,v,6,geriknya,dasar,
+37910.1,v,,<gerik> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+37911,k,0,geril,dasar,
+,,,,,
+37912,k,102,gerilya,dasar,
+,,,,,
+37913,k,44,gerilyawan,dasar,
+37913.1,x,,<gerilyaw> + -an,bentukan,[38] [S] -an + (<all>)
+37913.2,v,,<gerilya> + -wan,bentukan,[180] [S] -wan + (<others>)
+37913.3,x,,<gerily> + [-wan:-awan],bentukan,[18000001] [S] -wan + (<all>)
+,,,,,
+37914,k,0,gerilyawati,dasar,
+37914.1,x,,<gerilyawat> + -i,bentukan,[28] [S] -i + (<all>)
+37914.2,v,,<gerilya> + -wati,bentukan,[181] [S] -wati + (<all>)
+,,,,,
+37915,k,0,gerim,dasar,
+,,,,,
+37916,k,174,gerimis,dasar,
+37916.1,x,,<gerimi> + [-is:-s],bentukan,[177] [S] -is + (i)
+37916.2,x,,<gerim> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+37917,k,0,gerimis beku,dasar,
+37917.1,x,,<gerimis be> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+37918,v,2,gerimis-gerimis,dasar,
+37918.1,v,,<gerimis> [-] <r>,bentukan,[23] [RD] |
+37918.2,x,,<gerimi> + [-is:-s] [-] <r> + [-is:-s],bentukan,[177] [S] -is + (i) => [23] [RD] |
+37918.3,x,,<gerim> + -is [-] <r> + -is,bentukan,[178] [S] -is + (<others>) => [23] [RD] |
+,,,,,
+37919,k,0,gerincing,dasar,
+,,,,,
+37920,k,6,gerinda,dasar,
+37920.1,x,,<geri> + [-anda:-nda],bentukan,[183] [S] -anda + (i;u;a;[k:])
+,,,,,
+37921,k,0,gerindin,dasar,
+,,,,,
+37922,k,0,gerinding,dasar,
+,,,,,
+37923,k,4,gering,dasar,
+,,,,,
+37924,k,0,gering bersalin,dasar,
+,,,,,
+37925,k,0,gering hulu,dasar,
+,,,,,
+37926,k,0,gering tengah,dasar,
+,,,,,
+37927,k,0,geringging,dasar,
+,,,,,
+37928,k,0,geringgingan,dasar,
+37928.1,v,,<geringging> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+37929,k,0,geringsing,dasar,
+,,,,,
+37930,k,0,gerinjal,dasar,
+,,,,,
+37931,k,0,gerinjam,dasar,
+,,,,,
+37932,k,0,gerinting air,dasar,
+,,,,,
+37933,k,0,gerinyau,dasar,
+,,,,,
+37934,k,0,gerinyut,dasar,
+,,,,,
+37935,k,0,gerip,dasar,
+,,,,,
+37936,k,0,geripir,dasar,
+,,,,,
+37937,k,4,geripis,dasar,
+37937.1,x,,<geripi> + [-is:-s],bentukan,[177] [S] -is + (i)
+37937.2,x,,<gerip> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+37938,k,2,gerisik,dasar,
+,,,,,
+37939,k,0,gerising,dasar,
+,,,,,
+37940,k,0,gerit,dasar,
+,,,,,
+37941,k,0,gerit-gerit,dasar,
+37941.1,v,,<gerit> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+37942,k,0,gerit-gerit putih,dasar,
+,,,,,
+37943,k,0,gerita,dasar,
+,,,,,
+37944,k,0,geritan,dasar,
+37944.1,v,,<gerit> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+37945,k,0,geriuk,dasar,
+,,,,,
+37946,t,3,geriya,dasar,griya
+,,,,,
+37947,k,0,gerlap,dasar,
+,,,,,
+37948,k,0,gerlip,dasar,
+,,,,,
+37949,k,0,germafobia,dasar,
+37949.1,x,,<germa> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+37950,k,0,germang,dasar,
+,,,,,
+37951,k,6,germanium,dasar,
+,,,,,
+37952,k,0,germanofobia,dasar,
+37952.1,x,,<germano> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+37953,k,8,germinal,dasar,
+,,,,,
+37954,k,6,germinasi,dasar,
+37954.1,x,,<germinas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+37955,k,0,germisida,dasar,
+,,,,,
+37956,k,12,germo,dasar,
+,,,,,
+37957,k,0,germut,dasar,
+,,,,,
+37958,k,0,gero,dasar,
+,,,,,
+37959,k,0,geroak,dasar,
+,,,,,
+37960,k,132,gerobak,dasar,
+,,,,,
+37961,k,0,gerobak dorong,dasar,
+,,,,,
+37962,k,0,gerobak lembu,dasar,
+,,,,,
+37963,k,0,gerobak sampah,dasar,
+,,,,,
+37964,k,0,gerobak sorong,dasar,
+,,,,,
+37965,v,2,gerobak-gerobak,dasar,
+37965.1,v,,<gerobak> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+37966,k,2,gerobakan,dasar,
+37966.1,x,,<geroba> + -kan,bentukan,[29] [S] -kan + (<all>)
+37966.2,v,,<gerobak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+37967,v,2,gerobakku,dasar,
+37967.1,v,,<gerobak> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+37968,v,13,gerobaknya,dasar,
+37968.1,v,,<gerobak> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+37969,k,0,gerobok,dasar,
+,,,,,
+37970,k,0,gerobyak,dasar,
+,,,,,
+37971,k,0,gerobyakan,dasar,
+37971.1,x,,<gerobya> + -kan,bentukan,[29] [S] -kan + (<all>)
+37971.2,v,,<gerobyak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+37972,k,0,gerocok,dasar,
+,,,,,
+37973,k,0,geroda,dasar,
+,,,,,
+37974,k,0,gerodak,dasar,
+,,,,,
+37975,t,2,gerogi,dasar,grogi
+37975.1,x,,<gerog> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+37976,k,0,gerogol,dasar,
+,,,,,
+37977,k,0,gerogot,dasar,
+,,,,,
+37978,v,3,gerogoti,dasar,
+37978.1,v,,<gerogot> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+37979,k,0,gerohok,dasar,
+,,,,,
+37980,k,0,gerohong,dasar,
+,,,,,
+37981,k,0,gerojok,dasar,
+,,,,,
+37982,k,0,gerojokan,dasar,
+37982.1,x,,<gerojo> + -kan,bentukan,[29] [S] -kan + (<all>)
+37982.2,v,,<gerojok> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+37983,k,11,gerombol,dasar,
+,,,,,
+37984,k,146,gerombolan,dasar,
+37984.1,v,,<gerombol> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+37985,v,3,gerombolan-gerombolan,dasar,
+37985.1,x,,<gerombolan> [-] <r>,bentukan,[23] [RD] |
+37985.2,v,,<gerombol> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+37986,v,5,gerombolannya,dasar,
+37986.1,x,,<gerombolan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+37986.2,v,,<gerombol> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+37987,k,0,gerombong,dasar,
+,,,,,
+37988,k,0,gerombongan,dasar,
+37988.1,v,,<gerombong> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+37989,k,0,gerompal,dasar,
+,,,,,
+37990,k,0,gerompok,dasar,
+,,,,,
+37991,c,3,gerong,dasar,gerung
+,,,,,
+37992,k,0,geronggang,dasar,
+,,,,,
+37993,k,0,geronggong,dasar,
+,,,,,
+37994,k,0,geronium,dasar,
+,,,,,
+37995,k,0,geronjal,dasar,
+,,,,,
+37996,k,0,gerontang,dasar,
+,,,,,
+37997,k,0,gerontofobia,dasar,
+37997.1,x,,<geronto> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+37998,k,0,gerontokrasi,dasar,
+37998.1,x,,<gerontokras> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+37999,k,0,gerontol,dasar,
+,,,,,
+38000,k,0,gerontologi,dasar,
+38000.1,x,,<gerontolog> + -i,bentukan,[28] [S] -i + (<all>)
+38000.2,x,,<geronto> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+38001,k,0,geronyot,dasar,
+,,,,,
+38002,k,0,geropes,dasar,
+,,,,,
+38003,k,0,geropyok,dasar,
+,,,,,
+38004,k,0,geros,dasar,
+,,,,,
+38005,k,0,gerosak,dasar,
+,,,,,
+38006,k,0,gerot-gerot,dasar,
+38006.1,x,,<gerot> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+38007,k,5,gerowong,dasar,
+,,,,,
+38008,k,0,gerowot,dasar,
+,,,,,
+38009,k,0,gerpuh,dasar,
+,,,,,
+38010,k,0,gerpung,dasar,
+,,,,,
+38011,k,0,gersak,dasar,
+,,,,,
+38012,k,80,gersang,dasar,
+,,,,,
+38013,v,9,gersangnya,dasar,
+38013.1,v,,<gersang> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+38014,c,3,gersik,dasar,kersik
+,,,,,
+38015,k,37,gertak,dasar,
+,,,,,
+38016,k,0,gertak sambal,dasar,
+,,,,,
+38017,k,21,gertakan,dasar,
+38017.1,x,,<gerta> + -kan,bentukan,[29] [S] -kan + (<all>)
+38017.2,v,,<gertak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+38018,v,2,gertakanku,dasar,
+38018.1,x,,<gertakan> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+38018.2,x,,<gerta> + -kan + -ku,bentukan,[29] [S] -kan + (<all>) => [32] [SFS] -ku + (<all>)
+38018.3,v,,<gertak> + -an + -ku,bentukan,[38] [S] -an + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+38019,v,3,gertakannya,dasar,
+38019.1,x,,<gertakan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+38019.2,x,,<gerta> + -kan + -nya,bentukan,[29] [S] -kan + (<all>) => [34] [SFS] -nya + (<all>)
+38019.3,v,,<gertak> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+38020,v,6,gertaknya,dasar,
+38020.1,v,,<gertak> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+38021,k,0,gertap,dasar,
+,,,,,
+38022,k,0,gertik,dasar,
+,,,,,
+38023,k,0,gertuk,dasar,
+,,,,,
+38024,k,0,geru,dasar,
+,,,,,
+38025,k,0,geruah,dasar,
+,,,,,
+38026,k,0,gerubuk,dasar,
+,,,,,
+38027,d,0,geruduk,dasar,
+,,,,,
+38028,k,0,gerugul,dasar,
+,,,,,
+38029,k,0,gerugut,dasar,
+,,,,,
+38030,k,0,geruh,dasar,
+,,,,,
+38031,k,0,geruh-gerah,dasar,
+38031.1,v,,<[geruh:geruh-gerah]>,bentukan,[Reduplication-Rhyming]
+,,,,,
+38032,k,0,geruit,dasar,
+,,,,,
+38033,k,0,gerumit,dasar,
+,,,,,
+38034,k,0,gerumpung,dasar,
+,,,,,
+38035,k,0,gerumuk,dasar,
+,,,,,
+38036,k,0,gerumut,dasar,
+,,,,,
+38037,k,0,gerun,dasar,
+,,,,,
+38038,k,0,gerundang,dasar,
+,,,,,
+38039,k,0,gerundel,dasar,
+,,,,,
+38040,k,15,gerung,dasar,
+,,,,,
+38041,v,6,gerungan,dasar,
+38041.1,v,,<gerung> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+38042,k,0,gerunggung,dasar,
+,,,,,
+38043,k,0,gerunyam,dasar,
+,,,,,
+38044,k,2,gerup,dasar,
+,,,,,
+38045,k,0,gerupis,dasar,
+38045.1,x,,<gerupi> + [-is:-s],bentukan,[177] [S] -is + (i)
+38045.2,x,,<gerup> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+38046,k,2,gerupuk,dasar,
+,,,,,
+38047,k,2,gerus,dasar,
+,,,,,
+38048,k,14,gerusan,dasar,
+38048.1,v,,<gerus> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+38049,k,0,gerut,dasar,
+,,,,,
+38050,k,59,gerutu,dasar,
+,,,,,
+38051,v,12,gerutuan,dasar,
+38051.1,v,,<gerutu> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+38052,v,3,gerutuannya,dasar,
+38052.1,x,,<gerutuan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+38052.2,v,,<gerutu> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+38053,v,5,gerutuku,dasar,
+38053.1,v,,<gerutu> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+38054,v,11,gerutunya,dasar,
+38054.1,v,,<gerutu> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+38055,k,0,gerutup,dasar,
+,,,,,
+38056,k,0,gerutus,dasar,
+,,,,,
+38057,k,3,gesa,dasar,
+,,,,,
+38058,k,0,gesaan,dasar,
+38058.1,v,,<gesa> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+38059,k,0,gesau,dasar,
+,,,,,
+38060,k,32,gesek,dasar,
+,,,,,
+38061,k,177,gesekan,dasar,
+38061.1,x,,<gese> + -kan,bentukan,[29] [S] -kan + (<all>)
+38061.2,v,,<gesek> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+38062,v,16,gesekan-gesekan,dasar,
+38062.1,x,,<gesekan> [-] <r>,bentukan,[23] [RD] |
+38062.2,x,,<gese> + -kan [-] <r> + -kan,bentukan,[29] [S] -kan + (<all>) => [23] [RD] |
+38062.3,v,,<gesek> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+38063,v,4,gesekannya,dasar,
+38063.1,x,,<gesekan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+38063.2,x,,<gese> + -kan + -nya,bentukan,[29] [S] -kan + (<all>) => [34] [SFS] -nya + (<all>)
+38063.3,v,,<gesek> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+38064,v,2,gesekkan,dasar,
+38064.1,v,,<gesek> + -kan,bentukan,[29] [S] -kan + (<all>)
+38064.2,x,,<gesekk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+38065,v,4,geseknya,dasar,
+38065.1,v,,<gesek> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+38066,k,0,gesel,dasar,
+,,,,,
+38067,k,109,geser,dasar,
+,,,,,
+38068,k,0,geser angin,dasar,
+,,,,,
+38069,k,0,geser angin horizontal,dasar,
+,,,,,
+38070,k,12,geseran,dasar,
+38070.1,v,,<geser> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+38071,k,127,gesit,dasar,
+,,,,,
+38072,v,2,gesit-gesit,dasar,
+38072.1,v,,<gesit> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+38073,v,8,gesitnya,dasar,
+38073.1,v,,<gesit> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+38074,k,3,gesper,dasar,
+,,,,,
+38075,v,4,gestasi,dasar,
+38075.1,x,,<gestas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+38076,k,0,gestasio,dasar,
+,,,,,
+38077,k,0,gestikulasi,dasar,
+38077.1,x,,<gestikulas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+38078,k,0,gestosis,dasar,
+38078.1,x,,<gestosi> + [-is:-s],bentukan,[177] [S] -is + (i)
+38078.2,x,,<gestos> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+38079,k,52,gestur,dasar,
+,,,,,
+38080,v,4,gesturnya,dasar,
+38080.1,v,,<gestur> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+38081,k,2,geta,dasar,
+,,,,,
+38082,k,0,geta peraduan,dasar,
+38082.1,x,,<geta peradu> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+38083,k,102,getah,dasar,
+,,,,,
+38084,k,0,getah bening,dasar,
+,,,,,
+38085,k,0,getah cerna,dasar,
+,,,,,
+38086,k,0,getah keping,dasar,
+,,,,,
+38087,k,0,getah lambung,dasar,
+,,,,,
+38088,k,0,getah manggis,dasar,
+38088.1,x,,<getah manggi> + [-is:-s],bentukan,[177] [S] -is + (i)
+38088.2,x,,<getah mangg> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+38089,k,0,getah padu,dasar,
+,,,,,
+38090,k,0,getah pankreas,dasar,
+,,,,,
+38091,k,0,getah perca,dasar,
+,,,,,
+38092,k,0,getah pinus,dasar,
+,,,,,
+38093,k,0,getah purwa,dasar,
+,,,,,
+38094,k,0,getah susu,dasar,
+,,,,,
+38095,k,0,getah terap,dasar,
+,,,,,
+38096,k,0,getah upil,dasar,
+,,,,,
+38097,v,4,getah-getah,dasar,
+38097.1,v,,<getah> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+38098,v,28,getahnya,dasar,
+38098.1,v,,<getah> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+38099,k,0,getak-getuk,dasar,
+38099.1,v,,<[getuk:getak-getuk]>,bentukan,[Reduplication-Rhyming]
+,,,,,
+38100,k,0,getang,dasar,
+,,,,,
+38101,k,0,getap,dasar,
+,,,,,
+38102,k,0,getapan,dasar,
+38102.1,v,,<getap> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+38103,k,86,getar,dasar,
+,,,,,
+38104,v,4,getar-getar,dasar,
+38104.1,v,,<getar> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+38105,k,188,getaran,dasar,
+38105.1,v,,<getar> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+38106,v,9,getaran-getaran,dasar,
+38106.1,x,,<getaran> [-] <r>,bentukan,[23] [RD] |
+38106.2,v,,<getar> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+38107,v,14,getarannya,dasar,
+38107.1,x,,<getaran> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+38107.2,v,,<getar> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+38108,v,6,getarkan,dasar,
+38108.1,v,,<getar> + -kan,bentukan,[29] [S] -kan + (<all>)
+38108.2,x,,<getark> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+38109,v,2,getarnya,dasar,
+38109.1,v,,<getar> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+38110,k,18,getas,dasar,
+,,,,,
+38111,v,3,getasan,dasar,
+38111.1,v,,<getas> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+38112,k,0,geteh-geteh,dasar,
+38112.1,x,,<geteh> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+38113,k,9,getek,dasar,
+,,,,,
+38114,k,0,getem-getem,dasar,
+38114.1,x,,<getem> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+38115,k,0,geti,dasar,
+38115.1,x,,<get> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+38116,k,3,getih,dasar,
+,,,,,
+38117,k,0,getik,dasar,
+,,,,,
+38118,k,0,getil,dasar,
+,,,,,
+38119,c,112,getir,dasar,getil
+,,,,,
+38120,t,13,getirnya,dasar,getilnya
+38120.1,v,,<getir> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+38121,k,0,getis,dasar,
+38121.1,x,,<geti> + [-is:-s],bentukan,[177] [S] -is + (i)
+38121.2,x,,<get> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+38122,k,5,getok,dasar,
+,,,,,
+38123,k,0,getok tular,dasar,
+,,,,,
+38124,k,75,getol,dasar,
+,,,,,
+38125,k,0,getol bicara,dasar,
+,,,,,
+38126,k,0,getu,dasar,
+,,,,,
+38127,k,8,getuk,dasar,
+,,,,,
+38128,k,0,getuk lindri,dasar,
+38128.1,x,,<getuk lindr> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+38129,k,0,getuk pisang,dasar,
+,,,,,
+38130,k,0,getun,dasar,
+,,,,,
+38131,k,11,geulis,dasar,
+38131.1,x,,<geuli> + [-is:-s],bentukan,[177] [S] -is + (i)
+38131.2,x,,<geul> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+38132,c,2,gewang,dasar,giwang
+,,,,,
+38133,k,0,geweng,dasar,
+,,,,,
+38134,k,0,gewor,dasar,
+,,,,,
+38135,k,0,geyser,dasar,
+,,,,,
+38136,c,22,ghaib,dasar,gaib
+,,,,,
+38137,k,50,ghana,dasar,
+,,,,,
+38138,k,0,ghoib,dasar,
+,,,,,
+38139,k,73,gi,dasar,
+38139.1,x,,<g> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+38140,k,0,gial,dasar,
+,,,,,
+38141,k,0,gial-gial,dasar,
+38141.1,v,,<gial> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+38142,k,0,gial-giul,dasar,
+38142.1,v,,<[gial:gial-giul]>,bentukan,[Reduplication-Rhyming]
+,,,,,
+38143,k,0,giam,dasar,
+,,,,,
+38144,k,79,gianyar,dasar,
+,,,,,
+38145,k,247,giat,dasar,
+,,,,,
+38146,k,0,giat malam,dasar,
+,,,,,
+38147,k,0,giat musim dingin,dasar,
+,,,,,
+38148,k,0,giat musim gugur,dasar,
+,,,,,
+38149,k,0,giat musim panas,dasar,
+,,,,,
+38150,k,0,giat musim semi,dasar,
+38150.1,x,,<giat musim sem> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+38151,k,0,giat pagi,dasar,
+38151.1,x,,<giat pag> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+38152,k,0,giat petang,dasar,
+,,,,,
+38153,k,0,giat senja,dasar,
+,,,,,
+38154,k,0,giat siang,dasar,
+,,,,,
+38155,v,9,giat-giatnya,dasar,
+38155.1,v,,<giat> [-] <r> + -nya,bentukan,[23] [RD] |
+38155.2,v,,<giat> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+38156,v,7,giatan,dasar,
+38156.1,v,,<giat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+38157,v,4,giatkan,dasar,
+38157.1,v,,<giat> + -kan,bentukan,[29] [S] -kan + (<all>)
+38157.2,x,,<giatk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+38158,v,2,giatlah,dasar,
+38158.1,v,,<giat> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+38159,v,8,giatnya,dasar,
+38159.1,v,,<giat> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+38160,k,0,giba,dasar,
+,,,,,
+38161,k,4,gibah,dasar,
+,,,,,
+38162,k,0,gibang,dasar,
+,,,,,
+38163,k,0,gibas,dasar,
+,,,,,
+38164,k,0,giblet,dasar,
+,,,,,
+38165,k,0,gibsit,dasar,
+,,,,,
+38166,k,0,gibtah,dasar,
+,,,,,
+38167,k,0,gibung,dasar,
+,,,,,
+38168,k,0,gica,dasar,
+,,,,,
+38169,k,0,gidik,dasar,
+,,,,,
+38170,k,0,giduh,dasar,
+,,,,,
+38171,k,3,gigabita,dasar,
+,,,,,
+38172,k,0,gigabita per detik,dasar,
+,,,,,
+38173,k,0,gigahertz,dasar,
+,,,,,
+38174,k,0,gigaku,dasar,
+38174.1,x,,<giga> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+38175,k,0,gigan,dasar,
+38175.1,x,,<gig> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+38176,k,3,gigantik,dasar,
+,,,,,
+38177,v,2,gigantiknya,dasar,
+38177.1,v,,<gigantik> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+38178,k,4,gigantis,dasar,
+38178.1,x,,<giganti> + [-is:-s],bentukan,[177] [S] -is + (i)
+38178.2,x,,<gigant> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+38179,k,0,gigantisme,dasar,
+38179.1,x,,<gigant> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+38180,k,0,gigantisme abisal,dasar,
+,,,,,
+38181,k,6,gigawatt,dasar,
+,,,,,
+38182,k,768,gigi,dasar,
+38182.1,x,,<gig> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+38183,k,0,gigi air,dasar,
+,,,,,
+38184,k,0,gigi asu,dasar,
+,,,,,
+38185,k,0,gigi bungsu,dasar,
+,,,,,
+38186,k,0,gigi busuk,dasar,
+,,,,,
+38187,k,0,gigi cekat,dasar,
+,,,,,
+38188,d,0,gigi geligi,dasar,
+38188.1,x,,<gigi gelig> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+38189,k,0,gigi gergaji,dasar,
+38189.1,x,,<gigi gergaj> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+38190,k,0,gigi hutan,dasar,
+38190.1,x,,<gigi hut> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+38191,k,0,gigi kapak,dasar,
+,,,,,
+38192,k,0,gigi laut,dasar,
+,,,,,
+38193,k,0,gigi mati,dasar,
+38193.1,x,,<gigi mat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+38194,k,0,gigi nonvitral,dasar,
+,,,,,
+38195,k,0,gigi palsu,dasar,
+,,,,,
+38196,k,0,gigi seri,dasar,
+38196.1,x,,<gigi ser> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+38197,k,0,gigi sulung,dasar,
+,,,,,
+38198,k,0,gigi sumbi,dasar,
+38198.1,x,,<gigi sumb> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+38199,k,0,gigi susu,dasar,
+,,,,,
+38200,k,0,gigi telur,dasar,
+,,,,,
+38201,v,22,gigi-gigi,dasar,
+38201.1,v,,<gigi> [-] <r>,bentukan,[23] [RD] |
+38201.2,x,,<gig> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+38202,v,3,gigi-gigiku,dasar,
+38202.1,x,,<gigi-gigi> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+38202.2,v,,<gigi> [-] <r> + -ku,bentukan,[23] [RD] | => [32] [SFS] -ku + (<all>)
+38202.3,x,,<gig> + -i [-] <r> + -i + -ku,bentukan,[28] [S] -i + (<all>) => [23] [RD] | => [32] [SFS] -ku + (<all>)
+,,,,,
+38203,v,18,gigi-giginya,dasar,
+38203.1,v,,<gigi> [-] <r> + -nya,bentukan,[23] [RD] |
+38203.2,x,,<gig> + -i [-] <r> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+38203.3,v,,<gigi> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+38203.4,x,,<gig> + -i [-] <r> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+38204,k,177,gigih,dasar,
+,,,,,
+38205,v,14,gigiku,dasar,
+38205.1,v,,<gigi> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+38205.2,x,,<gig> + -i + -ku,bentukan,[28] [S] -i + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+38206,k,36,gigil,dasar,
+,,,,,
+38207,v,4,gigilan,dasar,
+38207.1,v,,<gigil> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+38208,v,12,gigimu,dasar,
+38208.1,v,,<gigi> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+38208.2,x,,<gig> + -i + -mu,bentukan,[28] [S] -i + (<all>) => [33] [SFS] -mu + (<all>)
+,,,,,
+38209,v,127,giginya,dasar,
+38209.1,v,,<gigi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+38209.2,x,,<gig> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+38210,k,0,giginyaru,dasar,
+,,,,,
+38211,c,3,gigir,dasar,gigil
+,,,,,
+38212,k,0,gigir gunung,dasar,
+,,,,,
+38213,k,0,gigiran,dasar,
+38213.1,x,,<gigir> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+38214,k,0,gigis,dasar,
+38214.1,x,,<gigi> + [-is:-s],bentukan,[177] [S] -is + (i)
+38214.2,x,,<gig> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+38215,k,66,gigit,dasar,
+,,,,,
+38216,k,0,gigit jari,dasar,
+38216.1,x,,<gigit jar> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+38217,k,0,gigit lidah,dasar,
+,,,,,
+38218,k,105,gigitan,dasar,
+38218.1,v,,<gigit> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+38219,v,2,gigitan-gigitan,dasar,
+38219.1,x,,<gigitan> [-] <r>,bentukan,[23] [RD] |
+38219.2,v,,<gigit> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+38220,v,9,gigitannya,dasar,
+38220.1,x,,<gigitan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+38220.2,v,,<gigit> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+38221,k,7,gigolo,dasar,
+,,,,,
+38222,v,2,gigolonya,dasar,
+38222.1,v,,<gigolo> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+38223,k,0,gigu,dasar,
+,,,,,
+38224,k,538,gila,dasar,
+,,,,,
+38225,k,0,gila alkohol,dasar,
+,,,,,
+38226,k,0,gila anjing,dasar,
+,,,,,
+38227,k,0,gila api,dasar,
+38227.1,x,,<gila ap> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+38228,k,0,gila babi,dasar,
+38228.1,x,,<gila bab> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+38229,k,0,gila bayang-bayang,dasar,
+,,,,,
+38230,k,0,gila belanja,dasar,
+,,,,,
+38231,k,0,gila bola,dasar,
+,,,,,
+38232,k,0,gila harta,dasar,
+,,,,,
+38233,k,0,gila hormat,dasar,
+,,,,,
+38234,k,0,gila pangkat,dasar,
+,,,,,
+38235,k,0,gila perempuan,dasar,
+38235.1,x,,<gila perempu> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+38236,k,0,gila renang,dasar,
+,,,,,
+38237,k,0,gila sasar,dasar,
+,,,,,
+38238,k,0,gila uang,dasar,
+,,,,,
+38239,k,2,gila-gila,dasar,
+38239.1,v,,<gila> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+38240,k,0,gila-gila air,dasar,
+,,,,,
+38241,k,0,gila-gila bahasa,dasar,
+,,,,,
+38242,k,32,gila-gilaan,dasar,
+38242.1,v,,<gila> [-] <r> + -an,bentukan,[23] [RD] |
+,,,,,
+38243,v,2,gila-gilanya,dasar,
+38243.1,v,,<gila> [-] <r> + -nya,bentukan,[23] [RD] |
+38243.2,v,,<gila> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+38244,v,4,gilakah,dasar,
+38244.1,v,,<gila> + -kah,bentukan,[30] [FS] -kah + (<all>)
+,,,,,
+38245,v,3,gilaku,dasar,
+38245.1,v,,<gila> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+38246,v,3,gilamu,dasar,
+38246.1,v,,<gila> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+,,,,,
+38247,k,35,gilang,dasar,
+,,,,,
+38248,k,17,gilang-gemilang,dasar,
+38248.1,v,,<[gilang:gilang-gemilang]>,bentukan,[Reduplication-Infix]
+,,,,,
+38249,v,35,gilanya,dasar,
+38249.1,v,,<gila> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+38250,k,0,gilap,dasar,
+,,,,,
+38251,k,0,gilap-gemilap,dasar,
+38251.1,v,,<[gilap:gilap-gemilap]>,bentukan,[Reduplication-Infix]
+,,,,,
+38252,k,0,gilapan,dasar,
+38252.1,x,,<gilap> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+38253,k,8,gilas,dasar,
+,,,,,
+38254,k,2,gilasan,dasar,
+38254.1,v,,<gilas> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+38255,k,2,gilda,dasar,
+,,,,,
+38256,k,0,gilgai,dasar,
+38256.1,x,,<gilga> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+38257,k,21,gili,dasar,
+38257.1,x,,<gil> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+38258,k,4,gili-gili,dasar,
+38258.1,v,,<gili> [-] <r>,bentukan,[23] [RD] |
+38258.2,x,,<gil> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+38259,k,0,gilian,dasar,
+38259.1,v,,<gili> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+38260,k,2,gilik,dasar,
+,,,,,
+38261,k,80,giling,dasar,
+,,,,,
+38262,k,0,giling-giling,dasar,
+38262.1,v,,<giling> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+38263,k,15,gilingan,dasar,
+38263.1,v,,<giling> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+38264,k,6,gilir,dasar,
+,,,,,
+38265,k,0,gilir balik,dasar,
+,,,,,
+38266,k,0,gilir-bergilir,dasar,
+38266.1,v,,<gilir> [-] ber- + <r>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya) => [52] [RD] |ber-
+,,,,,
+38267,k,448,giliran,dasar,
+38267.1,v,,<gilir> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+38268,k,0,giliran pukulan,dasar,
+38268.1,x,,<giliran pukul> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+38269,v,35,giliranku,dasar,
+38269.1,x,,<giliran> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+38269.2,v,,<gilir> + -an + -ku,bentukan,[38] [S] -an + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+38270,v,16,giliranmu,dasar,
+38270.1,x,,<giliran> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+38270.2,v,,<gilir> + -an + -mu,bentukan,[38] [S] -an + (<all>) => [33] [SFS] -mu + (<all>)
+,,,,,
+38271,v,335,gilirannya,dasar,
+38271.1,x,,<giliran> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+38271.2,v,,<gilir> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+38272,k,138,gim,dasar,
+,,,,,
+38273,k,0,gim penentuan,dasar,
+38273.1,x,,<gim penentu> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+38274,k,0,gim video,dasar,
+,,,,,
+38275,v,3,gim-gim,dasar,
+38275.1,v,,<gim> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+38276,t,321,gimana,dasar,bagaimana
+,,,,,
+38277,t,2,gimana-gimana,dasar,
+38277.1,v,,<gimana> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+38278,k,24,gimbal,dasar,
+,,,,,
+38279,v,4,gimbalnya,dasar,
+38279.1,v,,<gimbal> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+38280,k,0,gimbang,dasar,
+,,,,,
+38281,k,0,gimik,dasar,
+,,,,,
+38282,k,0,gimnasium,dasar,
+,,,,,
+38283,k,2,gimnastik,dasar,
+,,,,,
+38284,k,0,gimnospermae,dasar,
+,,,,,
+38285,k,0,gimong,dasar,
+,,,,,
+38286,k,0,gimpa,dasar,
+,,,,,
+38287,k,0,gimpal,dasar,
+,,,,,
+38288,k,3,gin,dasar,
+,,,,,
+38289,k,29,gina,dasar,
+,,,,,
+38290,k,0,ginang,dasar,
+,,,,,
+38291,k,0,ginang-ginang,dasar,
+38291.1,v,,<ginang> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+38292,k,35,gincu,dasar,
+,,,,,
+38293,v,4,gincunya,dasar,
+38293.1,v,,<gincu> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+38294,k,2,ginding,dasar,
+,,,,,
+38295,t,7,gindo,dasar,
+,,,,,
+38296,k,0,gindul,dasar,
+,,,,,
+38297,k,0,ginefobia,dasar,
+38297.1,x,,<gine> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+38298,k,0,ginek,dasar,
+,,,,,
+38299,k,9,ginekolog,dasar,
+,,,,,
+38300,k,46,ginekologi,dasar,
+38300.1,x,,<ginekolog> + -i,bentukan,[28] [S] -i + (<all>)
+38300.2,x,,<gineko> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+38301,t,3,ginekologis,dasar,ginekologi
+38301.1,v,,<ginekologi> + [-is:-s],bentukan,[177] [S] -is + (i)
+38301.2,x,,<ginekolog> + -is,bentukan,[178] [S] -is + (<others>)
+38301.3,x,,<gineko> + -logi+-s,bentukan,[194] [MS] -logi+-s + (<all>)
+,,,,,
+38302,k,0,ginekomasti,dasar,
+38302.1,x,,<ginekomast> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+38303,k,0,ginekomastia,dasar,
+,,,,,
+38304,k,0,ginem,dasar,
+,,,,,
+38305,k,0,ginesium,dasar,
+,,,,,
+38306,k,0,ginggang,dasar,
+,,,,,
+38307,k,0,ginggung,dasar,
+,,,,,
+38308,k,0,gingivitis,dasar,
+38308.1,x,,<gingiviti> + [-is:-s],bentukan,[177] [S] -is + (i)
+38308.2,x,,<gingivit> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+38309,k,0,ginglimus,dasar,
+,,,,,
+38310,k,0,gingor,dasar,
+,,,,,
+38311,t,15,gingseng,dasar,ginseng
+,,,,,
+38312,k,0,gingsi,dasar,
+38312.1,x,,<gings> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+38313,k,0,gingsir,dasar,
+,,,,,
+38314,k,7,gingsul,dasar,
+,,,,,
+38315,v,3,gingsulnya,dasar,
+38315.1,v,,<gingsul> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+38316,c,203,gini,dasar,
+38316.1,x,,<gin> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+38317,t,17,gini-gini,dasar,
+38317.1,v,,<gini> [-] <r>,bentukan,[23] [RD] |
+38317.2,x,,<gin> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+38318,k,279,ginjal,dasar,
+,,,,,
+38319,v,22,ginjalnya,dasar,
+38319.1,v,,<ginjal> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+38320,k,0,ginje,dasar,
+,,,,,
+38321,k,0,ginjeran,dasar,
+38321.1,x,,<ginjer> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+38322,k,0,ginkang,dasar,
+,,,,,
+38323,k,0,ginofobia,dasar,
+38323.1,x,,<gino> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+38324,k,0,ginofor,dasar,
+,,,,,
+38325,k,0,ginogenesis,dasar,
+38325.1,x,,<ginogenesi> + [-is:-s],bentukan,[177] [S] -is + (i)
+38325.2,x,,<ginogenes> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+38326,k,0,ginoti,dasar,
+38326.1,x,,<ginot> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+38327,k,41,ginseng,dasar,
+,,,,,
+38328,k,0,gintir,dasar,
+,,,,,
+38329,k,0,gintiran,dasar,
+38329.1,v,,<gintir> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+38330,k,0,ginto,dasar,
+,,,,,
+38331,k,5,gintung,dasar,
+,,,,,
+38332,k,0,ginyol,dasar,
+,,,,,
+38333,k,31,giok,dasar,
+,,,,,
+38334,k,14,gips,dasar,
+,,,,,
+38335,k,0,gipsan,dasar,
+38335.1,x,,<gips> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+38336,k,0,gipsi,dasar,
+38336.1,x,,<gips> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+38337,k,11,gipsum,dasar,
+,,,,,
+38338,k,7,gir,dasar,
+,,,,,
+38339,k,0,girah,dasar,
+,,,,,
+38340,k,5,giral,dasar,
+,,,,,
+38341,k,141,girang,dasar,
+,,,,,
+38342,k,0,girang hati,dasar,
+38342.1,x,,<girang hat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+38343,v,8,girangnya,dasar,
+38343.1,v,,<girang> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+38344,k,0,girap-girap,dasar,
+38344.1,x,,<girap> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+38345,k,3,giras,dasar,
+,,,,,
+38346,k,0,girasol,dasar,
+,,,,,
+38347,k,54,giri,dasar,
+38347.1,x,,<gir> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+38348,k,10,girik,dasar,
+,,,,,
+38349,k,0,girik-girik,dasar,
+38349.1,v,,<girik> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+38350,k,0,girikan,dasar,
+38350.1,x,,<giri> + -kan,bentukan,[29] [S] -kan + (<all>)
+38350.2,v,,<girik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+38351,k,0,girilaya,dasar,
+,,,,,
+38352,k,24,giring,dasar,
+,,,,,
+38353,k,5,giring-giring,dasar,
+38353.1,v,,<giring> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+38354,k,4,giris,dasar,
+38354.1,x,,<giri> + [-is:-s],bentukan,[177] [S] -is + (i)
+38354.2,x,,<gir> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+38355,k,0,giriwarsa,dasar,
+,,,,,
+38356,k,377,giro,dasar,
+,,,,,
+38357,k,0,giro bilyet,dasar,
+,,,,,
+38358,k,0,giro pos,dasar,
+,,,,,
+38359,k,0,girodinamika,dasar,
+,,,,,
+38360,k,0,girokompas,dasar,
+,,,,,
+38361,v,9,gironya,dasar,
+38361.1,v,,<giro> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+38362,k,0,giroskop,dasar,
+,,,,,
+38363,k,0,girostat,dasar,
+,,,,,
+38364,k,0,girostatika,dasar,
+,,,,,
+38365,k,0,girus,dasar,
+,,,,,
+38366,k,0,gisar,dasar,
+,,,,,
+38367,c,3,gisi,dasar,gizi
+38367.1,x,,<gis> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+38368,k,0,gisiamo,dasar,
+,,,,,
+38369,k,0,gisik,dasar,
+,,,,,
+38370,k,0,gisik pantai,dasar,
+38370.1,x,,<gisik panta> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+38371,k,0,gisil,dasar,
+,,,,,
+38372,k,100,gita,dasar,
+,,,,,
+38373,k,0,gita puja,dasar,
+,,,,,
+38374,k,0,gitaan,dasar,
+38374.1,v,,<gita> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+38375,k,0,gitapati,dasar,
+38375.1,x,,<gitapat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+38376,k,123,gitar,dasar,
+,,,,,
+38377,k,0,gitar akustik,dasar,
+,,,,,
+38378,k,0,gitar bas,dasar,
+,,,,,
+38379,k,0,gitar listrik,dasar,
+,,,,,
+38380,k,0,gitar melodi,dasar,
+38380.1,x,,<gitar melod> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+38381,k,0,gitar resofonik,dasar,
+,,,,,
+38382,k,0,gitar resonator,dasar,
+,,,,,
+38383,v,4,gitar-gitar,dasar,
+38383.1,v,,<gitar> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+38384,v,2,gitar-gitaran,dasar,
+38384.1,v,,<gitar> [-] <r> + -an,bentukan,[23] [RD] |
+,,,,,
+38385,k,17,gitaris,dasar,
+38385.1,x,,<gitari> + [-is:-s],bentukan,[177] [S] -is + (i)
+38385.2,v,,<gitar> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+38386,v,2,gitarku,dasar,
+38386.1,v,,<gitar> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+38387,v,16,gitarnya,dasar,
+38387.1,v,,<gitar> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+38388,k,0,gites,dasar,
+,,,,,
+38389,k,0,gitik,dasar,
+,,,,,
+38390,k,0,giting,dasar,
+,,,,,
+38391,k,0,gitir,dasar,
+,,,,,
+38392,k,0,gitok,dasar,
+,,,,,
+38393,c,337,gitu,dasar,begitu
+,,,,,
+38394,t,18,gitu-gitu,dasar,
+38394.1,v,,<gitu> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+38395,t,2,gitu-gituan,dasar,
+38395.1,v,,<gitu> [-] <r> + -an,bentukan,[23] [RD] |
+,,,,,
+38396,t,6,gituan,dasar,
+38396.1,v,,<gitu> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+38397,t,7,gitulah,dasar,
+38397.1,v,,<gitu> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+38398,k,0,giuk,dasar,
+,,,,,
+38399,k,0,giung,dasar,
+,,,,,
+38400,k,0,giur,dasar,
+,,,,,
+38401,k,7,giwang,dasar,
+,,,,,
+38402,k,659,gizi,dasar,
+38402.1,x,,<giz> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+38403,k,0,gizi bayi,dasar,
+38403.1,x,,<gizi bay> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+38404,k,0,gizi buruk,dasar,
+,,,,,
+38405,k,0,gizi klinis,dasar,
+38405.1,x,,<gizi klini> + [-is:-s],bentukan,[177] [S] -is + (i)
+38405.2,x,,<gizi klin> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+38406,k,0,gizi makro,dasar,
+,,,,,
+38407,k,0,gizi mikro,dasar,
+,,,,,
+38408,k,0,gizi olahraga,dasar,
+,,,,,
+38409,k,0,gizi personal,dasar,
+,,,,,
+38410,k,0,gizi salah,dasar,
+38410.1,x,,<gizi sa> + -lah,bentukan,[31] [FS] -lah + (<all>)

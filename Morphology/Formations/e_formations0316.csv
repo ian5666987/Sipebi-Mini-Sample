@@ -1,0 +1,1672 @@
+Nomor,KP,Jumlah,Entri,Tipe,Pembentukan
+117474,k,0,sistem moneter,dasar,
+,,,,,
+117475,k,0,sistem navigasi satelit,dasar,
+,,,,,
+117476,k,0,sistem noken,dasar,
+,,,,,
+117477,k,0,sistem olah data,dasar,
+,,,,,
+117478,k,0,sistem operasi diska,dasar,
+,,,,,
+117479,k,0,sistem order pertama,dasar,
+,,,,,
+117480,k,0,sistem pakar,dasar,
+,,,,,
+117481,k,0,sistem partai tunggal,dasar,
+,,,,,
+117482,k,0,sistem pelumasan,dasar,
+117482.1,x,,<sistem pelumas> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+117483,k,0,sistem pencernaan,dasar,
+117483.1,x,,<sistem pencerna> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+117484,k,0,sistem pendengaran,dasar,
+117484.1,x,,<sistem pendengar> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+117485,k,0,sistem pendidikan,dasar,
+117485.1,x,,<sistem pendidi> + -kan,bentukan,[29] [S] -kan + (<all>)
+117485.2,x,,<sistem pendidik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+117486,k,0,sistem pengantar iontoforetik,dasar,
+,,,,,
+117487,k,0,sistem pengarsipan,dasar,
+117487.1,x,,<sistem pengarsip> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+117488,k,0,sistem penjajaran,dasar,
+117488.1,x,,<sistem penjajar> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+117489,k,0,sistem penyembuhan suai-budaya,dasar,
+,,,,,
+117490,k,0,sistem peringatan dini,dasar,
+117490.1,x,,<sistem peringatan din> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+117491,k,0,sistem perkawinan,dasar,
+117491.1,x,,<sistem perkawin> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+117492,k,0,sistem persetujuan pembayaran awal,dasar,
+,,,,,
+117493,k,0,sistem perwakilan seimbang,dasar,
+,,,,,
+117494,k,0,sistem polder,dasar,
+,,,,,
+117495,k,0,sistem roda gigi,dasar,
+117495.1,x,,<sistem roda gig> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+117496,k,0,sistem rujukan,dasar,
+117496.1,x,,<sistem ruju> + -kan,bentukan,[29] [S] -kan + (<all>)
+117496.2,v,,<sistem rujuk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+117497,k,0,sistem sapaan,dasar,
+117497.1,v,,<sistem sapa> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+117498,k,0,sistem saraf,dasar,
+,,,,,
+117499,k,0,sistem saraf otonomik,dasar,
+,,,,,
+117500,k,0,sistem saraf parasimpatetik,dasar,
+,,,,,
+117501,k,0,sistem saraf periferal,dasar,
+,,,,,
+117502,k,0,sistem saraf pusat,dasar,
+,,,,,
+117503,k,0,sistem saraf simpatetik,dasar,
+,,,,,
+117504,k,0,sistem satu partai dominan,dasar,
+117504.1,x,,<sistem satu partai domin> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+117505,k,0,sistem senioritas,dasar,
+117505.1,v,,<sistem senior> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+117506,k,0,sistem sentuhan,dasar,
+117506.1,v,,<sistem sentuh> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+117507,k,0,sistem setengah tertutup,dasar,
+,,,,,
+117508,k,0,sistem solar,dasar,
+,,,,,
+117509,k,0,sistem sosial,dasar,
+,,,,,
+117510,k,0,sistem sumbu,dasar,
+,,,,,
+117511,k,0,sistem terbuka,dasar,
+,,,,,
+117512,k,0,sistem tertutup,dasar,
+,,,,,
+117513,k,0,sistem tuas,dasar,
+,,,,,
+117514,k,0,sistem uang muka dan tunggakan,dasar,
+117514.1,x,,<sistem uang muka dan tungga> + -kan,bentukan,[29] [S] -kan + (<all>)
+117514.2,x,,<sistem uang muka dan tunggak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+117515,k,0,sistem visual,dasar,
+,,,,,
+117516,k,0,sistem visual fokus,dasar,
+,,,,,
+117517,k,0,sistem visual ruang,dasar,
+,,,,,
+117518,v,47,sistem-sistem,dasar,
+117518.1,v,,<sistem> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+117519,v,2,sistemastis,dasar,
+117519.1,x,,<sistemasti> + [-is:-s],bentukan,[177] [S] -is + (i)
+117519.2,x,,<sistemast> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+117520,k,132,sistematik,dasar,
+,,,,,
+117521,k,214,sistematika,dasar,
+,,,,,
+117522,v,6,sistematikanya,dasar,
+117522.1,v,,<sistematika> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+117523,k,766,sistematis,dasar,
+117523.1,x,,<sistemati> + [-is:-s],bentukan,[177] [S] -is + (i)
+117523.2,x,,<sistemat> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+117524,k,11,sistematisasi,dasar,
+117524.1,x,,<sistematisas> + -i,bentukan,[28] [S] -i + (<all>)
+117524.2,x,,<sistemati> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+117524.3,x,,<sistematis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+117524.4,x,,<sistemat> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+117525,d,0,sistemik,dasar,
+,,,,,
+117526,k,0,sistemis,dasar,
+117526.1,x,,<sistemi> + [-is:-s],bentukan,[177] [S] -is + (i)
+117526.2,x,,<sistem> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+117527,k,0,sistemisasi,dasar,
+117527.1,x,,<sistemisas> + -i,bentukan,[28] [S] -i + (<all>)
+117527.2,x,,<sistemi> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+117527.3,x,,<sistemis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+117527.4,v,,<sistem> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+117528,k,0,sisterna,dasar,
+,,,,,
+117529,k,0,sistim,dasar,
+,,,,,
+117530,k,0,sistin,dasar,
+,,,,,
+117531,k,0,sistina,dasar,
+,,,,,
+117532,k,0,sistitis,dasar,
+117532.1,x,,<sistiti> + [-is:-s],bentukan,[177] [S] -is + (i)
+117532.2,x,,<sistit> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+117533,k,0,sistografi,dasar,
+117533.1,x,,<sistograf> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+117534,v,6,sistole,dasar,
+,,,,,
+117535,v,31,sistolik,dasar,
+,,,,,
+117536,v,2,sistoliknya,dasar,
+117536.1,v,,<sistolik> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+117537,k,0,sistostomi,dasar,
+117537.1,x,,<sistostom> + -i,bentukan,[28] [S] -i + (<all>)
+117537.2,x,,<sistos> + -tomi,bentukan,[200] [S] -tomi + (<all>)
+,,,,,
+117538,k,0,sistrum,dasar,
+,,,,,
+117539,k,0,sisurut,dasar,
+,,,,,
+117540,v,1293,siswa,dasar,
+,,,,,
+117541,v,66,siswa-siswa,dasar,
+117541.1,v,,<siswa> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+117542,v,9,siswa-siswanya,dasar,
+117542.1,v,,<siswa> [-] <r> + -nya,bentukan,[23] [RD] |
+117542.2,v,,<siswa> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+117543,t,77,siswa-siswi,dasar,siswa-siswa
+117543.1,x,,<siswa-sisw> + -i,bentukan,[28] [S] -i + (<all>)
+117543.2,x,,<siswa-sis> + -wi,bentukan,[174] [S] -wi + (<others>)
+,,,,,
+117544,t,13,siswa-siswinya,dasar,siswa-siswanya
+117544.1,x,,<siswa-siswi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+117544.2,x,,<siswa-sisw> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+117544.3,x,,<siswa-sis> + -wi + -nya,bentukan,[174] [S] -wi + (<others>) => [34] [SFS] -nya + (<all>)
+,,,,,
+117545,v,122,siswanya,dasar,
+117545.1,v,,<siswa> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+117546,t,104,siswi,dasar,
+117546.1,x,,<sisw> + -i,bentukan,[28] [S] -i + (<all>)
+117546.2,x,,<sis> + -wi,bentukan,[174] [S] -wi + (<others>)
+,,,,,
+117547,t,6,siswi-siswi,dasar,
+117547.1,x,,<siswi> [-] <r>,bentukan,[23] [RD] |
+117547.2,x,,<sisw> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+117547.3,x,,<sis> + -wi [-] <r> + -wi,bentukan,[174] [S] -wi + (<others>) => [23] [RD] |
+,,,,,
+117548,t,6,siswinya,dasar,
+117548.1,x,,<siswi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+117548.2,x,,<sisw> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+117548.3,x,,<sis> + -wi + -nya,bentukan,[174] [S] -wi + (<others>) => [34] [SFS] -nya + (<all>)
+,,,,,
+117549,k,39,sit,dasar,
+,,,,,
+117550,k,0,sit stensil,dasar,
+,,,,,
+117551,d,0,sit up,dasar,
+,,,,,
+117552,k,104,sita,dasar,
+,,,,,
+117553,k,0,sita marital,dasar,
+,,,,,
+117554,k,37,sitaan,dasar,
+117554.1,v,,<sita> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+117555,k,0,sitak,dasar,
+,,,,,
+117556,k,0,sitapofasis,dasar,
+117556.1,x,,<sitapofasi> + [-is:-s],bentukan,[177] [S] -is + (i)
+117556.2,x,,<sitapofas> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+117557,c,6,sitar,dasar,siter
+,,,,,
+117558,k,0,sitarajuan,dasar,
+117558.1,x,,<sitaraju> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+117559,k,2,sitaralak,dasar,
+,,,,,
+117560,k,0,sitase,dasar,
+117560.1,x,,<sit> + -ase,bentukan,[210] [S] -ase + (<all>)
+,,,,,
+117561,k,12,sitasi,dasar,
+117561.1,x,,<sitas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+117562,k,0,sitat,dasar,
+,,,,,
+117563,k,0,sitawar,dasar,
+,,,,,
+117564,k,0,siter,dasar,
+,,,,,
+117565,k,0,siter bambu,dasar,
+,,,,,
+117566,k,0,siteran,dasar,
+117566.1,v,,<siter> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+117567,k,459,siti,dasar,
+117567.1,x,,<sit> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+117568,k,0,sitinggil,dasar,
+,,,,,
+117569,k,0,sitir,dasar,
+,,,,,
+117570,k,0,sitiran,dasar,
+117570.1,v,,<sitir> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+117571,k,0,sitofobia,dasar,
+117571.1,x,,<sito> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+117572,k,0,sitogenetik,dasar,
+,,,,,
+117573,k,2,sitogenetika,dasar,
+,,,,,
+117574,d,0,sitokeleton,dasar,
+,,,,,
+117575,k,0,sitokenesis,dasar,
+117575.1,x,,<sitokenesi> + [-is:-s],bentukan,[177] [S] -is + (i)
+117575.2,x,,<sitokenes> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+117576,k,0,sitokimia,dasar,
+,,,,,
+117577,k,65,sitokin,dasar,
+,,,,,
+117578,v,7,sitokin-sitokin,dasar,
+117578.1,v,,<sitokin> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+117579,k,3,sitokinesis,dasar,
+117579.1,x,,<sitokinesi> + [-is:-s],bentukan,[177] [S] -is + (i)
+117579.2,x,,<sitokines> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+117580,d,0,sitoktoksisitas,dasar,
+117580.1,x,,<sitoktoksis> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+117581,k,2,sitolisis,dasar,
+117581.1,x,,<sitolisi> + [-is:-s],bentukan,[177] [S] -is + (i)
+117581.2,x,,<sitolis> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+117582,k,8,sitologi,dasar,
+117582.1,x,,<sitolog> + -i,bentukan,[28] [S] -i + (<all>)
+117582.2,x,,<sito> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+117583,k,0,sitomania,dasar,
+,,,,,
+117584,k,0,sitomegalovirus,dasar,
+,,,,,
+117585,k,40,sitoplasma,dasar,
+,,,,,
+117586,d,0,sitoplasmik,dasar,
+,,,,,
+117587,d,0,sitoprotektif,dasar,
+,,,,,
+117588,d,0,sitosina,dasar,
+,,,,,
+117589,k,0,sitosis,dasar,
+117589.1,x,,<sitosi> + [-is:-s],bentukan,[177] [S] -is + (i)
+117589.2,x,,<sitos> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+117590,d,0,sitosol,dasar,
+,,,,,
+117591,d,0,sitosolik,dasar,
+,,,,,
+117592,k,0,sitosterol,dasar,
+117592.1,x,,<sito> + -sterol,bentukan,[208] [S] -sterol + (<all>)
+,,,,,
+117593,k,36,sitotoksik,dasar,
+,,,,,
+117594,k,3,sitotoksin,dasar,
+,,,,,
+117595,k,36,sitrat,dasar,
+,,,,,
+117596,k,0,sitrin,dasar,
+,,,,,
+117597,k,0,sitrometer,dasar,
+117597.1,x,,<sitro> + -meter,bentukan,[189] [S] -meter + (<all>)
+,,,,,
+117598,k,2,sitrulin,dasar,
+,,,,,
+117599,k,0,sitrun,dasar,
+,,,,,
+117600,d,0,sitrus,dasar,
+,,,,,
+117601,k,1372,situ,dasar,
+,,,,,
+117602,k,2944,situasi,dasar,
+117602.1,x,,<situas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+117603,v,36,situasi-situasi,dasar,
+117603.1,v,,<situasi> [-] <r>,bentukan,[23] [RD] |
+117603.2,x,,<situas> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+117604,v,8,situasiku,dasar,
+117604.1,v,,<situasi> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+117604.2,x,,<situas> + -i + -ku,bentukan,[28] [S] -i + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+117605,v,3,situasimu,dasar,
+117605.1,v,,<situasi> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+117605.2,x,,<situas> + -i + -mu,bentukan,[28] [S] -i + (<all>) => [33] [SFS] -mu + (<all>)
+,,,,,
+117606,v,232,situasinya,dasar,
+117606.1,v,,<situasi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+117606.2,x,,<situas> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+117607,k,58,situasional,dasar,
+,,,,,
+117608,k,56,situbondo,dasar,
+,,,,,
+117609,d,0,situlah,dasar,
+117609.1,v,,<situ> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+117610,k,0,situn,dasar,
+,,,,,
+117611,k,1321,situs,dasar,
+,,,,,
+117612,k,0,situs warisan dunia,dasar,
+,,,,,
+117613,k,0,situs web,dasar,
+,,,,,
+117614,v,96,situs-situs,dasar,
+117614.1,v,,<situs> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+117615,v,44,situsnya,dasar,
+117615.1,v,,<situs> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+117616,k,0,siuh,dasar,
+,,,,,
+117617,k,0,siuk,dasar,
+,,,,,
+117618,v,10,siul,dasar,
+,,,,,
+117619,k,21,siulan,dasar,
+117619.1,v,,<siul> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+117620,v,2,siulnya,dasar,
+117620.1,v,,<siul> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+117621,k,59,siuman,dasar,
+117621.1,x,,<sium> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+117622,k,12,siung,dasar,
+,,,,,
+117623,k,0,siungan,dasar,
+117623.1,v,,<siung> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+117624,c,54,siur,dasar,simpang siur
+,,,,,
+117625,k,0,sius,dasar,
+,,,,,
+117626,k,5,siut,dasar,
+,,,,,
+117627,k,2,sivilisasi,dasar,
+117627.1,x,,<sivilisas> + -i,bentukan,[28] [S] -i + (<all>)
+117627.2,x,,<sivili> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+117627.3,x,,<sivilis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+117627.4,v,,<sivil> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+117628,c,30,siwa,dasar,syiwa
+,,,,,
+117629,k,5,siwak,dasar,
+,,,,,
+117630,k,16,siwalan,dasar,
+117630.1,x,,<siwal> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+117631,k,0,siwalipari,dasar,
+117631.1,x,,<siwalipar> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+117632,k,0,siwapa,dasar,
+,,,,,
+117633,c,2,siwar,dasar,sewar
+,,,,,
+117634,k,0,siwaratri,dasar,
+117634.1,x,,<siwaratr> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+117635,k,0,siwek,dasar,
+,,,,,
+117636,k,0,siwer,dasar,
+,,,,,
+117637,k,0,siwet,dasar,
+,,,,,
+117638,k,0,siwil,dasar,
+,,,,,
+117639,k,7,siwo,dasar,
+,,,,,
+117640,k,0,sizigi,dasar,
+117640.1,x,,<sizig> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+117641,v,300,sk,dasar,
+,,,,,
+117642,d,0,sk-kan,dasar,
+117642.1,v,,<sk-> + -kan,bentukan,[29] [S] -kan + (<all>)
+117642.2,x,,<sk-k> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+117643,k,16,ska,dasar,
+,,,,,
+117644,k,0,skabies,dasar,
+,,,,,
+117645,k,0,skabiofobia,dasar,
+117645.1,x,,<skabio> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+117646,k,0,skafa,dasar,
+,,,,,
+117647,d,0,skak (mati kutu),dasar,
+,,,,,
+117648,k,1543,skala,dasar,
+,,,,,
+117649,k,0,skala angin beaufort,dasar,
+,,,,,
+117650,k,0,skala angin geostrofik,dasar,
+,,,,,
+117651,k,0,skala gaya angin,dasar,
+,,,,,
+117652,k,0,skala kategori,dasar,
+117652.1,x,,<skala kategor> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+117653,k,0,skala kecil,dasar,
+,,,,,
+117654,k,0,skala langit biru linke,dasar,
+,,,,,
+117655,k,0,skala log,dasar,
+,,,,,
+117656,k,0,skala mohs,dasar,
+,,,,,
+117657,k,0,skala ordinat,dasar,
+,,,,,
+117658,k,0,skala perilaku adaptif,dasar,
+,,,,,
+117659,k,0,skala peringkat numerik,dasar,
+,,,,,
+117660,k,0,skala peta,dasar,
+,,,,,
+117661,k,0,skala pirheliometer,dasar,
+117661.1,x,,<skala pirhelio> + -meter,bentukan,[189] [S] -meter + (<all>)
+,,,,,
+117662,k,0,skala pirheliometer internasional,dasar,
+,,,,,
+117663,k,0,skala premi,dasar,
+117663.1,x,,<skala prem> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+117664,k,0,skala rasio kategori,dasar,
+117664.1,x,,<skala rasio kategor> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+117665,k,0,skala richter,dasar,
+,,,,,
+117666,k,0,skala ruang,dasar,
+,,,,,
+117667,k,0,skala suhu celcius,dasar,
+,,,,,
+117668,k,0,skala suhu fahrenheit,dasar,
+,,,,,
+117669,k,0,skala waktu geologi,dasar,
+117669.1,x,,<skala waktu geolog> + -i,bentukan,[28] [S] -i + (<all>)
+117669.2,x,,<skala waktu geo> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+117670,k,0,skala warna,dasar,
+,,,,,
+117671,v,7,skala-skala,dasar,
+117671.1,v,,<skala> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+117672,d,0,skalabilitas (keterluasan),dasar,
+,,,,,
+117673,v,51,skalanya,dasar,
+117673.1,v,,<skala> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+117674,k,7,skalar,dasar,
+,,,,,
+117675,k,0,skalop,dasar,
+,,,,,
+117676,k,267,skandal,dasar,
+,,,,,
+117677,v,2,skandal-skandal,dasar,
+117677.1,v,,<skandal> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+117678,k,24,skandinavia,dasar,
+,,,,,
+117679,k,0,skandium,dasar,
+,,,,,
+117680,k,5,skar,dasar,
+,,,,,
+117681,k,0,skarifikasi,dasar,
+117681.1,x,,<skarifikas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+117682,k,0,skatola,dasar,
+,,,,,
+117683,k,0,skatologi,dasar,
+117683.1,x,,<skatolog> + -i,bentukan,[28] [S] -i + (<all>)
+117683.2,x,,<skato> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+117684,k,0,skedastik,dasar,
+,,,,,
+117685,k,0,skedul,dasar,
+,,,,,
+117686,k,0,skelerofobia,dasar,
+117686.1,x,,<skelero> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+117687,k,3,skelet,dasar,
+,,,,,
+117688,d,0,skeletal (perihal berkaitan dengan rangka),dasar,
+,,,,,
+117689,k,823,skema,dasar,
+,,,,,
+117690,k,0,skema ponzi,dasar,
+117690.1,x,,<skema ponz> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+117691,k,0,skema warna,dasar,
+,,,,,
+117692,k,0,skema warna analog,dasar,
+,,,,,
+117693,k,0,skema warna komplementer,dasar,
+,,,,,
+117694,k,0,skema warna monokromatik,dasar,
+,,,,,
+117695,k,0,skema warna polikromatik,dasar,
+,,,,,
+117696,v,7,skema-skema,dasar,
+117696.1,v,,<skema> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+117697,v,28,skemanya,dasar,
+117697.1,v,,<skema> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+117698,v,3,skemata,dasar,
+,,,,,
+117699,v,8,skematik,dasar,
+,,,,,
+117700,k,14,skematis,dasar,
+117700.1,x,,<skemati> + [-is:-s],bentukan,[177] [S] -is + (i)
+117700.2,x,,<skemat> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+117701,k,566,skenario,dasar,
+,,,,,
+117702,v,3,skenario-skenario,dasar,
+117702.1,v,,<skenario> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+117703,v,2,skenarioku,dasar,
+117703.1,v,,<skenario> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+117704,v,31,skenarionya,dasar,
+117704.1,v,,<skenario> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+117705,k,0,skene,dasar,
+,,,,,
+117706,k,0,skene relief,dasar,
+,,,,,
+117707,k,0,skeneri,dasar,
+117707.1,x,,<skener> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+117708,k,0,skeneri detail,dasar,
+,,,,,
+117709,k,0,skeneri romantik,dasar,
+,,,,,
+117710,k,0,skenik,dasar,
+,,,,,
+117711,k,0,skenografer,dasar,
+,,,,,
+117712,k,0,skenografi,dasar,
+117712.1,x,,<skenograf> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+117713,k,83,skeptis,dasar,
+117713.1,x,,<skepti> + [-is:-s],bentukan,[177] [S] -is + (i)
+117713.2,x,,<skept> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+117714,k,14,skeptisisme,dasar,
+117714.1,v,,<skeptis> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+117715,k,125,sketsa,dasar,
+,,,,,
+117716,v,7,sketsa-sketsa,dasar,
+117716.1,v,,<sketsa> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+117717,v,2,sketsa-sketsanya,dasar,
+117717.1,v,,<sketsa> [-] <r> + -nya,bentukan,[23] [RD] |
+117717.2,v,,<sketsa> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+117718,v,8,sketsanya,dasar,
+117718.1,v,,<sketsa> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+117719,k,0,sketsel,dasar,
+,,,,,
+117720,k,63,ski,dasar,
+117720.1,x,,<sk> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+117721,k,0,ski air,dasar,
+,,,,,
+117722,k,0,ski es,dasar,
+,,,,,
+117723,k,0,ski lintas alam,dasar,
+,,,,,
+117724,k,0,ski udara,dasar,
+,,,,,
+117725,k,0,skiafit,dasar,
+,,,,,
+117726,k,0,skiameter,dasar,
+117726.1,x,,<skia> + -meter,bentukan,[189] [S] -meter + (<all>)
+,,,,,
+117727,k,0,skiatika,dasar,
+,,,,,
+117728,k,0,skilot,dasar,
+,,,,,
+117729,d,0,skim,dasar,
+,,,,,
+117730,k,0,skiofilia,dasar,
+117730.1,x,,<skio> + -filia,bentukan,[216] [S] -filia + (<all>)
+,,,,,
+117731,k,0,skiofobia,dasar,
+117731.1,x,,<skio> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+117732,k,20,skip,dasar,
+,,,,,
+117733,k,0,skiping,dasar,
+,,,,,
+117734,k,0,skisma,dasar,
+,,,,,
+117735,k,0,skizofrenia,dasar,
+,,,,,
+117736,k,0,skizoid,dasar,
+117736.1,x,,<skiz> + -oid,bentukan,[209] [S] -oid + (<all>)
+,,,,,
+117737,k,0,skk,dasar,
+,,,,,
+117738,v,4,sklera,dasar,
+,,,,,
+117739,k,0,sklereid,dasar,
+,,,,,
+117740,k,0,sklerenkima,dasar,
+,,,,,
+117741,v,0,sklerit (anat.serangga,dasar,
+,,,,,
+117742,k,0,skleritis,dasar,
+117742.1,x,,<skleriti> + [-is:-s],bentukan,[177] [S] -is + (i)
+117742.2,x,,<sklerit> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+117743,v,0,skleroderma (sejenis penyakit autoimun),dasar,
+,,,,,
+117744,k,0,sklerokauli,dasar,
+117744.1,x,,<sklerokaul> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+117745,k,5,sklerosis,dasar,
+117745.1,x,,<sklerosi> + [-is:-s],bentukan,[177] [S] -is + (i)
+117745.2,x,,<skleros> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+117746,k,0,sklerosis kompleks,dasar,
+,,,,,
+117747,k,0,skleroterapi,dasar,
+117747.1,x,,<skleroterap> + -i,bentukan,[28] [S] -i + (<all>)
+117747.2,x,,<sklero> + -terapi,bentukan,[215] [S] -terapi + (<all>)
+,,,,,
+117748,k,0,sklerotesta,dasar,
+,,,,,
+117749,k,0,skofro,dasar,
+,,,,,
+117750,k,8,skolastik,dasar,
+,,,,,
+117751,k,0,skolastikus,dasar,
+,,,,,
+117752,k,0,skolastisi,dasar,
+117752.1,x,,<skolastis> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+117753,k,0,skolastisisme,dasar,
+117753.1,x,,<skolastis> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+117754,k,0,skolionofobia,dasar,
+117754.1,x,,<skoliono> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+117755,k,4,skoliosis,dasar,
+117755.1,x,,<skoliosi> + [-is:-s],bentukan,[177] [S] -is + (i)
+117755.2,x,,<skolios> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+117756,k,0,skombroid,dasar,
+117756.1,x,,<skombr> + -oid,bentukan,[209] [S] -oid + (<all>)
+,,,,,
+117757,k,3,skop,dasar,
+,,,,,
+117758,k,0,skopofobia,dasar,
+117758.1,x,,<skopo> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+117759,k,0,skopometer,dasar,
+117759.1,x,,<skopo> + -meter,bentukan,[189] [S] -meter + (<all>)
+,,,,,
+117760,k,1078,skor,dasar,
+,,,,,
+117761,k,0,skor afrika,dasar,
+,,,,,
+117762,k,0,skor kacamata,dasar,
+,,,,,
+117763,k,0,skor kimia,dasar,
+,,,,,
+117764,v,6,skor-skor,dasar,
+117764.1,v,,<skor> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+117765,k,0,skorbut,dasar,
+,,,,,
+117766,k,0,skoria,dasar,
+,,,,,
+117767,x,0,skoring (penilaian dengan skor),dasar,
+,,,,,
+117768,v,37,skornya,dasar,
+117768.1,v,,<skor> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+117769,k,0,skorpio,dasar,
+,,,,,
+117770,k,14,skors,dasar,
+,,,,,
+117771,x,0,skorsing(pemberian hukuman),dasar,
+,,,,,
+117772,k,0,skotoma,dasar,
+,,,,,
+117773,k,0,skotomafobia,dasar,
+117773.1,x,,<skotoma> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+117774,k,0,skotopia,dasar,
+,,,,,
+117775,k,0,skrang,dasar,
+,,,,,
+117776,k,0,skrin,dasar,
+,,,,,
+117777,k,77,skrining,dasar,
+,,,,,
+117778,k,23,skrip,dasar,
+,,,,,
+117779,v,2,skripnya,dasar,
+117779.1,v,,<skrip> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+117780,k,0,skripofili,dasar,
+117780.1,x,,<skripofil> + -i,bentukan,[28] [S] -i + (<all>)
+117780.2,x,,<skripo> + -fili,bentukan,[193] [S] -fili + (<all>)
+,,,,,
+117781,k,150,skripsi,dasar,
+117781.1,x,,<skrips> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+117782,v,6,skripsiku,dasar,
+117782.1,v,,<skripsi> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+117782.2,x,,<skrips> + -i + -ku,bentukan,[28] [S] -i + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+117783,v,3,skripsimu,dasar,
+117783.1,v,,<skripsi> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+117783.2,x,,<skrips> + -i + -mu,bentukan,[28] [S] -i + (<all>) => [33] [SFS] -mu + (<all>)
+,,,,,
+117784,v,25,skripsinya,dasar,
+117784.1,v,,<skripsi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+117784.2,x,,<skrips> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+117785,d,0,skriptorium,dasar,
+,,,,,
+117786,d,0,skriptualis,dasar,
+117786.1,x,,<skriptuali> + [-is:-s],bentukan,[177] [S] -is + (i)
+117786.2,x,,<skriptual> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+117787,d,0,skriptualisme,dasar,
+117787.1,x,,<skriptual> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+117788,d,0,skriptural,dasar,
+,,,,,
+117789,d,0,skripturalis,dasar,
+117789.1,x,,<skripturali> + [-is:-s],bentukan,[177] [S] -is + (i)
+117789.2,x,,<skriptural> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+117790,k,0,skrobikulus,dasar,
+,,,,,
+117791,k,11,skrotum,dasar,
+,,,,,
+117792,k,0,skrub,dasar,
+,,,,,
+117793,k,203,skuad,dasar,
+,,,,,
+117794,k,20,skuadron,dasar,
+,,,,,
+117795,k,0,skualena,dasar,
+,,,,,
+117796,d,0,skuama,dasar,
+,,,,,
+117797,d,0,skuamosa,dasar,
+,,,,,
+117798,k,0,skuas,dasar,
+,,,,,
+117799,k,0,skuba,dasar,
+,,,,,
+117800,k,0,skurvi,dasar,
+117800.1,x,,<skurv> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+117801,k,0,skutela,dasar,
+,,,,,
+117802,k,46,skuter,dasar,
+,,,,,
+117803,v,2,skuternya,dasar,
+117803.1,v,,<skuter> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+117804,d,0,skutik,dasar,
+,,,,,
+117805,k,0,slaber,dasar,
+,,,,,
+117806,k,0,slagorde,dasar,
+,,,,,
+117807,k,0,slagrum,dasar,
+,,,,,
+117808,k,0,slah,dasar,
+117808.1,x,,<s> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+117809,k,0,slalom,dasar,
+,,,,,
+117810,k,0,slamet,dasar,
+,,,,,
+117811,t,30,slang,dasar,
+,,,,,
+117812,x,0,slang pemadam kebakaran,dasar,
+117812.1,x,,<slang pemadam kebakar> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+117813,x,0,slang pembuangan,dasar,
+117813.1,x,,<slang pembuang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+117814,x,2,slang-slang,dasar,
+117814.1,x,,<slang> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+117815,v,2,slangnya,dasar,
+117815.1,v,,<slang> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+117816,x,0,slarisasi tanah,dasar,
+,,,,,
+117817,k,0,slebor,dasar,
+,,,,,
+117818,k,0,sleman,dasar,
+117818.1,x,,<slem> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+117819,k,8,slendro,dasar,
+,,,,,
+117820,k,0,slepan,dasar,
+117820.1,x,,<slep> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+117821,k,0,sliker,dasar,
+,,,,,
+117822,d,0,slim,dasar,
+,,,,,
+117823,k,27,sling,dasar,
+,,,,,
+117824,d,0,slinger,dasar,
+,,,,,
+117825,k,0,slintat-slintut,dasar,
+117825.1,v,,<slintat-slintut>,bentukan,[Reduplication-Rhyming]
+,,,,,
+117826,k,52,slip,dasar,
+,,,,,
+117827,k,0,slip setoran,dasar,
+117827.1,v,,<slip setor> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+117828,d,0,slit,dasar,
+,,,,,
+117829,k,0,slof,dasar,
+,,,,,
+117830,k,214,slogan,dasar,
+117830.1,x,,<slog> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+117831,v,17,slogan-slogan,dasar,
+117831.1,v,,<slogan> [-] <r>,bentukan,[23] [RD] |
+117831.2,x,,<slog> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+117832,v,12,slogannya,dasar,
+117832.1,v,,<slogan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+117832.2,x,,<slog> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+117833,k,232,slot,dasar,
+,,,,,
+117834,v,2,slot-slot,dasar,
+117834.1,v,,<slot> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+117835,k,25,slovenia,dasar,
+,,,,,
+117836,k,8,slowakia,dasar,
+,,,,,
+117837,k,0,sluri,dasar,
+117837.1,x,,<slur> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+117838,k,0,sluri cair,dasar,
+,,,,,
+117839,k,0,sluri padat,dasar,
+,,,,,
+117840,v,1014,sma,dasar,
+,,,,,
+117841,v,3,sma-sma,dasar,
+117841.1,v,,<sma> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+117842,v,106,sman,dasar,
+117842.1,x,,<sm> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+117843,d,0,smart,dasar,
+,,,,,
+117844,v,2,smas,dasar,
+,,,,,
+117845,v,13,smea,dasar,
+,,,,,
+117846,k,76,smelter,dasar,
+,,,,,
+117847,v,5,smelternya,dasar,
+117847.1,v,,<smelter> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+117848,k,13,smes,dasar,
+,,,,,
+117849,k,0,smes kilat,dasar,
+,,,,,
+117850,k,0,smes lompat,dasar,
+,,,,,
+117851,v,3,smes-smes,dasar,
+117851.1,v,,<smes> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+117852,k,0,smok,dasar,
+,,,,,
+117853,k,0,smokel,dasar,
+,,,,,
+117854,k,19,smoking,dasar,
+,,,,,
+117855,v,61,smu,dasar,
+117855.1,x,,<s> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+,,,,,
+117856,k,0,snob,dasar,
+,,,,,
+117857,k,0,snobisme,dasar,
+117857.1,x,,<snob> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+117858,k,0,snoker,dasar,
+,,,,,
+117859,k,5,snorkel,dasar,
+,,,,,
+117860,k,32,snorkeling,dasar,
+,,,,,
+117861,k,0,soa,dasar,
+,,,,,
+117862,k,0,soa-soa,dasar,
+117862.1,v,,<soa> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+117863,k,0,soak,dasar,
+,,,,,
+117864,k,4808,soal,dasar,
+,,,,,
+117865,k,0,soal jawab,dasar,
+,,,,,
+117866,v,135,soal-soal,dasar,
+117866.1,v,,<soal> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+117867,k,3,soang,dasar,
+,,,,,
+117868,k,0,soarma,dasar,
+,,,,,
+117869,k,3,soba,dasar,
+,,,,,
+117870,k,0,soban,dasar,
+117870.1,x,,<sob> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+117871,k,85,sobat,dasar,
+,,,,,
+117872,k,0,sobat kental,dasar,
+,,,,,
+117873,v,3,sobatnya,dasar,
+117873.1,v,,<sobat> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+117874,k,0,sobei,dasar,
+117874.1,x,,<sobe> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+117875,k,58,sobek,dasar,
+,,,,,
+117876,d,0,sobek-sobek (serba sobek),dasar,
+,,,,,
+117877,k,0,sobek-sobekan,dasar,
+117877.1,v,,<sobek> [-] <r> + -an,bentukan,[23] [RD] |
+,,,,,
+117878,k,40,sobekan,dasar,
+117878.1,x,,<sobe> + -kan,bentukan,[29] [S] -kan + (<all>)
+117878.2,v,,<sobek> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+117879,k,0,sobok,dasar,
+,,,,,
+117880,k,79,soda,dasar,
+,,,,,
+117881,k,0,soda abu,dasar,
+,,,,,
+117882,k,0,soda api,dasar,
+117882.1,x,,<soda ap> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+117883,k,0,soda gembira,dasar,
+,,,,,
+117884,k,0,soda kaustik,dasar,
+,,,,,
+117885,k,0,soda kristal,dasar,
+,,,,,
+117886,k,0,soda kue,dasar,
+,,,,,
+117887,k,0,sodam,dasar,
+,,,,,
+117888,k,0,soder,dasar,
+,,,,,
+117889,k,0,sodet,dasar,
+,,,,,
+117890,k,15,sodetan,dasar,
+117890.1,v,,<sodet> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+117891,k,77,sodium,dasar,
+,,,,,
+117892,k,0,sodium nikotinat,dasar,
+,,,,,
+117893,k,4,sodok,dasar,
+,,,,,
+117894,k,0,sodok-sodokan,dasar,
+117894.1,v,,<sodok> [-] <r> + -an,bentukan,[23] [RD] |
+,,,,,
+117895,k,0,sodomasosisme,dasar,
+117895.1,x,,<sodomasos> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+117896,k,15,sodomi,dasar,
+117896.1,x,,<sodom> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+117897,k,0,sodomia,dasar,
+,,,,,
+117898,k,16,sodor,dasar,
+,,,,,
+117899,k,9,sodoran,dasar,
+117899.1,v,,<sodor> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+117900,v,20,sodorkan,dasar,
+117900.1,v,,<sodor> + -kan,bentukan,[29] [S] -kan + (<all>)
+117900.2,x,,<sodork> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+117901,k,0,soe,dasar,
+,,,,,
+117902,c,6,soes,dasar,sus
+,,,,,
+117903,k,191,sofa,dasar,
+,,,,,
+117904,k,0,sofa (huruf) l,dasar,
+,,,,,
+117905,k,0,sofa berlengan,dasar,
+117905.1,x,,<sofa berleng> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+117906,k,0,sofa bulir,dasar,
+,,,,,
+117907,k,0,sofa dua dudukan,dasar,
+117907.1,x,,<sofa dua dudu> + -kan,bentukan,[29] [S] -kan + (<all>)
+117907.2,v,,<sofa dua duduk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+117908,k,0,sofa lipat,dasar,
+,,,,,
+117909,k,0,sofa ranjang,dasar,
+,,,,,
+117910,k,0,sofa satu dudukan,dasar,
+117910.1,x,,<sofa satu dudu> + -kan,bentukan,[29] [S] -kan + (<all>)
+117910.2,v,,<sofa satu duduk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+117911,k,0,sofa tidur,dasar,
+,,,,,
+117912,k,0,sofa tiga dudukan,dasar,
+117912.1,x,,<sofa tiga dudu> + -kan,bentukan,[29] [S] -kan + (<all>)
+117912.2,v,,<sofa tiga duduk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+117913,k,0,sofbol,dasar,
+,,,,,
+117914,k,2,sofis,dasar,
+117914.1,x,,<sofi> + [-is:-s],bentukan,[177] [S] -is + (i)
+117914.2,x,,<sof> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+117915,k,0,sofisme,dasar,
+117915.1,x,,<sof> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+117916,k,0,sofistri,dasar,
+117916.1,x,,<sofistr> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+117917,k,4,sofitel,dasar,
+,,,,,
+117918,k,0,soga,dasar,
+,,,,,
+117919,k,7,sogan,dasar,
+117919.1,x,,<sog> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+117920,k,0,sogang,dasar,
+,,,,,
+117921,k,0,sogh,dasar,
+,,,,,
+117922,k,0,sogi,dasar,
+117922.1,x,,<sog> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+117923,k,4,sogo,dasar,
+,,,,,
+117924,k,15,sogok,dasar,
+,,,,,
+117925,v,2,sogok-menyogok,dasar,
+117925.1,v,,<sogok> [-] [meng-:me-] + <r>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [24] [RD] |meng-
+,,,,,
+117926,k,36,sogokan,dasar,
+117926.1,x,,<sogo> + -kan,bentukan,[29] [S] -kan + (<all>)
+117926.2,v,,<sogok> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+117927,k,0,sogolan,dasar,
+117927.1,x,,<sogol> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+117928,k,0,sohar,dasar,
+,,,,,
+117929,k,11,sohib,dasar,
+,,,,,
+117930,k,16,sohor,dasar,
+,,,,,
+117931,k,0,sohun,dasar,
+,,,,,
+117932,k,3,soja,dasar,
+,,,,,
+117933,k,0,sojah,dasar,
+,,,,,
+117934,c,194,sok,dasar,syok
+,,,,,
+117935,k,5,sok-sokan,dasar,
+117935.1,v,,<sok> [-] <r> + -an,bentukan,[23] [RD] |
+,,,,,
+117936,k,14,soka,dasar,
+,,,,,
+117937,k,0,sokah,dasar,
+117937.1,x,,<so> + -kah,bentukan,[30] [FS] -kah + (<all>)
+,,,,,
+117938,k,0,soke,dasar,
+,,,,,
+117939,k,0,soker,dasar,
+,,,,,
+117940,k,21,soket,dasar,
+,,,,,
+117941,v,2,soket-soket,dasar,
+117941.1,v,,<soket> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+117942,k,0,soklat,dasar,
+,,,,,
+117943,d,0,soklet,dasar,
+,,,,,
+117944,d,0,sokletasi,dasar,
+117944.1,x,,<sokletas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+117945,c,25,soko,dasar,saka
+,,,,,
+117946,k,9,sokoguru,dasar,
+,,,,,
+117947,k,0,sokom,dasar,
+,,,,,
+117948,k,7,sokong,dasar,
+,,,,,
+117949,k,93,sokongan,dasar,
+117949.1,v,,<sokong> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+117950,k,52,sol,dasar,
+,,,,,
+117951,k,10,solah,dasar,
+117951.1,x,,<so> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+117952,k,0,solak,dasar,
+,,,,,
+117953,k,0,solang,dasar,
+,,,,,
+117954,k,0,solanina,dasar,
+,,,,,
+117955,k,257,solar,dasar,
+,,,,,
+117956,k,0,solarigraf,dasar,
+117956.1,x,,<solari> + -graf,bentukan,[191] [S] -graf + (<all>)
+,,,,,
+117957,k,0,solarimeter,dasar,
+117957.1,x,,<solari> + -meter,bentukan,[189] [S] -meter + (<all>)
+,,,,,
+117958,v,0,solarisasi,dasar,
+117958.1,x,,<solarisas> + -i,bentukan,[28] [S] -i + (<all>)
+117958.2,x,,<solari> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+117958.3,x,,<solaris> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+117958.4,v,,<solar> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+117959,v,2,solarnya,dasar,
+117959.1,v,,<solar> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+117960,c,14,solat,dasar,salat
+,,,,,
+117961,k,0,solawat,dasar,
+,,,,,
+117962,k,0,soldadu,dasar,
+,,,,,
+117963,k,4,solder,dasar,
+,,,,,
+117964,c,39,soleh,dasar,saleh
+,,,,,
+117965,k,0,soleha,dasar,
+,,,,,
+117966,c,7,solehah,dasar,salihah
+,,,,,
+117967,k,0,solek,dasar,
+,,,,,
+117968,k,0,solek-menyolek,dasar,
+117968.1,v,,<solek> [-] [meng-:me-] + <r>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [24] [RD] |meng-
+,,,,,
+117969,k,3,solenoid,dasar,
+117969.1,x,,<solen> + -oid,bentukan,[209] [S] -oid + (<all>)
+,,,,,
+117970,k,0,solenostele,dasar,
+,,,,,
+117971,k,0,solet,dasar,
+,,,,,
+117972,k,0,solfatara,dasar,
+,,,,,
+117973,k,8,soli,dasar,
+117973.1,x,,<sol> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+117974,k,372,solid,dasar,
+,,,,,
+117975,k,383,solidaritas,dasar,
+117975.1,x,,<solidar> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+117976,k,17,solider,dasar,
+,,,,,
+117977,k,41,soliditas,dasar,
+117977.1,v,,<solid> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+117978,k,4,solilokui,dasar,
+117978.1,x,,<soliloku> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+117979,k,0,solinometer,dasar,
+117979.1,x,,<solino> + -meter,bentukan,[189] [S] -meter + (<all>)
+,,,,,
+117980,k,2,solipsisme,dasar,
+117980.1,x,,<solips> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+117981,k,2,solis,dasar,
+117981.1,x,,<soli> + [-is:-s],bentukan,[177] [S] -is + (i)
+117981.2,x,,<sol> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+117982,k,12,soliter,dasar,
+,,,,,
+117983,k,703,solo,dasar,
+,,,,,
+117984,k,4,solois,dasar,
+117984.1,x,,<soloi> + [-is:-s],bentukan,[177] [S] -is + (i)
+117984.2,x,,<solo> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+117985,k,77,solok,dasar,
+,,,,,
+117986,k,2,solokan,dasar,
+117986.1,x,,<solo> + -kan,bentukan,[29] [S] -kan + (<all>)
+117986.2,x,,<solok> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+117987,d,0,solomon,dasar,
+,,,,,
+117988,k,5,solor,dasar,
+,,,,,
+117989,k,0,solora,dasar,
+,,,,,
+117990,k,2,solot,dasar,
+,,,,,
+117991,k,5,solum,dasar,
+,,,,,
+117992,k,1900,solusi,dasar,
+117992.1,x,,<solus> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+117993,v,24,solusi-solusi,dasar,
+117993.1,v,,<solusi> [-] <r>,bentukan,[23] [RD] |
+117993.2,x,,<solus> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+117994,k,0,solusio plasenta,dasar,
+,,,,,
+117995,k,32,solutif,dasar,
+,,,,,
+117996,k,70,solvabilitas,dasar,
+117996.1,x,,<solvabil> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+117997,k,3,solven,dasar,
+,,,,,
+117998,k,13,som,dasar,
+,,,,,
+117999,k,0,som jawa,dasar,
+,,,,,
+118000,k,0,som tam,dasar,
+,,,,,
+118001,k,8,soma,dasar,
+,,,,,
+118002,k,3,somah,dasar,
+,,,,,
+118003,k,4,somali,dasar,
+118003.1,x,,<somal> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+118004,k,44,somalia,dasar,
+,,,,,
+118005,k,0,somang,dasar,
+,,,,,
+118006,k,24,somasi,dasar,
+118006.1,x,,<somas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+118007,k,3,somatis,dasar,
+118007.1,x,,<somati> + [-is:-s],bentukan,[177] [S] -is + (i)
+118007.2,x,,<somat> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+118008,k,0,somatogenesis,dasar,
+118008.1,x,,<somatogenesi> + [-is:-s],bentukan,[177] [S] -is + (i)
+118008.2,x,,<somatogenes> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+118009,k,0,somatologi,dasar,
+118009.1,x,,<somatolog> + -i,bentukan,[28] [S] -i + (<all>)
+118009.2,x,,<somato> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+118010,k,0,somatomedin,dasar,
+,,,,,
+118011,k,0,somatomegali,dasar,
+118011.1,x,,<somatomegal> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+118012,k,0,somatotrofin,dasar,
+,,,,,
+118013,c,3,somay,dasar,siomai
+,,,,,
+118014,k,0,sombok,dasar,
+,,,,,
+118015,k,0,sombol,dasar,
+,,,,,
+118016,k,179,sombong,dasar,
+,,,,,
+118017,k,5,sombrero,dasar,
+,,,,,
+118018,k,3,someah,dasar,
+,,,,,
+118019,k,0,somela,dasar,
+,,,,,
+118020,k,0,somelier,dasar,
+,,,,,
+118021,k,2,someng,dasar,
+,,,,,
+118022,k,0,somnambulis,dasar,
+118022.1,x,,<somnambuli> + [-is:-s],bentukan,[177] [S] -is + (i)
+118022.2,x,,<somnambul> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+118023,k,0,somnambulisme,dasar,
+118023.1,x,,<somnambul> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+118024,k,0,somnifobia,dasar,
+118024.1,x,,<somni> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+118025,k,0,somoni,dasar,
+118025.1,x,,<somon> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+118026,k,0,sompak,dasar,
+,,,,,
+118027,k,0,sompek,dasar,
+,,,,,
+118028,k,0,sompeng,dasar,
+,,,,,
+118029,k,4,somplak,dasar,
+,,,,,
+118030,k,0,somplok,dasar,
+,,,,,
+118031,k,0,sompoh,dasar,
+,,,,,
+118032,k,0,sompok,dasar,
+,,,,,
+118033,k,0,sompong,dasar,
+,,,,,
+118034,k,0,sompral,dasar,
+,,,,,
+118035,k,3,sompret,dasar,
+,,,,,
+118036,d,0,somptom,dasar,
+,,,,,
+118037,d,0,somptomatis,dasar,
+118037.1,x,,<somptomati> + [-is:-s],bentukan,[177] [S] -is + (i)
+118037.2,x,,<somptomat> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+118038,k,60,son,dasar,
+,,,,,
+118039,k,11,sonar,dasar,
+,,,,,
+118040,k,13,sonata,dasar,
+,,,,,
+118041,k,0,sonatina,dasar,
+,,,,,
+118042,k,0,sondai,dasar,
+118042.1,x,,<sonda> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+118043,k,0,sondanco,dasar,
+,,,,,
+118044,k,6,sondang,dasar,
+,,,,,
+118045,k,0,sondap,dasar,
+,,,,,
+118046,k,0,sondase,dasar,
+118046.1,x,,<sond> + -ase,bentukan,[210] [S] -ase + (<all>)
+,,,,,
+118047,k,20,sonde,dasar,
+,,,,,
+118048,k,0,sondek,dasar,
+,,,,,
+118049,k,7,sonder,dasar,
+,,,,,
+118050,k,0,sondok,dasar,
+,,,,,
+118051,k,0,sondol,dasar,
+,,,,,
+118052,k,0,sondong,dasar,
+,,,,,
+118053,k,0,sonduk,dasar,
+,,,,,
+118054,k,5,soneta,dasar,
+,,,,,
+118055,k,0,songar,dasar,
+,,,,,
+118056,k,0,songel,dasar,
+,,,,,
+118057,k,0,songga,dasar,
+,,,,,
+118058,k,0,songgak,dasar,
+,,,,,
+118059,k,0,songgeng,dasar,
+,,,,,
+118060,k,0,songgolangit,dasar,
+,,,,,
+118061,k,53,songket,dasar,
+,,,,,
+118062,k,17,songkok,dasar,
+,,,,,
+118063,k,0,songkro,dasar,
+,,,,,
+118064,k,4,songong,dasar,
+,,,,,
+118065,k,10,songsong,dasar,
+,,,,,
+118066,k,0,songsong arus,dasar,
+,,,,,
+118067,k,0,sonik,dasar,
+,,,,,
+118068,k,20,sono,dasar,
+,,,,,
+118069,k,0,sono budoyo,dasar,
+,,,,,
+118070,k,0,sonogram,dasar,
+,,,,,
+118071,k,7,sonokeling,dasar,
+,,,,,
+118072,k,0,sonometer,dasar,
+118072.1,x,,<sono> + -meter,bentukan,[189] [S] -meter + (<all>)
+,,,,,
+118073,k,0,sonor,dasar,
+,,,,,
+118074,k,0,sonoran,dasar,
+118074.1,x,,<sonor> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+118075,k,195,sontak,dasar,
+,,,,,
+118076,k,2,sontek,dasar,
+,,,,,
+118077,k,14,sontekan,dasar,
+118077.1,x,,<sonte> + -kan,bentukan,[29] [S] -kan + (<all>)
+118077.2,v,,<sontek> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+118078,k,0,sontok,dasar,
+,,,,,
+118079,k,0,sontol,dasar,
+,,,,,
+118080,k,19,sontoloyo,dasar,
+,,,,,
+118081,k,252,sop,dasar,
+,,,,,
+118082,k,0,sopak,dasar,
+,,,,,
+118083,k,0,sopal,dasar,
+,,,,,
+118084,k,450,sopan,dasar,
+118084.1,x,,<sop> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+118085,k,0,sopan santun,dasar,
+,,,,,
+118086,k,0,sopang,dasar,
+,,,,,
+118087,v,4,sopanlah,dasar,
+118087.1,v,,<sopan> + -lah,bentukan,[31] [FS] -lah + (<all>)
+118087.2,x,,<sop> + -an + -lah,bentukan,[38] [S] -an + (<all>) => [31] [FS] -lah + (<all>)
+,,,,,
+118088,k,0,sope,dasar,
+,,,,,
+118089,k,0,sopek,dasar,
+,,,,,
+118090,k,0,sopeng,dasar,
+,,,,,
+118091,k,9,sopi,dasar,
+118091.1,x,,<sop> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+118092,k,0,sopi manis,dasar,
+118092.1,x,,<sopi mani> + [-is:-s],bentukan,[177] [S] -is + (i)
+118092.2,x,,<sopi man> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+118093,k,0,sopi pahit,dasar,
+,,,,,
+118094,k,0,sopi-sopi,dasar,
+118094.1,v,,<sopi> [-] <r>,bentukan,[23] [RD] |
+118094.2,x,,<sop> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+118095,k,411,sopir,dasar,
+,,,,,
+118096,k,0,sopir becak,dasar,
+,,,,,
+118097,k,0,sopir tembak,dasar,
+,,,,,
+118098,v,14,sopir-sopir,dasar,
+118098.1,v,,<sopir> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+118099,v,66,sopirnya,dasar,
+118099.1,v,,<sopir> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+118100,k,0,soporifik,dasar,
+,,,,,
+118101,k,27,soppeng,dasar,
+,,,,,
+118102,k,8,sopran,dasar,
+118102.1,x,,<sopr> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+118103,c,6,soprano,dasar,sopran
+,,,,,
+118104,d,0,sorai,dasar,
+118104.1,x,,<sora> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+118105,k,45,sorak,dasar,
+,,,,,
+118106,k,0,sorak semarai,dasar,
+118106.1,x,,<sorak semara> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+118107,k,49,sorak-sorai,dasar,
+118107.1,v,,<[sorak:sorak-sorai]>,bentukan,[Reduplication-Rhyming]
+118107.2,x,,<sorak-sora> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+118108,k,24,sorakan,dasar,
+118108.1,x,,<sora> + -kan,bentukan,[29] [S] -kan + (<all>)
+118108.2,v,,<sorak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+118109,v,2,sorakan-sorakan,dasar,
+118109.1,x,,<sorakan> [-] <r>,bentukan,[23] [RD] |
+118109.2,x,,<sora> + -kan [-] <r> + -kan,bentukan,[29] [S] -kan + (<all>) => [23] [RD] |
+118109.3,v,,<sorak> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+118110,v,2,soraki,dasar,
+118110.1,v,,<sorak> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+118111,v,3,soraknya,dasar,
+118111.1,v,,<sorak> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+118112,k,27,sorang,dasar,
+,,,,,
+118113,k,0,sorangan,dasar,
+118113.1,v,,<sorang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+118114,c,41,sorban,dasar,serban
+118114.1,x,,<sorb> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+118115,t,9,sorbannya,dasar,
+118115.1,v,,<sorban> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+118115.2,x,,<sorb> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+118116,k,0,sorbet,dasar,
+,,,,,
+118117,k,12,sorbitol,dasar,
+,,,,,
+118118,k,1628,sore,dasar,
+,,,,,
+118119,d,0,sore-sore (pada waktu sore),dasar,
+,,,,,
+118120,k,0,soreang,dasar,
+,,,,,
+118121,k,0,sorek,dasar,
+,,,,,
+118122,k,3,soren,dasar,
+,,,,,
+118123,k,0,sorendiweri,dasar,
+118123.1,x,,<sorendiwer> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+118124,c,23,sorga,dasar,surga
+,,,,,
+118125,k,0,sorgawi,dasar,
+118125.1,x,,<sorgaw> + -i,bentukan,[28] [S] -i + (<all>)
+118125.2,v,,<sorga> + -wi,bentukan,[174] [S] -wi + (<others>)
+,,,,,
+118126,k,32,sorgum,dasar,
+,,,,,
+118127,t,29,sori,dasar,
+118127.1,x,,<sor> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+118128,k,0,soroban,dasar,
+118128.1,x,,<sorob> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+118129,k,0,sorog,dasar,Jw
+,,,,,
+118130,k,4,sorogan,dasar,Jw
+118130.1,x,,<sorog> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+118131,k,0,sorok,dasar,
+,,,,,
+118132,v,0,sorokan,dasar,
+118132.1,x,,<soro> + -kan,bentukan,[29] [S] -kan + (<all>)
+118132.2,v,,<sorok> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+118133,k,111,sorong,dasar,
+,,,,,
+118134,k,0,sorongan,dasar,
+118134.1,v,,<sorong> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+118135,v,4,sorongkan,dasar,
+118135.1,v,,<sorong> + -kan,bentukan,[29] [S] -kan + (<all>)
+118135.2,x,,<sorongk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+118136,k,0,sorosis,dasar,
+118136.1,x,,<sorosi> + [-is:-s],bentukan,[177] [S] -is + (i)
+118136.2,x,,<soros> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+118137,k,196,sorot,dasar,
+,,,,,
+118138,k,0,sorot balik,dasar,
+,,,,,
+118139,k,0,sorot belakang,dasar,
+,,,,,
+118140,k,0,sorot iringan,dasar,
+118140.1,v,,<sorot iring> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+118141,k,0,sorot profil,dasar,
+,,,,,
+118142,k,455,sorotan,dasar,
+118142.1,v,,<sorot> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+118143,v,3,sorotannya,dasar,
+118143.1,x,,<sorotan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+118143.2,v,,<sorot> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+118144,v,20,soroti,dasar,
+118144.1,v,,<sorot> + -i,bentukan,[28] [S] -i + (<all>)

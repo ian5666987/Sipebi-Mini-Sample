@@ -1,0 +1,1668 @@
+Nomor,KP,Jumlah,Entri,Tipe,Pembentukan
+123229,k,0,tekar takeh,dasar,
+,,,,,
+123230,c,7,tekat,dasar,tekad
+,,,,,
+123231,k,0,tekat berakam,dasar,
+,,,,,
+123232,k,0,tekat berawan,dasar,
+123232.1,x,,<tekat beraw> + -an,bentukan,[38] [S] -an + (<all>)
+123232.2,x,,<tekat bera> + -wan,bentukan,[180] [S] -wan + (<others>)
+123232.3,x,,<tekat ber> + [-wan:-awan],bentukan,[18000001] [S] -wan + (<all>)
+,,,,,
+123233,k,0,tekat bersuji,dasar,
+123233.1,x,,<tekat bersuj> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+123234,k,0,tekat bertekat,dasar,
+,,,,,
+123235,k,0,tekat timbul,dasar,
+,,,,,
+123236,k,0,tekatan,dasar,
+123236.1,v,,<tekat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+123237,k,0,tekebur,dasar,
+,,,,,
+123238,k,0,tekejir,dasar,
+,,,,,
+123239,c,2,tekek,dasar,tokek
+,,,,,
+123240,k,5,tekel,dasar,
+,,,,,
+123241,k,48,teken,dasar,
+,,,,,
+123242,k,0,teken kontrak,dasar,
+,,,,,
+123243,k,0,teken mati,dasar,
+123243.1,x,,<teken mat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+123244,k,0,teken serdadu,dasar,
+,,,,,
+123245,k,0,tekenan,dasar,
+123245.1,v,,<teken> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+123246,k,0,teker,dasar,
+,,,,,
+123247,k,0,tekeran,dasar,
+123247.1,v,,<teker> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+123248,k,0,tekerjakan,dasar,
+123248.1,x,,<tekerja> + -kan,bentukan,[29] [S] -kan + (<all>)
+123248.2,x,,<tekerjak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+123249,k,0,tekerlap,dasar,
+123249.1,v,,[ter-:te-] + <kerlap>,bentukan,[21] [ƏR] ter- + (<all>)
+,,,,,
+123250,k,0,tekersik,dasar,
+123250.1,v,,[ter-:te-] + <kersik>,bentukan,[21] [ƏR] ter- + (<all>)
+,,,,,
+123251,k,2,tekes,dasar,
+,,,,,
+123252,k,24,teki,dasar,
+123252.1,x,,<tek> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+123253,k,0,teki bodot,dasar,
+,,,,,
+123254,k,0,teki rawa,dasar,
+,,,,,
+123255,k,0,teki sabrang,dasar,
+,,,,,
+123256,k,0,teki sela,dasar,
+,,,,,
+123257,k,0,tekidanto,dasar,
+,,,,,
+123258,k,2,tekik,dasar,
+,,,,,
+123259,k,0,tekis,dasar,
+123259.1,x,,<teki> + [-is:-s],bentukan,[177] [S] -is + (i)
+123259.2,x,,<tek> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+123260,k,0,teklek,dasar,
+,,,,,
+123261,k,0,teklok,dasar,
+,,,,,
+123262,k,0,teknifon,dasar,
+,,,,,
+123263,k,2429,teknik,dasar,
+,,,,,
+123264,k,0,teknik akting,dasar,
+,,,,,
+123265,k,0,teknik alpin,dasar,
+,,,,,
+123266,k,0,teknik bifasial,dasar,
+,,,,,
+123267,k,0,teknik isolasi,dasar,
+123267.1,x,,<teknik isolas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+123268,k,0,teknik kateterisasi,dasar,
+123268.1,x,,<teknik kateterisas> + -i,bentukan,[28] [S] -i + (<all>)
+123268.2,x,,<teknik kateteri> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+123268.3,x,,<teknik kateteris> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+123268.4,x,,<teknik kateter> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+123269,k,0,teknik kimia listrik,dasar,
+,,,,,
+123270,k,0,teknik lekapan,dasar,
+123270.1,x,,<teknik lekap> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+123271,k,0,teknik listrik energi,dasar,
+123271.1,x,,<teknik listrik energ> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+123272,k,0,teknik marmet,dasar,
+,,,,,
+123273,k,0,teknik nontes,dasar,
+,,,,,
+123274,k,0,teknik nutrisi film,dasar,
+,,,,,
+123275,k,0,teknik pemanggungan nonrealis,dasar,
+123275.1,x,,<teknik pemanggungan nonreali> + [-is:-s],bentukan,[177] [S] -is + (i)
+123275.2,x,,<teknik pemanggungan nonreal> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+123276,k,0,teknik penelitian,dasar,
+123276.1,x,,<teknik peneliti> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+123277,k,0,teknik pewarnaan,dasar,
+123277.1,x,,<teknik pewarna> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+123278,k,0,teknik proyeksi,dasar,
+123278.1,x,,<teknik proyeks> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+123279,k,0,teknik rakit apung,dasar,
+,,,,,
+123280,k,0,teknik sistem sumbu,dasar,
+,,,,,
+123281,k,0,teknik tes,dasar,
+,,,,,
+123282,v,91,teknik-teknik,dasar,
+123282.1,v,,<teknik> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+123283,v,39,tekniknya,dasar,
+123283.1,v,,<teknik> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+123284,k,0,teknikus,dasar,
+,,,,,
+123285,k,2776,teknis,dasar,
+123285.1,x,,<tekni> + [-is:-s],bentukan,[177] [S] -is + (i)
+123285.2,x,,<tekn> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+123286,v,3,teknis-teknis,dasar,
+123286.1,v,,<teknis> [-] <r>,bentukan,[23] [RD] |
+123286.2,x,,<tekni> + [-is:-s] [-] <r> + [-is:-s],bentukan,[177] [S] -is + (i) => [23] [RD] |
+123286.3,x,,<tekn> + -is [-] <r> + -is,bentukan,[178] [S] -is + (<others>) => [23] [RD] |
+,,,,,
+123287,k,160,teknisi,dasar,
+123287.1,x,,<teknis> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+123288,v,2,teknisi-teknisi,dasar,
+123288.1,v,,<teknisi> [-] <r>,bentukan,[23] [RD] |
+123288.2,x,,<teknis> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+123289,v,3,teknisinya,dasar,
+123289.1,v,,<teknisi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+123289.2,x,,<teknis> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+123290,v,94,teknisnya,dasar,
+123290.1,v,,<teknis> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+123290.2,x,,<tekni> + [-is:-s] + -nya,bentukan,[177] [S] -is + (i) => [34] [SFS] -nya + (<all>)
+123290.3,x,,<tekn> + -is + -nya,bentukan,[178] [S] -is + (<others>) => [34] [SFS] -nya + (<all>)
+,,,,,
+123291,k,0,teknofak,dasar,
+,,,,,
+123292,k,0,teknofili,dasar,
+123292.1,x,,<teknofil> + -i,bentukan,[28] [S] -i + (<all>)
+123292.2,x,,<tekno> + -fili,bentukan,[193] [S] -fili + (<all>)
+,,,,,
+123293,k,0,teknofilia,dasar,
+123293.1,x,,<tekno> + -filia,bentukan,[216] [S] -filia + (<all>)
+,,,,,
+123294,k,0,teknofobia,dasar,
+123294.1,x,,<tekno> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+123295,k,4,teknokrasi,dasar,
+123295.1,x,,<teknokras> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+123296,k,26,teknokrat,dasar,
+,,,,,
+123297,k,8,teknokratik,dasar,
+,,,,,
+123298,k,0,teknokratisme,dasar,
+123298.1,x,,<teknokrat> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+123299,k,2,teknolog,dasar,
+,,,,,
+123300,k,5000,teknologi,dasar,
+123300.1,x,,<teknolog> + -i,bentukan,[28] [S] -i + (<all>)
+123300.2,x,,<tekno> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+123301,k,0,teknologi finansial,dasar,
+,,,,,
+123302,k,0,teknologi informasi,dasar,
+123302.1,x,,<teknologi informas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+123303,k,0,teknologi medis,dasar,
+123303.1,x,,<teknologi medi> + [-is:-s],bentukan,[177] [S] -is + (i)
+123303.2,x,,<teknologi med> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+123304,k,0,teknologi modifikasi cuaca,dasar,
+,,,,,
+123305,k,0,teknologi pendidikan,dasar,
+123305.1,x,,<teknologi pendidi> + -kan,bentukan,[29] [S] -kan + (<all>)
+123305.2,x,,<teknologi pendidik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+123306,k,0,teknologi tepat guna,dasar,
+,,,,,
+123307,k,0,teknologi terpakai,dasar,
+123307.1,x,,<teknologi terpaka> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+123308,k,0,teknologi tinggi,dasar,
+123308.1,x,,<teknologi tingg> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+123309,v,36,teknologi-teknologi,dasar,
+123309.1,v,,<teknologi> [-] <r>,bentukan,[23] [RD] |
+123309.2,x,,<teknolog> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+123309.3,x,,<tekno> + -logi [-] <r> + -logi,bentukan,[190] [S] -logi + (<all>) => [23] [RD] |
+,,,,,
+123310,v,98,teknologinya,dasar,
+123310.1,v,,<teknologi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+123310.2,x,,<teknolog> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+123310.3,x,,<tekno> + -logi + -nya,bentukan,[190] [S] -logi + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+123311,x,13,teknologis,dasar,
+123311.1,x,,<teknologi> + [-is:-s],bentukan,[177] [S] -is + (i)
+123311.2,x,,<teknolog> + -is,bentukan,[178] [S] -is + (<others>)
+123311.3,x,,<tekno> + -logi+-s,bentukan,[194] [MS] -logi+-s + (<all>)
+,,,,,
+123312,k,0,teknologiwan,dasar,
+123312.1,x,,<teknologiw> + -an,bentukan,[38] [S] -an + (<all>)
+123312.2,v,,<teknologi> + -wan,bentukan,[180] [S] -wan + (<others>)
+,,,,,
+123313,k,0,teknonim,dasar,
+,,,,,
+123314,k,0,teknonimi,dasar,
+123314.1,x,,<teknonim> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+123315,k,2,teknopreneur,dasar,
+,,,,,
+123316,k,33,teko,dasar,
+,,,,,
+123317,k,0,tekoan,dasar,
+123317.1,x,,<teko> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+123318,k,0,tekoh,dasar,
+,,,,,
+123319,k,0,tekokak,dasar,
+,,,,,
+123320,c,5,tekong,dasar,tikung
+,,,,,
+123321,k,33,tekor,dasar,
+,,,,,
+123322,k,0,tekoran,dasar,
+123322.1,x,,<tekor> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+123323,v,2,tekornya,dasar,
+123323.1,v,,<tekor> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+123324,k,0,tekpi,dasar,
+123324.1,x,,<tekp> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+123325,k,533,teks,dasar,
+,,,,,
+123326,k,0,teks buta,dasar,
+,,,,,
+123327,k,0,teks diskursif,dasar,
+,,,,,
+123328,k,0,teks ekspresif,dasar,
+,,,,,
+123329,k,0,teks evaluatif,dasar,
+,,,,,
+123330,k,0,teks film,dasar,
+,,,,,
+123331,k,0,teks informatif,dasar,
+,,,,,
+123332,k,0,teks linguistik,dasar,
+,,,,,
+123333,k,0,teks magi,dasar,
+123333.1,x,,<teks mag> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+123334,k,0,teks naratif,dasar,
+,,,,,
+123335,k,0,teks persuasif,dasar,
+,,,,,
+123336,k,0,teks profan,dasar,
+123336.1,x,,<teks prof> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+123337,k,0,teks ritual,dasar,
+,,,,,
+123338,k,0,teks sakral,dasar,
+,,,,,
+123339,v,69,teks-teks,dasar,
+123339.1,v,,<teks> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+123340,k,297,tekstil,dasar,
+,,,,,
+123341,k,86,tekstual,dasar,
+,,,,,
+123342,v,2,tekstualnya,dasar,
+123342.1,v,,<tekstual> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+123343,k,284,tekstur,dasar,
+,,,,,
+123344,k,2,tekstural,dasar,
+,,,,,
+123345,v,75,teksturnya,dasar,
+123345.1,v,,<tekstur> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+123346,k,0,tekte,dasar,
+,,,,,
+123347,k,0,tektek,dasar,
+,,,,,
+123348,k,0,tektit,dasar,
+,,,,,
+123349,k,0,tektogenesa,dasar,
+,,,,,
+123350,k,45,tektonik,dasar,
+,,,,,
+123351,k,3,tektonis,dasar,
+123351.1,x,,<tektoni> + [-is:-s],bentukan,[177] [S] -is + (i)
+123351.2,x,,<tekton> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+123352,k,0,tektonofisika,dasar,
+,,,,,
+123353,k,0,tektum,dasar,
+,,,,,
+123354,k,0,tekua,dasar,
+,,,,,
+123355,k,28,tekuk,dasar,
+,,,,,
+123356,k,0,tekuk kayu,dasar,
+,,,,,
+123357,k,0,tekuk lutut,dasar,
+,,,,,
+123358,k,3,tekukan,dasar,
+123358.1,x,,<teku> + -kan,bentukan,[29] [S] -kan + (<all>)
+123358.2,v,,<tekuk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+123359,v,3,tekuklah,dasar,
+123359.1,v,,<tekuk> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+123360,k,11,tekukur,dasar,
+,,,,,
+123361,k,0,tekukur api,dasar,
+123361.1,x,,<tekukur ap> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+123362,k,0,tekukur jerum,dasar,
+,,,,,
+123363,k,0,tekukur merbuk,dasar,
+,,,,,
+123364,k,209,tekun,dasar,
+,,,,,
+123365,k,0,tekung,dasar,
+,,,,,
+123366,k,0,tekung buluh,dasar,
+,,,,,
+123367,v,36,tekuni,dasar,
+123367.1,v,,<tekun> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+123368,v,2,tekunnya,dasar,
+123368.1,v,,<tekun> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+123369,k,0,tekup,dasar,
+,,,,,
+123370,k,0,tekur,dasar,
+,,,,,
+123371,k,6,tekwan,dasar,
+123371.1,x,,<tekw> + -an,bentukan,[38] [S] -an + (<all>)
+123371.2,x,,<tek> + -wan,bentukan,[180] [S] -wan + (<others>)
+,,,,,
+123372,k,77,tel,dasar,
+,,,,,
+123373,c,5,tela,dasar,ketela
+,,,,,
+123374,k,197,telaah,dasar,
+,,,,,
+123375,k,0,telaah kasus,dasar,
+,,,,,
+123376,k,0,telaah kerja,dasar,
+,,,,,
+123377,k,0,telaah keterlaksanaan,dasar,
+123377.1,x,,<telaah keterlaksana> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+123378,k,0,telaah masa,dasar,
+,,,,,
+123379,k,0,telaah metode,dasar,
+,,,,,
+123380,k,0,telaah perilaku,dasar,
+123380.1,x,,<telaah perila> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+123381,k,0,telaah produksi,dasar,
+123381.1,x,,<telaah produks> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+123382,k,0,telaah tolok,dasar,
+,,,,,
+123383,k,33,telaahan,dasar,
+123383.1,v,,<telaah> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+123384,v,3,telaahnya,dasar,
+123384.1,v,,<telaah> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+123385,k,0,telabang,dasar,
+,,,,,
+123386,k,0,telabat,dasar,
+,,,,,
+123387,k,0,telacak,dasar,
+,,,,,
+123388,k,346,teladan,dasar,
+123388.1,x,,<telad> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+123389,v,2,teladan-teladan,dasar,
+123389.1,v,,<teladan> [-] <r>,bentukan,[23] [RD] |
+123389.2,x,,<telad> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+123390,v,18,teladani,dasar,
+123390.1,v,,<teladan> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+123391,v,3,teladanku,dasar,
+123391.1,v,,<teladan> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+123391.2,x,,<telad> + -an + -ku,bentukan,[38] [S] -an + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+123392,v,8,teladannya,dasar,
+123392.1,v,,<teladan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+123392.2,x,,<telad> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+123393,k,0,teladas,dasar,
+,,,,,
+123394,k,95,telaga,dasar,
+,,,,,
+123395,k,0,telaga tahi,dasar,
+123395.1,x,,<telaga tah> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+123396,k,0,telagah,dasar,
+,,,,,
+123397,k,19043,telah,dasar,
+123397.1,x,,<te> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+123398,k,0,telajak,dasar,
+,,,,,
+123399,k,220,telak,dasar,
+,,,,,
+123400,k,0,telakan,dasar,
+123400.1,x,,<tela> + -kan,bentukan,[29] [S] -kan + (<all>)
+123400.2,x,,<telak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+123401,k,0,telakup,dasar,
+,,,,,
+123402,k,0,telampung,dasar,
+,,,,,
+123403,k,50,telan,dasar,
+123403.1,x,,<tel> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+123404,k,0,telancang,dasar,
+,,,,,
+123405,k,5,telang,dasar,
+,,,,,
+123406,k,0,telangger,dasar,
+,,,,,
+123407,k,0,telangkai,dasar,
+123407.1,x,,<telangka> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+123408,k,0,telangkup,dasar,
+,,,,,
+123409,k,288,telanjang,dasar,
+,,,,,
+123410,k,0,telanjang bulat,dasar,
+,,,,,
+123411,k,0,telanjang dada,dasar,
+,,,,,
+123412,k,0,telanjang loncos,dasar,
+,,,,,
+123413,v,2,telanjangi,dasar,
+123413.1,v,,<telanjang> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+123414,v,3,telanjangku,dasar,
+123414.1,v,,<telanjang> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+123415,v,9,telanjangnya,dasar,
+123415.1,v,,<telanjang> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+123416,k,0,telanjuk,dasar,
+,,,,,
+123417,k,250,telanjur,dasar,
+,,,,,
+123418,v,3,telanlah,dasar,
+123418.1,v,,<telan> + -lah,bentukan,[31] [FS] -lah + (<all>)
+123418.2,x,,<tel> + -an + -lah,bentukan,[38] [S] -an + (<all>) => [31] [FS] -lah + (<all>)
+,,,,,
+123419,k,87,telantar,dasar,
+,,,,,
+123420,v,5,telantarkan,dasar,
+123420.1,v,,<telantar> + -kan,bentukan,[29] [S] -kan + (<all>)
+123420.2,x,,<telantark> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+123421,v,4,telantarnya,dasar,
+123421.1,v,,<telantar> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+123422,k,4,telap,dasar,
+,,,,,
+123423,k,0,telapa,dasar,
+,,,,,
+123424,k,424,telapak,dasar,
+,,,,,
+123425,k,0,telapak ban,dasar,
+123425.1,x,,<telapak b> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+123426,k,0,telapak kaki,dasar,
+123426.1,x,,<telapak kak> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+123427,k,0,telapak tangan,dasar,
+123427.1,x,,<telapak tang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+123428,k,0,telapakan,dasar,
+123428.1,x,,<telapa> + -kan,bentukan,[29] [S] -kan + (<all>)
+123428.2,v,,<telapak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+123429,v,13,telapaknya,dasar,
+123429.1,v,,<telapak> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+123430,k,0,telas,dasar,
+,,,,,
+123431,k,184,telat,dasar,
+,,,,,
+123432,k,2,telatah,dasar,
+,,,,,
+123433,k,0,telatap,dasar,
+,,,,,
+123434,k,78,telaten,dasar,
+,,,,,
+123435,v,3,telatnya,dasar,
+123435.1,v,,<telat> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+123436,k,0,telau,dasar,
+,,,,,
+123437,k,0,telayan,dasar,
+123437.1,x,,<telay> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+123438,k,15,tele,dasar,
+,,,,,
+123439,k,0,telearsika,dasar,
+,,,,,
+123440,k,0,telebelanja,dasar,
+,,,,,
+123441,k,0,teledek,dasar,
+,,,,,
+123442,k,0,teledeteksi,dasar,
+123442.1,x,,<teledeteks> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+123443,k,20,teledor,dasar,
+,,,,,
+123444,k,0,teledrama,dasar,
+,,,,,
+123445,k,0,telefilm,dasar,
+,,,,,
+123446,k,10,telefon,dasar,
+,,,,,
+123447,k,0,telefoni,dasar,
+123447.1,x,,<telefon> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+123448,k,0,telefonofobia,dasar,
+123448.1,x,,<telefono> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+123449,k,0,telefoto,dasar,
+,,,,,
+123450,k,0,telefotografi,dasar,
+123450.1,x,,<telefotograf> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+123451,k,0,telegenik,dasar,
+,,,,,
+123452,k,10,telegraf,dasar,
+123452.1,x,,<tele> + -graf,bentukan,[191] [S] -graf + (<all>)
+,,,,,
+123453,k,0,telegraf nirkabel,dasar,
+,,,,,
+123454,k,0,telegraf optik,dasar,
+,,,,,
+123455,k,2,telegrafi,dasar,
+123455.1,x,,<telegraf> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+123456,k,0,telegrafis,dasar,
+123456.1,x,,<telegrafi> + [-is:-s],bentukan,[177] [S] -is + (i)
+123456.2,v,,<telegraf> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+123457,k,95,telegram,dasar,
+,,,,,
+123458,k,0,telegram indah,dasar,
+,,,,,
+123459,k,0,telegrap,dasar,
+,,,,,
+123460,k,2,telek,dasar,
+,,,,,
+123461,k,0,telekamera,dasar,
+,,,,,
+123462,k,0,telekan,dasar,
+123462.1,x,,<tele> + -kan,bentukan,[29] [S] -kan + (<all>)
+123462.2,x,,<telek> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+123463,k,0,telekap,dasar,
+,,,,,
+123464,k,0,telekarya,dasar,
+,,,,,
+123465,k,0,telekinesis,dasar,
+123465.1,x,,<telekinesi> + [-is:-s],bentukan,[177] [S] -is + (i)
+123465.2,x,,<telekines> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+123466,k,0,telekomando,dasar,
+,,,,,
+123467,k,0,telekomando antariksa,dasar,
+,,,,,
+123468,k,0,telekomedi,dasar,
+123468.1,x,,<telekomed> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+123469,k,570,telekomunikasi,dasar,
+123469.1,x,,<telekomunikas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+123470,v,4,telekomunikasinya,dasar,
+123470.1,v,,<telekomunikasi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+123470.2,x,,<telekomunikas> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+123471,k,48,telekonferensi,dasar,
+123471.1,x,,<telekonferens> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+123472,v,3,telekonsultasi,dasar,
+123472.1,x,,<telekonsultas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+123473,k,7,teleks,dasar,
+,,,,,
+123474,k,0,teleku,dasar,
+123474.1,x,,<tele> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+123475,k,2,telekung,dasar,
+,,,,,
+123476,k,0,telekup,dasar,
+,,,,,
+123477,k,0,telelensa,dasar,
+,,,,,
+123478,k,0,telematik,dasar,
+,,,,,
+123479,k,64,telematika,dasar,
+,,,,,
+123480,k,10,telemedisin,dasar,
+,,,,,
+123481,k,0,telemeter,dasar,
+123481.1,x,,<tele> + -meter,bentukan,[189] [S] -meter + (<all>)
+,,,,,
+123482,k,7,telemetri,dasar,
+123482.1,x,,<telemetr> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+123483,k,0,telemetri antariksa,dasar,
+,,,,,
+123484,k,0,telempap,dasar,
+,,,,,
+123485,k,0,telempong,dasar,
+,,,,,
+123486,k,0,telenan,dasar,
+123486.1,x,,<telen> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+123487,k,9,teleng,dasar,
+,,,,,
+123488,k,12,telenovela,dasar,
+,,,,,
+123489,k,83,telentang,dasar,
+123489.1,v,,[ter-:te-] + <lentang>,bentukan,[2200001] [E] ter- + (<all>)
+,,,,,
+123490,v,2,telentangkan,dasar,
+123490.1,v,,<telentang> + -kan,bentukan,[29] [S] -kan + (<all>)
+123490.2,x,,<telentangk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+123491,k,0,telentung,dasar,
+,,,,,
+123492,k,0,teleofobia,dasar,
+123492.1,x,,<teleo> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+123493,k,3,teleologi,dasar,
+123493.1,x,,<teleolog> + -i,bentukan,[28] [S] -i + (<all>)
+123493.2,x,,<teleo> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+123494,k,0,teleos,dasar,
+,,,,,
+123495,k,0,telepa,dasar,
+,,,,,
+123496,k,7,telepati,dasar,
+123496.1,x,,<telepat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+123497,k,2,telepatik,dasar,
+,,,,,
+123498,k,0,telepemrosesan,dasar,
+123498.1,x,,<telepemroses> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+123499,k,0,telephon,dasar,
+,,,,,
+123500,k,0,telepok,dasar,
+,,,,,
+123501,k,0,telepok merah,dasar,
+,,,,,
+123502,k,1949,telepon,dasar,
+,,,,,
+123503,k,0,telepon cerdas,dasar,
+,,,,,
+123504,k,0,telepon engkol,dasar,
+,,,,,
+123505,k,0,telepon genggam,dasar,
+,,,,,
+123506,k,0,telepon koin,dasar,
+,,,,,
+123507,k,0,telepon mobil,dasar,
+,,,,,
+123508,k,0,telepon nirkabel,dasar,
+,,,,,
+123509,k,0,telepon pintar,dasar,
+,,,,,
+123510,k,0,telepon radio,dasar,
+,,,,,
+123511,k,0,telepon seluler,dasar,
+,,,,,
+123512,k,0,telepon tidur,dasar,
+,,,,,
+123513,v,3,telepon-telepon,dasar,
+123513.1,v,,<telepon> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+123514,t,5,teleponan,dasar,
+123514.1,v,,<telepon> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+123515,v,2,teleponkan,dasar,
+123515.1,v,,<telepon> + -kan,bentukan,[29] [S] -kan + (<all>)
+123515.2,x,,<teleponk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+123516,v,17,teleponku,dasar,
+123516.1,v,,<telepon> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+123517,v,3,teleponlah,dasar,
+123517.1,v,,<telepon> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+123518,v,13,teleponmu,dasar,
+123518.1,v,,<telepon> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+,,,,,
+123519,k,4,teleportasi,dasar,
+123519.1,x,,<teleportas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+123520,k,0,teleprinter,dasar,
+,,,,,
+123521,k,0,telepromter,dasar,
+,,,,,
+123522,k,0,telepuk,dasar,
+,,,,,
+123523,k,0,telepuk serasah,dasar,
+,,,,,
+123524,k,27,teler,dasar,
+,,,,,
+123525,v,2,teleradiologi,dasar,
+123525.1,x,,<teleradiolog> + -i,bentukan,[28] [S] -i + (<all>)
+123525.2,x,,<teleradio> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+123526,k,0,telerang,dasar,
+,,,,,
+123527,k,3,teles,dasar,
+,,,,,
+123528,k,0,telesains,dasar,
+,,,,,
+123529,k,0,telesan,dasar,
+123529.1,v,,<teles> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+123530,k,32,teleskop,dasar,
+,,,,,
+123531,k,0,teleskop inframerah,dasar,
+,,,,,
+123532,k,0,teleskop landas bumi,dasar,
+123532.1,x,,<teleskop landas bum> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+123533,k,0,teleskop radio,dasar,
+,,,,,
+123534,k,13,teleskopik,dasar,
+,,,,,
+123535,v,4,teleskopnya,dasar,
+123535.1,v,,<teleskop> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+123536,k,0,telestesia,dasar,
+,,,,,
+123537,k,0,teleteks,dasar,
+,,,,,
+123538,k,0,teletip,dasar,
+,,,,,
+123539,k,0,teletipe,dasar,
+,,,,,
+123540,k,1260,televisi,dasar,
+123540.1,x,,<televis> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+123541,k,0,televisi berbayar,dasar,
+,,,,,
+123542,k,0,televisi hitam putih,dasar,
+,,,,,
+123543,k,0,televisi kabel,dasar,
+,,,,,
+123544,k,0,televisi layar datar,dasar,
+,,,,,
+123545,k,0,televisi warna,dasar,
+,,,,,
+123546,v,4,televisi-televisi,dasar,
+123546.1,v,,<televisi> [-] <r>,bentukan,[23] [RD] |
+123546.2,x,,<televis> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+123547,v,17,televisinya,dasar,
+123547.1,v,,<televisi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+123547.2,x,,<televis> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+123548,k,3,telewicara,dasar,
+,,,,,
+123549,c,2,telfon,dasar,telepon
+,,,,,
+123550,k,0,telgram,dasar,
+,,,,,
+123551,k,19,telik,dasar,
+,,,,,
+123552,k,0,telik sandi,dasar,
+123552.1,x,,<telik sand> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+123553,k,4,telikung,dasar,
+,,,,,
+123554,k,2,telimpuh,dasar,
+,,,,,
+123555,k,0,telimpung,dasar,
+,,,,,
+123556,k,0,telinak,dasar,
+,,,,,
+123557,k,743,telinga,dasar,
+,,,,,
+123558,k,0,telinga badak,dasar,
+,,,,,
+123559,k,0,telinga bedil,dasar,
+,,,,,
+123560,k,0,telinga berok,dasar,
+,,,,,
+123561,k,0,telinga biola,dasar,
+,,,,,
+123562,k,0,telinga gajah,dasar,
+,,,,,
+123563,k,0,telinga jebang,dasar,
+,,,,,
+123564,k,0,telinga kambing,dasar,
+,,,,,
+123565,k,0,telinga kelelawar,dasar,
+,,,,,
+123566,k,0,telinga kera,dasar,
+,,,,,
+123567,k,0,telinga kerbau,dasar,
+,,,,,
+123568,k,0,telinga kuali,dasar,
+123568.1,x,,<telinga kual> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+123569,k,0,telinga kucing,dasar,
+,,,,,
+123570,k,0,telinga rusa,dasar,
+,,,,,
+123571,k,0,telinga telepuk layu,dasar,
+,,,,,
+123572,k,0,telinga tempayan,dasar,
+123572.1,x,,<telinga tempay> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+123573,k,0,telinga tikus,dasar,
+,,,,,
+123574,v,2,telinga-telinga,dasar,
+123574.1,v,,<telinga> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+123575,v,138,telingaku,dasar,
+123575.1,v,,<telinga> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+123576,v,32,telingamu,dasar,
+123576.1,v,,<telinga> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+,,,,,
+123577,v,229,telinganya,dasar,
+123577.1,v,,<telinga> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+123578,k,0,telingkah,dasar,
+123578.1,x,,<teling> + -kah,bentukan,[30] [FS] -kah + (<all>)
+,,,,,
+123579,k,0,telingkuh,dasar,
+,,,,,
+123580,k,0,telingkung,dasar,
+,,,,,
+123581,k,0,telingus,dasar,
+,,,,,
+123582,k,0,telipuk,dasar,
+,,,,,
+123583,k,0,telis,dasar,
+123583.1,x,,<teli> + [-is:-s],bentukan,[177] [S] -is + (i)
+123583.2,x,,<tel> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+123584,c,23,telisik,dasar,selisik
+,,,,,
+123585,k,373,teliti,dasar,
+123585.1,x,,<telit> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+123586,v,2,telitinya,dasar,
+123586.1,v,,<teliti> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+123586.2,x,,<telit> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+123587,k,52,teller,dasar,
+,,,,,
+123588,k,0,telmatofit,dasar,
+,,,,,
+123589,k,4,telo,dasar,
+,,,,,
+123590,t,4,telofase,dasar,
+123590.1,x,,<telof> + -ase,bentukan,[210] [S] -ase + (<all>)
+,,,,,
+123591,t,2,telogen,dasar,
+,,,,,
+123592,k,0,teloko,dasar,
+,,,,,
+123593,k,3,telomer,dasar,
+,,,,,
+123594,k,0,telop,dasar,
+,,,,,
+123595,c,45,telor,dasar,telur
+,,,,,
+123596,k,0,telotak,dasar,
+,,,,,
+123597,c,75,telpon,dasar,telepon
+,,,,,
+123598,k,14,teluh,dasar,
+,,,,,
+123599,k,446,teluk,dasar,
+,,,,,
+123600,k,0,teluk belanga,dasar,
+,,,,,
+123601,k,0,teluk bintuni,dasar,
+123601.1,x,,<teluk bintun> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+123602,k,0,teluk rantau,dasar,
+,,,,,
+123603,k,0,teluk wondama,dasar,
+,,,,,
+123604,k,0,teluki,dasar,
+123604.1,x,,<teluk> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+123605,v,3,teluknya,dasar,
+123605.1,v,,<teluk> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+123606,k,0,telukup,dasar,
+,,,,,
+123607,k,17,telungkup,dasar,
+,,,,,
+123608,k,135,telunjuk,dasar,
+,,,,,
+123609,v,12,telunjukku,dasar,
+123609.1,v,,<telunjuk> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+123610,v,3,telunjukmu,dasar,
+123610.1,v,,<telunjuk> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+,,,,,
+123611,v,64,telunjuknya,dasar,
+123611.1,v,,<telunjuk> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+123612,k,594,telur,dasar,
+,,,,,
+123613,k,0,telur apkir,dasar,
+,,,,,
+123614,k,0,telur asin,dasar,
+,,,,,
+123615,k,0,telur ayam,dasar,
+,,,,,
+123616,k,0,telur beku,dasar,
+123616.1,x,,<telur be> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+123617,k,0,telur belalang,dasar,
+,,,,,
+123618,k,0,telur bertunas,dasar,
+,,,,,
+123619,k,0,telur besar,dasar,
+,,,,,
+123620,k,0,telur buaya,dasar,
+,,,,,
+123621,k,0,telur bungkus,dasar,
+,,,,,
+123622,k,0,telur busuk,dasar,
+,,,,,
+123623,k,0,telur cecak,dasar,
+,,,,,
+123624,k,0,telur ceplok,dasar,
+,,,,,
+123625,k,0,telur dadar,dasar,
+,,,,,
+123626,k,0,telur fertil,dasar,
+,,,,,
+123627,k,0,telur gabus,dasar,
+,,,,,
+123628,k,0,telur ikan,dasar,
+123628.1,x,,<telur i> + -kan,bentukan,[29] [S] -kan + (<all>)
+123628.2,x,,<telur ik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+123629,k,0,telur infertil,dasar,
+,,,,,
+123630,k,0,telur jumbo,dasar,
+,,,,,
+123631,k,0,telur kecil,dasar,
+,,,,,
+123632,k,0,telur kobis,dasar,
+123632.1,x,,<telur kobi> + [-is:-s],bentukan,[177] [S] -is + (i)
+123632.2,x,,<telur kob> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+123633,k,0,telur kodok,dasar,
+,,,,,
+123634,k,0,telur kol,dasar,
+,,,,,
+123635,k,0,telur konsumsi,dasar,
+123635.1,x,,<telur konsums> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+123636,k,0,telur mata sapi,dasar,
+123636.1,x,,<telur mata sap> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+123637,k,0,telur organik,dasar,
+,,,,,
+123638,k,0,telur selasih,dasar,
+,,,,,
+123639,k,0,telur tembelang,dasar,
+,,,,,
+123640,k,0,telur tetas,dasar,
+,,,,,
+123641,k,0,telur tidak bertunas,dasar,
+,,,,,
+123642,k,0,telur tim,dasar,
+,,,,,
+123643,v,30,telur-telur,dasar,
+123643.1,v,,<telur> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+123644,v,8,telur-telurnya,dasar,
+123644.1,x,,<telur> [-] <r> + -nya,bentukan,[23] [RD] |
+123644.2,v,,<telur> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+123645,k,0,telurit,dasar,
+,,,,,
+123646,k,0,telurium,dasar,
+,,,,,
+123647,v,45,telurnya,dasar,
+123647.1,v,,<telur> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+123648,k,0,telus,dasar,
+,,,,,
+123649,k,0,telusuk,dasar,
+,,,,,
+123650,k,11,telusur,dasar,
+,,,,,
+123651,t,3,telusuran,dasar,
+123651.1,v,,<telusur> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+123652,v,63,telusuri,dasar,
+123652.1,v,,<telusur> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+123653,v,2,telusurilah,dasar,
+123653.1,x,,<telusuri> + -lah,bentukan,[31] [FS] -lah + (<all>)
+123653.2,v,,<telusur> + -i + -lah,bentukan,[28] [S] -i + (<all>) => [31] [FS] -lah + (<all>)
+,,,,,
+123654,k,0,telut,dasar,
+,,,,,
+123655,k,0,telutuh,dasar,
+,,,,,
+123656,k,0,telutur,dasar,
+,,,,,
+123657,k,0,telutut,dasar,
+,,,,,
+123658,k,33,tem,dasar,
+,,,,,
+123659,k,1676,tema,dasar,
+,,,,,
+123660,v,120,tema-tema,dasar,
+123660.1,v,,<tema> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+123661,v,2,tema-temanya,dasar,
+123661.1,x,,<tema> [-] <r> + -nya,bentukan,[23] [RD] |
+123661.2,v,,<tema> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+123662,k,0,temaah,dasar,
+,,,,,
+123663,k,0,temabur,dasar,
+,,,,,
+123664,k,0,temadun,dasar,
+,,,,,
+123665,k,0,temaha,dasar,
+,,,,,
+123666,k,0,temahak,dasar,
+,,,,,
+123667,k,2,temak,dasar,
+,,,,,
+123668,k,0,temalang,dasar,
+,,,,,
+123669,k,13,temali,dasar,
+123669.1,v,,<[tali:temali]>,bentukan,[Infix]
+123669.2,x,,<temal> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+123670,k,1819,teman,dasar,
+123670.1,x,,<tem> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+123671,k,0,teman hidup,dasar,
+,,,,,
+123672,k,0,teman nasi,dasar,
+123672.1,x,,<teman nas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+123673,k,0,teman sejawat,dasar,
+,,,,,
+123674,v,1100,teman-teman,dasar,
+123674.1,v,,<teman> [-] <r>,bentukan,[23] [RD] |
+123674.2,x,,<tem> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+123675,v,79,teman-temanku,dasar,
+123675.1,v,,<teman> [-] <r> + -ku,bentukan,[23] [RD] | => [32] [SFS] -ku + (<all>)
+123675.2,x,,<tem> + -an [-] <r> + -an + -ku,bentukan,[38] [S] -an + (<all>) => [23] [RD] | => [32] [SFS] -ku + (<all>)
+,,,,,
+123676,v,55,teman-temanmu,dasar,
+123676.1,v,,<teman> [-] <r> + -mu,bentukan,[23] [RD] | => [33] [SFS] -mu + (<all>)
+123676.2,x,,<tem> + -an [-] <r> + -an + -mu,bentukan,[38] [S] -an + (<all>) => [23] [RD] | => [33] [SFS] -mu + (<all>)
+,,,,,
+123677,v,567,teman-temannya,dasar,
+123677.1,x,,<teman> [-] <r> + -nya,bentukan,[23] [RD] |
+123677.2,x,,<tem> + -an [-] <r> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+123677.3,v,,<teman> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+123677.4,x,,<tem> + -an [-] <r> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+123678,t,3,temanan,dasar,
+123678.1,v,,<teman> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+123679,k,0,temangau,dasar,
+,,,,,
+123680,k,0,temangga,dasar,
+,,,,,
+123681,k,62,temanggung,dasar,
+,,,,,
+123682,v,48,temani,dasar,
+123682.1,v,,<teman> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+123683,v,3,temanilah,dasar,
+123683.1,x,,<temani> + -lah,bentukan,[31] [FS] -lah + (<all>)
+123683.2,v,,<teman> + -i + -lah,bentukan,[28] [S] -i + (<all>) => [31] [FS] -lah + (<all>)
+,,,,,
+123684,v,125,temanku,dasar,
+123684.1,v,,<teman> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+123684.2,x,,<tem> + -an + -ku,bentukan,[38] [S] -an + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+123685,v,69,temanmu,dasar,
+123685.1,v,,<teman> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+123685.2,x,,<tem> + -an + -mu,bentukan,[38] [S] -an + (<all>) => [33] [SFS] -mu + (<all>)
+,,,,,
+123686,v,583,temannya,dasar,
+123686.1,v,,<teman> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+123686.2,x,,<tem> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+123687,k,6,temanten,dasar,
+,,,,,
+123688,v,59,temanya,dasar,
+123688.1,v,,<tema> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+123689,k,0,temar,dasar,
+,,,,,
+123690,k,93,temaram,dasar,
+,,,,,
+123691,k,0,temas,dasar,
+,,,,,
+123692,k,0,temas-temas,dasar,
+123692.1,x,,<temas> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+123693,k,0,temasa,dasar,
+,,,,,
+123694,k,0,temasya,dasar,
+,,,,,
+123695,k,118,tematik,dasar,
+,,,,,
+123696,v,2,tematiknya,dasar,
+123696.1,v,,<tematik> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+123697,k,18,tematis,dasar,
+123697.1,x,,<temati> + [-is:-s],bentukan,[177] [S] -is + (i)
+123697.2,x,,<temat> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+123698,k,0,tematisasi,dasar,
+123698.1,x,,<tematisas> + -i,bentukan,[28] [S] -i + (<all>)
+123698.2,x,,<temati> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+123698.3,x,,<tematis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+123698.4,x,,<temat> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+123699,k,0,tematu,dasar,
+,,,,,
+123700,k,0,temawar,dasar,
+,,,,,
+123701,k,0,temayun,dasar,
+,,,,,
+123702,k,0,tembadau,dasar,
+,,,,,
+123703,k,229,tembaga,dasar,
+,,,,,
+123704,k,0,tembaga alami,dasar,
+123704.1,x,,<tembaga alam> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+123705,k,0,tembaga kuning,dasar,
+,,,,,
+123706,k,0,tembaga merah,dasar,
+,,,,,
+123707,k,0,tembaga pekat,dasar,
+,,,,,
+123708,k,0,tembaga perunggu,dasar,
+,,,,,
+123709,k,0,tembaga putih,dasar,
+,,,,,
+123710,k,0,tembaga suasa,dasar,
+,,,,,
+123711,v,3,tembaganya,dasar,
+123711.1,v,,<tembaga> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+123712,k,311,tembak,dasar,
+,,,,,
+123713,k,23,tembak-menembak,dasar,
+123713.1,v,,<tembak> [-] [meng-:me-] + <r>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [24] [RD] |meng-
+,,,,,
+123714,t,6,tembak-tembakan,dasar,
+123714.1,v,,<tembak> [-] <r> + -an,bentukan,[23] [RD] |
+,,,,,
+123715,k,387,tembakan,dasar,
+123715.1,x,,<temba> + -kan,bentukan,[29] [S] -kan + (<all>)
+123715.2,v,,<tembak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+123716,k,0,tembakan bawah tangan,dasar,
+123716.1,x,,<tembakan bawah tang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+123717,k,0,tembakan dorong,dasar,
+,,,,,
+123718,k,0,tembakan dua tangan sedada,dasar,
+,,,,,
+123719,k,0,tembakan gaet,dasar,
+,,,,,
+123720,k,0,tembakan gagal,dasar,
+,,,,,
+123721,k,0,tembakan jarak jauh,dasar,
+,,,,,
+123722,k,0,tembakan kesalahan,dasar,
+123722.1,x,,<tembakan kesalah> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+123723,k,0,tembakan lapangan,dasar,
+123723.1,x,,<tembakan lapang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+123724,k,0,tembakan melompat,dasar,
+,,,,,
+123725,k,0,tembakan satu tangan,dasar,
+123725.1,x,,<tembakan satu tang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+123726,k,0,tembakan setinggi lutut,dasar,
+,,,,,
+123727,k,0,tembakan tabrak,dasar,
+,,,,,
+123728,v,12,tembakan-tembakan,dasar,
+123728.1,x,,<tembakan> [-] <r>,bentukan,[23] [RD] |
+123728.2,x,,<temba> + -kan [-] <r> + -kan,bentukan,[29] [S] -kan + (<all>) => [23] [RD] |
+123728.3,v,,<tembak> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+123729,v,2,tembakan-tembakannya,dasar,
+123729.1,x,,<tembakan> [-] <r> + -nya,bentukan,[23] [RD] |
+123729.2,x,,<temba> + -kan [-] <r> + -kan + -nya,bentukan,[29] [S] -kan + (<all>) => [23] [RD] |
+123729.3,x,,<tembak> + -an [-] <r> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+123729.4,x,,<tembakan> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+123729.5,x,,<temba> + -kan [-] <r> + -kan + -nya,bentukan,[29] [S] -kan + (<all>) => [23] [RD] | => [34] [SFS] -nya + (<all>)
+123729.6,v,,<tembak> + -an [-] <r> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+123730,k,0,tembakang,dasar,
+,,,,,
+123731,v,6,tembakanku,dasar,
+123731.1,x,,<tembakan> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+123731.2,x,,<temba> + -kan + -ku,bentukan,[29] [S] -kan + (<all>) => [32] [SFS] -ku + (<all>)
+123731.3,v,,<tembak> + -an + -ku,bentukan,[38] [S] -an + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+123732,v,26,tembakannya,dasar,
+123732.1,x,,<tembakan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+123732.2,x,,<temba> + -kan + -nya,bentukan,[29] [S] -kan + (<all>) => [34] [SFS] -nya + (<all>)
+123732.3,v,,<tembak> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+123733,k,260,tembakau,dasar,
+,,,,,
+123734,k,0,tembakau deli,dasar,
+123734.1,x,,<tembakau del> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+123735,k,0,tembakau garangan,dasar,
+123735.1,x,,<tembakau garang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+123736,k,0,tembakau hidung,dasar,
+,,,,,
+123737,k,0,tembakau hutan,dasar,
+123737.1,x,,<tembakau hut> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+123738,k,0,tembakau kepala,dasar,
+,,,,,
+123739,k,0,tembakau kerosok,dasar,
+,,,,,
+123740,k,0,tembakau lempeng,dasar,
+,,,,,
+123741,k,0,tembakau lempengan,dasar,
+123741.1,x,,<tembakau lempeng> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+123742,k,0,tembakau mole,dasar,
+,,,,,
+123743,k,0,tembakau sek,dasar,
+,,,,,
+123744,k,0,tembakau singgung,dasar,
+,,,,,
+123745,k,0,tembakau sisik,dasar,
+,,,,,
+123746,k,0,tembakau sun,dasar,
+,,,,,
+123747,k,0,tembakau tampang,dasar,
+,,,,,
+123748,k,0,tembakau tengkuk,dasar,
+,,,,,
+123749,k,0,tembakau teter,dasar,
+,,,,,
+123750,v,10,tembakaunya,dasar,
+123750.1,v,,<tembakau> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+123751,v,5,tembaki,dasar,
+123751.1,v,,<tembak> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+123752,v,8,tembakkan,dasar,
+123752.1,v,,<tembak> + -kan,bentukan,[29] [S] -kan + (<all>)
+123752.2,x,,<tembakk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+123753,k,0,tembakul,dasar,
+,,,,,
+123754,k,13,tembam,dasar,
+,,,,,
+123755,v,3,tembamnya,dasar,
+123755.1,v,,<tembam> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+123756,k,95,tembang,dasar,
+,,,,,
+123757,k,0,tembang cilik,dasar,
+,,,,,
+123758,k,0,tembang gede,dasar,
+,,,,,
+123759,k,0,tembang kawi,dasar,
+123759.1,x,,<tembang kaw> + -i,bentukan,[28] [S] -i + (<all>)
+123759.2,x,,<tembang ka> + -wi,bentukan,[174] [S] -wi + (<others>)
+,,,,,
+123760,k,0,tembang macapat,dasar,
+,,,,,
+123761,k,0,tembang mistik,dasar,
+,,,,,
+123762,k,0,tembang tengahan,dasar,
+123762.1,x,,<tembang tengah> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+123763,v,7,tembang-tembang,dasar,
+123763.1,v,,<tembang> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+123764,v,3,tembang-tembangnya,dasar,
+123764.1,x,,<tembang> [-] <r> + -nya,bentukan,[23] [RD] |
+123764.2,v,,<tembang> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+123765,v,5,tembangnya,dasar,
+123765.1,v,,<tembang> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+123766,k,0,tembarau,dasar,
+,,,,,
+123767,k,0,tembatar,dasar,
+,,,,,
+123768,k,0,tembatu,dasar,
+,,,,,
+123769,k,0,tembek,dasar,
+,,,,,
+123770,k,0,tembekar,dasar,
+,,,,,
+123771,k,0,tembel,dasar,
+,,,,,
+123772,k,0,tembelang,dasar,
+,,,,,
+123773,k,0,tembelek,dasar,
+,,,,,
+123774,k,0,tembeliung,dasar,
+,,,,,
+123775,k,0,tembelok,dasar,
+,,,,,
+123776,c,6,tembem,dasar,tembam
+,,,,,
+123777,k,0,tembera,dasar,
+,,,,,
+123778,k,0,temberam,dasar,
+,,,,,
+123779,k,0,temberang,dasar,
+,,,,,
+123780,k,0,temberang belakang,dasar,
+,,,,,
+123781,k,0,temberang buritan,dasar,
+123781.1,x,,<temberang burit> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+123782,k,0,temberang haluan,dasar,
+123782.1,x,,<temberang halu> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+123783,k,0,temberang keliling,dasar,
+,,,,,
+123784,k,0,temberang lenggang,dasar,
+,,,,,
+123785,k,0,temberang turut,dasar,
+,,,,,
+123786,k,0,temberas,dasar,
+,,,,,
+123787,k,0,temberek,dasar,
+,,,,,
+123788,k,0,tembereng,dasar,
+,,,,,
+123789,k,0,tembereng tajam,dasar,
+,,,,,
+123790,k,0,temberih,dasar,
+,,,,,
+123791,k,0,temberos abang,dasar,
+,,,,,
+123792,k,3,tembesu,dasar,
+,,,,,
+123793,k,0,tembesu bukit,dasar,
+,,,,,
+123794,k,0,tembesu hutan,dasar,
+123794.1,x,,<tembesu hut> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+123795,k,0,tembesu kapur,dasar,
+,,,,,
+123796,k,0,tembesu ketam,dasar,
+,,,,,
+123797,k,0,tembesu padang,dasar,
+,,,,,
+123798,k,0,tembesu paya,dasar,
+,,,,,
+123799,k,0,tembesu tembaga,dasar,
+,,,,,
+123800,k,0,tembiang,dasar,
+,,,,,
+123801,k,0,tembikai,dasar,
+123801.1,x,,<tembika> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+123802,k,15,tembikar,dasar,
+,,,,,
+123803,k,0,tembilang,dasar,
+,,,,,
+123804,k,0,tembilang besi,dasar,
+123804.1,x,,<tembilang bes> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+123805,k,0,tembilang emas,dasar,
+,,,,,
+123806,k,0,tembilar,dasar,
+,,,,,
+123807,k,0,tembiring,dasar,
+,,,,,
+123808,k,0,tembis,dasar,
+123808.1,x,,<tembi> + [-is:-s],bentukan,[177] [S] -is + (i)
+123808.2,x,,<temb> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+123809,k,455,tembok,dasar,
+,,,,,
+123810,k,0,tembok api,dasar,
+123810.1,x,,<tembok ap> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+123811,k,0,tembok kering,dasar,
+,,,,,
+123812,v,27,tembok-tembok,dasar,
+123812.1,v,,<tembok> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+123813,v,21,temboknya,dasar,
+123813.1,v,,<tembok> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+123814,k,0,tembola,dasar,
+,,,,,
+123815,k,6,tembolok,dasar,
+,,,,,
+123816,k,0,tembong,dasar,
+,,,,,
+123817,k,0,tembosa,dasar,
+,,,,,
+123818,k,0,tembra,dasar,
+,,,,,
+123819,k,0,tembu,dasar,
+,,,,,
+123820,k,0,tembuk,dasar,
+,,,,,
+123821,k,0,tembuku,dasar,
+123821.1,x,,<tembu> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+123822,k,0,tembuku tangan,dasar,
+123822.1,x,,<tembuku tang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+123823,k,9,tembung,dasar,
+,,,,,
+123824,k,0,tembuni,dasar,
+123824.1,x,,<tembun> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+123825,k,236,tembus,dasar,
+,,,,,
+123826,k,0,tembus cahaya,dasar,
+,,,,,
+123827,k,0,tembus pandang,dasar,
+,,,,,
+123828,k,665,tembusan,dasar,
+123828.1,v,,<tembus> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+123829,k,0,tembusan surat,dasar,
+,,,,,
+123830,v,66,tembusannya,dasar,
+123830.1,x,,<tembusan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+123830.2,v,,<tembus> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+123831,v,3,tembuskan,dasar,
+123831.1,v,,<tembus> + -kan,bentukan,[29] [S] -kan + (<all>)
+123831.2,x,,<tembusk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+123832,v,2,tembuslah,dasar,
+123832.1,v,,<tembus> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+123833,v,2,tembusnya,dasar,
+123833.1,v,,<tembus> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+123834,k,0,tembusu,dasar,
+,,,,,
+123835,k,0,temegun,dasar,
+,,,,,
+123836,k,6,temeh,dasar,
+,,,,,
+123837,k,0,temeh-temeh,dasar,
+123837.1,v,,<temeh> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+123838,k,0,temelian,dasar,
+123838.1,x,,<temeli> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+123839,k,0,temengalan,dasar,
+123839.1,x,,<temengal> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+123840,c,7,temenggung,dasar,tumenggung
+,,,,,
+123841,k,0,temenggung melata,dasar,
+,,,,,
+123842,k,0,temenung,dasar,
+,,,,,
+123843,k,0,temesar,dasar,
+,,,,,
+123844,k,0,temetu,dasar,
+,,,,,
+123845,k,0,temilang,dasar,
+,,,,,
+123846,k,0,temin,dasar,
+,,,,,
+123847,k,0,temokus,dasar,
+,,,,,
+123848,k,0,temoleh,dasar,
+,,,,,
+123849,k,11,tempa,dasar,
+,,,,,
+123850,k,0,tempa-menempa,dasar,
+123850.1,v,,<tempa> [-] [meng-:me-] + <r>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [24] [RD] |meng-
+,,,,,
+123851,k,27,tempaan,dasar,
+123851.1,v,,<tempa> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+123852,k,0,tempah,dasar,
+,,,,,
+123853,k,0,tempahan,dasar,
+123853.1,v,,<tempah> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+123854,k,0,tempala,dasar,
+,,,,,
+123855,k,0,tempalak,dasar,
+,,,,,
+123856,k,0,tempan,dasar,
+123856.1,x,,<temp> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+123857,k,0,tempang,dasar,
+,,,,,
+123858,k,0,tempap,dasar,
+,,,,,
+123859,k,8587,tempat,dasar,
+,,,,,
+123860,k,0,tempat bertanya,dasar,
+123860.1,x,,<tempat berta> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+123861,k,0,tempat duduk penonton,dasar,
+,,,,,
+123862,k,0,tempat guring,dasar,
+,,,,,
+123863,k,0,tempat hati,dasar,
+123863.1,x,,<tempat hat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+123864,k,0,tempat istirahat,dasar,
+,,,,,
+123865,k,0,tempat makanan otomatis,dasar,
+123865.1,x,,<tempat makanan otomati> + [-is:-s],bentukan,[177] [S] -is + (i)
+123865.2,x,,<tempat makanan otomat> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+123866,k,0,tempat minum kuda,dasar,
+,,,,,
+123867,k,0,tempat parkir,dasar,
+,,,,,
+123868,k,0,tempat semenda,dasar,
+,,,,,
+123869,k,0,tempat sirih,dasar,
+,,,,,
+123870,k,0,tempat tinggal,dasar,
+,,,,,
+123871,k,0,tempat tujuan,dasar,
+123871.1,x,,<tempat tuju> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+123872,k,0,tempat tukang ladam,dasar,
+,,,,,
+123873,v,665,tempat-tempat,dasar,
+123873.1,v,,<tempat> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+123874,v,2,tempat-tempatnya,dasar,
+123874.1,x,,<tempat> [-] <r> + -nya,bentukan,[23] [RD] |
+123874.2,v,,<tempat> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+123875,k,8,tempatan,dasar,
+123875.1,v,,<tempat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+123876,k,0,tempatan hati,dasar,
+123876.1,x,,<tempatan hat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+123877,v,64,tempati,dasar,
+123877.1,v,,<tempat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+123878,v,72,tempatkan,dasar,
+123878.1,v,,<tempat> + -kan,bentukan,[29] [S] -kan + (<all>)
+123878.2,x,,<tempatk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+123879,v,4,tempatkanlah,dasar,
+123879.1,x,,<tempatkan> + -lah,bentukan,[31] [FS] -lah + (<all>)
+123879.2,v,,<tempat> + -kan + -lah,bentukan,[29] [S] -kan + (<all>) => [31] [FS] -lah + (<all>)
+123879.3,x,,<tempatk> + -an + -lah,bentukan,[38] [S] -an + (<all>) => [31] [FS] -lah + (<all>)
+,,,,,
+123880,v,653,tempatnya,dasar,
+123880.1,v,,<tempat> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+123881,k,0,tempaus,dasar,
+,,,,,
+123882,k,0,tempawak,dasar,
+,,,,,
+123883,k,0,tempawan,dasar,
+123883.1,x,,<tempaw> + -an,bentukan,[38] [S] -an + (<all>)
+123883.2,x,,<tempa> + -wan,bentukan,[180] [S] -wan + (<others>)
+123883.3,x,,<temp> + [-wan:-awan],bentukan,[18000001] [S] -wan + (<all>)
+,,,,,
+123884,k,0,tempayak,dasar,
+,,,,,
+123885,k,14,tempayan,dasar,
+123885.1,x,,<tempay> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+123886,k,0,tempayan budu,dasar,
+,,,,,
+123887,k,0,tempayan gubang,dasar,
+,,,,,
+123888,k,0,tempayan peda,dasar,
+,,,,,
+123889,k,0,tempayan taban,dasar,
+123889.1,x,,<tempayan tab> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+123890,k,0,tempayan tapak gajah,dasar,
+,,,,,
+123891,k,0,tempayan telur buaya,dasar,
+,,,,,
+123892,k,0,tempayang,dasar,
+,,,,,
+123893,k,0,tempayung,dasar,
+,,,,,
+123894,k,167,tempe,dasar,
+,,,,,
+123895,k,0,tempe benguk,dasar,
+,,,,,
+123896,k,0,tempe bongkrek,dasar,

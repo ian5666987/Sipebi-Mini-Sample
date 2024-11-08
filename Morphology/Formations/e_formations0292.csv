@@ -1,0 +1,1661 @@
+Nomor,KP,Jumlah,Entri,Tipe,Pembentukan
+105181,k,80,psi,dasar,
+105181.1,x,,<ps> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105182,k,2,psike,dasar,
+,,,,,
+105183,k,0,psikedelik,dasar,
+,,,,,
+105184,k,94,psikiater,dasar,
+,,,,,
+105185,k,41,psikiatri,dasar,
+105185.1,x,,<psikiatr> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105186,k,4,psikiatris,dasar,
+105186.1,x,,<psikiatri> + [-is:-s],bentukan,[177] [S] -is + (i)
+105186.2,x,,<psikiatr> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+105187,k,276,psikis,dasar,
+105187.1,x,,<psiki> + [-is:-s],bentukan,[177] [S] -is + (i)
+105187.2,x,,<psik> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+105188,v,11,psiko,dasar,
+,,,,,
+105189,v,2,psiko-fisik,dasar,
+,,,,,
+105190,v,11,psiko-sosial,dasar,
+,,,,,
+105191,k,9,psikoaktif,dasar,
+,,,,,
+105192,v,5,psikoanalis,dasar,
+105192.1,x,,<psikoanali> + [-is:-s],bentukan,[177] [S] -is + (i)
+105192.2,x,,<psikoanal> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+105193,k,18,psikoanalisis,dasar,
+105193.1,x,,<psikoanalisi> + [-is:-s],bentukan,[177] [S] -is + (i)
+105193.2,v,,<psikoanalis> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+105194,k,0,psikobiologi,dasar,
+105194.1,x,,<psikobiolog> + -i,bentukan,[28] [S] -i + (<all>)
+105194.2,x,,<psikobio> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+105195,k,0,psikobiologis,dasar,
+105195.1,v,,<psikobiologi> + [-is:-s],bentukan,[177] [S] -is + (i)
+105195.2,x,,<psikobiolog> + -is,bentukan,[178] [S] -is + (<others>)
+105195.3,x,,<psikobio> + -logi+-s,bentukan,[194] [MS] -logi+-s + (<all>)
+,,,,,
+105196,k,0,psikodinamik,dasar,
+,,,,,
+105197,k,2,psikodinamika,dasar,
+,,,,,
+105198,k,0,psikodrama,dasar,
+,,,,,
+105199,v,4,psikoedukasi,dasar,
+105199.1,x,,<psikoedukas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105200,k,0,psikoenergi,dasar,
+105200.1,x,,<psikoenerg> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105201,k,0,psikofarmakologi,dasar,
+105201.1,x,,<psikofarmakolog> + -i,bentukan,[28] [S] -i + (<all>)
+105201.2,x,,<psikofarmako> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+105202,k,0,psikofisiologis,dasar,
+105202.1,x,,<psikofisiologi> + [-is:-s],bentukan,[177] [S] -is + (i)
+105202.2,x,,<psikofisiolog> + -is,bentukan,[178] [S] -is + (<others>)
+105202.3,x,,<psikofisio> + -logi+-s,bentukan,[194] [MS] -logi+-s + (<all>)
+,,,,,
+105203,k,0,psikofobia,dasar,
+105203.1,v,,<psiko> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+105204,k,0,psikogenesis,dasar,
+105204.1,x,,<psikogenesi> + [-is:-s],bentukan,[177] [S] -is + (i)
+105204.2,x,,<psikogenes> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+105205,k,4,psikogenik,dasar,
+,,,,,
+105206,v,8,psikografis,dasar,
+105206.1,x,,<psikografi> + [-is:-s],bentukan,[177] [S] -is + (i)
+105206.2,x,,<psikograf> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+105207,k,0,psikokinesis,dasar,
+105207.1,x,,<psikokinesi> + [-is:-s],bentukan,[177] [S] -is + (i)
+105207.2,x,,<psikokines> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+105208,k,0,psikolepsi,dasar,
+105208.1,x,,<psikoleps> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105209,k,6,psikolinguistik,dasar,
+,,,,,
+105210,k,316,psikolog,dasar,
+,,,,,
+105211,k,525,psikologi,dasar,
+105211.1,x,,<psikolog> + -i,bentukan,[28] [S] -i + (<all>)
+105211.2,x,,<psiko> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+105212,k,0,psikologi fisiologik,dasar,
+,,,,,
+105213,k,0,psikologi komunitas,dasar,
+105213.1,x,,<psikologi komun> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+105214,k,0,psikologi kriminal,dasar,
+,,,,,
+105215,k,0,psikologi perkembangan,dasar,
+105215.1,x,,<psikologi perkembang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+105216,k,0,psikologi sosial,dasar,
+,,,,,
+105217,k,685,psikologis,dasar,
+105217.1,v,,<psikologi> + [-is:-s],bentukan,[177] [S] -is + (i)
+105217.2,x,,<psikolog> + -is,bentukan,[178] [S] -is + (<others>)
+105217.3,x,,<psiko> + -logi+-s,bentukan,[194] [MS] -logi+-s + (<all>)
+,,,,,
+105218,v,2,psikologis-sosial,dasar,
+,,,,,
+105219,k,0,psikologisme,dasar,
+105219.1,v,,<psikolog> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+105220,k,2,psikometri,dasar,
+105220.1,x,,<psikometr> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105221,v,5,psikometrik,dasar,
+105221.1,x,,<psiko> + -metrik,bentukan,[211] [S] -metrik + (<all>)
+,,,,,
+105222,k,0,psikometrika,dasar,
+,,,,,
+105223,k,0,psikometris,dasar,
+105223.1,x,,<psikometri> + [-is:-s],bentukan,[177] [S] -is + (i)
+105223.2,x,,<psikometr> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+105224,k,36,psikomotor,dasar,
+105224.1,x,,<psiko> + -motor,bentukan,[201] [S] -motor + (<all>)
+,,,,,
+105225,k,55,psikomotorik,dasar,
+,,,,,
+105226,v,4,psikomotoriknya,dasar,
+105226.1,v,,<psikomotorik> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+105227,v,2,psikoneuroimunologi,dasar,
+105227.1,x,,<psikoneuroimunolog> + -i,bentukan,[28] [S] -i + (<all>)
+105227.2,x,,<psikoneuroimuno> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+105228,k,0,psikoneurologi,dasar,
+105228.1,x,,<psikoneurolog> + -i,bentukan,[28] [S] -i + (<all>)
+105228.2,x,,<psikoneuro> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+105229,k,0,psikoneurosis,dasar,
+105229.1,x,,<psikoneurosi> + [-is:-s],bentukan,[177] [S] -is + (i)
+105229.2,x,,<psikoneuros> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+105230,k,34,psikopat,dasar,
+,,,,,
+105231,k,0,psikopati,dasar,
+105231.1,x,,<psikopat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105232,k,4,psikopatologi,dasar,
+105232.1,x,,<psikopatolog> + -i,bentukan,[28] [S] -i + (<all>)
+105232.2,x,,<psikopato> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+105233,v,2,psikopedagogis,dasar,
+105233.1,x,,<psikopedagogi> + [-is:-s],bentukan,[177] [S] -is + (i)
+105233.2,x,,<psikopedagog> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+105234,v,2,psikoreligius,dasar,
+,,,,,
+105235,k,0,psikosastra,dasar,
+,,,,,
+105236,k,0,psikoseksual,dasar,
+,,,,,
+105237,k,6,psikosis,dasar,
+105237.1,x,,<psikosi> + [-is:-s],bentukan,[177] [S] -is + (i)
+105237.2,x,,<psikos> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+105238,k,6,psikosomatik,dasar,
+,,,,,
+105239,k,0,psikosomatika,dasar,
+,,,,,
+105240,v,6,psikosomatis,dasar,
+105240.1,x,,<psikosomati> + [-is:-s],bentukan,[177] [S] -is + (i)
+105240.2,x,,<psikosomat> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+105241,k,0,psikoteknik,dasar,
+,,,,,
+105242,k,0,psikoteknis,dasar,
+105242.1,x,,<psikotekni> + [-is:-s],bentukan,[177] [S] -is + (i)
+105242.2,x,,<psikotekn> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+105243,k,14,psikoterapi,dasar,
+105243.1,x,,<psikoterap> + -i,bentukan,[28] [S] -i + (<all>)
+105243.2,x,,<psiko> + -terapi,bentukan,[215] [S] -terapi + (<all>)
+,,,,,
+105244,k,10,psikoterapis,dasar,
+105244.1,x,,<psikoterapi> + [-is:-s],bentukan,[177] [S] -is + (i)
+105244.2,x,,<psikoterap> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+105245,k,24,psikotes,dasar,
+,,,,,
+105246,k,10,psikotik,dasar,
+,,,,,
+105247,k,58,psikotropika,dasar,
+,,,,,
+105248,k,0,psikrofili,dasar,
+105248.1,x,,<psikrofil> + -i,bentukan,[28] [S] -i + (<all>)
+105248.2,x,,<psikro> + -fili,bentukan,[193] [S] -fili + (<all>)
+,,,,,
+105249,k,0,psikrometer,dasar,
+105249.1,x,,<psikro> + -meter,bentukan,[189] [S] -meter + (<all>)
+,,,,,
+105250,k,0,psikrometer putar,dasar,
+,,,,,
+105251,k,0,psikrometri,dasar,
+105251.1,x,,<psikrometr> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105252,k,0,psilosibin,dasar,
+,,,,,
+105253,k,0,psilosibina,dasar,
+,,,,,
+105254,k,0,psitakosis,dasar,
+105254.1,x,,<psitakosi> + [-is:-s],bentukan,[177] [S] -is + (i)
+105254.2,x,,<psitakos> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+105255,k,12,psoriasis,dasar,
+105255.1,x,,<psoriasi> + [-is:-s],bentukan,[177] [S] -is + (i)
+105255.2,x,,<psorias> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+105256,k,0,psoriosis,dasar,
+105256.1,x,,<psoriosi> + [-is:-s],bentukan,[177] [S] -is + (i)
+105256.2,x,,<psorios> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+105257,k,0,pteridofita,dasar,
+,,,,,
+105258,k,0,pteridofobia,dasar,
+105258.1,x,,<pterido> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+105259,k,0,pterodaktil,dasar,
+,,,,,
+105260,k,0,pterokauli,dasar,
+105260.1,x,,<pterokaul> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105261,k,0,pteromerhanofobia,dasar,
+105261.1,x,,<pteromerhano> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+105262,k,0,pteronofobia,dasar,
+105262.1,x,,<pterono> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+105263,k,0,pteropoda,dasar,
+,,,,,
+105264,k,0,ptialin,dasar,
+,,,,,
+105265,v,13,ptik,dasar,
+,,,,,
+105266,v,2,ptolomeus,dasar,
+,,,,,
+105267,k,0,ptomaina,dasar,
+,,,,,
+105268,k,0,ptosis,dasar,
+105268.1,x,,<ptosi> + [-is:-s],bentukan,[177] [S] -is + (i)
+105268.2,x,,<ptos> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+105269,v,66,ptun,dasar,
+,,,,,
+105270,k,0,puadai,dasar,
+105270.1,x,,<puada> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105271,k,0,puah,dasar,
+,,,,,
+105272,k,8,puak,dasar,
+,,,,,
+105273,k,0,puaka,dasar,
+,,,,,
+105274,k,0,pual,dasar,
+,,,,,
+105275,k,0,pual garis,dasar,
+105275.1,x,,<pual gari> + [-is:-s],bentukan,[177] [S] -is + (i)
+105275.2,x,,<pual gar> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+105276,k,0,pual pegun,dasar,
+,,,,,
+105277,k,32,pualam,dasar,
+,,,,,
+105278,k,129,puan,dasar,
+105278.1,x,,<pu> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+105279,k,3,puar,dasar,
+,,,,,
+105280,k,1015,puas,dasar,
+,,,,,
+105281,v,2,puas-puas,dasar,
+105281.1,v,,<puas> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+105282,t,3,puas-puasin,dasar,berpuas-puas
+,,,,,
+105283,k,512,puasa,dasar,
+,,,,,
+105284,k,0,puasa apit,dasar,
+,,,,,
+105285,k,0,puasa arafah,dasar,
+,,,,,
+105286,k,0,puasa daud,dasar,
+,,,,,
+105287,k,0,puasa fardu,dasar,
+,,,,,
+105288,k,0,puasa pati geni,dasar,
+105288.1,x,,<puasa pati gen> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105289,k,0,puasa ramadan,dasar,
+105289.1,x,,<puasa ramad> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+105290,k,0,puasa senin kamis,dasar,
+105290.1,x,,<puasa senin kami> + [-is:-s],bentukan,[177] [S] -is + (i)
+105290.2,x,,<puasa senin kam> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+105291,k,0,puasa sunah,dasar,
+,,,,,
+105292,k,0,puasa syawal,dasar,
+,,,,,
+105293,k,0,puasa wajib,dasar,
+,,,,,
+105294,v,2,puasa-puasa,dasar,
+105294.1,v,,<puasa> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+105295,k,0,puatang,dasar,
+,,,,,
+105296,k,28,pub,dasar,
+,,,,,
+105297,k,16,puber,dasar,
+,,,,,
+105298,k,37,pubertas,dasar,
+,,,,,
+105299,k,0,pubertas dini,dasar,
+105299.1,x,,<pubertas din> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105300,k,0,pubes,dasar,
+,,,,,
+105301,k,0,pubesens,dasar,
+,,,,,
+105302,k,0,pubiyan,dasar,
+105302.1,x,,<pubiy> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+105303,k,4942,publik,dasar,
+,,,,,
+105304,k,570,publikasi,dasar,
+105304.1,x,,<publikas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105305,k,0,publikasi ilmiah,dasar,
+105305.1,x,,<publikasi ilm> + -iah,bentukan,[175] [S] -iah + (<others>)
+,,,,,
+105306,k,0,publikasi primer,dasar,
+,,,,,
+105307,v,2,publikasi-publikasi,dasar,
+105307.1,v,,<publikasi> [-] <r>,bentukan,[23] [RD] |
+105307.2,x,,<publikas> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+105308,k,0,publisir,dasar,
+,,,,,
+105309,k,0,publisis,dasar,
+105309.1,x,,<publisi> + [-is:-s],bentukan,[177] [S] -is + (i)
+105309.2,x,,<publis> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+105310,k,13,publisistik,dasar,
+,,,,,
+105311,k,35,publisitas,dasar,
+105311.1,x,,<publis> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+105312,k,4,pucang,dasar,
+,,,,,
+105313,k,384,pucat,dasar,
+,,,,,
+105314,k,0,pucat benihan,dasar,
+105314.1,x,,<pucat benih> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+105315,k,0,pucat kesi,dasar,
+105315.1,x,,<pucat kes> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105316,k,0,pucat lesi,dasar,
+105316.1,x,,<pucat les> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105317,k,0,pucat lesu,dasar,
+,,,,,
+105318,k,0,pucat manai,dasar,
+105318.1,x,,<pucat mana> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105319,k,0,pucat pasi,dasar,
+105319.1,x,,<pucat pas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105320,k,0,pucat pudar,dasar,
+,,,,,
+105321,k,0,pucik,dasar,
+,,,,,
+105322,k,285,pucuk,dasar,
+,,,,,
+105323,k,0,pucuk api,dasar,
+105323.1,x,,<pucuk ap> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105324,k,0,pucuk bulat,dasar,
+,,,,,
+105325,k,0,pucuk jala,dasar,
+,,,,,
+105326,k,0,pucuk lembaga,dasar,
+,,,,,
+105327,k,0,pucuk ombak,dasar,
+,,,,,
+105328,k,0,pucuk peko,dasar,
+,,,,,
+105329,k,0,pucuk rebung,dasar,
+,,,,,
+105330,k,0,pucuk surai,dasar,
+105330.1,x,,<pucuk sura> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105331,k,0,pucuk tanah,dasar,
+,,,,,
+105332,k,0,pucuk tebu,dasar,
+,,,,,
+105333,v,38,pucuk-pucuk,dasar,
+105333.1,v,,<pucuk> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+105334,k,17,pucung,dasar,
+,,,,,
+105335,k,6,pudak,dasar,
+,,,,,
+105336,k,155,pudar,dasar,
+,,,,,
+105337,k,0,pudat,dasar,
+,,,,,
+105338,k,3,pudel,dasar,
+,,,,,
+105339,k,0,puder,dasar,
+,,,,,
+105340,k,3,pudi,dasar,
+105340.1,x,,<pud> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105341,k,23,puding,dasar,
+,,,,,
+105342,k,0,puding karamel,dasar,
+,,,,,
+105343,k,0,puding kukus,dasar,
+,,,,,
+105344,k,0,puding panggang,dasar,
+,,,,,
+105345,k,2,pudur,dasar,
+,,,,,
+105346,k,0,puerpera,dasar,
+,,,,,
+105347,c,2,puerperium,dasar,puerpera
+,,,,,
+105348,k,0,pugak,dasar,
+,,,,,
+105349,k,3,pugar,dasar,
+,,,,,
+105350,k,0,pugaran,dasar,
+105350.1,v,,<pugar> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+105351,k,0,pugas,dasar,
+,,,,,
+105352,k,0,pugasan,dasar,
+105352.1,v,,<pugas> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+105353,k,18,puguh,dasar,
+,,,,,
+105354,k,0,puhing,dasar,
+,,,,,
+105355,k,3,puih,dasar,
+,,,,,
+105356,k,0,puikpuik,dasar,
+,,,,,
+105357,k,56,puing,dasar,
+,,,,,
+105358,k,81,puing-puing,dasar,
+105358.1,v,,<puing> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+105359,k,566,puisi,dasar,
+105359.1,x,,<puis> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105360,k,0,puisi baru,dasar,
+,,,,,
+105361,k,0,puisi bebas,dasar,
+,,,,,
+105362,k,0,puisi berpola,dasar,
+,,,,,
+105363,k,0,puisi diafan,dasar,
+105363.1,x,,<puisi diaf> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+105364,k,0,puisi dramatik,dasar,
+,,,,,
+105365,k,0,puisi esai,dasar,
+105365.1,x,,<puisi esa> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105366,k,0,puisi lama,dasar,
+,,,,,
+105367,k,0,puisi mbeling,dasar,
+,,,,,
+105368,v,67,puisi-puisi,dasar,
+105368.1,v,,<puisi> [-] <r>,bentukan,[23] [RD] |
+105368.2,x,,<puis> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+105369,c,11,puitik,dasar,puitis
+,,,,,
+105370,k,51,puitis,dasar,
+105370.1,x,,<puiti> + [-is:-s],bentukan,[177] [S] -is + (i)
+105370.2,x,,<puit> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+105371,k,5,puitisasi,dasar,
+105371.1,x,,<puitisas> + -i,bentukan,[28] [S] -i + (<all>)
+105371.2,x,,<puiti> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+105371.3,x,,<puitis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+105371.4,x,,<puit> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+105372,k,41,puja,dasar,
+,,,,,
+105373,v,3,puja-puja,dasar,
+105373.1,v,,<puja> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+105374,d,0,puja-puji,dasar,
+105374.1,x,,<puja-puj> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105375,k,75,pujaan,dasar,
+105375.1,v,,<puja> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+105376,k,0,pujaan hati,dasar,
+105376.1,x,,<pujaan hat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105377,v,2,pujan,dasar,
+105377.1,x,,<puj> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+105378,k,79,pujangga,dasar,
+,,,,,
+105379,k,0,pujangga baru,dasar,
+,,,,,
+105380,k,0,pujangga gereja,dasar,
+,,,,,
+105381,v,2,pujangga-pujangga,dasar,
+105381.1,v,,<pujangga> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+105382,v,3,pujasera,dasar,
+,,,,,
+105383,k,0,pujer,dasar,
+,,,,,
+105384,k,174,puji,dasar,
+105384.1,x,,<puj> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105385,v,7,puji-puji,dasar,
+105385.1,v,,<puji> [-] <r>,bentukan,[23] [RD] |
+105385.2,x,,<puj> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+105386,k,22,puji-pujian,dasar,
+105386.1,v,,<puji> [-] <r> + -an,bentukan,[23] [RD] |
+105386.2,x,,<puj> + -i [-] <r> + -i + -an,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+105387,k,391,pujian,dasar,
+105387.1,v,,<puji> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+105388,v,7,pujian-pujian,dasar,
+105388.1,x,,<pujian> [-] <r>,bentukan,[23] [RD] |
+105388.2,v,,<puji> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+105389,k,0,pujuk,dasar,
+,,,,,
+105390,k,0,pujuk empenak,dasar,
+,,,,,
+105391,k,0,pujur,dasar,
+,,,,,
+105392,k,5,pujut,dasar,
+,,,,,
+105393,k,0,pukah,dasar,
+105393.1,x,,<pu> + -kah,bentukan,[30] [FS] -kah + (<all>)
+,,,,,
+105394,k,0,pukal,dasar,
+,,,,,
+105395,c,11,pukang,dasar,kungkang
+,,,,,
+105396,k,0,pukang domba,dasar,
+,,,,,
+105397,k,0,pukang-pukang,dasar,
+105397.1,v,,<pukang> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+105398,k,0,pukas,dasar,
+,,,,,
+105399,k,35,pukat,dasar,
+,,,,,
+105400,k,0,pukat cerut,dasar,
+,,,,,
+105401,k,0,pukat harimau,dasar,
+,,,,,
+105402,k,0,pukat jepang,dasar,
+,,,,,
+105403,k,0,pukat payang,dasar,
+,,,,,
+105404,k,0,pukat petarang,dasar,
+,,,,,
+105405,k,0,pukat tahan,dasar,
+105405.1,x,,<pukat tah> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+105406,k,0,pukat tangguk,dasar,
+,,,,,
+105407,k,0,pukat tarik,dasar,
+,,,,,
+105408,k,10,pukau,dasar,
+,,,,,
+105409,k,0,pukauan,dasar,
+105409.1,v,,<pukau> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+105410,k,5,puki,dasar,
+105410.1,x,,<puk> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105411,k,0,puki anjing,dasar,
+,,,,,
+105412,k,0,puki mai,dasar,
+105412.1,x,,<puki ma> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105413,k,3,pukis,dasar,
+105413.1,x,,<puki> + [-is:-s],bentukan,[177] [S] -is + (i)
+105413.2,x,,<puk> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+105414,k,0,puknes,dasar,
+,,,,,
+105415,k,2986,pukul,dasar,
+,,,,,
+105416,k,0,pukul besar,dasar,
+,,,,,
+105417,k,0,pukul kilas balik,dasar,
+,,,,,
+105418,k,0,pukul merambang,dasar,
+,,,,,
+105419,k,0,pukul rata,dasar,
+,,,,,
+105420,k,0,pukul-memukul,dasar,
+105420.1,v,,<pukul> [-] [meng-:me-] + <r>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [24] [RD] |meng-
+,,,,,
+105421,v,3,pukul-pukul,dasar,
+105421.1,v,,<pukul> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+105422,t,3,pukul-pukulan,dasar,pukul memukul
+105422.1,v,,<pukul> [-] <r> + -an,bentukan,[23] [RD] |
+,,,,,
+105423,k,333,pukulan,dasar,
+105423.1,v,,<pukul> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+105424,k,0,pukulan balik,dasar,
+,,,,,
+105425,k,0,pukulan bebas,dasar,
+,,,,,
+105426,k,0,pukulan berat,dasar,
+,,,,,
+105427,k,0,pukulan bersih,dasar,
+,,,,,
+105428,k,0,pukulan datar,dasar,
+,,,,,
+105429,k,0,pukulan dekat bidai,dasar,
+105429.1,x,,<pukulan dekat bida> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105430,k,0,pukulan depan,dasar,
+105430.1,x,,<pukulan dep> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+105431,k,0,pukulan ganda,dasar,
+105431.1,x,,<pukulan ga> + [-anda:-nda],bentukan,[183] [S] -anda + (i;u;a;[k:])
+105431.2,x,,<pukulan gan> + [-anda:-da],bentukan,[184] [S] -anda + (an)
+105431.3,x,,<pukulan g> + -anda,bentukan,[185] [S] -anda + (<others>)
+,,,,,
+105432,k,0,pukulan keras,dasar,
+,,,,,
+105433,k,0,pukulan kiri,dasar,
+105433.1,x,,<pukulan kir> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105434,k,0,pukulan mematikan,dasar,
+105434.1,x,,<pukulan memati> + -kan,bentukan,[29] [S] -kan + (<all>)
+105434.2,x,,<pukulan mematik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+105435,k,0,pukulan penalti,dasar,
+105435.1,x,,<pukulan penalt> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105436,k,0,pukulan pendek,dasar,
+,,,,,
+105437,k,0,pukulan pendek silang,dasar,
+,,,,,
+105438,k,0,pukulan popor,dasar,
+,,,,,
+105439,k,0,pukulan rancung,dasar,
+,,,,,
+105440,k,0,pukulan salah,dasar,
+105440.1,x,,<pukulan sa> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+105441,k,0,pukulan sejajar garis samping,dasar,
+,,,,,
+105442,k,0,pukulan setengah voli,dasar,
+105442.1,x,,<pukulan setengah vol> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105443,k,0,pukulan siku,dasar,
+105443.1,x,,<pukulan si> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+105443.2,x,,<pukulan s> + -i + -ku,bentukan,[28] [S] -i + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+105444,k,0,pukulan silang,dasar,
+,,,,,
+105445,k,0,pukulan simultan,dasar,
+105445.1,x,,<pukulan simult> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+105446,k,0,pukulan sudut,dasar,
+,,,,,
+105447,k,0,pukulan terbang,dasar,
+,,,,,
+105448,k,0,pukulan voli,dasar,
+105448.1,x,,<pukulan vol> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105449,v,16,pukulan-pukulan,dasar,
+105449.1,x,,<pukulan> [-] <r>,bentukan,[23] [RD] |
+105449.2,v,,<pukul> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+105450,t,10,pukuli,dasar,memukuli
+105450.1,v,,<pukul> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105451,t,4,pukulkan,dasar,memukulkan
+105451.1,v,,<pukul> + -kan,bentukan,[29] [S] -kan + (<all>)
+105451.2,x,,<pukulk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+105452,t,5,pukullah,dasar,
+105452.1,v,,<pukul> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+105453,c,10,pul,dasar,pol
+,,,,,
+105454,k,6363,pula,dasar,
+,,,,,
+105455,k,9,pulai,dasar,
+105455.1,x,,<pula> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105456,k,0,pulai pandak,dasar,
+,,,,,
+105457,k,0,pulai putih,dasar,
+,,,,,
+105458,t,5,pulak,dasar,pula
+,,,,,
+105459,k,9,pulan,dasar,
+105459.1,x,,<pul> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+105460,k,2489,pulang,dasar,
+,,,,,
+105461,k,0,pulang (ke) kandang,dasar,
+,,,,,
+105462,k,0,pulang asal,dasar,
+,,,,,
+105463,k,0,pulang balik,dasar,
+,,,,,
+105464,k,0,pulang haji,dasar,
+105464.1,x,,<pulang haj> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105465,k,0,pulang hari,dasar,
+105465.1,x,,<pulang har> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105466,k,0,pulang ingatan,dasar,
+105466.1,x,,<pulang ingat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+105467,k,0,pulang kampung,dasar,
+,,,,,
+105468,k,0,pulang ke alam baka,dasar,
+,,,,,
+105469,k,0,pulang ke negeri cacing,dasar,
+,,,,,
+105470,k,0,pulang ke rahmatullah,dasar,
+105470.1,x,,<pulang ke rahmatul> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+105471,k,0,pulang kepada,dasar,
+,,,,,
+105472,k,0,pulang kepadamu,dasar,
+105472.1,x,,<pulang kepada> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+,,,,,
+105473,k,0,pulang maklum (kpd),dasar,
+,,,,,
+105474,k,0,pulang modal,dasar,
+,,,,,
+105475,k,0,pulang nama,dasar,
+,,,,,
+105476,k,0,pulang paling,dasar,
+,,,,,
+105477,k,0,pulang pergi,dasar,
+105477.1,x,,<pulang perg> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105478,k,0,pulang pisau,dasar,
+,,,,,
+105479,k,0,pulang pohon,dasar,
+,,,,,
+105480,k,0,pulang pokok,dasar,
+,,,,,
+105481,k,0,pulang pulih,dasar,
+,,,,,
+105482,k,0,pulang semangat,dasar,
+,,,,,
+105483,k,0,pulang semula,dasar,
+,,,,,
+105484,k,0,pulang tongsan,dasar,
+105484.1,x,,<pulang tongs> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+105485,v,3,pulang-balik,dasar,
+,,,,,
+105486,v,34,pulang-pergi,dasar,
+105486.1,x,,<pulang-perg> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105487,k,0,pulangan,dasar,
+105487.1,v,,<pulang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+105488,k,0,pulangan investasi,dasar,
+105488.1,x,,<pulangan investas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105489,v,10,pulangkan,dasar,
+105489.1,v,,<pulang> + -kan,bentukan,[29] [S] -kan + (<all>)
+105489.2,x,,<pulangk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+105490,k,126,pulas,dasar,
+,,,,,
+105491,k,0,pulas mata,dasar,
+,,,,,
+105492,k,21,pulasan,dasar,
+105492.1,v,,<pulas> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+105493,k,0,pulasara,dasar,
+,,,,,
+105494,k,2,pulasari,dasar,
+105494.1,x,,<pulasar> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105495,v,6,pulaskan,dasar,
+105495.1,v,,<pulas> + -kan,bentukan,[29] [S] -kan + (<all>)
+105495.2,x,,<pulask> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+105496,v,2,pulasnya,dasar,
+105496.1,v,,<pulas> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+105497,k,1761,pulau,dasar,
+,,,,,
+105498,k,0,pulau dewata,dasar,
+,,,,,
+105499,k,0,pulau es,dasar,
+,,,,,
+105500,k,0,pulau garam,dasar,
+,,,,,
+105501,k,0,pulau harapan,dasar,
+105501.1,x,,<pulau harap> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+105502,k,0,pulau langerhans,dasar,
+,,,,,
+105503,k,0,pulau perca,dasar,
+,,,,,
+105504,k,0,pulau tasmania,dasar,
+,,,,,
+105505,v,318,pulau-pulau,dasar,
+105505.1,v,,<pulau> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+105506,v,2,pulau-pulaunya,dasar,
+105506.1,x,,<pulau> [-] <r> + -nya,bentukan,[23] [RD] |
+105506.2,v,,<pulau> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+105507,v,3,pulauku,dasar,
+105507.1,v,,<pulau> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+105508,v,20,pulaunya,dasar,
+105508.1,v,,<pulau> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+105509,k,0,pule pandak,dasar,
+,,,,,
+105510,k,12,pulen,dasar,
+,,,,,
+105511,k,0,pules,dasar,
+,,,,,
+105512,t,3,pulgar,dasar,vulgar
+,,,,,
+105513,v,14,puli,dasar,
+105513.1,x,,<pul> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105514,k,498,pulih,dasar,
+,,,,,
+105515,k,0,pulih dasan,dasar,
+105515.1,x,,<pulih das> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+105516,v,32,pulihkan,dasar,
+105516.1,v,,<pulih> + -kan,bentukan,[29] [S] -kan + (<all>)
+105516.2,x,,<pulihk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+105517,k,0,pulik,dasar,
+,,,,,
+105518,k,0,puling,dasar,
+,,,,,
+105519,k,0,pulir,dasar,
+,,,,,
+105520,t,2,pulisi,dasar,polisi
+105520.1,x,,<pulis> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105521,k,0,pulkari,dasar,
+105521.1,x,,<pulkar> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105522,v,8,pulmonal,dasar,
+,,,,,
+105523,v,5,pulmonalis,dasar,
+105523.1,x,,<pulmonali> + [-is:-s],bentukan,[177] [S] -is + (i)
+105523.2,x,,<pulmonal> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+105524,k,2,pulmoner,dasar,
+,,,,,
+105525,k,4,pulmonologi,dasar,
+105525.1,x,,<pulmonolog> + -i,bentukan,[28] [S] -i + (<all>)
+105525.2,x,,<pulmono> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+105526,k,42,pulo,dasar,
+,,,,,
+105527,k,0,pulosari,dasar,
+105527.1,x,,<pulosar> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105528,t,3,pulot,dasar,pulut
+,,,,,
+105529,k,0,pulover,dasar,
+,,,,,
+105530,k,61,pulp,dasar,
+,,,,,
+105531,k,0,pulp dentis,dasar,
+105531.1,x,,<pulp denti> + [-is:-s],bentukan,[177] [S] -is + (i)
+105531.2,x,,<pulp dent> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+105532,c,3,pulpa,dasar,pulp
+,,,,,
+105533,k,0,pulpa gigi,dasar,
+105533.1,x,,<pulpa gig> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105534,k,51,pulpen,dasar,
+,,,,,
+105535,k,0,pulpen atom,dasar,
+,,,,,
+105536,k,0,pulper,dasar,
+,,,,,
+105537,k,0,pulpitis,dasar,
+105537.1,x,,<pulpiti> + [-is:-s],bentukan,[177] [S] -is + (i)
+105537.2,x,,<pulpit> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+105538,k,136,pulsa,dasar,
+,,,,,
+105539,v,3,pulsanya,dasar,
+105539.1,v,,<pulsa> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+105540,k,5,pulsar,dasar,
+,,,,,
+105541,k,2,pulsasi,dasar,
+105541.1,x,,<pulsas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105542,v,28,pulse,dasar,
+,,,,,
+105543,v,2,pulsed,dasar,
+,,,,,
+105544,k,2322,puluh,dasar,
+,,,,,
+105545,k,1692,puluhan,dasar,
+105545.1,v,,<puluh> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+105546,k,0,pulun,dasar,
+,,,,,
+105547,k,17,pulung,dasar,
+,,,,,
+105548,v,14,pulungan,dasar,
+105548.1,v,,<pulung> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+105549,k,0,pulus,dasar,
+,,,,,
+105550,k,12,pulut,dasar,
+,,,,,
+105551,k,0,pulut apit,dasar,
+,,,,,
+105552,k,0,pulut lemak,dasar,
+,,,,,
+105553,k,0,pulut panggang,dasar,
+,,,,,
+105554,k,0,pulut udang,dasar,
+,,,,,
+105555,k,0,pulut-pulut,dasar,
+105555.1,v,,<pulut> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+105556,k,0,pulut-pulut sapi,dasar,
+105556.1,x,,<pulut-pulut sap> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105557,k,20,puma,dasar,
+,,,,,
+105558,k,0,pumpun,dasar,
+,,,,,
+105559,k,2,pumpunan,dasar,
+105559.1,v,,<pumpun> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+105560,k,0,pumpunan berita,dasar,
+,,,,,
+105561,k,12260,pun,dasar,
+,,,,,
+105562,k,257,punah,dasar,
+,,,,,
+105563,k,0,punah ranah,dasar,
+,,,,,
+105564,k,11,punai,dasar,
+105564.1,x,,<puna> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105565,x,7,punakan,dasar,
+105565.1,x,,<puna> + -kan,bentukan,[29] [S] -kan + (<all>)
+105565.2,x,,<punak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+105566,k,19,punakawan,dasar,
+105566.1,x,,<punakaw> + -an,bentukan,[38] [S] -an + (<all>)
+105566.2,x,,<punaka> + -wan,bentukan,[180] [S] -wan + (<others>)
+105566.3,x,,<punak> + [-wan:-awan],bentukan,[18000001] [S] -wan + (<all>)
+,,,,,
+105567,k,3,punan,dasar,
+105567.1,x,,<pun> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+105568,k,0,punar,dasar,
+,,,,,
+105569,k,0,punarbawa,dasar,
+,,,,,
+105570,k,0,punat,dasar,
+,,,,,
+105571,k,17,punca,dasar,
+,,,,,
+105572,k,0,punca beliung,dasar,
+,,,,,
+105573,k,0,punca sebai,dasar,
+105573.1,x,,<punca seba> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105574,k,0,punca tali pancing,dasar,
+,,,,,
+105575,k,1723,puncak,dasar,
+,,,,,
+105576,k,0,puncak acara,dasar,
+,,,,,
+105577,k,0,puncak awan,dasar,
+105577.1,x,,<puncak aw> + -an,bentukan,[38] [S] -an + (<all>)
+105577.2,x,,<puncak a> + -wan,bentukan,[180] [S] -wan + (<others>)
+105577.3,x,,<puncak > + [-wan:-awan],bentukan,[18000001] [S] -wan + (<all>)
+,,,,,
+105578,k,0,puncak gigi,dasar,
+105578.1,x,,<puncak gig> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105579,k,0,puncak jaya,dasar,
+,,,,,
+105580,k,0,puncak meso,dasar,
+,,,,,
+105581,k,0,puncak paru,dasar,
+,,,,,
+105582,k,0,puncak penyaringan,dasar,
+105582.1,x,,<puncak penyaring> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+105583,k,0,puncak siaga,dasar,
+,,,,,
+105584,k,0,puncak sudut,dasar,
+,,,,,
+105585,v,32,puncak-puncak,dasar,
+105585.1,v,,<puncak> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+105586,v,3,puncak-puncaknya,dasar,
+105586.1,x,,<puncak> [-] <r> + -nya,bentukan,[23] [RD] |
+105586.2,v,,<puncak> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+105587,v,3,puncaki,dasar,
+105587.1,v,,<puncak> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105588,v,388,puncaknya,dasar,
+105588.1,v,,<puncak> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+105589,k,0,puncek,dasar,
+,,,,,
+105590,k,0,punci,dasar,
+105590.1,x,,<punc> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105591,k,228,pundak,dasar,
+,,,,,
+105592,d,0,pundaknya,dasar,
+105592.1,v,,<pundak> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+105593,k,8,punden,dasar,
+,,,,,
+105594,k,21,pundi,dasar,
+105594.1,x,,<pund> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105595,k,62,pundi-pundi,dasar,
+105595.1,v,,<pundi> [-] <r>,bentukan,[23] [RD] |
+105595.2,x,,<pund> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+105596,k,0,punding,dasar,
+,,,,,
+105597,k,0,punduh,dasar,
+,,,,,
+105598,k,0,punduk,dasar,
+,,,,,
+105599,k,0,pundung,dasar,
+,,,,,
+105600,k,0,pundungan,dasar,
+105600.1,v,,<pundung> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+105601,k,15,pung,dasar,
+,,,,,
+105602,k,0,pungak-pinguk,dasar,
+105602.1,v,,<pungak-pinguk>,bentukan,[Reduplication-Rhyming]
+,,,,,
+105603,k,0,punggah,dasar,
+,,,,,
+105604,k,0,punggahan,dasar,
+105604.1,v,,<punggah> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+105605,k,0,punggai,dasar,
+105605.1,x,,<pungga> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105606,k,0,punggal,dasar,
+,,,,,
+105607,k,0,punggang,dasar,
+,,,,,
+105608,c,51,punggawa,dasar,penggawa
+,,,,,
+105609,v,3,punggawanya,dasar,
+105609.1,v,,<punggawa> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+105610,k,0,punggo,dasar,
+,,,,,
+105611,k,14,pungguk,dasar,
+,,,,,
+105612,k,768,punggung,dasar,
+,,,,,
+105613,k,0,punggung kain,dasar,
+,,,,,
+105614,k,0,punggung kaki,dasar,
+105614.1,x,,<punggung kak> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105615,k,0,punggung lereng,dasar,
+,,,,,
+105616,k,0,punggung pisau,dasar,
+,,,,,
+105617,k,0,punggung stik,dasar,
+,,,,,
+105618,k,0,punggung tangan,dasar,
+105618.1,x,,<punggung tang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+105619,k,0,punggung tekanan,dasar,
+105619.1,x,,<punggung tekan> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+105620,k,0,punggung termal kuala,dasar,
+,,,,,
+105621,k,0,punggung-memunggung,dasar,
+105621.1,v,,<punggung> [-] [meng-:me-] + <r>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [24] [RD] |meng-
+,,,,,
+105622,v,6,punggung-punggung,dasar,
+105622.1,v,,<punggung> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+105623,v,4,punggungan,dasar,
+105623.1,v,,<punggung> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+105624,v,2,punggungi,dasar,
+105624.1,v,,<punggung> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105625,k,5,punggur,dasar,
+,,,,,
+105626,k,0,pungkah,dasar,
+105626.1,x,,<pung> + -kah,bentukan,[30] [FS] -kah + (<all>)
+,,,,,
+105627,k,0,pungkang,dasar,
+,,,,,
+105628,k,248,pungkas,dasar,
+,,,,,
+105629,k,3,pungkasan,dasar,
+105629.1,v,,<pungkas> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+105630,c,0,pungkir,dasar,mungkir
+,,,,,
+105631,c,10,pungkiri,dasar,mungkiri
+105631.1,v,,<pungkir> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105632,k,4,pungkur,dasar,
+,,,,,
+105633,k,0,pungkur sagu,dasar,
+,,,,,
+105634,k,0,punglor,dasar,
+,,,,,
+105635,k,0,punglor kembang,dasar,
+,,,,,
+105636,k,0,punglor merah,dasar,
+,,,,,
+105637,k,2,pungsi,dasar,
+105637.1,x,,<pungs> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105638,k,3,pungtuasi,dasar,
+105638.1,x,,<pungtuas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105639,k,0,punguk,dasar,
+,,,,,
+105640,k,67,pungut,dasar,
+,,,,,
+105641,k,262,pungutan,dasar,
+105641.1,v,,<pungut> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+105642,k,0,pungutan liar,dasar,
+,,,,,
+105643,v,5,pungutan-pungutan,dasar,
+105643.1,x,,<pungutan> [-] <r>,bentukan,[23] [RD] |
+105643.2,v,,<pungut> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+105644,v,5,pungutannya,dasar,
+105644.1,x,,<pungutan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+105644.2,v,,<pungut> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+105645,k,12,punia,dasar,
+,,,,,
+105646,k,0,punjul,dasar,
+,,,,,
+105647,k,2,punjung,dasar,
+,,,,,
+105648,k,0,punjungan,dasar,
+105648.1,v,,<punjung> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+105649,k,0,punjut,dasar,
+,,,,,
+105650,k,22,punk,dasar,
+,,,,,
+105651,k,2,punta,dasar,
+,,,,,
+105652,k,0,puntal,dasar,
+,,,,,
+105653,k,0,puntalan,dasar,
+105653.1,v,,<puntal> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+105654,k,12,punten,dasar,
+,,,,,
+105655,k,6,punti,dasar,
+105655.1,x,,<punt> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105656,k,0,puntianak,dasar,
+,,,,,
+105657,k,14,puntir,dasar,
+,,,,,
+105658,k,5,puntiran,dasar,
+105658.1,v,,<puntir> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+105659,v,3,punto,dasar,
+,,,,,
+105660,k,3,puntuk,dasar,
+,,,,,
+105661,k,0,puntul,dasar,
+,,,,,
+105662,k,52,puntung,dasar,
+,,,,,
+105663,k,0,puntung berasap,dasar,
+,,,,,
+105664,k,0,puntung perun,dasar,
+,,,,,
+105665,v,5,puntung-puntung,dasar,
+105665.1,v,,<puntung> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+105666,v,4,puntungnya,dasar,
+105666.1,v,,<puntung> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+105667,k,10,punuk,dasar,
+,,,,,
+105668,v,2,punuk-punuk,dasar,
+105668.1,v,,<punuk> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+105669,k,5565,punya,dasar,
+105669.1,x,,<pu> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+105670,k,0,punya kerja,dasar,
+,,,,,
+105671,v,36,punyai,dasar,
+105671.1,v,,<punya> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105672,v,2,punyakah,dasar,
+105672.1,v,,<punya> + -kah,bentukan,[30] [FS] -kah + (<all>)
+105672.2,x,,<pu> + -nya + -kah,bentukan,[34] [SFS] -nya + (<all>) => [30] [FS] -kah + (<all>)
+,,,,,
+105673,v,12,punyaku,dasar,
+105673.1,v,,<punya> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+105673.2,x,,<pu> + -nya + -ku,bentukan,[34] [SFS] -nya + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+105674,v,6,punyamu,dasar,
+105674.1,v,,<punya> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+105674.2,x,,<pu> + -nya + -mu,bentukan,[34] [SFS] -nya + (<all>) => [33] [SFS] -mu + (<all>)
+,,,,,
+105675,v,6,punyanya,dasar,
+105675.1,v,,<punya> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+105675.2,x,,<pu> + -nya + -nya,bentukan,[34] [SFS] -nya + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+105676,k,0,punyimbang,dasar,
+,,,,,
+105677,k,0,puo,dasar,
+,,,,,
+105678,k,14,pupa,dasar,
+,,,,,
+105679,k,0,pupafobia,dasar,
+105679.1,x,,<pupa> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+105680,k,0,pupaleh,dasar,
+,,,,,
+105681,v,3,puparium,dasar,
+,,,,,
+105682,v,2,pupi,dasar,
+105682.1,x,,<pup> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105683,k,31,pupil,dasar,
+,,,,,
+105684,v,5,pupils,dasar,
+,,,,,
+105685,k,2,pupu,dasar,
+,,,,,
+105686,k,3,pupuan,dasar,
+105686.1,x,,<pupu> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+105687,k,13,pupuh,dasar,
+,,,,,
+105688,d,0,pupuh magatru,dasar,
+,,,,,
+105689,v,2,pupuik,dasar,
+,,,,,
+105690,k,448,pupuk,dasar,
+,,,,,
+105691,k,0,pupuk akar,dasar,
+,,,,,
+105692,k,0,pupuk alam,dasar,
+,,,,,
+105693,k,0,pupuk bawang,dasar,
+,,,,,
+105694,k,0,pupuk buatan,dasar,
+105694.1,x,,<pupuk buat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+105695,k,0,pupuk dasar,dasar,
+,,,,,
+105696,k,0,pupuk daun,dasar,
+,,,,,
+105697,k,0,pupuk garam,dasar,
+,,,,,
+105698,k,0,pupuk hibrida,dasar,
+,,,,,
+105699,k,0,pupuk hijau,dasar,
+,,,,,
+105700,k,0,pupuk kandang,dasar,
+,,,,,
+105701,k,0,pupuk lengkap,dasar,
+,,,,,
+105702,k,0,pupuk organik,dasar,
+,,,,,
+105703,k,0,pupuk pabrik,dasar,
+,,,,,
+105704,k,0,pupuk tabur,dasar,
+,,,,,
+105705,v,14,pupuknya,dasar,
+105705.1,v,,<pupuk> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+105706,k,0,pupundutan,dasar,
+105706.1,x,,<pupundut> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+105707,k,10,pupur,dasar,
+,,,,,
+105708,k,0,pupur ayam,dasar,
+,,,,,
+105709,k,0,pupur puyuh,dasar,
+,,,,,
+105710,k,67,pupus,dasar,
+,,,,,
+105711,v,3,pupuslah,dasar,
+105711.1,v,,<pupus> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+105712,v,4,pupusnya,dasar,
+105712.1,v,,<pupus> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+105713,k,15,puput,dasar,
+,,,,,
+105714,k,0,puput anak,dasar,
+,,,,,
+105715,k,18,puputan,dasar,
+105715.1,v,,<puput> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+105716,k,29,pur,dasar,
+,,,,,
+105717,k,276,pura,dasar,
+,,,,,
+105718,k,0,pura alas harum,dasar,
+,,,,,
+105719,k,0,pura dalem,dasar,
+,,,,,
+105720,k,0,pura desa,dasar,
+,,,,,
+105721,k,0,pura fungsional,dasar,
+,,,,,
+105722,k,0,pura hati,dasar,
+105722.1,x,,<pura hat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105723,k,0,pura jagat,dasar,
+,,,,,
+105724,k,0,pura kahyangan jagat,dasar,
+,,,,,
+105725,k,0,pura kahyangan tiga,dasar,
+,,,,,
+105726,k,0,pura kawitan,dasar,
+105726.1,x,,<pura kawit> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+105727,k,0,pura laba,dasar,
+,,,,,
+105728,k,0,pura melanting,dasar,
+,,,,,
+105729,k,0,pura puseh,dasar,
+,,,,,
+105730,k,0,pura segara,dasar,
+,,,,,
+105731,k,0,pura subak,dasar,
+,,,,,
+105732,k,0,pura swagina,dasar,
+,,,,,
+105733,k,0,pura teritorial,dasar,
+,,,,,
+105734,k,0,pura ulun suwi,dasar,
+105734.1,x,,<pura ulun suw> + -i,bentukan,[28] [S] -i + (<all>)
+105734.2,x,,<pura ulun su> + -wi,bentukan,[174] [S] -wi + (<others>)
+,,,,,
+105735,k,245,pura-pura,dasar,
+105735.1,v,,<pura> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+105736,v,3,pura-puranya,dasar,
+105736.1,x,,<pura> [-] <r> + -nya,bentukan,[23] [RD] |
+105736.2,v,,<pura> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+105737,k,0,puragi,dasar,
+105737.1,x,,<purag> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105738,v,4,purana,dasar,
+,,,,,
+105739,k,0,purata,dasar,
+,,,,,
+105740,k,199,purba,dasar,
+,,,,,
+105741,v,2,purbacaraka,dasar,
+,,,,,
+105742,k,70,purbakala,dasar,
+,,,,,
+105743,k,51,purbalingga,dasar,
+,,,,,
+105744,v,5,purbanegara,dasar,
+,,,,,
+105745,k,3,purbani,dasar,
+105745.1,x,,<purban> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105746,k,2,purbasangka,dasar,
+,,,,,
+105747,k,0,purbawisesa,dasar,
+,,,,,
+105748,k,0,purdah,dasar,
+,,,,,
+105749,k,53,pure,dasar,
+,,,,,
+105750,k,0,pure buah,dasar,
+,,,,,
+105751,v,5,puree,dasar,
+,,,,,
+105752,k,0,purek,dasar,
+,,,,,
+105753,k,0,puren,dasar,
+,,,,,
+105754,k,0,purgatif,dasar,
+,,,,,
+105755,k,0,purgatorium,dasar,
+,,,,,
+105756,v,2,purge,dasar,
+,,,,,
+105757,v,2,purging,dasar,
+,,,,,
+105758,k,88,puri,dasar,
+105758.1,x,,<pur> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105759,k,22,purifikasi,dasar,
+105759.1,x,,<purifikas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105760,k,0,purifikatorium,dasar,
+,,,,,
+105761,k,2,purik,dasar,
+,,,,,
+105762,c,10,purin,dasar,purina
+,,,,,
+105763,k,0,purina,dasar,
+,,,,,
+105764,c,10,puring,dasar,furing
+,,,,,
+105765,v,2,purinya,dasar,
+105765.1,v,,<puri> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+105765.2,x,,<pur> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+105766,k,0,puris,dasar,
+105766.1,x,,<puri> + [-is:-s],bentukan,[177] [S] -is + (i)
+105766.2,x,,<pur> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+105767,k,0,purisme,dasar,
+105767.1,x,,<pur> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+105768,k,0,puristis,dasar,
+105768.1,x,,<puristi> + [-is:-s],bentukan,[177] [S] -is + (i)
+105768.2,x,,<purist> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+105769,k,26,puritan,dasar,
+105769.1,v,,<purit> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+105770,v,3,puritanisasi,dasar,
+105770.1,x,,<puritanisas> + -i,bentukan,[28] [S] -i + (<all>)
+105770.2,x,,<puritani> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+105770.3,x,,<puritanis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+105770.4,x,,<purita> + [-isasi:-nisasi],bentukan,[168] [S] -isasi + (a;e;u;o)
+105770.5,v,,<puritan> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+105771,k,9,puritanisme,dasar,
+105771.1,v,,<puritan> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+105772,v,119,purna,dasar,
+,,,,,
+105773,c,2,purna-tugas,dasar,
+,,,,,
+105774,k,14,purnabakti,dasar,
+105774.1,x,,<purnabakt> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105775,k,0,purnaintegrasi,dasar,
+105775.1,x,,<purnaintegras> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105776,k,0,purnajabatan,dasar,
+105776.1,x,,<purnajabat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+105777,k,21,purnajual,dasar,
+,,,,,
+105778,k,0,purnakarya,dasar,
+,,,,,
+105779,k,0,purnakaryawan,dasar,
+105779.1,x,,<purnakaryaw> + -an,bentukan,[38] [S] -an + (<all>)
+105779.2,x,,<purnakarya> + -wan,bentukan,[180] [S] -wan + (<others>)
+105779.3,x,,<purnakary> + [-wan:-awan],bentukan,[18000001] [S] -wan + (<all>)
+,,,,,
+105780,k,387,purnama,dasar,
+,,,,,
+105781,k,0,purnama penuh,dasar,
+,,,,,
+105782,k,0,purnama raya,dasar,
+,,,,,
+105783,k,0,purnama sidi,dasar,
+105783.1,x,,<purnama sid> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105784,v,3,purnamanya,dasar,
+105784.1,v,,<purnama> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+105785,k,0,purnapugar,dasar,
+,,,,,
+105786,k,0,purnasarjana,dasar,
+,,,,,
+105787,k,3,purnatugas,dasar,
+,,,,,
+105788,k,0,purnawaktu,dasar,
+,,,,,
+105789,k,91,purnawirawan,dasar,
+105789.1,x,,<purnawiraw> + -an,bentukan,[38] [S] -an + (<all>)
+105789.2,x,,<purnawira> + -wan,bentukan,[180] [S] -wan + (<others>)
+105789.3,x,,<purnawir> + [-wan:-awan],bentukan,[18000001] [S] -wan + (<all>)
+,,,,,
+105790,k,0,purnawiyata,dasar,
+,,,,,
+105791,k,0,purnayuda,dasar,
+,,,,,
+105792,k,4,purpura,dasar,
+,,,,,
+105793,k,2,purser,dasar,
+,,,,,
+105794,k,6,puru,dasar,
+,,,,,
+105795,k,0,puru ayal,dasar,
+,,,,,
+105796,k,0,puru bubuk,dasar,
+,,,,,
+105797,k,0,puru bubul,dasar,
+,,,,,
+105798,k,0,puru lembik,dasar,
+,,,,,
+105799,k,4,puruk,dasar,
+,,,,,
+105800,k,0,puruk-parak,dasar,
+105800.1,v,,<puruk-parak>,bentukan,[Reduplication-Rhyming]
+,,,,,
+105801,v,3,purulen,dasar,
+,,,,,
+105802,k,5,purun,dasar,
+,,,,,
+105803,k,2,purus,dasar,
+,,,,,
+105804,k,5,purusa,dasar,
+,,,,,
+105805,k,14,purut,dasar,
+,,,,,
+105806,k,20,purwa,dasar,
+,,,,,
+105807,k,0,purwa kala,dasar,
+,,,,,
+105808,k,0,purwadaksina,dasar,
+,,,,,
+105809,k,0,purwakanti,dasar,
+105809.1,x,,<purwakant> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105810,k,176,purwakarta,dasar,
+,,,,,
+105811,k,0,purwapada,dasar,
+,,,,,
+105812,k,24,purwarupa,dasar,
+,,,,,
+105813,v,98,purwokerto,dasar,
+,,,,,
+105814,k,64,purworejo,dasar,
+,,,,,
+105815,k,18,pus,dasar,
+,,,,,
+105816,c,10,pusa,dasar,puso
+,,,,,
+105817,k,0,pusa linear,dasar,
+,,,,,
+105818,k,0,pusa sudut,dasar,
+,,,,,
+105819,k,0,pusak,dasar,
+,,,,,
+105820,k,133,pusaka,dasar,
+,,,,,
+105821,k,0,pusaka gantung,dasar,
+,,,,,
+105822,k,0,pusaka rendah,dasar,
+,,,,,
+105823,k,0,pusaka tinggi,dasar,
+105823.1,x,,<pusaka tingg> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+105824,v,3,pusaka-pusaka,dasar,
+105824.1,v,,<pusaka> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+105825,v,9,pusakanya,dasar,
+105825.1,v,,<pusaka> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+105826,k,0,pusang,dasar,
+,,,,,
+105827,k,55,pusar,dasar,
+,,,,,
+105828,k,0,pusar kepala,dasar,
+,,,,,
+105829,k,0,pusar-pusar,dasar,
+105829.1,v,,<pusar> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+105830,k,52,pusara,dasar,
+,,,,,
+105831,k,448,pusaran,dasar,
+105831.1,v,,<pusar> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+105832,k,0,pusaran angin,dasar,
+,,,,,
+105833,k,0,pusaran khatulistiwa,dasar,
+,,,,,
+105834,k,0,pusaran kutub,dasar,
+,,,,,
+105835,v,3,pusarannya,dasar,
+105835.1,x,,<pusaran> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+105835.2,v,,<pusar> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+105836,v,6,pusaranya,dasar,
+105836.1,v,,<pusara> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+105837,v,5,pusarnya,dasar,
+105837.1,v,,<pusar> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+105838,k,7476,pusat,dasar,
+,,,,,
+105839,k,0,pusat analisis,dasar,
+105839.1,x,,<pusat analisi> + [-is:-s],bentukan,[177] [S] -is + (i)
+105839.2,x,,<pusat analis> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+105840,k,0,pusat berat,dasar,
+,,,,,
+105841,k,0,pusat berat badan,dasar,
+105841.1,x,,<pusat berat bad> + -an,bentukan,[38] [S] -an + (<all>)

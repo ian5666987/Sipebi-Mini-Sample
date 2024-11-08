@@ -1,0 +1,1703 @@
+Nomor,KP,Jumlah,Entri,Tipe,Pembentukan
+85474,k,0,naga gentala,dasar,
+,,,,,
+85475,k,0,naga hari,dasar,
+85475.1,x,,<naga har> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+85476,k,0,naga kecil,dasar,
+,,,,,
+85477,k,0,naga sekuik,dasar,
+,,,,,
+85478,k,0,naga tahun,dasar,
+,,,,,
+85479,k,4,naga-naga,dasar,
+85479.1,v,,<naga> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+85480,k,3,naga-naganya,dasar,
+85480.1,x,,<naga> [-] <r> + -nya,bentukan,[23] [RD] |
+85480.2,v,,<naga> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+85481,k,0,nagam,dasar,
+,,,,,
+85482,k,0,nagan raya,dasar,
+,,,,,
+85483,c,23,nagara,dasar,nekara
+,,,,,
+85484,k,0,nagara bukit,dasar,
+,,,,,
+85485,k,63,nagari,dasar,
+85485.1,x,,<nagar> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+85486,v,4,nagari-nagari,dasar,
+85486.1,v,,<nagari> [-] <r>,bentukan,[23] [RD] |
+85486.2,x,,<nagar> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+85487,k,6,nagasari,dasar,
+85487.1,x,,<nagasar> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+85488,k,0,nage keo,dasar,
+,,,,,
+85489,k,19,nagekeo,dasar,
+,,,,,
+85490,t,14,nagih,dasar,menagih
+,,,,,
+85491,k,0,nagu,dasar,
+,,,,,
+85492,k,1930,nah,dasar,
+,,,,,
+85493,k,0,nahak,dasar,
+,,,,,
+85494,t,15,nahan,dasar,menahan
+85494.1,x,,<nah> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+85495,t,3,nahan-nahan,dasar,menahan-nahan
+85495.1,x,,<nahan> [-] <r>,bentukan,[23] [RD] |
+85495.2,x,,<nah> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+85496,v,6,nahar,dasar,
+,,,,,
+85497,k,101,nahas,dasar,
+,,,,,
+85498,k,0,nahdiyin,dasar,
+,,,,,
+85499,k,35,nahi,dasar,
+85499.1,x,,<nah> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+85500,k,0,nahi allah,dasar,
+85500.1,x,,<nahi al> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+85501,c,20,nahkoda,dasar,nakhoda
+,,,,,
+85502,k,4,nahu,dasar,
+,,,,,
+85503,k,0,nahu bentuk,dasar,
+,,,,,
+85504,k,0,nahu saraf,dasar,
+,,,,,
+85505,k,0,nahwu,dasar,
+,,,,,
+85506,k,8,naib,dasar,
+,,,,,
+85507,k,0,naib ketua,dasar,
+,,,,,
+85508,k,0,naib laksamana,dasar,
+,,,,,
+85509,k,104,naif,dasar,
+,,,,,
+85510,k,3454,naik,dasar,
+,,,,,
+85511,k,0,naik (ke) darat,dasar,
+,,,,,
+85512,k,0,naik apel,dasar,
+,,,,,
+85513,k,0,naik banding,dasar,
+,,,,,
+85514,k,0,naik benang,dasar,
+,,,,,
+85515,k,0,naik bertabal,dasar,
+,,,,,
+85516,k,0,naik besar,dasar,
+,,,,,
+85517,k,0,naik cetak,dasar,
+,,,,,
+85518,k,0,naik darah,dasar,
+,,,,,
+85519,k,0,naik daun,dasar,
+,,,,,
+85520,k,0,naik derajat,dasar,
+,,,,,
+85521,k,0,naik geram,dasar,
+,,,,,
+85522,k,0,naik haji,dasar,
+85522.1,x,,<naik haj> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+85523,k,0,naik hati,dasar,
+85523.1,x,,<naik hat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+85524,k,0,naik kelas,dasar,
+,,,,,
+85525,k,0,naik kuda hijau,dasar,
+,,,,,
+85526,k,0,naik marak,dasar,
+,,,,,
+85527,k,0,naik mempelai,dasar,
+85527.1,x,,<naik mempela> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+85528,k,0,naik merek,dasar,
+,,,,,
+85529,k,0,naik mesin,dasar,
+,,,,,
+85530,k,0,naik nobat,dasar,
+,,,,,
+85531,k,0,naik palak,dasar,
+,,,,,
+85532,k,0,naik pangkat,dasar,
+,,,,,
+85533,k,0,naik pelamin(an),dasar,
+,,,,,
+85534,k,0,naik pitam,dasar,
+,,,,,
+85535,k,0,naik raja,dasar,
+,,,,,
+85536,k,0,naik ranjang,dasar,
+,,,,,
+85537,k,0,naik rezeki,dasar,
+85537.1,x,,<naik rezek> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+85538,k,0,naik saksi,dasar,
+85538.1,x,,<naik saks> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+85539,k,0,naik setum,dasar,
+,,,,,
+85540,k,0,naik takhta,dasar,
+,,,,,
+85541,k,0,naik tangan,dasar,
+85541.1,x,,<naik tang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+85542,k,0,naik tidur,dasar,
+,,,,,
+85543,k,0,naik turun,dasar,
+,,,,,
+85544,v,19,naik-naik,dasar,
+85544.1,v,,<naik> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+85545,k,45,naim,dasar,
+,,,,,
+85546,k,0,najam,dasar,
+,,,,,
+85547,k,0,najasah,dasar,
+,,,,,
+85548,k,0,najasat,dasar,
+,,,,,
+85549,k,0,najen,dasar,
+,,,,,
+85550,k,45,najis,dasar,
+85550.1,x,,<naji> + [-is:-s],bentukan,[177] [S] -is + (i)
+85550.2,x,,<naj> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+85551,k,0,najis berat,dasar,
+,,,,,
+85552,k,0,najis besar,dasar,
+,,,,,
+85553,k,0,najis hakiki,dasar,
+85553.1,x,,<najis hakik> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+85554,k,0,najis hukmi,dasar,
+85554.1,x,,<najis hukm> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+85555,k,0,najis kecil,dasar,
+,,,,,
+85556,k,0,najis ringan,dasar,
+85556.1,x,,<najis ring> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+85557,k,0,najis sedang,dasar,
+,,,,,
+85558,c,260,nak,dasar,hendak
+,,,,,
+85559,k,7,naka,dasar,
+,,,,,
+85560,k,300,nakal,dasar,
+,,,,,
+85561,v,7,nakal-nakal,dasar,
+85561.1,v,,<nakal> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+85562,k,0,nakal-nakalan,dasar,
+85562.1,v,,<nakal> [-] <r> + -an,bentukan,[23] [RD] |
+,,,,,
+85563,v,2,nakal-nakalnya,dasar,
+85563.1,x,,<nakal> [-] <r> + -nya,bentukan,[23] [RD] |
+85563.2,v,,<nakal> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+85564,k,0,nakara,dasar,
+,,,,,
+85565,k,3,nakas,dasar,
+,,,,,
+85566,v,52,nakes,dasar,
+,,,,,
+85567,k,3,nakfa,dasar,
+,,,,,
+85568,k,82,nakhoda,dasar,
+,,,,,
+85569,v,2,nakhoda-nakhoda,dasar,
+85569.1,v,,<nakhoda> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+85570,k,5,nako,dasar,
+,,,,,
+85571,k,0,nakoda,dasar,
+,,,,,
+85572,t,39,naksir,dasar,menaksir
+,,,,,
+85573,t,2,naksir-naksiran,dasar,taksir-menaksir
+85573.1,x,,<naksir> [-] <r> + -an,bentukan,[23] [RD] |
+,,,,,
+85574,k,0,naktu,dasar,
+,,,,,
+85575,t,3,nakut-nakutin,dasar,menakut-nakuti
+,,,,,
+85576,t,7,nakutin,dasar,menakuti
+,,,,,
+85577,k,33,nal,dasar,
+,,,,,
+85578,k,12,nala,dasar,
+,,,,,
+85579,k,0,nalaktak,dasar,
+,,,,,
+85580,k,0,nalam,dasar,
+,,,,,
+85581,k,188,nalar,dasar,
+,,,,,
+85582,k,0,nalca,dasar,
+,,,,,
+85583,k,0,nali,dasar,
+85583.1,x,,<nal> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+85584,k,0,nalih,dasar,
+,,,,,
+85585,k,152,naluri,dasar,
+85585.1,x,,<nalur> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+85586,k,27,naluriah,dasar,
+85586.1,x,,<nalur> + -iah,bentukan,[175] [S] -iah + (<others>)
+,,,,,
+85587,k,5948,nama,dasar,
+,,,,,
+85588,k,0,nama alternatif,dasar,
+,,,,,
+85589,k,0,nama berterima,dasar,
+,,,,,
+85590,k,0,nama botani,dasar,
+85590.1,x,,<nama botan> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+85591,k,0,nama cumbu,dasar,
+,,,,,
+85592,k,0,nama daerah,dasar,
+,,,,,
+85593,k,0,nama dagang,dasar,
+,,,,,
+85594,k,0,nama daging,dasar,
+,,,,,
+85595,k,0,nama diri,dasar,
+85595.1,x,,<nama dir> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+85596,k,0,nama domain,dasar,
+,,,,,
+85597,k,0,nama ejekan,dasar,
+85597.1,x,,<nama eje> + -kan,bentukan,[29] [S] -kan + (<all>)
+85597.2,x,,<nama ejek> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+85598,k,0,nama generik,dasar,
+,,,,,
+85599,k,0,nama ilmiah,dasar,
+85599.1,x,,<nama ilm> + -iah,bentukan,[175] [S] -iah + (<others>)
+,,,,,
+85600,k,0,nama induk,dasar,
+,,,,,
+85601,k,0,nama jenis,dasar,
+85601.1,x,,<nama jeni> + [-is:-s],bentukan,[177] [S] -is + (i)
+85601.2,x,,<nama jen> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+85602,k,0,nama julukan,dasar,
+85602.1,x,,<nama julu> + -kan,bentukan,[29] [S] -kan + (<all>)
+85602.2,x,,<nama juluk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+85603,k,0,nama kapal,dasar,
+,,,,,
+85604,k,0,nama kecil,dasar,
+,,,,,
+85605,k,0,nama latin,dasar,
+,,,,,
+85606,k,0,nama lengkap,dasar,
+,,,,,
+85607,k,0,nama panggilan,dasar,
+85607.1,x,,<nama panggil> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+85608,k,0,nama panggilan radio,dasar,
+,,,,,
+85609,k,0,nama panggung,dasar,
+,,,,,
+85610,k,0,nama pedengan,dasar,
+85610.1,x,,<nama pedeng> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+85611,k,0,nama pengarang,dasar,
+,,,,,
+85612,k,0,nama produk,dasar,
+,,,,,
+85613,k,0,nama rupabumi,dasar,
+85613.1,x,,<nama rupabum> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+85614,k,0,nama sah,dasar,
+,,,,,
+85615,k,0,nama samaran,dasar,
+85615.1,x,,<nama samar> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+85616,k,0,nama sistematik,dasar,
+,,,,,
+85617,k,0,nama teknik,dasar,
+,,,,,
+85618,k,0,nama terang,dasar,
+,,,,,
+85619,k,0,nama timangan,dasar,
+85619.1,x,,<nama timang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+85620,k,0,nama trivial,dasar,
+,,,,,
+85621,k,0,nama tubuh,dasar,
+,,,,,
+85622,k,0,namabalu,dasar,
+,,,,,
+85623,d,0,namanya,dasar,
+85623.1,v,,<nama> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+85624,k,0,namaskara,dasar,
+,,,,,
+85625,k,0,namatad,dasar,
+,,,,,
+85626,k,0,namatium,dasar,
+,,,,,
+85627,t,48,nambah,dasar,bertambah
+,,,,,
+85628,t,5,nambah-nambah,dasar,bertambah-tambah
+85628.1,x,,<nambah> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+85629,t,3,nambah-nambahin,dasar,menambah-nambahi
+,,,,,
+85630,t,2,nambahi,dasar,menamabahi
+85630.1,x,,<nambah> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+85631,t,9,nambahin,dasar,menambahi
+,,,,,
+85632,t,6,nambahkan,dasar,menambahkan
+85632.1,x,,<nambah> + -kan,bentukan,[29] [S] -kan + (<all>)
+85632.2,x,,<nambahk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+85633,t,3,nambal,dasar,menambal
+,,,,,
+85634,k,0,nambi,dasar,
+85634.1,x,,<namb> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+85635,k,0,nambrong,dasar,
+,,,,,
+85636,k,0,nambrung,dasar,
+,,,,,
+85637,k,9,nami,dasar,
+85637.1,x,,<nam> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+85638,k,0,namibia,dasar,
+,,,,,
+85639,k,0,namnam,dasar,
+,,,,,
+85640,c,472,nampak,dasar,tampak
+,,,,,
+85641,k,0,nampal,dasar,
+,,,,,
+85642,k,84,nampan,dasar,
+85642.1,x,,<namp> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+85643,k,0,nampan pulur,dasar,
+,,,,,
+85644,v,2,nampan-nampan,dasar,
+85644.1,v,,<nampan> [-] <r>,bentukan,[23] [RD] |
+85644.2,x,,<namp> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+85645,t,9,nampang,dasar,menampang
+,,,,,
+85646,t,9,nampilin,dasar,menampilkan
+,,,,,
+85647,t,2,nampilkan,dasar,menampilkan
+85647.1,x,,<nampil> + -kan,bentukan,[29] [S] -kan + (<all>)
+85647.2,x,,<nampilk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+85648,k,0,namping,dasar,
+,,,,,
+85649,t,2,nampol,dasar,menampol
+,,,,,
+85650,k,0,namrut,dasar,
+,,,,,
+85651,k,16,namu,dasar,
+85651.1,x,,<na> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+,,,,,
+85652,k,15542,namun,dasar,
+,,,,,
+85653,k,452,nan,dasar,
+85653.1,x,,<n> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+85654,k,30,nanah,dasar,
+,,,,,
+85655,k,0,nanahaon,dasar,
+,,,,,
+85656,t,4,nanam,dasar,menanam
+,,,,,
+85657,k,37,nanang,dasar,
+,,,,,
+85658,k,6,nanap,dasar,
+,,,,,
+85659,k,60,nanar,dasar,
+,,,,,
+85660,k,61,nanas,dasar,
+,,,,,
+85661,k,0,nanas belanda,dasar,
+85661.1,x,,<nanas bela> + [-anda:-nda],bentukan,[183] [S] -anda + (i;u;a;[k:])
+85661.2,x,,<nanas belan> + [-anda:-da],bentukan,[184] [S] -anda + (an)
+85661.3,x,,<nanas bel> + -anda,bentukan,[185] [S] -anda + (<others>)
+,,,,,
+85662,k,0,nanas betawi,dasar,
+85662.1,x,,<nanas betaw> + -i,bentukan,[28] [S] -i + (<all>)
+85662.2,x,,<nanas beta> + -wi,bentukan,[174] [S] -wi + (<others>)
+,,,,,
+85663,k,0,nanas hias,dasar,
+,,,,,
+85664,k,0,nanas kerang,dasar,
+,,,,,
+85665,k,0,nanas kista,dasar,
+,,,,,
+85666,k,0,nanas seberang,dasar,
+,,,,,
+85667,k,0,nanas tali,dasar,
+85667.1,x,,<nanas tal> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+85668,t,2,nancep,dasar,menancap
+,,,,,
+85669,c,24,nanda,dasar,ananda
+85669.1,x,,<na> + [-anda:-nda],bentukan,[183] [S] -anda + (i;u;a;[k:])
+85669.2,x,,<nan> + [-anda:-da],bentukan,[184] [S] -anda + (an)
+85669.3,x,,<n> + -anda,bentukan,[185] [S] -anda + (<others>)
+,,,,,
+85670,k,0,nandong,dasar,
+,,,,,
+85671,k,0,nandu,dasar,
+,,,,,
+85672,k,0,nandung,dasar,
+,,,,,
+85673,t,3,nanem,dasar,menanam
+,,,,,
+85674,k,42,nang,dasar,
+,,,,,
+85675,t,4,nangani,dasar,menangani
+85675.1,x,,<nangan> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+85676,k,9,nanggala,dasar,
+,,,,,
+85677,k,0,nangganan,dasar,
+85677.1,x,,<nanggan> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+85678,t,4,nanggap,dasar,menanggap
+,,,,,
+85679,t,3,nanggapi,dasar,menanggapi
+85679.1,x,,<nanggap> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+85680,t,3,nanggepin,dasar,menanggapi
+,,,,,
+85681,t,35,nanggung,dasar,tanggung
+,,,,,
+85682,k,0,nanggung bungang,dasar,
+,,,,,
+85683,t,75,nangis,dasar,menangis
+85683.1,x,,<nangi> + [-is:-s],bentukan,[177] [S] -is + (i)
+85683.2,x,,<nang> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+85684,t,2,nangis-nangis,dasar,menangis-nangis
+85684.1,x,,<nangis> [-] <r>,bentukan,[23] [RD] |
+85684.2,x,,<nangi> + [-is:-s] [-] <r> + [-is:-s],bentukan,[177] [S] -is + (i) => [23] [RD] |
+85684.3,x,,<nang> + -is [-] <r> + -is,bentukan,[178] [S] -is + (<others>) => [23] [RD] |
+,,,,,
+85685,k,82,nangka,dasar,
+,,,,,
+85686,k,0,nangka belanda,dasar,
+85686.1,x,,<nangka bela> + [-anda:-nda],bentukan,[183] [S] -anda + (i;u;a;[k:])
+85686.2,x,,<nangka belan> + [-anda:-da],bentukan,[184] [S] -anda + (an)
+85686.3,x,,<nangka bel> + -anda,bentukan,[185] [S] -anda + (<others>)
+,,,,,
+85687,t,13,nangkap,dasar,menangkap
+,,,,,
+85688,t,20,nangkep,dasar,menangkap
+,,,,,
+85689,k,0,nangkoda,dasar,
+,,,,,
+85690,k,22,nangkring,dasar,
+,,,,,
+85691,v,12,nangroe,dasar,
+,,,,,
+85692,k,0,nangui,dasar,
+85692.1,x,,<nangu> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+85693,k,0,naniura,dasar,
+,,,,,
+85694,t,4,nanjak,dasar,menanjak
+,,,,,
+85695,k,2,nanking,dasar,
+,,,,,
+85696,k,88,nano,dasar,
+,,,,,
+85697,t,2,nano-nano,dasar,
+85697.1,x,,<nano> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+85698,k,0,nanofarad,dasar,
+,,,,,
+85699,v,3,nanofiber,dasar,
+,,,,,
+85700,k,0,nanofil,dasar,
+,,,,,
+85701,k,0,nanofili,dasar,
+85701.1,x,,<nanofil> + -i,bentukan,[28] [S] -i + (<all>)
+85701.2,x,,<nano> + -fili,bentukan,[193] [S] -fili + (<all>)
+,,,,,
+85702,k,0,nanofilia,dasar,
+85702.1,x,,<nano> + -filia,bentukan,[216] [S] -filia + (<all>)
+,,,,,
+85703,v,2,nanofiltrasi,dasar,
+85703.1,x,,<nanofiltras> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+85704,k,0,nanofluida,dasar,
+,,,,,
+85705,k,0,nanofosil,dasar,
+,,,,,
+85706,k,0,nanogram,dasar,
+,,,,,
+85707,k,7,nanomaterial,dasar,
+,,,,,
+85708,k,5,nanometer,dasar,
+85708.1,x,,<nano> + -meter,bentukan,[189] [S] -meter + (<all>)
+,,,,,
+85709,k,16,nanopartikel,dasar,
+,,,,,
+85710,k,0,nanoplankton,dasar,
+,,,,,
+85711,k,8,nanoteknologi,dasar,
+85711.1,x,,<nanoteknolog> + -i,bentukan,[28] [S] -i + (<all>)
+85711.2,x,,<nanotekno> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+85712,t,5,nantang,dasar,menantang
+,,,,,
+85713,k,3776,nanti,dasar,
+85713.1,x,,<nant> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+85714,t,19,nanti-nanti,dasar,nanti
+85714.1,x,,<nanti> [-] <r>,bentukan,[23] [RD] |
+85714.2,x,,<nant> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+85715,k,0,nanti-nantian,dasar,
+85715.1,v,,<nanti> [-] <r> + -an,bentukan,[23] [RD] |
+85715.2,x,,<nant> + -i [-] <r> + -i + -an,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+85716,k,1997,nantinya,dasar,
+85716.1,v,,<nanti> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+85716.2,x,,<nant> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+85717,t,62,nanya,dasar,bertanya
+85717.1,x,,<na> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+85718,t,15,nanya-nanya,dasar,bertanya-tanya
+85718.1,x,,<nanya> [-] <r>,bentukan,[23] [RD] |
+85718.2,x,,<na> + -nya [-] <r> + -nya,bentukan,[34] [SFS] -nya + (<all>) => [23] [RD] |
+,,,,,
+85719,t,7,nanyain,dasar,menanyai
+,,,,,
+85720,t,2,nanyakan,dasar,menanyakan
+85720.1,x,,<nanya> + -kan,bentukan,[29] [S] -kan + (<all>)
+85720.2,x,,<nanyak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+85721,t,12,napa,dasar,mengapa
+,,,,,
+85722,t,30,napak,dasar,menapak
+,,,,,
+85723,k,0,napak tilas,dasar,
+,,,,,
+85724,k,5,napal,dasar,
+,,,,,
+85725,k,3,napalm,dasar,
+,,,,,
+85726,k,822,napas,dasar,
+,,,,,
+85727,v,5,napas-napas,dasar,
+85727.1,v,,<napas> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+85728,c,62,napi,dasar,nafi
+85728.1,x,,<nap> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+85729,k,0,napinadar,dasar,
+,,,,,
+85730,k,3,napo,dasar,
+,,,,,
+85731,k,42,napoleon,dasar,
+,,,,,
+85732,c,0,napsi,dasar,
+85732.1,x,,<naps> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+85733,c,7,napsu,dasar,nafsu
+,,,,,
+85734,k,5,napu,dasar,
+,,,,,
+85735,k,2,napuh,dasar,
+,,,,,
+85736,k,0,naqal,dasar,
+,,,,,
+85737,k,8,naqli,dasar,
+85737.1,x,,<naql> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+85738,k,85,nara,dasar,
+,,,,,
+85739,k,0,narablog,dasar,
+,,,,,
+85740,k,0,naradamping,dasar,
+,,,,,
+85741,k,17,narahubung,dasar,
+,,,,,
+85742,k,0,naralila,dasar,
+,,,,,
+85743,k,12,narang,dasar,
+,,,,,
+85744,k,0,narapati,dasar,
+85744.1,x,,<narapat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+85745,k,180,narapidana,dasar,
+,,,,,
+85746,k,0,narapidana korupsi,dasar,
+85746.1,x,,<narapidana korups> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+85747,k,0,narapidana politik,dasar,
+,,,,,
+85748,k,0,narapidana terorisme,dasar,
+85748.1,x,,<narapidana teror> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+85749,k,0,narapraja,dasar,
+,,,,,
+85750,k,322,narasi,dasar,
+85750.1,x,,<naras> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+85751,v,19,narasi-narasi,dasar,
+85751.1,v,,<narasi> [-] <r>,bentukan,[23] [RD] |
+85751.2,x,,<naras> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+85752,k,456,narasumber,dasar,
+,,,,,
+85753,v,3,narasumber-narasumber,dasar,
+85753.1,v,,<narasumber> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+85754,k,0,naratama,dasar,
+,,,,,
+85755,k,0,naratetama,dasar,
+,,,,,
+85756,k,81,naratif,dasar,
+,,,,,
+85757,k,4,naratologi,dasar,
+85757.1,x,,<naratolog> + -i,bentukan,[28] [S] -i + (<all>)
+85757.2,x,,<narato> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+85758,k,22,narator,dasar,
+,,,,,
+85759,k,0,naravlog,dasar,
+,,,,,
+85760,k,0,narawastu,dasar,
+,,,,,
+85761,k,0,narawita,dasar,
+,,,,,
+85762,k,0,narestu,dasar,
+,,,,,
+85763,t,26,nari,dasar,menari
+85763.1,x,,<nar> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+85764,t,25,narik,dasar,menarik
+,,,,,
+85765,v,404,narkoba,dasar,
+,,,,,
+85766,k,2,narkolepsi,dasar,
+85766.1,x,,<narkoleps> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+85767,k,0,narkomaniak,dasar,
+,,,,,
+85768,k,3,narkose,dasar,
+,,,,,
+85769,k,0,narkosis,dasar,
+85769.1,x,,<narkosi> + [-is:-s],bentukan,[177] [S] -is + (i)
+85769.2,x,,<narkos> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+85770,c,88,narkotik,dasar,narkotika
+,,,,,
+85771,k,233,narkotika,dasar,
+,,,,,
+85772,k,0,narosa,dasar,
+,,,,,
+85773,k,0,narpati,dasar,
+85773.1,x,,<narpat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+85774,c,31,narsis,dasar,narsistik
+85774.1,x,,<narsi> + [-is:-s],bentukan,[177] [S] -is + (i)
+85774.2,x,,<nars> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+85775,k,5,narsisisme,dasar,
+85775.1,v,,<narsis> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+85776,v,2,narsisistik,dasar,
+,,,,,
+85777,v,6,narsisme,dasar,
+85777.1,x,,<nars> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+85778,k,2,narsistik,dasar,
+,,,,,
+85779,t,9,naruh,dasar,menaruh
+,,,,,
+85780,k,0,narwastu,dasar,
+,,,,,
+85781,k,39,nas,dasar,
+,,,,,
+85782,k,21,nasab,dasar,
+,,,,,
+85783,k,0,nasab sultani,dasar,
+85783.1,x,,<nasab sultan> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+85784,k,784,nasabah,dasar,
+,,,,,
+85785,k,0,nasabah bermasalah,dasar,
+85785.1,x,,<nasabah bermasa> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+85786,k,0,nasabah utama,dasar,
+,,,,,
+85787,v,3,nasabah-nasabah,dasar,
+85787.1,v,,<nasabah> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+85788,k,0,nasakh,dasar,
+,,,,,
+85789,k,24,nasal,dasar,
+,,,,,
+85790,k,2,nasalisasi,dasar,
+85790.1,x,,<nasalisas> + -i,bentukan,[28] [S] -i + (<all>)
+85790.2,x,,<nasali> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+85790.3,x,,<nasalis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+85790.4,v,,<nasal> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+85791,k,10,nasar,dasar,
+,,,,,
+85792,c,107,nasehat,dasar,nasihat
+,,,,,
+85793,k,0,nasel,dasar,
+,,,,,
+85794,k,664,nasi,dasar,
+85794.1,x,,<nas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+85795,k,0,nasi aking,dasar,
+,,,,,
+85796,k,0,nasi anjing,dasar,
+,,,,,
+85797,k,0,nasi ayam hainan,dasar,
+85797.1,x,,<nasi ayam hain> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+85798,k,0,nasi bakar,dasar,
+,,,,,
+85799,k,0,nasi beriani,dasar,
+85799.1,x,,<nasi berian> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+85800,k,0,nasi brumbun,dasar,
+,,,,,
+85801,k,0,nasi detus,dasar,
+,,,,,
+85802,k,0,nasi gandul,dasar,
+,,,,,
+85803,k,0,nasi gila,dasar,
+,,,,,
+85804,k,0,nasi golong,dasar,
+,,,,,
+85805,k,0,nasi goreng,dasar,
+,,,,,
+85806,k,0,nasi goreng mawut,dasar,
+,,,,,
+85807,k,0,nasi gurih,dasar,
+,,,,,
+85808,k,0,nasi jaha,dasar,
+,,,,,
+85809,k,0,nasi jamblang,dasar,
+,,,,,
+85810,k,0,nasi jinggo,dasar,
+,,,,,
+85811,k,0,nasi kebuli,dasar,
+85811.1,x,,<nasi kebul> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+85812,k,0,nasi kepal,dasar,
+,,,,,
+85813,k,0,nasi kerak,dasar,
+,,,,,
+85814,k,0,nasi kucing,dasar,
+,,,,,
+85815,k,0,nasi kuning,dasar,
+,,,,,
+85816,k,0,nasi kunyit,dasar,
+,,,,,
+85817,k,0,nasi lemang,dasar,
+,,,,,
+85818,k,0,nasi lengat,dasar,
+,,,,,
+85819,k,0,nasi lengko,dasar,
+,,,,,
+85820,k,0,nasi liwet,dasar,
+,,,,,
+85821,k,0,nasi mangkuk,dasar,
+,,,,,
+85822,k,0,nasi megana,dasar,
+,,,,,
+85823,k,0,nasi pulut,dasar,
+,,,,,
+85824,k,0,nasi punar,dasar,
+,,,,,
+85825,k,0,nasi putih,dasar,
+,,,,,
+85826,k,0,nasi rames,dasar,
+,,,,,
+85827,k,0,nasi rawon,dasar,
+,,,,,
+85828,k,0,nasi samin,dasar,
+,,,,,
+85829,k,0,nasi sega,dasar,
+,,,,,
+85830,k,0,nasi tim,dasar,
+,,,,,
+85831,k,0,nasi timbel,dasar,
+,,,,,
+85832,k,0,nasi tumpeng,dasar,
+,,,,,
+85833,k,0,nasi tungkus,dasar,
+,,,,,
+85834,k,0,nasi uduk,dasar,
+,,,,,
+85835,k,0,nasi ulam,dasar,
+,,,,,
+85836,k,4,nasi-nasi,dasar,
+85836.1,v,,<nasi> [-] <r>,bentukan,[23] [RD] |
+85836.2,x,,<nas> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+85837,k,1163,nasib,dasar,
+,,,,,
+85838,k,0,nasib baik,dasar,
+,,,,,
+85839,k,0,nasib buruk,dasar,
+,,,,,
+85840,k,0,nasib malang,dasar,
+,,,,,
+85841,k,0,nasib mujur,dasar,
+,,,,,
+85842,k,0,nasib-nasiban,dasar,
+85842.1,v,,<nasib> [-] <r> + -an,bentukan,[23] [RD] |
+,,,,,
+85843,k,417,nasihat,dasar,
+,,,,,
+85844,k,0,nasihat agama,dasar,
+,,,,,
+85845,k,0,nasihat genetika,dasar,
+,,,,,
+85846,v,2,nasihat-menasihati,dasar,
+85846.1,v,,<nasihat> [-] [meng-:me-] + <r> + -i,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [24] [RD] |meng-
+,,,,,
+85847,v,32,nasihat-nasihat,dasar,
+85847.1,v,,<nasihat> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+85848,v,4,nasihat-nasihatnya,dasar,
+85848.1,x,,<nasihat> [-] <r> + -nya,bentukan,[23] [RD] |
+85848.2,v,,<nasihat> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+85849,k,3,nasikh,dasar,
+,,,,,
+85850,k,3,nasion,dasar,
+,,,,,
+85851,k,8945,nasional,dasar,
+,,,,,
+85852,k,171,nasionalis,dasar,
+85852.1,x,,<nasionali> + [-is:-s],bentukan,[177] [S] -is + (i)
+85852.2,x,,<nasional> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+85853,k,26,nasionalisasi,dasar,
+85853.1,x,,<nasionalisas> + -i,bentukan,[28] [S] -i + (<all>)
+85853.2,x,,<nasionali> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+85853.3,x,,<nasionalis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+85853.4,v,,<nasional> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+85854,k,281,nasionalisme,dasar,
+85854.1,v,,<nasional> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+85855,v,7,nasionalistik,dasar,
+,,,,,
+85856,k,5,nasionalistis,dasar,
+85856.1,x,,<nasionalisti> + [-is:-s],bentukan,[177] [S] -is + (i)
+85856.2,x,,<nasionalist> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+85857,v,11,nasionalitas,dasar,
+85857.1,v,,<nasional> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+85858,x,3,nasionaljalan,dasar,
+85858.1,x,,<nasionaljal> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+85859,x,3,nasionalkamis,dasar,
+85859.1,x,,<nasionalkami> + [-is:-s],bentukan,[177] [S] -is + (i)
+85859.2,x,,<nasionalkam> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+85860,x,2,nasionalkampanye,dasar,
+,,,,,
+85861,x,4,nasionalkata,dasar,
+,,,,,
+85862,x,2,nasionalkawasan,dasar,
+85862.1,x,,<nasionalkawas> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+85863,x,2,nasionalkedua,dasar,
+,,,,,
+85864,x,4,nasionalkementerian,dasar,
+85864.1,x,,<nasionalkementeri> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+85865,x,2,nasionalkemudian,dasar,
+85865.1,x,,<nasionalkemudi> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+85866,x,36,nasionalkepala,dasar,
+,,,,,
+85867,x,7,nasionalmaupun,dasar,
+,,,,,
+85868,x,3,nasionalmelalui,dasar,
+85868.1,x,,<nasionalmelalu> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+85869,x,2,nasionalmenko,dasar,
+,,,,,
+85870,x,2,nasionalmenteri,dasar,
+85870.1,x,,<nasionalmenter> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+85871,x,2,nasionalmenurut,dasar,
+,,,,,
+85872,x,2,nasionalnamun,dasar,
+,,,,,
+85873,v,58,nasionalnya,dasar,
+85873.1,v,,<nasional> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+85874,x,4,nasionaloleh,dasar,
+,,,,,
+85875,x,3,nasionalpada,dasar,
+,,,,,
+85876,x,2,nasionalpembagian,dasar,
+85876.1,x,,<nasionalpembagi> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+85877,x,2,nasionalpemberdayaan,dasar,
+85877.1,x,,<nasionalpemberdaya> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+85878,x,3,nasionalpendidikan,dasar,
+85878.1,x,,<nasionalpendidi> + -kan,bentukan,[29] [S] -kan + (<all>)
+85878.2,x,,<nasionalpendidik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+85879,x,2,nasionalpenelitian,dasar,
+85879.1,x,,<nasionalpeneliti> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+85880,x,2,nasionalpersiapan,dasar,
+85880.1,x,,<nasionalpersiap> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+85881,x,4,nasionalpresiden,dasar,
+,,,,,
+85882,x,2,nasionalpunya,dasar,
+85882.1,x,,<nasionalpu> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+85883,x,2,nasionalpusat,dasar,
+,,,,,
+85884,x,2,nasionalrepublik,dasar,
+,,,,,
+85885,x,2,nasionalsalah,dasar,
+85885.1,x,,<nasionalsa> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+85886,x,6,nasionalsaya,dasar,
+,,,,,
+85887,x,2,nasionalsebagai,dasar,
+85887.1,x,,<nasionalsebaga> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+85888,x,3,nasionalsebagaimana,dasar,
+,,,,,
+85889,x,3,nasionalsebesar,dasar,
+,,,,,
+85890,x,3,nasionalsecara,dasar,
+,,,,,
+85891,x,2,nasionalselain,dasar,
+,,,,,
+85892,x,2,nasionalselasa,dasar,
+,,,,,
+85893,x,2,nasionalsenin,dasar,
+,,,,,
+85894,x,2,nasionalterima,dasar,
+,,,,,
+85895,x,3,nasionaltetapi,dasar,
+85895.1,x,,<nasionaltetap> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+85896,x,3,nasionaltidak,dasar,
+,,,,,
+85897,x,2,nasionaltujuan,dasar,
+85897.1,x,,<nasionaltuju> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+85898,x,4,nasionaluntuk,dasar,
+,,,,,
+85899,x,2,nasionalway,dasar,
+,,,,,
+85900,k,0,nasionisme,dasar,
+85900.1,x,,<nasion> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+85901,t,4,nasip,dasar,nasib
+,,,,,
+85902,k,723,naskah,dasar,
+85902.1,x,,<nas> + -kah,bentukan,[30] [FS] -kah + (<all>)
+,,,,,
+85903,k,0,naskah akademik,dasar,
+,,,,,
+85904,k,0,naskah berita,dasar,
+,,,,,
+85905,k,0,naskah dinas,dasar,
+,,,,,
+85906,k,0,naskah jadi,dasar,
+85906.1,x,,<naskah jad> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+85907,k,0,naskah kotor,dasar,
+,,,,,
+85908,k,0,naskah lakon,dasar,
+,,,,,
+85909,k,0,naskah siap cetak,dasar,
+,,,,,
+85910,v,33,naskah-naskah,dasar,
+85910.1,v,,<naskah> [-] <r>,bentukan,[23] [RD] |
+85910.2,x,,<nas> + -kah [-] <r> + -kah,bentukan,[30] [FS] -kah + (<all>) => [23] [RD] |
+,,,,,
+85911,k,15,nasofaring,dasar,
+,,,,,
+85912,v,3,nasokomial,dasar,
+,,,,,
+85913,k,67,nasrani,dasar,
+85913.1,x,,<nasran> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+85914,k,0,nasti,dasar,
+85914.1,x,,<nast> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+85915,k,7,nastiti,dasar,
+85915.1,x,,<nastit> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+85916,x,3,nasuha,dasar,
+,,,,,
+85917,k,4,nasut,dasar,
+,,,,,
+85918,k,11,nasyid,dasar,
+,,,,,
+85919,x,21,nat,dasar,
+,,,,,
+85920,k,312,natal,dasar,
+,,,,,
+85921,k,2,natalan,dasar,
+85921.1,v,,<natal> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+85922,k,0,natalitas,dasar,
+85922.1,v,,<natal> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+85923,k,6,natanael,dasar,
+,,,,,
+85924,k,0,natang,dasar,
+,,,,,
+85925,k,7,natar,dasar,
+,,,,,
+85926,v,10,natif,dasar,
+,,,,,
+85927,k,5,natijah,dasar,
+,,,,,
+85928,k,0,nativis,dasar,
+85928.1,x,,<nativi> + [-is:-s],bentukan,[177] [S] -is + (i)
+85928.2,x,,<nativ> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+85929,k,0,nativisme,dasar,
+85929.1,x,,<nativ> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+85930,k,0,nativistik,dasar,
+,,,,,
+85931,k,0,natolokal,dasar,
+,,,,,
+85932,k,125,natrium,dasar,
+,,,,,
+85933,k,0,natrium bikarbonat,dasar,
+,,,,,
+85934,k,0,natrium hidroksida,dasar,
+,,,,,
+85935,k,0,natrium karbohidrat,dasar,
+,,,,,
+85936,k,0,natrium karbonat,dasar,
+,,,,,
+85937,k,0,natrium klorida,dasar,
+,,,,,
+85938,k,0,natrium nitrat,dasar,
+,,,,,
+85939,k,0,natron,dasar,
+,,,,,
+85940,k,120,natuna,dasar,
+,,,,,
+85941,k,7,natur,dasar,
+,,,,,
+85942,k,11,natura,dasar,
+,,,,,
+85943,k,463,natural,dasar,
+,,,,,
+85944,k,22,naturalis,dasar,
+85944.1,x,,<naturali> + [-is:-s],bentukan,[177] [S] -is + (i)
+85944.2,v,,<natural> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+85945,k,51,naturalisasi,dasar,
+85945.1,x,,<naturalisas> + -i,bentukan,[28] [S] -i + (<all>)
+85945.2,x,,<naturali> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+85945.3,x,,<naturalis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+85945.4,v,,<natural> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+85946,k,6,naturalisme,dasar,
+85946.1,v,,<natural> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+85947,k,20,naturalistik,dasar,
+,,,,,
+85948,k,0,naturalistis,dasar,
+85948.1,x,,<naturalisti> + [-is:-s],bentukan,[177] [S] -is + (i)
+85948.2,x,,<naturalist> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+85949,k,5,naturopati,dasar,
+85949.1,x,,<naturopat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+85950,k,0,naturopatis,dasar,
+85950.1,x,,<naturopati> + [-is:-s],bentukan,[177] [S] -is + (i)
+85950.2,x,,<naturopat> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+85951,k,0,nau,dasar,
+,,,,,
+85952,k,0,naulu,dasar,
+,,,,,
+85953,k,3,naung,dasar,
+,,,,,
+85954,k,232,naungan,dasar,
+85954.1,v,,<naung> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+85955,t,2,naungi,dasar,menaungi
+85955.1,v,,<naung> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+85956,k,2,nauplius,dasar,
+,,,,,
+85957,k,6,nauru,dasar,
+,,,,,
+85958,k,4,nausea,dasar,
+,,,,,
+85959,k,0,nautik,dasar,
+,,,,,
+85960,k,4,nautika,dasar,
+,,,,,
+85961,k,0,nautikal,dasar,
+,,,,,
+85962,k,0,nautilus,dasar,
+,,,,,
+85963,k,223,navigasi,dasar,
+85963.1,x,,<navigas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+85964,k,0,navigasi kutub,dasar,
+,,,,,
+85965,k,18,navigator,dasar,
+,,,,,
+85966,k,0,navikula,dasar,
+,,,,,
+85967,k,5,nawaitu,dasar,
+,,,,,
+85968,k,4,nawala,dasar,
+,,,,,
+85969,k,0,nawala patra,dasar,
+,,,,,
+85970,k,0,nawalapradata,dasar,
+,,,,,
+85971,t,8,nawar,dasar,menawar
+,,,,,
+85972,k,0,nawarapoka,dasar,
+,,,,,
+85973,t,2,nawari,dasar,menawari
+85973.1,x,,<nawar> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+85974,t,15,nawarin,dasar,menawari
+,,,,,
+85975,k,0,nawastu,dasar,
+,,,,,
+85976,k,0,nawu,dasar,
+,,,,,
+85977,c,2,nayaga,dasar,niyaga
+,,,,,
+85978,k,15,nayaka,dasar,
+,,,,,
+85979,k,0,nayam,dasar,
+,,,,,
+85980,t,2,nayangin,dasar,menayangkan
+,,,,,
+85981,k,0,nayap,dasar,
+,,,,,
+85982,x,3,nayati,dasar,
+85982.1,x,,<nayat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+85983,x,2,nayato,dasar,
+,,,,,
+85984,x,3,nayi,dasar,
+85984.1,x,,<nay> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+85985,x,3,nayoan,dasar,
+85985.1,x,,<nayo> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+85986,x,2,nayoan-siregar,dasar,
+,,,,,
+85987,k,0,nayor,dasar,
+,,,,,
+85988,x,2,nayub,dasar,
+,,,,,
+85989,x,4,naz,dasar,
+,,,,,
+85990,x,3,naza,dasar,
+,,,,,
+85991,k,2,nazam,dasar,
+,,,,,
+85992,k,70,nazar,dasar,
+,,,,,
+85993,k,69,nazi,dasar,
+85993.1,x,,<naz> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+85994,k,0,naziisme,dasar,
+85994.1,x,,<nazi> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+85995,k,0,nazim,dasar,
+,,,,,
+85996,c,45,nazir,dasar,nadir
+,,,,,
+85997,t,2,ndaftarnya,dasar,mendaftarnya
+85997.1,x,,<ndaftar> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+85998,t,206,ndak,dasar,tidak
+,,,,,
+85999,x,2,ndakada,dasar,
+,,,,,
+86000,k,23,ndao,dasar,
+,,,,,
+86001,k,15,ndeso,dasar,
+,,,,,
+86002,k,0,ndom,dasar,
+,,,,,
+86003,t,2,ndongeng,dasar,mendongeng
+,,,,,
+86004,k,20,ndoro,dasar,
+,,,,,
+86005,k,0,ndoro ajeng,dasar,
+,,,,,
+86006,k,0,ndoro mas,dasar,
+,,,,,
+86007,k,0,ndoroisme,dasar,
+86007.1,x,,<ndoro> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+86008,k,33,nduga,dasar,
+,,,,,
+86009,k,0,ndugwa,dasar,
+,,,,,
+86010,k,0,neala,dasar,
+,,,,,
+86011,k,0,nealogi,dasar,
+86011.1,x,,<nealog> + -i,bentukan,[28] [S] -i + (<all>)
+86011.2,x,,<nea> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+86012,k,0,neapolitan,dasar,
+86012.1,x,,<neapolit> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+86013,t,10,nebak,dasar,menebak
+,,,,,
+86014,t,4,nebak-nebak,dasar,menebak-nebak
+86014.1,x,,<nebak> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+86015,k,24,nebeng,dasar,
+,,,,,
+86016,k,4,nebula,dasar,
+,,,,,
+86017,k,0,nebula kepiting,dasar,
+,,,,,
+86018,k,0,nebulafobia,dasar,
+86018.1,x,,<nebula> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+86019,v,3,nebulisasi,dasar,
+86019.1,x,,<nebulisas> + -i,bentukan,[28] [S] -i + (<all>)
+86019.2,x,,<nebuli> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+86019.3,x,,<nebulis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+86019.4,x,,<nebul> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+86020,k,0,nebulium,dasar,
+,,,,,
+86021,k,5,nebulizer,dasar,
+,,,,,
+86022,k,0,nebulosus,dasar,
+,,,,,
+86023,k,0,neces,dasar,
+,,,,,
+86024,k,0,neci,dasar,
+86024.1,x,,<nec> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+86025,k,44,necis,dasar,
+86025.1,x,,<neci> + [-is:-s],bentukan,[177] [S] -is + (i)
+86025.2,x,,<nec> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+86026,k,0,nefarpi,dasar,
+86026.1,x,,<nefarp> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+86027,k,0,nefelometer,dasar,
+86027.1,x,,<nefelo> + -meter,bentukan,[189] [S] -meter + (<all>)
+,,,,,
+86028,k,0,nefelometri,dasar,
+86028.1,x,,<nefelometr> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+86029,k,0,nefofobia,dasar,
+86029.1,x,,<nefo> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+86030,k,0,nefoskop,dasar,
+,,,,,
+86031,k,0,nefoskop cermin,dasar,
+,,,,,
+86032,k,0,nefoskop kisi,dasar,
+86032.1,x,,<nefoskop kis> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+86033,k,0,nefrektomi,dasar,
+86033.1,x,,<nefrektom> + -i,bentukan,[28] [S] -i + (<all>)
+86033.2,x,,<nefrek> + -tomi,bentukan,[200] [S] -tomi + (<all>)
+,,,,,
+86034,k,0,nefridium,dasar,
+,,,,,
+86035,k,0,nefrit,dasar,
+,,,,,
+86036,k,3,nefritis,dasar,
+86036.1,x,,<nefriti> + [-is:-s],bentukan,[177] [S] -is + (i)
+86036.2,x,,<nefrit> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+86037,k,0,nefroblastoma,dasar,
+,,,,,
+86038,k,0,nefrokalsinosis,dasar,
+86038.1,x,,<nefrokalsinosi> + [-is:-s],bentukan,[177] [S] -is + (i)
+86038.2,x,,<nefrokalsinos> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+86039,k,8,nefrologi,dasar,
+86039.1,x,,<nefrolog> + -i,bentukan,[28] [S] -i + (<all>)
+86039.2,x,,<nefro> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+86040,k,3,nefron,dasar,
+,,,,,
+86041,v,9,nefropati,dasar,
+86041.1,x,,<nefropat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+86042,k,0,nefrosis,dasar,
+86042.1,x,,<nefrosi> + [-is:-s],bentukan,[177] [S] -is + (i)
+86042.2,x,,<nefros> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+86043,k,8,nefrotik,dasar,
+,,,,,
+86044,v,5,nefrotoksik,dasar,
+,,,,,
+86045,v,2,nefrotoksisitas,dasar,
+86045.1,x,,<nefrotoksis> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+86046,k,13281,negara,dasar,
+,,,,,
+86047,k,0,negara bagian,dasar,
+86047.1,x,,<negara bagi> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+86048,k,0,negara barat,dasar,
+,,,,,
+86049,k,0,negara barbaria,dasar,
+,,,,,
+86050,k,0,negara berkembang,dasar,
+,,,,,
+86051,k,0,negara besar,dasar,
+,,,,,
+86052,k,0,negara boneka,dasar,
+,,,,,
+86053,k,0,negara debitur,dasar,
+,,,,,
+86054,k,0,negara federal,dasar,
+,,,,,
+86055,k,0,negara federasi,dasar,
+86055.1,x,,<negara federas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+86056,k,0,negara gereja,dasar,
+,,,,,
+86057,k,0,negara gundal,dasar,
+,,,,,
+86058,k,0,negara hukum,dasar,
+,,,,,
+86059,k,0,negara hukum formal,dasar,
+,,,,,
+86060,k,0,negara hukum material,dasar,
+,,,,,
+86061,k,0,negara induk,dasar,
+,,,,,
+86062,k,0,negara industri,dasar,
+86062.1,x,,<negara industr> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+86063,k,0,negara islam,dasar,
+,,,,,
+86064,k,0,negara kapitalis,dasar,
+86064.1,x,,<negara kapitali> + [-is:-s],bentukan,[177] [S] -is + (i)
+86064.2,x,,<negara kapital> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+86065,k,0,negara kekuasaan,dasar,
+86065.1,x,,<negara kekuasa> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+86066,k,0,negara kepulauan,dasar,
+86066.1,x,,<negara kepulau> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+86067,k,0,negara kerajaan,dasar,
+86067.1,x,,<negara keraja> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+86068,k,0,negara kesatuan,dasar,
+86068.1,x,,<negara kesatu> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+86069,k,0,negara kesejahteraan,dasar,
+86069.1,x,,<negara kesejahtera> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+86070,k,0,negara konfederasi,dasar,
+86070.1,x,,<negara konfederas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+86071,k,0,negara korporasi,dasar,
+86071.1,x,,<negara korporas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+86072,k,0,negara kota,dasar,
+,,,,,
+86073,k,0,negara kreditor,dasar,
+,,,,,
+86074,k,0,negara maju,dasar,
+,,,,,
+86075,k,0,negara nonblok,dasar,
+,,,,,
+86076,k,0,negara otoriter,dasar,
+,,,,,
+86077,k,0,negara pancasila,dasar,
+,,,,,
+86078,k,0,negara penerima,dasar,
+,,,,,
+86079,k,0,negara pengirim,dasar,
+,,,,,
+86080,k,0,negara penyangga,dasar,
+,,,,,
+86081,k,0,negara persemakmuran,dasar,
+86081.1,x,,<negara persemakmur> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+86082,k,0,negara polisi,dasar,
+86082.1,x,,<negara polis> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+86083,k,0,negara protektorat,dasar,
+,,,,,
+86084,k,0,negara pulau,dasar,
+,,,,,
+86085,k,0,negara satelit,dasar,
+,,,,,
+86086,k,0,negara sekuler,dasar,
+,,,,,
+86087,k,0,negara sekutu,dasar,
+,,,,,
+86088,k,0,negara sentral,dasar,
+,,,,,
+86089,k,0,negara serikat,dasar,
+,,,,,
+86090,k,0,negara teluk,dasar,
+,,,,,
+86091,k,0,negara terbelakang,dasar,
+,,,,,
+86092,k,0,negara tirai bambu,dasar,
+,,,,,
+86093,k,0,negara tirai besi,dasar,
+86093.1,x,,<negara tirai bes> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+86094,k,0,negara totaliter,dasar,
+,,,,,
+86095,k,0,negara transit,dasar,
+,,,,,
+86096,v,1974,negara-negara,dasar,
+86096.1,v,,<negara> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+86097,k,8,negarakertagama,dasar,
+,,,,,
+86098,k,60,negarawan,dasar,
+86098.1,x,,<negaraw> + -an,bentukan,[38] [S] -an + (<all>)
+86098.2,v,,<negara> + -wan,bentukan,[180] [S] -wan + (<others>)
+86098.3,x,,<negar> + [-wan:-awan],bentukan,[18000001] [S] -wan + (<all>)
+,,,,,
+86099,c,26,negari,dasar,nagari
+86099.1,x,,<negar> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+86100,k,16,negasi,dasar,
+86100.1,x,,<negas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+86101,k,2097,negatif,dasar,
+,,,,,
+86102,k,0,negativisme,dasar,
+86102.1,x,,<negativ> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+86103,k,0,negativistik,dasar,
+,,,,,
+86104,v,2,negativitas,dasar,
+86104.1,x,,<negativ> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+86105,k,0,negatron,dasar,
+,,,,,
+86106,k,4,neger,dasar,
+,,,,,
+86107,k,8766,negeri,dasar,
+86107.1,x,,<neger> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+86108,k,0,negeri antah berantah,dasar,
+,,,,,
+86109,k,0,negeri atas angin,dasar,
+,,,,,
+86110,k,0,negeri awak,dasar,
+,,,,,
+86111,k,0,negeri bawah angin,dasar,
+,,,,,
+86112,k,0,negeri beruang merah,dasar,
+,,,,,
+86113,k,0,negeri ginseng,dasar,
+,,,,,
+86114,k,0,negeri jiran,dasar,
+86114.1,x,,<negeri jir> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+86115,k,0,negeri kanguru,dasar,
+,,,,,
+86116,k,0,negeri keju,dasar,
+,,,,,
+86117,k,0,negeri kincir angin,dasar,
+,,,,,
+86118,k,0,negeri kiwi,dasar,
+86118.1,x,,<negeri kiw> + -i,bentukan,[28] [S] -i + (<all>)
+86118.2,x,,<negeri ki> + -wi,bentukan,[174] [S] -wi + (<others>)
+,,,,,
+86119,k,0,negeri kuntum mawar,dasar,
+,,,,,
+86120,k,0,negeri matahari terbit,dasar,
+,,,,,
+86121,k,0,negeri orang,dasar,
+,,,,,
+86122,k,0,negeri paman sam,dasar,
+,,,,,
+86123,k,0,negeri pantun,dasar,
+,,,,,
+86124,k,0,negeri ramal,dasar,
+,,,,,
+86125,k,0,negeri sakura,dasar,
+,,,,,
+86126,k,0,negeri samba,dasar,
+,,,,,
+86127,k,0,negeri seribu satu malam,dasar,
+,,,,,
+86128,k,0,negeri tango,dasar,
+,,,,,
+86129,k,0,negeri tirai bambu,dasar,
+,,,,,
+86130,k,0,negeri tirai besi,dasar,
+86130.1,x,,<negeri tirai bes> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+86131,v,81,negeri-negeri,dasar,
+86131.1,v,,<negeri> [-] <r>,bentukan,[23] [RD] |
+86131.2,x,,<neger> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+86132,t,13,nego,dasar,negosiasi
+,,,,,
+86133,t,2,nego-nego,dasar,menegosiasi
+86133.1,v,,<nego> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+86134,c,15,negoisasi,dasar,negosiasi
+86134.1,x,,<negoisas> + -i,bentukan,[28] [S] -i + (<all>)
+86134.2,x,,<negoi> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+86134.3,x,,<negois> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+,,,,,
+86135,k,0,negosi,dasar,
+86135.1,x,,<negos> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+86136,k,434,negosiasi,dasar,
+86136.1,x,,<negosias> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+86137,k,26,negosiator,dasar,
+,,,,,
+86138,c,50,negri,dasar,negeri
+86138.1,x,,<negr> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+86139,k,5,negrito,dasar,
+,,,,,
+86140,k,17,negro,dasar,
+,,,,,
+86141,k,0,negrofilia,dasar,
+86141.1,x,,<negro> + -filia,bentukan,[216] [S] -filia + (<all>)
+,,,,,
+86142,k,4,negroid,dasar,
+86142.1,x,,<negr> + -oid,bentukan,[209] [S] -oid + (<all>)
+,,,,,
+86143,t,3,negur,dasar,menegur
+,,,,,
+86144,k,0,negus,dasar,
+,,,,,
+86145,k,54,nek,dasar,
+,,,,,
+86146,c,7,neka,dasar,aneka
+,,,,,
+86147,k,0,neka-neka,dasar,
+86147.1,v,,<neka> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+86148,c,54,nekad,dasar,nekat
+,,,,,
+86149,t,3,nekan,dasar,menekan
+86149.1,x,,<ne> + -kan,bentukan,[29] [S] -kan + (<all>)
+86149.2,x,,<nek> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+86150,k,4,nekara,dasar,
+,,,,,
+86151,k,389,nekat,dasar,
+,,,,,
+86152,k,0,nekat-nekat,dasar,
+86152.1,v,,<nekat> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+86153,k,0,nekel,dasar,
+,,,,,
+86154,k,0,neket,dasar,
+,,,,,
+86155,k,21,neko-neko,dasar,
+86155.1,v,,<neko> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+86156,k,0,nekrofag,dasar,
+,,,,,
+86157,k,0,nekrofagus,dasar,
+,,,,,
+86158,k,0,nekrofili,dasar,
+86158.1,x,,<nekrofil> + -i,bentukan,[28] [S] -i + (<all>)
+86158.2,x,,<nekro> + -fili,bentukan,[193] [S] -fili + (<all>)
+,,,,,
+86159,k,0,nekrofilia,dasar,
+86159.1,x,,<nekro> + -filia,bentukan,[216] [S] -filia + (<all>)
+,,,,,
+86160,k,0,nekrofilik,dasar,
+,,,,,
+86161,k,0,nekrofobia,dasar,
+86161.1,x,,<nekro> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+86162,k,0,nekrogeografi,dasar,
+86162.1,x,,<nekrogeograf> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+86163,k,0,nekrolalia,dasar,
+,,,,,
+86164,k,0,nekrolog,dasar,
+,,,,,
+86165,k,0,nekrologi,dasar,
+86165.1,x,,<nekrolog> + -i,bentukan,[28] [S] -i + (<all>)
+86165.2,x,,<nekro> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+86166,k,0,nekromansi,dasar,
+86166.1,x,,<nekromans> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+86167,k,0,nekropolis,dasar,
+86167.1,x,,<nekropoli> + [-is:-s],bentukan,[177] [S] -is + (i)
+86167.2,x,,<nekropol> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+86168,k,2,nekropsi,dasar,
+86168.1,x,,<nekrops> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+86169,k,35,nekrosis,dasar,
+86169.1,x,,<nekrosi> + [-is:-s],bentukan,[177] [S] -is + (i)
+86169.2,x,,<nekros> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+86170,k,0,nekrosis pusuh,dasar,
+,,,,,
+86171,v,8,nekrotik,dasar,
+,,,,,
+86172,v,2,nekrotomi,dasar,
+86172.1,x,,<nekrotom> + -i,bentukan,[28] [S] -i + (<all>)
+86172.2,x,,<nekro> + -tomi,bentukan,[200] [S] -tomi + (<all>)
+,,,,,
+86173,k,0,neksus,dasar,
+,,,,,
+86174,k,10,nektar,dasar,
+,,,,,
+86175,k,2,nekton,dasar,
+,,,,,
+86176,k,102,nelangsa,dasar,

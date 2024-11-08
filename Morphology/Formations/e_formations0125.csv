@@ -1,0 +1,1656 @@
+Nomor,KP,Jumlah,Entri,Tipe,Pembentukan
+57051,k,0,kingking,dasar,
+,,,,,
+57052,k,0,kingkip,dasar,
+,,,,,
+57053,k,0,kingkit,dasar,
+,,,,,
+57054,k,2,kingkong,dasar,
+,,,,,
+57055,k,6658,kini,dasar,
+57055.1,x,,<kin> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57056,k,0,kini-kini,dasar,
+57056.1,v,,<kini> [-] <r>,bentukan,[23] [RD] |
+57056.2,x,,<kin> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+57057,v,2,kinilah,dasar,
+57057.1,v,,<kini> + -lah,bentukan,[31] [FS] -lah + (<all>)
+57057.2,x,,<kin> + -i + -lah,bentukan,[28] [S] -i + (<all>) => [31] [FS] -lah + (<all>)
+,,,,,
+57058,k,0,kinine,dasar,
+,,,,,
+57059,k,0,kinja,dasar,
+,,,,,
+57060,k,0,kinjat,dasar,
+,,,,,
+57061,k,0,kinkonidina,dasar,
+,,,,,
+57062,k,0,kino,dasar,
+,,,,,
+57063,k,0,kinoa,dasar,
+,,,,,
+57064,k,0,kinofobia,dasar,
+57064.1,x,,<kino> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+57065,k,0,kinowu,dasar,
+,,,,,
+57066,k,0,kinred,dasar,
+,,,,,
+57067,k,0,kintaka,dasar,
+,,,,,
+57068,k,0,kintal,dasar,
+,,,,,
+57069,k,0,kintar,dasar,
+,,,,,
+57070,k,0,kinte,dasar,
+,,,,,
+57071,k,0,kintil,dasar,
+,,,,,
+57072,k,0,kinu,dasar,
+,,,,,
+57073,k,0,kinyam,dasar,
+,,,,,
+57074,k,0,kinyang,dasar,
+,,,,,
+57075,k,2,kinyis-kinyis,dasar,
+57075.1,v,,<kinyis> [-] <r>,bentukan,[23] [RD] |
+57075.2,x,,<kinyi> + [-is:-s] [-] <r> + [-is:-s],bentukan,[177] [S] -is + (i) => [23] [RD] |
+57075.3,x,,<kiny> + -is [-] <r> + -is,bentukan,[178] [S] -is + (<others>) => [23] [RD] |
+,,,,,
+57076,k,4,kio,dasar,
+,,,,,
+57077,k,0,kioko,dasar,
+,,,,,
+57078,c,16,kiong,dasar,keong
+,,,,,
+57079,k,0,kionofobia,dasar,
+57079.1,x,,<kiono> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+57080,k,160,kios,dasar,
+,,,,,
+57081,v,28,kios-kios,dasar,
+57081.1,v,,<kios> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+57082,v,4,kiosku,dasar,
+57082.1,v,,<kios> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+57083,v,2,kiosmu,dasar,
+57083.1,v,,<kios> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+,,,,,
+57084,v,13,kiosnya,dasar,
+57084.1,v,,<kios> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+57085,c,84,kip,dasar,kep
+,,,,,
+57086,k,0,kipa,dasar,
+,,,,,
+57087,k,0,kipah,dasar,
+,,,,,
+57088,k,0,kipai,dasar,
+57088.1,x,,<kipa> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57089,k,0,kipait,dasar,
+,,,,,
+57090,k,0,kipal,dasar,
+,,,,,
+57091,k,0,kipang,dasar,
+,,,,,
+57092,k,0,kipar,dasar,
+,,,,,
+57093,k,0,kiparat,dasar,
+,,,,,
+57094,k,199,kipas,dasar,
+,,,,,
+57095,k,0,kipas air,dasar,
+,,,,,
+57096,k,0,kipas angin,dasar,
+,,,,,
+57097,k,0,kipas bambu,dasar,
+,,,,,
+57098,k,0,kipas isap,dasar,
+,,,,,
+57099,k,0,kipas pendingin,dasar,
+,,,,,
+57100,v,4,kipas-kipas,dasar,
+57100.1,v,,<kipas> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+57101,k,0,kipasan,dasar,
+57101.1,v,,<kipas> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57102,v,7,kipasnya,dasar,
+57102.1,v,,<kipas> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+57103,k,0,kipe,dasar,
+,,,,,
+57104,k,202,kiper,dasar,
+,,,,,
+57105,v,3,kiper-kiper,dasar,
+57105.1,v,,<kiper> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+57106,v,3,kipernya,dasar,
+57106.1,v,,<kiper> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+57107,k,189,kiprah,dasar,
+,,,,,
+57108,v,97,kiprahnya,dasar,
+57108.1,v,,<kiprah> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+57109,k,0,kiprat,dasar,
+,,,,,
+57110,k,0,kipsiau,dasar,
+,,,,,
+57111,k,0,kipu,dasar,
+,,,,,
+57112,k,0,kipunjin,dasar,
+,,,,,
+57113,k,27,kir,dasar,
+,,,,,
+57114,k,766,kira,dasar,
+,,,,,
+57115,k,804,kira-kira,dasar,
+57115.1,v,,<kira> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+57116,k,0,kira-kiraan,dasar,
+57116.1,v,,<kira> [-] <r> + -an,bentukan,[23] [RD] |
+,,,,,
+57117,k,0,kiraah,dasar,
+,,,,,
+57118,k,0,kiraan,dasar,
+57118.1,v,,<kira> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57119,k,0,kiraan lanjutan,dasar,
+57119.1,x,,<kiraan lanjut> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57120,k,0,kiraat,dasar,
+,,,,,
+57121,k,35,kirab,dasar,
+,,,,,
+57122,k,0,kirab obor,dasar,
+,,,,,
+57123,k,0,kirabat,dasar,
+,,,,,
+57124,k,4,kirai,dasar,
+57124.1,x,,<kira> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57125,k,0,kiramat,dasar,
+,,,,,
+57126,k,0,kiran,dasar,
+57126.1,x,,<kir> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57127,k,48,kirana,dasar,
+,,,,,
+57128,k,309,kiranya,dasar,
+57128.1,v,,<kira> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+57129,k,0,kirap,dasar,
+,,,,,
+57130,k,0,kiraptofobia,dasar,
+57130.1,x,,<kirapto> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+57131,k,0,kiras,dasar,
+,,,,,
+57132,k,0,kirau,dasar,
+,,,,,
+57133,k,0,kirbat,dasar,
+,,,,,
+57134,k,0,kirbat es,dasar,
+,,,,,
+57135,k,0,kirgiz,dasar,
+,,,,,
+57136,k,0,kirgiztan,dasar,
+57136.1,x,,<kirgizt> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57137,k,1467,kiri,dasar,
+57137.1,x,,<kir> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57138,k,0,kiri baru,dasar,
+,,,,,
+57139,k,0,kiri dalam,dasar,
+,,,,,
+57140,k,0,kiri kanan,dasar,
+57140.1,x,,<kiri kan> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57141,k,0,kiri luar,dasar,
+,,,,,
+57142,k,2,kiribati,dasar,
+57142.1,x,,<kiribat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57143,k,4,kirik,dasar,
+,,,,,
+57144,k,0,kirikiri,dasar,
+57144.1,x,,<kirikir> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57145,v,56,kiriku,dasar,
+57145.1,v,,<kiri> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+57145.2,x,,<kir> + -i + -ku,bentukan,[28] [S] -i + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+57146,k,339,kirim,dasar,
+,,,,,
+57147,k,0,kirim-berkirim,dasar,
+57147.1,v,,<kirim> [-] ber- + <r>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya) => [52] [RD] |ber-
+,,,,,
+57148,k,3,kirim-kirim,dasar,
+57148.1,v,,<kirim> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+57149,k,2,kirim-mengirim,dasar,
+57149.1,v,,<kirim> [-] [meng-:me-] + <r>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [24] [RD] |meng-
+,,,,,
+57150,k,299,kiriman,dasar,
+57150.1,v,,<kirim> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57151,v,3,kirimanku,dasar,
+57151.1,v,,<kiriman> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+57151.2,v,,<kirim> + -an + -ku,bentukan,[38] [S] -an + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+57152,v,2,kirimanmu,dasar,
+57152.1,v,,<kiriman> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+57152.2,v,,<kirim> + -an + -mu,bentukan,[38] [S] -an + (<all>) => [33] [SFS] -mu + (<all>)
+,,,,,
+57153,v,7,kirimannya,dasar,
+57153.1,v,,<kiriman> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+57153.2,v,,<kirim> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+57154,v,12,kirimi,dasar,
+57154.1,v,,<kirim> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57155,v,2,kirimilah,dasar,
+57155.1,v,,<kirimi> + -lah,bentukan,[31] [FS] -lah + (<all>)
+57155.2,v,,<kirim> + -i + -lah,bentukan,[28] [S] -i + (<all>) => [31] [FS] -lah + (<all>)
+,,,,,
+57156,v,94,kirimkan,dasar,
+57156.1,v,,<kirim> + -kan,bentukan,[29] [S] -kan + (<all>)
+57156.2,x,,<kirimk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57157,v,3,kirimkanlah,dasar,
+57157.1,v,,<kirimkan> + -lah,bentukan,[31] [FS] -lah + (<all>)
+57157.2,v,,<kirim> + -kan + -lah,bentukan,[29] [S] -kan + (<all>) => [31] [FS] -lah + (<all>)
+57157.3,x,,<kirimk> + -an + -lah,bentukan,[38] [S] -an + (<all>) => [31] [FS] -lah + (<all>)
+,,,,,
+57158,v,3,kirimlah,dasar,
+57158.1,v,,<kirim> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+57159,v,5,kirimnya,dasar,
+57159.1,v,,<kirim> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+57160,v,17,kirimu,dasar,
+57160.1,v,,<kiri> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+57160.2,x,,<kir> + -i + -mu,bentukan,[28] [S] -i + (<all>) => [33] [SFS] -mu + (<all>)
+,,,,,
+57161,k,0,kirinyu,dasar,
+,,,,,
+57162,k,0,kirinyuh,dasar,
+,,,,,
+57163,k,0,kirip,dasar,
+,,,,,
+57164,k,0,kiris,dasar,
+57164.1,x,,<kiri> + [-is:-s],bentukan,[177] [S] -is + (i)
+57164.2,x,,<kir> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+57165,k,0,kiritamakuta,dasar,
+,,,,,
+57166,k,3,kirmizi,dasar,
+57166.1,x,,<kirmiz> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57167,k,0,kiropraktik,dasar,
+,,,,,
+57168,k,0,kiropterofili,dasar,
+57168.1,x,,<kiropterofil> + -i,bentukan,[28] [S] -i + (<all>)
+57168.2,x,,<kiroptero> + -fili,bentukan,[193] [S] -fili + (<all>)
+,,,,,
+57169,k,0,kiropterofilia,dasar,
+57169.1,x,,<kiroptero> + -filia,bentukan,[216] [S] -filia + (<all>)
+,,,,,
+57170,k,0,kiru,dasar,
+,,,,,
+57171,k,0,kiruh,dasar,
+,,,,,
+57172,k,0,kirundi,dasar,
+57172.1,x,,<kirund> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57173,k,0,kirung,dasar,
+,,,,,
+57174,k,0,kiryah,dasar,
+,,,,,
+57175,c,2,kiryat,dasar,karyah
+,,,,,
+57176,k,3,kisa,dasar,
+,,,,,
+57177,k,1541,kisah,dasar,
+,,,,,
+57178,v,194,kisah-kisah,dasar,
+57178.1,v,,<kisah> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+57179,v,9,kisah-kisahnya,dasar,
+57179.1,x,,<kisah> [-] <r> + -nya,bentukan,[23] [RD] |
+57179.2,v,,<kisah> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+57180,k,5,kisahan,dasar,
+57180.1,v,,<kisah> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57181,k,0,kisai,dasar,
+57181.1,x,,<kisa> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57182,k,0,kisaian,dasar,
+57182.1,v,,<kisai> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57183,k,2,kisam,dasar,
+,,,,,
+57184,k,0,kisanak,dasar,
+,,,,,
+57185,k,9,kisar,dasar,
+,,,,,
+57186,k,832,kisaran,dasar,
+57186.1,v,,<kisar> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57187,v,15,kisarannya,dasar,
+57187.1,v,,<kisaran> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+57187.2,v,,<kisar> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+57188,k,2,kisas,dasar,
+,,,,,
+57189,k,0,kisat,dasar,
+,,,,,
+57190,k,26,kisi,dasar,
+57190.1,x,,<kis> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57191,k,0,kisi radiator,dasar,
+,,,,,
+57192,k,85,kisi-kisi,dasar,
+57192.1,v,,<kisi> [-] <r>,bentukan,[23] [RD] |
+57192.2,x,,<kis> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+57193,k,0,kisik,dasar,
+,,,,,
+57194,k,0,kisikan,dasar,
+57194.1,x,,<kisi> + -kan,bentukan,[29] [S] -kan + (<all>)
+57194.2,v,,<kisik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57195,k,0,kismat,dasar,
+,,,,,
+57196,k,0,kismet,dasar,
+,,,,,
+57197,k,14,kismis,dasar,
+57197.1,x,,<kismi> + [-is:-s],bentukan,[177] [S] -is + (i)
+57197.2,x,,<kism> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+57198,k,144,kisruh,dasar,
+,,,,,
+57199,k,25,kista,dasar,
+,,,,,
+57200,k,0,kista cokelat,dasar,
+,,,,,
+57201,k,0,kista dentigerus,dasar,
+,,,,,
+57202,k,0,kista dermoid,dasar,
+57202.1,x,,<kista derm> + -oid,bentukan,[209] [S] -oid + (<all>)
+,,,,,
+57203,k,0,kista duktus nasopalatinal,dasar,
+,,,,,
+57204,k,0,kista endometriosis,dasar,
+57204.1,x,,<kista endometriosi> + [-is:-s],bentukan,[177] [S] -is + (i)
+57204.2,x,,<kista endometrios> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+57205,k,0,kista folikuler,dasar,
+,,,,,
+57206,k,0,kista korpus luteum,dasar,
+,,,,,
+57207,k,0,kista musinosum,dasar,
+,,,,,
+57208,k,0,kista nonondogenetik,dasar,
+,,,,,
+57209,k,0,kista ondogenetik,dasar,
+,,,,,
+57210,k,0,kista ovarium,dasar,
+,,,,,
+57211,k,0,kista periodontal,dasar,
+,,,,,
+57212,k,0,kista plasenta,dasar,
+,,,,,
+57213,k,0,kista serosum,dasar,
+,,,,,
+57214,k,23,kisut,dasar,
+,,,,,
+57215,k,6,kiswah,dasar,
+,,,,,
+57216,k,229,kit,dasar,
+,,,,,
+57217,k,0,kit menjahit,dasar,
+,,,,,
+57218,k,12359,kita,dasar,
+,,,,,
+57219,k,0,kita orang,dasar,
+,,,,,
+57220,k,0,kita sama kita,dasar,
+,,,,,
+57221,v,2,kita-kitab,dasar,
+,,,,,
+57222,k,661,kitab,dasar,
+,,,,,
+57223,k,0,kitab bilangan,dasar,
+57223.1,x,,<kitab bilang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57224,k,0,kitab imamat,dasar,
+,,,,,
+57225,k,0,kitab kejadian,dasar,
+57225.1,x,,<kitab kejadi> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57226,k,0,kitab keluaran,dasar,
+57226.1,x,,<kitab keluar> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57227,k,0,kitab kemitab,dasar,
+,,,,,
+57228,k,0,kitab kuning,dasar,
+,,,,,
+57229,k,0,kitab logat,dasar,
+,,,,,
+57230,k,0,kitab sembahyangan,dasar,
+57230.1,x,,<kitab sembahyang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57231,k,0,kitab simbur cahaya,dasar,
+,,,,,
+57232,k,0,kitab suci,dasar,
+57232.1,x,,<kitab suc> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57233,k,0,kitab tembaga,dasar,
+,,,,,
+57234,k,0,kitab tib,dasar,
+,,,,,
+57235,k,0,kitab ulangan,dasar,
+57235.1,x,,<kitab ulang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57236,v,97,kitab-kitab,dasar,
+57236.1,v,,<kitab> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+57237,k,17,kitabullah,dasar,
+57237.1,x,,<kitabul> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+57238,k,0,kitang,dasar,
+,,,,,
+57239,k,0,kitang-kitang,dasar,
+57239.1,v,,<kitang> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+57240,k,5,kitar,dasar,
+,,,,,
+57241,k,5,kitaran,dasar,
+57241.1,v,,<kitar> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57242,k,0,kitik,dasar,
+,,,,,
+57243,k,11,kitin,dasar,
+,,,,,
+57244,k,0,kiting,dasar,
+,,,,,
+57245,k,2,kitir,dasar,
+,,,,,
+57246,k,9,kitiran,dasar,
+57246.1,v,,<kitir> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57247,k,14,kito,dasar,
+,,,,,
+57248,k,0,kitolod,dasar,
+,,,,,
+57249,k,3,kitorang,dasar,
+,,,,,
+57250,k,13,kitosan,dasar,
+57250.1,x,,<kitos> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57251,k,2,kitri,dasar,
+57251.1,x,,<kitr> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57252,k,2,kits,dasar,
+,,,,,
+57253,k,0,kiu,dasar,
+,,,,,
+57254,k,0,kiu-kiu,dasar,
+57254.1,v,,<kiu> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+57255,k,0,kiuk,dasar,
+,,,,,
+57256,k,0,kiuri,dasar,
+57256.1,x,,<kiur> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57257,k,0,kiut,dasar,
+,,,,,
+57258,k,0,kiwalu kowibi,dasar,
+57258.1,x,,<kiwalu kowib> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57259,k,0,kiwano,dasar,
+,,,,,
+57260,k,21,kiwari,dasar,
+57260.1,x,,<kiwar> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57261,k,18,kiwi,dasar,
+57261.1,x,,<kiw> + -i,bentukan,[28] [S] -i + (<all>)
+57261.2,x,,<ki> + -wi,bentukan,[174] [S] -wi + (<others>)
+,,,,,
+57262,k,2,kiyo,dasar,
+,,,,,
+57263,k,0,kizib,dasar,
+,,,,,
+57264,c,11,klab,dasar,klub
+,,,,,
+57265,k,0,klabang,dasar,
+,,,,,
+57266,k,0,klabet,dasar,
+,,,,,
+57267,k,0,kladistika,dasar,
+,,,,,
+57268,k,0,kladodia,dasar,
+,,,,,
+57269,k,726,klaim,dasar,
+,,,,,
+57270,k,0,klaim akhir kontrak,dasar,
+,,,,,
+57271,k,0,klaim awal,dasar,
+,,,,,
+57272,k,0,klaim belum dibayar,dasar,
+,,,,,
+57273,k,0,klaim gizi,dasar,
+57273.1,x,,<klaim giz> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57274,k,0,klaim kematian,dasar,
+57274.1,x,,<klaim kemati> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57275,k,0,klaim palsu,dasar,
+,,,,,
+57276,k,0,klaim reasuransi,dasar,
+57276.1,x,,<klaim reasurans> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57277,k,0,klaim tertunda,dasar,
+57277.1,x,,<klaim tertu> + [-anda:-nda],bentukan,[183] [S] -anda + (i;u;a;[k:])
+,,,,,
+57278,v,22,klaim-klaim,dasar,
+57278.1,v,,<klaim> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+57279,v,34,klaimnya,dasar,
+57279.1,v,,<klaim> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+57280,k,0,klak-klik,dasar,
+57280.1,v,,<[klik:klak-klik]>,bentukan,[Reduplication-Rhyming]
+,,,,,
+57281,k,90,klakson,dasar,
+,,,,,
+57282,k,0,klakson udara,dasar,
+,,,,,
+57283,t,5,klambu,dasar,kelambu
+,,,,,
+57284,k,3,klamidospora,dasar,
+,,,,,
+57285,k,47,klan,dasar,
+57285.1,x,,<kl> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57286,k,0,klan besar,dasar,
+,,,,,
+57287,v,4,klan-klan,dasar,
+57287.1,v,,<klan> [-] <r>,bentukan,[23] [RD] |
+57287.2,x,,<kl> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+57288,k,9,klandestin,dasar,
+,,,,,
+57289,k,4,klangenan,dasar,
+57289.1,x,,<klangen> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57290,k,0,klante,dasar,
+,,,,,
+57291,k,0,klapertar,dasar,
+,,,,,
+57292,k,293,klarifikasi,dasar,
+57292.1,x,,<klarifikas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57293,v,7,klarifikasinya,dasar,
+57293.1,v,,<klarifikasi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+57293.2,x,,<klarifikas> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+57294,k,6,klarinet,dasar,
+,,,,,
+57295,k,0,klarinet bas,dasar,
+,,,,,
+57296,k,0,klarino,dasar,
+,,,,,
+57297,k,0,klaritas,dasar,
+57297.1,x,,<klar> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+57298,c,27,klas,dasar,kelas
+,,,,,
+57299,k,458,klasemen,dasar,
+,,,,,
+57300,k,676,klasifikasi,dasar,
+57300.1,x,,<klasifikas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57301,k,0,klasifikasi awan,dasar,
+57301.1,x,,<klasifikasi aw> + -an,bentukan,[38] [S] -an + (<all>)
+57301.2,x,,<klasifikasi a> + -wan,bentukan,[180] [S] -wan + (<others>)
+57301.3,x,,<klasifikasi > + [-wan:-awan],bentukan,[18000001] [S] -wan + (<all>)
+,,,,,
+57302,k,0,klasifikasi genetik iklim,dasar,
+,,,,,
+57303,k,0,klasifikasi iklim,dasar,
+,,,,,
+57304,k,0,klasifikasi lahan,dasar,
+57304.1,x,,<klasifikasi lah> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57305,v,2,klasifikasi-klasifikasi,dasar,
+57305.1,v,,<klasifikasi> [-] <r>,bentukan,[23] [RD] |
+57305.2,x,,<klasifikas> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+57306,k,738,klasik,dasar,
+,,,,,
+57307,k,33,klasikal,dasar,
+,,,,,
+57308,v,13,klasiknya,dasar,
+57308.1,v,,<klasik> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+57309,k,2,klasis,dasar,
+57309.1,x,,<klasi> + [-is:-s],bentukan,[177] [S] -is + (i)
+57309.2,x,,<klas> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+57310,k,0,klasisisme,dasar,
+57310.1,v,,<klasis> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+57311,k,274,klaster,dasar,
+,,,,,
+57312,v,18,klaster-klaster,dasar,
+57312.1,v,,<klaster> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+57313,k,17,klasterisasi,dasar,
+57313.1,x,,<klasterisas> + -i,bentukan,[28] [S] -i + (<all>)
+57313.2,x,,<klasteri> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+57313.3,x,,<klasteris> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+57313.4,v,,<klaster> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+57314,v,3,klasternya,dasar,
+57314.1,v,,<klaster> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+57315,k,0,klastozoik,dasar,
+,,,,,
+57316,k,115,klaten,dasar,
+,,,,,
+57317,k,36,klausa,dasar,
+,,,,,
+57318,k,0,klausa adverbial,dasar,
+,,,,,
+57319,k,0,klausa aktif,dasar,
+,,,,,
+57320,k,0,klausa bebas,dasar,
+,,,,,
+57321,k,0,klausa intransitif,dasar,
+,,,,,
+57322,k,0,klausa nominal,dasar,
+,,,,,
+57323,k,0,klausa pasif,dasar,
+,,,,,
+57324,k,0,klausa pemadanan,dasar,
+57324.1,x,,<klausa pemadan> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57325,k,0,klausa relatif,dasar,
+,,,,,
+57326,k,0,klausa subordinatif,dasar,
+,,,,,
+57327,k,0,klausa terikat,dasar,
+,,,,,
+57328,k,0,klausa transitif,dasar,
+,,,,,
+57329,k,0,klausa utama,dasar,
+,,,,,
+57330,v,3,klausanya,dasar,
+57330.1,v,,<klausa> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+57331,k,0,klaustrofobia,dasar,
+57331.1,x,,<klaustro> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+57332,k,0,klaustrum,dasar,
+,,,,,
+57333,k,117,klausul,dasar,
+,,,,,
+57334,k,0,klausul akselerasi,dasar,
+57334.1,x,,<klausul akseleras> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57335,k,0,klausul kemalangan,dasar,
+57335.1,x,,<klausul kemalang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57336,k,0,klausul kepercayaan,dasar,
+57336.1,x,,<klausul kepercaya> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57337,k,0,klausul pembuktian,dasar,
+57337.1,x,,<klausul pembukti> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57338,k,0,klausul pemulihan otomatis,dasar,
+57338.1,x,,<klausul pemulihan otomati> + [-is:-s],bentukan,[177] [S] -is + (i)
+57338.2,x,,<klausul pemulihan otomat> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+57339,k,0,klausul risiko perang,dasar,
+,,,,,
+57340,k,0,klausul tertunjuk preferensi,dasar,
+57340.1,x,,<klausul tertunjuk preferens> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57341,k,0,klaver,dasar,
+,,,,,
+57342,k,0,klavikor,dasar,
+,,,,,
+57343,k,2,klavikula,dasar,
+,,,,,
+57344,k,0,klaviola,dasar,
+,,,,,
+57345,k,0,klawu,dasar,
+,,,,,
+57346,k,0,klayar,dasar,
+,,,,,
+57347,k,0,klayu,dasar,
+,,,,,
+57348,k,0,klebun,dasar,
+,,,,,
+57349,k,0,kleder,dasar,
+,,,,,
+57350,k,0,kledi,dasar,
+57350.1,x,,<kled> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57351,k,0,kledofit,dasar,
+,,,,,
+57352,k,0,klef,dasar,
+,,,,,
+57353,k,0,kleidotomi,dasar,
+57353.1,x,,<kleidotom> + -i,bentukan,[28] [S] -i + (<all>)
+57353.2,x,,<kleido> + -tomi,bentukan,[200] [S] -tomi + (<all>)
+,,,,,
+57354,k,0,kleistogami,dasar,
+57354.1,x,,<kleistogam> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57355,k,0,kleitrofobia,dasar,
+57355.1,x,,<kleitro> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+57356,k,5,klem,dasar,
+,,,,,
+57357,k,0,klemensi,dasar,
+57357.1,x,,<klemens> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57358,k,0,klemut,dasar,
+,,,,,
+57359,c,2,klen,dasar,klan
+,,,,,
+57360,k,0,klengkeng,dasar,
+,,,,,
+57361,k,26,klenik,dasar,
+,,,,,
+57362,k,0,klentekan,dasar,
+57362.1,x,,<klente> + -kan,bentukan,[29] [S] -kan + (<all>)
+57362.2,x,,<klentek> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57363,c,32,klenteng,dasar,kelenteng
+,,,,,
+57364,k,19,klep,dasar,
+,,,,,
+57365,k,6,klepon,dasar,
+,,,,,
+57366,k,0,klepsidra,dasar,
+,,,,,
+57367,k,0,kleptofobi,dasar,
+57367.1,x,,<kleptofob> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57368,k,0,kleptofobia,dasar,
+57368.1,x,,<klepto> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+57369,k,2,kleptokrasi,dasar,
+57369.1,x,,<kleptokras> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57370,k,0,kleptokrat,dasar,
+,,,,,
+57371,k,0,kleptoman,dasar,
+57371.1,x,,<kleptom> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57372,k,0,kleptomania,dasar,
+,,,,,
+57373,k,0,kleptomaniak,dasar,
+,,,,,
+57374,k,2,klerek,dasar,
+,,,,,
+57375,k,2,klerikal,dasar,
+,,,,,
+57376,k,0,klerikus,dasar,
+,,,,,
+57377,d,0,klerosis,dasar,
+57377.1,x,,<klerosi> + [-is:-s],bentukan,[177] [S] -is + (i)
+57377.2,x,,<kleros> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+57378,k,0,klerus,dasar,
+,,,,,
+57379,k,0,kleyem,dasar,
+,,,,,
+57380,k,319,klien,dasar,
+,,,,,
+57381,k,0,klien olah pesan,dasar,
+57381.1,x,,<klien olah pes> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57382,k,0,klien rujukan,dasar,
+57382.1,x,,<klien ruju> + -kan,bentukan,[29] [S] -kan + (<all>)
+57382.2,x,,<klien rujuk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57383,v,14,klien-klien,dasar,
+57383.1,v,,<klien> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+57384,k,250,klik,dasar,
+,,,,,
+57385,k,0,klik ganda,dasar,
+57385.1,x,,<klik ga> + [-anda:-nda],bentukan,[183] [S] -anda + (i;u;a;[k:])
+57385.2,x,,<klik gan> + [-anda:-da],bentukan,[184] [S] -anda + (an)
+57385.3,x,,<klik g> + -anda,bentukan,[185] [S] -anda + (<others>)
+,,,,,
+57386,k,0,klik penguasa,dasar,
+,,,,,
+57387,v,2,klik-klik,dasar,
+57387.1,v,,<klik> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+57388,k,0,klik-klikan,dasar,
+57388.1,v,,<klik> [-] <r> + -an,bentukan,[23] [RD] |
+,,,,,
+57389,k,0,klikan,dasar,
+57389.1,x,,<kli> + -kan,bentukan,[29] [S] -kan + (<all>)
+57389.2,v,,<klik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57390,k,0,kliker,dasar,
+,,,,,
+57391,k,0,klimafit,dasar,
+,,,,,
+57392,k,0,klimagram,dasar,
+,,,,,
+57393,k,102,klimaks,dasar,
+,,,,,
+57394,k,2,klimakterik,dasar,
+,,,,,
+57395,k,0,klimakterik pria,dasar,
+,,,,,
+57396,k,0,klimakterium,dasar,
+,,,,,
+57397,k,0,klimatisasi,dasar,
+57397.1,x,,<klimatisas> + -i,bentukan,[28] [S] -i + (<all>)
+57397.2,x,,<klimati> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+57397.3,x,,<klimatis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+57397.4,x,,<klimat> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+57398,k,0,klimatograf,dasar,
+57398.1,x,,<klimato> + -graf,bentukan,[191] [S] -graf + (<all>)
+,,,,,
+57399,k,0,klimatografi,dasar,
+57399.1,x,,<klimatograf> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57400,k,0,klimatolog,dasar,
+,,,,,
+57401,k,88,klimatologi,dasar,
+57401.1,x,,<klimatolog> + -i,bentukan,[28] [S] -i + (<all>)
+57401.2,x,,<klimato> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+57402,k,0,klimatologi aeronautika,dasar,
+,,,,,
+57403,k,0,klimatologi dinamis,dasar,
+57403.1,x,,<klimatologi dinami> + [-is:-s],bentukan,[177] [S] -is + (i)
+57403.2,x,,<klimatologi dinam> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+57404,k,0,klimatologi lingkar pohon,dasar,
+,,,,,
+57405,k,0,klimatologi lingkungan,dasar,
+57405.1,x,,<klimatologi lingkung> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57406,k,0,klimatologi massa udara,dasar,
+,,,,,
+57407,k,0,klimatologi penerbangan,dasar,
+57407.1,x,,<klimatologi penerbang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57408,k,0,klimatologi radar,dasar,
+,,,,,
+57409,k,0,klimatologi sinoptis,dasar,
+57409.1,x,,<klimatologi sinopti> + [-is:-s],bentukan,[177] [S] -is + (i)
+57409.2,x,,<klimatologi sinopt> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+57410,k,11,klimatologis,dasar,
+57410.1,x,,<klimatologi> + [-is:-s],bentukan,[177] [S] -is + (i)
+57410.2,x,,<klimatolog> + -is,bentukan,[178] [S] -is + (<others>)
+57410.3,x,,<klimato> + -logi+-s,bentukan,[194] [MS] -logi+-s + (<all>)
+,,,,,
+57411,k,23,klimis,dasar,
+57411.1,x,,<klimi> + [-is:-s],bentukan,[177] [S] -is + (i)
+57411.2,x,,<klim> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+57412,k,0,klimograf,dasar,
+57412.1,x,,<klimo> + -graf,bentukan,[191] [S] -graf + (<all>)
+,,,,,
+57413,k,0,klimosekuen,dasar,
+,,,,,
+57414,k,0,klimoskop,dasar,
+,,,,,
+57415,k,0,klin,dasar,
+,,,,,
+57416,k,2,klinefelter,dasar,
+,,,,,
+57417,k,472,klinik,dasar,
+,,,,,
+57418,k,0,klinik kecantikan,dasar,
+57418.1,x,,<klinik kecanti> + -kan,bentukan,[29] [S] -kan + (<all>)
+57418.2,x,,<klinik kecantik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57419,k,0,klinik nyeri,dasar,
+57419.1,x,,<klinik nyer> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57420,v,13,klinik-klinik,dasar,
+57420.1,v,,<klinik> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+57421,v,14,kliniknya,dasar,
+57421.1,v,,<klinik> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+57422,k,493,klinis,dasar,
+57422.1,x,,<klini> + [-is:-s],bentukan,[177] [S] -is + (i)
+57422.2,x,,<klin> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+57423,k,25,klinisi,dasar,
+57423.1,x,,<klinis> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57424,v,10,klinisnya,dasar,
+57424.1,v,,<klinis> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+57424.2,x,,<klini> + [-is:-s] + -nya,bentukan,[177] [S] -is + (i) => [34] [SFS] -nya + (<all>)
+57424.3,x,,<klin> + -is + -nya,bentukan,[178] [S] -is + (<others>) => [34] [SFS] -nya + (<all>)
+,,,,,
+57425,k,0,klinometer,dasar,
+57425.1,x,,<klino> + -meter,bentukan,[189] [S] -meter + (<all>)
+,,,,,
+57426,k,48,klip,dasar,
+,,,,,
+57427,v,2,klip-klip,dasar,
+57427.1,v,,<klip> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+57428,k,0,klipak,dasar,
+,,,,,
+57429,k,44,kliping,dasar,
+,,,,,
+57430,v,2,kliping-kliping,dasar,
+57430.1,v,,<kliping> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+57431,v,6,klipnya,dasar,
+57431.1,v,,<klip> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+57432,k,0,klir,dasar,
+,,,,,
+57433,k,176,kliring,dasar,
+,,,,,
+57434,k,0,kliring silang,dasar,
+,,,,,
+57435,k,0,klisar,dasar,
+,,,,,
+57436,k,134,klise,dasar,
+,,,,,
+57437,k,0,klise berbintik,dasar,
+,,,,,
+57438,k,0,klise foto,dasar,
+,,,,,
+57439,k,0,klise garis,dasar,
+57439.1,x,,<klise gari> + [-is:-s],bentukan,[177] [S] -is + (i)
+57439.2,x,,<klise gar> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+57440,v,2,klise-klise,dasar,
+57440.1,v,,<klise> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+57441,v,4,klisenya,dasar,
+57441.1,v,,<klise> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+57442,k,0,kliser,dasar,
+,,,,,
+57443,k,0,klismafilia,dasar,
+57443.1,x,,<klisma> + -filia,bentukan,[216] [S] -filia + (<all>)
+,,,,,
+57444,k,0,klistron,dasar,
+,,,,,
+57445,k,0,klitelum,dasar,
+,,,,,
+57446,k,10,klitik,dasar,
+,,,,,
+57447,k,0,klitoridektomi,dasar,
+57447.1,x,,<klitoridektom> + -i,bentukan,[28] [S] -i + (<all>)
+57447.2,x,,<klitoridek> + -tomi,bentukan,[200] [S] -tomi + (<all>)
+,,,,,
+57448,k,0,klitoriditis,dasar,
+57448.1,x,,<klitoriditi> + [-is:-s],bentukan,[177] [S] -is + (i)
+57448.2,x,,<klitoridit> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+57449,k,14,klitoris,dasar,
+57449.1,x,,<klitori> + [-is:-s],bentukan,[177] [S] -is + (i)
+57449.2,x,,<klitor> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+57450,v,2,klitorisnya,dasar,
+57450.1,v,,<klitoris> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+57450.2,x,,<klitori> + [-is:-s] + -nya,bentukan,[177] [S] -is + (i) => [34] [SFS] -nya + (<all>)
+57450.3,x,,<klitor> + -is + -nya,bentukan,[178] [S] -is + (<others>) => [34] [SFS] -nya + (<all>)
+,,,,,
+57451,k,0,klitrofobia,dasar,
+57451.1,x,,<klitro> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+57452,k,46,kliwon,dasar,
+,,,,,
+57453,k,0,kliyengan,dasar,
+57453.1,x,,<kliyeng> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57454,k,2,kloaka,dasar,
+,,,,,
+57455,c,12,klobot,dasar,kelobot
+,,,,,
+57456,c,18,klon,dasar,klona
+,,,,,
+57457,t,6,klon-klon,dasar,klona-klona
+57457.1,v,,<klon> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+57458,k,0,klona,dasar,
+,,,,,
+57459,k,2,klonal,dasar,
+,,,,,
+57460,k,22,kloning,dasar,
+,,,,,
+57461,k,0,klonograf,dasar,
+57461.1,x,,<klono> + -graf,bentukan,[191] [S] -graf + (<all>)
+,,,,,
+57462,k,0,klonus,dasar,
+,,,,,
+57463,k,48,klop,dasar,
+,,,,,
+57464,c,14,klor,dasar,klorin
+,,,,,
+57465,k,0,kloral,dasar,
+,,,,,
+57466,k,0,kloramin,dasar,
+,,,,,
+57467,k,0,kloramina,dasar,
+,,,,,
+57468,k,0,klorat,dasar,
+,,,,,
+57469,k,63,klorida,dasar,
+,,,,,
+57470,k,0,kloridimeter,dasar,
+57470.1,x,,<kloridi> + -meter,bentukan,[189] [S] -meter + (<all>)
+,,,,,
+57471,k,18,klorin,dasar,
+,,,,,
+57472,k,0,klorin aktif,dasar,
+,,,,,
+57473,k,0,klorin bebas,dasar,
+,,,,,
+57474,k,0,klorin sisa,dasar,
+,,,,,
+57475,k,2,klorinasi,dasar,
+57475.1,x,,<klorinas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57476,k,0,klorinitas,dasar,
+57476.1,v,,<klorin> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+57477,k,0,klorinolisis,dasar,
+57477.1,x,,<klorinolisi> + [-is:-s],bentukan,[177] [S] -is + (i)
+57477.2,x,,<klorinolis> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+57478,k,0,kloriofilase,dasar,
+57478.1,x,,<kloriofil> + -ase,bentukan,[210] [S] -ase + (<all>)
+,,,,,
+57479,k,0,klorit,dasar,
+,,,,,
+57480,k,2,klorobenzena,dasar,
+,,,,,
+57481,k,37,klorofil,dasar,
+,,,,,
+57482,k,0,klorofluorkarbon,dasar,
+,,,,,
+57483,k,0,klorofobia,dasar,
+57483.1,x,,<kloro> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+57484,k,43,kloroform,dasar,
+,,,,,
+57485,k,0,kloroformat,dasar,
+,,,,,
+57486,k,6,klorokuin,dasar,
+,,,,,
+57487,k,0,klorolignin,dasar,
+,,,,,
+57488,k,8,kloroplas,dasar,
+,,,,,
+57489,k,0,kloroprena,dasar,
+,,,,,
+57490,k,11,klorosis,dasar,
+57490.1,x,,<klorosi> + [-is:-s],bentukan,[177] [S] -is + (i)
+57490.2,x,,<kloros> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+57491,k,32,kloset,dasar,
+,,,,,
+57492,k,54,kloter,dasar,
+,,,,,
+57493,v,2,kloternya,dasar,
+57493.1,v,,<kloter> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+57494,k,0,klowong,dasar,
+,,,,,
+57495,k,787,klub,dasar,
+,,,,,
+57496,k,0,klub janapada,dasar,
+,,,,,
+57497,k,0,klub malam,dasar,
+,,,,,
+57498,k,0,klub musik,dasar,
+,,,,,
+57499,k,0,klub olahraga,dasar,
+,,,,,
+57500,k,0,klub radio,dasar,
+,,,,,
+57501,k,0,klub sepak bola,dasar,
+,,,,,
+57502,k,0,klub wartawan,dasar,
+57502.1,x,,<klub wartaw> + -an,bentukan,[38] [S] -an + (<all>)
+57502.2,x,,<klub warta> + -wan,bentukan,[180] [S] -wan + (<others>)
+57502.3,x,,<klub wart> + [-wan:-awan],bentukan,[18000001] [S] -wan + (<all>)
+,,,,,
+57503,v,115,klub-klub,dasar,
+57503.1,v,,<klub> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+57504,v,3,klubku,dasar,
+57504.1,v,,<klub> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+57505,k,0,kluet,dasar,
+,,,,,
+57506,k,49,klungkung,dasar,
+,,,,,
+57507,k,0,kluntang-klantung,dasar,
+57507.1,v,,<kluntang-klantung>,bentukan,[Reduplication-Rhyming]
+,,,,,
+57508,k,0,klusium,dasar,
+,,,,,
+57509,k,49,kluster,dasar,
+,,,,,
+57510,v,3,kluster-kluster,dasar,
+57510.1,v,,<kluster> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+57511,c,2,kluwak,dasar,keluak
+,,,,,
+57512,k,0,kluwo,dasar,
+,,,,,
+57513,k,0,km,dasar,
+,,,,,
+57514,k,0,kmd,dasar,
+,,,,,
+57515,k,131,knalpot,dasar,
+,,,,,
+57516,k,0,knidofobia,dasar,
+57516.1,x,,<knido> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+57517,k,5,knop,dasar,
+,,,,,
+57518,k,31,knot,dasar,
+,,,,,
+57519,k,4,koa,dasar,
+,,,,,
+57520,k,0,koagel,dasar,
+,,,,,
+57521,k,0,koagregasi,dasar,
+57521.1,x,,<koagregas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57522,k,9,koagulan,dasar,
+57522.1,x,,<koagul> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57523,k,21,koagulasi,dasar,
+57523.1,x,,<koagulas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57524,k,0,koagulator,dasar,
+,,,,,
+57525,k,5,koak,dasar,
+,,,,,
+57526,k,0,koak maling,dasar,
+,,,,,
+57527,k,0,koak-koak,dasar,
+57527.1,v,,<koak> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+57528,k,0,koaks,dasar,
+,,,,,
+57529,k,0,koaks pita dasar,dasar,
+,,,,,
+57530,k,0,koaksi,dasar,
+57530.1,x,,<koaks> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57531,k,2,koaksial,dasar,
+,,,,,
+57532,k,0,koaktivasi,dasar,
+57532.1,x,,<koaktivas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57533,k,5,koala,dasar,
+,,,,,
+57534,k,459,koalisi,dasar,
+57534.1,x,,<koalis> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57535,v,15,koalisinya,dasar,
+57535.1,v,,<koalisi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+57535.2,x,,<koalis> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+57536,k,15,koan,dasar,
+57536.1,x,,<ko> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57537,k,0,koana,dasar,
+,,,,,
+57538,k,0,koang,dasar,
+,,,,,
+57539,k,2,koar,dasar,
+,,,,,
+57540,v,2,koar-koar,dasar,
+57540.1,v,,<koar> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+57541,v,2,koarnya,dasar,
+57541.1,v,,<koar> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+57542,k,0,koasisten,dasar,
+,,,,,
+57543,v,6,koasuransi,dasar,
+57543.1,x,,<koasurans> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57544,k,0,koat,dasar,
+,,,,,
+57545,k,0,kobah,dasar,
+,,,,,
+57546,c,2,kobak,dasar,kubak
+,,,,,
+57547,k,2,kobakan,dasar,
+57547.1,x,,<koba> + -kan,bentukan,[29] [S] -kan + (<all>)
+57547.2,v,,<kobak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57548,k,3,kobalamin,dasar,
+,,,,,
+57549,k,26,kobalt,dasar,
+,,,,,
+57550,k,10,kobar,dasar,
+,,,,,
+57551,k,55,kobaran,dasar,
+57551.1,v,,<kobar> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57552,v,2,kobarannya,dasar,
+57552.1,v,,<kobaran> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+57552.2,v,,<kobar> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+57553,v,10,kobarkan,dasar,
+57553.1,v,,<kobar> + -kan,bentukan,[29] [S] -kan + (<all>)
+57553.2,x,,<kobark> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57554,v,2,kobarkanlah,dasar,
+57554.1,v,,<kobarkan> + -lah,bentukan,[31] [FS] -lah + (<all>)
+57554.2,v,,<kobar> + -kan + -lah,bentukan,[29] [S] -kan + (<all>) => [31] [FS] -lah + (<all>)
+57554.3,x,,<kobark> + -an + -lah,bentukan,[38] [S] -an + (<all>) => [31] [FS] -lah + (<all>)
+,,,,,
+57555,k,7,kober,dasar,
+,,,,,
+57556,k,0,koboh,dasar,
+,,,,,
+57557,k,42,koboi,dasar,
+57557.1,x,,<kobo> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57558,k,2,koboi-koboian,dasar,
+57558.1,v,,<koboi> [-] <r> + -an,bentukan,[23] [RD] |
+57558.2,x,,<kobo> + -i [-] <r> + -i + -an,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+57559,v,2,koboinya,dasar,
+57559.1,v,,<koboi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+57559.2,x,,<kobo> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+57560,k,0,koboisme,dasar,
+57560.1,x,,<kobo> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+57561,k,0,kobok,dasar,
+,,,,,
+57562,k,0,kobok kanan,dasar,
+57562.1,x,,<kobok kan> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57563,k,0,kobok kiri,dasar,
+57563.1,x,,<kobok kir> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57564,k,5,kobokan,dasar,
+57564.1,x,,<kobo> + -kan,bentukan,[29] [S] -kan + (<all>)
+57564.2,v,,<kobok> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57565,k,0,kobol-kobol,dasar,
+57565.1,v,,<kobol> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+57566,k,4,kobong,dasar,
+,,,,,
+57567,k,0,kobota,dasar,
+,,,,,
+57568,c,3,koboy,dasar,koboi
+,,,,,
+57569,k,18,kobra,dasar,
+,,,,,
+57570,k,0,kocah,dasar,
+,,,,,
+57571,k,0,kocah-kacih,dasar,
+57571.1,v,,<kocah-kacih>,bentukan,[Reduplication-Rhyming]
+,,,,,
+57572,k,59,kocak,dasar,
+,,,,,
+57573,v,9,kocaknya,dasar,
+57573.1,v,,<kocak> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+57574,k,49,kocar-kacir,dasar,
+57574.1,v,,<kocar-kacir>,bentukan,[Reduplication-Rhyming]
+,,,,,
+57575,k,89,kocek,dasar,
+,,,,,
+57576,v,14,koceknya,dasar,
+57576.1,v,,<kocek> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+57577,k,0,kocelan,dasar,
+57577.1,x,,<kocel> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57578,k,2,koci,dasar,
+57578.1,x,,<koc> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57579,k,0,kocilembik,dasar,
+,,,,,
+57580,k,0,kocoh,dasar,
+,,,,,
+57581,k,20,kocok,dasar,
+,,,,,
+57582,k,3,kocokan,dasar,
+57582.1,x,,<koco> + -kan,bentukan,[29] [S] -kan + (<all>)
+57582.2,v,,<kocok> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57583,k,0,kocolan,dasar,
+57583.1,x,,<kocol> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57584,k,0,kocong,dasar,
+,,,,,
+57585,k,0,kocor,dasar,
+,,,,,
+57586,k,0,kocoran,dasar,
+57586.1,v,,<kocor> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57587,k,5,koda,dasar,
+,,,,,
+57588,k,11,kodak,dasar,
+,,,,,
+57589,v,87,kodam,dasar,
+,,,,,
+57590,v,2,kodam-kodam,dasar,
+57590.1,v,,<kodam> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+57591,k,1022,kode,dasar,
+,,,,,
+57592,k,0,kode akses,dasar,
+,,,,,
+57593,k,0,kode area,dasar,
+,,,,,
+57594,k,0,kode bar,dasar,
+,,,,,
+57595,k,0,kode batang,dasar,
+,,,,,
+57596,k,0,kode biner,dasar,
+,,,,,
+57597,k,0,kode bita,dasar,
+,,,,,
+57598,k,0,kode bita java,dasar,
+,,,,,
+57599,k,0,kode buta,dasar,
+,,,,,
+57600,k,0,kode diplomatik,dasar,
+,,,,,
+57601,k,0,kode etik,dasar,
+,,,,,
+57602,k,0,kode etik jurnalistik,dasar,
+,,,,,
+57603,k,0,kode etik kedokteran,dasar,
+57603.1,x,,<kode etik kedokter> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57604,k,0,kode etik periklanan,dasar,
+57604.1,x,,<kode etik periklan> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57605,k,0,kode etik perusahaan pers,dasar,
+,,,,,
+57606,k,0,kode etik sosial,dasar,
+,,,,,
+57607,k,0,kode genetika,dasar,
+,,,,,
+57608,k,0,kode instruksi,dasar,
+57608.1,x,,<kode instruks> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57609,k,0,kode jenis transaksi,dasar,
+57609.1,x,,<kode jenis transaks> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57610,k,0,kode kendali,dasar,
+57610.1,x,,<kode kendal> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57611,k,0,kode mesin,dasar,
+,,,,,
+57612,k,0,kode meteorologi,dasar,
+57612.1,x,,<kode meteorolog> + -i,bentukan,[28] [S] -i + (<all>)
+57612.2,x,,<kode meteoro> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+57613,k,0,kode morse,dasar,
+,,,,,
+57614,k,0,kode objek,dasar,
+,,,,,
+57615,k,0,kode operasi,dasar,
+57615.1,x,,<kode operas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57616,k,0,kode pembatalan,dasar,
+57616.1,x,,<kode pembatal> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57617,k,0,kode pos indonesia,dasar,
+,,,,,
+57618,k,0,kode rakit,dasar,
+,,,,,
+57619,k,0,kode respons cepat,dasar,
+,,,,,
+57620,k,0,kode sinoptis internasional,dasar,
+,,,,,
+57621,k,0,kode sumber,dasar,
+,,,,,
+57622,k,0,kode terpakai ulang,dasar,
+,,,,,
+57623,v,56,kode-kode,dasar,
+57623.1,v,,<kode> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+57624,v,2,kode-kodenya,dasar,
+57624.1,x,,<kode> [-] <r> + -nya,bentukan,[23] [RD] |
+57624.2,v,,<kode> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+57625,t,20,kodefikasi,dasar,kodifikasi
+57625.1,x,,<kodefikas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57626,k,2,kodein,dasar,
+,,,,,
+57627,k,2,kodek,dasar,
+,,,,,
+57628,k,0,kodeks,dasar,
+,,,,,
+57629,v,11,kodenya,dasar,
+57629.1,v,,<kode> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+57630,v,3,koder,dasar,
+,,,,,
+57631,k,0,kodeterminasi,dasar,
+57631.1,x,,<kodeterminas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57632,k,4,kodi,dasar,
+57632.1,x,,<kod> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57633,k,8,kodian,dasar,
+57633.1,v,,<kodi> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57634,k,43,kodifikasi,dasar,
+57634.1,x,,<kodifikas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57635,k,0,kodikolog,dasar,
+,,,,,
+57636,k,3,kodikologi,dasar,
+57636.1,x,,<kodikolog> + -i,bentukan,[28] [S] -i + (<all>)
+57636.2,x,,<kodiko> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+57637,k,49,kodok,dasar,
+,,,,,
+57638,k,0,kodok buduk,dasar,
+,,,,,
+57639,k,0,kodok gastrik broder,dasar,
+,,,,,
+57640,k,0,kodok hijau,dasar,
+,,,,,
+57641,k,0,kodok mata biru,dasar,
+,,,,,
+57642,k,0,kodok puru,dasar,
+,,,,,
+57643,k,0,kodok setan,dasar,
+57643.1,x,,<kodok set> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57644,k,0,kodok ungaran,dasar,
+57644.1,x,,<kodok ungar> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57645,k,4,kodok-kodok,dasar,
+57645.1,v,,<kodok> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+57646,v,2,kodoknya,dasar,
+57646.1,v,,<kodok> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+57647,k,3,kodominan,dasar,
+57647.1,x,,<kodomin> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57648,k,96,kodrat,dasar,
+,,,,,
+57649,k,0,kodrat alam,dasar,
+,,,,,
+57650,k,0,kodrat ilahi,dasar,
+57650.1,x,,<kodrat ilah> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57651,k,44,kodrati,dasar,
+57651.1,x,,<kodrat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57652,v,44,kodratnya,dasar,
+57652.1,v,,<kodrat> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+57653,k,9,koe,dasar,
+,,,,,
+57654,k,0,koedukasi,dasar,
+57654.1,x,,<koedukas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57655,k,372,koefisien,dasar,
+,,,,,
+57656,k,0,koefisien akar,dasar,
+,,,,,
+57657,k,0,koefisien akselerasi,dasar,
+57657.1,x,,<koefisien akseleras> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57658,k,0,koefisien aktivitas,dasar,
+57658.1,x,,<koefisien aktiv> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+57659,k,0,koefisien arah,dasar,
+,,,,,
+57660,k,0,koefisien beban,dasar,
+57660.1,x,,<koefisien beb> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57661,k,0,koefisien dasar bangunan,dasar,
+57661.1,x,,<koefisien dasar bangun> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57662,k,0,koefisien ekstraksi,dasar,
+57662.1,x,,<koefisien ekstraks> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57663,k,0,koefisien fenol,dasar,
+,,,,,
+57664,k,0,koefisien friksi,dasar,
+57664.1,x,,<koefisien friks> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57665,k,0,koefisien hambur,dasar,
+,,,,,
+57666,k,0,koefisien hamburan,dasar,
+57666.1,x,,<koefisien hambur> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57667,k,0,koefisien hidroskopis,dasar,
+57667.1,x,,<koefisien hidroskopi> + [-is:-s],bentukan,[177] [S] -is + (i)
+57667.2,x,,<koefisien hidroskop> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+57668,k,0,koefisien kancah,dasar,
+,,,,,
+57669,k,0,koefisien keaktifan,dasar,
+57669.1,x,,<koefisien keaktif> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57670,k,0,koefisien kebocoran,dasar,
+57670.1,x,,<koefisien kebocor> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57671,k,0,koefisien kelembapan,dasar,
+57671.1,x,,<koefisien kelembap> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57672,k,0,koefisien ketermampatan,dasar,
+57672.1,x,,<koefisien ketermampat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57673,k,0,koefisien kinetik,dasar,
+,,,,,
+57674,k,0,koefisien layu,dasar,
+,,,,,
+57675,k,0,koefisien luas bangunan,dasar,
+57675.1,x,,<koefisien luas bangun> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57676,k,0,koefisien mutasi,dasar,
+57676.1,x,,<koefisien mutas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57677,k,0,koefisien osmotik,dasar,
+,,,,,
+57678,k,0,koefisien partisi,dasar,
+57678.1,x,,<koefisien partis> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57679,k,0,koefisien pelemahan,dasar,
+57679.1,x,,<koefisien pelemah> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57680,k,0,koefisien pemindahan bahang,dasar,
+,,,,,
+57681,k,0,koefisien pemisahan,dasar,
+57681.1,x,,<koefisien pemisah> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57682,k,0,koefisien respirasi,dasar,
+57682.1,x,,<koefisien respiras> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57683,k,0,koefisien restitusi,dasar,
+57683.1,x,,<koefisien restitus> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57684,k,0,koefisien serap,dasar,
+,,,,,
+57685,k,0,koefisien transfer,dasar,
+,,,,,
+57686,k,0,koefisien transmisi,dasar,
+57686.1,x,,<koefisien transmis> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57687,k,0,koefisien tukar,dasar,
+,,,,,
+57688,k,0,koefisien variabilitas,dasar,
+57688.1,x,,<koefisien variabil> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+57689,v,3,koefisien-koefisien,dasar,
+57689.1,v,,<koefisien> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+57690,v,6,koefisiensi,dasar,
+57690.1,x,,<koefisiens> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57691,v,9,koeksistensi,dasar,
+57691.1,x,,<koeksistens> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57692,k,11,koenzim,dasar,
+,,,,,
+57693,k,0,koenzim a,dasar,
+,,,,,
+57694,k,0,koenzim q,dasar,
+,,,,,
+57695,k,8,koersi,dasar,
+57695.1,x,,<koers> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57696,k,22,koersif,dasar,
+,,,,,
+57697,k,11,kofaktor,dasar,
+,,,,,
+57698,k,0,kofein,dasar,
+,,,,,
+57699,k,0,kofermen,dasar,
+,,,,,
+57700,k,0,kofermentasi,dasar,
+57700.1,x,,<kofermentas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57701,k,0,kofo,dasar,
+,,,,,
+57702,k,0,kofte,dasar,
+,,,,,
+57703,k,0,kogitasi,dasar,
+57703.1,x,,<kogitas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57704,k,0,kognat,dasar,
+,,,,,
+57705,k,0,kognatif,dasar,
+,,,,,
+57706,k,72,kognisi,dasar,
+57706.1,x,,<kognis> + -i,bentukan,[28] [S] -i + (<all>)

@@ -1,0 +1,1505 @@
+Nomor,KP,Jumlah,Entri,Tipe,Pembentukan
+49509,k,0,kaspe,dasar,
+,,,,,
+49510,k,3,kasrah,dasar,
+,,,,,
+49511,k,0,kasregister,dasar,
+,,,,,
+49512,k,129,kasta,dasar,
+,,,,,
+49513,k,0,kasta brahmana,dasar,
+,,,,,
+49514,k,0,kasta kesatria,dasar,
+,,,,,
+49515,k,0,kasta paria,dasar,
+,,,,,
+49516,k,0,kasta sudra,dasar,
+,,,,,
+49517,k,0,kasta waisya,dasar,
+,,,,,
+49518,k,0,kastal,dasar,
+,,,,,
+49519,k,3,kastanya,dasar,
+49519.1,v,,<kasta> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+49520,k,0,kastanye,dasar,
+,,,,,
+49521,k,0,kastanyet,dasar,
+,,,,,
+49522,k,0,kastawa,dasar,
+,,,,,
+49523,k,5,kastel,dasar,
+,,,,,
+49524,k,32,kasti,dasar,
+49524.1,x,,<kast> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49525,c,29,kastil,dasar,kastel
+,,,,,
+49526,v,2,kastil-kastil,dasar,
+49526.1,v,,<kastil> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+49527,k,6,kastrasi,dasar,
+49527.1,x,,<kastras> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49528,k,0,kastrol,dasar,
+,,,,,
+49529,k,0,kastroli,dasar,
+49529.1,x,,<kastrol> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49530,k,7,kasturi,dasar,
+49530.1,x,,<kastur> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49531,k,50,kasual,dasar,
+,,,,,
+49532,k,0,kasualisme,dasar,
+49532.1,x,,<kasual> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+49533,k,0,kasualitas,dasar,
+49533.1,x,,<kasual> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+49534,v,2,kasualnya,dasar,
+49534.1,v,,<kasual> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+49535,k,10,kasuari,dasar,
+49535.1,x,,<kasuar> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49536,k,0,kasuarina,dasar,
+,,,,,
+49537,k,0,kasui,dasar,
+49537.1,x,,<kasu> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49538,k,0,kasuis,dasar,
+49538.1,x,,<kasui> + [-is:-s],bentukan,[177] [S] -is + (i)
+49538.2,x,,<kasu> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+49539,k,10,kasuistik,dasar,
+,,,,,
+49540,k,0,kasula,dasar,
+,,,,,
+49541,c,3,kasuma,dasar,kusuma
+,,,,,
+49542,k,0,kasumat,dasar,
+,,,,,
+49543,k,0,kasup,dasar,
+,,,,,
+49544,k,233,kasur,dasar,
+,,,,,
+49545,k,0,kasur air,dasar,
+,,,,,
+49546,k,0,kasur busa,dasar,
+,,,,,
+49547,k,0,kasur cuki,dasar,
+49547.1,x,,<kasur cuk> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49548,k,0,kasur duduk,dasar,
+,,,,,
+49549,k,0,kasur kapuk,dasar,
+,,,,,
+49550,k,0,kasur pegas,dasar,
+,,,,,
+49551,k,0,kasur pijat,dasar,
+,,,,,
+49552,k,0,kasur serut,dasar,
+,,,,,
+49553,k,0,kasur udara,dasar,
+,,,,,
+49554,v,4,kasur-kasur,dasar,
+49554.1,v,,<kasur> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+49555,v,3,kasurku,dasar,
+49555.1,v,,<kasur> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+49556,v,31,kasurnya,dasar,
+49556.1,v,,<kasur> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+49557,k,5156,kasus,dasar,
+,,,,,
+49558,k,0,kasus abesif,dasar,
+,,,,,
+49559,k,0,kasus ablatif,dasar,
+,,,,,
+49560,k,0,kasus adhesif,dasar,
+,,,,,
+49561,k,0,kasus akusatif,dasar,
+,,,,,
+49562,k,0,kasus alatif,dasar,
+,,,,,
+49563,k,0,kasus bahasa absolutif,dasar,
+,,,,,
+49564,k,0,kasus bahasa ergatif,dasar,
+,,,,,
+49565,k,0,kasus datif,dasar,
+,,,,,
+49566,k,0,kasus elatif,dasar,
+,,,,,
+49567,k,0,kasus ergatif,dasar,
+,,,,,
+49568,k,0,kasus esif,dasar,
+,,,,,
+49569,k,0,kasus genetif,dasar,
+,,,,,
+49570,k,0,kasus heli,dasar,
+49570.1,x,,<kasus hel> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49571,k,0,kasus ilatif,dasar,
+,,,,,
+49572,k,0,kasus impor,dasar,
+,,,,,
+49573,k,0,kasus inesif,dasar,
+,,,,,
+49574,k,0,kasus instruktif,dasar,
+,,,,,
+49575,k,0,kasus instrumental,dasar,
+,,,,,
+49576,k,0,kasus kekerasan dalam rumah tangga,dasar,
+,,,,,
+49577,k,0,kasus komitatif,dasar,
+,,,,,
+49578,k,0,kasus korupsi,dasar,
+49578.1,x,,<kasus korups> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49579,k,0,kasus kriminal,dasar,
+,,,,,
+49580,k,0,kasus lokatif,dasar,
+,,,,,
+49581,k,0,kasus lurus,dasar,
+,,,,,
+49582,k,0,kasus miring,dasar,
+,,,,,
+49583,k,0,kasus narkoba,dasar,
+,,,,,
+49584,k,0,kasus nominatif,dasar,
+,,,,,
+49585,k,0,kasus objektif,dasar,
+,,,,,
+49586,k,0,kasus partitif,dasar,
+,,,,,
+49587,k,0,kasus pelecehan,dasar,
+49587.1,x,,<kasus peleceh> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49588,k,0,kasus pelecehan agama,dasar,
+,,,,,
+49589,k,0,kasus pelecehan seksual,dasar,
+,,,,,
+49590,k,0,kasus pembalakan liar,dasar,
+,,,,,
+49591,k,0,kasus pembunuhan,dasar,
+49591.1,x,,<kasus pembunuh> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49592,k,0,kasus pencurian,dasar,
+49592.1,x,,<kasus pencuri> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49593,k,0,kasus penderita,dasar,
+,,,,,
+49594,k,0,kasus perampokan,dasar,
+49594.1,x,,<kasus perampo> + -kan,bentukan,[29] [S] -kan + (<all>)
+49594.2,x,,<kasus perampok> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49595,k,0,kasus perceraian,dasar,
+49595.1,x,,<kasus percerai> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49596,k,0,kasus perdata,dasar,
+,,,,,
+49597,k,0,kasus pidana,dasar,
+,,,,,
+49598,k,0,kasus prolatif,dasar,
+,,,,,
+49599,k,0,kasus rumah tangga,dasar,
+,,,,,
+49600,k,0,kasus tabrakan,dasar,
+49600.1,x,,<kasus tabra> + -kan,bentukan,[29] [S] -kan + (<all>)
+49600.2,x,,<kasus tabrak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49601,k,0,kasus translatif,dasar,
+,,,,,
+49602,k,0,kasus tujuan,dasar,
+49602.1,x,,<kasus tuju> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49603,k,0,kasus vokatif,dasar,
+,,,,,
+49604,v,370,kasus-kasus,dasar,
+49604.1,v,,<kasus> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+49605,v,4,kasusku,dasar,
+49605.1,v,,<kasus> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+49606,v,259,kasusnya,dasar,
+49606.1,v,,<kasus> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+49607,k,4,kasut,dasar,
+,,,,,
+49608,k,0,kasut getah,dasar,
+,,,,,
+49609,k,0,kasut kayu,dasar,
+,,,,,
+49610,k,0,kasut kuda,dasar,
+,,,,,
+49611,k,0,kasut roda,dasar,
+,,,,,
+49612,k,0,kasut rumput,dasar,
+,,,,,
+49613,k,0,kasuwari,dasar,
+49613.1,x,,<kasuwar> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49614,k,0,kaswah,dasar,
+,,,,,
+49615,k,0,kaswi,dasar,
+49615.1,x,,<kasw> + -i,bentukan,[28] [S] -i + (<all>)
+49615.2,x,,<kas> + -wi,bentukan,[174] [S] -wi + (<others>)
+,,,,,
+49616,k,14494,kata,dasar,
+,,,,,
+49617,k,0,kata adat,dasar,
+,,,,,
+49618,k,0,kata asli,dasar,
+49618.1,x,,<kata asl> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49619,k,0,kata bantu bilangan,dasar,
+49619.1,x,,<kata bantu bilang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49620,k,0,kata benda,dasar,
+,,,,,
+49621,k,0,kata bentukan,dasar,
+49621.1,x,,<kata bentu> + -kan,bentukan,[29] [S] -kan + (<all>)
+49621.2,x,,<kata bentuk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49622,k,0,kata berimbuhan,dasar,
+49622.1,x,,<kata berimbuh> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49623,k,0,kata bersayap,dasar,
+,,,,,
+49624,k,0,kata bersusun,dasar,
+,,,,,
+49625,k,0,kata bertimbal,dasar,
+,,,,,
+49626,k,0,kata bilangan,dasar,
+49626.1,x,,<kata bilang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49627,k,0,kata dasar,dasar,
+,,,,,
+49628,k,0,kata deiktis,dasar,
+49628.1,x,,<kata deikti> + [-is:-s],bentukan,[177] [S] -is + (i)
+49628.2,x,,<kata deikt> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+49629,k,0,kata depan,dasar,
+49629.1,x,,<kata dep> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49630,k,0,kata fonologis,dasar,
+49630.1,x,,<kata fonologi> + [-is:-s],bentukan,[177] [S] -is + (i)
+49630.2,x,,<kata fonolog> + -is,bentukan,[178] [S] -is + (<others>)
+49630.3,x,,<kata fono> + -logi+-s,bentukan,[194] [MS] -logi+-s + (<all>)
+,,,,,
+49631,k,0,kata ganti,dasar,
+49631.1,x,,<kata gant> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49632,k,0,kata ganti milik,dasar,
+,,,,,
+49633,k,0,kata ganti orang,dasar,
+,,,,,
+49634,k,0,kata ganti taktentu,dasar,
+,,,,,
+49635,k,0,kata generik,dasar,
+,,,,,
+49636,k,0,kata gramatikal,dasar,
+,,,,,
+49637,k,0,kata hati,dasar,
+49637.1,x,,<kata hat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49638,k,0,kata hubung,dasar,
+,,,,,
+49639,k,0,kata instruksi,dasar,
+49639.1,x,,<kata instruks> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49640,k,0,kata jadian,dasar,
+49640.1,x,,<kata jadi> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49641,k,0,kata keadaan,dasar,
+49641.1,x,,<kata keada> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49642,k,0,kata kepala,dasar,
+,,,,,
+49643,k,0,kata kerja,dasar,
+,,,,,
+49644,k,0,kata kerja bantu,dasar,
+,,,,,
+49645,k,0,kata keterangan,dasar,
+49645.1,x,,<kata keterang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49646,k,0,kata klise,dasar,
+,,,,,
+49647,k,0,kata kunci,dasar,
+49647.1,x,,<kata kunc> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49648,k,0,kata leksikal,dasar,
+,,,,,
+49649,k,0,kata lewat,dasar,
+,,,,,
+49650,k,0,kata majemuk,dasar,
+,,,,,
+49651,k,0,kata morfemis,dasar,
+49651.1,x,,<kata morfemi> + [-is:-s],bentukan,[177] [S] -is + (i)
+49651.2,x,,<kata morfem> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+49652,k,0,kata mubazir,dasar,
+,,,,,
+49653,k,0,kata nama,dasar,
+,,,,,
+49654,k,0,kata nama abstrak,dasar,
+,,,,,
+49655,k,0,kata nonreferensial,dasar,
+,,,,,
+49656,k,0,kata ortografis,dasar,
+49656.1,x,,<kata ortografi> + [-is:-s],bentukan,[177] [S] -is + (i)
+49656.2,x,,<kata ortograf> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+49657,k,0,kata pembimbing,dasar,
+,,,,,
+49658,k,0,kata pendahuluan,dasar,
+49658.1,x,,<kata pendahulu> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49659,k,0,kata pengantar,dasar,
+,,,,,
+49660,k,0,kata penggolong,dasar,
+,,,,,
+49661,k,0,kata penghubung,dasar,
+,,,,,
+49662,k,0,kata petunjuk,dasar,
+,,,,,
+49663,k,0,kata pinjaman,dasar,
+49663.1,x,,<kata pinjam> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49664,k,0,kata pivot,dasar,
+,,,,,
+49665,k,0,kata pungutan,dasar,
+49665.1,x,,<kata pungut> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49666,k,0,kata pustaka,dasar,
+,,,,,
+49667,k,0,kata putus,dasar,
+,,,,,
+49668,k,0,kata sambung,dasar,
+,,,,,
+49669,k,0,kata sambutan,dasar,
+49669.1,x,,<kata sambut> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49670,k,0,kata sandang,dasar,
+,,,,,
+49671,k,0,kata sandi,dasar,
+49671.1,x,,<kata sand> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49672,k,0,kata sapaan,dasar,
+49672.1,x,,<kata sapa> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49673,k,0,kata sepakat,dasar,
+,,,,,
+49674,k,0,kata serapan,dasar,
+49674.1,x,,<kata serap> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49675,k,0,kata seru,dasar,
+,,,,,
+49676,k,0,kata sifat,dasar,
+,,,,,
+49677,k,0,kata taktergolong,dasar,
+,,,,,
+49678,k,0,kata tambahan,dasar,
+49678.1,x,,<kata tambah> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49679,k,0,kata tanya,dasar,
+49679.1,x,,<kata ta> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+49680,k,0,kata transisi,dasar,
+49680.1,x,,<kata transis> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49681,k,0,kata tugas,dasar,
+,,,,,
+49682,k,0,kata turunan,dasar,
+49682.1,x,,<kata turun> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49683,k,0,kata ulang,dasar,
+,,,,,
+49684,k,0,kata wantahan,dasar,
+49684.1,x,,<kata wantah> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49685,v,1167,kata-kata,dasar,
+49685.1,v,,<kata> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+49686,v,42,kata-kataku,dasar,
+49686.1,x,,<kata-kata> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+49686.2,v,,<kata> [-] <r> + -ku,bentukan,[23] [RD] | => [32] [SFS] -ku + (<all>)
+,,,,,
+49687,v,27,kata-katamu,dasar,
+49687.1,x,,<kata-kata> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+49687.2,v,,<kata> [-] <r> + -mu,bentukan,[23] [RD] | => [33] [SFS] -mu + (<all>)
+,,,,,
+49688,v,184,kata-katanya,dasar,
+49688.1,x,,<kata> [-] <r> + -nya,bentukan,[23] [RD] |
+49688.2,v,,<kata> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+49689,k,0,katabatik,dasar,
+,,,,,
+49690,k,14,katabolisme,dasar,
+49690.1,x,,<katabol> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+49691,k,0,katadrom,dasar,
+49691.1,x,,<kata> + -drom,bentukan,[202] [S] -drom + (<all>)
+,,,,,
+49692,k,0,katafalk,dasar,
+,,,,,
+49693,k,0,katafil,dasar,
+,,,,,
+49694,k,0,katafora,dasar,
+,,,,,
+49695,k,0,katagelofobia,dasar,
+49695.1,x,,<katagelo> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+49696,c,59,katagori,dasar,kategori
+49696.1,x,,<katagor> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49697,k,2,katah,dasar,
+,,,,,
+49698,k,3,katai,dasar,
+49698.1,x,,<kata> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49699,k,89,katak,dasar,
+,,,,,
+49700,k,0,katak betung,dasar,
+,,,,,
+49701,k,0,katak hijau,dasar,
+,,,,,
+49702,k,0,katak kembung,dasar,
+,,,,,
+49703,k,0,katak kuak,dasar,
+,,,,,
+49704,k,0,katak pohon,dasar,
+,,,,,
+49705,k,0,katak puru,dasar,
+,,,,,
+49706,k,0,katak terbang,dasar,
+,,,,,
+49707,v,5,katak-katak,dasar,
+49707.1,v,,<katak> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+49708,k,0,kataka,dasar,
+,,,,,
+49709,v,629,katakan,dasar,
+49709.1,v,,<kata> + -kan,bentukan,[29] [S] -kan + (<all>)
+49709.2,x,,<katak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49710,k,17,katakana,dasar,
+,,,,,
+49711,v,164,katakanlah,dasar,
+49711.1,x,,<katakan> + -lah,bentukan,[31] [FS] -lah + (<all>)
+49711.2,v,,<kata> + -kan + -lah,bentukan,[29] [S] -kan + (<all>) => [31] [FS] -lah + (<all>)
+49711.3,x,,<katak> + -an + -lah,bentukan,[38] [S] -an + (<all>) => [31] [FS] -lah + (<all>)
+,,,,,
+49712,k,0,kataklisme,dasar,
+49712.1,x,,<katakl> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+49713,k,0,katakomba,dasar,
+,,,,,
+49714,v,255,kataku,dasar,
+49714.1,v,,<kata> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+49715,k,0,katalan,dasar,
+49715.1,x,,<katal> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49716,k,19,katalase,dasar,
+49716.1,x,,<katal> + -ase,bentukan,[210] [S] -ase + (<all>)
+,,,,,
+49717,k,0,katalepsi,dasar,
+49717.1,x,,<kataleps> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49718,k,0,katalina,dasar,
+,,,,,
+49719,k,88,katalis,dasar,
+49719.1,x,,<katali> + [-is:-s],bentukan,[177] [S] -is + (i)
+49719.2,x,,<katal> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+49720,k,0,katalis negatif,dasar,
+,,,,,
+49721,k,0,katalis positif,dasar,
+,,,,,
+49722,k,0,katalisa,dasar,
+,,,,,
+49723,k,2,katalisasi,dasar,
+49723.1,x,,<katalisas> + -i,bentukan,[28] [S] -i + (<all>)
+49723.2,x,,<katali> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+49723.3,v,,<katalis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+49723.4,x,,<katal> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+49724,k,63,katalisator,dasar,
+,,,,,
+49725,k,6,katalisis,dasar,
+49725.1,x,,<katalisi> + [-is:-s],bentukan,[177] [S] -is + (i)
+49725.2,v,,<katalis> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+49726,k,0,katalisis asam basa,dasar,
+,,,,,
+49727,k,0,katalisis enzimatik,dasar,
+,,,,,
+49728,k,0,katalisis heterogen,dasar,
+,,,,,
+49729,k,0,katalisis homogen,dasar,
+,,,,,
+49730,k,0,katalisit,dasar,
+,,,,,
+49731,v,5,katalisnya,dasar,
+49731.1,v,,<katalis> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+49731.2,x,,<katali> + [-is:-s] + -nya,bentukan,[177] [S] -is + (i) => [34] [SFS] -nya + (<all>)
+49731.3,x,,<katal> + -is + -nya,bentukan,[178] [S] -is + (<others>) => [34] [SFS] -nya + (<all>)
+,,,,,
+49732,k,0,katalistik,dasar,
+,,,,,
+49733,v,12,katalitik,dasar,
+,,,,,
+49734,v,3,katalitiknya,dasar,
+49734.1,v,,<katalitik> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+49735,k,95,katalog,dasar,
+,,,,,
+49736,k,0,katalog berkas,dasar,
+,,,,,
+49737,k,0,katalog judul,dasar,
+,,,,,
+49738,k,0,katalog kartu,dasar,
+,,,,,
+49739,k,0,katalog manuskrip,dasar,
+,,,,,
+49740,k,0,katalog nama,dasar,
+,,,,,
+49741,k,0,katalog subjek,dasar,
+,,,,,
+49742,k,0,katalog umum,dasar,
+,,,,,
+49743,v,4,katalog-katalog,dasar,
+49743.1,v,,<katalog> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+49744,k,0,kataloger,dasar,
+,,,,,
+49745,k,4,katalogisasi,dasar,
+49745.1,x,,<katalogisas> + -i,bentukan,[28] [S] -i + (<all>)
+49745.2,x,,<katalogi> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+49745.3,x,,<katalogis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+49745.4,v,,<katalog> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+49746,v,3,katalognya,dasar,
+49746.1,v,,<katalog> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+49747,c,2,katalogus,dasar,katalog
+,,,,,
+49748,k,0,katam,dasar,
+,,,,,
+49749,k,0,katamaran,dasar,
+49749.1,x,,<katamar> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49750,v,114,katamu,dasar,
+49750.1,v,,<kata> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+,,,,,
+49751,c,15,katan,dasar,khitan
+49751.1,x,,<kat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49752,k,0,katang-katang,dasar,
+49752.1,x,,<katang> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+49753,v,4264,katanya,dasar,
+49753.1,v,,<kata> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+49754,k,0,katapedafobia,dasar,
+49754.1,v,,<katapeda> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+49755,k,7,katapel,dasar,
+,,,,,
+49756,k,0,katapel pesawat,dasar,
+,,,,,
+49757,k,0,katapleksi,dasar,
+49757.1,x,,<katapleks> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49758,k,3,katar,dasar,
+,,,,,
+49759,k,36,katarak,dasar,
+,,,,,
+49760,k,11,katarsis,dasar,
+49760.1,x,,<katarsi> + [-is:-s],bentukan,[177] [S] -is + (i)
+49760.2,x,,<katars> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+49761,k,0,katartik,dasar,
+,,,,,
+49762,k,0,katastrofe,dasar,
+,,,,,
+49763,k,0,katastrofi,dasar,
+49763.1,x,,<katastrof> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49764,k,0,katatonia,dasar,
+,,,,,
+49765,k,0,katawi,dasar,
+49765.1,x,,<kataw> + -i,bentukan,[28] [S] -i + (<all>)
+49765.2,v,,<kata> + -wi,bentukan,[174] [S] -wi + (<others>)
+,,,,,
+49766,c,76,kate,dasar,katai
+,,,,,
+49767,k,8,katebelece,dasar,
+,,,,,
+49768,k,39,katedral,dasar,
+,,,,,
+49769,k,2085,kategori,dasar,
+49769.1,x,,<kategor> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49770,k,0,kategori gramatikal,dasar,
+,,,,,
+49771,k,0,kategori leksikal,dasar,
+,,,,,
+49772,k,0,kategori primer,dasar,
+,,,,,
+49773,k,0,kategori sekunder,dasar,
+,,,,,
+49774,k,0,kategori semantis,dasar,
+49774.1,x,,<kategori semanti> + [-is:-s],bentukan,[177] [S] -is + (i)
+49774.2,x,,<kategori semant> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+49775,k,0,kategori sintaksis,dasar,
+49775.1,x,,<kategori sintaksi> + [-is:-s],bentukan,[177] [S] -is + (i)
+49775.2,x,,<kategori sintaks> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+49776,v,33,kategori-kategori,dasar,
+49776.1,v,,<kategori> [-] <r>,bentukan,[23] [RD] |
+49776.2,x,,<kategor> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+49777,v,2,kategori-kategorinya,dasar,
+49777.1,x,,<kategori> [-] <r> + -nya,bentukan,[23] [RD] |
+49777.2,x,,<kategor> + -i [-] <r> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+49777.3,v,,<kategori> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+49777.4,x,,<kategor> + -i [-] <r> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+49778,k,5,kategorial,dasar,
+,,,,,
+49779,d,0,kategorikan,dasar,
+49779.1,v,,<kategori> + -kan,bentukan,[29] [S] -kan + (<all>)
+49779.2,x,,<kategorik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49780,k,11,kategoris,dasar,
+49780.1,v,,<kategori> + [-is:-s],bentukan,[177] [S] -is + (i)
+49780.2,x,,<kategor> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+49781,k,91,kategorisasi,dasar,
+49781.1,x,,<kategorisas> + -i,bentukan,[28] [S] -i + (<all>)
+49781.2,v,,<kategori> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+49781.3,x,,<kategoris> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+49781.4,x,,<kategor> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+49782,k,0,katek,dasar,
+,,,,,
+49783,k,0,katekese,dasar,
+,,,,,
+49784,k,9,katekin,dasar,
+,,,,,
+49785,k,2,katekis,dasar,
+49785.1,x,,<kateki> + [-is:-s],bentukan,[177] [S] -is + (i)
+49785.2,x,,<katek> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+49786,k,0,katekisasi,dasar,
+49786.1,x,,<katekisas> + -i,bentukan,[28] [S] -i + (<all>)
+49786.2,x,,<kateki> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+49786.3,v,,<katekis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+49786.4,x,,<katek> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+49787,k,0,katekismus,dasar,
+49787.1,x,,<katek> + -ismus,bentukan,[198] [S] -ismus + (<all>)
+,,,,,
+49788,k,0,katekumen,dasar,
+,,,,,
+49789,k,0,katel,dasar,
+,,,,,
+49790,k,0,katelum,dasar,
+,,,,,
+49791,k,0,katemeral,dasar,
+,,,,,
+49792,k,0,katemeralitas,dasar,
+49792.1,v,,<katemeral> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+49793,k,4,katena,dasar,
+,,,,,
+49794,k,0,kater,dasar,
+,,,,,
+49795,k,85,katering,dasar,
+,,,,,
+49796,v,5,kateringnya,dasar,
+49796.1,v,,<katering> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+49797,k,4,kates,dasar,
+,,,,,
+49798,k,26,kateter,dasar,
+,,,,,
+49799,k,0,kateter balon,dasar,
+,,,,,
+49800,k,6,kateterisasi,dasar,
+49800.1,x,,<kateterisas> + -i,bentukan,[28] [S] -i + (<all>)
+49800.2,x,,<kateteri> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+49800.3,x,,<kateteris> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+49800.4,v,,<kateter> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+49801,k,0,katetermometer,dasar,
+49801.1,x,,<katetermo> + -meter,bentukan,[189] [S] -meter + (<all>)
+,,,,,
+49802,k,0,katetometer,dasar,
+49802.1,x,,<kateto> + -meter,bentukan,[189] [S] -meter + (<all>)
+,,,,,
+49803,c,16,katholik,dasar,katolik
+,,,,,
+49804,k,5,kati,dasar,
+49804.1,x,,<kat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49805,k,0,kati metomka,dasar,
+,,,,,
+49806,k,0,kati ninati,dasar,
+49806.1,x,,<kati ninat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49807,k,0,katian,dasar,
+49807.1,v,,<kati> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49808,c,8,katib,dasar,khatib
+,,,,,
+49809,k,0,katib am,dasar,
+,,,,,
+49810,k,0,katibas,dasar,
+,,,,,
+49811,k,0,katibin,dasar,
+,,,,,
+49812,k,0,katifah,dasar,
+,,,,,
+49813,k,0,katifan,dasar,
+49813.1,x,,<katif> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49814,c,6,katik,dasar,katai
+,,,,,
+49815,k,2,katil,dasar,
+,,,,,
+49816,k,0,katimaha,dasar,
+,,,,,
+49817,k,0,katimbulan,dasar,
+49817.1,x,,<katimbul> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49818,k,0,katimumul,dasar,
+,,,,,
+49819,k,23,katingan,dasar,
+49819.1,x,,<kating> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49820,k,39,kation,dasar,
+,,,,,
+49821,k,3,katir,dasar,
+,,,,,
+49822,k,0,katirah,dasar,
+,,,,,
+49823,k,0,katiti,dasar,
+49823.1,x,,<katit> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49824,k,0,katlum,dasar,
+,,,,,
+49825,k,28,kato,dasar,
+,,,,,
+49826,k,0,kato-kato,dasar,
+49826.1,v,,<kato> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+49827,k,0,katoba,dasar,
+,,,,,
+49828,k,3,katode,dasar,
+,,,,,
+49829,k,3,katok,dasar,
+,,,,,
+49830,k,291,katolik,dasar,
+,,,,,
+49831,k,0,katolik roma,dasar,
+,,,,,
+49832,k,3,katong,dasar,
+,,,,,
+49833,k,0,katoptrofobia,dasar,
+49833.1,x,,<katoptro> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+49834,k,0,katrij,dasar,
+,,,,,
+49835,k,0,katrij tinta,dasar,
+,,,,,
+49836,k,0,katrili,dasar,
+49836.1,x,,<katril> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49837,k,0,katro,dasar,
+,,,,,
+49838,k,12,katrol,dasar,
+,,,,,
+49839,k,0,katrolan,dasar,
+49839.1,v,,<katrol> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49840,k,0,katsaridafobia,dasar,
+49840.1,x,,<katsarida> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+49841,k,0,katsu,dasar,
+,,,,,
+49842,k,14,katuk,dasar,
+,,,,,
+49843,k,2,katul,dasar,
+,,,,,
+49844,k,6,katulampa,dasar,
+,,,,,
+49845,c,14,katulistiwa,dasar,khatulistiwa
+,,,,,
+49846,k,86,katun,dasar,
+,,,,,
+49847,k,0,katun bangkok,dasar,
+,,,,,
+49848,k,0,katun rayon,dasar,
+,,,,,
+49849,k,0,katun sutra,dasar,
+,,,,,
+49850,k,0,katung,dasar,
+,,,,,
+49851,k,120,katup,dasar,
+,,,,,
+49852,k,0,katup jantung,dasar,
+,,,,,
+49853,k,0,katup pangkal-tengkorak,dasar,
+,,,,,
+49854,k,0,katup rentak,dasar,
+,,,,,
+49855,k,0,katup udara,dasar,
+,,,,,
+49856,v,2,katup-katup,dasar,
+49856.1,v,,<katup> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+49857,v,3,katupkan,dasar,
+49857.1,v,,<katup> + -kan,bentukan,[29] [S] -kan + (<all>)
+49857.2,x,,<katupk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49858,k,0,katupung,dasar,
+,,,,,
+49859,k,8,katut,dasar,
+,,,,,
+49860,k,0,katvanga,dasar,
+,,,,,
+49861,k,0,katwal,dasar,
+,,,,,
+49862,k,1229,kau,dasar,
+,,,,,
+49863,k,0,kau-kaudara,dasar,
+,,,,,
+49864,v,2,kauambil,dasar,
+49864.1,x,,kau- + <ambil>,bentukan,[36] kau- + (<all>) + (-i
+,,,,,
+49865,v,7,kauanggap,dasar,
+49865.1,x,,kau- + <anggap>,bentukan,[36] kau- + (<all>) + (-i
+,,,,,
+49866,v,3,kauapakan,dasar,
+49866.1,x,,kau- + <apa> + -kan,bentukan,[36] kau- + (<all>) + (-i
+49866.2,x,,kau- + <apakan>,bentukan,[36] kau- + (<all>) + (-i
+49866.3,x,,<kauapa> + -kan,bentukan,[29] [S] -kan + (<all>)
+49866.4,x,,<kauapak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49867,v,10,kaubaca,dasar,
+49867.1,x,,kau- + <baca>,bentukan,[36] kau- + (<all>) + (-i
+,,,,,
+49868,v,2,kaubakar,dasar,
+49868.1,x,,kau- + <bakar>,bentukan,[36] kau- + (<all>) + (-i
+,,,,,
+49869,v,2,kaubawa,dasar,
+49869.1,x,,kau- + <bawa>,bentukan,[36] kau- + (<all>) + (-i
+,,,,,
+49870,v,9,kaubayangkan,dasar,
+49870.1,x,,kau- + <bayang> + -kan,bentukan,[36] kau- + (<all>) + (-i
+49870.2,x,,kau- + <bayangkan>,bentukan,[36] kau- + (<all>) + (-i
+49870.3,x,,<kaubayang> + -kan,bentukan,[29] [S] -kan + (<all>)
+49870.4,x,,<kaubayangk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49871,v,3,kaubayar,dasar,
+49871.1,x,,kau- + <bayar>,bentukan,[36] kau- + (<all>) + (-i
+,,,,,
+49872,v,4,kaubeli,dasar,
+49872.1,x,,kau- + <bel> + -i,bentukan,[36] kau- + (<all>) + (-i
+49872.2,x,,kau- + <beli>,bentukan,[36] kau- + (<all>) + (-i
+49872.3,x,,<kaubel> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49873,v,3,kaubenci,dasar,
+49873.1,x,,kau- + <benc> + -i,bentukan,[36] kau- + (<all>) + (-i
+49873.2,x,,kau- + <benci>,bentukan,[36] kau- + (<all>) + (-i
+49873.3,x,,<kaubenc> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49874,v,3,kauberi,dasar,
+49874.1,x,,kau- + <ber> + -i,bentukan,[36] kau- + (<all>) + (-i
+49874.2,x,,kau- + <beri>,bentukan,[36] kau- + (<all>) + (-i
+49874.3,x,,<kauber> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49875,v,10,kauberikan,dasar,
+49875.1,x,,kau- + <beri> + -kan,bentukan,[36] kau- + (<all>) + (-i
+49875.2,x,,kau- + <berikan>,bentukan,[36] kau- + (<all>) + (-i
+49875.3,x,,<kauberi> + -kan,bentukan,[29] [S] -kan + (<all>)
+49875.4,x,,<kauberik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49876,v,2,kaubicarakan,dasar,
+49876.1,x,,kau- + <bicara> + -kan,bentukan,[36] kau- + (<all>) + (-i
+49876.2,x,,kau- + <bicarakan>,bentukan,[36] kau- + (<all>) + (-i
+49876.3,x,,<kaubicara> + -kan,bentukan,[29] [S] -kan + (<all>)
+49876.4,x,,<kaubicarak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49877,v,10,kaubilang,dasar,
+49877.1,x,,kau- + <bilang>,bentukan,[36] kau- + (<all>) + (-i
+,,,,,
+49878,v,2,kaubuat,dasar,
+49878.1,x,,kau- + <buat>,bentukan,[36] kau- + (<all>) + (-i
+,,,,,
+49879,v,3,kaubuka,dasar,
+49879.1,x,,kau- + <buka>,bentukan,[36] kau- + (<all>) + (-i
+,,,,,
+49880,v,2,kaubukakan,dasar,
+49880.1,x,,kau- + <buka> + -kan,bentukan,[36] kau- + (<all>) + (-i
+49880.2,x,,kau- + <bukakan>,bentukan,[36] kau- + (<all>) + (-i
+49880.3,x,,<kaubuka> + -kan,bentukan,[29] [S] -kan + (<all>)
+49880.4,x,,<kaubukak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49881,v,6,kaubunuh,dasar,
+49881.1,x,,kau- + <bunuh>,bentukan,[36] kau- + (<all>) + (-i
+,,,,,
+49882,v,4,kaubutuhkan,dasar,
+49882.1,x,,kau- + <butuh> + -kan,bentukan,[36] kau- + (<all>) + (-i
+49882.2,x,,kau- + <butuhkan>,bentukan,[36] kau- + (<all>) + (-i
+49882.3,x,,<kaubutuh> + -kan,bentukan,[29] [S] -kan + (<all>)
+49882.4,x,,<kaubutuhk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49883,v,5,kaucari,dasar,
+49883.1,x,,kau- + <car> + -i,bentukan,[36] kau- + (<all>) + (-i
+49883.2,x,,kau- + <cari>,bentukan,[36] kau- + (<all>) + (-i
+49883.3,x,,<kaucar> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49884,v,2,kaucatat,dasar,
+49884.1,x,,kau- + <catat>,bentukan,[36] kau- + (<all>) + (-i
+,,,,,
+49885,v,4,kaucemaskan,dasar,
+49885.1,x,,kau- + <cemas> + -kan,bentukan,[36] kau- + (<all>) + (-i
+49885.2,x,,kau- + <cemaskan>,bentukan,[36] kau- + (<all>) + (-i
+49885.3,x,,<kaucemas> + -kan,bentukan,[29] [S] -kan + (<all>)
+49885.4,x,,<kaucemask> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49886,v,6,kauceritakan,dasar,
+49886.1,x,,kau- + <cerita> + -kan,bentukan,[36] kau- + (<all>) + (-i
+49886.2,x,,kau- + <ceritakan>,bentukan,[36] kau- + (<all>) + (-i
+49886.3,x,,<kaucerita> + -kan,bentukan,[29] [S] -kan + (<all>)
+49886.4,x,,<kauceritak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49887,v,8,kaucintai,dasar,
+49887.1,x,,kau- + <cinta> + -i,bentukan,[36] kau- + (<all>) + (-i
+49887.2,x,,kau- + <cintai>,bentukan,[36] kau- + (<all>) + (-i
+49887.3,x,,<kaucinta> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49888,v,2,kauciptakan,dasar,
+49888.1,x,,kau- + <cipta> + -kan,bentukan,[36] kau- + (<all>) + (-i
+49888.2,x,,kau- + <ciptakan>,bentukan,[36] kau- + (<all>) + (-i
+49888.3,x,,<kaucipta> + -kan,bentukan,[29] [S] -kan + (<all>)
+49888.4,x,,<kauciptak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49889,v,2,kaudapat,dasar,
+49889.1,x,,kau- + <dapat>,bentukan,[36] kau- + (<all>) + (-i
+,,,,,
+49890,v,3,kaudapatkan,dasar,
+49890.1,x,,kau- + <dapat> + -kan,bentukan,[36] kau- + (<all>) + (-i
+49890.2,x,,kau- + <dapatkan>,bentukan,[36] kau- + (<all>) + (-i
+49890.3,x,,<kaudapat> + -kan,bentukan,[29] [S] -kan + (<all>)
+49890.4,x,,<kaudapatk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49891,k,0,kaudara,dasar,
+49891.1,x,,kau- + <dara>,bentukan,[36] kau- + (<all>) + (-i
+,,,,,
+49892,v,10,kaudengar,dasar,
+49892.1,x,,kau- + <dengar>,bentukan,[36] kau- + (<all>) + (-i
+,,,,,
+49893,v,3,kaudengarkan,dasar,
+49893.1,x,,kau- + <dengar> + -kan,bentukan,[36] kau- + (<all>) + (-i
+49893.2,x,,kau- + <dengarkan>,bentukan,[36] kau- + (<all>) + (-i
+49893.3,x,,<kaudengar> + -kan,bentukan,[29] [S] -kan + (<all>)
+49893.4,x,,<kaudengark> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49894,v,2,kauderita,dasar,
+49894.1,x,,kau- + <derita>,bentukan,[36] kau- + (<all>) + (-i
+,,,,,
+49895,k,0,kaugat,dasar,
+49895.1,x,,kau- + <gat>,bentukan,[36] kau- + (<all>) + (-i
+,,,,,
+49896,v,3,kaugunakan,dasar,
+49896.1,x,,kau- + <guna> + -kan,bentukan,[36] kau- + (<all>) + (-i
+49896.2,x,,kau- + <gunakan>,bentukan,[36] kau- + (<all>) + (-i
+49896.3,x,,<kauguna> + -kan,bentukan,[29] [S] -kan + (<all>)
+49896.4,x,,<kaugunak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49897,v,4,kauhabiskan,dasar,
+49897.1,x,,kau- + <habis> + -kan,bentukan,[36] kau- + (<all>) + (-i
+49897.2,x,,kau- + <habiskan>,bentukan,[36] kau- + (<all>) + (-i
+49897.3,x,,<kauhabis> + -kan,bentukan,[29] [S] -kan + (<all>)
+49897.4,x,,<kauhabisk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49898,v,3,kauhadapi,dasar,
+49898.1,x,,kau- + <hadap> + -i,bentukan,[36] kau- + (<all>) + (-i
+49898.2,x,,kau- + <hadapi>,bentukan,[36] kau- + (<all>) + (-i
+49898.3,x,,<kauhadap> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49899,v,3,kauharapkan,dasar,
+49899.1,x,,kau- + <harap> + -kan,bentukan,[36] kau- + (<all>) + (-i
+49899.2,x,,kau- + <harapkan>,bentukan,[36] kau- + (<all>) + (-i
+49899.3,x,,<kauharap> + -kan,bentukan,[29] [S] -kan + (<all>)
+49899.4,x,,<kauharapk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49900,v,3,kauhubungi,dasar,
+49900.1,x,,kau- + <hubung> + -i,bentukan,[36] kau- + (<all>) + (-i
+49900.2,x,,kau- + <hubungi>,bentukan,[36] kau- + (<all>) + (-i
+49900.3,x,,<kauhubung> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49901,v,2,kauikuti,dasar,
+49901.1,x,,kau- + <ikut> + -i,bentukan,[36] kau- + (<all>) + (-i
+49901.2,x,,kau- + <ikuti>,bentukan,[36] kau- + (<all>) + (-i
+49901.3,x,,<kauikut> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49902,v,6,kauingat,dasar,
+49902.1,x,,kau- + <ingat>,bentukan,[36] kau- + (<all>) + (-i
+,,,,,
+49903,v,12,kauinginkan,dasar,
+49903.1,x,,kau- + <ingin> + -kan,bentukan,[36] kau- + (<all>) + (-i
+49903.2,x,,kau- + <inginkan>,bentukan,[36] kau- + (<all>) + (-i
+49903.3,x,,<kauingin> + -kan,bentukan,[29] [S] -kan + (<all>)
+49903.4,x,,<kauingink> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49904,v,2,kaujadikan,dasar,
+49904.1,x,,kau- + <jadi> + -kan,bentukan,[36] kau- + (<all>) + (-i
+49904.2,x,,kau- + <jadikan>,bentukan,[36] kau- + (<all>) + (-i
+49904.3,x,,<kaujadi> + -kan,bentukan,[29] [S] -kan + (<all>)
+49904.4,x,,<kaujadik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49905,v,2,kaujalani,dasar,
+49905.1,x,,kau- + <jalan> + -i,bentukan,[36] kau- + (<all>) + (-i
+49905.2,x,,kau- + <jalani>,bentukan,[36] kau- + (<all>) + (-i
+49905.3,x,,<kaujalan> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49906,v,3,kaujawab,dasar,
+49906.1,x,,kau- + <jawab>,bentukan,[36] kau- + (<all>) + (-i
+,,,,,
+49907,v,3,kaujual,dasar,
+49907.1,x,,kau- + <jual>,bentukan,[36] kau- + (<all>) + (-i
+,,,,,
+49908,v,2,kaujumpai,dasar,
+49908.1,x,,kau- + <jumpa> + -i,bentukan,[36] kau- + (<all>) + (-i
+49908.2,x,,kau- + <jumpai>,bentukan,[36] kau- + (<all>) + (-i
+49908.3,x,,<kaujumpa> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49909,k,0,kaukab,dasar,
+49909.1,x,,kau- + <kab>,bentukan,[36] kau- + (<all>) + (-i
+,,,,,
+49910,v,2,kaukabarkan,dasar,
+49910.1,x,,kau- + <kabar> + -kan,bentukan,[36] kau- + (<all>) + (-i
+49910.2,x,,kau- + <kabarkan>,bentukan,[36] kau- + (<all>) + (-i
+49910.3,x,,<kaukabar> + -kan,bentukan,[29] [S] -kan + (<all>)
+49910.4,x,,<kaukabark> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49911,v,2,kaukagumi,dasar,
+49911.1,x,,kau- + <kagum> + -i,bentukan,[36] kau- + (<all>) + (-i
+49911.2,x,,kau- + <kagumi>,bentukan,[36] kau- + (<all>) + (-i
+49911.3,x,,<kaukagum> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49912,k,6,kaukasoid,dasar,
+49912.1,x,,kau- + <kasoid>,bentukan,[36] kau- + (<all>) + (-i
+49912.2,x,,<kaukas> + -oid,bentukan,[209] [S] -oid + (<all>)
+,,,,,
+49913,v,10,kaukatakan,dasar,
+49913.1,x,,kau- + <kata> + -kan,bentukan,[36] kau- + (<all>) + (-i
+49913.2,x,,kau- + <katakan>,bentukan,[36] kau- + (<all>) + (-i
+49913.3,x,,<kaukata> + -kan,bentukan,[29] [S] -kan + (<all>)
+49913.4,x,,<kaukatak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49914,v,2,kaukejar,dasar,
+49914.1,x,,kau- + <kejar>,bentukan,[36] kau- + (<all>) + (-i
+,,,,,
+49915,v,3,kaukenakan,dasar,
+49915.1,x,,kau- + <kena> + -kan,bentukan,[36] kau- + (<all>) + (-i
+49915.2,x,,kau- + <kenakan>,bentukan,[36] kau- + (<all>) + (-i
+49915.3,x,,<kaukena> + -kan,bentukan,[29] [S] -kan + (<all>)
+49915.4,x,,<kaukenak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49916,v,4,kaukenal,dasar,
+49916.1,x,,kau- + <kenal>,bentukan,[36] kau- + (<all>) + (-i
+,,,,,
+49917,v,6,kaukerjakan,dasar,
+49917.1,x,,kau- + <kerja> + -kan,bentukan,[36] kau- + (<all>) + (-i
+49917.2,x,,kau- + <kerjakan>,bentukan,[36] kau- + (<all>) + (-i
+49917.3,x,,<kaukerja> + -kan,bentukan,[29] [S] -kan + (<all>)
+49917.4,x,,<kaukerjak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49918,v,6,kauketahui,dasar,
+49918.1,x,,kau- + <ketahu> + -i,bentukan,[36] kau- + (<all>) + (-i
+49918.2,x,,kau- + <ketahui>,bentukan,[36] kau- + (<all>) + (-i
+49918.3,x,,<kauketahu> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49919,v,9,kaukira,dasar,
+49919.1,x,,kau- + <kira>,bentukan,[36] kau- + (<all>) + (-i
+,,,,,
+49920,v,3,kaukirim,dasar,
+49920.1,x,,kau- + <kirim>,bentukan,[36] kau- + (<all>) + (-i
+,,,,,
+49921,v,4,kaukirimkan,dasar,
+49921.1,x,,kau- + <kirim> + -kan,bentukan,[36] kau- + (<all>) + (-i
+49921.2,x,,kau- + <kirimkan>,bentukan,[36] kau- + (<all>) + (-i
+49921.3,x,,<kaukirim> + -kan,bentukan,[29] [S] -kan + (<all>)
+49921.4,x,,<kaukirimk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49922,v,2,kaukunci,dasar,
+49922.1,x,,kau- + <kunc> + -i,bentukan,[36] kau- + (<all>) + (-i
+49922.2,x,,kau- + <kunci>,bentukan,[36] kau- + (<all>) + (-i
+49922.3,x,,<kaukunc> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49923,k,7,kaukus,dasar,
+49923.1,x,,kau- + <kus>,bentukan,[36] kau- + (<all>) + (-i
+,,,,,
+49924,k,12,kaul,dasar,
+49924.1,x,,kau- + <l>,bentukan,[36] kau- + (<all>) + (-i
+,,,,,
+49925,k,0,kaul jadid,dasar,
+,,,,,
+49926,k,0,kaul kadim,dasar,
+,,,,,
+49927,c,6,kaula,dasar,kawula
+49927.1,x,,kau- + <la>,bentukan,[36] kau- + (<all>) + (-i
+,,,,,
+49928,v,43,kaulah,dasar,
+49928.1,x,,kau- + <lah>,bentukan,[36] kau- + (<all>) + (-i
+49928.2,v,,<kau> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+49929,v,29,kaulakukan,dasar,
+49929.1,x,,kau- + <laku> + -kan,bentukan,[36] kau- + (<all>) + (-i
+49929.2,x,,kau- + <lakukan>,bentukan,[36] kau- + (<all>) + (-i
+49929.3,x,,<kaulaku> + -kan,bentukan,[29] [S] -kan + (<all>)
+49929.4,x,,<kaulakuk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49930,k,0,kaulan,dasar,
+49930.1,x,,kau- + <lan>,bentukan,[36] kau- + (<all>) + (-i
+49930.2,x,,<kaul> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49931,v,2,kaulemparkan,dasar,
+49931.1,x,,kau- + <lempar> + -kan,bentukan,[36] kau- + (<all>) + (-i
+49931.2,x,,kau- + <lemparkan>,bentukan,[36] kau- + (<all>) + (-i
+49931.3,x,,<kaulempar> + -kan,bentukan,[29] [S] -kan + (<all>)
+49931.4,x,,<kaulempark> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49932,v,3,kauletakkan,dasar,
+49932.1,x,,kau- + <letak> + -kan,bentukan,[36] kau- + (<all>) + (-i
+49932.2,x,,kau- + <letakkan>,bentukan,[36] kau- + (<all>) + (-i
+49932.3,x,,<kauletak> + -kan,bentukan,[29] [S] -kan + (<all>)
+49932.4,x,,<kauletakk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49933,v,2,kaulewati,dasar,
+49933.1,x,,kau- + <lewat> + -i,bentukan,[36] kau- + (<all>) + (-i
+49933.2,x,,kau- + <lewati>,bentukan,[36] kau- + (<all>) + (-i
+49933.3,x,,<kaulewat> + -i,bentukan,[28] [S] -i + (<all>)
+49933.4,x,,<kaule> + -wati,bentukan,[181] [S] -wati + (<all>)
+,,,,,
+49934,v,2,kaulewatkan,dasar,
+49934.1,x,,kau- + <lewat> + -kan,bentukan,[36] kau- + (<all>) + (-i
+49934.2,x,,kau- + <lewatkan>,bentukan,[36] kau- + (<all>) + (-i
+49934.3,x,,<kaulewat> + -kan,bentukan,[29] [S] -kan + (<all>)
+49934.4,x,,<kaulewatk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49935,k,0,kauli,dasar,
+49935.1,x,,kau- + <l> + -i,bentukan,[36] kau- + (<all>) + (-i
+49935.2,x,,kau- + <li>,bentukan,[36] kau- + (<all>) + (-i
+49935.3,x,,<kaul> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49936,v,19,kaulihat,dasar,
+49936.1,x,,kau- + <lihat>,bentukan,[36] kau- + (<all>) + (-i
+,,,,,
+49937,v,2,kauludahi,dasar,
+49937.1,x,,kau- + <ludah> + -i,bentukan,[36] kau- + (<all>) + (-i
+49937.2,x,,kau- + <ludahi>,bentukan,[36] kau- + (<all>) + (-i
+49937.3,x,,<kauludah> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49938,k,1377,kaum,dasar,
+49938.1,x,,kau- + <m>,bentukan,[36] kau- + (<all>) + (-i
+,,,,,
+49939,k,0,kaum bendoro,dasar,
+,,,,,
+49940,k,0,kaum dagang,dasar,
+,,,,,
+49941,k,0,kaum dahrian,dasar,
+49941.1,x,,<kaum dahri> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49942,k,0,kaum eksekutif,dasar,
+,,,,,
+49943,k,0,kaum ekstremis,dasar,
+49943.1,x,,<kaum ekstremi> + [-is:-s],bentukan,[177] [S] -is + (i)
+49943.2,x,,<kaum ekstrem> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+49944,k,0,kaum halai balai,dasar,
+49944.1,x,,<kaum halai bala> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49945,k,0,kaum ibu,dasar,
+,,,,,
+49946,k,0,kaum kolot,dasar,
+,,,,,
+49947,k,0,kaum konfederasi,dasar,
+49947.1,x,,<kaum konfederas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49948,k,0,kaum mapan,dasar,
+49948.1,x,,<kaum map> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49949,k,0,kaum muda,dasar,
+,,,,,
+49950,k,0,kaum non,dasar,
+,,,,,
+49951,k,0,kaum rendahan,dasar,
+49951.1,x,,<kaum rendah> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49952,k,0,kaum revolusioner,dasar,
+,,,,,
+49953,k,0,kaum unionis,dasar,
+49953.1,x,,<kaum unioni> + [-is:-s],bentukan,[177] [S] -is + (i)
+49953.2,x,,<kaum union> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+49954,k,0,kaum urakan,dasar,
+49954.1,x,,<kaum ura> + -kan,bentukan,[29] [S] -kan + (<all>)
+49954.2,x,,<kaum urak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49955,v,4,kaum-kaum,dasar,
+49955.1,v,,<kaum> [-] <r>,bentukan,[23] [RD] |
+49955.2,x,,kau- + <m> [-] kau- + <r>,bentukan,[36] kau- + (<all>) + (-i
+,,,,,
+49956,v,2,kaumaafkan,dasar,
+49956.1,x,,kau- + <maaf> + -kan,bentukan,[36] kau- + (<all>) + (-i
+49956.2,x,,kau- + <maafkan>,bentukan,[36] kau- + (<all>) + (-i
+49956.3,x,,<kaumaaf> + -kan,bentukan,[29] [S] -kan + (<all>)
+49956.4,x,,<kaumaafk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49957,v,3,kaumakan,dasar,
+49957.1,x,,kau- + <ma> + -kan,bentukan,[36] kau- + (<all>) + (-i
+49957.2,x,,kau- + <makan>,bentukan,[36] kau- + (<all>) + (-i
+49957.3,x,,<kauma> + -kan,bentukan,[29] [S] -kan + (<all>)
+49957.4,x,,<kaumak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49958,v,5,kaumaksud,dasar,
+49958.1,x,,kau- + <maksud>,bentukan,[36] kau- + (<all>) + (-i
+,,,,,
+49959,k,30,kauman,dasar,
+49959.1,x,,kau- + <man>,bentukan,[36] kau- + (<all>) + (-i
+49959.2,x,,<kaum> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49960,v,3,kaumasukkan,dasar,
+49960.1,x,,kau- + <masuk> + -kan,bentukan,[36] kau- + (<all>) + (-i
+49960.2,x,,kau- + <masukkan>,bentukan,[36] kau- + (<all>) + (-i
+49960.3,x,,<kaumasuk> + -kan,bentukan,[29] [S] -kan + (<all>)
+49960.4,x,,<kaumasukk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49961,v,10,kaumiliki,dasar,
+49961.1,x,,kau- + <milik> + -i,bentukan,[36] kau- + (<all>) + (-i
+49961.2,x,,kau- + <miliki>,bentukan,[36] kau- + (<all>) + (-i
+49961.3,x,,<kaumilik> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49962,v,7,kauminta,dasar,
+49962.1,x,,kau- + <minta>,bentukan,[36] kau- + (<all>) + (-i
+,,,,,
+49963,v,13,kaumku,dasar,
+49963.1,x,,<kaum> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+49963.2,x,,kau- + <m> + -ku,bentukan,[36] kau- + (<all>) + (-i
+,,,,,
+49964,v,55,kaumnya,dasar,
+49964.1,v,,<kaum> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+49964.2,x,,kau- + <m> + -nya,bentukan,[36] kau- + (<all>) + (-i
+,,,,,
+49965,k,0,kaung,dasar,
+49965.1,x,,kau- + <ng>,bentukan,[36] kau- + (<all>) + (-i
+,,,,,
+49966,v,5,kaupakai,dasar,
+49966.1,x,,kau- + <paka> + -i,bentukan,[36] kau- + (<all>) + (-i
+49966.2,x,,kau- + <pakai>,bentukan,[36] kau- + (<all>) + (-i
+49966.3,x,,<kaupaka> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49967,v,4,kaupaksa,dasar,
+49967.1,x,,kau- + <paksa>,bentukan,[36] kau- + (<all>) + (-i
+,,,,,
+49968,v,3,kaupandang,dasar,
+49968.1,x,,kau- + <pandang>,bentukan,[36] kau- + (<all>) + (-i
+,,,,,
+49969,v,2,kaupastikan,dasar,
+49969.1,x,,kau- + <pasti> + -kan,bentukan,[36] kau- + (<all>) + (-i
+49969.2,x,,kau- + <pastikan>,bentukan,[36] kau- + (<all>) + (-i
+49969.3,x,,<kaupasti> + -kan,bentukan,[29] [S] -kan + (<all>)
+49969.4,x,,<kaupastik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49970,v,3,kaupegang,dasar,
+49970.1,x,,kau- + <pegang>,bentukan,[36] kau- + (<all>) + (-i
+,,,,,
+49971,v,3,kaupelajari,dasar,
+49971.1,x,,kau- + <pelajar> + -i,bentukan,[36] kau- + (<all>) + (-i
+49971.2,x,,kau- + <pelajari>,bentukan,[36] kau- + (<all>) + (-i
+49971.3,x,,<kaupelajar> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49972,v,2,kaupelihara,dasar,
+49972.1,x,,kau- + <pelihara>,bentukan,[36] kau- + (<all>) + (-i
+,,,,,
+49973,v,2,kaupercaya,dasar,
+49973.1,x,,kau- + <percaya>,bentukan,[36] kau- + (<all>) + (-i
+,,,,,
+49974,v,2,kaupercayai,dasar,
+49974.1,x,,kau- + <percaya> + -i,bentukan,[36] kau- + (<all>) + (-i
+49974.2,x,,kau- + <percayai>,bentukan,[36] kau- + (<all>) + (-i
+49974.3,x,,<kaupercaya> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49975,v,2,kauperhatikan,dasar,
+49975.1,x,,kau- + <perhati> + -kan,bentukan,[36] kau- + (<all>) + (-i
+49975.2,x,,kau- + <perhatikan>,bentukan,[36] kau- + (<all>) + (-i
+49975.3,x,,<kauperhati> + -kan,bentukan,[29] [S] -kan + (<all>)
+49975.4,x,,<kauperhatik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49976,v,2,kauperiksa,dasar,
+49976.1,x,,kau- + <periksa>,bentukan,[36] kau- + (<all>) + (-i
+,,,,,
+49977,v,2,kauperlakukan,dasar,
+49977.1,x,,kau- + <perlaku> + -kan,bentukan,[36] kau- + (<all>) + (-i
+49977.2,x,,kau- + <perlakukan>,bentukan,[36] kau- + (<all>) + (-i
+49977.3,x,,<kauperlaku> + -kan,bentukan,[29] [S] -kan + (<all>)
+49977.4,x,,<kauperlakuk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49978,v,2,kauperlukan,dasar,
+49978.1,x,,kau- + <perlu> + -kan,bentukan,[36] kau- + (<all>) + (-i
+49978.2,x,,kau- + <perlukan>,bentukan,[36] kau- + (<all>) + (-i
+49978.3,x,,<kauperlu> + -kan,bentukan,[29] [S] -kan + (<all>)
+49978.4,x,,<kauperluk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49979,v,3,kauperoleh,dasar,
+49979.1,x,,kau- + <peroleh>,bentukan,[36] kau- + (<all>) + (-i
+,,,,,
+49980,v,3,kaupertahankan,dasar,
+49980.1,x,,kau- + <pertahan> + -kan,bentukan,[36] kau- + (<all>) + (-i
+49980.2,x,,kau- + <pertahankan>,bentukan,[36] kau- + (<all>) + (-i
+49980.3,x,,<kaupertahan> + -kan,bentukan,[29] [S] -kan + (<all>)
+49980.4,x,,<kaupertahank> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49981,v,13,kaupikir,dasar,
+49981.1,x,,kau- + <pikir>,bentukan,[36] kau- + (<all>) + (-i
+,,,,,
+49982,v,5,kaupikirkan,dasar,
+49982.1,x,,kau- + <pikir> + -kan,bentukan,[36] kau- + (<all>) + (-i
+49982.2,x,,kau- + <pikirkan>,bentukan,[36] kau- + (<all>) + (-i
+49982.3,x,,<kaupikir> + -kan,bentukan,[29] [S] -kan + (<all>)
+49982.4,x,,<kaupikirk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49983,v,3,kaupilih,dasar,
+49983.1,x,,kau- + <pilih>,bentukan,[36] kau- + (<all>) + (-i
+,,,,,
+49984,k,0,kaupui,dasar,
+49984.1,x,,kau- + <pu> + -i,bentukan,[36] kau- + (<all>) + (-i
+49984.2,x,,kau- + <pui>,bentukan,[36] kau- + (<all>) + (-i
+49984.3,x,,<kaupu> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49985,v,2,kauputuskan,dasar,
+49985.1,x,,kau- + <putus> + -kan,bentukan,[36] kau- + (<all>) + (-i
+49985.2,x,,kau- + <putuskan>,bentukan,[36] kau- + (<all>) + (-i
+49985.3,x,,<kauputus> + -kan,bentukan,[29] [S] -kan + (<all>)
+49985.4,x,,<kauputusk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49986,k,28,kaur,dasar,
+49986.1,x,,kau- + <r>,bentukan,[36] kau- + (<all>) + (-i
+,,,,,
+49987,v,2,kaurampungkan,dasar,
+49987.1,x,,kau- + <rampung> + -kan,bentukan,[36] kau- + (<all>) + (-i
+49987.2,x,,kau- + <rampungkan>,bentukan,[36] kau- + (<all>) + (-i
+49987.3,x,,<kaurampung> + -kan,bentukan,[29] [S] -kan + (<all>)
+49987.4,x,,<kaurampungk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49988,v,5,kaurasakan,dasar,
+49988.1,x,,kau- + <rasa> + -kan,bentukan,[36] kau- + (<all>) + (-i
+49988.2,x,,kau- + <rasakan>,bentukan,[36] kau- + (<all>) + (-i
+49988.3,x,,<kaurasa> + -kan,bentukan,[29] [S] -kan + (<all>)
+49988.4,x,,<kaurasak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49989,k,0,kaureh,dasar,
+49989.1,x,,kau- + <reh>,bentukan,[36] kau- + (<all>) + (-i
+,,,,,
+49990,v,2,kauremehkan,dasar,
+49990.1,x,,kau- + <remeh> + -kan,bentukan,[36] kau- + (<all>) + (-i
+49990.2,x,,kau- + <remehkan>,bentukan,[36] kau- + (<all>) + (-i
+49990.3,x,,<kauremeh> + -kan,bentukan,[29] [S] -kan + (<all>)
+49990.4,x,,<kauremehk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49991,v,3,kaurencanakan,dasar,
+49991.1,x,,kau- + <rencana> + -kan,bentukan,[36] kau- + (<all>) + (-i
+49991.2,x,,kau- + <rencanakan>,bentukan,[36] kau- + (<all>) + (-i
+49991.3,x,,<kaurencana> + -kan,bentukan,[29] [S] -kan + (<all>)
+49991.4,x,,<kaurencanak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49992,v,2,kaurindukan,dasar,
+49992.1,x,,kau- + <rindu> + -kan,bentukan,[36] kau- + (<all>) + (-i
+49992.2,x,,kau- + <rindukan>,bentukan,[36] kau- + (<all>) + (-i
+49992.3,x,,<kaurindu> + -kan,bentukan,[29] [S] -kan + (<all>)
+49992.4,x,,<kaurinduk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49993,v,4,kaurisaukan,dasar,
+49993.1,x,,kau- + <risau> + -kan,bentukan,[36] kau- + (<all>) + (-i
+49993.2,x,,kau- + <risaukan>,bentukan,[36] kau- + (<all>) + (-i
+49993.3,x,,<kaurisau> + -kan,bentukan,[29] [S] -kan + (<all>)
+49993.4,x,,<kaurisauk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49994,k,235,kaus,dasar,
+49994.1,x,,kau- + <s>,bentukan,[36] kau- + (<all>) + (-i
+,,,,,
+49995,k,0,kaus kaki,dasar,
+49995.1,x,,<kaus kak> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49996,k,0,kaus kutang,dasar,
+,,,,,
+49997,k,0,kaus lampu,dasar,
+,,,,,
+49998,k,0,kaus oblong,dasar,
+,,,,,
+49999,k,0,kaus pendek,dasar,
+,,,,,
+50000,k,0,kaus polo,dasar,
+,,,,,
+50001,k,0,kaus potong,dasar,
+,,,,,
+50002,v,7,kaus-kaus,dasar,
+50002.1,v,,<kaus> [-] <r>,bentukan,[23] [RD] |
+50002.2,x,,kau- + <s> [-] kau- + <r>,bentukan,[36] kau- + (<all>) + (-i
+,,,,,
+50003,k,6,kausa,dasar,
+50003.1,x,,kau- + <sa>,bentukan,[36] kau- + (<all>) + (-i
+,,,,,
+50004,k,48,kausal,dasar,
+50004.1,x,,kau- + <sal>,bentukan,[36] kau- + (<all>) + (-i
+,,,,,
+50005,k,56,kausalitas,dasar,
+50005.1,x,,kau- + <salitas>,bentukan,[36] kau- + (<all>) + (-i
+50005.2,v,,<kausal> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+50006,v,2,kausamakan,dasar,
+50006.1,x,,kau- + <sama> + -kan,bentukan,[36] kau- + (<all>) + (-i
+50006.2,x,,kau- + <samakan>,bentukan,[36] kau- + (<all>) + (-i
+50006.3,x,,<kausama> + -kan,bentukan,[29] [S] -kan + (<all>)
+50006.4,x,,<kausamak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50007,v,3,kausampaikan,dasar,
+50007.1,x,,kau- + <sampai> + -kan,bentukan,[36] kau- + (<all>) + (-i
+50007.2,x,,kau- + <sampaikan>,bentukan,[36] kau- + (<all>) + (-i
+50007.3,x,,<kausampai> + -kan,bentukan,[29] [S] -kan + (<all>)
+50007.4,x,,<kausampaik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50008,v,3,kausangka,dasar,
+50008.1,x,,kau- + <sangka>,bentukan,[36] kau- + (<all>) + (-i
+,,,,,
+50009,c,3,kausar,dasar,alkausar
+50009.1,x,,kau- + <sar>,bentukan,[36] kau- + (<all>) + (-i
+,,,,,
+50010,k,2,kausatif,dasar,
+50010.1,x,,kau- + <satif>,bentukan,[36] kau- + (<all>) + (-i
+,,,,,
+50011,v,6,kausebut,dasar,
+50011.1,x,,kau- + <sebut>,bentukan,[36] kau- + (<all>) + (-i
+,,,,,
+50012,v,2,kausediakan,dasar,
+50012.1,x,,kau- + <sedia> + -kan,bentukan,[36] kau- + (<all>) + (-i
+50012.2,x,,kau- + <sediakan>,bentukan,[36] kau- + (<all>) + (-i
+50012.3,x,,<kausedia> + -kan,bentukan,[29] [S] -kan + (<all>)
+50012.4,x,,<kausediak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+50013,v,2,kauselesaikan,dasar,
+50013.1,x,,kau- + <selesai> + -kan,bentukan,[36] kau- + (<all>) + (-i
+50013.2,x,,kau- + <selesaikan>,bentukan,[36] kau- + (<all>) + (-i
+50013.3,x,,<kauselesai> + -kan,bentukan,[29] [S] -kan + (<all>)
+50013.4,x,,<kauselesaik> + -an,bentukan,[38] [S] -an + (<all>)

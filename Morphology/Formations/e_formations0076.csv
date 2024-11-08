@@ -1,0 +1,1620 @@
+Nomor,KP,Jumlah,Entri,Tipe,Pembentukan
+34442,k,3,fibril,dasar,
+,,,,,
+34443,k,4,fibrilasi,dasar,
+34443.1,x,,<fibrilas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34444,k,7,fibrin,dasar,
+,,,,,
+34445,k,11,fibrinogen,dasar,
+,,,,,
+34446,k,2,fibrinolisis,dasar,
+34446.1,x,,<fibrinolisi> + [-is:-s],bentukan,[177] [S] -is + (i)
+34446.2,x,,<fibrinolis> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+34447,v,4,fibrinolitik,dasar,
+,,,,,
+34448,k,8,fibroblas,dasar,
+,,,,,
+34449,k,3,fibroid,dasar,
+34449.1,x,,<fibr> + -oid,bentukan,[209] [S] -oid + (<all>)
+,,,,,
+34450,k,0,fibrokartilago,dasar,
+,,,,,
+34451,k,0,fibrokistik,dasar,
+,,,,,
+34452,v,2,fibroma,dasar,
+,,,,,
+34453,k,0,fibromialgia,dasar,
+,,,,,
+34454,v,3,fibronektin,dasar,
+,,,,,
+34455,v,2,fibroplasia,dasar,
+,,,,,
+34456,k,8,fibrosa,dasar,
+,,,,,
+34457,k,21,fibrosis,dasar,
+34457.1,x,,<fibrosi> + [-is:-s],bentukan,[177] [S] -is + (i)
+34457.2,x,,<fibros> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+34458,k,0,fibroskan,dasar,
+34458.1,x,,<fibros> + -kan,bentukan,[29] [S] -kan + (<all>)
+34458.2,x,,<fibrosk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+34459,v,2,fibrotik,dasar,
+,,,,,
+34460,k,2,fibula,dasar,
+,,,,,
+34461,k,0,fidah,dasar,
+,,,,,
+34462,k,2,fidelitas,dasar,
+34462.1,x,,<fidel> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+34463,k,0,fider,dasar,
+,,,,,
+34464,v,2,fidi,dasar,
+34464.1,x,,<fid> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34465,k,0,fidiah,dasar,
+34465.1,x,,<fid> + -iah,bentukan,[175] [S] -iah + (<others>)
+,,,,,
+34466,k,0,fidlot,dasar,
+,,,,,
+34467,k,31,fidusia,dasar,
+,,,,,
+34468,k,0,fidusiarius,dasar,
+,,,,,
+34469,c,5,fidyah,dasar,fidiah
+,,,,,
+34470,v,116,fifa,dasar,
+,,,,,
+34471,k,358,figur,dasar,
+,,,,,
+34472,k,0,figur bermakna,dasar,
+,,,,,
+34473,k,0,figur karakter,dasar,
+,,,,,
+34474,k,0,figur publik,dasar,
+,,,,,
+34475,v,28,figur-figur,dasar,
+34475.1,v,,<figur> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+34476,k,4,figura,dasar,
+,,,,,
+34477,v,3,figural,dasar,
+,,,,,
+34478,k,18,figuran,dasar,
+34478.1,v,,<figur> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+34479,k,10,figuratif,dasar,
+,,,,,
+34480,v,3,figuritas,dasar,
+34480.1,v,,<figur> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+34481,v,8,figurnya,dasar,
+34481.1,v,,<figur> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+34482,k,0,fiil,dasar,
+,,,,,
+34483,k,0,fiji,dasar,
+34483.1,x,,<fij> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34484,k,5,fika,dasar,
+,,,,,
+34485,k,103,fikih,dasar,
+,,,,,
+34486,c,19,fikir,dasar,pikir
+,,,,,
+34487,t,30,fikiran,dasar,pikiran
+34487.1,v,,<fikir> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+34488,t,3,fikirannya,dasar,pikirannya
+34488.1,x,,<fikiran> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+34488.2,v,,<fikir> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+34489,k,0,fikli,dasar,
+34489.1,x,,<fikl> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34490,k,0,fikokoloid,dasar,
+34490.1,x,,<fikokol> + -oid,bentukan,[209] [S] -oid + (<all>)
+,,,,,
+34491,k,0,fikologi,dasar,
+34491.1,x,,<fikolog> + -i,bentukan,[28] [S] -i + (<all>)
+34491.2,x,,<fiko> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+34492,k,0,fikosianin,dasar,
+,,,,,
+34493,k,3,fikrah,dasar,
+,,,,,
+34494,k,33,fiksasi,dasar,
+34494.1,x,,<fiksas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34495,k,0,fiksasi nitrogen,dasar,
+,,,,,
+34496,v,2,fiksatif,dasar,
+,,,,,
+34497,k,220,fiksi,dasar,
+34497.1,x,,<fiks> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34498,k,0,fiksi ilmiah,dasar,
+34498.1,x,,<fiksi ilm> + -iah,bentukan,[175] [S] -iah + (<others>)
+,,,,,
+34499,k,0,fiksi mini,dasar,
+34499.1,x,,<fiksi min> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34500,k,0,fiksi sains,dasar,
+,,,,,
+34501,v,2,fiksi-fiksi,dasar,
+34501.1,v,,<fiksi> [-] <r>,bentukan,[23] [RD] |
+34501.2,x,,<fiks> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+34502,v,9,fiksinya,dasar,
+34502.1,v,,<fiksi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+34502.2,x,,<fiks> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+34503,v,8,fiksional,dasar,
+,,,,,
+34504,k,2,fiksionalisasi,dasar,
+34504.1,x,,<fiksionalisas> + -i,bentukan,[28] [S] -i + (<all>)
+34504.2,x,,<fiksionali> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+34504.3,x,,<fiksionalis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+34504.4,v,,<fiksional> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+34505,k,115,fiktif,dasar,
+,,,,,
+34506,k,0,fikus,dasar,
+,,,,,
+34507,k,13,filamen,dasar,
+,,,,,
+34508,k,0,filamen poliester,dasar,
+,,,,,
+34509,t,2,filantrofi,dasar,filantropi
+34509.1,x,,<filantrof> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34510,k,0,filantrop,dasar,
+,,,,,
+34511,k,35,filantropi,dasar,
+34511.1,x,,<filantrop> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34512,k,19,filantropis,dasar,
+34512.1,v,,<filantropi> + [-is:-s],bentukan,[177] [S] -is + (i)
+34512.2,x,,<filantrop> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+34513,k,2,filaria,dasar,
+,,,,,
+34514,k,9,filariasis,dasar,
+34514.1,x,,<filariasi> + [-is:-s],bentukan,[177] [S] -is + (i)
+34514.2,x,,<filarias> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+34515,k,11,filateli,dasar,
+34515.1,x,,<filatel> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34516,k,0,filatelik,dasar,
+,,,,,
+34517,k,8,filatelis,dasar,
+34517.1,v,,<filateli> + [-is:-s],bentukan,[177] [S] -is + (i)
+34517.2,x,,<filatel> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+34518,k,0,filem,dasar,
+,,,,,
+34519,k,0,filemafobia,dasar,
+34519.1,x,,<filema> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+34520,k,4,filet,dasar,
+,,,,,
+34521,k,0,filet darne,dasar,
+,,,,,
+34522,k,0,filet gujon,dasar,
+,,,,,
+34523,k,0,filet gulung,dasar,
+,,,,,
+34524,k,0,filet lipat,dasar,
+,,,,,
+34525,k,0,filet popit,dasar,
+,,,,,
+34526,k,0,filharmoni,dasar,
+34526.1,x,,<filharmon> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34527,k,7,filial,dasar,
+,,,,,
+34528,k,0,filibuster,dasar,
+,,,,,
+34529,k,717,filipina,dasar,
+,,,,,
+34530,t,3,filipino,dasar,filipina
+,,,,,
+34531,k,0,filipus,dasar,
+,,,,,
+34532,k,0,filisida,dasar,
+,,,,,
+34533,k,0,filisida altruistik,dasar,
+,,,,,
+34534,t,8,fillet,dasar,filet
+,,,,,
+34535,k,1671,film,dasar,
+,,,,,
+34536,k,0,film adaptasi,dasar,
+34536.1,x,,<film adaptas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34537,k,0,film aksi hidup,dasar,
+,,,,,
+34538,k,0,film alternatif,dasar,
+,,,,,
+34539,k,0,film arus utama,dasar,
+,,,,,
+34540,k,0,film autobiografi,dasar,
+34540.1,x,,<film autobiograf> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34541,k,0,film b,dasar,
+,,,,,
+34542,k,0,film biografi,dasar,
+34542.1,x,,<film biograf> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34543,k,0,film biru,dasar,
+,,,,,
+34544,k,0,film bisu,dasar,
+,,,,,
+34545,k,0,film dialog,dasar,
+,,,,,
+34546,k,0,film dokumenter,dasar,
+,,,,,
+34547,k,0,film eksploitasi,dasar,
+34547.1,x,,<film eksploitas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34548,k,0,film fiksi mini,dasar,
+34548.1,x,,<film fiksi min> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34549,k,0,film formulaik,dasar,
+,,,,,
+34550,k,0,film horor,dasar,
+,,,,,
+34551,k,0,film independen,dasar,
+,,,,,
+34552,k,0,film indi,dasar,
+34552.1,x,,<film ind> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34553,k,0,film kartun,dasar,
+,,,,,
+34554,k,0,film kelas b,dasar,
+,,,,,
+34555,k,0,film keluarga,dasar,
+,,,,,
+34556,k,0,film komedi,dasar,
+34556.1,x,,<film komed> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34557,k,0,film kultus,dasar,
+,,,,,
+34558,k,0,film laga,dasar,
+,,,,,
+34559,k,0,film laris,dasar,
+34559.1,x,,<film lari> + [-is:-s],bentukan,[177] [S] -is + (i)
+34559.2,x,,<film lar> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+34560,k,0,film lepasan,dasar,
+34560.1,x,,<film lepas> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+34561,k,0,film mini,dasar,
+34561.1,x,,<film min> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34562,k,0,film monster,dasar,
+,,,,,
+34563,k,0,film murahan,dasar,
+34563.1,x,,<film murah> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+34564,k,0,film omnibus,dasar,
+,,,,,
+34565,k,0,film panas,dasar,
+,,,,,
+34566,k,0,film pendek,dasar,
+,,,,,
+34567,k,0,film porno,dasar,
+,,,,,
+34568,k,0,film seni,dasar,
+34568.1,x,,<film sen> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34569,k,0,film seri,dasar,
+34569.1,x,,<film ser> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34570,k,0,film serial,dasar,
+,,,,,
+34571,k,0,film silat,dasar,
+,,,,,
+34572,k,0,film tambahan,dasar,
+34572.1,x,,<film tambah> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+34573,k,0,film warna,dasar,
+,,,,,
+34574,k,0,film warna inframerah,dasar,
+,,,,,
+34575,v,418,film-film,dasar,
+34575.1,v,,<film> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+34576,k,7,filmis,dasar,
+34576.1,x,,<filmi> + [-is:-s],bentukan,[177] [S] -is + (i)
+34576.2,v,,<film> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+34577,k,0,filmisasi,dasar,
+34577.1,x,,<filmisas> + -i,bentukan,[28] [S] -i + (<all>)
+34577.2,x,,<filmi> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+34577.3,x,,<filmis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+34577.4,v,,<film> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+34578,k,3,filmografi,dasar,
+34578.1,x,,<filmograf> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34579,v,2,filmografinya,dasar,
+34579.1,v,,<filmografi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+34579.2,x,,<filmograf> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+34580,k,0,filo,dasar,
+,,,,,
+34581,k,0,filodendron,dasar,
+,,,,,
+34582,k,0,filodia,dasar,
+,,,,,
+34583,k,0,filofobia,dasar,
+34583.1,x,,<filo> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+34584,k,0,filogenesis,dasar,
+34584.1,x,,<filogenesi> + [-is:-s],bentukan,[177] [S] -is + (i)
+34584.2,x,,<filogenes> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+34585,k,11,filogenetik,dasar,
+,,,,,
+34586,k,13,filogenetika,dasar,
+,,,,,
+34587,k,4,filogeni,dasar,
+34587.1,x,,<filogen> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34588,k,0,filoginis,dasar,
+34588.1,x,,<filogini> + [-is:-s],bentukan,[177] [S] -is + (i)
+34588.2,x,,<filogin> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+34589,k,0,filokladia,dasar,
+,,,,,
+34590,k,0,filokuinon,dasar,
+,,,,,
+34591,k,9,filolog,dasar,
+,,,,,
+34592,k,26,filologi,dasar,
+34592.1,x,,<filolog> + -i,bentukan,[28] [S] -i + (<all>)
+34592.2,x,,<filo> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+34593,k,6,filologis,dasar,
+34593.1,v,,<filologi> + [-is:-s],bentukan,[177] [S] -is + (i)
+34593.2,x,,<filolog> + -is,bentukan,[178] [S] -is + (<others>)
+34593.3,x,,<filo> + -logi+-s,bentukan,[194] [MS] -logi+-s + (<all>)
+,,,,,
+34594,v,5,filomena,dasar,
+,,,,,
+34595,k,0,filopur,dasar,
+,,,,,
+34596,c,33,filosof,dasar,filsuf
+,,,,,
+34597,k,328,filosofi,dasar,
+34597.1,x,,<filosof> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34598,v,29,filosofinya,dasar,
+34598.1,v,,<filosofi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+34598.2,x,,<filosof> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+34599,k,184,filosofis,dasar,
+34599.1,v,,<filosofi> + [-is:-s],bentukan,[177] [S] -is + (i)
+34599.2,x,,<filosof> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+34600,v,7,filosofisnya,dasar,
+34600.1,v,,<filosofis> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+34600.2,x,,<filosofi> + [-is:-s] + -nya,bentukan,[177] [S] -is + (i) => [34] [SFS] -nya + (<all>)
+34600.3,x,,<filosof> + -is + -nya,bentukan,[178] [S] -is + (<others>) => [34] [SFS] -nya + (<all>)
+,,,,,
+34601,k,0,filosofobia,dasar,
+34601.1,x,,<filoso> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+34602,t,2,filosopi,dasar,filosofi
+34602.1,x,,<filosop> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34603,t,2,filsafah,dasar,filsafat
+,,,,,
+34604,k,306,filsafat,dasar,
+,,,,,
+34605,v,3,filsafat-filsafat,dasar,
+34605.1,v,,<filsafat> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+34606,k,8,filsafati,dasar,
+34606.1,x,,<filsafat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34607,v,10,filsafatnya,dasar,
+34607.1,v,,<filsafat> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+34608,k,101,filsuf,dasar,
+,,,,,
+34609,v,4,filsuf-filsuf,dasar,
+34609.1,v,,<filsuf> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+34610,v,2,filsuf-filsufan,dasar,
+34610.1,v,,<filsuf> [-] <r> + -an,bentukan,[23] [RD] |
+,,,,,
+34611,k,186,filter,dasar,
+,,,,,
+34612,k,0,filter biologis,dasar,
+34612.1,x,,<filter biologi> + [-is:-s],bentukan,[177] [S] -is + (i)
+34612.2,x,,<filter biolog> + -is,bentukan,[178] [S] -is + (<others>)
+34612.3,x,,<filter bio> + -logi+-s,bentukan,[194] [MS] -logi+-s + (<all>)
+,,,,,
+34613,k,0,filter mekanis,dasar,
+34613.1,x,,<filter mekani> + [-is:-s],bentukan,[177] [S] -is + (i)
+34613.2,x,,<filter mekan> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+34614,k,0,filter optik,dasar,
+,,,,,
+34615,v,2,filter-filter,dasar,
+34615.1,v,,<filter> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+34616,v,10,filterisasi,dasar,
+34616.1,x,,<filterisas> + -i,bentukan,[28] [S] -i + (<all>)
+34616.2,x,,<filteri> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+34616.3,x,,<filteris> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+34616.4,v,,<filter> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+34617,v,6,filternya,dasar,
+34617.1,v,,<filter> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+34618,k,29,filtrasi,dasar,
+34618.1,x,,<filtras> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34619,k,36,filtrat,dasar,
+,,,,,
+34620,v,8,filtratnya,dasar,
+34620.1,v,,<filtrat> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+34621,k,0,filtrum,dasar,
+,,,,,
+34622,k,5,filum,dasar,
+,,,,,
+34623,k,2,fimbria,dasar,
+,,,,,
+34624,k,0,fimbrioplasti,dasar,
+34624.1,x,,<fimbrioplast> + -i,bentukan,[28] [S] -i + (<all>)
+34624.2,x,,<fimbrio> + -plasti,bentukan,[199] [S] -plasti + (<all>)
+,,,,,
+34625,k,1112,final,dasar,
+,,,,,
+34626,k,152,finalis,dasar,
+34626.1,x,,<finali> + [-is:-s],bentukan,[177] [S] -is + (i)
+34626.2,v,,<final> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+34627,k,74,finalisasi,dasar,
+34627.1,x,,<finalisas> + -i,bentukan,[28] [S] -i + (<all>)
+34627.2,x,,<finali> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+34627.3,x,,<finalis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+34627.4,v,,<final> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+34628,v,6,finalkan,dasar,
+34628.1,v,,<final> + -kan,bentukan,[29] [S] -kan + (<all>)
+34628.2,x,,<finalk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+34629,v,25,finalnya,dasar,
+34629.1,v,,<final> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+34630,k,807,finansial,dasar,
+,,,,,
+34631,v,19,finansialnya,dasar,
+34631.1,v,,<finansial> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+34632,k,0,finir,dasar,
+,,,,,
+34633,k,249,finis,dasar,
+34633.1,x,,<fini> + [-is:-s],bentukan,[177] [S] -is + (i)
+34633.2,x,,<fin> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+34634,v,2,finisnya,dasar,
+34634.1,v,,<finis> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+34634.2,x,,<fini> + [-is:-s] + -nya,bentukan,[177] [S] -is + (i) => [34] [SFS] -nya + (<all>)
+34634.3,x,,<fin> + -is + -nya,bentukan,[178] [S] -is + (<others>) => [34] [SFS] -nya + (<all>)
+,,,,,
+34635,k,98,finlandia,dasar,
+,,,,,
+34636,v,6,fintek,dasar,
+,,,,,
+34637,k,0,fiolaks,dasar,
+,,,,,
+34638,k,0,firajullah,dasar,
+34638.1,x,,<firajul> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+34639,k,83,firasat,dasar,
+,,,,,
+34640,v,12,firasatnya,dasar,
+34640.1,v,,<firasat> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+34641,k,34,firaun,dasar,
+,,,,,
+34642,k,0,firauniah,dasar,
+34642.1,x,,<firaun> + -iah,bentukan,[175] [S] -iah + (<others>)
+,,,,,
+34643,k,165,firdaus,dasar,
+,,,,,
+34644,k,4,firdausi,dasar,
+34644.1,x,,<firdaus> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34645,k,0,firkah,dasar,
+34645.1,x,,<fir> + -kah,bentukan,[30] [FS] -kah + (<all>)
+,,,,,
+34646,k,152,firma,dasar,
+,,,,,
+34647,v,2,firma-firma,dasar,
+34647.1,v,,<firma> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+34648,k,178,firman,dasar,
+34648.1,x,,<firm> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+34649,v,4,firman-firman,dasar,
+34649.1,v,,<firman> [-] <r>,bentukan,[23] [RD] |
+34649.2,x,,<firm> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+34650,v,6,firmannya,dasar,
+34650.1,v,,<firman> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+34650.2,x,,<firm> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+34651,k,0,firn,dasar,
+,,,,,
+34652,k,0,fisalin,dasar,
+,,,,,
+34653,k,3,fisi,dasar,
+34653.1,x,,<fis> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34654,k,5,fisibel,dasar,
+,,,,,
+34655,k,3,fisibilitas,dasar,
+34655.1,x,,<fisibil> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+34656,k,2891,fisik,dasar,
+,,,,,
+34657,k,272,fisika,dasar,
+,,,,,
+34658,k,0,fisika awan,dasar,
+34658.1,x,,<fisika aw> + -an,bentukan,[38] [S] -an + (<all>)
+34658.2,x,,<fisika a> + -wan,bentukan,[180] [S] -wan + (<others>)
+34658.3,x,,<fisika > + [-wan:-awan],bentukan,[18000001] [S] -wan + (<all>)
+,,,,,
+34659,v,17,fisikal,dasar,
+,,,,,
+34660,v,6,fisikanya,dasar,
+34660.1,v,,<fisika> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+34661,k,27,fisikawan,dasar,
+34661.1,x,,<fisikaw> + -an,bentukan,[38] [S] -an + (<all>)
+34661.2,v,,<fisika> + -wan,bentukan,[180] [S] -wan + (<others>)
+34661.3,x,,<fisik> + [-wan:-awan],bentukan,[18000001] [S] -wan + (<all>)
+,,,,,
+34662,v,9,fisikku,dasar,
+34662.1,v,,<fisik> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+34663,v,6,fisikmu,dasar,
+34663.1,v,,<fisik> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+,,,,,
+34664,v,252,fisiknya,dasar,
+34664.1,v,,<fisik> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+34665,v,3,fisil,dasar,
+,,,,,
+34666,k,0,fisin,dasar,
+,,,,,
+34667,k,0,fisiognomi,dasar,
+34667.1,x,,<fisiognom> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34668,k,0,fisiognomis,dasar,
+34668.1,v,,<fisiognomi> + [-is:-s],bentukan,[177] [S] -is + (i)
+34668.2,x,,<fisiognom> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+34669,k,7,fisiografi,dasar,
+34669.1,x,,<fisiograf> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34670,t,3,fisiografis,dasar,fisiografi
+34670.1,v,,<fisiografi> + [-is:-s],bentukan,[177] [S] -is + (i)
+34670.2,x,,<fisiograf> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+34671,k,0,fisiokrat,dasar,
+,,,,,
+34672,k,109,fisiologi,dasar,
+34672.1,x,,<fisiolog> + -i,bentukan,[28] [S] -i + (<all>)
+34672.2,x,,<fisio> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+34673,k,222,fisiologis,dasar,
+34673.1,v,,<fisiologi> + [-is:-s],bentukan,[177] [S] -is + (i)
+34673.2,x,,<fisiolog> + -is,bentukan,[178] [S] -is + (<others>)
+34673.3,x,,<fisio> + -logi+-s,bentukan,[194] [MS] -logi+-s + (<all>)
+,,,,,
+34674,v,10,fisiologisnya,dasar,
+34674.1,v,,<fisiologis> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+34674.2,x,,<fisiologi> + [-is:-s] + -nya,bentukan,[177] [S] -is + (i) => [34] [SFS] -nya + (<all>)
+34674.3,x,,<fisiolog> + -is + -nya,bentukan,[178] [S] -is + (<others>) => [34] [SFS] -nya + (<all>)
+34674.4,x,,<fisio> + -logi+-s + -nya,bentukan,[194] [MS] -logi+-s + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+34675,k,34,fisioterapi,dasar,
+34675.1,x,,<fisioterap> + -i,bentukan,[28] [S] -i + (<all>)
+34675.2,x,,<fisio> + -terapi,bentukan,[215] [S] -terapi + (<all>)
+,,,,,
+34676,v,18,fisioterapis,dasar,
+34676.1,v,,<fisioterapi> + [-is:-s],bentukan,[177] [S] -is + (i)
+34676.2,x,,<fisioterap> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+34677,v,2,fisioterapisnya,dasar,
+34677.1,v,,<fisioterapis> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+34677.2,x,,<fisioterapi> + [-is:-s] + -nya,bentukan,[177] [S] -is + (i) => [34] [SFS] -nya + (<all>)
+34677.3,x,,<fisioterap> + -is + -nya,bentukan,[178] [S] -is + (<others>) => [34] [SFS] -nya + (<all>)
+,,,,,
+34678,v,81,fisip,dasar,
+,,,,,
+34679,v,16,fisipol,dasar,
+,,,,,
+34680,k,37,fisis,dasar,
+34680.1,x,,<fisi> + [-is:-s],bentukan,[177] [S] -is + (i)
+34680.2,x,,<fis> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+34681,k,478,fiskal,dasar,
+,,,,,
+34682,v,9,fiskalnya,dasar,
+34682.1,v,,<fiskal> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+34683,k,7,fiskus,dasar,
+,,,,,
+34684,k,0,fisoklis,dasar,
+34684.1,x,,<fisokli> + [-is:-s],bentukan,[177] [S] -is + (i)
+34684.2,x,,<fisokl> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+34685,k,0,fisoklistus,dasar,
+,,,,,
+34686,k,0,fisostoma,dasar,
+,,,,,
+34687,k,0,fisostomus,dasar,
+,,,,,
+34688,k,4,fistula,dasar,
+,,,,,
+34689,k,0,fistula ani,dasar,
+34689.1,x,,<fistula an> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34690,k,0,fistula anorektal,dasar,
+,,,,,
+34691,k,0,fistula in ano,dasar,
+,,,,,
+34692,v,2,fistulografi,dasar,
+34692.1,x,,<fistulograf> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34693,d,0,fisura ani,dasar,
+34693.1,x,,<fisura an> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34694,k,275,fit,dasar,
+,,,,,
+34695,k,0,fitase,dasar,
+34695.1,x,,<fit> + -ase,bentukan,[210] [S] -ase + (<all>)
+,,,,,
+34696,k,0,fitilmenakuinon,dasar,
+,,,,,
+34697,k,0,fiting,dasar,
+,,,,,
+34698,k,242,fitnah,dasar,
+,,,,,
+34699,v,17,fitnah-fitnah,dasar,
+34699.1,v,,<fitnah> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+34700,v,3,fitnahan,dasar,
+34700.1,v,,<fitnah> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+34701,v,3,fitnahnya,dasar,
+34701.1,v,,<fitnah> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+34702,k,0,fitoakumulasi,dasar,
+34702.1,x,,<fitoakumulas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34703,k,2,fitoaleksin,dasar,
+,,,,,
+34704,k,0,fitobiofisika,dasar,
+,,,,,
+34705,k,0,fitoekstraksi,dasar,
+34705.1,x,,<fitoekstraks> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34706,k,2,fitoestrogen,dasar,
+,,,,,
+34707,k,2,fitofag,dasar,
+,,,,,
+34708,k,8,fitofarmaka,dasar,
+,,,,,
+34709,k,0,fitofarmasi,dasar,
+34709.1,x,,<fitofarmas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34710,k,0,fitogeni,dasar,
+34710.1,x,,<fitogen> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34711,k,0,fitogenik,dasar,
+,,,,,
+34712,k,0,fitogeografi,dasar,
+34712.1,x,,<fitogeograf> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34713,k,0,fitohormon,dasar,
+,,,,,
+34714,k,0,fitokemikal,dasar,
+,,,,,
+34715,k,39,fitokimia,dasar,
+,,,,,
+34716,k,0,fitokrom,dasar,
+,,,,,
+34717,k,3,fitol,dasar,
+,,,,,
+34718,k,0,fitologi,dasar,
+34718.1,x,,<fitolog> + -i,bentukan,[28] [S] -i + (<all>)
+34718.2,x,,<fito> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+34719,k,0,fitometer,dasar,
+34719.1,x,,<fito> + -meter,bentukan,[189] [S] -meter + (<all>)
+,,,,,
+34720,k,0,fiton,dasar,
+,,,,,
+34721,k,3,fitonutrien,dasar,
+,,,,,
+34722,k,0,fitonutrisi,dasar,
+34722.1,x,,<fitonutris> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34723,k,0,fitopatogen,dasar,
+,,,,,
+34724,k,0,fitopatogenik,dasar,
+,,,,,
+34725,k,0,fitopatologi,dasar,
+34725.1,x,,<fitopatolog> + -i,bentukan,[28] [S] -i + (<all>)
+34725.2,x,,<fitopato> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+34726,k,18,fitoplankton,dasar,
+,,,,,
+34727,k,0,fitoplasma,dasar,
+,,,,,
+34728,k,3,fitoremediasi,dasar,
+34728.1,x,,<fitoremedias> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34729,v,2,fitosanitari,dasar,
+34729.1,x,,<fitosanitar> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34730,k,0,fitosanitasi,dasar,
+34730.1,x,,<fitosanitas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34731,k,0,fitososiologi,dasar,
+34731.1,x,,<fitososiolog> + -i,bentukan,[28] [S] -i + (<all>)
+34731.2,x,,<fitososio> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+34732,k,0,fitostabilisasi,dasar,
+34732.1,x,,<fitostabilisas> + -i,bentukan,[28] [S] -i + (<all>)
+34732.2,x,,<fitostabili> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+34732.3,x,,<fitostabilis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+34732.4,x,,<fitostabil> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+34733,k,2,fitosterol,dasar,
+34733.1,x,,<fito> + -sterol,bentukan,[208] [S] -sterol + (<all>)
+,,,,,
+34734,k,0,fitostrot,dasar,
+,,,,,
+34735,k,2,fitoterapi,dasar,
+34735.1,x,,<fitoterap> + -i,bentukan,[28] [S] -i + (<all>)
+34735.2,x,,<fito> + -terapi,bentukan,[215] [S] -terapi + (<all>)
+,,,,,
+34736,k,0,fitotoksin,dasar,
+,,,,,
+34737,v,3,fitotoksisitas,dasar,
+34737.1,x,,<fitotoksis> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+34738,k,0,fitotoksoid,dasar,
+34738.1,x,,<fitotoks> + -oid,bentukan,[209] [S] -oid + (<all>)
+,,,,,
+34739,k,0,fitotopografi,dasar,
+34739.1,x,,<fitotopograf> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34740,k,0,fitotron,dasar,
+,,,,,
+34741,k,565,fitrah,dasar,
+,,,,,
+34742,v,22,fitrahnya,dasar,
+34742.1,v,,<fitrah> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+34743,k,825,fitri,dasar,
+34743.1,x,,<fitr> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34744,k,1013,fitur,dasar,
+,,,,,
+34745,k,0,fitur invarian,dasar,
+34745.1,x,,<fitur invari> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+34746,v,184,fitur-fitur,dasar,
+34746.1,v,,<fitur> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+34747,v,11,fitur-fiturnya,dasar,
+34747.1,x,,<fitur> [-] <r> + -nya,bentukan,[23] [RD] |
+34747.2,v,,<fitur> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+34748,v,52,fiturnya,dasar,
+34748.1,v,,<fitur> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+34749,k,0,flaf,dasar,
+,,,,,
+34750,k,2,flagela,dasar,
+,,,,,
+34751,k,0,flakon,dasar,
+,,,,,
+34752,k,0,flaks,dasar,
+,,,,,
+34753,k,0,flambe,dasar,
+,,,,,
+34754,k,29,flamboyan,dasar,
+34754.1,x,,<flamboy> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+34755,k,4,flamingo,dasar,
+,,,,,
+34756,k,0,flan,dasar,
+34756.1,x,,<fl> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+34757,k,13,flanel,dasar,
+,,,,,
+34758,k,0,flanel katun,dasar,
+,,,,,
+34759,k,0,flanelet,dasar,
+,,,,,
+34760,k,0,flares,dasar,
+,,,,,
+34761,k,109,flat,dasar,
+,,,,,
+34762,v,4,flatnya,dasar,
+34762.1,v,,<flat> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+34763,k,0,flatulen,dasar,
+,,,,,
+34764,k,0,flatulens,dasar,
+,,,,,
+34765,k,0,flatulensi,dasar,
+34765.1,x,,<flatulens> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34766,k,0,flau,dasar,
+,,,,,
+34767,v,5,flavanoid,dasar,
+34767.1,x,,<flavan> + -oid,bentukan,[209] [S] -oid + (<all>)
+,,,,,
+34768,v,3,flavanol,dasar,
+,,,,,
+34769,v,5,flavanon,dasar,
+,,,,,
+34770,k,2,flavin,dasar,
+,,,,,
+34771,v,2,flaviviridae,dasar,
+,,,,,
+34772,k,7,flavon,dasar,
+,,,,,
+34773,k,95,flavonoid,dasar,
+34773.1,x,,<flavon> + -oid,bentukan,[209] [S] -oid + (<all>)
+,,,,,
+34774,v,7,flavonol,dasar,
+,,,,,
+34775,k,0,flavoprotein,dasar,
+,,,,,
+34776,k,0,flebitis,dasar,
+34776.1,x,,<flebiti> + [-is:-s],bentukan,[177] [S] -is + (i)
+34776.2,x,,<flebit> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+34777,k,0,flegma,dasar,
+,,,,,
+34778,k,0,flegmatis,dasar,
+34778.1,x,,<flegmati> + [-is:-s],bentukan,[177] [S] -is + (i)
+34778.2,x,,<flegmat> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+34779,k,21,flek,dasar,
+,,,,,
+34780,v,4,flek-flek,dasar,
+34780.1,v,,<flek> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+34781,k,9,fleksi,dasar,
+34781.1,x,,<fleks> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34782,k,395,fleksibel,dasar,
+,,,,,
+34783,t,9,fleksibelitas,dasar,fleksibilitas
+34783.1,x,,<fleksibel> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+34784,k,221,fleksibilitas,dasar,
+34784.1,x,,<fleksibil> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+34785,k,0,fleksibilitas dinamis,dasar,
+34785.1,x,,<fleksibilitas dinami> + [-is:-s],bentukan,[177] [S] -is + (i)
+34785.2,x,,<fleksibilitas dinam> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+34786,k,0,fleksibilitas kognitif,dasar,
+,,,,,
+34787,v,3,fleksibilitasnya,dasar,
+34787.1,v,,<fleksibilitas> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+34787.2,x,,<fleksibil> + -itas + -nya,bentukan,[205] [S] -itas + (<others>) => [34] [SFS] -nya + (<all>)
+,,,,,
+34788,k,0,fleksitarian,dasar,
+34788.1,x,,<fleksitari> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+34789,k,0,fleksitarianisme,dasar,
+34789.1,v,,<fleksitarian> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+34790,k,0,fleksometer,dasar,
+34790.1,x,,<flekso> + -meter,bentukan,[189] [S] -meter + (<all>)
+,,,,,
+34791,k,0,fleksor,dasar,
+,,,,,
+34792,k,0,fleksor digitorum profundus,dasar,
+,,,,,
+34793,k,0,fleksor digitorum supersialis,dasar,
+34793.1,x,,<fleksor digitorum supersiali> + [-is:-s],bentukan,[177] [S] -is + (i)
+34793.2,x,,<fleksor digitorum supersial> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+34794,k,2,flensa,dasar,
+,,,,,
+34795,k,0,flerovium,dasar,
+,,,,,
+34796,k,2,flip-flop,dasar,
+34796.1,x,,<flip-flop>,bentukan,[Reduplication-Rhyming]
+,,,,,
+34797,k,0,flip-plop,dasar,
+34797.1,x,,<flip-plop>,bentukan,[Reduplication-Rhyming]
+,,,,,
+34798,k,3,flis,dasar,
+34798.1,x,,<fli> + [-is:-s],bentukan,[177] [S] -is + (i)
+34798.2,x,,<fl> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+34799,k,4,floem,dasar,
+,,,,,
+34800,k,0,flofela,dasar,
+,,,,,
+34801,k,0,flogopit,dasar,
+,,,,,
+34802,k,0,floit,dasar,
+,,,,,
+34803,v,7,flok,dasar,
+,,,,,
+34804,v,2,flok-flok,dasar,
+34804.1,v,,<flok> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+34805,k,0,flokulan,dasar,
+34805.1,x,,<flokul> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+34806,k,2,flokulasi,dasar,
+34806.1,x,,<flokulas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34807,k,0,flokus,dasar,
+,,,,,
+34808,k,8,flop,dasar,
+,,,,,
+34809,k,180,flora,dasar,
+,,,,,
+34810,k,22,floral,dasar,
+,,,,,
+34811,v,3,floranya,dasar,
+34811.1,v,,<flora> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+34812,k,0,floreios,dasar,
+,,,,,
+34813,k,128,flores,dasar,
+,,,,,
+34814,k,0,flores timur,dasar,
+,,,,,
+34815,k,3,floret,dasar,
+,,,,,
+34816,k,7,florikultura,dasar,
+,,,,,
+34817,k,0,floriografi,dasar,
+34817.1,x,,<floriograf> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34818,k,0,floristik,dasar,
+,,,,,
+34819,k,0,floristika,dasar,
+,,,,,
+34820,k,0,flos,dasar,
+,,,,,
+34821,k,0,flos gigi,dasar,
+34821.1,x,,<flos gig> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34822,k,0,flotasi,dasar,
+34822.1,x,,<flotas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34823,k,173,flu,dasar,
+,,,,,
+34824,k,0,flu burung,dasar,
+,,,,,
+34825,k,0,flu singapura,dasar,
+,,,,,
+34826,k,0,flu tulang,dasar,
+,,,,,
+34827,k,0,fluensi,dasar,
+34827.1,x,,<fluens> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34828,k,45,fluida,dasar,
+,,,,,
+34829,v,2,fluida-fluida,dasar,
+34829.1,v,,<fluida> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+34830,k,7,fluiditas,dasar,
+34830.1,x,,<fluid> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+34831,v,2,fluiditasnya,dasar,
+34831.1,v,,<fluiditas> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+34831.2,x,,<fluid> + -itas + -nya,bentukan,[205] [S] -itas + (<others>) => [34] [SFS] -nya + (<all>)
+,,,,,
+34832,k,15,fluks,dasar,
+,,,,,
+34833,k,0,fluks olak,dasar,
+,,,,,
+34834,k,0,fluks radiasi,dasar,
+34834.1,x,,<fluks radias> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34835,k,0,fluks terang,dasar,
+,,,,,
+34836,k,245,fluktuasi,dasar,
+34836.1,x,,<fluktuas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34837,k,0,fluktuasi musiman,dasar,
+34837.1,x,,<fluktuasi musim> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+34838,v,4,fluktuasinya,dasar,
+34838.1,v,,<fluktuasi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+34838.2,x,,<fluktuas> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+34839,k,110,fluktuatif,dasar,
+,,,,,
+34840,c,6,fluor,dasar,fosfor
+,,,,,
+34841,k,3,fluoresen,dasar,
+,,,,,
+34842,k,0,fluoresens,dasar,
+,,,,,
+34843,k,5,fluorida,dasar,
+,,,,,
+34844,k,0,fluorimeter,dasar,
+34844.1,x,,<fluori> + -meter,bentukan,[189] [S] -meter + (<all>)
+,,,,,
+34845,k,0,fluorimetri,dasar,
+34845.1,x,,<fluorimetr> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34846,k,0,fluorin,dasar,
+,,,,,
+34847,k,0,fluorinasi,dasar,
+34847.1,x,,<fluorinas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34848,k,6,fluorit,dasar,
+,,,,,
+34849,k,0,fluorogen,dasar,
+,,,,,
+34850,k,0,fluorokarbon,dasar,
+,,,,,
+34851,k,0,fluorokrom,dasar,
+,,,,,
+34852,k,0,fluorokuinolon,dasar,
+,,,,,
+34853,k,0,fluorosis,dasar,
+34853.1,x,,<fluorosi> + [-is:-s],bentukan,[177] [S] -is + (i)
+34853.2,x,,<fluoros> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+34854,k,0,fluoroskop,dasar,
+,,,,,
+34855,k,0,fluoroskopi,dasar,
+34855.1,x,,<fluoroskop> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34856,v,7,flute,dasar,
+,,,,,
+34857,k,0,fluvial,dasar,
+,,,,,
+34858,k,0,foau,dasar,
+,,,,,
+34859,c,3,fobi,dasar,fobia
+34859.1,x,,<fob> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34860,k,31,fobia,dasar,
+,,,,,
+34861,k,0,fobia air,dasar,
+,,,,,
+34862,k,0,fobia kecoak,dasar,
+,,,,,
+34863,k,0,fobia sekolah,dasar,
+34863.1,x,,<fobia seko> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+34864,k,0,fobia sosial,dasar,
+,,,,,
+34865,k,0,fobofobia,dasar,
+34865.1,x,,<fobo> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+34866,k,0,fobos,dasar,
+,,,,,
+34867,k,0,fofa,dasar,
+,,,,,
+34868,k,0,fohn,dasar,
+,,,,,
+34869,k,0,fohn kerdil,dasar,
+,,,,,
+34870,k,0,foi,dasar,
+34870.1,x,,<fo> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34871,k,35,foil,dasar,
+,,,,,
+34872,k,0,foil aluminium,dasar,
+,,,,,
+34873,k,0,foimere,dasar,
+,,,,,
+34874,k,0,fokalisasi,dasar,
+34874.1,x,,<fokalisas> + -i,bentukan,[28] [S] -i + (<all>)
+34874.2,x,,<fokali> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+34874.3,x,,<fokalis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+34874.4,x,,<fokal> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+34875,k,0,fokasia,dasar,
+,,,,,
+34876,k,0,fokimeter,dasar,
+34876.1,x,,<foki> + -meter,bentukan,[189] [S] -meter + (<all>)
+,,,,,
+34877,t,5,foklor,dasar,folklor
+,,,,,
+34878,k,0,foksglof,dasar,
+,,,,,
+34879,k,0,fokstrot,dasar,
+,,,,,
+34880,k,2599,fokus,dasar,
+,,,,,
+34881,k,0,fokus pandang,dasar,
+,,,,,
+34882,k,0,fokus perhatian,dasar,
+34882.1,x,,<fokus perhati> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+34883,k,0,fokus perhatian eksternal,dasar,
+,,,,,
+34884,k,0,fokus perhatian internal,dasar,
+,,,,,
+34885,v,50,fokuskan,dasar,
+34885.1,v,,<fokus> + -kan,bentukan,[29] [S] -kan + (<all>)
+34885.2,x,,<fokusk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+34886,v,8,fokusku,dasar,
+34886.1,v,,<fokus> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+34887,v,13,fokuslah,dasar,
+34887.1,v,,<fokus> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+34888,v,124,fokusnya,dasar,
+34888.1,v,,<fokus> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+34889,k,0,folasin,dasar,
+,,,,,
+34890,k,42,folat,dasar,
+,,,,,
+34891,k,36,folder,dasar,
+,,,,,
+34892,v,2,folder-folder,dasar,
+34892.1,v,,<folder> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+34893,k,0,folfus,dasar,
+,,,,,
+34894,k,0,foli,dasar,
+34894.1,x,,<fol> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34895,k,30,folikel,dasar,
+,,,,,
+34896,t,2,folikular,dasar,folikuler
+,,,,,
+34897,v,6,folikuler,dasar,
+,,,,,
+34898,v,3,folikulogenesis,dasar,
+34898.1,x,,<folikulogenesi> + [-is:-s],bentukan,[177] [S] -is + (i)
+34898.2,x,,<folikulogenes> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+34899,d,0,folin ciocalteu,dasar,
+,,,,,
+34900,k,32,folio,dasar,
+,,,,,
+34901,k,11,folklor,dasar,
+,,,,,
+34902,k,0,folklor lisan,dasar,
+34902.1,x,,<folklor lis> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+34903,k,0,folklor nonlisan,dasar,
+34903.1,x,,<folklor nonlis> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+34904,k,0,folo,dasar,
+,,,,,
+34905,k,0,fomite,dasar,
+,,,,,
+34906,k,0,fomofobia,dasar,
+34906.1,x,,<fomo> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+34907,c,3,fon,dasar,fohn
+,,,,,
+34908,k,0,fon turunan,dasar,
+34908.1,x,,<fon turun> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+34909,k,0,fonasi,dasar,
+34909.1,x,,<fonas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34910,k,0,fondamen,dasar,
+,,,,,
+34911,k,0,fondan,dasar,
+34911.1,x,,<fond> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+34912,k,262,fondasi,dasar,
+34912.1,x,,<fondas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34913,k,0,fondasi cakar ayam,dasar,
+,,,,,
+34914,v,5,fondasi-fondasi,dasar,
+34914.1,v,,<fondasi> [-] <r>,bentukan,[23] [RD] |
+34914.2,x,,<fondas> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+34915,v,24,fondasinya,dasar,
+34915.1,v,,<fondasi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+34915.2,x,,<fondas> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+34916,k,0,fondrake,dasar,
+,,,,,
+34917,k,0,fondu,dasar,
+,,,,,
+34918,k,12,fonem,dasar,
+,,,,,
+34919,k,0,fonem suprasegmental,dasar,
+,,,,,
+34920,k,2,fonemik,dasar,
+,,,,,
+34921,k,6,fonemis,dasar,
+34921.1,x,,<fonemi> + [-is:-s],bentukan,[177] [S] -is + (i)
+34921.2,v,,<fonem> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+34922,k,8,fonetik,dasar,
+,,,,,
+34923,k,0,fonetik akustik,dasar,
+,,,,,
+34924,k,0,fonetik artikulatoris,dasar,
+34924.1,x,,<fonetik artikulatori> + [-is:-s],bentukan,[177] [S] -is + (i)
+34924.2,x,,<fonetik artikulator> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+34925,k,0,fonetik auditoris,dasar,
+34925.1,x,,<fonetik auditori> + [-is:-s],bentukan,[177] [S] -is + (i)
+34925.2,x,,<fonetik auditor> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+34926,k,6,fonetis,dasar,
+34926.1,x,,<foneti> + [-is:-s],bentukan,[177] [S] -is + (i)
+34926.2,x,,<fonet> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+34927,v,2,fonetisnya,dasar,
+34927.1,v,,<fonetis> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+34927.2,x,,<foneti> + [-is:-s] + -nya,bentukan,[177] [S] -is + (i) => [34] [SFS] -nya + (<all>)
+34927.3,x,,<fonet> + -is + -nya,bentukan,[178] [S] -is + (<others>) => [34] [SFS] -nya + (<all>)
+,,,,,
+34928,k,0,fonik,dasar,
+,,,,,
+34929,k,0,fonis,dasar,
+34929.1,x,,<foni> + [-is:-s],bentukan,[177] [S] -is + (i)
+34929.2,x,,<fon> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+34930,k,0,fonofobia,dasar,
+34930.1,x,,<fono> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+34931,k,2,fonograf,dasar,
+34931.1,x,,<fono> + -graf,bentukan,[191] [S] -graf + (<all>)
+,,,,,
+34932,k,0,fonografi,dasar,
+34932.1,x,,<fonograf> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34933,v,2,fonogram,dasar,
+,,,,,
+34934,k,25,fonologi,dasar,
+34934.1,x,,<fonolog> + -i,bentukan,[28] [S] -i + (<all>)
+34934.2,x,,<fono> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+34935,k,7,fonologis,dasar,
+34935.1,v,,<fonologi> + [-is:-s],bentukan,[177] [S] -is + (i)
+34935.2,x,,<fonolog> + -is,bentukan,[178] [S] -is + (<others>)
+34935.3,x,,<fono> + -logi+-s,bentukan,[194] [MS] -logi+-s + (<all>)
+,,,,,
+34936,k,0,fonon,dasar,
+,,,,,
+34937,k,0,fonotaktik,dasar,
+,,,,,
+34938,k,0,fonotipi,dasar,
+34938.1,x,,<fonotip> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34939,k,0,fonta,dasar,
+,,,,,
+34940,k,0,fontanel,dasar,
+,,,,,
+34941,c,4,fora,dasar,forum
+,,,,,
+34942,k,2,foramen,dasar,
+,,,,,
+34943,k,0,foramen obturator,dasar,
+,,,,,
+34944,k,0,foraminifera,dasar,
+,,,,,
+34945,k,126,forensik,dasar,
+,,,,,
+34946,k,4,fores,dasar,
+,,,,,
+34947,k,0,forin,dasar,
+,,,,,
+34948,v,4,forint,dasar,
+,,,,,
+34949,k,0,foris,dasar,
+34949.1,x,,<fori> + [-is:-s],bentukan,[177] [S] -is + (i)
+34949.2,x,,<for> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+34950,k,0,forklif,dasar,
+,,,,,
+34951,v,4,forkominda,dasar,
+34951.1,x,,<forkomi> + [-anda:-nda],bentukan,[183] [S] -anda + (i;u;a;[k:])
+,,,,,
+34952,v,2,forkomnas,dasar,
+,,,,,
+34953,k,7,forma,dasar,
+,,,,,
+34954,k,1094,formal,dasar,
+,,,,,
+34955,k,4,formaldehida,dasar,
+,,,,,
+34956,k,46,formalin,dasar,
+,,,,,
+34957,v,14,formalisasi,dasar,
+34957.1,x,,<formalisas> + -i,bentukan,[28] [S] -i + (<all>)
+34957.2,x,,<formali> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+34957.3,x,,<formalis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+34957.4,v,,<formal> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+34958,v,8,formalisme,dasar,
+34958.1,v,,<formal> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+34959,k,12,formalistik,dasar,
+,,,,,
+34960,k,3,formalistis,dasar,
+34960.1,x,,<formalisti> + [-is:-s],bentukan,[177] [S] -is + (i)
+34960.2,x,,<formalist> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+34961,k,102,formalitas,dasar,
+34961.1,v,,<formal> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+34962,v,5,formalitasnya,dasar,
+34962.1,v,,<formalitas> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+34962.2,x,,<formal> + -itas + -nya,bentukan,[205] [S] -itas + (<others>) => [34] [SFS] -nya + (<all>)
+,,,,,
+34963,v,47,formalnya,dasar,
+34963.1,x,,<formal> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+34964,k,0,forman,dasar,
+34964.1,x,,<form> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+34965,k,334,formasi,dasar,
+34965.1,x,,<formas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34966,k,0,formasi konsep,dasar,
+,,,,,
+34967,v,3,formasi-formasi,dasar,
+34967.1,v,,<formasi> [-] <r>,bentukan,[23] [RD] |
+34967.2,x,,<formas> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+34968,v,14,formasinya,dasar,
+34968.1,v,,<formasi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+34968.2,x,,<formas> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+34969,k,1090,format,dasar,
+,,,,,
+34970,k,0,format berkas,dasar,
+,,,,,
+34971,k,0,format internal,dasar,
+,,,,,
+34972,k,0,format kode sumber,dasar,
+,,,,,
+34973,k,0,format numerik,dasar,
+,,,,,
+34974,k,0,format sirkuit,dasar,
+,,,,,
+34975,k,0,format tanggal,dasar,
+,,,,,
+34976,k,0,format waktu,dasar,
+,,,,,
+34977,v,5,format-format,dasar,
+34977.1,v,,<format> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+34978,k,26,formatif,dasar,
+,,,,,
+34979,k,0,formatir,dasar,
+,,,,,
+34980,v,27,formatnya,dasar,
+34980.1,v,,<format> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+34981,k,12,formatur,dasar,
+,,,,,
+34982,k,0,formatur kabinet,dasar,
+,,,,,
+34983,v,4,formazan,dasar,
+34983.1,x,,<formaz> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+34984,k,0,formika,dasar,
+,,,,,
+34985,c,43,formil,dasar,formal
+,,,,,
+34986,k,578,formula,dasar,
+,,,,,
+34987,k,0,formula bayi,dasar,
+34987.1,x,,<formula bay> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34988,k,0,formula du bois,dasar,
+34988.1,x,,<formula du boi> + [-is:-s],bentukan,[177] [S] -is + (i)
+34988.2,x,,<formula du bo> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+34989,k,0,formula susu kedelai jagung,dasar,
+,,,,,
+34990,v,4,formula-formula,dasar,
+34990.1,v,,<formula> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+34991,k,3,formulaik,dasar,
+,,,,,
+34992,v,44,formulanya,dasar,
+34992.1,v,,<formula> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+34993,v,11,formularium,dasar,
+,,,,,
+34994,k,225,formulasi,dasar,
+34994.1,x,,<formulas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34995,v,2,formulasi-formulasi,dasar,
+34995.1,v,,<formulasi> [-] <r>,bentukan,[23] [RD] |
+34995.2,x,,<formulas> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+34996,v,8,formulasikan,dasar,
+34996.1,v,,<formulasi> + -kan,bentukan,[29] [S] -kan + (<all>)
+34996.2,x,,<formulasik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+34997,v,8,formulasinya,dasar,
+34997.1,v,,<formulasi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+34997.2,x,,<formulas> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+34998,v,3,formulatif,dasar,
+,,,,,
+34999,k,0,formulator,dasar,
+,,,,,
+35000,k,495,formulir,dasar,
+,,,,,
+35001,k,0,formulir lamaran,dasar,
+35001.1,x,,<formulir lamar> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+35002,k,0,formulir reservasi,dasar,
+35002.1,x,,<formulir reservas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+35003,k,0,formulir saran,dasar,
+35003.1,x,,<formulir sar> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+35004,v,9,formulir-formulir,dasar,
+35004.1,v,,<formulir> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+35005,k,0,forna,dasar,
+,,,,,
+35006,k,0,fornikasi,dasar,
+35006.1,x,,<fornikas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+35007,k,0,fornikator,dasar,
+,,,,,
+35008,k,3,forsep,dasar,
+,,,,,
+35009,k,0,forsir,dasar,
+,,,,,
+35010,k,3,forte,dasar,
+,,,,,
+35011,k,0,fortepiano,dasar,
+,,,,,
+35012,k,11,fortifikasi,dasar,
+35012.1,x,,<fortifikas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+35013,k,0,fortifikasi pangan,dasar,
+35013.1,x,,<fortifikasi pang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+35014,k,0,fortifikasi wajib,dasar,
+,,,,,
+35015,k,0,fortin,dasar,
+,,,,,
+35016,k,1393,forum,dasar,
+,,,,,
+35017,v,57,forum-forum,dasar,
+35017.1,v,,<forum> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+35018,k,3,fosa,dasar,
+,,,,,
+35019,k,80,fosfat,dasar,
+,,,,,
+35020,k,0,fosfat bufer,dasar,
+,,,,,
+35021,k,0,fosfat monokalsium,dasar,
+,,,,,
+35022,k,0,fosfat penyangga,dasar,
+,,,,,
+35023,k,13,fosfatase,dasar,
+35023.1,x,,<fosfat> + -ase,bentukan,[210] [S] -ase + (<all>)
+,,,,,
+35024,k,0,fosfatida,dasar,
+,,,,,
+35025,k,0,fosfatidilinositol,dasar,
+,,,,,
+35026,k,2,fosfatidilkolin,dasar,
+,,,,,
+35027,k,0,fosfatidilserin,dasar,
+,,,,,
+35028,k,0,fosfida,dasar,
+,,,,,
+35029,k,0,fosfina,dasar,
+,,,,,
+35030,k,0,fosfit,dasar,
+,,,,,
+35031,v,4,fosfodiester,dasar,
+,,,,,
+35032,k,0,fosfokreatina,dasar,
+,,,,,
+35033,v,5,fosfolipase,dasar,
+35033.1,x,,<fosfolip> + -ase,bentukan,[210] [S] -ase + (<all>)
+,,,,,
+35034,k,20,fosfolipid,dasar,
+,,,,,
+35035,k,0,fosfoprotein,dasar,
+,,,,,
+35036,k,67,fosfor,dasar,
+,,,,,
+35037,k,0,fosforesens,dasar,
+,,,,,
+35038,k,2,fosforilase,dasar,
+35038.1,x,,<fosforil> + -ase,bentukan,[210] [S] -ase + (<all>)
+,,,,,
+35039,d,0,fosforilasi,dasar,
+35039.1,x,,<fosforilas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+35040,k,0,fosforimeter,dasar,
+35040.1,x,,<fosfori> + -meter,bentukan,[189] [S] -meter + (<all>)
+,,,,,
+35041,k,0,fosforimetri,dasar,
+35041.1,x,,<fosforimetr> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+35042,k,0,fosforolisis,dasar,
+35042.1,x,,<fosforolisi> + [-is:-s],bentukan,[177] [S] -is + (i)
+35042.2,x,,<fosforolis> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+35043,k,0,fosforus,dasar,
+,,,,,
+35044,k,0,fosfotidilkolin,dasar,
+,,,,,
+35045,k,0,fosgen,dasar,
+,,,,,
+35046,k,151,fosil,dasar,
+,,,,,
+35047,v,10,fosil-fosil,dasar,
+35047.1,v,,<fosil> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+35048,k,0,fosilisasi,dasar,
+35048.1,x,,<fosilisas> + -i,bentukan,[28] [S] -i + (<all>)
+35048.2,x,,<fosili> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+35048.3,x,,<fosilis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+35048.4,v,,<fosil> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+35049,k,0,fosimeter,dasar,
+35049.1,x,,<fosi> + -meter,bentukan,[189] [S] -meter + (<all>)
+,,,,,
+35050,t,2,fospolipid,dasar,fosfolipid
+,,,,,
+35051,k,0,fot,dasar,
+,,,,,
+35052,k,2136,foto,dasar,
+,,,,,
+35053,k,0,foto finis,dasar,
+35053.1,x,,<foto fini> + [-is:-s],bentukan,[177] [S] -is + (i)
+35053.2,x,,<foto fin> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+35054,k,0,foto jarak jauh,dasar,
+,,,,,
+35055,k,0,foto kopi,dasar,
+35055.1,x,,<foto kop> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+35056,k,0,foto licin,dasar,
+,,,,,
+35057,k,0,foto negatif,dasar,
+,,,,,
+35058,k,0,foto topeng,dasar,
+,,,,,
+35059,v,379,foto-foto,dasar,
+35059.1,v,,<foto> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+35060,v,2,foto-fotoku,dasar,
+35060.1,x,,<foto-foto> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+35060.2,v,,<foto> [-] <r> + -ku,bentukan,[23] [RD] | => [32] [SFS] -ku + (<all>)

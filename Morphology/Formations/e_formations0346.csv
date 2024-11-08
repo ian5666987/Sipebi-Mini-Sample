@@ -1,0 +1,1683 @@
+Nomor,KP,Jumlah,Entri,Tipe,Pembentukan
+132898,k,0,vinyet,dasar,
+,,,,,
+132899,k,0,viol,dasar,
+,,,,,
+132900,k,10,viola,dasar,
+,,,,,
+132901,k,0,violces,dasar,
+,,,,,
+132902,k,45,violet,dasar,
+,,,,,
+132903,k,6,violin,dasar,
+,,,,,
+132904,k,0,violinis,dasar,
+132904.1,x,,<violini> + [-is:-s],bentukan,[177] [S] -is + (i)
+132904.2,v,,<violin> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+132905,k,0,violis,dasar,
+132905.1,x,,<violi> + [-is:-s],bentukan,[177] [S] -is + (i)
+132905.2,x,,<viol> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+132906,k,0,viosterol,dasar,
+132906.1,x,,<vio> + -sterol,bentukan,[208] [S] -sterol + (<all>)
+,,,,,
+132907,k,3,viper,dasar,
+,,,,,
+132908,k,0,virago,dasar,
+,,,,,
+132909,k,265,viral,dasar,
+,,,,,
+132910,v,4,viralkan,dasar,
+132910.1,v,,<viral> + -kan,bentukan,[29] [S] -kan + (<all>)
+132910.2,x,,<viralk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+132911,v,9,viralnya,dasar,
+132911.1,v,,<viral> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+132912,k,0,virga,dasar,
+,,,,,
+132913,k,65,virginia,dasar,
+,,,,,
+132914,k,0,virginipar,dasar,
+,,,,,
+132915,k,0,virginitas,dasar,
+132915.1,v,,<virgin> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+132916,k,0,virginitifobia,dasar,
+132916.1,x,,<virginiti> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+132917,k,15,virgo,dasar,
+,,,,,
+132918,k,0,virilis,dasar,
+132918.1,x,,<virili> + [-is:-s],bentukan,[177] [S] -is + (i)
+132918.2,x,,<viril> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+132919,k,0,virilisme,dasar,
+132919.1,x,,<viril> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+132920,k,2,virilitas,dasar,
+132920.1,x,,<viril> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+132921,k,0,virilokal,dasar,
+,,,,,
+132922,k,0,virion,dasar,
+,,,,,
+132923,k,0,virisida,dasar,
+,,,,,
+132924,k,0,viristatik,dasar,
+,,,,,
+132925,k,0,virogen,dasar,
+,,,,,
+132926,k,3,viroid,dasar,
+132926.1,x,,<vir> + -oid,bentukan,[209] [S] -oid + (<all>)
+,,,,,
+132927,v,5,virolog,dasar,
+,,,,,
+132928,k,24,virologi,dasar,
+132928.1,x,,<virolog> + -i,bentukan,[28] [S] -i + (<all>)
+132928.2,x,,<viro> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+132929,k,0,viropeksis,dasar,
+132929.1,x,,<viropeksi> + [-is:-s],bentukan,[177] [S] -is + (i)
+132929.2,x,,<viropeks> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+132930,k,0,virosis,dasar,
+132930.1,x,,<virosi> + [-is:-s],bentukan,[177] [S] -is + (i)
+132930.2,x,,<viros> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+132931,k,636,virtual,dasar,
+,,,,,
+132932,k,0,virtualisasi,dasar,
+132932.1,x,,<virtualisas> + -i,bentukan,[28] [S] -i + (<all>)
+132932.2,x,,<virtuali> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+132932.3,x,,<virtualis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+132932.4,v,,<virtual> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+132933,k,2,virtualitas,dasar,
+132933.1,v,,<virtual> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+132934,k,3,virtuoso,dasar,
+,,,,,
+132935,k,8,virulen,dasar,
+,,,,,
+132936,k,25,virulensi,dasar,
+132936.1,x,,<virulens> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+132937,v,2,virulensinya,dasar,
+132937.1,v,,<virulensi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+132937.2,x,,<virulens> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+132938,k,1665,virus,dasar,
+,,,,,
+132939,k,0,virus flu burung,dasar,
+,,,,,
+132940,k,0,virus korona,dasar,
+,,,,,
+132941,k,0,virus mosaik,dasar,
+,,,,,
+132942,k,0,virus utuh,dasar,
+,,,,,
+132943,v,21,virus-virus,dasar,
+132943.1,v,,<virus> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+132944,k,0,virusidal,dasar,
+,,,,,
+132945,v,35,virusnya,dasar,
+132945.1,v,,<virus> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+132946,k,222,visa,dasar,
+,,,,,
+132947,k,0,visa dinas,dasar,
+,,,,,
+132948,k,0,visa diplomatik,dasar,
+,,,,,
+132949,k,0,visa ganda,dasar,
+132949.1,x,,<visa ga> + [-anda:-nda],bentukan,[183] [S] -anda + (i;u;a;[k:])
+132949.2,x,,<visa gan> + [-anda:-da],bentukan,[184] [S] -anda + (an)
+132949.3,x,,<visa g> + -anda,bentukan,[185] [S] -anda + (<others>)
+,,,,,
+132950,k,0,visa kunjungan,dasar,
+132950.1,x,,<visa kunjung> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+132951,k,0,visa masuk,dasar,
+,,,,,
+132952,k,0,visa tinggal terbatas,dasar,
+,,,,,
+132953,k,0,visa transit,dasar,
+,,,,,
+132954,k,0,visa turis,dasar,
+132954.1,x,,<visa turi> + [-is:-s],bentukan,[177] [S] -is + (i)
+132954.2,x,,<visa tur> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+132955,k,0,visa wisatawan,dasar,
+132955.1,x,,<visa wisataw> + -an,bentukan,[38] [S] -an + (<all>)
+132955.2,x,,<visa wisata> + -wan,bentukan,[180] [S] -wan + (<others>)
+132955.3,x,,<visa wisat> + [-wan:-awan],bentukan,[18000001] [S] -wan + (<all>)
+,,,,,
+132956,v,14,visanya,dasar,
+132956.1,v,,<visa> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+132957,k,0,visera,dasar,
+,,,,,
+132958,k,1078,visi,dasar,
+132958.1,x,,<vis> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+132959,k,0,visi warna,dasar,
+,,,,,
+132960,t,42,visi-misi,dasar,visi misis
+132960.1,x,,<visi-mis> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+132961,t,6,visi-misinya,dasar,visi misinya
+132961.1,v,,<visi-misi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+132961.2,x,,<visi-mis> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+132962,v,3,visi-visi,dasar,
+132962.1,v,,<visi> [-] <r>,bentukan,[23] [RD] |
+132962.2,x,,<vis> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+132963,k,4,visibel,dasar,
+,,,,,
+132964,k,39,visibilitas,dasar,
+132964.1,x,,<visibil> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+132965,v,3,visibilitasnya,dasar,
+132965.1,v,,<visibilitas> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+132965.2,x,,<visibil> + -itas + -nya,bentukan,[205] [S] -itas + (<others>) => [34] [SFS] -nya + (<all>)
+,,,,,
+132966,x,2,visibiltas,dasar,visibilitas
+,,,,,
+132967,k,0,visidium,dasar,
+,,,,,
+132968,v,2,visiku,dasar,
+132968.1,v,,<visi> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+132968.2,x,,<vis> + -i + -ku,bentukan,[28] [S] -i + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+132969,k,0,visinisme,dasar,
+132969.1,x,,<visin> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+132970,v,57,visinya,dasar,
+132970.1,v,,<visi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+132970.2,x,,<vis> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+132971,k,72,visioner,dasar,
+,,,,,
+132972,k,15,visitasi,dasar,
+132972.1,x,,<visitas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+132973,k,0,visitator,dasar,
+,,,,,
+132974,k,0,visiun,dasar,
+,,,,,
+132975,k,0,viskoelastik,dasar,
+,,,,,
+132976,k,0,viskoelastisitas,dasar,
+132976.1,x,,<viskoelastis> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+132977,k,6,viskometer,dasar,
+132977.1,x,,<visko> + -meter,bentukan,[189] [S] -meter + (<all>)
+,,,,,
+132978,k,0,viskose,dasar,
+,,,,,
+132979,v,2,viskosimeter,dasar,
+132979.1,x,,<viskosi> + -meter,bentukan,[189] [S] -meter + (<all>)
+,,,,,
+132980,k,42,viskositas,dasar,
+132980.1,x,,<viskos> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+132981,v,7,viskositasnya,dasar,
+132981.1,v,,<viskositas> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+132981.2,x,,<viskos> + -itas + -nya,bentukan,[205] [S] -itas + (<others>) => [34] [SFS] -nya + (<all>)
+,,,,,
+132982,c,3,visnu,dasar,wisnu
+,,,,,
+132983,k,15,visor,dasar,
+,,,,,
+132984,k,24,vista,dasar,
+,,,,,
+132985,k,630,visual,dasar,
+,,,,,
+132986,t,4,visual-spasial,dasar,visual spasial
+,,,,,
+132987,k,126,visualisasi,dasar,
+132987.1,x,,<visualisas> + -i,bentukan,[28] [S] -i + (<all>)
+132987.2,x,,<visuali> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+132987.3,x,,<visualis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+132987.4,v,,<visual> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+132988,v,4,visualisasikan,dasar,
+132988.1,v,,<visualisasi> + -kan,bentukan,[29] [S] -kan + (<all>)
+132988.2,x,,<visualisasik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+132989,v,3,visualisasinya,dasar,
+132989.1,v,,<visualisasi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+132989.2,x,,<visualisas> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+132989.3,x,,<visuali> + [-isasi:-sasi] + -nya,bentukan,[166] [S] -isasi + (i) => [34] [SFS] -nya + (<all>)
+132989.4,x,,<visualis> + [-isasi:-asi] + -nya,bentukan,[167] [S] -isasi + (is) => [34] [SFS] -nya + (<all>)
+132989.5,v,,<visual> + -isasi + -nya,bentukan,[169] [S] -isasi + (<others>) => [34] [SFS] -nya + (<all>)
+,,,,,
+132990,v,36,visualnya,dasar,
+132990.1,v,,<visual> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+132991,k,37,visum,dasar,
+,,,,,
+132992,k,0,visuometer,dasar,
+132992.1,x,,<visuo> + -meter,bentukan,[189] [S] -meter + (<all>)
+,,,,,
+132993,k,3,visuospasial,dasar,
+,,,,,
+132994,k,6,visus,dasar,
+,,,,,
+132995,k,0,vitakultur,dasar,
+132995.1,x,,<vita> + -kultur,bentukan,[204] [S] -kultur + (<all>)
+,,,,,
+132996,k,399,vital,dasar,
+,,,,,
+132997,k,43,vitalitas,dasar,
+132997.1,v,,<vital> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+132998,v,2,vitalitasnya,dasar,
+132998.1,v,,<vitalitas> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+132998.2,v,,<vital> + -itas + -nya,bentukan,[205] [S] -itas + (<others>) => [34] [SFS] -nya + (<all>)
+,,,,,
+132999,v,11,vitalnya,dasar,
+132999.1,v,,<vital> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+133000,k,0,vitamer,dasar,
+,,,,,
+133001,k,423,vitamin,dasar,
+,,,,,
+133002,k,0,vitamin a,dasar,
+,,,,,
+133003,k,0,vitamin a-2,dasar,
+,,,,,
+133004,k,0,vitamin a2,dasar,
+,,,,,
+133005,k,0,vitamin antihemoragik,dasar,
+,,,,,
+133006,k,0,vitamin antineuritik,dasar,
+,,,,,
+133007,k,0,vitamin b,dasar,
+,,,,,
+133008,k,0,vitamin b kompleks,dasar,
+,,,,,
+133009,k,0,vitamin b-1,dasar,
+,,,,,
+133010,k,0,vitamin b-13,dasar,
+,,,,,
+133011,k,0,vitamin b-14,dasar,
+,,,,,
+133012,k,0,vitamin b-15,dasar,
+,,,,,
+133013,k,0,vitamin b-16,dasar,
+,,,,,
+133014,k,0,vitamin b-17,dasar,
+,,,,,
+133015,k,0,vitamin b-2,dasar,
+,,,,,
+133016,k,0,vitamin b-3,dasar,
+,,,,,
+133017,k,0,vitamin b-4,dasar,
+,,,,,
+133018,k,0,vitamin b-5,dasar,
+,,,,,
+133019,k,0,vitamin b-6,dasar,
+,,,,,
+133020,k,0,vitamin b-9,dasar,
+,,,,,
+133021,k,0,vitamin b12,dasar,
+,,,,,
+133022,k,0,vitamin bc,dasar,
+,,,,,
+133023,k,0,vitamin bd,dasar,
+,,,,,
+133024,k,0,vitamin bt,dasar,
+,,,,,
+133025,k,0,vitamin bw,dasar,
+,,,,,
+133026,k,0,vitamin c,dasar,
+,,,,,
+133027,k,0,vitamin d,dasar,
+,,,,,
+133028,k,0,vitamin d-2,dasar,
+,,,,,
+133029,k,0,vitamin d-3,dasar,
+,,,,,
+133030,k,0,vitamin e,dasar,
+,,,,,
+133031,k,0,vitamin f,dasar,
+,,,,,
+133032,k,0,vitamin g,dasar,
+,,,,,
+133033,k,0,vitamin h,dasar,
+,,,,,
+133034,k,0,vitamin k,dasar,
+,,,,,
+133035,k,0,vitamin k-1,dasar,
+,,,,,
+133036,k,0,vitamin k-2,dasar,
+,,,,,
+133037,k,0,vitamin k-3,dasar,
+,,,,,
+133038,k,0,vitamin kompleks,dasar,
+,,,,,
+133039,k,0,vitamin l,dasar,
+,,,,,
+133040,k,0,vitamin larut lemak,dasar,
+,,,,,
+133041,k,0,vitamin m,dasar,
+,,,,,
+133042,k,0,vitamin p,dasar,
+,,,,,
+133043,k,0,vitamin pp,dasar,
+,,,,,
+133044,k,0,vitamin q,dasar,
+,,,,,
+133045,k,0,vitamin t,dasar,
+,,,,,
+133046,v,6,vitamin-vitamin,dasar,
+133046.1,v,,<vitamin> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+133047,k,0,vitaminoid,dasar,
+133047.1,x,,<vitamin> + -oid,bentukan,[209] [S] -oid + (<all>)
+,,,,,
+133048,k,0,vitelarium,dasar,
+,,,,,
+133049,k,0,vitelin,dasar,
+,,,,,
+133050,k,0,vitikultur,dasar,
+133050.1,x,,<viti> + -kultur,bentukan,[204] [S] -kultur + (<all>)
+,,,,,
+133051,k,4,vitiligo,dasar,
+,,,,,
+133052,k,0,vitrase,dasar,
+133052.1,x,,<vitr> + -ase,bentukan,[210] [S] -ase + (<all>)
+,,,,,
+133053,k,0,vitrektomi,dasar,
+133053.1,x,,<vitrektom> + -i,bentukan,[28] [S] -i + (<all>)
+133053.2,x,,<vitrek> + -tomi,bentukan,[200] [S] -tomi + (<all>)
+,,,,,
+133054,k,0,vitreositas,dasar,
+133054.1,x,,<vitreos> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+133055,k,0,vitreus,dasar,
+,,,,,
+133056,k,3,vitrifikasi,dasar,
+133056.1,x,,<vitrifikas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+133057,k,0,vitrikofobia,dasar,
+133057.1,x,,<vitriko> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+133058,k,0,vitrin,dasar,
+,,,,,
+133059,k,0,vitriol,dasar,
+,,,,,
+133060,k,0,viudata,dasar,
+,,,,,
+133061,k,2,vivarium,dasar,
+,,,,,
+133062,k,0,vivifikasi,dasar,
+133062.1,x,,<vivifikas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+133063,k,2,vivipar,dasar,
+,,,,,
+133064,k,0,viviseksi,dasar,
+133064.1,x,,<viviseks> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+133065,k,0,vivisektorium,dasar,
+,,,,,
+133066,k,0,vivotoksin,dasar,
+,,,,,
+133067,k,0,vla,dasar,
+,,,,,
+133068,k,0,vlek,dasar,
+,,,,,
+133069,k,22,vlog,dasar,
+,,,,,
+133070,k,0,vloger,dasar,
+,,,,,
+133071,k,0,voal,dasar,
+,,,,,
+133072,k,0,vocer,dasar,
+,,,,,
+133073,k,0,vodka,dasar,
+,,,,,
+133074,k,10,void,dasar,
+133074.1,x,,<v> + -oid,bentukan,[209] [S] -oid + (<all>)
+,,,,,
+133075,k,0,vokabuler,dasar,
+,,,,,
+133076,k,143,vokal,dasar,
+,,,,,
+133077,k,0,vokal bawah,dasar,
+,,,,,
+133078,k,0,vokal belakang,dasar,
+,,,,,
+133079,k,0,vokal buka,dasar,
+,,,,,
+133080,k,0,vokal bundar,dasar,
+,,,,,
+133081,k,0,vokal depan,dasar,
+133081.1,x,,<vokal dep> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+133082,k,0,vokal hambat,dasar,
+,,,,,
+133083,k,0,vokal hampar,dasar,
+,,,,,
+133084,k,0,vokal kardinal,dasar,
+,,,,,
+133085,k,0,vokal kendur,dasar,
+,,,,,
+133086,k,0,vokal pusat,dasar,
+,,,,,
+133087,k,0,vokal rendah,dasar,
+,,,,,
+133088,k,0,vokal sempit,dasar,
+,,,,,
+133089,k,0,vokal setengah terbuka,dasar,
+,,,,,
+133090,k,0,vokal setengah tertutup,dasar,
+,,,,,
+133091,k,0,vokal takbersuara,dasar,
+,,,,,
+133092,k,0,vokal takbundar,dasar,
+,,,,,
+133093,k,0,vokal tegang,dasar,
+,,,,,
+133094,k,0,vokal tengah,dasar,
+,,,,,
+133095,k,0,vokal ternasal,dasar,
+,,,,,
+133096,k,0,vokal tinggi,dasar,
+133096.1,x,,<vokal tingg> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+133097,k,0,vokalia,dasar,
+,,,,,
+133098,k,50,vokalis,dasar,
+133098.1,x,,<vokali> + [-is:-s],bentukan,[177] [S] -is + (i)
+133098.2,v,,<vokal> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+133099,k,4,vokalisasi,dasar,
+133099.1,x,,<vokalisas> + -i,bentukan,[28] [S] -i + (<all>)
+133099.2,x,,<vokali> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+133099.3,x,,<vokalis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+133099.4,v,,<vokal> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+133100,v,6,vokalisnya,dasar,
+133100.1,x,,<vokalis> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+133100.2,x,,<vokali> + [-is:-s] + -nya,bentukan,[177] [S] -is + (i) => [34] [SFS] -nya + (<all>)
+133100.3,v,,<vokal> + -is + -nya,bentukan,[178] [S] -is + (<others>) => [34] [SFS] -nya + (<all>)
+,,,,,
+133101,v,8,vokalnya,dasar,
+133101.1,v,,<vokal> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+133102,k,212,vokasi,dasar,
+133102.1,x,,<vokas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+133103,v,4,vokasinya,dasar,
+133103.1,v,,<vokasi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+133103.2,x,,<vokas> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+133104,k,40,vokasional,dasar,
+,,,,,
+133105,k,0,vokatif,dasar,
+,,,,,
+133106,k,0,vokoid,dasar,
+133106.1,x,,<vok> + -oid,bentukan,[209] [S] -oid + (<all>)
+,,,,,
+133107,k,0,voksel,dasar,
+,,,,,
+133108,v,69,vol,dasar,
+,,,,,
+133109,k,0,volalitas,dasar,
+133109.1,x,,<volal> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+133110,k,0,volan,dasar,
+133110.1,x,,<vol> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+133111,k,27,volatil,dasar,
+,,,,,
+133112,v,3,volatilisasi,dasar,
+133112.1,x,,<volatilisas> + -i,bentukan,[28] [S] -i + (<all>)
+133112.2,x,,<volatili> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+133112.3,x,,<volatilis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+133112.4,v,,<volatil> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+133113,k,94,volatilitas,dasar,
+133113.1,v,,<volatil> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+133114,v,6,volatilitasnya,dasar,
+133114.1,v,,<volatilitas> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+133114.2,v,,<volatil> + -itas + -nya,bentukan,[205] [S] -itas + (<others>) => [34] [SFS] -nya + (<all>)
+,,,,,
+133115,k,133,voli,dasar,
+133115.1,x,,<vol> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+133116,k,0,voli pantai,dasar,
+133116.1,x,,<voli panta> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+133117,v,3,volinya,dasar,
+133117.1,v,,<voli> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+133117.2,x,,<vol> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+133118,t,2,volkanik,dasar,vulkanik
+,,,,,
+133119,k,69,volt,dasar,
+,,,,,
+133120,k,0,voltameter,dasar,
+133120.1,x,,<volta> + -meter,bentukan,[189] [S] -meter + (<all>)
+,,,,,
+133121,v,5,voltametri,dasar,
+133121.1,x,,<voltametr> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+133122,v,4,voltamogram,dasar,
+,,,,,
+133123,k,19,voltase,dasar,
+133123.1,x,,<volt> + -ase,bentukan,[210] [S] -ase + (<all>)
+,,,,,
+133124,k,0,voltin,dasar,
+,,,,,
+133125,k,0,voltinisme,dasar,
+133125.1,v,,<voltin> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+133126,k,0,voltmeter,dasar,
+133126.1,v,,<volt> + -meter,bentukan,[189] [S] -meter + (<all>)
+,,,,,
+133127,k,1251,volume,dasar,
+,,,,,
+133128,k,0,volume jenis,dasar,
+133128.1,x,,<volume jeni> + [-is:-s],bentukan,[177] [S] -is + (i)
+133128.2,x,,<volume jen> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+133129,k,0,volume molar,dasar,
+,,,,,
+133130,k,0,volumeter,dasar,
+133130.1,x,,<volu> + -meter,bentukan,[189] [S] -meter + (<all>)
+,,,,,
+133131,k,0,volumetri,dasar,
+133131.1,x,,<volumetr> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+133132,k,13,volumetrik,dasar,
+133132.1,x,,<volu> + -metrik,bentukan,[211] [S] -metrik + (<all>)
+,,,,,
+133133,v,2,voluntair,dasar,
+,,,,,
+133134,v,8,voluntarisme,dasar,
+133134.1,x,,<voluntar> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+133135,v,5,voluntaristik,dasar,
+,,,,,
+133136,k,6,volunter,dasar,
+,,,,,
+133137,k,4,volunterisme,dasar,
+133137.1,v,,<volunter> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+133138,k,0,volunteristik,dasar,
+,,,,,
+133139,t,2,voluntir,dasar,
+,,,,,
+133140,k,0,volutin,dasar,
+,,,,,
+133141,k,0,vomer,dasar,
+,,,,,
+133142,k,263,vonis,dasar,
+133142.1,x,,<voni> + [-is:-s],bentukan,[177] [S] -is + (i)
+133142.2,x,,<von> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+133143,v,13,vonisnya,dasar,
+133143.1,v,,<vonis> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+133143.2,x,,<voni> + [-is:-s] + -nya,bentukan,[177] [S] -is + (i) => [34] [SFS] -nya + (<all>)
+133143.3,x,,<von> + -is + -nya,bentukan,[178] [S] -is + (<others>) => [34] [SFS] -nya + (<all>)
+,,,,,
+133144,k,0,vopo,dasar,
+,,,,,
+133145,k,6,vorteks,dasar,
+,,,,,
+133146,k,0,vortisitas,dasar,
+133146.1,x,,<vortis> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+133147,t,105,voting,dasar,
+,,,,,
+133148,k,0,votum,dasar,
+,,,,,
+133149,k,0,votum kepercayaan,dasar,
+133149.1,x,,<votum kepercaya> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+133150,k,0,voucer,dasar,
+,,,,,
+133151,k,0,voyeurisme,dasar,
+133151.1,x,,<voyeur> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+133152,k,0,vrah,dasar,
+,,,,,
+133153,k,0,vrahoto,dasar,
+,,,,,
+133154,k,0,vug,dasar,
+,,,,,
+133155,k,59,vulgar,dasar,
+,,,,,
+133156,v,15,vulgaris,dasar,
+133156.1,x,,<vulgari> + [-is:-s],bentukan,[177] [S] -is + (i)
+133156.2,v,,<vulgar> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+133157,k,0,vulgarisme,dasar,
+133157.1,v,,<vulgar> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+133158,k,0,vulgaritas,dasar,
+133158.1,v,,<vulgar> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+133159,k,0,vulgata,dasar,
+,,,,,
+133160,k,5,vulkan,dasar,
+133160.1,x,,<vul> + -kan,bentukan,[29] [S] -kan + (<all>)
+133160.2,x,,<vulk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+133161,c,80,vulkanik,dasar,vulkanis
+,,,,,
+133162,k,16,vulkanis,dasar,
+133162.1,x,,<vulkani> + [-is:-s],bentukan,[177] [S] -is + (i)
+133162.2,v,,<vulkan> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+133163,k,0,vulkanisasi,dasar,
+133163.1,x,,<vulkanisas> + -i,bentukan,[28] [S] -i + (<all>)
+133163.2,x,,<vulkani> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+133163.3,x,,<vulkanis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+133163.4,x,,<vulka> + [-isasi:-nisasi],bentukan,[168] [S] -isasi + (a;e;u;o)
+133163.5,v,,<vulkan> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+133164,c,4,vulkanisir,dasar,vulkanisasi
+,,,,,
+133165,k,3,vulkanolog,dasar,
+,,,,,
+133166,k,43,vulkanologi,dasar,
+133166.1,x,,<vulkanolog> + -i,bentukan,[28] [S] -i + (<all>)
+133166.2,x,,<vulkano> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+133167,k,0,vulkanotektonik,dasar,
+,,,,,
+133168,k,0,vulkavit,dasar,
+,,,,,
+133169,c,2,vulpen,dasar,pulpen
+,,,,,
+133170,k,14,vulva,dasar,
+,,,,,
+133171,k,0,vulvektomi,dasar,
+133171.1,x,,<vulvektom> + -i,bentukan,[28] [S] -i + (<all>)
+133171.2,x,,<vulvek> + -tomi,bentukan,[200] [S] -tomi + (<all>)
+,,,,,
+133172,k,0,vulvitis,dasar,
+133172.1,x,,<vulviti> + [-is:-s],bentukan,[177] [S] -is + (i)
+133172.2,x,,<vulvit> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+133173,k,0,vulvodinia,dasar,
+,,,,,
+133174,k,0,vuring,dasar,
+,,,,,
+133175,k,596,w,dasar,
+,,,,,
+133176,k,431,wa,dasar,
+,,,,,
+133177,x,2,wa-wancara,dasar,wawancara
+,,,,,
+133178,k,5,waad,dasar,
+,,,,,
+133179,k,0,waadah,dasar,
+,,,,,
+133180,k,0,waadat,dasar,
+,,,,,
+133181,v,15,waalaikumsalam,dasar,
+,,,,,
+133182,k,780,wabah,dasar,
+,,,,,
+133183,k,0,wabah hewani,dasar,
+133183.1,x,,<wabah hewan> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+133184,v,3,wabahnya,dasar,
+133184.1,v,,<wabah> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+133185,k,0,wabakdahu,dasar,
+,,,,,
+133186,k,0,wabakdu,dasar,
+,,,,,
+133187,k,0,wabakdu kalam,dasar,
+,,,,,
+133188,k,310,wabarakatuh,dasar,
+,,,,,
+133189,x,3,wabaraktuh,dasar,wabarakatuh
+,,,,,
+133190,t,2,wabarokatuh,dasar,wabarakatuh
+,,,,,
+133191,v,4,wabilkhusus,dasar,
+,,,,,
+133192,d,0,wabillahi,dasar,
+133192.1,x,,<wabillah> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+133193,k,0,wabo,dasar,
+,,,,,
+133194,v,5,wabup,dasar,
+,,,,,
+133195,k,586,wacana,dasar,
+,,,,,
+133196,k,0,wacana langsung,dasar,
+,,,,,
+133197,k,0,wacana pembeberan,dasar,
+133197.1,x,,<wacana pembeber> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+133198,k,0,wacana penuturan,dasar,
+133198.1,x,,<wacana penutur> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+133199,v,9,wacana-wacana,dasar,
+133199.1,v,,<wacana> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+133200,v,2,wacanakan,dasar,
+133200.1,v,,<wacana> + -kan,bentukan,[29] [S] -kan + (<all>)
+133200.2,x,,<wacanak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+133201,v,10,wacananya,dasar,
+133201.1,v,,<wacana> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+133202,k,0,wacinwa,dasar,
+,,,,,
+133203,v,15,wada,dasar,
+,,,,,
+133204,k,877,wadah,dasar,
+,,,,,
+133205,v,8,wadah-wadah,dasar,
+133205.1,v,,<wadah> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+133206,v,19,wadahnya,dasar,
+133206.1,v,,<wadah> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+133207,k,0,wadak,dasar,
+,,,,,
+133208,k,0,wadal,dasar,
+,,,,,
+133209,v,2,wadan,dasar,
+133209.1,x,,<wad> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+133210,k,0,wadar,dasar,
+,,,,,
+133211,k,0,wadas,dasar,
+,,,,,
+133212,k,0,wadasan,dasar,
+133212.1,v,,<wadas> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+133213,k,0,wadat,dasar,
+,,,,,
+133214,c,6,wader,dasar,badar
+,,,,,
+133215,k,16,wadi,dasar,
+133215.1,x,,<wad> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+133216,k,29,wadiah,dasar,
+133216.1,x,,<wad> + -iah,bentukan,[175] [S] -iah + (<others>)
+,,,,,
+133217,k,0,wadilae,dasar,
+,,,,,
+133218,v,4,wadir,dasar,
+,,,,,
+133219,k,4,waditra,dasar,
+,,,,,
+133220,k,82,waduh,dasar,
+,,,,,
+133221,k,189,waduk,dasar,
+,,,,,
+133222,v,6,waduk-waduk,dasar,
+133222.1,v,,<waduk> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+133223,k,0,wadul,dasar,
+,,,,,
+133224,k,0,wadung,dasar,
+,,,,,
+133225,k,0,wadyabala,dasar,
+,,,,,
+133226,k,0,waerana,dasar,
+,,,,,
+133227,k,21,wafa,dasar,
+,,,,,
+133228,k,0,wafak,dasar,
+,,,,,
+133229,k,284,wafat,dasar,
+,,,,,
+133230,v,71,wafatnya,dasar,
+133230.1,v,,<wafat> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+133231,k,0,wafel,dasar,
+,,,,,
+133232,k,7,wafer,dasar,
+,,,,,
+133233,k,0,wafer pucuk tebu,dasar,
+,,,,,
+133234,k,29,wage,dasar,
+,,,,,
+133235,v,2,wagiu,dasar,
+,,,,,
+133236,k,45,wagon,dasar,
+,,,,,
+133237,k,2,wagu,dasar,
+,,,,,
+133238,v,38,wagub,dasar,
+,,,,,
+133239,k,0,wagyu,dasar,
+,,,,,
+133240,k,378,wah,dasar,
+,,,,,
+133241,k,23,wahabi,dasar,
+133241.1,x,,<wahab> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+133242,v,8,wahabisme,dasar,
+133242.1,x,,<wahab> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+133243,t,5,wahabiyah,dasar,wahabiah
+,,,,,
+133244,k,0,wahadah,dasar,
+,,,,,
+133245,k,0,wahadaniah,dasar,
+133245.1,x,,<wahadan> + -iah,bentukan,[175] [S] -iah + (<others>)
+,,,,,
+133246,k,0,wahadat,dasar,
+,,,,,
+133247,k,0,wahadiah,dasar,
+133247.1,x,,<wahad> + -iah,bentukan,[175] [S] -iah + (<others>)
+,,,,,
+133248,k,0,wahah,dasar,
+,,,,,
+133249,k,142,wahai,dasar,
+133249.1,x,,<waha> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+133250,k,3,waham,dasar,
+,,,,,
+133251,k,2,wahan,dasar,
+133251.1,x,,<wah> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+133252,k,382,wahana,dasar,
+,,,,,
+133253,k,0,wahana antariksa,dasar,
+,,,,,
+133254,v,4,wahana-wahana,dasar,
+133254.1,v,,<wahana> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+133255,v,4,wahananya,dasar,
+133255.1,v,,<wahana> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+133256,k,2,wahau,dasar,
+,,,,,
+133257,k,3,wahdah,dasar,
+,,,,,
+133258,t,2,wahdahu,dasar,wahdah
+,,,,,
+133259,k,0,wahdaniah,dasar,
+133259.1,x,,<wahdan> + -iah,bentukan,[175] [S] -iah + (<others>)
+,,,,,
+133260,k,0,wahdiah,dasar,
+133260.1,x,,<wahd> + -iah,bentukan,[175] [S] -iah + (<others>)
+,,,,,
+133261,c,2,wahi,dasar,wahyu
+133261.1,x,,<wah> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+133262,k,7,wahib,dasar,
+,,,,,
+133263,k,287,wahid,dasar,
+,,,,,
+133264,k,0,wahon,dasar,
+,,,,,
+133265,k,367,wahyu,dasar,
+,,,,,
+133266,t,2,wahyu-nya,dasar,wahyunya
+133266.1,v,,<wahyu-> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+133267,v,2,wahyu-wahyu,dasar,
+133267.1,v,,<wahyu> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+133268,v,3,wahyukan,dasar,
+133268.1,v,,<wahyu> + -kan,bentukan,[29] [S] -kan + (<all>)
+133268.2,x,,<wahyuk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+133269,v,5,wahyunya,dasar,
+133269.1,v,,<wahyu> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+133270,k,22,wai,dasar,
+133270.1,x,,<wa> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+133271,k,0,waid,dasar,
+,,,,,
+133272,k,0,waiduri,dasar,
+133272.1,x,,<waidur> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+133273,k,13,waigeo,dasar,
+,,,,,
+133274,x,3,wailayah,dasar,wilayah
+,,,,,
+133275,k,0,waima,dasar,
+,,,,,
+133276,k,0,waina,dasar,
+,,,,,
+133277,k,0,wairon,dasar,
+,,,,,
+133278,k,12,waisak,dasar,
+,,,,,
+133279,k,6,waisya,dasar,
+,,,,,
+133280,k,0,waitankung,dasar,
+,,,,,
+133281,c,8,waja,dasar,baja
+,,,,,
+133282,k,2315,wajah,dasar,
+,,,,,
+133283,k,0,wajah bentuk hati,dasar,
+133283.1,x,,<wajah bentuk hat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+133284,k,0,wajah buku,dasar,
+133284.1,x,,<wajah bu> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+133285,k,0,wajah bulat,dasar,
+,,,,,
+133286,k,0,wajah oval,dasar,
+,,,,,
+133287,k,0,wajah panjang,dasar,
+,,,,,
+133288,k,0,wajah persegi,dasar,
+133288.1,x,,<wajah perseg> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+133289,t,6,wajah-nya,dasar,wajahnya
+133289.1,v,,<wajah-> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+133290,v,143,wajah-wajah,dasar,
+133290.1,v,,<wajah> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+133291,v,922,wajahnya,dasar,
+133291.1,v,,<wajah> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+133292,k,55,wajan,dasar,
+133292.1,x,,<waj> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+133293,x,2,wajang,dasar,wajan
+,,,,,
+133294,v,4,wajannya,dasar,
+133294.1,v,,<wajan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+133294.2,x,,<waj> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+133295,k,1589,wajar,dasar,
+,,,,,
+133296,v,17,wajar-wajar,dasar,
+133296.1,v,,<wajar> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+133297,x,2,wajarb,dasar,wajar
+,,,,,
+133298,v,3,wajarkah,dasar,
+133298.1,v,,<wajar> + -kah,bentukan,[30] [FS] -kah + (<all>)
+,,,,,
+133299,v,29,wajarlah,dasar,
+133299.1,v,,<wajar> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+133300,v,13,wajarnya,dasar,
+133300.1,v,,<wajar> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+133301,k,3777,wajib,dasar,
+,,,,,
+133302,k,0,wajib belajar,dasar,
+,,,,,
+133303,k,0,wajib kerja,dasar,
+,,,,,
+133304,k,0,wajib lapor,dasar,
+,,,,,
+133305,k,0,wajib latihan kerja,dasar,
+,,,,,
+133306,k,0,wajib militer,dasar,
+,,,,,
+133307,k,0,wajib pajak,dasar,
+,,,,,
+133308,k,0,wajib pajak takbayar,dasar,
+,,,,,
+133309,k,0,wajib serah,dasar,
+,,,,,
+133310,v,2,wajib-wajib,dasar,
+133310.1,v,,<wajib> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+133311,t,2,wajiban,dasar,kewajiban
+133311.1,v,,<wajib> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+133312,v,17,wajibkan,dasar,
+133312.1,v,,<wajib> + -kan,bentukan,[29] [S] -kan + (<all>)
+133312.2,x,,<wajibk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+133313,k,7,wajik,dasar,
+,,,,,
+133314,k,0,wajit,dasar,
+,,,,,
+133315,k,34,wajo,dasar,
+,,,,,
+133316,k,56,wak,dasar,
+,,,,,
+133317,x,2,wak-tu,dasar,waktu
+,,,,,
+133318,k,228,wakaf,dasar,
+,,,,,
+133319,v,5,wakafkan,dasar,
+133319.1,v,,<wakaf> + -kan,bentukan,[29] [S] -kan + (<all>)
+133319.2,x,,<wakafk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+133320,k,14,wakalah,dasar,
+133320.1,x,,<waka> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+133321,k,0,wakame,dasar,
+,,,,,
+133322,v,14,wakapolda,dasar,
+,,,,,
+133323,v,4,wakapolres,dasar,
+,,,,,
+133324,v,26,wakapolri,dasar,
+133324.1,x,,<wakapolr> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+133325,v,3,wakasad,dasar,
+,,,,,
+133326,v,3,wakasal,dasar,
+,,,,,
+133327,v,3,wakasau,dasar,
+,,,,,
+133328,v,3,wakasek,dasar,
+,,,,,
+133329,k,42,wakatobi,dasar,
+133329.1,x,,<wakatob> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+133330,k,0,wakde,dasar,
+,,,,,
+133331,v,5,waketum,dasar,
+,,,,,
+133332,k,30,wakif,dasar,
+,,,,,
+133333,k,4078,wakil,dasar,
+,,,,,
+133334,k,0,wakil mahkota,dasar,
+,,,,,
+133335,k,0,wakil nikah,dasar,
+133335.1,x,,<wakil ni> + -kah,bentukan,[30] [FS] -kah + (<all>)
+133335.2,x,,<wakil n> + -i + -kah,bentukan,[28] [S] -i + (<all>) => [30] [FS] -kah + (<all>)
+,,,,,
+133336,k,0,wakil rakyat,dasar,
+,,,,,
+133337,t,3,wakil-nya,dasar,wakilnya
+133337.1,v,,<wakil-> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+133338,v,64,wakil-wakil,dasar,
+133338.1,v,,<wakil> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+133339,v,26,wakili,dasar,
+133339.1,v,,<wakil> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+133340,v,2,wakilkan,dasar,
+133340.1,v,,<wakil> + -kan,bentukan,[29] [S] -kan + (<all>)
+133340.2,x,,<wakilk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+133341,v,2,wako,dasar,
+,,,,,
+133342,k,12762,waktu,dasar,
+,,,,,
+133343,k,0,waktu akses,dasar,
+,,,,,
+133344,k,0,waktu baku antara,dasar,
+,,,,,
+133345,k,0,waktu baku utama,dasar,
+,,,,,
+133346,k,0,waktu duga berangkat,dasar,
+,,,,,
+133347,k,0,waktu duga tiba,dasar,
+,,,,,
+133348,k,0,waktu garapan,dasar,
+133348.1,x,,<waktu garap> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+133349,k,0,waktu gerakan,dasar,
+133349.1,x,,<waktu gera> + -kan,bentukan,[29] [S] -kan + (<all>)
+133349.2,x,,<waktu gerak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+133350,k,0,waktu luncur,dasar,
+,,,,,
+133351,k,0,waktu mintakat,dasar,
+,,,,,
+133352,k,0,waktu nyata,dasar,
+,,,,,
+133353,k,0,waktu paruh,dasar,
+,,,,,
+133354,k,0,waktu pelemahan langkisau,dasar,
+,,,,,
+133355,k,0,waktu pembentukan langkisau,dasar,
+,,,,,
+133356,k,0,waktu permainan,dasar,
+133356.1,x,,<waktu permain> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+133357,k,0,waktu pertandingan,dasar,
+133357.1,x,,<waktu pertanding> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+133358,k,0,waktu reaksi,dasar,
+133358.1,x,,<waktu reaks> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+133359,k,0,waktu reaksi diskriminasi,dasar,
+133359.1,x,,<waktu reaksi diskriminas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+133360,k,0,waktu reaksi pilih,dasar,
+,,,,,
+133361,k,0,waktu relatif,dasar,
+,,,,,
+133362,k,0,waktu respons,dasar,
+,,,,,
+133363,k,0,waktu setempat,dasar,
+,,,,,
+133364,k,0,waktu siar,dasar,
+,,,,,
+133365,k,0,waktu sideris,dasar,
+133365.1,x,,<waktu sideri> + [-is:-s],bentukan,[177] [S] -is + (i)
+133365.2,x,,<waktu sider> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+133366,k,0,waktu sinoptik,dasar,
+,,,,,
+133367,k,0,waktu sosial,dasar,
+,,,,,
+133368,k,0,waktu surya,dasar,
+,,,,,
+133369,k,0,waktu tunggu,dasar,
+,,,,,
+133370,t,2,waktu-ruang,dasar,waktu ruang
+,,,,,
+133371,v,114,waktu-waktu,dasar,
+133371.1,v,,<waktu> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+133372,v,54,waktuku,dasar,
+133372.1,v,,<waktu> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+133373,v,32,waktumu,dasar,
+133373.1,v,,<waktu> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+,,,,,
+133374,x,2,waktunganterin,dasar,
+,,,,,
+133375,v,1056,waktunya,dasar,
+133375.1,v,,<waktu> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+133376,v,2,wakum,dasar,
+,,,,,
+133377,k,0,wakumo,dasar,
+,,,,,
+133378,k,0,wakun,dasar,
+,,,,,
+133379,v,2,wakuncar,dasar,
+,,,,,
+133380,k,0,wakwak,dasar,
+,,,,,
+133381,k,2,walabi,dasar,
+133381.1,x,,<walab> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+133382,k,0,walabi esem,dasar,
+,,,,,
+133383,k,0,walabi kecil,dasar,
+,,,,,
+133384,k,0,walabi kelabu,dasar,
+,,,,,
+133385,k,0,walabi lau-lau,dasar,
+,,,,,
+133386,k,0,walad,dasar,
+,,,,,
+133387,k,34,walafiat,dasar,
+,,,,,
+133388,k,0,walago,dasar,
+,,,,,
+133389,k,9,walah,dasar,
+133389.1,x,,<wa> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+133390,k,0,walajar,dasar,
+,,,,,
+133391,k,2,walak,dasar,
+,,,,,
+133392,k,0,walaka,dasar,
+,,,,,
+133393,k,0,walakhir,dasar,
+,,,,,
+133394,k,2,walakin,dasar,
+,,,,,
+133395,k,12,walang,dasar,
+,,,,,
+133396,k,0,walang sangit,dasar,
+,,,,,
+133397,k,0,walanghati,dasar,
+133397.1,x,,<walanghat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+133398,k,0,walangkopo,dasar,
+,,,,,
+133399,k,0,walango,dasar,
+,,,,,
+133400,k,0,walao,dasar,
+,,,,,
+133401,x,2,walapaun,dasar,walaupun
+,,,,,
+133402,x,19,walapun,dasar,walaupun
+,,,,,
+133403,k,0,walat,dasar,
+,,,,,
+133404,k,0,walatra,dasar,
+,,,,,
+133405,k,0,walatung,dasar,
+,,,,,
+133406,k,1198,walau,dasar,
+,,,,,
+133407,k,2467,walaupun,dasar,
+,,,,,
+133408,k,0,walaupun begitu,dasar,
+,,,,,
+133409,k,0,walaupun demikian,dasar,
+133409.1,x,,<walaupun demiki> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+133410,k,0,waledan,dasar,
+133410.1,x,,<waled> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+133411,k,0,waleh,dasar,
+,,,,,
+133412,k,35,walet,dasar,
+,,,,,
+133413,k,260,walhasil,dasar,
+,,,,,
+133414,v,57,walhi,dasar,
+133414.1,x,,<walh> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+133415,v,5,walhidayah,dasar,
+,,,,,
+133416,c,1082,wali,dasar,rajawali
+133416.1,x,,<wal> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+133417,k,0,wali allah,dasar,
+133417.1,x,,<wali al> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+133418,k,0,wali hakim,dasar,
+,,,,,
+133419,k,0,wali kelas,dasar,
+,,,,,
+133420,k,0,wali kota,dasar,
+,,,,,
+133421,k,0,wali mujbir,dasar,
+,,,,,
+133422,k,0,wali murid,dasar,
+,,,,,
+133423,k,0,wali negara,dasar,
+,,,,,
+133424,k,0,wali negeri,dasar,
+133424.1,x,,<wali neger> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+133425,k,0,wali rumah,dasar,
+,,,,,
+133426,k,0,wali sanga,dasar,
+,,,,,
+133427,k,5,wali-wali,dasar,
+133427.1,v,,<wali> [-] <r>,bentukan,[23] [RD] |
+133427.2,x,,<wal> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+133428,t,2,wali-wali-nya,dasar,wali-walinya
+133428.1,x,,<wali> [-] <r>,bentukan,[23] [RD] |
+133428.2,x,,<wal> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+133429,k,15,walian,dasar,
+133429.1,x,,<wali> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+133430,v,3,walidain,dasar,
+,,,,,
+133431,k,6,walik,dasar,
+,,,,,
+133432,v,2,walikan,dasar,
+133432.1,v,,<wali> + -kan,bentukan,[29] [S] -kan + (<all>)
+133432.2,x,,<walik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+133433,t,2,walikelas,dasar,wali kelas
+,,,,,
+133434,c,489,walikota,dasar,wali kota
+,,,,,
+133435,v,2,waliku,dasar,
+133435.1,v,,<wali> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+133435.2,x,,<wal> + -i + -ku,bentukan,[28] [S] -i + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+133436,k,3,walikukun,dasar,
+,,,,,
+133437,k,0,walilat,dasar,
+,,,,,
+133438,k,6,walimah,dasar,
+,,,,,
+133439,k,0,walimah safar,dasar,
+,,,,,
+133440,k,0,walimah urusy,dasar,
+,,,,,
+133441,k,0,walimana,dasar,
+,,,,,
+133442,k,0,walimat,dasar,
+,,,,,
+133443,k,0,walimomo,dasar,
+,,,,,
+133444,k,6,walini,dasar,
+133444.1,x,,<walin> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+133445,v,20,walinya,dasar,
+133445.1,v,,<wali> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+133445.2,x,,<wal> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+133446,k,0,walipuhun,dasar,
+,,,,,
+133447,v,2,walis,dasar,
+133447.1,x,,<wali> + [-is:-s],bentukan,[177] [S] -is + (i)
+133447.2,x,,<wal> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+133448,k,4,waliullah,dasar,
+133448.1,x,,<waliul> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+133449,t,4,waliyullah,dasar,waliullah
+133449.1,x,,<waliyul> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+133450,v,5,walkot,dasar,
+,,,,,
+133451,t,4,wallah,dasar,wallahi
+133451.1,x,,<wal> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+133452,k,2,wallahi,dasar,
+133452.1,x,,<wallah> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+133453,k,9,wallahualam,dasar,
+,,,,,
+133454,k,0,wallahualam bissawab,dasar,
+,,,,,
+133455,k,0,walmana,dasar,
+,,,,,
+133456,v,2,walmursalin,dasar,
+,,,,,
+133457,k,0,walrus,dasar,
+,,,,,
+133458,k,0,wals,dasar,
+,,,,,
+133459,k,0,walsa,dasar,
+,,,,,
+133460,v,8,walubi,dasar,
+133460.1,x,,<walub> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+133461,k,3,waluh,dasar,
+,,,,,
+133462,k,0,waluh jipang,dasar,
+,,,,,
+133463,k,3,waluku,dasar,
+133463.1,x,,<walu> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+133464,k,5,wam,dasar,
+,,,,,
+133465,k,0,wambi,dasar,
+133465.1,x,,<wamb> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+133466,k,0,wambon,dasar,
+,,,,,
+133467,k,0,wambrau,dasar,
+,,,,,
+133468,v,56,wamen,dasar,
+,,,,,
+133469,k,72,wamena,dasar,
+,,,,,
+133470,v,14,wamenag,dasar,
+,,,,,
+133471,v,9,wamendikbud,dasar,
+,,,,,
+133472,v,27,wamenhan,dasar,
+133472.1,x,,<wamenh> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+133473,v,15,wamenhub,dasar,
+,,,,,
+133474,v,12,wamenkes,dasar,
+,,,,,
+133475,v,2,wamenkum,dasar,
+,,,,,
+133476,v,2,wamenparekraf,dasar,
+,,,,,
+133477,v,16,wamenperin,dasar,
+,,,,,
+133478,v,5,wamil,dasar,
+,,,,,
+133479,k,126,wan,dasar,
+133479.1,x,,<w> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+133480,k,28,wana,dasar,
+,,,,,
+133481,k,0,wana antara,dasar,
+,,,,,
+133482,v,7,wanabakti,dasar,
+133482.1,x,,<wanabakt> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+133483,v,5,wanadri,dasar,
+133483.1,x,,<wanadr> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+133484,k,0,wanam,dasar,
+,,,,,
+133485,k,2,wanamina,dasar,
+,,,,,
+133486,k,0,wanap,dasar,
+,,,,,
+133487,k,9,wanara,dasar,
+,,,,,
+133488,k,2,wanatani,dasar,
+133488.1,x,,<wanatan> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+133489,k,0,wanawisata,dasar,
+133489.1,x,,<wana> + -wisata,bentukan,[212] [S] -wisata + (<all>)
+,,,,,
+133490,k,34,wanda,dasar,
+133490.1,x,,<wa> + [-anda:-nda],bentukan,[183] [S] -anda + (i;u;a;[k:])
+133490.2,x,,<wan> + [-anda:-da],bentukan,[184] [S] -anda + (an)
+133490.3,x,,<w> + -anda,bentukan,[185] [S] -anda + (<others>)
+,,,,,
+133491,k,0,wandamen,dasar,
+,,,,,
+133492,k,0,wande-wande,dasar,
+133492.1,v,,<wande> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+133493,k,0,wandub,dasar,
+,,,,,
+133494,c,181,wang,dasar,uang
+,,,,,
+133495,k,0,wangeya,dasar,
+,,,,,
+133496,k,0,wanggom,dasar,
+,,,,,
+133497,k,286,wangi,dasar,
+133497.1,x,,<wang> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+133498,v,8,wangi-wangi,dasar,
+133498.1,v,,<wangi> [-] <r>,bentukan,[23] [RD] |
+133498.2,x,,<wang> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+133499,k,7,wangi-wangian,dasar,
+133499.1,v,,<wangi> [-] <r> + -an,bentukan,[23] [RD] |
+133499.2,x,,<wang> + -i [-] <r> + -i + -an,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+133500,v,34,wanginya,dasar,
+133500.1,v,,<wangi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+133500.2,x,,<wang> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+133501,x,2,wangiwangi,dasar,wangi-wangi
+133501.1,x,,<wangiwang> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+133502,k,0,wangka,dasar,
+,,,,,
+133503,k,0,wangkah,dasar,
+133503.1,x,,<wang> + -kah,bentukan,[30] [FS] -kah + (<all>)
+,,,,,
+133504,k,0,wangkang,dasar,
+,,,,,
+133505,k,0,wangkara,dasar,
+,,,,,
+133506,k,0,wangkas,dasar,
+,,,,,
+133507,k,0,wangkis,dasar,
+133507.1,x,,<wangki> + [-is:-s],bentukan,[177] [S] -is + (i)
+133507.2,x,,<wangk> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+133508,k,0,wangkisan,dasar,
+133508.1,v,,<wangkis> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+133509,k,0,wangkot,dasar,
+,,,,,
+133510,k,31,wangsa,dasar,
+,,,,,
+133511,k,0,wangsalan,dasar,
+133511.1,x,,<wangsal> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+133512,k,21,wangsit,dasar,
+,,,,,
+133513,k,0,wangur,dasar,
+,,,,,
+133514,k,18,wani,dasar,
+133514.1,x,,<wan> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+133515,k,2504,wanita,dasar,
+,,,,,
+133516,k,0,wanita karier,dasar,
+,,,,,
+133517,k,0,wanita tunasusila,dasar,
+,,,,,
+133518,v,60,wanita-wanita,dasar,
+133518.1,v,,<wanita> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+133519,v,3,wanitaku,dasar,
+133519.1,v,,<wanita> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+133520,k,0,wano,dasar,
+,,,,,
+133521,k,0,wanodya,dasar,
+,,,,,
+133522,k,46,wanprestasi,dasar,
+133522.1,x,,<wanprestas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+133523,k,4,wantah,dasar,
+,,,,,
+133524,k,0,wantahan,dasar,
+133524.1,v,,<wantah> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+133525,k,0,wantek,dasar,
+,,,,,
+133526,k,30,wanti-wanti,dasar,
+133526.1,v,,<wanti> [-] <r>,bentukan,[23] [RD] |
+133526.2,x,,<want> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+133527,k,6,wantilan,dasar,
+133527.1,x,,<wantil> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+133528,v,11,wantimpres,dasar,
+,,,,,
+133529,k,0,wanua,dasar,
+,,,,,
+133530,k,0,wanuhe,dasar,
+,,,,,
+133531,k,0,wanukaka,dasar,
+,,,,,
+133532,k,0,wanyi,dasar,
+133532.1,x,,<wany> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+133533,v,2,wapangab,dasar,
+,,,,,
+133534,v,203,wapres,dasar,
+,,,,,
+133535,k,0,waqaf,dasar,
+,,,,,
+133536,c,123,war,dasar,uar
+,,,,,
+133537,x,2,war-tawan,dasar,wartawan
+133537.1,x,,<war-taw> + -an,bentukan,[38] [S] -an + (<all>)
+133537.2,x,,<war-ta> + -wan,bentukan,[180] [S] -wan + (<others>)
+133537.3,x,,<war-t> + [-wan:-awan],bentukan,[18000001] [S] -wan + (<all>)
+,,,,,
+133538,k,17,wara,dasar,
+,,,,,
+133539,k,0,wara laba,dasar,
+,,,,,
+133540,k,0,wara-wara,dasar,
+133540.1,v,,<wara> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+133541,k,14,wara-wiri,dasar,
+133541.1,v,,<wara-wiri>,bentukan,[Reduplication-Rhyming]
+133541.2,x,,<wara-wir> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+133542,k,0,warahan,dasar,
+133542.1,x,,<warah> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+133543,v,22,warahmatullah,dasar,
+133543.1,x,,<warahmatul> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+133544,k,5,warak,dasar,
+,,,,,
+133545,k,0,warakat,dasar,
+,,,,,
+133546,k,3,warakawuri,dasar,
+133546.1,x,,<warakawur> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+133547,k,68,waralaba,dasar,
+,,,,,
+133548,v,2,waralabanya,dasar,
+133548.1,v,,<waralaba> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+133549,k,0,warangan,dasar,
+133549.1,x,,<warang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+133550,k,2,waranggana,dasar,
+,,,,,
+133551,k,2,warangka,dasar,
+,,,,,
+133552,k,138,waras,dasar,
+,,,,,
+133553,k,0,warasah,dasar,
+,,,,,
+133554,c,12,wardi,dasar,rodi
+133554.1,x,,<ward> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+133555,k,0,warembori,dasar,
+133555.1,x,,<warembor> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+133556,k,0,wares,dasar,
+,,,,,
+133557,k,0,warfarin,dasar,
+,,,,,
+133558,k,5132,warga,dasar,
+,,,,,
+133559,k,0,warga dalam,dasar,
+,,,,,
+133560,k,0,warga dunia,dasar,
+,,,,,
+133561,k,0,warga jagat,dasar,
+,,,,,
+133562,k,0,warga kota,dasar,
+,,,,,
+133563,k,0,warga negara,dasar,
+,,,,,
+133564,k,0,warga negara asing,dasar,
+,,,,,
+133565,k,0,warga pinggiran,dasar,
+133565.1,x,,<warga pinggir> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+133566,x,3,warga-negara,dasar,warga negara
+,,,,,
+133567,v,7,warga-warga,dasar,
+133567.1,v,,<warga> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+133568,x,2,wargawarga,dasar,warga-warga
+,,,,,
+133569,k,3,wari,dasar,
+133569.1,x,,<war> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+133570,v,24,waria,dasar,
+,,,,,
+133571,k,0,wariagung,dasar,
+,,,,,
+133572,v,4,warianya,dasar,
+133572.1,v,,<waria> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+133573,k,0,waribo,dasar,
+,,,,,
+133574,k,0,warid,dasar,
+,,,,,
+133575,k,0,wariga,dasar,
+,,,,,
+133576,k,0,warigadian,dasar,
+133576.1,x,,<warigadi> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+133577,k,0,warik,dasar,
+,,,,,
+133578,k,2,waring,dasar,
+,,,,,
+133579,k,0,waring wera wanua,dasar,
+,,,,,
+133580,k,16,waringin,dasar,

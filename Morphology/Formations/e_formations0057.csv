@@ -1,0 +1,1235 @@
+Nomor,KP,Jumlah,Entri,Tipe,Pembentukan
+27724,v,174,dilaksanakannya,dasar,
+27724.1,x,,di- + <laksanakannya>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27724.2,x,,<dilaksanakan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+27724.3,v,,di- + <laksana> + -kan + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+27724.4,x,,di- + <laksanakan> + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+27724.5,x,,<dilaksana> + -kan + -nya,bentukan,[29] [S] -kan + (<all>) => [34] [SFS] -nya + (<all>)
+27724.6,x,,<dilaksanak> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+27725,t,7,dilakuin,dasar,dilakukan
+27725.1,x,,di- + <lakuin>,bentukan,[37] di- + (<all>) + (-i;-kan)
+,,,,,
+27726,v,15155,dilakukan,dasar,
+27726.1,v,,di- + <laku> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27726.2,x,,di- + <lakukan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27726.3,x,,<dilaku> + -kan,bentukan,[29] [S] -kan + (<all>)
+27726.4,x,,<dilakuk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27727,v,23,dilakukanlah,dasar,
+27727.1,x,,di- + <lakukanlah>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27727.2,x,,<dilakukan> + -lah,bentukan,[31] [FS] -lah + (<all>)
+27727.3,v,,di- + <laku> + -kan + -lah,bentukan,[37] di- + (<all>) + (-i;-kan) => [31] [FS] -lah + (<all>)
+27727.4,x,,di- + <lakukan> + -lah,bentukan,[37] di- + (<all>) + (-i;-kan) => [31] [FS] -lah + (<all>)
+27727.5,x,,<dilaku> + -kan + -lah,bentukan,[29] [S] -kan + (<all>) => [31] [FS] -lah + (<all>)
+27727.6,x,,<dilakuk> + -an + -lah,bentukan,[38] [S] -an + (<all>) => [31] [FS] -lah + (<all>)
+,,,,,
+27728,v,865,dilakukannya,dasar,
+27728.1,x,,di- + <lakukannya>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27728.2,x,,<dilakukan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+27728.3,v,,di- + <laku> + -kan + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+27728.4,x,,di- + <lakukan> + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+27728.5,x,,<dilaku> + -kan + -nya,bentukan,[29] [S] -kan + (<all>) => [34] [SFS] -nya + (<all>)
+27728.6,x,,<dilakuk> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+27729,t,4,dilalah,dasar,ternyata
+27729.1,x,,di- + <lalah>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27729.2,x,,<dila> + -lah,bentukan,[31] [FS] -lah + (<all>)
+27729.3,x,,di- + <la> + -lah,bentukan,[37] di- + (<all>) + (-i;-kan) => [31] [FS] -lah + (<all>)
+,,,,,
+27730,v,2,dilalai-lalaikan,dasar,
+27730.1,x,,di- + <lala> [-] <r> + -ikan,bentukan,[37] di- + (<all>) + (-i;-kan) => [39] [RD] di-|
+27730.2,v,,di- + <lalai> [-] <r> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan) => [39] [RD] di-|
+,,,,,
+27731,v,10,dilalaikan,dasar,
+27731.1,v,,di- + <lalai> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27731.2,x,,di- + <lalaikan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27731.3,x,,<dilalai> + -kan,bentukan,[29] [S] -kan + (<all>)
+27731.4,x,,<dilalaik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27732,v,17,dilalap,dasar,
+27732.1,v,,di- + <lalap>,bentukan,[37] di- + (<all>) + (-i;-kan)
+,,,,,
+27733,v,481,dilalui,dasar,
+27733.1,v,,di- + <lalu> + -i,bentukan,[37] di- + (<all>) + (-i;-kan)
+27733.2,x,,di- + <lalui>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27733.3,x,,<dilalu> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+27734,v,78,dilaluinya,dasar,
+27734.1,x,,di- + <laluinya>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27734.2,x,,<dilalui> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+27734.3,v,,di- + <lalu> + -i + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+27734.4,x,,di- + <lalui> + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+27734.5,x,,<dilalu> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+27735,x,4,dilalulintaskan,dasar,
+27735.1,x,,di- + <lalulintas> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27735.2,x,,di- + <lalulintaskan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27735.3,x,,<dilalulintas> + -kan,bentukan,[29] [S] -kan + (<all>)
+27735.4,x,,<dilalulintask> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27736,k,0,dilam,dasar,
+27736.1,x,,di- + <lam>,bentukan,[37] di- + (<all>) + (-i;-kan)
+,,,,,
+27737,v,39,dilamar,dasar,
+27737.1,v,,di- + <lamar>,bentukan,[37] di- + (<all>) + (-i;-kan)
+,,,,,
+27738,v,5,dilamarnya,dasar,
+27738.1,x,,di- + <lamarnya>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27738.2,x,,<dilamar> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+27738.3,v,,di- + <lamar> + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+,,,,,
+27739,v,2,dilambai-lambaikan,dasar,
+27739.1,x,,di- + <lamba> [-] <r> + -ikan,bentukan,[37] di- + (<all>) + (-i;-kan) => [39] [RD] di-|
+27739.2,v,,di- + <lambai> [-] <r> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan) => [39] [RD] di-|
+,,,,,
+27740,v,59,dilambangkan,dasar,
+27740.1,v,,di- + <lambang> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27740.2,x,,di- + <lambangkan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27740.3,x,,<dilambang> + -kan,bentukan,[29] [S] -kan + (<all>)
+27740.4,x,,<dilambangk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27741,v,2,dilambangkannya,dasar,
+27741.1,x,,di- + <lambangkannya>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27741.2,x,,<dilambangkan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+27741.3,v,,di- + <lambang> + -kan + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+27741.4,x,,di- + <lambangkan> + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+27741.5,x,,<dilambang> + -kan + -nya,bentukan,[29] [S] -kan + (<all>) => [34] [SFS] -nya + (<all>)
+27741.6,x,,<dilambangk> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+27742,v,2,dilambatkan,dasar,
+27742.1,v,,di- + <lambat> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27742.2,x,,di- + <lambatkan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27742.3,x,,<dilambat> + -kan,bentukan,[29] [S] -kan + (<all>)
+27742.4,x,,<dilambatk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27743,v,2,dilambungkan,dasar,
+27743.1,v,,di- + <lambung> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27743.2,x,,di- + <lambungkan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27743.3,x,,<dilambung> + -kan,bentukan,[29] [S] -kan + (<all>)
+27743.4,x,,<dilambungk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27744,x,2,dilaminating,dasar,
+27744.1,x,,di- + <laminating>,bentukan,[37] di- + (<all>) + (-i;-kan)
+,,,,,
+27745,v,56,dilampaui,dasar,
+27745.1,v,,di- + <lampau> + -i,bentukan,[37] di- + (<all>) + (-i;-kan)
+27745.2,x,,di- + <lampaui>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27745.3,x,,<dilampau> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+27746,v,5,dilampauinya,dasar,
+27746.1,x,,di- + <lampauinya>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27746.2,x,,<dilampaui> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+27746.3,v,,di- + <lampau> + -i + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+27746.4,x,,di- + <lampaui> + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+27746.5,x,,<dilampau> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+27747,v,9,dilampiaskan,dasar,
+27747.1,v,,di- + <lampias> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27747.2,x,,di- + <lampiaskan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27747.3,x,,<dilampias> + -kan,bentukan,[29] [S] -kan + (<all>)
+27747.4,x,,<dilampiask> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27748,v,203,dilampiri,dasar,
+27748.1,v,,di- + <lampir> + -i,bentukan,[37] di- + (<all>) + (-i;-kan)
+27748.2,x,,di- + <lampiri>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27748.3,x,,<dilampir> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+27749,v,119,dilampirkan,dasar,
+27749.1,v,,di- + <lampir> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27749.2,x,,di- + <lampirkan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27749.3,x,,<dilampir> + -kan,bentukan,[29] [S] -kan + (<all>)
+27749.4,x,,<dilampirk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27750,v,2,dilampirkannya,dasar,
+27750.1,x,,di- + <lampirkannya>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27750.2,x,,<dilampirkan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+27750.3,v,,di- + <lampir> + -kan + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+27750.4,x,,di- + <lampirkan> + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+27750.5,x,,<dilampir> + -kan + -nya,bentukan,[29] [S] -kan + (<all>) => [34] [SFS] -nya + (<all>)
+27750.6,x,,<dilampirk> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+27751,k,3,dilamun,dasar,
+27751.1,v,,di- + <lamun>,bentukan,[37] di- + (<all>) + (-i;-kan)
+,,,,,
+27752,v,128,dilancarkan,dasar,
+27752.1,v,,di- + <lancar> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27752.2,x,,di- + <lancarkan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27752.3,x,,<dilancar> + -kan,bentukan,[29] [S] -kan + (<all>)
+27752.4,x,,<dilancark> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27753,v,4,dilancarkannya,dasar,
+27753.1,x,,di- + <lancarkannya>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27753.2,x,,<dilancarkan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+27753.3,v,,di- + <lancar> + -kan + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+27753.4,x,,di- + <lancarkan> + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+27753.5,x,,<dilancar> + -kan + -nya,bentukan,[29] [S] -kan + (<all>) => [34] [SFS] -nya + (<all>)
+27753.6,x,,<dilancark> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+27754,v,327,dilanda,dasar,
+27754.1,v,,di- + <landa>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27754.2,x,,<dila> + [-anda:-nda],bentukan,[183] [S] -anda + (i;u;a;[k:])
+27754.3,x,,<dilan> + [-anda:-da],bentukan,[184] [S] -anda + (an)
+27754.4,x,,<dil> + -anda,bentukan,[185] [S] -anda + (<others>)
+,,,,,
+27755,v,315,dilandasi,dasar,
+27755.1,v,,di- + <landas> + -i,bentukan,[37] di- + (<all>) + (-i;-kan)
+27755.2,x,,di- + <landasi>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27755.3,x,,<dilandas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+27756,v,31,dilandaskan,dasar,
+27756.1,v,,di- + <landas> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27756.2,x,,di- + <landaskan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27756.3,x,,<dilandas> + -kan,bentukan,[29] [S] -kan + (<all>)
+27756.4,x,,<dilandask> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27757,k,0,dilangasa,dasar,
+27757.1,x,,di- + <langasa>,bentukan,[37] di- + (<all>) + (-i;-kan)
+,,,,,
+27758,v,3,dilanggan,dasar,
+27758.1,v,,di- + <langgan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27758.2,x,,<dilangg> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27759,v,223,dilanggar,dasar,
+27759.1,v,,di- + <langgar>,bentukan,[37] di- + (<all>) + (-i;-kan)
+,,,,,
+27760,v,11,dilanggarnya,dasar,
+27760.1,x,,di- + <langgarnya>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27760.2,x,,<dilanggar> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+27760.3,v,,di- + <langgar> + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+,,,,,
+27761,v,13,dilanggengkan,dasar,
+27761.1,v,,di- + <langgeng> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27761.2,x,,di- + <langgengkan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27761.3,x,,<dilanggeng> + -kan,bentukan,[29] [S] -kan + (<all>)
+27761.4,x,,<dilanggengk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27762,v,3,dilangitkan,dasar,
+27762.1,v,,di- + <langit> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27762.2,x,,di- + <langitkan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27762.3,x,,<dilangit> + -kan,bentukan,[29] [S] -kan + (<all>)
+27762.4,x,,<dilangitk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27763,v,14,dilangkahi,dasar,
+27763.1,v,,di- + <langkah> + -i,bentukan,[37] di- + (<all>) + (-i;-kan)
+27763.2,x,,di- + <langkahi>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27763.3,x,,<dilangkah> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+27764,v,6,dilangkahkan,dasar,
+27764.1,v,,di- + <langkah> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27764.2,x,,di- + <langkahkan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27764.3,x,,<dilangkah> + -kan,bentukan,[29] [S] -kan + (<all>)
+27764.4,x,,<dilangkahk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27765,v,2,dilangkahkannya,dasar,
+27765.1,x,,di- + <langkahkannya>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27765.2,x,,<dilangkahkan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+27765.3,v,,di- + <langkah> + -kan + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+27765.4,x,,di- + <langkahkan> + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+27765.5,x,,<dilangkah> + -kan + -nya,bentukan,[29] [S] -kan + (<all>) => [34] [SFS] -nya + (<all>)
+27765.6,x,,<dilangkahk> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+27766,v,238,dilangsungkan,dasar,
+27766.1,v,,di- + <langsung> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27766.2,x,,di- + <langsungkan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27766.3,x,,<dilangsung> + -kan,bentukan,[29] [S] -kan + (<all>)
+27766.4,x,,<dilangsungk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27767,v,12,dilangsungkannya,dasar,
+27767.1,x,,di- + <langsungkannya>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27767.2,x,,<dilangsungkan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+27767.3,v,,di- + <langsung> + -kan + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+27767.4,x,,di- + <langsungkan> + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+27767.5,x,,<dilangsung> + -kan + -nya,bentukan,[29] [S] -kan + (<all>) => [34] [SFS] -nya + (<all>)
+27767.6,x,,<dilangsungk> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+27768,v,28,dilanjut,dasar,
+27768.1,v,,di- + <lanjut>,bentukan,[37] di- + (<all>) + (-i;-kan)
+,,,,,
+27769,t,7,dilanjutin,dasar,dilanjutkan
+27769.1,x,,di- + <lanjutin>,bentukan,[37] di- + (<all>) + (-i;-kan)
+,,,,,
+27770,v,1600,dilanjutkan,dasar,
+27770.1,v,,di- + <lanjut> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27770.2,x,,di- + <lanjutkan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27770.3,x,,<dilanjut> + -kan,bentukan,[29] [S] -kan + (<all>)
+27770.4,x,,<dilanjutk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27771,v,25,dilanjutkannya,dasar,
+27771.1,x,,di- + <lanjutkannya>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27771.2,x,,<dilanjutkan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+27771.3,v,,di- + <lanjut> + -kan + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+27771.4,x,,di- + <lanjutkan> + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+27771.5,x,,<dilanjut> + -kan + -nya,bentukan,[29] [S] -kan + (<all>) => [34] [SFS] -nya + (<all>)
+27771.6,x,,<dilanjutk> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+27772,v,1595,dilansir,dasar,
+27772.1,v,,di- + <lansir>,bentukan,[37] di- + (<all>) + (-i;-kan)
+,,,,,
+27773,v,3,dilantakkan,dasar,
+27773.1,v,,di- + <lantak> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27773.2,x,,di- + <lantakkan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27773.3,x,,<dilantak> + -kan,bentukan,[29] [S] -kan + (<all>)
+27773.4,x,,<dilantakk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27774,v,3,dilantangkan,dasar,
+27774.1,v,,di- + <lantang> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27774.2,x,,di- + <lantangkan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27774.3,x,,<dilantang> + -kan,bentukan,[29] [S] -kan + (<all>)
+27774.4,x,,<dilantangk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27775,v,422,dilantik,dasar,
+27775.1,v,,di- + <lantik>,bentukan,[37] di- + (<all>) + (-i;-kan)
+,,,,,
+27776,v,47,dilantiknya,dasar,
+27776.1,x,,di- + <lantiknya>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27776.2,x,,<dilantik> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+27776.3,v,,di- + <lantik> + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+,,,,,
+27777,v,48,dilantunkan,dasar,
+27777.1,v,,di- + <lantun> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27777.2,x,,di- + <lantunkan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27777.3,x,,<dilantun> + -kan,bentukan,[29] [S] -kan + (<all>)
+27777.4,x,,<dilantunk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27778,v,3,dilantunkannya,dasar,
+27778.1,x,,di- + <lantunkannya>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27778.2,x,,<dilantunkan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+27778.3,v,,di- + <lantun> + -kan + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+27778.4,x,,di- + <lantunkan> + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+27778.5,x,,<dilantun> + -kan + -nya,bentukan,[29] [S] -kan + (<all>) => [34] [SFS] -nya + (<all>)
+27778.6,x,,<dilantunk> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+27779,v,13,dilap,dasar,
+27779.1,v,,di- + <lap>,bentukan,[37] di- + (<all>) + (-i;-kan)
+,,,,,
+27780,k,0,dilapah,dasar,
+27780.1,v,,di- + <lapah>,bentukan,[37] di- + (<all>) + (-i;-kan)
+,,,,,
+27781,v,3,dilapangkan,dasar,
+27781.1,v,,di- + <lapang> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27781.2,x,,di- + <lapangkan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27781.3,x,,<dilapang> + -kan,bentukan,[29] [S] -kan + (<all>)
+27781.4,x,,<dilapangk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27782,k,0,dilapih,dasar,
+27782.1,v,,di- + <lapih>,bentukan,[37] di- + (<all>) + (-i;-kan)
+,,,,,
+27783,v,192,dilapisi,dasar,
+27783.1,v,,di- + <lapis> + -i,bentukan,[37] di- + (<all>) + (-i;-kan)
+27783.2,x,,di- + <lapisi>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27783.3,x,,<dilapis> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+27784,v,4,dilapiskan,dasar,
+27784.1,v,,di- + <lapis> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27784.2,x,,di- + <lapiskan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27784.3,x,,<dilapis> + -kan,bentukan,[29] [S] -kan + (<all>)
+27784.4,x,,<dilapisk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27785,v,9,dilapori,dasar,
+27785.1,v,,di- + <lapor> + -i,bentukan,[37] di- + (<all>) + (-i;-kan)
+27785.2,x,,di- + <lapori>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27785.3,x,,<dilapor> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+27786,v,1980,dilaporkan,dasar,
+27786.1,v,,di- + <lapor> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27786.2,x,,di- + <laporkan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27786.3,x,,<dilapor> + -kan,bentukan,[29] [S] -kan + (<all>)
+27786.4,x,,<dilapork> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27787,v,13,dilaporkannya,dasar,
+27787.1,x,,di- + <laporkannya>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27787.2,x,,<dilaporkan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+27787.3,v,,di- + <lapor> + -kan + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+27787.4,x,,di- + <laporkan> + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+27787.5,x,,<dilapor> + -kan + -nya,bentukan,[29] [S] -kan + (<all>) => [34] [SFS] -nya + (<all>)
+27787.6,x,,<dilapork> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+27788,v,1507,dilarang,dasar,
+27788.1,v,,di- + <larang>,bentukan,[37] di- + (<all>) + (-i;-kan)
+,,,,,
+27789,v,17,dilarangnya,dasar,
+27789.1,x,,di- + <larangnya>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27789.2,x,,<dilarang> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+27789.3,v,,di- + <larang> + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+,,,,,
+27790,v,2,dilaras,dasar,
+27790.1,v,,di- + <laras>,bentukan,[37] di- + (<all>) + (-i;-kan)
+,,,,,
+27791,v,2,dilarik,dasar,
+27791.1,v,,di- + <larik>,bentukan,[37] di- + (<all>) + (-i;-kan)
+,,,,,
+27792,v,123,dilarikan,dasar,
+27792.1,v,,di- + <lari> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27792.2,x,,di- + <larikan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27792.3,x,,<dilari> + -kan,bentukan,[29] [S] -kan + (<all>)
+27792.4,x,,<dilarik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27793,v,2,dilarikannya,dasar,
+27793.1,x,,di- + <larikannya>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27793.2,x,,<dilarikan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+27793.3,v,,di- + <lari> + -kan + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+27793.4,x,,di- + <larikan> + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+27793.5,x,,<dilari> + -kan + -nya,bentukan,[29] [S] -kan + (<all>) => [34] [SFS] -nya + (<all>)
+27793.6,x,,<dilarik> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+27794,v,4,dilarung,dasar,
+27794.1,v,,di- + <larung>,bentukan,[37] di- + (<all>) + (-i;-kan)
+,,,,,
+27795,v,108,dilarutkan,dasar,
+27795.1,v,,di- + <larut> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27795.2,x,,di- + <larutkan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27795.3,x,,<dilarut> + -kan,bentukan,[29] [S] -kan + (<all>)
+27795.4,x,,<dilarutk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27796,v,6,dilas,dasar,
+27796.1,v,,di- + <las>,bentukan,[37] di- + (<all>) + (-i;-kan)
+,,,,,
+27797,v,2,dilaser,dasar,
+27797.1,v,,di- + <laser>,bentukan,[37] di- + (<all>) + (-i;-kan)
+,,,,,
+27798,k,0,dilasi,dasar,
+27798.1,v,,di- + <las> + -i,bentukan,[37] di- + (<all>) + (-i;-kan)
+27798.2,x,,di- + <lasi>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27798.3,x,,<dilas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+27799,k,0,dilatan,dasar,
+27799.1,x,,di- + <latan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27799.2,x,,<dilat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27800,k,0,dilatansi,dasar,
+27800.1,x,,di- + <latans> + -i,bentukan,[37] di- + (<all>) + (-i;-kan)
+27800.2,x,,di- + <latansi>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27800.3,x,,<dilatans> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+27801,v,199,dilatarbelakangi,dasar,
+27801.1,v,,di- + <latarbelakang> + -i,bentukan,[37] di- + (<all>) + (-i;-kan)
+27801.2,x,,di- + <latarbelakangi>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27801.3,x,,<dilatarbelakang> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+27802,v,27,dilatari,dasar,
+27802.1,v,,di- + <latar> + -i,bentukan,[37] di- + (<all>) + (-i;-kan)
+27802.2,x,,di- + <latari>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27802.3,x,,<dilatar> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+27803,k,24,dilatasi,dasar,
+27803.1,x,,di- + <latas> + -i,bentukan,[37] di- + (<all>) + (-i;-kan)
+27803.2,x,,di- + <latasi>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27803.3,x,,<dilatas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+27804,v,350,dilatih,dasar,
+27804.1,v,,di- + <latih>,bentukan,[37] di- + (<all>) + (-i;-kan)
+,,,,,
+27805,v,24,dilatihkan,dasar,
+27805.1,v,,di- + <latih> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27805.2,x,,di- + <latihkan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27805.3,x,,<dilatih> + -kan,bentukan,[29] [S] -kan + (<all>)
+27805.4,x,,<dilatihk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27806,k,0,dilatometer,dasar,
+27806.1,x,,di- + <latometer>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27806.2,x,,<dilato> + -meter,bentukan,[189] [S] -meter + (<all>)
+,,,,,
+27807,k,0,dilatometri,dasar,
+27807.1,x,,di- + <latometr> + -i,bentukan,[37] di- + (<all>) + (-i;-kan)
+27807.2,x,,di- + <latometri>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27807.3,x,,<dilatometr> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+27808,v,121,dilawan,dasar,
+27808.1,v,,di- + <lawan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27808.2,x,,<dilaw> + -an,bentukan,[38] [S] -an + (<all>)
+27808.3,x,,<dila> + -wan,bentukan,[180] [S] -wan + (<others>)
+27808.4,x,,<dil> + [-wan:-awan],bentukan,[18000001] [S] -wan + (<all>)
+,,,,,
+27809,v,8,dilawankan,dasar,
+27809.1,v,,di- + <lawan> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27809.2,x,,di- + <lawankan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27809.3,x,,<dilawan> + -kan,bentukan,[29] [S] -kan + (<all>)
+27809.4,x,,<dilawank> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27810,v,9,dilawannya,dasar,
+27810.1,x,,di- + <lawannya>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27810.2,x,,<dilawan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+27810.3,v,,di- + <lawan> + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+27810.4,x,,<dilaw> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+27810.5,x,,<dila> + -wan + -nya,bentukan,[180] [S] -wan + (<others>) => [34] [SFS] -nya + (<all>)
+27810.6,x,,<dil> + [-wan:-awan] + -nya,bentukan,[18000001] [S] -wan + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+27811,k,4,dilayang,dasar,
+27811.1,v,,di- + <layang>,bentukan,[37] di- + (<all>) + (-i;-kan)
+,,,,,
+27812,k,83,dilayangkan,dasar,
+27812.1,v,,di- + <layang> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27812.2,x,,di- + <layangkan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27812.3,x,,<dilayang> + -kan,bentukan,[29] [S] -kan + (<all>)
+27812.4,x,,<dilayangk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27813,v,3,dilayangkannya,dasar,
+27813.1,x,,di- + <layangkannya>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27813.2,x,,<dilayangkan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+27813.3,v,,di- + <layang> + -kan + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+27813.4,x,,di- + <layangkan> + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+27813.5,x,,<dilayang> + -kan + -nya,bentukan,[29] [S] -kan + (<all>) => [34] [SFS] -nya + (<all>)
+27813.6,x,,<dilayangk> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+27814,v,288,dilayani,dasar,
+27814.1,v,,di- + <layan> + -i,bentukan,[37] di- + (<all>) + (-i;-kan)
+27814.2,x,,di- + <layani>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27814.3,x,,<dilayan> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+27815,v,14,dilayaninya,dasar,
+27815.1,x,,di- + <layaninya>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27815.2,x,,<dilayani> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+27815.3,v,,di- + <layan> + -i + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+27815.4,x,,di- + <layani> + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+27815.5,x,,<dilayan> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+27816,v,8,dilayankan,dasar,
+27816.1,v,,di- + <layan> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27816.2,x,,di- + <layankan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27816.3,x,,<dilayan> + -kan,bentukan,[29] [S] -kan + (<all>)
+27816.4,x,,<dilayank> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27817,v,24,dilayari,dasar,
+27817.1,v,,di- + <layar> + -i,bentukan,[37] di- + (<all>) + (-i;-kan)
+27817.2,x,,di- + <layari>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27817.3,x,,<dilayar> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+27818,v,4,dilayarkan,dasar,
+27818.1,v,,di- + <layar> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27818.2,x,,di- + <layarkan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27818.3,x,,<dilayar> + -kan,bentukan,[29] [S] -kan + (<all>)
+27818.4,x,,<dilayark> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27819,v,2,dilazimkan,dasar,
+27819.1,v,,di- + <lazim> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27819.2,x,,di- + <lazimkan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27819.3,x,,<dilazim> + -kan,bentukan,[29] [S] -kan + (<all>)
+27819.4,x,,<dilazimk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27820,k,3,dildo,dasar,
+,,,,,
+27821,v,15,dilebarkan,dasar,
+27821.1,v,,di- + <lebar> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27821.2,x,,di- + <lebarkan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27821.3,x,,<dilebar> + -kan,bentukan,[29] [S] -kan + (<all>)
+27821.4,x,,<dilebark> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27822,v,22,dilebih-lebihkan,dasar,
+27822.1,v,,di- + <lebih> [-] <r> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan) => [39] [RD] di-|
+,,,,,
+27823,v,12,dilebihkan,dasar,
+27823.1,v,,di- + <lebih> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27823.2,x,,di- + <lebihkan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27823.3,x,,<dilebih> + -kan,bentukan,[29] [S] -kan + (<all>)
+27823.4,x,,<dilebihk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27824,v,46,dilebur,dasar,
+27824.1,v,,di- + <lebur>,bentukan,[37] di- + (<all>) + (-i;-kan)
+,,,,,
+27825,v,6,dileburkan,dasar,
+27825.1,v,,di- + <lebur> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27825.2,x,,di- + <leburkan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27825.3,x,,<dilebur> + -kan,bentukan,[29] [S] -kan + (<all>)
+27825.4,x,,<dileburk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27826,v,72,dilecehkan,dasar,
+27826.1,v,,di- + <leceh> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27826.2,x,,di- + <lecehkan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27826.3,x,,<dileceh> + -kan,bentukan,[29] [S] -kan + (<all>)
+27826.4,x,,<dilecehk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27827,v,4,dilecut,dasar,
+27827.1,v,,di- + <lecut>,bentukan,[37] di- + (<all>) + (-i;-kan)
+,,,,,
+27828,v,35,diledakkan,dasar,
+27828.1,v,,di- + <ledak> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27828.2,x,,di- + <ledakkan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27828.3,x,,<diledak> + -kan,bentukan,[29] [S] -kan + (<all>)
+27828.4,x,,<diledakk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27829,v,2,diledakkannya,dasar,
+27829.1,x,,di- + <ledakkannya>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27829.2,x,,<diledakkan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+27829.3,v,,di- + <ledak> + -kan + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+27829.4,x,,di- + <ledakkan> + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+27829.5,x,,<diledak> + -kan + -nya,bentukan,[29] [S] -kan + (<all>) => [34] [SFS] -nya + (<all>)
+27829.6,x,,<diledakk> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+27830,v,20,diledek,dasar,dicaci
+27830.1,v,,di- + <ledek>,bentukan,[37] di- + (<all>) + (-i;-kan)
+,,,,,
+27831,v,54,dilegalisasi,dasar,
+27831.1,x,,di- + <legalisas> + -i,bentukan,[37] di- + (<all>) + (-i;-kan)
+27831.2,v,,di- + <legalisasi>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27831.3,x,,<dilegalisas> + -i,bentukan,[28] [S] -i + (<all>)
+27831.4,x,,<dilegali> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+27831.5,x,,<dilegalis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+27831.6,p,,<dilegal> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+27832,v,44,dilegalisir,dasar,
+27832.1,x,,di- + <legalisir>,bentukan,[37] di- + (<all>) + (-i;-kan)
+,,,,,
+27833,v,31,dilegalkan,dasar,
+27833.1,v,,di- + <legal> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27833.2,x,,di- + <legalkan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27833.3,x,,<dilegal> + -kan,bentukan,[29] [S] -kan + (<all>)
+27833.4,x,,<dilegalk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27834,v,16,dilegitimasi,dasar,
+27834.1,x,,di- + <legitimas> + -i,bentukan,[37] di- + (<all>) + (-i;-kan)
+27834.2,v,,di- + <legitimasi>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27834.3,x,,<dilegitimas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+27835,v,2,dilegitimasikan,dasar,
+27835.1,v,,di- + <legitimasi> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27835.2,x,,di- + <legitimasikan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27835.3,x,,<dilegitimasi> + -kan,bentukan,[29] [S] -kan + (<all>)
+27835.4,x,,<dilegitimasik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27836,v,10,dilego,dasar,
+27836.1,v,,di- + <lego>,bentukan,[37] di- + (<all>) + (-i;-kan)
+,,,,,
+27837,v,2,dilekaskan,dasar,
+27837.1,v,,di- + <lekas> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27837.2,x,,di- + <lekaskan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27837.3,x,,<dilekas> + -kan,bentukan,[29] [S] -kan + (<all>)
+27837.4,x,,<dilekask> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27838,v,13,dilekati,dasar,
+27838.1,v,,di- + <lekat> + -i,bentukan,[37] di- + (<all>) + (-i;-kan)
+27838.2,x,,di- + <lekati>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27838.3,x,,<dilekat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+27839,v,2,dilekatinya,dasar,
+27839.1,x,,di- + <lekatinya>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27839.2,x,,<dilekati> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+27839.3,v,,di- + <lekat> + -i + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+27839.4,x,,di- + <lekati> + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+27839.5,x,,<dilekat> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+27840,v,112,dilekatkan,dasar,
+27840.1,v,,di- + <lekat> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27840.2,x,,di- + <lekatkan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27840.3,x,,<dilekat> + -kan,bentukan,[29] [S] -kan + (<all>)
+27840.4,x,,<dilekatk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27841,v,79,dilelang,dasar,
+27841.1,v,,di- + <lelang>,bentukan,[37] di- + (<all>) + (-i;-kan)
+,,,,,
+27842,v,3,dilelangkan,dasar,
+27842.1,v,,di- + <lelang> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27842.2,x,,di- + <lelangkan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27842.3,x,,<dilelang> + -kan,bentukan,[29] [S] -kan + (<all>)
+27842.4,x,,<dilelangk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27843,v,2,dilelehi,dasar,
+27843.1,v,,di- + <leleh> + -i,bentukan,[37] di- + (<all>) + (-i;-kan)
+27843.2,x,,di- + <lelehi>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27843.3,x,,<dileleh> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+27844,v,8,dilelehkan,dasar,
+27844.1,v,,di- + <leleh> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27844.2,x,,di- + <lelehkan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27844.3,x,,<dileleh> + -kan,bentukan,[29] [S] -kan + (<all>)
+27844.4,x,,<dilelehk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27845,k,173,dilema,dasar,
+27845.1,x,,di- + <lema>,bentukan,[37] di- + (<all>) + (-i;-kan)
+,,,,,
+27846,k,0,dilema moral,dasar,
+27846.1,x,,di- + <lema moral>,bentukan,[37] di- + (<all>) + (-i;-kan)
+,,,,,
+27847,v,21,dilemahkan,dasar,
+27847.1,v,,di- + <lemah> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27847.2,x,,di- + <lemahkan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27847.3,x,,<dilemah> + -kan,bentukan,[29] [S] -kan + (<all>)
+27847.4,x,,<dilemahk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27848,v,6,dilemanya,dasar,
+27848.1,x,,di- + <lemanya>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27848.2,v,,<dilema> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+27848.3,x,,di- + <lema> + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+,,,,,
+27849,k,3,dilematik,dasar,
+27849.1,x,,di- + <lematik>,bentukan,[37] di- + (<all>) + (-i;-kan)
+,,,,,
+27850,k,74,dilematis,dasar,
+27850.1,x,,di- + <lematis>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27850.2,x,,<dilemati> + [-is:-s],bentukan,[177] [S] -is + (i)
+27850.3,x,,<dilemat> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+27851,v,2,dilematisnya,dasar,
+27851.1,x,,di- + <lematisnya>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27851.2,x,,<dilematis> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+27851.3,x,,di- + <lematis> + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+27851.4,x,,<dilemati> + [-is:-s] + -nya,bentukan,[177] [S] -is + (i) => [34] [SFS] -nya + (<all>)
+27851.5,x,,<dilemat> + -is + -nya,bentukan,[178] [S] -is + (<others>) => [34] [SFS] -nya + (<all>)
+,,,,,
+27852,t,2,dilembabkan,dasar,dilembapkan
+27852.1,x,,di- + <lembab> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27852.2,x,,di- + <lembabkan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27852.3,x,,<dilembab> + -kan,bentukan,[29] [S] -kan + (<all>)
+27852.4,x,,<dilembabk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27853,v,29,dilembagakan,dasar,
+27853.1,v,,di- + <lembaga> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27853.2,x,,di- + <lembagakan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27853.3,x,,<dilembaga> + -kan,bentukan,[29] [S] -kan + (<all>)
+27853.4,x,,<dilembagak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27854,v,3,dilembapkan,dasar,
+27854.1,v,,di- + <lembap> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27854.2,x,,di- + <lembapkan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27854.3,x,,<dilembap> + -kan,bentukan,[29] [S] -kan + (<all>)
+27854.4,x,,<dilembapk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27855,v,3,dilembutkan,dasar,
+27855.1,v,,di- + <lembut> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27855.2,x,,di- + <lembutkan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27855.3,x,,<dilembut> + -kan,bentukan,[29] [S] -kan + (<all>)
+27855.4,x,,<dilembutk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27856,v,138,dilempar,dasar,
+27856.1,v,,di- + <lempar>,bentukan,[37] di- + (<all>) + (-i;-kan)
+,,,,,
+27857,v,36,dilempari,dasar,
+27857.1,v,,di- + <lempar> + -i,bentukan,[37] di- + (<all>) + (-i;-kan)
+27857.2,x,,di- + <lempari>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27857.3,x,,<dilempar> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+27858,v,83,dilemparkan,dasar,
+27858.1,v,,di- + <lempar> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27858.2,x,,di- + <lemparkan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27858.3,x,,<dilempar> + -kan,bentukan,[29] [S] -kan + (<all>)
+27858.4,x,,<dilempark> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27859,v,2,dilemparkanlah,dasar,
+27859.1,x,,di- + <lemparkanlah>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27859.2,x,,<dilemparkan> + -lah,bentukan,[31] [FS] -lah + (<all>)
+27859.3,x,,di- + <lempar> + -kan + -lah,bentukan,[37] di- + (<all>) + (-i;-kan) => [31] [FS] -lah + (<all>)
+27859.4,x,,di- + <lemparkan> + -lah,bentukan,[37] di- + (<all>) + (-i;-kan) => [31] [FS] -lah + (<all>)
+27859.5,x,,<dilempar> + -kan + -lah,bentukan,[29] [S] -kan + (<all>) => [31] [FS] -lah + (<all>)
+27859.6,x,,<dilempark> + -an + -lah,bentukan,[38] [S] -an + (<all>) => [31] [FS] -lah + (<all>)
+,,,,,
+27860,v,18,dilemparkannya,dasar,
+27860.1,x,,di- + <lemparkannya>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27860.2,x,,<dilemparkan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+27860.3,v,,di- + <lempar> + -kan + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+27860.4,x,,di- + <lemparkan> + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+27860.5,x,,<dilempar> + -kan + -nya,bentukan,[29] [S] -kan + (<all>) => [34] [SFS] -nya + (<all>)
+27860.6,x,,<dilempark> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+27861,v,5,dilemparnya,dasar,
+27861.1,x,,di- + <lemparnya>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27861.2,x,,<dilempar> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+27861.3,v,,di- + <lempar> + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+,,,,,
+27862,v,2024,dilengkapi,dasar,
+27862.1,v,,di- + <lengkap> + -i,bentukan,[37] di- + (<all>) + (-i;-kan)
+27862.2,x,,di- + <lengkapi>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27862.3,x,,<dilengkap> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+27863,t,2,dilengkapin,dasar,dilengkapkan
+27863.1,x,,di- + <lengkapin>,bentukan,[37] di- + (<all>) + (-i;-kan)
+,,,,,
+27864,v,2,dilengkapinya,dasar,
+27864.1,x,,di- + <lengkapinya>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27864.2,x,,<dilengkapi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+27864.3,v,,di- + <lengkap> + -i + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+27864.4,x,,di- + <lengkapi> + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+27864.5,x,,<dilengkap> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+27865,v,2,dilengkungkan,dasar,
+27865.1,v,,di- + <lengkung> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27865.2,x,,di- + <lengkungkan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27865.3,x,,<dilengkung> + -kan,bentukan,[29] [S] -kan + (<all>)
+27865.4,x,,<dilengkungk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27866,v,25,dilengserkan,dasar,
+27866.1,v,,di- + <lengser> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27866.2,x,,di- + <lengserkan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27866.3,x,,<dilengser> + -kan,bentukan,[29] [S] -kan + (<all>)
+27866.4,x,,<dilengserk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27867,v,2,dilenturkan,dasar,
+27867.1,v,,di- + <lentur> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27867.2,x,,di- + <lenturkan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27867.3,x,,<dilentur> + -kan,bentukan,[29] [S] -kan + (<all>)
+27867.4,x,,<dilenturk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27868,v,31,dilenyapkan,dasar,
+27868.1,v,,di- + <lenyap> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27868.2,x,,di- + <lenyapkan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27868.3,x,,<dilenyap> + -kan,bentukan,[29] [S] -kan + (<all>)
+27868.4,x,,<dilenyapk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27869,v,2,dilenyapkannya,dasar,
+27869.1,x,,di- + <lenyapkannya>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27869.2,x,,<dilenyapkan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+27869.3,v,,di- + <lenyap> + -kan + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+27869.4,x,,di- + <lenyapkan> + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+27869.5,x,,<dilenyap> + -kan + -nya,bentukan,[29] [S] -kan + (<all>) => [34] [SFS] -nya + (<all>)
+27869.6,x,,<dilenyapk> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+27870,v,379,dilepas,dasar,
+27870.1,v,,di- + <lepas>,bentukan,[37] di- + (<all>) + (-i;-kan)
+,,,,,
+27871,x,3,dilepas-pasang,dasar,
+,,,,,
+27872,v,465,dilepaskan,dasar,
+27872.1,v,,di- + <lepas> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27872.2,x,,di- + <lepaskan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27872.3,x,,<dilepas> + -kan,bentukan,[29] [S] -kan + (<all>)
+27872.4,x,,<dilepask> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27873,v,2,dilepaskanlah,dasar,
+27873.1,x,,di- + <lepaskanlah>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27873.2,x,,<dilepaskan> + -lah,bentukan,[31] [FS] -lah + (<all>)
+27873.3,v,,di- + <lepas> + -kan + -lah,bentukan,[37] di- + (<all>) + (-i;-kan) => [31] [FS] -lah + (<all>)
+27873.4,x,,di- + <lepaskan> + -lah,bentukan,[37] di- + (<all>) + (-i;-kan) => [31] [FS] -lah + (<all>)
+27873.5,x,,<dilepas> + -kan + -lah,bentukan,[29] [S] -kan + (<all>) => [31] [FS] -lah + (<all>)
+27873.6,x,,<dilepask> + -an + -lah,bentukan,[38] [S] -an + (<all>) => [31] [FS] -lah + (<all>)
+,,,,,
+27874,v,26,dilepaskannya,dasar,
+27874.1,x,,di- + <lepaskannya>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27874.2,x,,<dilepaskan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+27874.3,v,,di- + <lepas> + -kan + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+27874.4,x,,di- + <lepaskan> + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+27874.5,x,,<dilepas> + -kan + -nya,bentukan,[29] [S] -kan + (<all>) => [34] [SFS] -nya + (<all>)
+27874.6,x,,<dilepask> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+27875,v,8,dilepasliarkan,dasar,
+27875.1,v,,di- + <lepasliar> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27875.2,x,,di- + <lepasliarkan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27875.3,x,,<dilepasliar> + -kan,bentukan,[29] [S] -kan + (<all>)
+27875.4,x,,<dilepasliark> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27876,v,9,dilepasnya,dasar,
+27876.1,x,,di- + <lepasnya>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27876.2,x,,<dilepas> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+27876.3,v,,di- + <lepas> + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+,,,,,
+27877,v,2,dilepaspisahkan,dasar,
+27877.1,x,,di- + <lepaspisah> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27877.2,x,,di- + <lepaspisahkan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27877.3,x,,<dilepaspisah> + -kan,bentukan,[29] [S] -kan + (<all>)
+27877.4,x,,<dilepaspisahk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27878,c,35,diler,dasar,
+27878.1,x,,di- + <ler>,bentukan,[37] di- + (<all>) + (-i;-kan)
+,,,,,
+27879,v,7,dilerai,dasar,
+27879.1,x,,di- + <lera> + -i,bentukan,[37] di- + (<all>) + (-i;-kan)
+27879.2,v,,di- + <lerai>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27879.3,x,,<dilera> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+27880,v,9,dilesakkan,dasar,
+27880.1,v,,di- + <lesak> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27880.2,x,,di- + <lesakkan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27880.3,x,,<dilesak> + -kan,bentukan,[29] [S] -kan + (<all>)
+27880.4,x,,<dilesakk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27881,v,10,dilesapkan,dasar,
+27881.1,v,,di- + <lesap> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27881.2,x,,di- + <lesapkan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27881.3,x,,<dilesap> + -kan,bentukan,[29] [S] -kan + (<all>)
+27881.4,x,,<dilesapk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27882,v,5,dilesatkan,dasar,
+27882.1,x,,di- + <lesat> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27882.2,x,,di- + <lesatkan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27882.3,x,,<dilesat> + -kan,bentukan,[29] [S] -kan + (<all>)
+27882.4,x,,<dilesatk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27883,v,2,dileskan,dasar,
+27883.1,v,,di- + <les> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27883.2,x,,di- + <leskan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27883.3,x,,<diles> + -kan,bentukan,[29] [S] -kan + (<all>)
+27883.4,x,,<dilesk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27884,v,195,dilestarikan,dasar,
+27884.1,v,,di- + <lestari> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27884.2,x,,di- + <lestarikan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27884.3,x,,<dilestari> + -kan,bentukan,[29] [S] -kan + (<all>)
+27884.4,x,,<dilestarik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27885,v,2,dilestarikannya,dasar,
+27885.1,x,,di- + <lestarikannya>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27885.2,x,,<dilestarikan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+27885.3,v,,di- + <lestari> + -kan + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+27885.4,x,,di- + <lestarikan> + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+27885.5,x,,<dilestari> + -kan + -nya,bentukan,[29] [S] -kan + (<all>) => [34] [SFS] -nya + (<all>)
+27885.6,x,,<dilestarik> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+27886,v,570,diletakkan,dasar,
+27886.1,v,,di- + <letak> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27886.2,x,,di- + <letakkan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27886.3,x,,<diletak> + -kan,bentukan,[29] [S] -kan + (<all>)
+27886.4,x,,<diletakk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27887,v,2,diletakkanlah,dasar,
+27887.1,x,,di- + <letakkanlah>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27887.2,x,,<diletakkan> + -lah,bentukan,[31] [FS] -lah + (<all>)
+27887.3,v,,di- + <letak> + -kan + -lah,bentukan,[37] di- + (<all>) + (-i;-kan) => [31] [FS] -lah + (<all>)
+27887.4,x,,di- + <letakkan> + -lah,bentukan,[37] di- + (<all>) + (-i;-kan) => [31] [FS] -lah + (<all>)
+27887.5,x,,<diletak> + -kan + -lah,bentukan,[29] [S] -kan + (<all>) => [31] [FS] -lah + (<all>)
+27887.6,x,,<diletakk> + -an + -lah,bentukan,[38] [S] -an + (<all>) => [31] [FS] -lah + (<all>)
+,,,,,
+27888,v,33,diletakkannya,dasar,
+27888.1,x,,di- + <letakkannya>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27888.2,x,,<diletakkan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+27888.3,v,,di- + <letak> + -kan + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+27888.4,x,,di- + <letakkan> + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+27888.5,x,,<diletak> + -kan + -nya,bentukan,[29] [S] -kan + (<all>) => [34] [SFS] -nya + (<all>)
+27888.6,x,,<diletakk> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+27889,k,0,diletan,dasar,
+27889.1,x,,di- + <letan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27889.2,x,,<dilet> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27890,v,2,diletupkan,dasar,
+27890.1,v,,di- + <letup> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27890.2,x,,di- + <letupkan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27890.3,x,,<diletup> + -kan,bentukan,[29] [S] -kan + (<all>)
+27890.4,x,,<diletupk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27891,v,2,diletuskan,dasar,
+27891.1,v,,di- + <letus> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27891.2,x,,di- + <letuskan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27891.3,x,,<diletus> + -kan,bentukan,[29] [S] -kan + (<all>)
+27891.4,x,,<diletusk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27892,v,251,dilewati,dasar,
+27892.1,v,,di- + <lewat> + -i,bentukan,[37] di- + (<all>) + (-i;-kan)
+27892.2,x,,di- + <lewati>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27892.3,x,,<dilewat> + -i,bentukan,[28] [S] -i + (<all>)
+27892.4,x,,<dile> + -wati,bentukan,[181] [S] -wati + (<all>)
+,,,,,
+27893,t,3,dilewatin,dasar,dilewatkan
+27893.1,x,,di- + <lewatin>,bentukan,[37] di- + (<all>) + (-i;-kan)
+,,,,,
+27894,v,35,dilewatinya,dasar,
+27894.1,x,,di- + <lewatinya>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27894.2,x,,<dilewati> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+27894.3,v,,di- + <lewat> + -i + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+27894.4,x,,di- + <lewati> + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+27894.5,x,,<dilewat> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+27894.6,x,,<dile> + -wati + -nya,bentukan,[181] [S] -wati + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+27895,v,110,dilewatkan,dasar,
+27895.1,v,,di- + <lewat> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27895.2,x,,di- + <lewatkan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27895.3,x,,<dilewat> + -kan,bentukan,[29] [S] -kan + (<all>)
+27895.4,x,,<dilewatk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27896,v,3,dilewatkannya,dasar,
+27896.1,x,,di- + <lewatkannya>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27896.2,x,,<dilewatkan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+27896.3,v,,di- + <lewat> + -kan + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+27896.4,x,,di- + <lewatkan> + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+27896.5,x,,<dilewat> + -kan + -nya,bentukan,[29] [S] -kan + (<all>) => [34] [SFS] -nya + (<all>)
+27896.6,x,,<dilewatk> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+27897,v,2,dilhat,dasar,
+,,,,,
+27898,v,2,dilhatnya,dasar,
+27898.1,x,,<dilhat> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+27899,v,17,dilibas,dasar,
+27899.1,v,,di- + <libas>,bentukan,[37] di- + (<all>) + (-i;-kan)
+,,,,,
+27900,v,4,dilibasnya,dasar,
+27900.1,x,,di- + <libasnya>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27900.2,x,,<dilibas> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+27900.3,v,,di- + <libas> + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+,,,,,
+27901,v,372,dilibatkan,dasar,
+27901.1,v,,di- + <libat> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27901.2,x,,di- + <libatkan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27901.3,x,,<dilibat> + -kan,bentukan,[29] [S] -kan + (<all>)
+27901.4,x,,<dilibatk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27902,v,12,dilibatkannya,dasar,
+27902.1,x,,di- + <libatkannya>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27902.2,x,,<dilibatkan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+27902.3,v,,di- + <libat> + -kan + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+27902.4,x,,di- + <libatkan> + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+27902.5,x,,<dilibat> + -kan + -nya,bentukan,[29] [S] -kan + (<all>) => [34] [SFS] -nya + (<all>)
+27902.6,x,,<dilibatk> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+27903,v,46,diliburkan,dasar,
+27903.1,v,,di- + <libur> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27903.2,x,,di- + <liburkan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27903.3,x,,<dilibur> + -kan,bentukan,[29] [S] -kan + (<all>)
+27903.4,x,,<diliburk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27904,v,2,diliburkannya,dasar,
+27904.1,x,,di- + <liburkannya>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27904.2,x,,<diliburkan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+27904.3,v,,di- + <libur> + -kan + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+27904.4,x,,di- + <liburkan> + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+27904.5,x,,<dilibur> + -kan + -nya,bentukan,[29] [S] -kan + (<all>) => [34] [SFS] -nya + (<all>)
+27904.6,x,,<diliburk> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+27905,v,2,dilicinkan,dasar,
+27905.1,v,,di- + <licin> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27905.2,x,,di- + <licinkan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27905.3,x,,<dilicin> + -kan,bentukan,[29] [S] -kan + (<all>)
+27905.4,x,,<dilicink> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27906,v,3682,dilihat,dasar,
+27906.1,v,,di- + <lihat>,bentukan,[37] di- + (<all>) + (-i;-kan)
+,,,,,
+27907,v,12,dilihat-lihat,dasar,
+27907.1,v,,di- + <lihat> [-] <r>,bentukan,[37] di- + (<all>) + (-i;-kan) => [39] [RD] di-|
+,,,,,
+27908,t,5,dilihatin,dasar,dilihat
+27908.1,x,,di- + <lihatin>,bentukan,[37] di- + (<all>) + (-i;-kan)
+,,,,,
+27909,v,2,dilihatkan,dasar,
+27909.1,v,,di- + <lihat> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27909.2,x,,di- + <lihatkan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27909.3,x,,<dilihat> + -kan,bentukan,[29] [S] -kan + (<all>)
+27909.4,x,,<dilihatk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27910,v,247,dilihatnya,dasar,
+27910.1,x,,di- + <lihatnya>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27910.2,x,,<dilihat> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+27910.3,v,,di- + <lihat> + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+,,,,,
+27911,v,3,dilihatnyalah,dasar,
+27911.1,x,,di- + <lihatnyalah>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27911.2,x,,<dilihatnya> + -lah,bentukan,[31] [FS] -lah + (<all>)
+27911.3,x,,di- + <lihatnya> + -lah,bentukan,[37] di- + (<all>) + (-i;-kan) => [31] [FS] -lah + (<all>)
+27911.4,x,,<dilihat> + -nya + -lah,bentukan,[34] [SFS] -nya + (<all>) => [31] [FS] -lah + (<all>)
+27911.5,v,,di- + <lihat> + -nya + -lah,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>) => [31] [FS] -lah + (<all>)
+,,,,,
+27912,v,31,dilikuidasi,dasar,
+27912.1,x,,di- + <likuidas> + -i,bentukan,[37] di- + (<all>) + (-i;-kan)
+27912.2,v,,di- + <likuidasi>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27912.3,x,,<dilikuidas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+27913,v,67,dililit,dasar,
+27913.1,v,,di- + <lilit>,bentukan,[37] di- + (<all>) + (-i;-kan)
+,,,,,
+27914,v,2,dililiti,dasar,
+27914.1,v,,di- + <lilit> + -i,bentukan,[37] di- + (<all>) + (-i;-kan)
+27914.2,x,,di- + <liliti>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27914.3,x,,<dililit> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+27915,v,16,dililitkan,dasar,
+27915.1,v,,di- + <lilit> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27915.2,x,,di- + <lilitkan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27915.3,x,,<dililit> + -kan,bentukan,[29] [S] -kan + (<all>)
+27915.4,x,,<dililitk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27916,k,0,dilimbur,dasar,
+27916.1,x,,di- + <limbur>,bentukan,[37] di- + (<all>) + (-i;-kan)
+,,,,,
+27917,v,18,dilimpahi,dasar,
+27917.1,v,,di- + <limpah> + -i,bentukan,[37] di- + (<all>) + (-i;-kan)
+27917.2,x,,di- + <limpahi>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27917.3,x,,<dilimpah> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+27918,v,191,dilimpahkan,dasar,
+27918.1,v,,di- + <limpah> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27918.2,x,,di- + <limpahkan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27918.3,x,,<dilimpah> + -kan,bentukan,[29] [S] -kan + (<all>)
+27918.4,x,,<dilimpahk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27919,v,2,dilimpahkannya,dasar,
+27919.1,x,,di- + <limpahkannya>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27919.2,x,,<dilimpahkan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+27919.3,v,,di- + <limpah> + -kan + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+27919.4,x,,di- + <limpahkan> + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+27919.5,x,,<dilimpah> + -kan + -nya,bentukan,[29] [S] -kan + (<all>) => [34] [SFS] -nya + (<all>)
+27919.6,x,,<dilimpahk> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+27920,v,20,dilindas,dasar,
+27920.1,v,,di- + <lindas>,bentukan,[37] di- + (<all>) + (-i;-kan)
+,,,,,
+27921,v,556,dilindungi,dasar,
+27921.1,v,,di- + <lindung> + -i,bentukan,[37] di- + (<all>) + (-i;-kan)
+27921.2,x,,di- + <lindungi>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27921.3,x,,<dilindung> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+27922,v,25,dilingkari,dasar,
+27922.1,v,,di- + <lingkar> + -i,bentukan,[37] di- + (<all>) + (-i;-kan)
+27922.2,x,,di- + <lingkari>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27922.3,x,,<dilingkar> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+27923,v,8,dilingkarkan,dasar,
+27923.1,v,,di- + <lingkar> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27923.2,x,,di- + <lingkarkan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27923.3,x,,<dilingkar> + -kan,bentukan,[29] [S] -kan + (<all>)
+27923.4,x,,<dilingkark> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27924,v,6,dilingkungi,dasar,
+27924.1,v,,di- + <lingkung> + -i,bentukan,[37] di- + (<all>) + (-i;-kan)
+27924.2,x,,di- + <lingkungi>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27924.3,x,,<dilingkung> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+27925,v,14,dilingkupi,dasar,
+27925.1,v,,di- + <lingkup> + -i,bentukan,[37] di- + (<all>) + (-i;-kan)
+27925.2,x,,di- + <lingkupi>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27925.3,x,,<dilingkup> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+27926,v,44,dilintasi,dasar,
+27926.1,v,,di- + <lintas> + -i,bentukan,[37] di- + (<all>) + (-i;-kan)
+27926.2,x,,di- + <lintasi>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27926.3,x,,<dilintas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+27927,v,8,dilinting,dasar,
+27927.1,v,,di- + <linting>,bentukan,[37] di- + (<all>) + (-i;-kan)
+,,,,,
+27928,v,4,dilintingnya,dasar,
+27928.1,x,,di- + <lintingnya>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27928.2,x,,<dilinting> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+27928.3,v,,di- + <linting> + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+,,,,,
+27929,v,108,dilipat,dasar,
+27929.1,v,,di- + <lipat>,bentukan,[37] di- + (<all>) + (-i;-kan)
+,,,,,
+27930,v,2,dilipat-lipat,dasar,
+27930.1,v,,di- + <lipat> [-] <r>,bentukan,[37] di- + (<all>) + (-i;-kan) => [39] [RD] di-|
+,,,,,
+27931,v,17,dilipatgandakan,dasar,
+27931.1,v,,di- + <lipatganda> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27931.2,x,,di- + <lipatgandakan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27931.3,x,,<dilipatganda> + -kan,bentukan,[29] [S] -kan + (<all>)
+27931.4,x,,<dilipatgandak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27932,v,2,dilipatkan,dasar,
+27932.1,v,,di- + <lipat> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27932.2,x,,di- + <lipatkan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27932.3,x,,<dilipat> + -kan,bentukan,[29] [S] -kan + (<all>)
+27932.4,x,,<dilipatk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27933,v,10,dilipatnya,dasar,
+27933.1,x,,di- + <lipatnya>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27933.2,x,,<dilipat> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+27933.3,v,,di- + <lipat> + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+,,,,,
+27934,v,3,dilipur,dasar,
+27934.1,v,,di- + <lipur>,bentukan,[37] di- + (<all>) + (-i;-kan)
+,,,,,
+27935,v,2,dilipurnya,dasar,
+27935.1,x,,di- + <lipurnya>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27935.2,x,,<dilipur> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+27935.3,v,,di- + <lipur> + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+,,,,,
+27936,v,53,diliput,dasar,
+27936.1,v,,di- + <liput>,bentukan,[37] di- + (<all>) + (-i;-kan)
+,,,,,
+27937,v,145,diliputi,dasar,
+27937.1,v,,di- + <liput> + -i,bentukan,[37] di- + (<all>) + (-i;-kan)
+27937.2,x,,di- + <liputi>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27937.3,x,,<diliput> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+27938,v,2,diliputnya,dasar,
+27938.1,x,,di- + <liputnya>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27938.2,x,,<diliput> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+27938.3,v,,di- + <liput> + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+,,,,,
+27939,v,2,dilirihkan,dasar,
+27939.1,v,,di- + <lirih> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27939.2,x,,di- + <lirihkan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27939.3,x,,<dilirih> + -kan,bentukan,[29] [S] -kan + (<all>)
+27939.4,x,,<dilirihk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27940,v,132,dilirik,dasar,
+27940.1,v,,di- + <lirik>,bentukan,[37] di- + (<all>) + (-i;-kan)
+,,,,,
+27941,v,16,diliriknya,dasar,
+27941.1,x,,di- + <liriknya>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27941.2,x,,<dilirik> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+27941.3,v,,di- + <lirik> + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+,,,,,
+27942,v,6,dilisankan,dasar,
+27942.1,v,,di- + <lisan> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27942.2,x,,di- + <lisankan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27942.3,x,,<dilisan> + -kan,bentukan,[29] [S] -kan + (<all>)
+27942.4,x,,<dilisank> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27943,v,2,dilisensikan,dasar,
+27943.1,v,,di- + <lisensi> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27943.2,x,,di- + <lisensikan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27943.3,x,,<dilisensi> + -kan,bentukan,[29] [S] -kan + (<all>)
+27943.4,x,,<dilisensik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27944,v,2,dilistriki,dasar,
+27944.1,v,,di- + <listrik> + -i,bentukan,[37] di- + (<all>) + (-i;-kan)
+27944.2,x,,di- + <listriki>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27944.3,x,,<dilistrik> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+27945,t,2,dilobangi,dasar,dilubangi
+27945.1,x,,di- + <lobang> + -i,bentukan,[37] di- + (<all>) + (-i;-kan)
+27945.2,x,,di- + <lobangi>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27945.3,x,,<dilobang> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+27946,v,9,dilobi,dasar,
+27946.1,x,,di- + <lob> + -i,bentukan,[37] di- + (<all>) + (-i;-kan)
+27946.2,v,,di- + <lobi>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27946.3,x,,<dilob> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+27947,v,9,dilokalisasi,dasar,
+27947.1,x,,di- + <lokalisas> + -i,bentukan,[37] di- + (<all>) + (-i;-kan)
+27947.2,v,,di- + <lokalisasi>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27947.3,x,,<dilokalisas> + -i,bentukan,[28] [S] -i + (<all>)
+27947.4,x,,<dilokali> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+27947.5,x,,<dilokalis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+27947.6,x,,<dilokal> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+27948,t,3,dilokalisir,dasar,dilokalisasi
+27948.1,x,,di- + <lokalisir>,bentukan,[37] di- + (<all>) + (-i;-kan)
+,,,,,
+27949,t,3,dilolosi,dasar,diloloskan
+27949.1,x,,di- + <lolos> + -i,bentukan,[37] di- + (<all>) + (-i;-kan)
+27949.2,x,,di- + <lolosi>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27949.3,x,,<dilolos> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+27950,v,25,diloloskan,dasar,
+27950.1,v,,di- + <lolos> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27950.2,x,,di- + <loloskan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27950.3,x,,<dilolos> + -kan,bentukan,[29] [S] -kan + (<all>)
+27950.4,x,,<dilolosk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27951,v,5,diloloskannya,dasar,
+27951.1,x,,di- + <loloskannya>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27951.2,x,,<diloloskan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+27951.3,v,,di- + <lolos> + -kan + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+27951.4,x,,di- + <loloskan> + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+27951.5,x,,<dilolos> + -kan + -nya,bentukan,[29] [S] -kan + (<all>) => [34] [SFS] -nya + (<all>)
+27951.6,x,,<dilolosk> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+27952,v,65,dilombakan,dasar,
+27952.1,v,,di- + <lomba> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27952.2,x,,di- + <lombakan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27952.3,x,,<dilomba> + -kan,bentukan,[29] [S] -kan + (<all>)
+27952.4,x,,<dilombak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27953,v,3,dilompati,dasar,
+27953.1,v,,di- + <lompat> + -i,bentukan,[37] di- + (<all>) + (-i;-kan)
+27953.2,x,,di- + <lompati>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27953.3,x,,<dilompat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+27954,v,31,dilonggarkan,dasar,
+27954.1,v,,di- + <longgar> + -kan,bentukan,[37] di- + (<all>) + (-i;-kan)
+27954.2,x,,di- + <longgarkan>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27954.3,x,,<dilonggar> + -kan,bentukan,[29] [S] -kan + (<all>)
+27954.4,x,,<dilonggark> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+27955,v,3,dilonggarkannya,dasar,
+27955.1,x,,di- + <longgarkannya>,bentukan,[37] di- + (<all>) + (-i;-kan)
+27955.2,x,,<dilonggarkan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+27955.3,v,,di- + <longgar> + -kan + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+27955.4,x,,di- + <longgarkan> + -nya,bentukan,[37] di- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+27955.5,x,,<dilonggar> + -kan + -nya,bentukan,[29] [S] -kan + (<all>) => [34] [SFS] -nya + (<all>)
+27955.6,x,,<dilonggark> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+27956,t,5,dilongok,dasar,ditengok
+27956.1,v,,di- + <longok>,bentukan,[37] di- + (<all>) + (-i;-kan)
+,,,,,
+27957,t,2,dilontar,dasar,
+27957.1,v,,di- + <lontar>,bentukan,[37] di- + (<all>) + (-i;-kan)

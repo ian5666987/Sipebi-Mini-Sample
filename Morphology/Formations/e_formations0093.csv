@@ -1,0 +1,1641 @@
+Nomor,KP,Jumlah,Entri,Tipe,Pembentukan
+45406,k,0,jaminan hari tua,dasar,
+,,,,,
+45407,k,0,jaminan hukum,dasar,
+,,,,,
+45408,k,0,jaminan internasional,dasar,
+,,,,,
+45409,k,0,jaminan keamanan,dasar,
+45409.1,x,,<jaminan keaman> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+45410,k,0,jaminan penangguhan penahanan,dasar,
+45410.1,x,,<jaminan penangguhan penahan> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+45411,k,0,jaminan perusahaan,dasar,
+45411.1,x,,<jaminan perusaha> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+45412,k,0,jaminan sosial,dasar,
+,,,,,
+45413,k,0,jaminan sosial tenaga kerja,dasar,
+,,,,,
+45414,k,0,jaminan tambahan,dasar,
+45414.1,x,,<jaminan tambah> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+45415,v,6,jaminan-jaminan,dasar,
+45415.1,v,,<jaminan> [-] <r>,bentukan,[23] [RD] |
+45415.2,v,,<jamin> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+45416,v,14,jaminannya,dasar,
+45416.1,v,,<jaminan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+45416.2,v,,<jamin> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+45417,v,3,jaminkan,dasar,
+45417.1,v,,<jamin> + -kan,bentukan,[29] [S] -kan + (<all>)
+45417.2,x,,<jamink> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+45418,k,0,jamis,dasar,
+45418.1,x,,<jami> + [-is:-s],bentukan,[177] [S] -is + (i)
+45418.2,x,,<jam> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+45419,c,5,jamiyah,dasar,jamiah
+,,,,,
+45420,v,42,jamnya,dasar,
+45420.1,v,,<jam> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+45421,k,0,jamong,dasar,
+,,,,,
+45422,k,0,jamor,dasar,
+,,,,,
+45423,k,0,jamotrot,dasar,
+,,,,,
+45424,k,0,jampal,dasar,
+,,,,,
+45425,k,0,jampen,dasar,
+,,,,,
+45426,k,5,jampi,dasar,
+45426.1,x,,<jamp> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+45427,k,19,jampi-jampi,dasar,
+45427.1,v,,<jampi> [-] <r>,bentukan,[23] [RD] |
+45427.2,x,,<jamp> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+45428,v,2,jampi-jampinya,dasar,
+45428.1,x,,<jampi> [-] <r> + -nya,bentukan,[23] [RD] |
+45428.2,x,,<jamp> + -i [-] <r> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+45428.3,v,,<jampi> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+45428.4,x,,<jamp> + -i [-] <r> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+45429,k,0,jampian,dasar,
+45429.1,v,,<jampi> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+45430,k,0,jampuk,dasar,
+,,,,,
+45431,k,0,jamrah,dasar,
+,,,,,
+45432,k,0,jamrah aqabah,dasar,
+,,,,,
+45433,k,0,jamrah sugra,dasar,
+,,,,,
+45434,k,0,jamrah ula,dasar,
+,,,,,
+45435,k,0,jamrah wusta,dasar,
+,,,,,
+45436,c,2,jamrud,dasar,zamrud
+,,,,,
+45437,t,2,jamrut,dasar,zamrud
+,,,,,
+45438,k,53,jamsostek,dasar,
+,,,,,
+45439,k,143,jamu,dasar,
+45439.1,x,,<ja> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+,,,,,
+45440,k,0,jamu bersalin,dasar,
+,,,,,
+45441,k,0,jamu gendong,dasar,
+,,,,,
+45442,k,0,jamu godokan,dasar,
+45442.1,x,,<jamu godo> + -kan,bentukan,[29] [S] -kan + (<all>)
+45442.2,v,,<jamu godok> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+45443,k,0,jamu jawa,dasar,
+,,,,,
+45444,k,0,jamu pembasuh negeri,dasar,
+45444.1,x,,<jamu pembasuh neger> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+45445,k,0,jamu rebusan,dasar,
+45445.1,x,,<jamu rebus> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+45446,k,0,jamu sukut,dasar,
+,,,,,
+45447,v,4,jamu-jamu,dasar,
+45447.1,v,,<jamu> [-] <r>,bentukan,[23] [RD] |
+45447.2,x,,<ja> + -mu [-] <r> + -mu,bentukan,[33] [SFS] -mu + (<all>) => [23] [RD] |
+,,,,,
+45448,v,4,jamu-jamuan,dasar,
+45448.1,v,,<jamu> [-] <r> + -an,bentukan,[23] [RD] |
+45448.2,x,,<ja> + -mu [-] <r> + -mu + -an,bentukan,[33] [SFS] -mu + (<all>) => [23] [RD] |
+,,,,,
+45449,k,82,jamuan,dasar,
+45449.1,v,,<jamu> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+45450,k,0,jamuan teh,dasar,
+,,,,,
+45451,k,0,jamudin,dasar,
+,,,,,
+45452,k,0,jamuju,dasar,
+,,,,,
+45453,k,0,jamung,dasar,
+,,,,,
+45454,v,8,jamunya,dasar,
+45454.1,v,,<jamu> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+45454.2,x,,<ja> + -mu + -nya,bentukan,[33] [SFS] -mu + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+45455,k,272,jamur,dasar,
+,,,,,
+45456,k,0,jamur air,dasar,
+,,,,,
+45457,k,0,jamur ajaib,dasar,
+,,,,,
+45458,k,0,jamur akar merah,dasar,
+,,,,,
+45459,k,0,jamur akar putih,dasar,
+,,,,,
+45460,k,0,jamur api,dasar,
+45460.1,x,,<jamur ap> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+45461,k,0,jamur brama,dasar,
+,,,,,
+45462,k,0,jamur dewa,dasar,
+,,,,,
+45463,k,0,jamur enoki,dasar,
+45463.1,x,,<jamur enok> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+45464,k,0,jamur enokitake,dasar,
+,,,,,
+45465,k,0,jamur ganoderma,dasar,
+,,,,,
+45466,k,0,jamur kancing,dasar,
+,,,,,
+45467,k,0,jamur karat,dasar,
+,,,,,
+45468,k,0,jamur konsumsi,dasar,
+45468.1,x,,<jamur konsums> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+45469,k,0,jamur krikit,dasar,
+,,,,,
+45470,k,0,jamur kuping,dasar,
+,,,,,
+45471,k,0,jamur lendir,dasar,
+,,,,,
+45472,k,0,jamur maitake,dasar,
+,,,,,
+45473,k,0,jamur merang,dasar,
+,,,,,
+45474,k,0,jamur nasi,dasar,
+45474.1,x,,<jamur nas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+45475,k,0,jamur oncom,dasar,
+,,,,,
+45476,k,0,jamur padi,dasar,
+45476.1,x,,<jamur pad> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+45477,k,0,jamur paha ayam,dasar,
+,,,,,
+45478,k,0,jamur pangan,dasar,
+45478.1,x,,<jamur pang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+45479,k,0,jamur pelawan,dasar,
+45479.1,x,,<jamur pelaw> + -an,bentukan,[38] [S] -an + (<all>)
+45479.2,x,,<jamur pela> + -wan,bentukan,[180] [S] -wan + (<others>)
+45479.3,x,,<jamur pel> + [-wan:-awan],bentukan,[18000001] [S] -wan + (<all>)
+,,,,,
+45480,k,0,jamur pemakan salamander,dasar,
+,,,,,
+45481,k,0,jamur pensil,dasar,
+,,,,,
+45482,k,0,jamur portobelo,dasar,
+,,,,,
+45483,k,0,jamur putih,dasar,
+,,,,,
+45484,k,0,jamur shitake,dasar,
+,,,,,
+45485,k,0,jamur sinar,dasar,
+,,,,,
+45486,k,0,jamur supa kincir,dasar,
+,,,,,
+45487,k,0,jamur tiram,dasar,
+,,,,,
+45488,k,0,jamur tiram raja,dasar,
+,,,,,
+45489,k,0,jamur trufel,dasar,
+,,,,,
+45490,k,0,jamur upas,dasar,
+,,,,,
+45491,v,6,jamur-jamur,dasar,
+45491.1,v,,<jamur> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+45492,k,0,jamuran,dasar,
+45492.1,v,,<jamur> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+45493,k,0,janabah,dasar,
+,,,,,
+45494,k,0,janabijana,dasar,
+,,,,,
+45495,k,2,janah,dasar,
+,,,,,
+45496,k,0,janapada,dasar,
+,,,,,
+45497,k,0,janari,dasar,
+45497.1,x,,<janar> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+45498,k,0,janat,dasar,
+,,,,,
+45499,k,205,janda,dasar,
+45499.1,x,,<ja> + [-anda:-nda],bentukan,[183] [S] -anda + (i;u;a;[k:])
+45499.2,x,,<jan> + [-anda:-da],bentukan,[184] [S] -anda + (an)
+45499.3,x,,<j> + -anda,bentukan,[185] [S] -anda + (<others>)
+,,,,,
+45500,k,0,janda berhias,dasar,
+,,,,,
+45501,k,0,janda kembang,dasar,
+,,,,,
+45502,k,0,janda muda,dasar,
+,,,,,
+45503,k,0,janda tebal,dasar,
+,,,,,
+45504,v,8,janda-janda,dasar,
+45504.1,v,,<janda> [-] <r>,bentukan,[23] [RD] |
+45504.2,x,,<ja> + [-anda:-nda] [-] <r> + [-anda:-nda],bentukan,[183] [S] -anda + (i;u;a;[k:]) => [23] [RD] |
+45504.3,x,,<jan> + [-anda:-da] [-] <r> + [-anda:-da],bentukan,[184] [S] -anda + (an) => [23] [RD] |
+45504.4,x,,<j> + -anda [-] <r> + -anda,bentukan,[185] [S] -anda + (<others>) => [23] [RD] |
+,,,,,
+45505,v,2,jandaku,dasar,
+45505.1,v,,<janda> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+45505.2,x,,<ja> + [-anda:-nda] + -ku,bentukan,[183] [S] -anda + (i;u;a;[k:]) => [32] [SFS] -ku + (<all>)
+45505.3,x,,<jan> + [-anda:-da] + -ku,bentukan,[184] [S] -anda + (an) => [32] [SFS] -ku + (<all>)
+45505.4,x,,<j> + -anda + -ku,bentukan,[185] [S] -anda + (<others>) => [32] [SFS] -ku + (<all>)
+,,,,,
+45506,v,3,jandamu,dasar,
+45506.1,v,,<janda> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+45506.2,x,,<ja> + [-anda:-nda] + -mu,bentukan,[183] [S] -anda + (i;u;a;[k:]) => [33] [SFS] -mu + (<all>)
+45506.3,x,,<jan> + [-anda:-da] + -mu,bentukan,[184] [S] -anda + (an) => [33] [SFS] -mu + (<all>)
+45506.4,x,,<j> + -anda + -mu,bentukan,[185] [S] -anda + (<others>) => [33] [SFS] -mu + (<all>)
+,,,,,
+45507,v,6,jandanya,dasar,
+45507.1,v,,<janda> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+45507.2,x,,<ja> + [-anda:-nda] + -nya,bentukan,[183] [S] -anda + (i;u;a;[k:]) => [34] [SFS] -nya + (<all>)
+45507.3,x,,<jan> + [-anda:-da] + -nya,bentukan,[184] [S] -anda + (an) => [34] [SFS] -nya + (<all>)
+45507.4,x,,<j> + -anda + -nya,bentukan,[185] [S] -anda + (<others>) => [34] [SFS] -nya + (<all>)
+,,,,,
+45508,k,0,jando,dasar,
+,,,,,
+45509,k,0,jandu,dasar,
+,,,,,
+45510,v,81,jang,dasar,
+,,,,,
+45511,k,0,jangak,dasar,
+,,,,,
+45512,k,4521,jangan,dasar,
+45512.1,x,,<jang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+45513,k,0,jangan akan,dasar,
+45513.1,x,,<jangan a> + -kan,bentukan,[29] [S] -kan + (<all>)
+45513.2,x,,<jangan ak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+45514,k,0,jangan hendaknya,dasar,
+45514.1,x,,<jangan hendak> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+45515,k,0,jangan sampai,dasar,
+45515.1,x,,<jangan sampa> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+45516,k,0,jangan tiada,dasar,
+,,,,,
+45517,k,335,jangan-jangan,dasar,
+45517.1,v,,<jangan> [-] <r>,bentukan,[23] [RD] |
+45517.2,x,,<jang> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+45518,k,241,jangankan,dasar,
+45518.1,v,,<jangan> + -kan,bentukan,[29] [S] -kan + (<all>)
+45518.2,x,,<jangank> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+45519,v,214,janganlah,dasar,
+45519.1,v,,<jangan> + -lah,bentukan,[31] [FS] -lah + (<all>)
+45519.2,x,,<jang> + -an + -lah,bentukan,[38] [S] -an + (<all>) => [31] [FS] -lah + (<all>)
+,,,,,
+45520,k,0,jangar,dasar,
+,,,,,
+45521,k,7,jangat,dasar,
+,,,,,
+45522,k,2,janger,dasar,
+,,,,,
+45523,k,161,janggal,dasar,
+,,,,,
+45524,k,0,janggan,dasar,
+45524.1,x,,<jangg> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+45525,k,0,janggelan,dasar,
+45525.1,x,,<janggel> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+45526,k,0,janggi,dasar,
+45526.1,x,,<jangg> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+45527,k,0,janggir,dasar,
+,,,,,
+45528,k,0,janggolan,dasar,
+45528.1,x,,<janggol> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+45529,k,0,janggu,dasar,
+,,,,,
+45530,k,0,janggung,dasar,
+,,,,,
+45531,k,38,janggut,dasar,
+,,,,,
+45532,k,0,janggut duyung,dasar,
+,,,,,
+45533,k,0,janggut kelonak,dasar,
+,,,,,
+45534,k,0,janggut maung,dasar,
+,,,,,
+45535,v,23,janggutnya,dasar,
+45535.1,v,,<janggut> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+45536,k,0,jangian,dasar,
+45536.1,x,,<jangi> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+45537,k,0,jangilus,dasar,
+,,,,,
+45538,k,0,jangjan,dasar,
+45538.1,x,,<jangj> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+45539,k,3165,jangka,dasar,
+,,,,,
+45540,k,0,jangka kritis,dasar,
+45540.1,x,,<jangka kriti> + [-is:-s],bentukan,[177] [S] -is + (i)
+45540.2,x,,<jangka krit> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+45541,k,0,jangka lengkung,dasar,
+,,,,,
+45542,k,0,jangka panjang,dasar,
+,,,,,
+45543,k,0,jangka pendek,dasar,
+,,,,,
+45544,k,0,jangkah,dasar,
+45544.1,x,,<jang> + -kah,bentukan,[30] [FS] -kah + (<all>)
+,,,,,
+45545,k,2,jangkang,dasar,
+,,,,,
+45546,v,4,jangkanya,dasar,
+45546.1,v,,<jangka> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+45547,k,0,jangkap,dasar,
+,,,,,
+45548,k,76,jangkar,dasar,
+,,,,,
+45549,k,0,jangkar buritan,dasar,
+45549.1,x,,<jangkar burit> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+45550,k,0,jangkar cakar,dasar,
+,,,,,
+45551,k,0,jangkar cemat,dasar,
+,,,,,
+45552,k,0,jangkar danfort,dasar,
+,,,,,
+45553,k,0,jangkar garuk,dasar,
+,,,,,
+45554,k,0,jangkar haluan,dasar,
+45554.1,x,,<jangkar halu> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+45555,k,0,jangkar keruk,dasar,
+,,,,,
+45556,k,0,jangkar kuku tunggal,dasar,
+,,,,,
+45557,k,0,jangkar lempar,dasar,
+,,,,,
+45558,k,0,jangkar nominal,dasar,
+,,,,,
+45559,k,0,jangkar payung,dasar,
+,,,,,
+45560,k,0,jangkar penyaluk,dasar,
+,,,,,
+45561,k,0,jangkar tongkat,dasar,
+,,,,,
+45562,v,3,jangkarnya,dasar,
+45562.1,v,,<jangkar> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+45563,k,3,jangkat,dasar,
+,,,,,
+45564,k,50,jangkau,dasar,
+,,,,,
+45565,k,0,jangkau tanah,dasar,
+,,,,,
+45566,k,430,jangkauan,dasar,
+45566.1,v,,<jangkau> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+45567,v,43,jangkauannya,dasar,
+45567.1,x,,<jangkauan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+45567.2,v,,<jangkau> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+45568,v,3,jangkaunya,dasar,
+45568.1,v,,<jangkau> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+45569,k,0,jangki,dasar,
+45569.1,x,,<jangk> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+45570,k,0,jangkih,dasar,
+,,,,,
+45571,k,0,jangkih mangkih,dasar,
+,,,,,
+45572,k,0,jangking,dasar,
+,,,,,
+45573,k,0,jangkir,dasar,
+,,,,,
+45574,k,6,jangkit,dasar,
+,,,,,
+45575,k,0,jangkitan,dasar,
+45575.1,v,,<jangkit> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+45576,k,64,jangkrik,dasar,
+,,,,,
+45577,v,2,jangkrik-jangkrik,dasar,
+45577.1,v,,<jangkrik> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+45578,v,2,jangkriknya,dasar,
+45578.1,v,,<jangkrik> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+45579,k,61,jangkung,dasar,
+,,,,,
+45580,k,0,jangkungan,dasar,
+45580.1,v,,<jangkung> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+45581,k,0,jangla,dasar,
+,,,,,
+45582,k,0,jangol,dasar,
+,,,,,
+45583,k,9,jani,dasar,
+45583.1,x,,<jan> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+45584,k,0,janik,dasar,
+,,,,,
+45585,k,172,janin,dasar,
+,,,,,
+45586,v,2,janinku,dasar,
+45586.1,v,,<janin> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+45587,k,0,janjan,dasar,
+45587.1,x,,<janj> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+45588,k,5,janjang,dasar,
+,,,,,
+45589,k,936,janji,dasar,
+45589.1,x,,<janj> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+45590,k,0,janji gombal,dasar,
+,,,,,
+45591,k,0,janji politik,dasar,
+,,,,,
+45592,v,102,janji-janji,dasar,
+45592.1,v,,<janji> [-] <r>,bentukan,[23] [RD] |
+45592.2,x,,<janj> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+45593,v,3,janji-janjimu,dasar,
+45593.1,x,,<janji-janji> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+45593.2,v,,<janji> [-] <r> + -mu,bentukan,[23] [RD] | => [33] [SFS] -mu + (<all>)
+45593.3,x,,<janj> + -i [-] <r> + -i + -mu,bentukan,[28] [S] -i + (<all>) => [23] [RD] | => [33] [SFS] -mu + (<all>)
+,,,,,
+45594,v,20,janji-janjinya,dasar,
+45594.1,x,,<janji> [-] <r> + -nya,bentukan,[23] [RD] |
+45594.2,x,,<janj> + -i [-] <r> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+45594.3,v,,<janji> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+45594.4,x,,<janj> + -i [-] <r> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+45595,t,49,janjian,dasar,berjanji
+45595.1,v,,<janji> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+45596,v,46,janjikan,dasar,
+45596.1,v,,<janji> + -kan,bentukan,[29] [S] -kan + (<all>)
+45596.2,x,,<janjik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+45597,v,32,janjiku,dasar,
+45597.1,v,,<janji> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+45597.2,x,,<janj> + -i + -ku,bentukan,[28] [S] -i + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+45598,v,15,janjimu,dasar,
+45598.1,v,,<janji> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+45598.2,x,,<janj> + -i + -mu,bentukan,[28] [S] -i + (<all>) => [33] [SFS] -mu + (<all>)
+,,,,,
+45599,v,155,janjinya,dasar,
+45599.1,v,,<janji> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+45599.2,x,,<janj> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+45600,c,19,jannah,dasar,janah
+,,,,,
+45601,k,0,janom,dasar,
+,,,,,
+45602,k,0,jantahan,dasar,
+45602.1,x,,<jantah> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+45603,k,363,jantan,dasar,
+45603.1,x,,<jant> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+45604,v,2,jantan-jantan,dasar,
+45604.1,v,,<jantan> [-] <r>,bentukan,[23] [RD] |
+45604.2,x,,<jant> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+45605,k,0,jantang,dasar,
+,,,,,
+45606,k,0,jantel,dasar,
+,,,,,
+45607,k,0,janten,dasar,
+,,,,,
+45608,c,3,jantera,dasar,jentera
+,,,,,
+45609,k,0,jantina,dasar,
+,,,,,
+45610,k,0,jantuk,dasar,
+,,,,,
+45611,k,1169,jantung,dasar,
+,,,,,
+45612,k,0,jantung badak,dasar,
+,,,,,
+45613,k,0,jantung betis,dasar,
+45613.1,x,,<jantung beti> + [-is:-s],bentukan,[177] [S] -is + (i)
+45613.2,x,,<jantung bet> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+45614,k,0,jantung hati,dasar,
+45614.1,x,,<jantung hat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+45615,k,0,jantung kota,dasar,
+,,,,,
+45616,k,0,jantung mengipas,dasar,
+,,,,,
+45617,k,0,jantung pisang,dasar,
+,,,,,
+45618,k,0,jantung tangan,dasar,
+45618.1,x,,<jantung tang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+45619,k,7,jantungan,dasar,
+45619.1,v,,<jantung> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+45620,v,98,jantungku,dasar,
+45620.1,v,,<jantung> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+45621,v,18,jantungmu,dasar,
+45621.1,v,,<jantung> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+,,,,,
+45622,v,169,jantungnya,dasar,
+45622.1,v,,<jantung> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+45623,k,0,jantur,dasar,
+,,,,,
+45624,k,0,janturan,dasar,
+45624.1,x,,<jantur> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+45625,k,3738,januari,dasar,
+45625.1,x,,<januar> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+45626,k,0,janubi,dasar,
+45626.1,x,,<janub> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+45627,k,28,janur,dasar,
+,,,,,
+45628,k,0,janur kuning,dasar,
+,,,,,
+45629,v,2,janurnya,dasar,
+45629.1,v,,<janur> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+45630,c,3,jap,dasar,jab
+,,,,,
+45631,k,0,japah,dasar,
+,,,,,
+45632,k,159,japan,dasar,
+45632.1,x,,<jap> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+45633,k,0,jape ayam,dasar,
+,,,,,
+45634,k,0,japin,dasar,
+,,,,,
+45635,v,2,japri,dasar,
+45635.1,x,,<japr> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+45636,k,0,japu,dasar,
+,,,,,
+45637,k,0,japuk,dasar,
+,,,,,
+45638,k,4,jara,dasar,
+,,,,,
+45639,k,0,jara tanah,dasar,
+,,,,,
+45640,k,0,jarab,dasar,
+,,,,,
+45641,k,9,jarah,dasar,
+,,,,,
+45642,k,13,jarahan,dasar,
+45642.1,v,,<jarah> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+45643,k,2401,jarak,dasar,
+,,,,,
+45644,k,0,jarak aman,dasar,
+45644.1,x,,<jarak am> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+45645,k,0,jarak apsidal,dasar,
+,,,,,
+45646,k,0,jarak bebas purata,dasar,
+,,,,,
+45647,k,0,jarak belanda,dasar,
+45647.1,x,,<jarak bela> + [-anda:-nda],bentukan,[183] [S] -anda + (i;u;a;[k:])
+45647.2,x,,<jarak belan> + [-anda:-da],bentukan,[184] [S] -anda + (an)
+45647.3,x,,<jarak bel> + -anda,bentukan,[185] [S] -anda + (<others>)
+,,,,,
+45648,k,0,jarak cina,dasar,
+,,,,,
+45649,k,0,jarak dekat,dasar,
+,,,,,
+45650,k,0,jarak estetik,dasar,
+,,,,,
+45651,k,0,jarak estetik panggung,dasar,
+,,,,,
+45652,k,0,jarak fokus,dasar,
+,,,,,
+45653,k,0,jarak geostrofik,dasar,
+,,,,,
+45654,k,0,jarak ikatan,dasar,
+45654.1,x,,<jarak ikat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+45655,k,0,jarak jauh,dasar,
+,,,,,
+45656,d,0,jarak mahalonobis,dasar,
+45656.1,x,,<jarak mahalonobi> + [-is:-s],bentukan,[177] [S] -is + (i)
+45656.2,x,,<jarak mahalonob> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+45657,k,0,jarak pagar,dasar,
+,,,,,
+45658,k,0,jarak pandang,dasar,
+,,,,,
+45659,k,0,jarak pumpun,dasar,
+,,,,,
+45660,k,0,jarak purata planet,dasar,
+,,,,,
+45661,k,0,jarak sosial,dasar,
+,,,,,
+45662,k,0,jarak tembak,dasar,
+,,,,,
+45663,k,0,jarak tempuh,dasar,
+,,,,,
+45664,k,0,jarak tik,dasar,
+,,,,,
+45665,k,0,jarak waktu,dasar,
+,,,,,
+45666,k,0,jarak zenit,dasar,
+,,,,,
+45667,v,4,jarak-jarak,dasar,
+45667.1,v,,<jarak> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+45668,k,0,jarakan,dasar,
+45668.1,x,,<jara> + -kan,bentukan,[29] [S] -kan + (<all>)
+45668.2,x,,<jarak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+45669,v,8,jarakku,dasar,
+45669.1,v,,<jarak> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+45670,v,236,jaraknya,dasar,
+45670.1,v,,<jarak> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+45671,k,0,jaram,dasar,
+,,,,,
+45672,k,18,jaran,dasar,
+45672.1,x,,<jar> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+45673,k,0,jaran goyang,dasar,
+,,,,,
+45674,k,0,jaran kepang,dasar,
+,,,,,
+45675,k,4,jaranan,dasar,
+45675.1,v,,<jaran> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+45676,k,0,jaranan buta,dasar,
+,,,,,
+45677,c,2026,jarang,dasar,jerang
+,,,,,
+45678,k,36,jarang-jarang,dasar,
+45678.1,v,,<jarang> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+45679,k,5,jaras,dasar,
+,,,,,
+45680,k,0,jardinir,dasar,
+,,,,,
+45681,k,0,jarem,dasar,
+,,,,,
+45682,k,108,jargon,dasar,
+,,,,,
+45683,v,17,jargon-jargon,dasar,
+45683.1,v,,<jargon> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+45684,k,826,jari,dasar,
+45684.1,x,,<jar> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+45685,k,0,jari ampai,dasar,
+45685.1,x,,<jari ampa> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+45686,k,0,jari ayam,dasar,
+,,,,,
+45687,k,0,jari buaya,dasar,
+,,,,,
+45688,d,0,jari diri,dasar,
+45688.1,x,,<jari dir> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+45689,k,0,jari hantu,dasar,
+,,,,,
+45690,k,0,jari jemari,dasar,
+45690.1,x,,<jari jemar> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+45691,k,0,jari kelingking,dasar,
+,,,,,
+45692,k,0,jari kokat,dasar,
+,,,,,
+45693,k,0,jari lima,dasar,
+,,,,,
+45694,k,0,jari lipan,dasar,
+45694.1,x,,<jari lip> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+45695,k,0,jari malang,dasar,
+,,,,,
+45696,k,0,jari manis,dasar,
+45696.1,x,,<jari mani> + [-is:-s],bentukan,[177] [S] -is + (i)
+45696.2,x,,<jari man> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+45697,k,0,jari mati,dasar,
+45697.1,x,,<jari mat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+45698,k,0,jari panjang,dasar,
+,,,,,
+45699,k,0,jari renik,dasar,
+,,,,,
+45700,k,0,jari rimpang,dasar,
+,,,,,
+45701,k,0,jari syahadat,dasar,
+,,,,,
+45702,k,0,jari telunjuk,dasar,
+,,,,,
+45703,k,0,jari tengah,dasar,
+,,,,,
+45704,k,174,jari-jari,dasar,
+45704.1,v,,<jari> [-] <r>,bentukan,[23] [RD] |
+45704.2,x,,<jar> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+45705,v,16,jari-jariku,dasar,
+45705.1,v,,<jari-jari> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+45705.2,v,,<jari> [-] <r> + -ku,bentukan,[23] [RD] | => [32] [SFS] -ku + (<all>)
+45705.3,x,,<jar> + -i [-] <r> + -i + -ku,bentukan,[28] [S] -i + (<all>) => [23] [RD] | => [32] [SFS] -ku + (<all>)
+,,,,,
+45706,v,2,jari-jarimu,dasar,
+45706.1,v,,<jari-jari> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+45706.2,v,,<jari> [-] <r> + -mu,bentukan,[23] [RD] | => [33] [SFS] -mu + (<all>)
+45706.3,x,,<jar> + -i [-] <r> + -i + -mu,bentukan,[28] [S] -i + (<all>) => [23] [RD] | => [33] [SFS] -mu + (<all>)
+,,,,,
+45707,v,56,jari-jarinya,dasar,
+45707.1,x,,<jari> [-] <r> + -nya,bentukan,[23] [RD] |
+45707.2,x,,<jar> + -i [-] <r> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+45707.3,v,,<jari> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+45707.4,x,,<jar> + -i [-] <r> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+45708,v,25,jari-jemari,dasar,
+45708.1,x,,<jari-jemar> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+45709,v,7,jari-jemarinya,dasar,
+45709.1,x,,<jari-jemari> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+45709.2,x,,<jari-jemar> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+45710,c,10,jariah,dasar,amal jariah
+45710.1,x,,<jar> + -iah,bentukan,[175] [S] -iah + (<others>)
+,,,,,
+45711,k,0,jariat,dasar,
+,,,,,
+45712,k,0,jariji,dasar,
+45712.1,x,,<jarij> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+45713,k,13,jarik,dasar,
+,,,,,
+45714,v,2,jariknya,dasar,
+45714.1,v,,<jarik> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+45715,v,26,jariku,dasar,
+45715.1,v,,<jari> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+45715.2,x,,<jar> + -i + -ku,bentukan,[28] [S] -i + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+45716,k,15,jarimah,dasar,
+,,,,,
+45717,k,0,jarimatika,dasar,
+,,,,,
+45718,v,10,jarimu,dasar,
+45718.1,v,,<jari> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+45718.2,x,,<jar> + -i + -mu,bentukan,[28] [S] -i + (<all>) => [33] [SFS] -mu + (<all>)
+,,,,,
+45719,k,255,jaring,dasar,
+,,,,,
+45720,k,0,jaring angkat,dasar,
+,,,,,
+45721,k,0,jaring angkat tetap,dasar,
+,,,,,
+45722,k,0,jaring dorong,dasar,
+,,,,,
+45723,k,0,jaring gawang,dasar,
+,,,,,
+45724,k,0,jaring gol,dasar,
+,,,,,
+45725,k,0,jaring halau,dasar,
+,,,,,
+45726,k,0,jaring hanyut,dasar,
+,,,,,
+45727,k,0,jaring insang,dasar,
+,,,,,
+45728,k,0,jaring kantong,dasar,
+,,,,,
+45729,k,0,jaring kantong kapal,dasar,
+,,,,,
+45730,k,0,jaring penaung,dasar,
+,,,,,
+45731,k,0,jaring penerbangan tetap,dasar,
+,,,,,
+45732,k,0,jaring pengaman sosial,dasar,
+,,,,,
+45733,k,0,jaring peta,dasar,
+,,,,,
+45734,k,0,jaring plankton,dasar,
+,,,,,
+45735,k,29,jaring-jaring,dasar,
+45735.1,v,,<jaring> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+45736,v,2,jaring-jaringnya,dasar,
+45736.1,x,,<jaring> [-] <r> + -nya,bentukan,[23] [RD] |
+45736.2,v,,<jaring> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+45737,k,2630,jaringan,dasar,
+45737.1,v,,<jaring> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+45738,k,0,jaringan adiposa,dasar,
+,,,,,
+45739,k,0,jaringan adiposa cokelat,dasar,
+,,,,,
+45740,k,0,jaringan area lokal,dasar,
+,,,,,
+45741,k,0,jaringan area luas,dasar,
+,,,,,
+45742,k,0,jaringan area metropolitan (jam),dasar,
+,,,,,
+45743,k,0,jaringan bintang,dasar,
+,,,,,
+45744,k,0,jaringan bus,dasar,
+,,,,,
+45745,k,0,jaringan cincin,dasar,
+,,,,,
+45746,k,0,jaringan digital layanan terintegrasi,dasar,
+45746.1,x,,<jaringan digital layanan terintegras> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+45747,k,0,jaringan epitelium,dasar,
+,,,,,
+45748,k,0,jaringan floem,dasar,
+,,,,,
+45749,k,0,jaringan ikat,dasar,
+,,,,,
+45750,k,0,jaringan irigasi,dasar,
+45750.1,x,,<jaringan irigas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+45751,k,0,jaringan kawasan lokal,dasar,
+,,,,,
+45752,k,0,jaringan komputer,dasar,
+,,,,,
+45753,k,0,jaringan komunikasi,dasar,
+45753.1,x,,<jaringan komunikas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+45754,k,0,jaringan konektif,dasar,
+,,,,,
+45755,k,0,jaringan kontraktil,dasar,
+,,,,,
+45756,k,0,jaringan lemak,dasar,
+,,,,,
+45757,k,0,jaringan limfoid,dasar,
+45757.1,x,,<jaringan limf> + -oid,bentukan,[209] [S] -oid + (<all>)
+,,,,,
+45758,k,0,jaringan otot,dasar,
+,,,,,
+45759,k,0,jaringan pengangkut,dasar,
+,,,,,
+45760,k,0,jaringan perbankan,dasar,
+45760.1,x,,<jaringan perban> + -kan,bentukan,[29] [S] -kan + (<all>)
+45760.2,x,,<jaringan perbank> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+45761,k,0,jaringan tambah nilai,dasar,
+45761.1,x,,<jaringan tambah nila> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+45762,k,0,jaringan tapis,dasar,
+45762.1,x,,<jaringan tapi> + [-is:-s],bentukan,[177] [S] -is + (i)
+45762.2,x,,<jaringan tap> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+45763,v,32,jaringan-jaringan,dasar,
+45763.1,v,,<jaringan> [-] <r>,bentukan,[23] [RD] |
+45763.2,v,,<jaring> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+45764,v,2,jaringanku,dasar,
+45764.1,v,,<jaringan> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+45764.2,v,,<jaring> + -an + -ku,bentukan,[38] [S] -an + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+45765,v,93,jaringannya,dasar,
+45765.1,v,,<jaringan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+45765.2,v,,<jaring> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+45766,k,0,jaringau,dasar,
+,,,,,
+45767,v,11,jaringnya,dasar,
+45767.1,v,,<jaring> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+45768,k,0,jarinting,dasar,
+,,,,,
+45769,v,130,jarinya,dasar,
+45769.1,v,,<jari> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+45769.2,x,,<jar> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+45770,k,11,jarit,dasar,
+,,,,,
+45771,k,0,jarjau,dasar,
+,,,,,
+45772,k,6,jaro,dasar,
+,,,,,
+45773,k,0,jarong,dasar,
+,,,,,
+45774,k,0,jarosit,dasar,
+,,,,,
+45775,k,0,jarotan,dasar,
+45775.1,v,,<jarot> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+45776,k,0,jaru,dasar,
+,,,,,
+45777,k,0,jarujut,dasar,
+,,,,,
+45778,k,346,jarum,dasar,
+,,,,,
+45779,k,0,jarum arloji,dasar,
+45779.1,x,,<jarum arloj> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+45780,k,0,jarum biku,dasar,
+45780.1,x,,<jarum bi> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+45780.2,x,,<jarum b> + -i + -ku,bentukan,[28] [S] -i + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+45781,k,0,jarum goni,dasar,
+45781.1,x,,<jarum gon> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+45782,k,0,jarum halus,dasar,
+,,,,,
+45783,k,0,jarum jahit,dasar,
+,,,,,
+45784,k,0,jarum jam,dasar,
+,,,,,
+45785,k,0,jarum kait,dasar,
+,,,,,
+45786,k,0,jarum karung,dasar,
+,,,,,
+45787,k,0,jarum layar,dasar,
+,,,,,
+45788,k,0,jarum panjang,dasar,
+,,,,,
+45789,k,0,jarum pendek,dasar,
+,,,,,
+45790,k,0,jarum pentol,dasar,
+,,,,,
+45791,k,0,jarum rajut,dasar,
+,,,,,
+45792,k,0,jarum renda,dasar,
+,,,,,
+45793,k,0,jarum semat,dasar,
+,,,,,
+45794,k,0,jarum suntik,dasar,
+,,,,,
+45795,k,0,jarum tisik,dasar,
+,,,,,
+45796,k,20,jarum-jarum,dasar,
+45796.1,v,,<jarum> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+45797,k,0,jarum-jarum merah,dasar,
+,,,,,
+45798,k,0,jaruman,dasar,
+45798.1,v,,<jarum> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+45799,v,14,jarumnya,dasar,
+45799.1,v,,<jarum> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+45800,k,2,jarwa,dasar,
+,,,,,
+45801,k,211,jas,dasar,
+,,,,,
+45802,k,0,jas buka,dasar,
+,,,,,
+45803,k,0,jas buntut,dasar,
+,,,,,
+45804,k,0,jas ekor,dasar,
+,,,,,
+45805,k,0,jas hujan,dasar,
+45805.1,x,,<jas huj> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+45806,k,0,jas mandarin,dasar,
+,,,,,
+45807,k,0,jas tutup,dasar,
+,,,,,
+45808,v,4,jas-jas,dasar,
+45808.1,v,,<jas> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+45809,k,3386,jasa,dasar,
+,,,,,
+45810,k,0,jasa baik,dasar,
+,,,,,
+45811,k,0,jasa bibliografi,dasar,
+45811.1,x,,<jasa bibliograf> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+45812,k,0,jasa boga,dasar,
+,,,,,
+45813,k,0,jasa caraka,dasar,
+,,,,,
+45814,k,0,jasa guntingan,dasar,
+45814.1,x,,<jasa gunting> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+45815,k,0,jasa informasi,dasar,
+45815.1,x,,<jasa informas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+45816,k,0,jasa infrastruktur,dasar,
+,,,,,
+45817,k,0,jasa kustodi,dasar,
+45817.1,x,,<jasa kustod> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+45818,k,0,jasa perpustakaan,dasar,
+45818.1,x,,<jasa perpustaka> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+45819,k,0,jasa pornografi,dasar,
+45819.1,x,,<jasa pornograf> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+45820,k,0,jasa prasarana,dasar,
+,,,,,
+45821,k,0,jasa rujukan,dasar,
+45821.1,x,,<jasa ruju> + -kan,bentukan,[29] [S] -kan + (<all>)
+45821.2,x,,<jasa rujuk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+45822,k,0,jasa titip,dasar,
+,,,,,
+45823,v,110,jasa-jasa,dasar,
+45823.1,v,,<jasa> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+45824,v,40,jasa-jasanya,dasar,
+45824.1,x,,<jasa> [-] <r> + -nya,bentukan,[23] [RD] |
+45824.2,v,,<jasa> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+45825,k,272,jasad,dasar,
+,,,,,
+45826,k,0,jasad penempel,dasar,
+,,,,,
+45827,k,0,jasad renik,dasar,
+,,,,,
+45828,v,18,jasad-jasad,dasar,
+45828.1,v,,<jasad> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+45829,k,0,jasadi,dasar,
+45829.1,x,,<jasad> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+45830,v,5,jasaku,dasar,
+45830.1,v,,<jasa> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+45831,v,7,jasamu,dasar,
+45831.1,v,,<jasa> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+,,,,,
+45832,v,168,jasanya,dasar,
+45832.1,v,,<jasa> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+45833,k,0,jasirah,dasar,
+,,,,,
+45834,v,2,jasku,dasar,
+45834.1,v,,<jas> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+45835,k,327,jasmani,dasar,
+45835.1,x,,<jasman> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+45836,k,42,jasmaniah,dasar,
+45836.1,x,,<jasman> + -iah,bentukan,[175] [S] -iah + (<others>)
+,,,,,
+45837,v,2,jasmaniahnya,dasar,
+45837.1,v,,<jasmaniah> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+45837.2,x,,<jasman> + -iah + -nya,bentukan,[175] [S] -iah + (<others>) => [34] [SFS] -nya + (<all>)
+,,,,,
+45838,v,19,jasmaninya,dasar,
+45838.1,v,,<jasmani> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+45838.2,x,,<jasman> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+45839,v,15,jasnya,dasar,
+45839.1,v,,<jas> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+45840,k,11,jasper,dasar,
+,,,,,
+45841,k,0,jasus,dasar,
+,,,,,
+45842,k,0,jaswadi,dasar,
+45842.1,x,,<jaswad> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+45843,k,5,jata,dasar,
+,,,,,
+45844,k,364,jatah,dasar,
+,,,,,
+45845,k,0,jatah air,dasar,
+,,,,,
+45846,k,0,jatah waktu,dasar,
+,,,,,
+45847,v,15,jatahnya,dasar,
+45847.1,v,,<jatah> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+45848,k,2,jataka,dasar,
+,,,,,
+45849,k,0,jatarupa,dasar,
+,,,,,
+45850,k,8,jatayu,dasar,
+,,,,,
+45851,k,681,jati,dasar,
+45851.1,x,,<jat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+45852,k,0,jati bong,dasar,
+,,,,,
+45853,k,0,jati diri,dasar,
+45853.1,x,,<jati dir> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+45854,k,0,jati kapur,dasar,
+,,,,,
+45855,k,0,jati kembang,dasar,
+,,,,,
+45856,k,0,jati pasir,dasar,
+,,,,,
+45857,k,0,jati putih,dasar,
+,,,,,
+45858,k,0,jati sungu,dasar,
+,,,,,
+45859,k,6,jatilan,dasar,
+45859.1,v,,<jatil> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+45860,k,7,jatmika,dasar,
+,,,,,
+45861,k,5,jatnika,dasar,
+,,,,,
+45862,t,2,jatohnya,dasar,jatuhnya
+45862.1,x,,<jatoh> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+45863,k,2583,jatuh,dasar,
+,,,,,
+45864,k,0,jatuh bangun,dasar,
+,,,,,
+45865,k,0,jatuh bebas,dasar,
+,,,,,
+45866,k,0,jatuh berkait,dasar,
+,,,,,
+45867,k,0,jatuh bertindih,dasar,
+,,,,,
+45868,k,0,jatuh cinta,dasar,
+,,,,,
+45869,k,0,jatuh coloknya,dasar,
+45869.1,x,,<jatuh colok> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+45870,k,0,jatuh hati (kpd,dasar,dasar
+,,,,,
+45871,k,0,jatuh iman,dasar,
+45871.1,x,,<jatuh im> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+45872,k,0,jatuh ke atas,dasar,
+,,,,,
+45873,k,0,jatuh ke bawah,dasar,
+,,,,,
+45874,k,0,jatuh merek,dasar,
+,,,,,
+45875,k,0,jatuh nama,dasar,
+,,,,,
+45876,k,0,jatuh semangat,dasar,
+,,,,,
+45877,k,0,jatuh tapai,dasar,
+45877.1,x,,<jatuh tapa> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+45878,k,0,jatuh tekanan,dasar,
+45878.1,x,,<jatuh tekan> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+45879,k,0,jatuh tempo,dasar,
+,,,,,
+45880,v,16,jatuh-bangun,dasar,
+,,,,,
+45881,v,3,jatuh-bangunnya,dasar,
+45881.1,x,,<jatuh-bangun> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+45882,k,15,jatuhan,dasar,
+45882.1,v,,<jatuh> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+45883,v,2,jatuhi,dasar,
+45883.1,v,,<jatuh> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+45884,v,33,jatuhkan,dasar,
+45884.1,v,,<jatuh> + -kan,bentukan,[29] [S] -kan + (<all>)
+45884.2,x,,<jatuhk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+45885,v,2,jatuhkanlah,dasar,
+45885.1,x,,<jatuhkan> + -lah,bentukan,[31] [FS] -lah + (<all>)
+45885.2,v,,<jatuh> + -kan + -lah,bentukan,[29] [S] -kan + (<all>) => [31] [FS] -lah + (<all>)
+45885.3,x,,<jatuhk> + -an + -lah,bentukan,[38] [S] -an + (<all>) => [31] [FS] -lah + (<all>)
+,,,,,
+45886,v,288,jatuhnya,dasar,
+45886.1,v,,<jatuh> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+45887,k,0,jatukrama,dasar,
+,,,,,
+45888,k,6535,jauh,dasar,
+,,,,,
+45889,k,0,jauh di mata,dasar,
+,,,,,
+45890,k,0,jauh hari,dasar,
+45890.1,x,,<jauh har> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+45891,k,0,jauh malam,dasar,
+,,,,,
+45892,k,0,jauh rezekinya,dasar,
+45892.1,x,,<jauh rezeki> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+45892.2,x,,<jauh rezek> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+45893,v,3,jauh-dekatnya,dasar,
+45893.1,x,,<jauh-dekat> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+45894,v,325,jauh-jauh,dasar,
+45894.1,v,,<jauh> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+45895,k,3,jauhar,dasar,
+,,,,,
+45896,k,27,jauhari,dasar,
+45896.1,x,,<jauhar> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+45897,v,40,jauhi,dasar,
+45897.1,v,,<jauh> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+45898,v,12,jauhilah,dasar,
+45898.1,v,,<jauhi> + -lah,bentukan,[31] [FS] -lah + (<all>)
+45898.2,v,,<jauh> + -i + -lah,bentukan,[28] [S] -i + (<all>) => [31] [FS] -lah + (<all>)
+,,,,,
+45899,v,25,jauhkan,dasar,
+45899.1,v,,<jauh> + -kan,bentukan,[29] [S] -kan + (<all>)
+45899.2,x,,<jauhk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+45900,v,4,jauhkanlah,dasar,
+45900.1,x,,<jauhkan> + -lah,bentukan,[31] [FS] -lah + (<all>)
+45900.2,v,,<jauh> + -kan + -lah,bentukan,[29] [S] -kan + (<all>) => [31] [FS] -lah + (<all>)
+45900.3,x,,<jauhk> + -an + -lah,bentukan,[38] [S] -an + (<all>) => [31] [FS] -lah + (<all>)
+,,,,,
+45901,v,117,jauhnya,dasar,
+45901.1,v,,<jauh> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+45902,k,0,jaur,dasar,
+,,,,,
+45903,k,0,jauza,dasar,
+,,,,,
+45904,k,152,java,dasar,
+,,,,,
+45905,k,5140,jawa,dasar,
+,,,,,
+45906,k,0,jawa barat,dasar,
+,,,,,
+45907,k,0,jawa tengah,dasar,
+,,,,,
+45908,k,0,jawa timur,dasar,
+,,,,,
+45909,k,4525,jawab,dasar,
+,,,,,
+45910,k,1520,jawaban,dasar,
+45910.1,v,,<jawab> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+45911,v,39,jawaban-jawaban,dasar,
+45911.1,v,,<jawaban> [-] <r>,bentukan,[23] [RD] |
+45911.2,x,,<jawab> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+45912,v,2,jawaban-jawabannya,dasar,
+45912.1,v,,<jawaban> [-] <r> + -nya,bentukan,[23] [RD] |
+45912.2,x,,<jawab> + -an [-] <r> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+45912.3,v,,<jawaban> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+45912.4,x,,<jawab> + -an [-] <r> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+45913,v,38,jawabanku,dasar,
+45913.1,x,,<jawaban> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+45913.2,v,,<jawab> + -an + -ku,bentukan,[38] [S] -an + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+45914,v,30,jawabanmu,dasar,
+45914.1,x,,<jawaban> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+45914.2,v,,<jawab> + -an + -mu,bentukan,[38] [S] -an + (<all>) => [33] [SFS] -mu + (<all>)
+,,,,,
+45915,v,478,jawabannya,dasar,
+45915.1,x,,<jawaban> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+45915.2,v,,<jawab> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+45916,v,66,jawabkan,dasar,
+45916.1,v,,<jawab> + -kan,bentukan,[29] [S] -kan + (<all>)
+45916.2,x,,<jawabk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+45917,v,140,jawabku,dasar,
+45917.1,v,,<jawab> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+45918,v,50,jawablah,dasar,
+45918.1,v,,<jawab> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+45919,k,0,jawang,dasar,
+,,,,,
+45920,k,90,jawara,dasar,
+,,,,,
+45921,v,2,jawara-jawara,dasar,
+45921.1,v,,<jawara> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+45922,v,5,jawaranya,dasar,
+45922.1,v,,<jawara> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+45923,k,0,jawat,dasar,
+,,,,,
+45924,k,81,jawatan,dasar,
+45924.1,v,,<jawat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+45925,v,2,jawatannya,dasar,
+45925.1,x,,<jawatan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+45925.2,v,,<jawat> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+45926,k,0,jawawut,dasar,
+,,,,,
+45927,k,2,jawer,dasar,
+,,,,,
+45928,k,0,jawer kotok,dasar,
+,,,,,
+45929,k,38,jawi,dasar,
+45929.1,x,,<jaw> + -i,bentukan,[28] [S] -i + (<all>)
+45929.2,x,,<ja> + -wi,bentukan,[174] [S] -wi + (<others>)
+,,,,,
+45930,k,0,jawi pekan,dasar,
+45930.1,x,,<jawi pe> + -kan,bentukan,[29] [S] -kan + (<all>)
+45930.2,x,,<jawi pek> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+45931,k,2,jawi-jawi,dasar,
+45931.1,v,,<jawi> [-] <r>,bentukan,[23] [RD] |
+45931.2,x,,<jaw> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+45931.3,x,,<ja> + -wi [-] <r> + -wi,bentukan,[174] [S] -wi + (<others>) => [23] [RD] |
+,,,,,
+45932,k,0,jawil,dasar,
+,,,,,
+45933,k,1002,jaya,dasar,
+,,,,,
+45934,k,0,jaya kawijayan,dasar,
+45934.1,x,,<jaya kawijay> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+45935,v,6,jaya-jayanya,dasar,
+45935.1,x,,<jaya> [-] <r> + -nya,bentukan,[23] [RD] |
+45935.2,v,,<jaya> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+45936,k,0,jayacihna,dasar,
+,,,,,
+45937,v,5,jayalah,dasar,
+45937.1,v,,<jaya> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+45938,v,23,jayanya,dasar,
+45938.1,v,,<jaya> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+45939,k,0,jayapatra,dasar,
+,,,,,
+45940,k,310,jayapura,dasar,
+,,,,,
+45941,k,0,jayasong,dasar,
+,,,,,
+45942,k,0,jayastamba,dasar,
+,,,,,
+45943,k,0,jayau,dasar,
+,,,,,
+45944,k,50,jayawijaya,dasar,
+,,,,,
+45945,k,0,jayeng,dasar,
+,,,,,
+45946,k,0,jayeng seteru,dasar,
+,,,,,
+45947,k,8,jayus,dasar,
+,,,,,
+45948,k,6,jaz,dasar,
+,,,,,
+45949,k,0,jazab,dasar,
+,,,,,
+45950,k,0,jazam,dasar,
+,,,,,
+45951,k,48,jazirah,dasar,
+,,,,,
+45952,k,0,jazirat,dasar,
+,,,,,
+45953,t,160,jazz,dasar,jaz
+,,,,,
+45954,k,48,je,dasar,
+,,,,,
+45955,k,0,jebab,dasar,
+,,,,,
+45956,k,0,jebah,dasar,
+,,,,,
+45957,k,0,jebai,dasar,
+45957.1,x,,<jeba> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+45958,k,7,jebak,dasar,
+,,,,,
+45959,k,117,jebakan,dasar,
+45959.1,x,,<jeba> + -kan,bentukan,[29] [S] -kan + (<all>)
+45959.2,v,,<jebak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+45960,k,0,jebakan elektron,dasar,
+,,,,,
+45961,v,6,jebakan-jebakan,dasar,
+45961.1,v,,<jebakan> [-] <r>,bentukan,[23] [RD] |
+45961.2,x,,<jeba> + -kan [-] <r> + -kan,bentukan,[29] [S] -kan + (<all>) => [23] [RD] |
+45961.3,x,,<jebak> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+45962,v,2,jebakannya,dasar,
+45962.1,x,,<jebakan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+45962.2,x,,<jeba> + -kan + -nya,bentukan,[29] [S] -kan + (<all>) => [34] [SFS] -nya + (<all>)
+45962.3,v,,<jebak> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+45963,k,0,jebang,dasar,
+,,,,,
+45964,k,0,jebar-jebur,dasar,
+45964.1,v,,<[jebur:jebar-jebur]>,bentukan,[Reduplication-Rhyming]
+,,,,,
+45965,k,6,jebat,dasar,
+,,,,,
+45966,k,0,jebat-jebatan,dasar,
+45966.1,v,,<jebat> [-] <r> + -an,bentukan,[23] [RD] |
+,,,,,
+45967,k,0,jebik,dasar,
+,,,,,
+45968,k,40,jeblok,dasar,
+,,,,,
+45969,k,2,jeblos,dasar,
+,,,,,
+45970,k,0,jeblugan,dasar,
+45970.1,v,,<jeblug> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+45971,k,0,jebluk,dasar,
+,,,,,
+45972,k,86,jebol,dasar,
+,,,,,
+45973,k,55,jebolan,dasar,
+45973.1,v,,<jebol> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+45974,k,0,jebor,dasar,
+,,,,,
+45975,k,0,jebos,dasar,
+,,,,,
+45976,k,0,jebot,dasar,
+,,,,,
+45977,k,0,jebrol,dasar,
+,,,,,
+45978,k,0,jebuh,dasar,
+,,,,,
+45979,k,0,jebuk,dasar,
+,,,,,
+45980,k,0,jebung,dasar,
+,,,,,
+45981,k,0,jebur,dasar,
+,,,,,
+45982,k,363,jeda,dasar,
+,,,,,
+45983,k,0,jeda kemanusian,dasar,
+45983.1,x,,<jeda kemanusi> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+45984,k,0,jeda larik,dasar,
+,,,,,
+45985,k,0,jeda penggal,dasar,
+,,,,,
+45986,k,0,jeding,dasar,
+,,,,,
+45987,k,0,jedot,dasar,
+,,,,,
+45988,k,9,jegal,dasar,
+,,,,,
+45989,k,0,jegal-jegalan,dasar,
+45989.1,v,,<jegal> [-] <r> + -an,bentukan,[23] [RD] |
+,,,,,
+45990,k,5,jegalan,dasar,
+45990.1,v,,<jegal> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+45991,k,0,jegang,dasar,
+,,,,,
+45992,k,0,jeget,dasar,
+,,,,,
+45993,k,0,jegil,dasar,
+,,,,,
+45994,k,0,jegir,dasar,
+,,,,,
+45995,k,2,jegog,dasar,
+,,,,,
+45996,k,0,jegogan,dasar,
+45996.1,v,,<jegog> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+45997,k,0,jegung,dasar,
+,,,,,
+45998,k,0,jejabah,dasar,
+,,,,,
+45999,t,4,jejadian,dasar,jadi-jadian
+45999.1,x,,<jejadi> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+46000,k,899,jejak,dasar,
+,,,,,
+46001,k,0,jejak bahu,dasar,
+,,,,,
+46002,k,0,jejak bara,dasar,
+,,,,,
+46003,k,0,jejak dasar,dasar,
+,,,,,
+46004,k,0,jejak kabut,dasar,
+,,,,,
+46005,k,0,jejak keruh,dasar,
+,,,,,
+46006,k,0,jejak lepas,dasar,
+,,,,,
+46007,k,0,jejak pengembunan,dasar,
+46007.1,x,,<jejak pengembun> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+46008,v,65,jejak-jejak,dasar,
+46008.1,v,,<jejak> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+46009,v,3,jejak-jejaknya,dasar,
+46009.1,x,,<jejak> [-] <r> + -nya,bentukan,[23] [RD] |
+46009.2,v,,<jejak> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+46010,k,7,jejaka,dasar,
+46010.1,v,,<[jaka:jejaka]>,bentukan,[Reduplication-Dwipurwa]
+,,,,,
+46011,v,3,jejakku,dasar,
+46011.1,v,,<jejak> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+46012,v,10,jejakmu,dasar,
+46012.1,v,,<jejak> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+,,,,,
+46013,v,135,jejaknya,dasar,
+46013.1,v,,<jejak> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+46014,k,0,jejal,dasar,
+,,,,,
+46015,v,3,jejalkan,dasar,
+46015.1,v,,<jejal> + -kan,bentukan,[29] [S] -kan + (<all>)
+46015.2,x,,<jejalk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+46016,k,0,jejamang,dasar,
+,,,,,
+46017,k,0,jejampi,dasar,
+46017.1,v,,<[jampi:jejampi]>,bentukan,[Reduplication-Dwipurwa]
+46017.2,x,,<jejamp> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+46018,k,0,jejamu,dasar,
+46018.1,v,,<[jamu:jejamu]>,bentukan,[Reduplication-Dwipurwa]
+46018.2,x,,<jeja> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+,,,,,
+46019,v,4,jejamuan,dasar,
+46019.1,v,,<[jamu:jejamu]> + -an,bentukan,[Reduplication-Dwipurwa] => [38] [S] -an + (<all>)
+,,,,,
+46020,v,2,jejamuran,dasar,
+46020.1,x,,<jejamur> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+46021,k,0,jejap,dasar,
+,,,,,
+46022,v,3,jejari,dasar,
+46022.1,x,,<jejar> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+46023,k,461,jejaring,dasar,
+46023.1,v,,<[jaring:jejaring]>,bentukan,[Reduplication-Dwipurwa]
+,,,,,
+46024,k,0,jejaring kebudayaan,dasar,
+46024.1,x,,<jejaring kebudaya> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+46025,k,0,jejaring sosial,dasar,
+,,,,,
+46026,v,3,jejaringan,dasar,
+46026.1,v,,<[jaring:jejaring]> + -an,bentukan,[Reduplication-Dwipurwa] => [38] [S] -an + (<all>)
+,,,,,
+46027,v,14,jejaringnya,dasar,
+46027.1,v,,<[jaring:jejaring]> + -nya,bentukan,[Reduplication-Dwipurwa] => [34] [SFS] -nya + (<all>)
+46027.2,v,,<[jaring:jejaring]> + -nya,bentukan,[Reduplication-Dwipurwa] => [34] [SFS] -nya + (<all>)
+,,,,,
+46028,k,0,jejarum,dasar,
+,,,,,
+46029,k,10,jejas,dasar,
+,,,,,
+46030,k,3,jejawi,dasar,
+46030.1,v,,<[jawi:jejawi]>,bentukan,[Reduplication-Dwipurwa]
+46030.2,x,,<jejaw> + -i,bentukan,[28] [S] -i + (<all>)
+46030.3,x,,<jeja> + -wi,bentukan,[174] [S] -wi + (<others>)
+,,,,,
+46031,k,6,jeje,dasar,
+,,,,,
+46032,k,0,jejenang,dasar,
+46032.1,v,,<[jenang:jejenang]>,bentukan,[Reduplication-Dwipurwa]
+,,,,,
+46033,k,0,jejengkok,dasar,
+,,,,,
+46034,k,9,jejer,dasar,
+,,,,,
+46035,k,31,jejeran,dasar,
+46035.1,v,,<jejer> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+46036,k,0,jejeritan,dasar,
+46036.1,v,,<jejerit> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+46037,k,0,jejunum,dasar,
+,,,,,
+46038,k,0,jejuri,dasar,
+46038.1,x,,<jejur> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+46039,k,0,jeket,dasar,
+,,,,,
+46040,k,0,jeksi,dasar,
+46040.1,x,,<jeks> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+46041,k,0,jekuan,dasar,
+46041.1,x,,<jeku> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+46042,v,2,jel,dasar,
+,,,,,
+46043,k,6,jela,dasar,
+,,,,,
+46044,k,0,jelabak,dasar,
+,,,,,
+46045,k,0,jelabir,dasar,
+,,,,,
+46046,k,0,jeladan,dasar,
+46046.1,x,,<jelad> + -an,bentukan,[38] [S] -an + (<all>)

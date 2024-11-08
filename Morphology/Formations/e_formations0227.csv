@@ -1,0 +1,1433 @@
+Nomor,KP,Jumlah,Entri,Tipe,Pembentukan
+91456,v,2,patofisiologik,dasar,
+,,,,,
+91457,v,3,patofisiologis,dasar,
+91457.1,x,,<patofisiologi> + [-is:-s],bentukan,[177] [S] -is + (i)
+91457.2,x,,<patofisiolog> + -is,bentukan,[178] [S] -is + (<others>)
+91457.3,x,,<patofisio> + -logi+-s,bentukan,[194] [MS] -logi+-s + (<all>)
+,,,,,
+91458,k,0,patofobia,dasar,
+91458.1,x,,<pato> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+91459,k,169,patogen,dasar,
+,,,,,
+91460,v,3,patogen-patogen,dasar,
+91460.1,v,,<patogen> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+91461,v,2,patogenesa,dasar,
+,,,,,
+91462,k,35,patogenesis,dasar,
+91462.1,x,,<patogenesi> + [-is:-s],bentukan,[177] [S] -is + (i)
+91462.2,x,,<patogenes> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+91463,v,4,patogenesitas,dasar,
+91463.1,x,,<patogenes> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+91464,k,10,patogenik,dasar,
+,,,,,
+91465,v,8,patogenisitas,dasar,
+91465.1,x,,<patogenis> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+91466,v,2,patogenisitasnya,dasar,
+91466.1,v,,<patogenisitas> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+91466.2,x,,<patogenis> + -itas + -nya,bentukan,[205] [S] -itas + (<others>) => [34] [SFS] -nya + (<all>)
+,,,,,
+91467,v,3,patogenitas,dasar,
+91467.1,v,,<patogen> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+91468,v,2,patognomonik,dasar,
+,,,,,
+91469,k,0,patois,dasar,
+91469.1,x,,<patoi> + [-is:-s],bentukan,[177] [S] -is + (i)
+91469.2,x,,<pato> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+91470,k,49,patok,dasar,
+,,,,,
+91471,k,0,patok kilometer,dasar,
+91471.1,x,,<patok kilo> + -meter,bentukan,[189] [S] -meter + (<all>)
+,,,,,
+91472,k,0,patok lalu lintas,dasar,
+,,,,,
+91473,k,0,patok pembatas,dasar,
+,,,,,
+91474,v,9,patok-patok,dasar,
+91474.1,v,,<patok> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+91475,k,250,patokan,dasar,
+91475.1,x,,<pato> + -kan,bentukan,[29] [S] -kan + (<all>)
+91475.2,v,,<patok> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+91476,k,0,patokan duga,dasar,
+,,,,,
+91477,v,8,patokan-patokan,dasar,
+91477.1,x,,<patokan> [-] <r>,bentukan,[23] [RD] |
+91477.2,x,,<pato> + -kan [-] <r> + -kan,bentukan,[29] [S] -kan + (<all>) => [23] [RD] |
+91477.3,v,,<patok> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+91478,v,13,patokannya,dasar,
+91478.1,x,,<patokan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+91478.2,x,,<pato> + -kan + -nya,bentukan,[29] [S] -kan + (<all>) => [34] [SFS] -nya + (<all>)
+91478.3,v,,<patok> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+91479,k,0,patokimia,dasar,
+,,,,,
+91480,k,2,patola,dasar,
+,,,,,
+91481,k,0,patolog,dasar,
+,,,,,
+91482,k,99,patologi,dasar,
+91482.1,v,,<patolog> + -i,bentukan,[28] [S] -i + (<all>)
+91482.2,x,,<pato> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+91483,k,0,patologi bahasa,dasar,
+,,,,,
+91484,k,0,patologi forensik,dasar,
+,,,,,
+91485,k,0,patologi lingkungan,dasar,
+91485.1,x,,<patologi lingkung> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+91486,k,0,patologi sosial,dasar,
+,,,,,
+91487,v,5,patologik,dasar,
+,,,,,
+91488,k,49,patologis,dasar,
+91488.1,x,,<patologi> + [-is:-s],bentukan,[177] [S] -is + (i)
+91488.2,v,,<patolog> + -is,bentukan,[178] [S] -is + (<others>)
+91488.3,x,,<pato> + -logi+-s,bentukan,[194] [MS] -logi+-s + (<all>)
+,,,,,
+91489,k,0,patolopolis,dasar,
+91489.1,x,,<patolopoli> + [-is:-s],bentukan,[177] [S] -is + (i)
+91489.2,x,,<patolopol> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+91490,k,0,patos,dasar,
+,,,,,
+91491,v,5,patotipe,dasar,
+,,,,,
+91492,v,58,patra,dasar,
+,,,,,
+91493,v,2,patran,dasar,
+91493.1,x,,<patr> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+91494,d,0,patrang,dasar,
+,,,,,
+91495,k,0,patrem,dasar,
+,,,,,
+91496,k,14,patri,dasar,
+91496.1,x,,<patr> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+91497,v,45,patria,dasar,
+,,,,,
+91498,t,4,patriaki,dasar,patriarki
+91498.1,x,,<patriak> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+91499,x,2,patriakis,dasar,
+91499.1,x,,<patriaki> + [-is:-s],bentukan,[177] [S] -is + (i)
+91499.2,x,,<patriak> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+91500,v,22,patrialis,dasar,
+91500.1,x,,<patriali> + [-is:-s],bentukan,[177] [S] -is + (i)
+91500.2,x,,<patrial> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+91501,k,0,patrian,dasar,
+91501.1,v,,<patri> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+91502,k,0,patriark,dasar,
+,,,,,
+91503,v,33,patriarkal,dasar,
+,,,,,
+91504,k,5,patriarkat,dasar,
+,,,,,
+91505,v,15,patriarkhi,dasar,
+91505.1,x,,<patriarkh> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+91506,k,88,patriarki,dasar,
+91506.1,v,,<patriark> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+91507,v,20,patriarkis,dasar,
+91507.1,x,,<patriarki> + [-is:-s],bentukan,[177] [S] -is + (i)
+91507.2,v,,<patriark> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+91508,v,2,patriarkisme,dasar,
+91508.1,v,,<patriark> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+91509,k,11,patrilineal,dasar,
+,,,,,
+91510,v,2,patrilinial,dasar,
+,,,,,
+91511,k,12,patrimonial,dasar,
+,,,,,
+91512,v,4,patrimonialisme,dasar,
+91512.1,v,,<patrimonial> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+91513,v,2,patrimonialistik,dasar,
+,,,,,
+91514,k,0,patrimonium,dasar,
+,,,,,
+91515,k,108,patriot,dasar,
+,,,,,
+91516,v,3,patriot-patriot,dasar,
+91516.1,v,,<patriot> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+91517,k,37,patriotik,dasar,
+,,,,,
+91518,v,3,patriotis,dasar,
+91518.1,x,,<patrioti> + [-is:-s],bentukan,[177] [S] -is + (i)
+91518.2,v,,<patriot> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+91519,k,78,patriotisme,dasar,
+91519.1,v,,<patriot> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+91520,v,4,patriotismenya,dasar,
+91520.1,x,,<patriotisme> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+91520.2,v,,<patriot> + -isme + -nya,bentukan,[89] [S] -isme + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+91521,k,0,patrisida,dasar,
+,,,,,
+91522,t,2,patrisipasi,dasar,partisipasi
+91522.1,x,,<patrisipas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+91523,v,2,patristik,dasar,
+,,,,,
+91524,k,0,patrogoni,dasar,
+91524.1,x,,<patrogon> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+91525,k,0,patroiofobia,dasar,
+91525.1,x,,<patroio> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+91526,k,27,patrol,dasar,
+,,,,,
+91527,k,182,patroli,dasar,
+91527.1,x,,<patrol> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+91528,k,0,patroli pengawal pembuka,dasar,
+,,,,,
+91529,k,0,patroli pengawal penutup,dasar,
+,,,,,
+91530,k,0,patroli rutin,dasar,
+,,,,,
+91531,v,5,patroli-patroli,dasar,
+91531.1,v,,<patroli> [-] <r>,bentukan,[23] [RD] |
+91531.2,x,,<patrol> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+91532,v,3,patrolinya,dasar,
+91532.1,v,,<patroli> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+91532.2,x,,<patrol> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+91533,k,35,patron,dasar,
+,,,,,
+91534,k,0,patron normatif,dasar,
+,,,,,
+91535,t,16,patronase,dasar,patronasi
+91535.1,x,,<patron> + -ase,bentukan,[210] [S] -ase + (<all>)
+,,,,,
+91536,k,0,patronasi,dasar,
+91536.1,x,,<patronas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+91537,k,0,patronasi bisnis,dasar,
+91537.1,x,,<patronasi bisni> + [-is:-s],bentukan,[177] [S] -is + (i)
+91537.2,x,,<patronasi bisn> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+91538,k,0,patronim,dasar,
+,,,,,
+91539,k,0,patronimik,dasar,
+,,,,,
+91540,k,0,patrun,dasar,
+,,,,,
+91541,k,0,pattae,dasar,
+,,,,,
+91542,d,0,pattaya,dasar,
+,,,,,
+91543,k,0,pattimuni,dasar,
+91543.1,x,,<pattimun> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+91544,k,0,patu,dasar,
+,,,,,
+91545,k,466,patuh,dasar,
+,,,,,
+91546,k,7,patuk,dasar,
+,,,,,
+91547,c,345,patung,dasar,sepatung
+,,,,,
+91548,k,0,patung bojog,dasar,
+,,,,,
+91549,k,0,patung peraga,dasar,
+,,,,,
+91550,v,50,patung-patung,dasar,
+91550.1,v,,<patung> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+91551,k,141,patungan,dasar,
+91551.1,v,,<patung> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+91552,v,9,patungnya,dasar,
+91552.1,v,,<patung> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+91553,k,1334,patut,dasar,
+,,,,,
+91554,v,6,patutkah,dasar,
+91554.1,v,,<patut> + -kah,bentukan,[30] [FS] -kah + (<all>)
+,,,,,
+91555,v,17,patutlah,dasar,
+91555.1,v,,<patut> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+91556,k,158,paud,dasar,
+,,,,,
+91557,k,13,pauh,dasar,
+,,,,,
+91558,k,0,pauh janggi,dasar,
+91558.1,x,,<pauh jangg> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+91559,k,0,pauh pipit,dasar,
+,,,,,
+91560,k,0,pauhi,dasar,
+91560.1,x,,<pauh> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+91561,k,34,pauk,dasar,
+,,,,,
+91562,k,307,paul,dasar,
+,,,,,
+91563,k,77,paulus,dasar,
+,,,,,
+91564,k,0,paun,dasar,
+,,,,,
+91565,k,2,paung,dasar,
+,,,,,
+91566,k,150,paus,dasar,
+,,,,,
+91567,k,0,paus balin,dasar,
+,,,,,
+91568,k,0,paus biru,dasar,
+,,,,,
+91569,k,0,paus bungkuk,dasar,
+,,,,,
+91570,k,0,paus kepala busur,dasar,
+,,,,,
+91571,k,0,paus minke,dasar,
+,,,,,
+91572,k,0,paus pembunuh,dasar,
+,,,,,
+91573,k,0,paus sperma,dasar,
+,,,,,
+91574,d,0,paus-paus,dasar,
+91574.1,v,,<paus> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+91575,k,11,pause,dasar,
+,,,,,
+91576,k,27,paut,dasar,
+,,,,,
+91577,k,0,paut-memaut,dasar,
+91577.1,v,,<paut> [-] [meng-:me-] + <r>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [24] [RD] |meng-
+,,,,,
+91578,k,3,pautan,dasar,
+91578.1,v,,<paut> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+91579,k,0,pautan hati,dasar,
+91579.1,x,,<pautan hat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+91580,k,46,paviliun,dasar,
+,,,,,
+91581,k,0,pavo,dasar,
+,,,,,
+91582,v,3,pavonana,dasar,
+,,,,,
+91583,k,108,pawai,dasar,
+91583.1,x,,<pawa> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+91584,k,0,pawai figura,dasar,
+,,,,,
+91585,k,0,pawai senjata,dasar,
+,,,,,
+91586,k,0,pawai taaruf,dasar,
+,,,,,
+91587,v,2,pawai-pawai,dasar,
+91587.1,v,,<pawai> [-] <r>,bentukan,[23] [RD] |
+91587.2,x,,<pawa> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+91588,k,0,pawak,dasar,
+,,,,,
+91589,k,0,pawaka,dasar,
+,,,,,
+91590,k,0,pawana,dasar,
+,,,,,
+91591,k,41,pawang,dasar,
+,,,,,
+91592,k,0,pawang belat,dasar,
+,,,,,
+91593,k,0,pawang buaya,dasar,
+,,,,,
+91594,k,0,pawang buru,dasar,
+,,,,,
+91595,k,0,pawang darat,dasar,
+,,,,,
+91596,k,0,pawang gajah,dasar,
+,,,,,
+91597,k,0,pawang hujan,dasar,
+91597.1,x,,<pawang huj> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+91598,k,0,pawang hutan,dasar,
+91598.1,x,,<pawang hut> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+91599,k,0,pawang jermal,dasar,
+,,,,,
+91600,k,0,pawang laut,dasar,
+,,,,,
+91601,k,0,pawang lebah,dasar,
+,,,,,
+91602,k,0,pawang perburuan,dasar,
+91602.1,x,,<pawang perburu> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+91603,k,0,pawang pukat,dasar,
+,,,,,
+91604,k,0,pawang ular,dasar,
+,,,,,
+91605,d,0,pawang-pawang,dasar,
+91605.1,v,,<pawang> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+91606,v,7,pawangnya,dasar,
+91606.1,v,,<pawang> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+91607,k,3,pawiyatan,dasar,
+91607.1,x,,<pawiyat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+91608,k,15,pawongan,dasar,
+91608.1,x,,<pawong> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+91609,k,3,pawukon,dasar,
+,,,,,
+91610,k,21,paya,dasar,
+,,,,,
+91611,k,2,paya-paya,dasar,
+91611.1,v,,<paya> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+91612,k,376,payah,dasar,
+,,,,,
+91613,k,0,payah jantung,dasar,
+,,,,,
+91614,v,2,payah-payah,dasar,
+91614.1,v,,<payah> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+91615,v,33,payahnya,dasar,
+91615.1,v,,<payah> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+91616,k,51,payakumbuh,dasar,
+,,,,,
+91617,d,0,payaman,dasar,
+91617.1,x,,<payam> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+91618,k,4,payang,dasar,
+,,,,,
+91619,x,0,payangan,dasar,
+91619.1,x,,<payang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+91620,k,0,payapi,dasar,
+91620.1,x,,<payap> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+91621,k,0,payar,dasar,
+,,,,,
+91622,k,35,payau,dasar,
+,,,,,
+91623,k,0,payau tekaknya,dasar,
+91623.1,x,,<payau tekak> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+91624,k,23,payet,dasar,
+,,,,,
+91625,k,0,payir,dasar,
+,,,,,
+91626,k,0,payon,dasar,
+,,,,,
+91627,k,5,payu,dasar,
+,,,,,
+91628,k,177,payudara,dasar,
+,,,,,
+91629,v,5,payudaraku,dasar,
+91629.1,v,,<payudara> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+91630,v,2,payudaramu,dasar,
+91630.1,v,,<payudara> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+,,,,,
+91631,v,32,payudaranya,dasar,
+91631.1,v,,<payudara> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+91632,k,528,payung,dasar,
+,,,,,
+91633,k,0,payung cawiri,dasar,
+91633.1,x,,<payung cawir> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+91634,k,0,payung hukum,dasar,
+,,,,,
+91635,k,0,payung junai,dasar,
+91635.1,x,,<payung juna> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+91636,k,0,payung kebesaran,dasar,
+91636.1,x,,<payung kebesar> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+91637,k,0,payung kuning,dasar,
+,,,,,
+91638,k,0,payung lipat,dasar,
+,,,,,
+91639,k,0,payung panjang,dasar,
+,,,,,
+91640,k,0,payung panji,dasar,
+91640.1,x,,<payung panj> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+91641,k,0,payung pelontar,dasar,
+,,,,,
+91642,k,0,payung putih,dasar,
+,,,,,
+91643,k,0,payung tongkat,dasar,
+,,,,,
+91644,k,0,payung ubur-ubur,dasar,
+,,,,,
+91645,k,0,payung udara,dasar,
+,,,,,
+91646,k,0,payung utama,dasar,
+,,,,,
+91647,v,9,payung-payung,dasar,
+91647.1,v,,<payung> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+91648,k,2,payungan,dasar,
+91648.1,v,,<payung> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+91649,t,2,payunghukum,dasar,payung hukum
+,,,,,
+91650,v,2,payungku,dasar,
+91650.1,v,,<payung> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+91651,v,2,payungmu,dasar,
+91651.1,v,,<payung> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+,,,,,
+91652,v,17,payungnya,dasar,
+91652.1,v,,<payung> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+91653,k,301,pe,dasar,
+,,,,,
+91654,k,0,pe--an,dasar,
+,,,,,
+91655,t,4,pe-er,dasar,PR
+,,,,,
+91656,t,2,pe-luang,dasar,peluang
+,,,,,
+91657,t,2,pe-main,dasar,pemain
+,,,,,
+91658,t,2,pe-merintah,dasar,pemerintah
+,,,,,
+91659,t,2,pe-milihan,dasar,pemilihan
+,,,,,
+91660,t,2,pe-nambahan,dasar,penambahan
+,,,,,
+91661,t,2,pe-nilaian,dasar,penilaian
+,,,,,
+91662,t,2,pe-nyakit,dasar,penyakit
+,,,,,
+91663,t,2,pe-rempuan,dasar,perempuan
+,,,,,
+91664,k,0,peang,dasar,
+91664.1,x,,pe- + <ang>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91665,k,0,peanggar,dasar,
+91665.1,v,,pe- + <anggar>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91666,t,2,peaturan,dasar,peraturan
+91666.1,x,,pe- + <atur> + -an,bentukan,[96] pe- + (<all>) + (-an)
+91666.2,x,,pe- + <aturan>,bentukan,[96] pe- + (<all>) + (-an)
+91666.3,x,,<peatur> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+91667,t,2,pebaikan,dasar,perbaikan
+91667.1,x,,pe- + <baik> + -an,bentukan,[96] pe- + (<all>) + (-an)
+91667.2,x,,pe- + <baikan>,bentukan,[96] pe- + (<all>) + (-an)
+91667.3,x,,<pebai> + -kan,bentukan,[29] [S] -kan + (<all>)
+91667.4,x,,<pebaik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+91668,t,227,pebalap,dasar,pembalap
+91668.1,x,,pe- + <balap>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91669,k,0,pebalet,dasar,
+91669.1,v,,pe- + <balet>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91670,t,3,pebandingan,dasar,perbandingan
+91670.1,x,,pe- + <banding> + -an,bentukan,[96] pe- + (<all>) + (-an)
+91670.2,x,,pe- + <bandingan>,bentukan,[96] pe- + (<all>) + (-an)
+91670.3,x,,<pebanding> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+91671,k,0,pebangkai,dasar,
+91671.1,v,,pe- + <bangkai>,bentukan,[96] pe- + (<all>) + (-an)
+91671.2,x,,<pebangka> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+91672,k,23,pebasket,dasar,
+91672.1,v,,pe- + <basket>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91673,k,0,pebato,dasar,
+91673.1,x,,pe- + <bato>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91674,d,0,pebayuran,dasar,
+91674.1,x,,pe- + <bayur> + -an,bentukan,[96] pe- + (<all>) + (-an)
+91674.2,x,,pe- + <bayuran>,bentukan,[96] pe- + (<all>) + (-an)
+91674.3,x,,<pebayur> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+91675,t,7,pebedaan,dasar,perbedaan
+91675.1,x,,pe- + <beda> + -an,bentukan,[96] pe- + (<all>) + (-an)
+91675.2,x,,pe- + <bedaan>,bentukan,[96] pe- + (<all>) + (-an)
+91675.3,x,,<pebeda> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+91676,t,5,pebelajar,dasar,pembelajar
+91676.1,x,,pe- + <belajar>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91677,t,3,pebelajaran,dasar,pembelajaran
+91677.1,x,,pe- + <belajar> + -an,bentukan,[96] pe- + (<all>) + (-an)
+91677.2,x,,pe- + <belajaran>,bentukan,[96] pe- + (<all>) + (-an)
+91677.3,x,,<pebelajar> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+91678,t,2,peberdayaan,dasar,pemberdayaan
+91678.1,x,,pe- + <berdaya> + -an,bentukan,[96] pe- + (<all>) + (-an)
+91678.2,x,,pe- + <berdayaan>,bentukan,[96] pe- + (<all>) + (-an)
+91678.3,x,,<peberdaya> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+91679,t,2,peberian,dasar,pemberian
+91679.1,x,,pe- + <beri> + -an,bentukan,[96] pe- + (<all>) + (-an)
+91679.2,x,,pe- + <berian>,bentukan,[96] pe- + (<all>) + (-an)
+91679.3,x,,<peberi> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+91680,k,0,pebiliar,dasar,
+91680.1,v,,pe- + <biliar>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91681,t,2,pebisinis,dasar,pebisnis
+91681.1,v,,pe- + <bisinis>,bentukan,[96] pe- + (<all>) + (-an)
+91681.2,x,,<pebisini> + [-is:-s],bentukan,[177] [S] -is + (i)
+91681.3,x,,<pebisin> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+91682,k,177,pebisnis,dasar,
+91682.1,v,,pe- + <bisnis>,bentukan,[96] pe- + (<all>) + (-an)
+91682.2,x,,<pebisni> + [-is:-s],bentukan,[177] [S] -is + (i)
+91682.3,x,,<pebisn> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+91683,v,3,pebisnis-pebisnis,dasar,
+91683.1,x,,<pebisnis> [-] <r>,bentukan,[23] [RD] |
+91683.2,v,,pe- + <bisnis> [-] pe- + <r>,bentukan,[96] pe- + (<all>) + (-an) => [23] [RD] |
+91683.3,x,,<pebisni> + [-is:-s] [-] <r> + [-is:-s],bentukan,[177] [S] -is + (i) => [23] [RD] |
+91683.4,x,,<pebisn> + -is [-] <r> + -is,bentukan,[178] [S] -is + (<others>) => [23] [RD] |
+,,,,,
+91684,k,0,peboling,dasar,
+91684.1,v,,pe- + <boling>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91685,k,0,pebonsai,dasar,
+91685.1,v,,pe- + <bonsai>,bentukan,[96] pe- + (<all>) + (-an)
+91685.2,x,,<pebonsa> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+91686,c,84,pebruari,dasar,februari
+91686.1,x,,pe- + <bruari>,bentukan,[96] pe- + (<all>) + (-an)
+91686.2,x,,<pebruar> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+91687,t,4,pebukitan,dasar,perbukitan
+91687.1,x,,pe- + <bukit> + -an,bentukan,[96] pe- + (<all>) + (-an)
+91687.2,x,,pe- + <bukitan>,bentukan,[96] pe- + (<all>) + (-an)
+91687.3,x,,<pebukit> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+91688,k,0,pebulu tangkis,dasar,
+91688.1,v,,pe- + <bulu tangkis>,bentukan,[96] pe- + (<all>) + (-an)
+91688.2,x,,<pebulu tangki> + [-is:-s],bentukan,[177] [S] -is + (i)
+91688.3,x,,<pebulu tangk> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+91689,t,32,pebulutangkis,dasar,pebulu tangkis
+91689.1,x,,pe- + <bulutangkis>,bentukan,[96] pe- + (<all>) + (-an)
+91689.2,x,,<pebulutangki> + [-is:-s],bentukan,[177] [S] -is + (i)
+91689.3,x,,<pebulutangk> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+91690,k,688,pecah,dasar,
+91690.1,x,,pe- + <cah>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91691,k,0,pecah baunya,dasar,
+91691.1,x,,pe- + <cah baunya>,bentukan,[96] pe- + (<all>) + (-an)
+91691.2,x,,<pecah bau> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+91691.3,x,,pe- + <cah bau> + -nya,bentukan,[96] pe- + (<all>) + (-an) => [34] [SFS] -nya + (<all>)
+,,,,,
+91692,k,0,pecah belah,dasar,
+91692.1,x,,pe- + <cah belah>,bentukan,[96] pe- + (<all>) + (-an)
+91692.2,x,,<pecah be> + -lah,bentukan,[31] [FS] -lah + (<all>)
+91692.3,x,,pe- + <cah be> + -lah,bentukan,[96] pe- + (<all>) + (-an) => [31] [FS] -lah + (<all>)
+,,,,,
+91693,k,0,pecah beling,dasar,
+91693.1,x,,pe- + <cah beling>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91694,k,0,pecah bulu,dasar,
+91694.1,x,,pe- + <cah bulu>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91695,k,0,pecah hati,dasar,
+91695.1,x,,pe- + <cah hati>,bentukan,[96] pe- + (<all>) + (-an)
+91695.2,x,,<pecah hat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+91696,k,0,pecah kendali,dasar,
+91696.1,x,,pe- + <cah kendali>,bentukan,[96] pe- + (<all>) + (-an)
+91696.2,x,,<pecah kendal> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+91697,k,0,pecah ketuban,dasar,
+91697.1,x,,pe- + <cah ketub> + -an,bentukan,[96] pe- + (<all>) + (-an)
+91697.2,x,,pe- + <cah ketuban>,bentukan,[96] pe- + (<all>) + (-an)
+91697.3,x,,<pecah ketub> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+91698,k,0,pecah kongsi,dasar,
+91698.1,x,,pe- + <cah kongsi>,bentukan,[96] pe- + (<all>) + (-an)
+91698.2,x,,<pecah kongs> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+91699,k,0,pecah minyak,dasar,
+91699.1,x,,pe- + <cah minyak>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91700,k,0,pecah pola,dasar,
+91700.1,x,,pe- + <cah pola>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91701,k,0,pecah seribu,dasar,
+91701.1,x,,pe- + <cah seribu>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91702,k,0,pecah sudut bibir,dasar,
+91702.1,x,,pe- + <cah sudut bibir>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91703,k,0,pecah telur,dasar,
+91703.1,x,,pe- + <cah telur>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91704,t,6,pecah-belah,dasar,pecah belah
+,,,,,
+91705,v,39,pecah-pecah,dasar,
+91705.1,v,,<pecah> [-] <r>,bentukan,[23] [RD] |
+91705.2,x,,pe- + <cah> [-] pe- + <r>,bentukan,[96] pe- + (<all>) + (-an) => [23] [RD] |
+,,,,,
+91706,k,275,pecahan,dasar,
+91706.1,x,,pe- + <cah> + -an,bentukan,[96] pe- + (<all>) + (-an)
+91706.2,x,,pe- + <cahan>,bentukan,[96] pe- + (<all>) + (-an)
+91706.3,v,,<pecah> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+91707,k,0,pecahan berulang,dasar,
+91707.1,x,,pe- + <cahan berulang>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91708,k,0,pecahan lancung,dasar,
+91708.1,x,,pe- + <cahan lancung>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91709,k,0,pecahan murni,dasar,
+91709.1,x,,pe- + <cahan murni>,bentukan,[96] pe- + (<all>) + (-an)
+91709.2,x,,<pecahan murn> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+91710,k,0,pecahan takmurni,dasar,
+91710.1,x,,pe- + <cahan takmurni>,bentukan,[96] pe- + (<all>) + (-an)
+91710.2,x,,<pecahan takmurn> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+91711,v,11,pecahan-pecahan,dasar,
+91711.1,x,,<pecahan> [-] <r>,bentukan,[23] [RD] |
+91711.2,x,,pe- + <cah> + -an [-] pe- + <r> + -an,bentukan,[96] pe- + (<all>) + (-an) => [23] [RD] |
+91711.3,x,,pe- + <cahan> [-] pe- + <r>,bentukan,[96] pe- + (<all>) + (-an) => [23] [RD] |
+91711.4,v,,<pecah> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+91712,v,6,pecahannya,dasar,
+91712.1,x,,pe- + <cahannya>,bentukan,[96] pe- + (<all>) + (-an)
+91712.2,x,,<pecahan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+91712.3,x,,pe- + <cah> + -an + -nya,bentukan,[96] pe- + (<all>) + (-an) => [34] [SFS] -nya + (<all>)
+91712.4,x,,pe- + <cahan> + -nya,bentukan,[96] pe- + (<all>) + (-an) => [34] [SFS] -nya + (<all>)
+91712.5,v,,<pecah> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+91713,v,45,pecahkan,dasar,
+91713.1,x,,pe- + <cahk> + -an,bentukan,[96] pe- + (<all>) + (-an)
+91713.2,x,,pe- + <cahkan>,bentukan,[96] pe- + (<all>) + (-an)
+91713.3,v,,<pecah> + -kan,bentukan,[29] [S] -kan + (<all>)
+91713.4,x,,<pecahk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+91714,v,20,pecahlah,dasar,
+91714.1,x,,pe- + <cahlah>,bentukan,[96] pe- + (<all>) + (-an)
+91714.2,v,,<pecah> + -lah,bentukan,[31] [FS] -lah + (<all>)
+91714.3,x,,pe- + <cah> + -lah,bentukan,[96] pe- + (<all>) + (-an) => [31] [FS] -lah + (<all>)
+,,,,,
+91715,v,79,pecahnya,dasar,
+91715.1,x,,pe- + <cahnya>,bentukan,[96] pe- + (<all>) + (-an)
+91715.2,v,,<pecah> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+91715.3,x,,pe- + <cah> + -nya,bentukan,[96] pe- + (<all>) + (-an) => [34] [SFS] -nya + (<all>)
+,,,,,
+91716,k,0,pecai,dasar,
+91716.1,x,,pe- + <cai>,bentukan,[96] pe- + (<all>) + (-an)
+91716.2,x,,<peca> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+91717,k,6,pecak,dasar,
+91717.1,x,,pe- + <cak>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91718,t,2,pecakapan,dasar,percakapan
+91718.1,x,,pe- + <cakap> + -an,bentukan,[96] pe- + (<all>) + (-an)
+91718.2,x,,pe- + <cakapan>,bentukan,[96] pe- + (<all>) + (-an)
+91718.3,x,,<pecakap> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+91719,c,3,pecal,dasar,pecel
+91719.1,x,,pe- + <cal>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91720,v,5,pecalang,dasar,
+91720.1,x,,pe- + <calang>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91721,k,82,pecandu,dasar,
+91721.1,v,,pe- + <candu>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91722,t,3,pecapaian,dasar,pencapaian
+91722.1,x,,pe- + <capai> + -an,bentukan,[96] pe- + (<all>) + (-an)
+91722.2,x,,pe- + <capaian>,bentukan,[96] pe- + (<all>) + (-an)
+91722.3,x,,<pecapai> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+91723,k,0,pecara,dasar,
+91723.1,x,,pe- + <cara>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91724,k,45,pecat,dasar,
+91724.1,x,,pe- + <cat>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91725,k,0,pecaton,dasar,
+91725.1,x,,pe- + <caton>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91726,k,0,pecatsawed,dasar,
+91726.1,x,,pe- + <catsawed>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91727,k,20,pecatur,dasar,
+91727.1,v,,pe- + <catur>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91728,v,2,pecatur-pecatur,dasar,
+91728.1,x,,<pecatur> [-] <r>,bentukan,[23] [RD] |
+91728.2,v,,pe- + <catur> [-] pe- + <r>,bentukan,[96] pe- + (<all>) + (-an) => [23] [RD] |
+,,,,,
+91729,k,0,pece,dasar,
+91729.1,x,,pe- + <ce>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91730,t,4,pecegahan,dasar,pencegahan
+91730.1,x,,pe- + <cegah> + -an,bentukan,[96] pe- + (<all>) + (-an)
+91730.2,x,,pe- + <cegahan>,bentukan,[96] pe- + (<all>) + (-an)
+91730.3,x,,<pecegah> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+91731,k,50,pecel,dasar,
+91731.1,x,,pe- + <cel>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91732,d,0,pecenongan,dasar,
+91732.1,x,,pe- + <cenong> + -an,bentukan,[96] pe- + (<all>) + (-an)
+91732.2,x,,pe- + <cenongan>,bentukan,[96] pe- + (<all>) + (-an)
+91732.3,x,,<pecenong> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+91733,t,4,pecepatan,dasar,percepatan
+91733.1,x,,pe- + <cepat> + -an,bentukan,[96] pe- + (<all>) + (-an)
+91733.2,x,,pe- + <cepatan>,bentukan,[96] pe- + (<all>) + (-an)
+91733.3,x,,<pecepat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+91734,k,93,peci,dasar,
+91734.1,x,,pe- + <ci>,bentukan,[96] pe- + (<all>) + (-an)
+91734.2,x,,<pec> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+91735,k,0,pecicap,dasar,
+91735.1,x,,pe- + <cicap>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91736,k,4,pecicilan,dasar,
+91736.1,x,,pe- + <cicil> + -an,bentukan,[96] pe- + (<all>) + (-an)
+91736.2,x,,pe- + <cicilan>,bentukan,[96] pe- + (<all>) + (-an)
+91736.3,x,,<pecicil> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+91737,k,45,pecinan,dasar,
+91737.1,x,,pe- + <cin> + -an,bentukan,[96] pe- + (<all>) + (-an)
+91737.2,x,,pe- + <cinan>,bentukan,[96] pe- + (<all>) + (-an)
+91737.3,x,,<pecin> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+91738,k,264,pecinta,dasar,
+91738.1,v,,pe- + <cinta>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91739,v,3,pecintanya,dasar,
+91739.1,x,,pe- + <cintanya>,bentukan,[96] pe- + (<all>) + (-an)
+91739.2,x,,<pecinta> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+91739.3,v,,pe- + <cinta> + -nya,bentukan,[96] pe- + (<all>) + (-an) => [34] [SFS] -nya + (<all>)
+,,,,,
+91740,v,7,pecinya,dasar,
+91740.1,x,,pe- + <cinya>,bentukan,[96] pe- + (<all>) + (-an)
+91740.2,v,,<peci> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+91740.3,x,,pe- + <ci> + -nya,bentukan,[96] pe- + (<all>) + (-an) => [34] [SFS] -nya + (<all>)
+91740.4,x,,<pec> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+91741,t,2,pecobaan,dasar,percobaan
+91741.1,x,,pe- + <coba> + -an,bentukan,[96] pe- + (<all>) + (-an)
+91741.2,x,,pe- + <cobaan>,bentukan,[96] pe- + (<all>) + (-an)
+91741.3,x,,<pecoba> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+91742,k,0,pecok,dasar,
+91742.1,x,,pe- + <cok>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91743,k,0,pecotan,dasar,
+91743.1,x,,pe- + <cot> + -an,bentukan,[96] pe- + (<all>) + (-an)
+91743.2,x,,pe- + <cotan>,bentukan,[96] pe- + (<all>) + (-an)
+91743.3,x,,<pecot> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+91744,k,0,pecuk,dasar,
+91744.1,x,,pe- + <cuk>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91745,k,0,pecun,dasar,
+91745.1,x,,pe- + <cun>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91746,k,58,pecundang,dasar,
+91746.1,v,,pe- + <cundang>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91747,k,10,pecut,dasar,
+91747.1,x,,pe- + <cut>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91748,k,0,pecut kuda,dasar,
+91748.1,x,,pe- + <cut kuda>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91749,v,3,pecutan,dasar,
+91749.1,x,,pe- + <cut> + -an,bentukan,[96] pe- + (<all>) + (-an)
+91749.2,x,,pe- + <cutan>,bentukan,[96] pe- + (<all>) + (-an)
+91749.3,v,,<pecut> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+91750,k,11,peda,dasar,
+91750.1,x,,pe- + <da>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91751,k,2,pedada,dasar,
+91751.1,x,,pe- + <dada>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91752,k,0,pedadah,dasar,
+91752.1,x,,pe- + <dadah>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91753,t,3,pedaftaran,dasar,pendaftaran
+91753.1,x,,pe- + <daftar> + -an,bentukan,[96] pe- + (<all>) + (-an)
+91753.2,x,,pe- + <daftaran>,bentukan,[96] pe- + (<all>) + (-an)
+91753.3,x,,<pedaftar> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+91754,k,1075,pedagang,dasar,
+91754.1,v,,pe- + <dagang>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91755,k,0,pedagang asongan,dasar,
+91755.1,v,,pe- + <dagang asong> + -an,bentukan,[96] pe- + (<all>) + (-an)
+91755.2,x,,pe- + <dagang asongan>,bentukan,[96] pe- + (<all>) + (-an)
+91755.3,x,,<pedagang asong> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+91756,k,0,pedagang besar,dasar,
+91756.1,v,,pe- + <dagang besar>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91757,k,0,pedagang dorongan,dasar,
+91757.1,v,,pe- + <dagang dorong> + -an,bentukan,[96] pe- + (<all>) + (-an)
+91757.2,x,,pe- + <dagang dorongan>,bentukan,[96] pe- + (<all>) + (-an)
+91757.3,x,,<pedagang dorong> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+91758,k,0,pedagang eceran,dasar,
+91758.1,v,,pe- + <dagang ecer> + -an,bentukan,[96] pe- + (<all>) + (-an)
+91758.2,x,,pe- + <dagang eceran>,bentukan,[96] pe- + (<all>) + (-an)
+91758.3,x,,<pedagang ecer> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+91759,k,0,pedagang eceran besar,dasar,
+91759.1,x,,pe- + <dagang eceran besar>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91760,k,0,pedagang kaki lima,dasar,
+91760.1,v,,pe- + <dagang kaki lima>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91761,k,0,pedagang kecil,dasar,
+91761.1,v,,pe- + <dagang kecil>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91762,k,0,pedagang musiman,dasar,
+91762.1,v,,pe- + <dagang musim> + -an,bentukan,[96] pe- + (<all>) + (-an)
+91762.2,x,,pe- + <dagang musiman>,bentukan,[96] pe- + (<all>) + (-an)
+91762.3,x,,<pedagang musim> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+91763,k,0,pedagang perantara,dasar,
+91763.1,x,,pe- + <dagang perantara>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91764,v,48,pedagang-pedagang,dasar,
+91764.1,x,,<pedagang> [-] <r>,bentukan,[23] [RD] |
+91764.2,v,,pe- + <dagang> [-] pe- + <r>,bentukan,[96] pe- + (<all>) + (-an) => [23] [RD] |
+,,,,,
+91765,t,10,pedagangan,dasar,perdagangan
+91765.1,v,,pe- + <dagang> + -an,bentukan,[96] pe- + (<all>) + (-an)
+91765.2,x,,pe- + <dagangan>,bentukan,[96] pe- + (<all>) + (-an)
+91765.3,x,,<pedagang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+91766,t,2,pedagangasongan,dasar,pedagang asongan
+91766.1,x,,pe- + <dagangasong> + -an,bentukan,[96] pe- + (<all>) + (-an)
+91766.2,x,,pe- + <dagangasongan>,bentukan,[96] pe- + (<all>) + (-an)
+91766.3,x,,<pedagangasong> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+91767,v,14,pedagangnya,dasar,
+91767.1,x,,pe- + <dagangnya>,bentukan,[96] pe- + (<all>) + (-an)
+91767.2,x,,<pedagang> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+91767.3,v,,pe- + <dagang> + -nya,bentukan,[96] pe- + (<all>) + (-an) => [34] [SFS] -nya + (<all>)
+,,,,,
+91768,k,23,pedaging,dasar,
+91768.1,v,,pe- + <daging>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91769,k,2,pedagog,dasar,
+91769.1,x,,pe- + <dagog>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91770,k,25,pedagogi,dasar,
+91770.1,x,,pe- + <dagogi>,bentukan,[96] pe- + (<all>) + (-an)
+91770.2,v,,<pedagog> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+91771,c,29,pedagogik,dasar,pedagogis
+91771.1,x,,pe- + <dagogik>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91772,k,18,pedagogis,dasar,
+91772.1,x,,pe- + <dagogis>,bentukan,[96] pe- + (<all>) + (-an)
+91772.2,x,,<pedagogi> + [-is:-s],bentukan,[177] [S] -is + (i)
+91772.3,x,,<pedagog> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+91773,k,0,pedah,dasar,
+91773.1,x,,pe- + <dah>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91774,k,0,pedak,dasar,
+91774.1,x,,pe- + <dak>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91775,k,0,pedaka,dasar,
+91775.1,x,,pe- + <daka>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91776,t,2,pedakwah,dasar,pendakwah
+91776.1,v,,pe- + <dakwah>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91777,c,106,pedal,dasar,empedal
+91777.1,x,,pe- + <dal>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91778,k,0,pedal rem,dasar,
+91778.1,x,,pe- + <dal rem>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91779,v,2,pedal-pedal,dasar,
+91779.1,v,,<pedal> [-] <r>,bentukan,[23] [RD] |
+91779.2,x,,pe- + <dal> [-] pe- + <r>,bentukan,[96] pe- + (<all>) + (-an) => [23] [RD] |
+,,,,,
+91780,k,232,pedalaman,dasar,
+91780.1,v,,pe- + <dalam> + -an,bentukan,[96] pe- + (<all>) + (-an)
+91780.2,x,,pe- + <dalaman>,bentukan,[96] pe- + (<all>) + (-an)
+91780.3,x,,<pedalam> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+91781,v,7,pedalamannya,dasar,
+91781.1,x,,pe- + <dalamannya>,bentukan,[96] pe- + (<all>) + (-an)
+91781.2,x,,<pedalaman> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+91781.3,v,,pe- + <dalam> + -an + -nya,bentukan,[96] pe- + (<all>) + (-an) => [34] [SFS] -nya + (<all>)
+91781.4,x,,pe- + <dalaman> + -nya,bentukan,[96] pe- + (<all>) + (-an) => [34] [SFS] -nya + (<all>)
+91781.5,x,,<pedalam> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+91782,k,0,pedalang,dasar,
+91782.1,v,,pe- + <dalang>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91783,k,11,pedalangan,dasar,
+91783.1,v,,pe- + <dalang> + -an,bentukan,[96] pe- + (<all>) + (-an)
+91783.2,x,,pe- + <dalangan>,bentukan,[96] pe- + (<all>) + (-an)
+91783.3,x,,<pedalang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+91784,k,3,pedamaran,dasar,
+91784.1,v,,pe- + <damar> + -an,bentukan,[96] pe- + (<all>) + (-an)
+91784.2,x,,pe- + <damaran>,bentukan,[96] pe- + (<all>) + (-an)
+91784.3,x,,<pedamar> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+91785,t,3,pedamping,dasar,pendamping
+91785.1,x,,pe- + <damping>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91786,t,2,pedampingan,dasar,pendampingan
+91786.1,x,,pe- + <damping> + -an,bentukan,[96] pe- + (<all>) + (-an)
+91786.2,x,,pe- + <dampingan>,bentukan,[96] pe- + (<all>) + (-an)
+91786.3,x,,<pedamping> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+91787,v,3,pedan,dasar,
+91787.1,x,,pe- + <d> + -an,bentukan,[96] pe- + (<all>) + (-an)
+91787.2,x,,pe- + <dan>,bentukan,[96] pe- + (<all>) + (-an)
+91787.3,x,,<ped> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+91788,k,3,pedanda,dasar,
+91788.1,x,,pe- + <danda>,bentukan,[96] pe- + (<all>) + (-an)
+91788.2,x,,<peda> + [-anda:-nda],bentukan,[183] [S] -anda + (i;u;a;[k:])
+91788.3,x,,<pedan> + [-anda:-da],bentukan,[184] [S] -anda + (an)
+91788.4,x,,<ped> + -anda,bentukan,[185] [S] -anda + (<others>)
+,,,,,
+91789,k,197,pedang,dasar,
+91789.1,x,,pe- + <dang>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91790,k,0,pedang anggar,dasar,
+91790.1,x,,pe- + <dang anggar>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91791,k,0,pedang bara,dasar,
+91791.1,x,,pe- + <dang bara>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91792,k,0,pedang jenawi,dasar,
+91792.1,x,,pe- + <dang jenawi>,bentukan,[96] pe- + (<all>) + (-an)
+91792.2,x,,<pedang jenaw> + -i,bentukan,[28] [S] -i + (<all>)
+91792.3,x,,<pedang jena> + -wi,bentukan,[174] [S] -wi + (<others>)
+,,,,,
+91793,k,0,pedang kehormatan,dasar,
+91793.1,x,,pe- + <dang kehormat> + -an,bentukan,[96] pe- + (<all>) + (-an)
+91793.2,x,,pe- + <dang kehormatan>,bentukan,[96] pe- + (<all>) + (-an)
+91793.3,x,,<pedang kehormat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+91794,k,0,pedang samurai,dasar,
+91794.1,x,,pe- + <dang samurai>,bentukan,[96] pe- + (<all>) + (-an)
+91794.2,x,,<pedang samura> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+91795,k,0,pedang setiabu,dasar,
+91795.1,x,,pe- + <dang setiabu>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91796,v,6,pedang-pedang,dasar,
+91796.1,v,,<pedang> [-] <r>,bentukan,[23] [RD] |
+91796.2,x,,pe- + <dang> [-] pe- + <r>,bentukan,[96] pe- + (<all>) + (-an) => [23] [RD] |
+,,,,,
+91797,v,3,pedang-pedangan,dasar,
+91797.1,v,,<pedang> [-] <r> + -an,bentukan,[23] [RD] |
+91797.2,x,,pe- + <dang> [-] pe- + <r> + -an,bentukan,[96] pe- + (<all>) + (-an) => [23] [RD] |
+,,,,,
+91798,t,4,pedangang,dasar,pedagang
+91798.1,x,,pe- + <dangang>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91799,k,9,pedangdut,dasar,
+91799.1,v,,pe- + <dangdut>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91800,v,3,pedangku,dasar,
+91800.1,x,,pe- + <dangku>,bentukan,[96] pe- + (<all>) + (-an)
+91800.2,v,,<pedang> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+91800.3,x,,pe- + <dang> + -ku,bentukan,[96] pe- + (<all>) + (-an) => [32] [SFS] -ku + (<all>)
+,,,,,
+91801,v,21,pedangnya,dasar,
+91801.1,x,,pe- + <dangnya>,bentukan,[96] pe- + (<all>) + (-an)
+91801.2,v,,<pedang> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+91801.3,x,,pe- + <dang> + -nya,bentukan,[96] pe- + (<all>) + (-an) => [34] [SFS] -nya + (<all>)
+,,,,,
+91802,k,0,pedansa,dasar,
+91802.1,v,,pe- + <dansa>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91803,k,0,pedapa,dasar,
+91803.1,x,,pe- + <dapa>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91804,t,4,pedapatan,dasar,pendapatan
+91804.1,x,,pe- + <dapat> + -an,bentukan,[96] pe- + (<all>) + (-an)
+91804.2,x,,pe- + <dapatan>,bentukan,[96] pe- + (<all>) + (-an)
+91804.3,x,,<pedapat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+91805,k,0,pedar,dasar,
+91805.1,x,,pe- + <dar>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91806,k,0,pedaringan,dasar,
+91806.1,x,,pe- + <daring> + -an,bentukan,[96] pe- + (<all>) + (-an)
+91806.2,x,,pe- + <daringan>,bentukan,[96] pe- + (<all>) + (-an)
+91806.3,x,,<pedaring> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+91807,k,194,pedas,dasar,
+91807.1,x,,pe- + <das>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91808,v,4,pedas-pedas,dasar,
+91808.1,v,,<pedas> [-] <r>,bentukan,[23] [RD] |
+91808.2,x,,pe- + <das> [-] pe- + <r>,bentukan,[96] pe- + (<all>) + (-an) => [23] [RD] |
+,,,,,
+91809,v,14,pedasnya,dasar,
+91809.1,x,,pe- + <dasnya>,bentukan,[96] pe- + (<all>) + (-an)
+91809.2,v,,<pedas> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+91809.3,x,,pe- + <das> + -nya,bentukan,[96] pe- + (<all>) + (-an) => [34] [SFS] -nya + (<all>)
+,,,,,
+91810,t,2,pedatang,dasar,pendatang
+91810.1,x,,pe- + <datang>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91811,t,3,pedataran,dasar,pendataran
+91811.1,x,,pe- + <datar> + -an,bentukan,[96] pe- + (<all>) + (-an)
+91811.2,x,,pe- + <dataran>,bentukan,[96] pe- + (<all>) + (-an)
+91811.3,x,,<pedatar> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+91812,k,22,pedati,dasar,
+91812.1,x,,pe- + <dati>,bentukan,[96] pe- + (<all>) + (-an)
+91812.2,x,,<pedat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+91813,v,2,pedatinya,dasar,
+91813.1,x,,pe- + <datinya>,bentukan,[96] pe- + (<all>) + (-an)
+91813.2,v,,<pedati> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+91813.3,x,,pe- + <dati> + -nya,bentukan,[96] pe- + (<all>) + (-an) => [34] [SFS] -nya + (<all>)
+91813.4,x,,<pedat> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+91814,k,0,pedayung,dasar,
+91814.1,v,,pe- + <dayung>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91815,k,0,pedek,dasar,
+91815.1,x,,pe- + <dek>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91816,t,4,pedekatan,dasar,pendekatan
+91816.1,x,,pe- + <dekat> + -an,bentukan,[96] pe- + (<all>) + (-an)
+91816.2,x,,pe- + <dekatan>,bentukan,[96] pe- + (<all>) + (-an)
+91816.3,x,,<pedekat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+91817,k,0,pedel,dasar,
+91817.1,x,,pe- + <del>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91818,k,4,pedemo,dasar,
+91818.1,v,,pe- + <demo>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91819,k,0,pedena,dasar,
+91819.1,x,,pe- + <dena>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91820,k,0,pedendang,dasar,
+91820.1,v,,pe- + <dendang>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91821,k,0,pedendang gagak,dasar,
+91821.1,x,,pe- + <dendang gagak>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91822,k,0,pedendang topeng,dasar,
+91822.1,v,,pe- + <dendang topeng>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91823,k,0,pedengan,dasar,
+91823.1,x,,pe- + <deng> + -an,bentukan,[96] pe- + (<all>) + (-an)
+91823.2,x,,pe- + <dengan>,bentukan,[96] pe- + (<all>) + (-an)
+91823.3,x,,<pedeng> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+91824,k,2,pedepokan,dasar,
+91824.1,x,,pe- + <depok> + -an,bentukan,[96] pe- + (<all>) + (-an)
+91824.2,x,,pe- + <depokan>,bentukan,[96] pe- + (<all>) + (-an)
+91824.3,x,,<pedepo> + -kan,bentukan,[29] [S] -kan + (<all>)
+91824.4,x,,<pedepok> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+91825,k,0,pedera,dasar,
+91825.1,x,,pe- + <dera>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91826,k,447,pedesaan,dasar,
+91826.1,v,,pe- + <desa> + -an,bentukan,[96] pe- + (<all>) + (-an)
+91826.2,x,,pe- + <desaan>,bentukan,[96] pe- + (<all>) + (-an)
+91826.3,x,,<pedesa> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+91827,k,36,pedestrian,dasar,
+91827.1,x,,pe- + <destri> + -an,bentukan,[96] pe- + (<all>) + (-an)
+91827.2,x,,pe- + <destrian>,bentukan,[96] pe- + (<all>) + (-an)
+91827.3,x,,<pedestri> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+91828,v,2,pedestriannya,dasar,
+91828.1,x,,pe- + <destriannya>,bentukan,[96] pe- + (<all>) + (-an)
+91828.2,v,,<pedestrian> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+91828.3,x,,pe- + <destri> + -an + -nya,bentukan,[96] pe- + (<all>) + (-an) => [34] [SFS] -nya + (<all>)
+91828.4,x,,pe- + <destrian> + -nya,bentukan,[96] pe- + (<all>) + (-an) => [34] [SFS] -nya + (<all>)
+91828.5,x,,<pedestri> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+91829,k,8,pedet,dasar,
+91829.1,x,,pe- + <det>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91830,k,0,pedewakan,dasar,
+91830.1,x,,pe- + <dewak> + -an,bentukan,[96] pe- + (<all>) + (-an)
+91830.2,x,,pe- + <dewakan>,bentukan,[96] pe- + (<all>) + (-an)
+91830.3,x,,<pedewa> + -kan,bentukan,[29] [S] -kan + (<all>)
+91830.4,x,,<pedewak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+91831,k,0,pedi,dasar,
+91831.1,x,,pe- + <di>,bentukan,[96] pe- + (<all>) + (-an)
+91831.2,x,,<ped> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+91832,k,11,pediatri,dasar,
+91832.1,x,,pe- + <diatri>,bentukan,[96] pe- + (<all>) + (-an)
+91832.2,x,,<pediatr> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+91833,v,14,pediatrik,dasar,
+91833.1,x,,pe- + <diatrik>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91834,t,2,pedidik,dasar,pendidik
+91834.1,x,,pe- + <didik>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91835,x,14,pedidikan,dasar,
+91835.1,x,,pe- + <didik> + -an,bentukan,[96] pe- + (<all>) + (-an)
+91835.2,x,,pe- + <didikan>,bentukan,[96] pe- + (<all>) + (-an)
+91835.3,x,,<pedidi> + -kan,bentukan,[29] [S] -kan + (<all>)
+91835.4,x,,<pedidik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+91836,k,0,pediet,dasar,
+91836.1,v,,pe- + <diet>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91837,k,0,pedigre,dasar,
+91837.1,x,,pe- + <digre>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91838,k,142,pedih,dasar,
+91838.1,x,,pe- + <dih>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91839,k,0,pedih hati,dasar,
+91839.1,x,,pe- + <dih hati>,bentukan,[96] pe- + (<all>) + (-an)
+91839.2,x,,<pedih hat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+91840,v,3,pedih-pedih,dasar,
+91840.1,v,,<pedih> [-] <r>,bentukan,[23] [RD] |
+91840.2,x,,pe- + <dih> [-] pe- + <r>,bentukan,[96] pe- + (<all>) + (-an) => [23] [RD] |
+,,,,,
+91841,k,0,pedikulofobia,dasar,
+91841.1,x,,pe- + <dikulofobia>,bentukan,[96] pe- + (<all>) + (-an)
+91841.2,x,,<pedikulo> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+91842,k,2,pedikur,dasar,
+91842.1,x,,pe- + <dikur>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91843,k,0,pediofobia,dasar,
+91843.1,x,,pe- + <diofobia>,bentukan,[96] pe- + (<all>) + (-an)
+91843.2,x,,<pedio> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+91844,k,0,pediofoit,dasar,
+91844.1,x,,pe- + <diofoit>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91845,k,0,pedipalpus,dasar,
+91845.1,x,,pe- + <dipalpus>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91846,k,5,pedis,dasar,
+91846.1,x,,pe- + <dis>,bentukan,[96] pe- + (<all>) + (-an)
+91846.2,x,,<pedi> + [-is:-s],bentukan,[177] [S] -is + (i)
+91846.3,x,,<ped> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+91847,k,0,pedisel,dasar,
+91847.1,x,,pe- + <disel>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91848,k,0,pedodontis,dasar,
+91848.1,x,,pe- + <dodontis>,bentukan,[96] pe- + (<all>) + (-an)
+91848.2,x,,<pedodonti> + [-is:-s],bentukan,[177] [S] -is + (i)
+91848.3,x,,<pedodont> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+91849,k,10,pedofil,dasar,
+91849.1,x,,pe- + <dofil>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91850,k,10,pedofilia,dasar,
+91850.1,x,,pe- + <dofilia>,bentukan,[96] pe- + (<all>) + (-an)
+91850.2,x,,<pedo> + -filia,bentukan,[216] [S] -filia + (<all>)
+,,,,,
+91851,k,0,pedofiliak,dasar,
+91851.1,x,,pe- + <dofiliak>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91852,k,0,pedofobia,dasar,
+91852.1,x,,pe- + <dofobia>,bentukan,[96] pe- + (<all>) + (-an)
+91852.2,x,,<pedo> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+91853,k,0,pedogenesis,dasar,
+91853.1,x,,pe- + <dogenesis>,bentukan,[96] pe- + (<all>) + (-an)
+91853.2,x,,<pedogenesi> + [-is:-s],bentukan,[177] [S] -is + (i)
+91853.3,x,,<pedogenes> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+91854,k,0,pedogeomorfik,dasar,
+91854.1,x,,pe- + <dogeomorfik>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91855,k,0,pedogeomorfologi,dasar,
+91855.1,x,,pe- + <dogeomorfologi>,bentukan,[96] pe- + (<all>) + (-an)
+91855.2,x,,<pedogeomorfolog> + -i,bentukan,[28] [S] -i + (<all>)
+91855.3,x,,<pedogeomorfo> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+91856,k,0,pedok,dasar,
+91856.1,x,,pe- + <dok>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91857,k,0,pedologi,dasar,
+91857.1,x,,pe- + <dologi>,bentukan,[96] pe- + (<all>) + (-an)
+91857.2,x,,<pedolog> + -i,bentukan,[28] [S] -i + (<all>)
+91857.3,x,,<pedo> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+91858,k,2204,pedoman,dasar,
+91858.1,x,,pe- + <dom> + -an,bentukan,[96] pe- + (<all>) + (-an)
+91858.2,x,,pe- + <doman>,bentukan,[96] pe- + (<all>) + (-an)
+91858.3,x,,<pedom> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+91859,k,0,pedoman gizi seimbang,dasar,
+91859.1,x,,pe- + <doman gizi seimbang>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91860,v,9,pedoman-pedoman,dasar,
+91860.1,v,,<pedoman> [-] <r>,bentukan,[23] [RD] |
+91860.2,x,,pe- + <dom> + -an [-] pe- + <r> + -an,bentukan,[96] pe- + (<all>) + (-an) => [23] [RD] |
+91860.3,x,,pe- + <doman> [-] pe- + <r>,bentukan,[96] pe- + (<all>) + (-an) => [23] [RD] |
+91860.4,x,,<pedom> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+91861,v,2,pedomanku,dasar,
+91861.1,x,,pe- + <domanku>,bentukan,[96] pe- + (<all>) + (-an)
+91861.2,v,,<pedoman> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+91861.3,x,,pe- + <dom> + -an + -ku,bentukan,[96] pe- + (<all>) + (-an) => [32] [SFS] -ku + (<all>)
+91861.4,x,,pe- + <doman> + -ku,bentukan,[96] pe- + (<all>) + (-an) => [32] [SFS] -ku + (<all>)
+91861.5,x,,<pedom> + -an + -ku,bentukan,[38] [S] -an + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+91862,v,10,pedomannya,dasar,
+91862.1,x,,pe- + <domannya>,bentukan,[96] pe- + (<all>) + (-an)
+91862.2,v,,<pedoman> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+91862.3,x,,pe- + <dom> + -an + -nya,bentukan,[96] pe- + (<all>) + (-an) => [34] [SFS] -nya + (<all>)
+91862.4,x,,pe- + <doman> + -nya,bentukan,[96] pe- + (<all>) + (-an) => [34] [SFS] -nya + (<all>)
+91862.5,x,,<pedom> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+91863,k,2,pedometer,dasar,
+91863.1,x,,pe- + <dometer>,bentukan,[96] pe- + (<all>) + (-an)
+91863.2,x,,<pedo> + -meter,bentukan,[189] [S] -meter + (<all>)
+,,,,,
+91864,k,0,pedongkang,dasar,
+91864.1,x,,pe- + <dongkang>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91865,k,0,pedonik,dasar,
+91865.1,x,,pe- + <donik>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91866,k,0,pedosfer,dasar,
+91866.1,x,,pe- + <dosfer>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91867,k,0,pedotan,dasar,
+91867.1,x,,pe- + <dot> + -an,bentukan,[96] pe- + (<all>) + (-an)
+91867.2,x,,pe- + <dotan>,bentukan,[96] pe- + (<all>) + (-an)
+91867.3,x,,<pedot> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+91868,k,0,pedu,dasar,
+91868.1,x,,pe- + <du>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91869,v,5,peduduk,dasar,
+91869.1,x,,pe- + <duduk>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91870,k,12,pedukuhan,dasar,
+91870.1,v,,pe- + <dukuh> + -an,bentukan,[96] pe- + (<all>) + (-an)
+91870.2,x,,pe- + <dukuhan>,bentukan,[96] pe- + (<all>) + (-an)
+91870.3,x,,<pedukuh> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+91871,t,3,pedukung,dasar,pendukung
+91871.1,x,,pe- + <dukung>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91872,k,1603,peduli,dasar,
+91872.1,x,,pe- + <duli>,bentukan,[96] pe- + (<all>) + (-an)
+91872.2,x,,<pedul> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+91873,d,0,peduli lindungi,dasar,
+91873.1,x,,pe- + <duli lindungi>,bentukan,[96] pe- + (<all>) + (-an)
+91873.2,x,,<peduli lindung> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+91874,k,0,peduli pelanggan,dasar,
+91874.1,x,,pe- + <duli pelangg> + -an,bentukan,[96] pe- + (<all>) + (-an)
+91874.2,x,,pe- + <duli pelanggan>,bentukan,[96] pe- + (<all>) + (-an)
+91874.3,x,,<peduli pelangg> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+91875,d,0,pedulikan,dasar,
+91875.1,x,,pe- + <dulik> + -an,bentukan,[96] pe- + (<all>) + (-an)
+91875.2,x,,pe- + <dulikan>,bentukan,[96] pe- + (<all>) + (-an)
+91875.3,v,,<peduli> + -kan,bentukan,[29] [S] -kan + (<all>)
+91875.4,x,,<pedulik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+91876,v,2,pedulikanku,dasar,
+91876.1,x,,pe- + <dulikanku>,bentukan,[96] pe- + (<all>) + (-an)
+91876.2,x,,<pedulikan> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+91876.3,x,,pe- + <dulik> + -an + -ku,bentukan,[96] pe- + (<all>) + (-an) => [32] [SFS] -ku + (<all>)
+91876.4,x,,pe- + <dulikan> + -ku,bentukan,[96] pe- + (<all>) + (-an) => [32] [SFS] -ku + (<all>)
+91876.5,v,,<peduli> + -kan + -ku,bentukan,[29] [S] -kan + (<all>) => [32] [SFS] -ku + (<all>)
+91876.6,x,,<pedulik> + -an + -ku,bentukan,[38] [S] -an + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+91877,v,8,peduliku,dasar,
+91877.1,x,,pe- + <duliku>,bentukan,[96] pe- + (<all>) + (-an)
+91877.2,v,,<peduli> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+91877.3,x,,pe- + <duli> + -ku,bentukan,[96] pe- + (<all>) + (-an) => [32] [SFS] -ku + (<all>)
+91877.4,x,,<pedul> + -i + -ku,bentukan,[28] [S] -i + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+91878,v,2,pedulilah,dasar,
+91878.1,x,,pe- + <dulilah>,bentukan,[96] pe- + (<all>) + (-an)
+91878.2,v,,<peduli> + -lah,bentukan,[31] [FS] -lah + (<all>)
+91878.3,x,,pe- + <duli> + -lah,bentukan,[96] pe- + (<all>) + (-an) => [31] [FS] -lah + (<all>)
+91878.4,x,,<pedul> + -i + -lah,bentukan,[28] [S] -i + (<all>) => [31] [FS] -lah + (<all>)
+,,,,,
+91879,v,3,pedulimu,dasar,
+91879.1,x,,pe- + <dulimu>,bentukan,[96] pe- + (<all>) + (-an)
+91879.2,v,,<peduli> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+91879.3,x,,pe- + <duli> + -mu,bentukan,[96] pe- + (<all>) + (-an) => [33] [SFS] -mu + (<all>)
+91879.4,x,,<pedul> + -i + -mu,bentukan,[28] [S] -i + (<all>) => [33] [SFS] -mu + (<all>)
+,,,,,
+91880,v,14,pedulinya,dasar,
+91880.1,x,,pe- + <dulinya>,bentukan,[96] pe- + (<all>) + (-an)
+91880.2,v,,<peduli> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+91880.3,x,,pe- + <duli> + -nya,bentukan,[96] pe- + (<all>) + (-an) => [34] [SFS] -nya + (<all>)
+91880.4,x,,<pedul> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+91881,k,0,pedunkel,dasar,
+91881.1,x,,pe- + <dunkel>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+91882,k,5,pedupaan,dasar,
+91882.1,v,,pe- + <dupa> + -an,bentukan,[96] pe- + (<all>) + (-an)
+91882.2,x,,pe- + <dupaan>,bentukan,[96] pe- + (<all>) + (-an)
+91882.3,x,,<pedupa> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+91883,d,0,pedurenan,dasar,
+91883.1,x,,pe- + <duren> + -an,bentukan,[96] pe- + (<all>) + (-an)
+91883.2,x,,pe- + <durenan>,bentukan,[96] pe- + (<all>) + (-an)
+91883.3,x,,<peduren> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+91884,v,5,pedurungan,dasar,
+91884.1,x,,pe- + <durung> + -an,bentukan,[96] pe- + (<all>) + (-an)
+91884.2,x,,pe- + <durungan>,bentukan,[96] pe- + (<all>) + (-an)
+91884.3,x,,<pedurung> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+91885,k,0,pedusi,dasar,
+91885.1,x,,pe- + <dusi>,bentukan,[96] pe- + (<all>) + (-an)
+91885.2,x,,<pedus> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+91886,k,5,pedusunan,dasar,
+91886.1,v,,pe- + <dusun> + -an,bentukan,[96] pe- + (<all>) + (-an)
+91886.2,x,,pe- + <dusunan>,bentukan,[96] pe- + (<all>) + (-an)
+91886.3,x,,<pedusun> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+91887,k,0,pedut,dasar,
+91887.1,x,,pe- + <dut>,bentukan,[96] pe- + (<all>) + (-an)

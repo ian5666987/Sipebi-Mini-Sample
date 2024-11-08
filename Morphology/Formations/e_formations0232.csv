@@ -1,0 +1,1190 @@
+Nomor,KP,Jumlah,Entri,Tipe,Pembentukan
+92828,v,6,pelukis-pelukis,dasar,
+92828.1,x,,<pelukis> [-] <r>,bentukan,[23] [RD] |
+92828.2,v,,[peng-:pe-] + <lukis> [-] [peng-:pe-] + <r>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an) => [23] [RD] |
+92828.3,x,,pe- + <lukis> [-] pe- + <r>,bentukan,[96] pe- + (<all>) + (-an) => [23] [RD] |
+92828.4,x,,<peluki> + [-is:-s] [-] <r> + [-is:-s],bentukan,[177] [S] -is + (i) => [23] [RD] |
+92828.5,x,,<peluk> + -is [-] <r> + -is,bentukan,[178] [S] -is + (<others>) => [23] [RD] |
+,,,,,
+92829,k,12,pelukisan,dasar,
+92829.1,x,,[peng-:pe-] + <lukis> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92829.2,x,,[peng-:pe-] + <lukisan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92829.3,v,,pe- + <lukis> + -an,bentukan,[96] pe- + (<all>) + (-an)
+92829.4,x,,pe- + <lukisan>,bentukan,[96] pe- + (<all>) + (-an)
+92829.5,x,,<pelukis> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+92830,v,3,pelukisannya,dasar,
+92830.1,x,,[peng-:pe-] + <lukisannya>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92830.2,x,,pe- + <lukisannya>,bentukan,[96] pe- + (<all>) + (-an)
+92830.3,x,,<pelukisan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+92830.4,x,,[peng-:pe-] + <lukis> + -an + -nya,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an) => [34] [SFS] -nya + (<all>)
+92830.5,x,,[peng-:pe-] + <lukisan> + -nya,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an) => [34] [SFS] -nya + (<all>)
+92830.6,v,,pe- + <lukis> + -an + -nya,bentukan,[96] pe- + (<all>) + (-an) => [34] [SFS] -nya + (<all>)
+92830.7,x,,pe- + <lukisan> + -nya,bentukan,[96] pe- + (<all>) + (-an) => [34] [SFS] -nya + (<all>)
+92830.8,x,,<pelukis> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+92831,v,12,pelukisnya,dasar,
+92831.1,x,,[peng-:pe-] + <lukisnya>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92831.2,x,,pe- + <lukisnya>,bentukan,[96] pe- + (<all>) + (-an)
+92831.3,x,,<pelukis> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+92831.4,v,,[peng-:pe-] + <lukis> + -nya,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an) => [34] [SFS] -nya + (<all>)
+92831.5,x,,pe- + <lukis> + -nya,bentukan,[96] pe- + (<all>) + (-an) => [34] [SFS] -nya + (<all>)
+92831.6,x,,<peluki> + [-is:-s] + -nya,bentukan,[177] [S] -is + (i) => [34] [SFS] -nya + (<all>)
+92831.7,x,,<peluk> + -is + -nya,bentukan,[178] [S] -is + (<others>) => [34] [SFS] -nya + (<all>)
+,,,,,
+92832,v,4,peluklah,dasar,
+92832.1,x,,[peng-:pe-] + <luklah>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92832.2,x,,pe- + <luklah>,bentukan,[96] pe- + (<all>) + (-an)
+92832.3,v,,<peluk> + -lah,bentukan,[31] [FS] -lah + (<all>)
+92832.4,x,,[peng-:pe-] + <luk> + -lah,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an) => [31] [FS] -lah + (<all>)
+92832.5,x,,pe- + <luk> + -lah,bentukan,[96] pe- + (<all>) + (-an) => [31] [FS] -lah + (<all>)
+,,,,,
+92833,k,0,peluluh,dasar,
+92833.1,v,,[peng-:pe-] + <luluh>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92833.2,x,,pe- + <luluh>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+92834,k,0,peluluhan,dasar,
+92834.1,x,,[peng-:pe-] + <luluh> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92834.2,x,,[peng-:pe-] + <luluhan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92834.3,v,,pe- + <luluh> + -an,bentukan,[96] pe- + (<all>) + (-an)
+92834.4,x,,pe- + <luluhan>,bentukan,[96] pe- + (<all>) + (-an)
+92834.5,x,,<peluluh> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+92835,k,0,peluluk,dasar,
+92835.1,v,,[peng-:pe-] + <luluk>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92835.2,x,,pe- + <luluk>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+92836,k,0,pelulusan,dasar,
+92836.1,x,,[peng-:pe-] + <lulus> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92836.2,x,,[peng-:pe-] + <lulusan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92836.3,v,,pe- + <lulus> + -an,bentukan,[96] pe- + (<all>) + (-an)
+92836.4,x,,pe- + <lulusan>,bentukan,[96] pe- + (<all>) + (-an)
+92836.5,x,,<pelulus> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+92837,k,0,pelulut,dasar,
+92837.1,v,,[peng-:pe-] + <lulut>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92837.2,x,,pe- + <lulut>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+92838,k,95,pelumas,dasar,
+92838.1,v,,[peng-:pe-] + <lumas>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92838.2,x,,pe- + <lumas>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+92839,k,0,pelumas sulingan,dasar,
+92839.1,x,,[peng-:pe-] + <lumas suling> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92839.2,x,,[peng-:pe-] + <lumas sulingan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92839.3,x,,pe- + <lumas suling> + -an,bentukan,[96] pe- + (<all>) + (-an)
+92839.4,x,,pe- + <lumas sulingan>,bentukan,[96] pe- + (<all>) + (-an)
+92839.5,x,,<pelumas suling> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+92840,d,0,pelumas-pelumas,dasar,
+92840.1,x,,<pelumas> [-] <r>,bentukan,[23] [RD] |
+92840.2,v,,[peng-:pe-] + <lumas> [-] [peng-:pe-] + <r>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an) => [23] [RD] |
+92840.3,x,,pe- + <lumas> [-] pe- + <r>,bentukan,[96] pe- + (<all>) + (-an) => [23] [RD] |
+,,,,,
+92841,v,10,pelumasan,dasar,
+92841.1,x,,[peng-:pe-] + <lumas> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92841.2,x,,[peng-:pe-] + <lumasan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92841.3,v,,pe- + <lumas> + -an,bentukan,[96] pe- + (<all>) + (-an)
+92841.4,x,,pe- + <lumasan>,bentukan,[96] pe- + (<all>) + (-an)
+92841.5,x,,<pelumas> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+92842,v,3,pelumasnya,dasar,
+92842.1,x,,[peng-:pe-] + <lumasnya>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92842.2,x,,pe- + <lumasnya>,bentukan,[96] pe- + (<all>) + (-an)
+92842.3,x,,<pelumas> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+92842.4,v,,[peng-:pe-] + <lumas> + -nya,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an) => [34] [SFS] -nya + (<all>)
+92842.5,x,,pe- + <lumas> + -nya,bentukan,[96] pe- + (<all>) + (-an) => [34] [SFS] -nya + (<all>)
+,,,,,
+92843,k,0,pelumat,dasar,
+92843.1,v,,[peng-:pe-] + <lumat>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92843.2,x,,pe- + <lumat>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+92844,k,0,pelumat bola,dasar,
+92844.1,x,,[peng-:pe-] + <lumat bola>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92844.2,x,,pe- + <lumat bola>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+92845,k,0,pelumat guling,dasar,
+92845.1,x,,[peng-:pe-] + <lumat guling>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92845.2,x,,pe- + <lumat guling>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+92846,k,2,pelumatan,dasar,
+92846.1,x,,[peng-:pe-] + <lumat> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92846.2,x,,[peng-:pe-] + <lumatan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92846.3,v,,pe- + <lumat> + -an,bentukan,[96] pe- + (<all>) + (-an)
+92846.4,x,,pe- + <lumatan>,bentukan,[96] pe- + (<all>) + (-an)
+92846.5,x,,<pelumat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+92847,k,0,pelumer,dasar,
+92847.1,v,,[peng-:pe-] + <lumer>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92847.2,x,,pe- + <lumer>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+92848,k,0,pelumeran,dasar,
+92848.1,v,,[peng-:pe-] + <lumer> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92848.2,x,,[peng-:pe-] + <lumeran>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92848.3,x,,pe- + <lumer> + -an,bentukan,[96] pe- + (<all>) + (-an)
+92848.4,x,,pe- + <lumeran>,bentukan,[96] pe- + (<all>) + (-an)
+92848.5,x,,<pelumer> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+92849,k,5,pelumpuh,dasar,
+92849.1,v,,[peng-:pe-] + <lumpuh>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92849.2,x,,pe- + <lumpuh>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+92850,k,0,pelumpuh mesin,dasar,
+92850.1,x,,[peng-:pe-] + <lumpuh mesin>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92850.2,x,,pe- + <lumpuh mesin>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+92851,k,0,pelumpuhan,dasar,
+92851.1,x,,[peng-:pe-] + <lumpuh> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92851.2,x,,[peng-:pe-] + <lumpuhan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92851.3,v,,pe- + <lumpuh> + -an,bentukan,[96] pe- + (<all>) + (-an)
+92851.4,x,,pe- + <lumpuhan>,bentukan,[96] pe- + (<all>) + (-an)
+92851.5,x,,<pelumpuh> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+92852,k,0,pelumpung,dasar,
+92852.1,x,,[peng-:pe-] + <lumpung>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92852.2,x,,pe- + <lumpung>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+92853,k,2,pelumpuran,dasar,
+92853.1,x,,[peng-:pe-] + <lumpur> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92853.2,x,,[peng-:pe-] + <lumpuran>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92853.3,v,,pe- + <lumpur> + -an,bentukan,[96] pe- + (<all>) + (-an)
+92853.4,x,,pe- + <lumpuran>,bentukan,[96] pe- + (<all>) + (-an)
+92853.5,x,,<pelumpur> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+92854,k,0,pelumuran,dasar,
+92854.1,x,,[peng-:pe-] + <lumur> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92854.2,x,,[peng-:pe-] + <lumuran>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92854.3,v,,pe- + <lumur> + -an,bentukan,[96] pe- + (<all>) + (-an)
+92854.4,x,,pe- + <lumuran>,bentukan,[96] pe- + (<all>) + (-an)
+92854.5,x,,<pelumur> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+92855,k,0,pelunak,dasar,
+92855.1,v,,[peng-:pe-] + <lunak>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92855.2,x,,pe- + <lunak>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+92856,k,2,pelunakan,dasar,
+92856.1,x,,[peng-:pe-] + <lunak> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92856.2,x,,[peng-:pe-] + <lunakan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92856.3,v,,pe- + <lunak> + -an,bentukan,[96] pe- + (<all>) + (-an)
+92856.4,x,,pe- + <lunakan>,bentukan,[96] pe- + (<all>) + (-an)
+92856.5,x,,<peluna> + -kan,bentukan,[29] [S] -kan + (<all>)
+92856.6,x,,<pelunak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+92857,k,0,pelunas,dasar,
+92857.1,v,,[peng-:pe-] + <lunas>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92857.2,x,,pe- + <lunas>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+92858,k,318,pelunasan,dasar,
+92858.1,x,,[peng-:pe-] + <lunas> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92858.2,x,,[peng-:pe-] + <lunasan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92858.3,v,,pe- + <lunas> + -an,bentukan,[96] pe- + (<all>) + (-an)
+92858.4,x,,pe- + <lunasan>,bentukan,[96] pe- + (<all>) + (-an)
+92858.5,x,,<pelunas> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+92859,v,12,pelunasannya,dasar,
+92859.1,x,,[peng-:pe-] + <lunasannya>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92859.2,x,,pe- + <lunasannya>,bentukan,[96] pe- + (<all>) + (-an)
+92859.3,x,,<pelunasan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+92859.4,x,,[peng-:pe-] + <lunas> + -an + -nya,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an) => [34] [SFS] -nya + (<all>)
+92859.5,x,,[peng-:pe-] + <lunasan> + -nya,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an) => [34] [SFS] -nya + (<all>)
+92859.6,v,,pe- + <lunas> + -an + -nya,bentukan,[96] pe- + (<all>) + (-an) => [34] [SFS] -nya + (<all>)
+92859.7,x,,pe- + <lunasan> + -nya,bentukan,[96] pe- + (<all>) + (-an) => [34] [SFS] -nya + (<all>)
+92859.8,x,,<pelunas> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+92860,k,0,pelunauan,dasar,
+92860.1,x,,[peng-:pe-] + <lunau> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92860.2,x,,[peng-:pe-] + <lunauan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92860.3,v,,pe- + <lunau> + -an,bentukan,[96] pe- + (<all>) + (-an)
+92860.4,x,,pe- + <lunauan>,bentukan,[96] pe- + (<all>) + (-an)
+92860.5,x,,<pelunau> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+92861,k,21,peluncur,dasar,
+92861.1,v,,[peng-:pe-] + <luncur>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92861.2,x,,pe- + <luncur>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+92862,k,0,peluncur granat,dasar,
+92862.1,x,,[peng-:pe-] + <luncur granat>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92862.2,x,,pe- + <luncur granat>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+92863,k,563,peluncuran,dasar,
+92863.1,x,,[peng-:pe-] + <luncur> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92863.2,x,,[peng-:pe-] + <luncuran>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92863.3,v,,pe- + <luncur> + -an,bentukan,[96] pe- + (<all>) + (-an)
+92863.4,x,,pe- + <luncuran>,bentukan,[96] pe- + (<all>) + (-an)
+92863.5,x,,<peluncur> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+92864,k,0,peluncuran buritan,dasar,
+92864.1,x,,[peng-:pe-] + <luncuran burit> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92864.2,x,,[peng-:pe-] + <luncuran buritan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92864.3,x,,pe- + <luncuran burit> + -an,bentukan,[96] pe- + (<all>) + (-an)
+92864.4,x,,pe- + <luncuran buritan>,bentukan,[96] pe- + (<all>) + (-an)
+92864.5,x,,<peluncuran burit> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+92865,k,0,peluncuran perdana,dasar,
+92865.1,x,,[peng-:pe-] + <luncuran perdana>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92865.2,x,,pe- + <luncuran perdana>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+92866,k,0,peluncuran praresmi,dasar,
+92866.1,x,,[peng-:pe-] + <luncuran praresmi>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92866.2,x,,pe- + <luncuran praresmi>,bentukan,[96] pe- + (<all>) + (-an)
+92866.3,x,,<peluncuran praresm> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+92867,v,52,peluncurannya,dasar,
+92867.1,x,,[peng-:pe-] + <luncurannya>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92867.2,x,,pe- + <luncurannya>,bentukan,[96] pe- + (<all>) + (-an)
+92867.3,x,,<peluncuran> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+92867.4,x,,[peng-:pe-] + <luncur> + -an + -nya,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an) => [34] [SFS] -nya + (<all>)
+92867.5,x,,[peng-:pe-] + <luncuran> + -nya,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an) => [34] [SFS] -nya + (<all>)
+92867.6,v,,pe- + <luncur> + -an + -nya,bentukan,[96] pe- + (<all>) + (-an) => [34] [SFS] -nya + (<all>)
+92867.7,x,,pe- + <luncuran> + -nya,bentukan,[96] pe- + (<all>) + (-an) => [34] [SFS] -nya + (<all>)
+92867.8,x,,<peluncur> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+92868,v,2,peluncurnya,dasar,
+92868.1,x,,[peng-:pe-] + <luncurnya>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92868.2,x,,pe- + <luncurnya>,bentukan,[96] pe- + (<all>) + (-an)
+92868.3,x,,<peluncur> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+92868.4,v,,[peng-:pe-] + <luncur> + -nya,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an) => [34] [SFS] -nya + (<all>)
+92868.5,x,,pe- + <luncur> + -nya,bentukan,[96] pe- + (<all>) + (-an) => [34] [SFS] -nya + (<all>)
+,,,,,
+92869,k,0,pelungguh,dasar,
+92869.1,v,,[peng-:pe-] + <lungguh>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92869.2,x,,pe- + <lungguh>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+92870,k,0,pelungpung,dasar,
+92870.1,x,,[peng-:pe-] + <lungpung>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92870.2,x,,pe- + <lungpung>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+92871,k,0,peluntang,dasar,
+92871.1,v,,[peng-:pe-] + <luntang>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92871.2,x,,pe- + <luntang>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+92872,k,0,peluntur,dasar,
+92872.1,v,,[peng-:pe-] + <luntur>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92872.2,x,,pe- + <luntur>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+92873,k,0,pelunturan,dasar,
+92873.1,x,,[peng-:pe-] + <luntur> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92873.2,x,,[peng-:pe-] + <lunturan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92873.3,v,,pe- + <luntur> + -an,bentukan,[96] pe- + (<all>) + (-an)
+92873.4,x,,pe- + <lunturan>,bentukan,[96] pe- + (<all>) + (-an)
+92873.5,x,,<peluntur> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+92874,k,30,pelupa,dasar,
+92874.1,v,,[peng-:pe-] + <lupa>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92874.2,x,,pe- + <lupa>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+92875,k,2,pelupuh,dasar,
+92875.1,v,,[peng-:pe-] + <lupuh>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92875.2,x,,pe- + <lupuh>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+92876,k,67,pelupuk,dasar,
+92876.1,x,,[peng-:pe-] + <lupuk>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92876.2,x,,pe- + <lupuk>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+92877,v,7,pelupuknya,dasar,
+92877.1,x,,[peng-:pe-] + <lupuknya>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92877.2,x,,pe- + <lupuknya>,bentukan,[96] pe- + (<all>) + (-an)
+92877.3,v,,<pelupuk> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+92877.4,x,,[peng-:pe-] + <lupuk> + -nya,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an) => [34] [SFS] -nya + (<all>)
+92877.5,x,,pe- + <lupuk> + -nya,bentukan,[96] pe- + (<all>) + (-an) => [34] [SFS] -nya + (<all>)
+,,,,,
+92878,k,363,peluru,dasar,
+92878.1,x,,[peng-:pe-] + <luru>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92878.2,x,,pe- + <luru>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+92879,k,0,peluru demdem,dasar,
+92879.1,x,,[peng-:pe-] + <luru demdem>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92879.2,x,,pe- + <luru demdem>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+92880,k,0,peluru kendali,dasar,
+92880.1,x,,[peng-:pe-] + <luru kendali>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92880.2,x,,pe- + <luru kendali>,bentukan,[96] pe- + (<all>) + (-an)
+92880.3,x,,<peluru kendal> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+92881,v,21,peluru-peluru,dasar,
+92881.1,v,,<peluru> [-] <r>,bentukan,[23] [RD] |
+92881.2,x,,[peng-:pe-] + <luru> [-] [peng-:pe-] + <r>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an) => [23] [RD] |
+92881.3,x,,pe- + <luru> [-] pe- + <r>,bentukan,[96] pe- + (<all>) + (-an) => [23] [RD] |
+,,,,,
+92882,k,6,peluruh,dasar,
+92882.1,v,,[peng-:pe-] + <luruh>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92882.2,x,,pe- + <luruh>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+92883,k,0,peluruh dahak,dasar,
+92883.1,x,,[peng-:pe-] + <luruh dahak>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92883.2,x,,pe- + <luruh dahak>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+92884,k,0,peluruh kencing,dasar,
+92884.1,x,,[peng-:pe-] + <luruh kencing>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92884.2,x,,pe- + <luruh kencing>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+92885,k,14,peluruhan,dasar,
+92885.1,x,,[peng-:pe-] + <luruh> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92885.2,x,,[peng-:pe-] + <luruhan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92885.3,v,,pe- + <luruh> + -an,bentukan,[96] pe- + (<all>) + (-an)
+92885.4,x,,pe- + <luruhan>,bentukan,[96] pe- + (<all>) + (-an)
+92885.5,x,,<peluruh> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+92886,k,0,peluruhan radioaktif,dasar,
+92886.1,x,,[peng-:pe-] + <luruhan radioaktif>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92886.2,x,,pe- + <luruhan radioaktif>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+92887,v,3,peluruku,dasar,
+92887.1,x,,[peng-:pe-] + <luruku>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92887.2,x,,pe- + <luruku>,bentukan,[96] pe- + (<all>) + (-an)
+92887.3,v,,<peluru> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+92887.4,x,,[peng-:pe-] + <luru> + -ku,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an) => [32] [SFS] -ku + (<all>)
+92887.5,x,,pe- + <luru> + -ku,bentukan,[96] pe- + (<all>) + (-an) => [32] [SFS] -ku + (<all>)
+,,,,,
+92888,v,28,pelurunya,dasar,
+92888.1,x,,[peng-:pe-] + <lurunya>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92888.2,x,,pe- + <lurunya>,bentukan,[96] pe- + (<all>) + (-an)
+92888.3,v,,<peluru> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+92888.4,x,,[peng-:pe-] + <luru> + -nya,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an) => [34] [SFS] -nya + (<all>)
+92888.5,x,,pe- + <luru> + -nya,bentukan,[96] pe- + (<all>) + (-an) => [34] [SFS] -nya + (<all>)
+,,,,,
+92889,k,4,pelurus,dasar,
+92889.1,v,,[peng-:pe-] + <lurus>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92889.2,x,,pe- + <lurus>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+92890,k,0,pelurus rambut,dasar,
+92890.1,x,,[peng-:pe-] + <lurus rambut>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92890.2,x,,pe- + <lurus rambut>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+92891,k,9,pelurusan,dasar,
+92891.1,x,,[peng-:pe-] + <lurus> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92891.2,x,,[peng-:pe-] + <lurusan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92891.3,v,,pe- + <lurus> + -an,bentukan,[96] pe- + (<all>) + (-an)
+92891.4,x,,pe- + <lurusan>,bentukan,[96] pe- + (<all>) + (-an)
+92891.5,x,,<pelurus> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+92892,k,0,pelus,dasar,
+92892.1,x,,[peng-:pe-] + <lus>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92892.2,x,,pe- + <lus>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+92893,k,0,pelvik,dasar,
+,,,,,
+92894,k,17,pelvis,dasar,
+92894.1,x,,<pelvi> + [-is:-s],bentukan,[177] [S] -is + (i)
+92894.2,x,,<pelv> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+92895,k,0,pem--an,dasar,
+,,,,,
+92896,t,6,pem-bangunan,dasar,pembangunan
+,,,,,
+92897,t,4,pem-bayaran,dasar,pembayaran
+,,,,,
+92898,t,2,pem-belajaran,dasar,pembelajaran
+,,,,,
+92899,t,2,pem-bentukan,dasar,pembentukan
+,,,,,
+92900,t,2,pem-berian,dasar,pemberian
+,,,,,
+92901,t,2,pem-berontakan,dasar,pemberontakan
+,,,,,
+92902,t,2,pem-biayaan,dasar,pembiayaan
+,,,,,
+92903,t,2,pem-buangan,dasar,pembuangan
+,,,,,
+92904,t,3,pem-bukaan,dasar,pembukaan
+,,,,,
+92905,k,33,pemaaf,dasar,
+92905.1,v,,[peng-:pe-] + <maaf>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92905.2,x,,[peng-:pe-] + <paaf>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92905.3,x,,pe- + <maaf>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+92906,k,10,pemaafan,dasar,
+92906.1,x,,[peng-:pe-] + <maaf> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92906.2,x,,[peng-:pe-] + <paaf> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92906.3,x,,[peng-:pe-] + <maafan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92906.4,x,,[peng-:pe-] + <paafan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92906.5,v,,pe- + <maaf> + -an,bentukan,[96] pe- + (<all>) + (-an)
+92906.6,x,,pe- + <maafan>,bentukan,[96] pe- + (<all>) + (-an)
+92906.7,x,,<pemaaf> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+92907,k,0,pemabrikan,dasar,
+92907.1,x,,[peng-:pe-] + <mabrik> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92907.2,v,,[peng-:pe-] + <pabrik> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92907.3,x,,[peng-:pe-] + <mabrikan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92907.4,x,,[peng-:pe-] + <pabrikan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92907.5,x,,pe- + <mabrik> + -an,bentukan,[96] pe- + (<all>) + (-an)
+92907.6,x,,pe- + <mabrikan>,bentukan,[96] pe- + (<all>) + (-an)
+92907.7,x,,<pemabri> + -kan,bentukan,[29] [S] -kan + (<all>)
+92907.8,x,,<pemabrik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+92908,k,43,pemabuk,dasar,
+92908.1,v,,[peng-:pe-] + <mabuk>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92908.2,x,,[peng-:pe-] + <pabuk>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92908.3,x,,pe- + <mabuk>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+92909,k,2,pemacek,dasar,
+92909.1,x,,[peng-:pe-] + <macek>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92909.2,v,,[peng-:pe-] + <pacek>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92909.3,x,,pe- + <macek>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+92910,k,0,pemacekan,dasar,
+92910.1,x,,[peng-:pe-] + <macek> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92910.2,v,,[peng-:pe-] + <pacek> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92910.3,x,,[peng-:pe-] + <macekan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92910.4,x,,[peng-:pe-] + <pacekan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92910.5,x,,pe- + <macek> + -an,bentukan,[96] pe- + (<all>) + (-an)
+92910.6,x,,pe- + <macekan>,bentukan,[96] pe- + (<all>) + (-an)
+92910.7,x,,<pemace> + -kan,bentukan,[29] [S] -kan + (<all>)
+92910.8,x,,<pemacek> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+92911,k,0,pemacet,dasar,
+92911.1,v,,[peng-:pe-] + <macet>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92911.2,x,,[peng-:pe-] + <pacet>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92911.3,x,,pe- + <macet>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+92912,k,0,pemacik,dasar,
+92912.1,x,,[peng-:pe-] + <macik>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92912.2,v,,[peng-:pe-] + <pacik>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92912.3,x,,pe- + <macik>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+92913,k,44,pemacu,dasar,
+92913.1,x,,[peng-:pe-] + <macu>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92913.2,v,,[peng-:pe-] + <pacu>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92913.3,x,,pe- + <macu>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+92914,k,0,pemacuan,dasar,
+92914.1,x,,[peng-:pe-] + <macu> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92914.2,v,,[peng-:pe-] + <pacu> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92914.3,x,,[peng-:pe-] + <macuan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92914.4,x,,[peng-:pe-] + <pacuan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92914.5,x,,pe- + <macu> + -an,bentukan,[96] pe- + (<all>) + (-an)
+92914.6,x,,pe- + <macuan>,bentukan,[96] pe- + (<all>) + (-an)
+92914.7,x,,<pemacu> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+92915,k,0,pemadah,dasar,
+92915.1,v,,[peng-:pe-] + <madah>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92915.2,x,,[peng-:pe-] + <padah>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92915.3,x,,pe- + <madah>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+92916,k,211,pemadam,dasar,
+92916.1,x,,[peng-:pe-] + <madam>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92916.2,v,,[peng-:pe-] + <padam>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92916.3,x,,pe- + <madam>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+92917,k,0,pemadam api,dasar,
+92917.1,x,,[peng-:pe-] + <madam api>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92917.2,v,,[peng-:pe-] + <padam api>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92917.3,x,,pe- + <madam api>,bentukan,[96] pe- + (<all>) + (-an)
+92917.4,x,,<pemadam ap> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+92918,k,0,pemadam kebakaran,dasar,
+92918.1,x,,[peng-:pe-] + <madam kebakar> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92918.2,x,,[peng-:pe-] + <padam kebakar> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92918.3,x,,[peng-:pe-] + <madam kebakaran>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92918.4,x,,[peng-:pe-] + <padam kebakaran>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92918.5,x,,pe- + <madam kebakar> + -an,bentukan,[96] pe- + (<all>) + (-an)
+92918.6,x,,pe- + <madam kebakaran>,bentukan,[96] pe- + (<all>) + (-an)
+92918.7,x,,<pemadam kebakar> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+92919,k,84,pemadaman,dasar,
+92919.1,x,,[peng-:pe-] + <madam> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92919.2,v,,[peng-:pe-] + <padam> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92919.3,x,,[peng-:pe-] + <madaman>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92919.4,x,,[peng-:pe-] + <padaman>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92919.5,x,,pe- + <madam> + -an,bentukan,[96] pe- + (<all>) + (-an)
+92919.6,x,,pe- + <madaman>,bentukan,[96] pe- + (<all>) + (-an)
+92919.7,x,,<pemadam> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+92920,k,0,pemadaman sumber,dasar,
+92920.1,x,,[peng-:pe-] + <madaman sumber>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92920.2,x,,[peng-:pe-] + <padaman sumber>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92920.3,x,,pe- + <madaman sumber>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+92921,k,2,pemadan,dasar,
+92921.1,x,,[peng-:pe-] + <mad> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92921.2,x,,[peng-:pe-] + <pad> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92921.3,x,,[peng-:pe-] + <madan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92921.4,v,,[peng-:pe-] + <padan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92921.5,x,,pe- + <mad> + -an,bentukan,[96] pe- + (<all>) + (-an)
+92921.6,x,,pe- + <madan>,bentukan,[96] pe- + (<all>) + (-an)
+92921.7,x,,<pemad> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+92922,k,6,pemadanan,dasar,
+92922.1,x,,[peng-:pe-] + <madan> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92922.2,v,,[peng-:pe-] + <padan> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92922.3,x,,[peng-:pe-] + <madanan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92922.4,x,,[peng-:pe-] + <padanan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92922.5,x,,pe- + <madan> + -an,bentukan,[96] pe- + (<all>) + (-an)
+92922.6,x,,pe- + <madanan>,bentukan,[96] pe- + (<all>) + (-an)
+92922.7,x,,<pemadan> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+92923,k,15,pemadat,dasar,
+92923.1,x,,[peng-:pe-] + <madat>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92923.2,v,,[peng-:pe-] + <padat>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92923.3,x,,pe- + <madat>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+92924,k,33,pemadatan,dasar,
+92924.1,x,,[peng-:pe-] + <madat> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92924.2,v,,[peng-:pe-] + <padat> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92924.3,x,,[peng-:pe-] + <madatan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92924.4,x,,[peng-:pe-] + <padatan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92924.5,x,,pe- + <madat> + -an,bentukan,[96] pe- + (<all>) + (-an)
+92924.6,x,,pe- + <madatan>,bentukan,[96] pe- + (<all>) + (-an)
+92924.7,x,,<pemadat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+92925,k,7,pemadu,dasar,
+92925.1,x,,[peng-:pe-] + <madu>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92925.2,v,,[peng-:pe-] + <padu>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92925.3,x,,pe- + <madu>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+92926,k,22,pemaduan,dasar,
+92926.1,x,,[peng-:pe-] + <madu> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92926.2,v,,[peng-:pe-] + <padu> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92926.3,x,,[peng-:pe-] + <maduan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92926.4,x,,[peng-:pe-] + <paduan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92926.5,x,,pe- + <madu> + -an,bentukan,[96] pe- + (<all>) + (-an)
+92926.6,x,,pe- + <maduan>,bentukan,[96] pe- + (<all>) + (-an)
+92926.7,x,,<pemadu> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+92927,k,2,pemagang,dasar,
+92927.1,v,,[peng-:pe-] + <magang>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92927.2,x,,[peng-:pe-] + <pagang>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92927.3,x,,pe- + <magang>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+92928,k,67,pemagangan,dasar,
+92928.1,x,,[peng-:pe-] + <magang> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92928.2,x,,[peng-:pe-] + <pagang> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92928.3,x,,[peng-:pe-] + <magangan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92928.4,x,,[peng-:pe-] + <pagangan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92928.5,v,,pe- + <magang> + -an,bentukan,[96] pe- + (<all>) + (-an)
+92928.6,x,,pe- + <magangan>,bentukan,[96] pe- + (<all>) + (-an)
+92928.7,x,,<pemagang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+92929,k,9,pemagaran,dasar,
+92929.1,x,,[peng-:pe-] + <magar> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92929.2,v,,[peng-:pe-] + <pagar> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92929.3,x,,[peng-:pe-] + <magaran>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92929.4,x,,[peng-:pe-] + <pagaran>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92929.5,x,,pe- + <magar> + -an,bentukan,[96] pe- + (<all>) + (-an)
+92929.6,x,,pe- + <magaran>,bentukan,[96] pe- + (<all>) + (-an)
+92929.7,x,,<pemagar> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+92930,k,0,pemagnetan,dasar,
+92930.1,x,,[peng-:pe-] + <magnet> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92930.2,x,,[peng-:pe-] + <pagnet> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92930.3,x,,[peng-:pe-] + <magnetan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92930.4,x,,[peng-:pe-] + <pagnetan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92930.5,v,,pe- + <magnet> + -an,bentukan,[96] pe- + (<all>) + (-an)
+92930.6,x,,pe- + <magnetan>,bentukan,[96] pe- + (<all>) + (-an)
+92930.7,x,,<pemagnet> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+92931,v,2,pemaham,dasar,
+92931.1,v,,[peng-:pe-] + <maham>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92931.2,x,,[peng-:pe-] + <paham>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92931.3,x,,pe- + <maham>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+92932,x,3,pemahamam,dasar,
+92932.1,x,,[peng-:pe-] + <mahamam>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92932.2,x,,[peng-:pe-] + <pahamam>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92932.3,x,,pe- + <mahamam>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+92933,k,1785,pemahaman,dasar,
+92933.1,x,,[peng-:pe-] + <maham> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92933.2,v,,[peng-:pe-] + <paham> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92933.3,x,,[peng-:pe-] + <mahaman>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92933.4,x,,[peng-:pe-] + <pahaman>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92933.5,x,,pe- + <maham> + -an,bentukan,[96] pe- + (<all>) + (-an)
+92933.6,x,,pe- + <mahaman>,bentukan,[96] pe- + (<all>) + (-an)
+92933.7,x,,<pemaham> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+92934,v,12,pemahaman-pemahaman,dasar,
+92934.1,x,,<pemahaman> [-] <r>,bentukan,[23] [RD] |
+92934.2,x,,[peng-:pe-] + <maham> + -an [-] [peng-:pe-] + <r> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an) => [23] [RD] |
+92934.3,v,,[peng-:pe-] + <paham> + -an [-] [peng-:pe-] + <r> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an) => [23] [RD] |
+92934.4,x,,[peng-:pe-] + <mahaman> [-] [peng-:pe-] + <r>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an) => [23] [RD] |
+92934.5,x,,[peng-:pe-] + <pahaman> [-] [peng-:pe-] + <r>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an) => [23] [RD] |
+92934.6,x,,pe- + <maham> + -an [-] pe- + <r> + -an,bentukan,[96] pe- + (<all>) + (-an) => [23] [RD] |
+92934.7,x,,pe- + <mahaman> [-] pe- + <r>,bentukan,[96] pe- + (<all>) + (-an) => [23] [RD] |
+92934.8,x,,<pemaham> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+92935,v,2,pemahamanku,dasar,
+92935.1,x,,[peng-:pe-] + <mahamanku>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92935.2,x,,[peng-:pe-] + <pahamanku>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92935.3,x,,pe- + <mahamanku>,bentukan,[96] pe- + (<all>) + (-an)
+92935.4,x,,<pemahaman> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+92935.5,x,,[peng-:pe-] + <maham> + -an + -ku,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an) => [32] [SFS] -ku + (<all>)
+92935.6,v,,[peng-:pe-] + <paham> + -an + -ku,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an) => [32] [SFS] -ku + (<all>)
+92935.7,x,,[peng-:pe-] + <mahaman> + -ku,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an) => [32] [SFS] -ku + (<all>)
+92935.8,x,,[peng-:pe-] + <pahaman> + -ku,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an) => [32] [SFS] -ku + (<all>)
+92935.9,x,,pe- + <maham> + -an + -ku,bentukan,[96] pe- + (<all>) + (-an) => [32] [SFS] -ku + (<all>)
+92935.1,x,,pe- + <mahaman> + -ku,bentukan,[96] pe- + (<all>) + (-an) => [32] [SFS] -ku + (<all>)
+92935.11,x,,<pemaham> + -an + -ku,bentukan,[38] [S] -an + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+92936,v,5,pemahamanmu,dasar,
+92936.1,x,,[peng-:pe-] + <mahamanmu>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92936.2,x,,[peng-:pe-] + <pahamanmu>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92936.3,x,,pe- + <mahamanmu>,bentukan,[96] pe- + (<all>) + (-an)
+92936.4,x,,<pemahaman> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+92936.5,x,,[peng-:pe-] + <maham> + -an + -mu,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an) => [33] [SFS] -mu + (<all>)
+92936.6,v,,[peng-:pe-] + <paham> + -an + -mu,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an) => [33] [SFS] -mu + (<all>)
+92936.7,x,,[peng-:pe-] + <mahaman> + -mu,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an) => [33] [SFS] -mu + (<all>)
+92936.8,x,,[peng-:pe-] + <pahaman> + -mu,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an) => [33] [SFS] -mu + (<all>)
+92936.9,x,,pe- + <maham> + -an + -mu,bentukan,[96] pe- + (<all>) + (-an) => [33] [SFS] -mu + (<all>)
+92936.1,x,,pe- + <mahaman> + -mu,bentukan,[96] pe- + (<all>) + (-an) => [33] [SFS] -mu + (<all>)
+92936.11,x,,<pemaham> + -an + -mu,bentukan,[38] [S] -an + (<all>) => [33] [SFS] -mu + (<all>)
+,,,,,
+92937,v,98,pemahamannya,dasar,
+92937.1,x,,[peng-:pe-] + <mahamannya>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92937.2,x,,[peng-:pe-] + <pahamannya>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92937.3,x,,pe- + <mahamannya>,bentukan,[96] pe- + (<all>) + (-an)
+92937.4,x,,<pemahaman> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+92937.5,x,,[peng-:pe-] + <maham> + -an + -nya,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an) => [34] [SFS] -nya + (<all>)
+92937.6,v,,[peng-:pe-] + <paham> + -an + -nya,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an) => [34] [SFS] -nya + (<all>)
+92937.7,x,,[peng-:pe-] + <mahaman> + -nya,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an) => [34] [SFS] -nya + (<all>)
+92937.8,x,,[peng-:pe-] + <pahaman> + -nya,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an) => [34] [SFS] -nya + (<all>)
+92937.9,x,,pe- + <maham> + -an + -nya,bentukan,[96] pe- + (<all>) + (-an) => [34] [SFS] -nya + (<all>)
+92937.1,x,,pe- + <mahaman> + -nya,bentukan,[96] pe- + (<all>) + (-an) => [34] [SFS] -nya + (<all>)
+92937.11,x,,<pemaham> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+92938,k,12,pemahat,dasar,
+92938.1,x,,[peng-:pe-] + <mahat>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92938.2,v,,[peng-:pe-] + <pahat>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92938.3,x,,pe- + <mahat>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+92939,k,2,pemahatan,dasar,
+92939.1,x,,[peng-:pe-] + <mahat> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92939.2,v,,[peng-:pe-] + <pahat> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92939.3,x,,[peng-:pe-] + <mahatan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92939.4,x,,[peng-:pe-] + <pahatan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92939.5,x,,pe- + <mahat> + -an,bentukan,[96] pe- + (<all>) + (-an)
+92939.6,x,,pe- + <mahatan>,bentukan,[96] pe- + (<all>) + (-an)
+92939.7,x,,<pemahat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+92940,k,0,pemahkotaan,dasar,
+92940.1,x,,[peng-:pe-] + <mahkota> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92940.2,x,,[peng-:pe-] + <pahkota> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92940.3,x,,[peng-:pe-] + <mahkotaan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92940.4,x,,[peng-:pe-] + <pahkotaan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92940.5,v,,pe- + <mahkota> + -an,bentukan,[96] pe- + (<all>) + (-an)
+92940.6,x,,pe- + <mahkotaan>,bentukan,[96] pe- + (<all>) + (-an)
+92940.7,x,,<pemahkota> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+92941,k,2,pemailitan,dasar,
+92941.1,x,,[peng-:pe-] + <mailit> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92941.2,v,,[peng-:pe-] + <pailit> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92941.3,x,,[peng-:pe-] + <mailitan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92941.4,x,,[peng-:pe-] + <pailitan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92941.5,x,,pe- + <mailit> + -an,bentukan,[96] pe- + (<all>) + (-an)
+92941.6,x,,pe- + <mailitan>,bentukan,[96] pe- + (<all>) + (-an)
+92941.7,x,,<pemailit> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+92942,k,1945,pemain,dasar,
+92942.1,v,,[peng-:pe-] + <main>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92942.2,x,,[peng-:pe-] + <pain>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92942.3,x,,pe- + <main>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+92943,k,0,pemain andalan,dasar,
+92943.1,x,,[peng-:pe-] + <main andal> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92943.2,x,,[peng-:pe-] + <pain andal> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92943.3,x,,[peng-:pe-] + <main andalan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92943.4,x,,[peng-:pe-] + <pain andalan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92943.5,x,,pe- + <main andal> + -an,bentukan,[96] pe- + (<all>) + (-an)
+92943.6,x,,pe- + <main andalan>,bentukan,[96] pe- + (<all>) + (-an)
+92943.7,x,,<pemain andal> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+92944,k,0,pemain belakang,dasar,
+92944.1,x,,[peng-:pe-] + <main belakang>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92944.2,x,,[peng-:pe-] + <pain belakang>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92944.3,x,,pe- + <main belakang>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+92945,k,0,pemain belakang tengah,dasar,
+92945.1,x,,[peng-:pe-] + <main belakang tengah>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92945.2,x,,[peng-:pe-] + <pain belakang tengah>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92945.3,x,,pe- + <main belakang tengah>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+92946,k,0,pemain cadangan,dasar,
+92946.1,x,,[peng-:pe-] + <main cadang> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92946.2,x,,[peng-:pe-] + <pain cadang> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92946.3,x,,[peng-:pe-] + <main cadangan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92946.4,x,,[peng-:pe-] + <pain cadangan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92946.5,x,,pe- + <main cadang> + -an,bentukan,[96] pe- + (<all>) + (-an)
+92946.6,x,,pe- + <main cadangan>,bentukan,[96] pe- + (<all>) + (-an)
+92946.7,x,,<pemain cadang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+92947,k,0,pemain depan,dasar,
+92947.1,x,,[peng-:pe-] + <main dep> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92947.2,x,,[peng-:pe-] + <pain dep> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92947.3,x,,[peng-:pe-] + <main depan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92947.4,x,,[peng-:pe-] + <pain depan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92947.5,x,,pe- + <main dep> + -an,bentukan,[96] pe- + (<all>) + (-an)
+92947.6,x,,pe- + <main depan>,bentukan,[96] pe- + (<all>) + (-an)
+92947.7,x,,<pemain dep> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+92948,k,0,pemain kanan luar,dasar,
+92948.1,x,,[peng-:pe-] + <main kanan luar>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92948.2,x,,[peng-:pe-] + <pain kanan luar>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92948.3,x,,pe- + <main kanan luar>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+92949,k,0,pemain kidal,dasar,
+92949.1,x,,[peng-:pe-] + <main kidal>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92949.2,x,,[peng-:pe-] + <pain kidal>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92949.3,x,,pe- + <main kidal>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+92950,k,0,pemain kiri luar,dasar,
+92950.1,x,,[peng-:pe-] + <main kiri luar>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92950.2,x,,[peng-:pe-] + <pain kiri luar>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92950.3,x,,pe- + <main kiri luar>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+92951,k,0,pemain luar,dasar,
+92951.1,x,,[peng-:pe-] + <main luar>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92951.2,x,,[peng-:pe-] + <pain luar>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92951.3,x,,pe- + <main luar>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+92952,k,0,pemain pengganti,dasar,
+92952.1,x,,[peng-:pe-] + <main pengganti>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92952.2,x,,[peng-:pe-] + <pain pengganti>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92952.3,x,,pe- + <main pengganti>,bentukan,[96] pe- + (<all>) + (-an)
+92952.4,x,,<pemain penggant> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+92953,k,0,pemain penyerang,dasar,
+92953.1,x,,[peng-:pe-] + <main penyerang>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92953.2,x,,[peng-:pe-] + <pain penyerang>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92953.3,x,,pe- + <main penyerang>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+92954,k,0,pemain pertahanan,dasar,
+92954.1,x,,[peng-:pe-] + <main pertahan> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92954.2,x,,[peng-:pe-] + <pain pertahan> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92954.3,x,,[peng-:pe-] + <main pertahanan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92954.4,x,,[peng-:pe-] + <pain pertahanan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92954.5,x,,pe- + <main pertahan> + -an,bentukan,[96] pe- + (<all>) + (-an)
+92954.6,x,,pe- + <main pertahanan>,bentukan,[96] pe- + (<all>) + (-an)
+92954.7,x,,<pemain pertahan> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+92955,k,0,pemain unggulan,dasar,
+92955.1,x,,[peng-:pe-] + <main unggul> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92955.2,x,,[peng-:pe-] + <pain unggul> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92955.3,x,,[peng-:pe-] + <main unggulan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92955.4,x,,[peng-:pe-] + <pain unggulan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92955.5,v,,pe- + <main unggul> + -an,bentukan,[96] pe- + (<all>) + (-an)
+92955.6,x,,pe- + <main unggulan>,bentukan,[96] pe- + (<all>) + (-an)
+92955.7,x,,<pemain unggul> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+92956,k,0,pemain watak,dasar,
+92956.1,x,,[peng-:pe-] + <main watak>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92956.2,x,,[peng-:pe-] + <pain watak>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92956.3,v,,pe- + <main watak>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+92957,v,122,pemain-pemain,dasar,
+92957.1,x,,<pemain> [-] <r>,bentukan,[23] [RD] |
+92957.2,x,,[peng-:pe-] + <main> [-] [peng-:pe-] + <r>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an) => [23] [RD] |
+92957.3,x,,[peng-:pe-] + <pain> [-] [peng-:pe-] + <r>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an) => [23] [RD] |
+92957.4,v,,pe- + <main> [-] pe- + <r>,bentukan,[96] pe- + (<all>) + (-an) => [23] [RD] |
+,,,,,
+92958,k,0,pemair,dasar,
+92958.1,x,,[peng-:pe-] + <mair>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92958.2,v,,[peng-:pe-] + <pair>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92958.3,x,,pe- + <mair>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+92959,k,0,pemajak,dasar,
+92959.1,x,,[peng-:pe-] + <majak>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92959.2,v,,[peng-:pe-] + <pajak>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92959.3,x,,pe- + <majak>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+92960,k,3,pemajakan,dasar,
+92960.1,x,,[peng-:pe-] + <majak> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92960.2,v,,[peng-:pe-] + <pajak> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92960.3,x,,[peng-:pe-] + <majakan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92960.4,x,,[peng-:pe-] + <pajakan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92960.5,x,,pe- + <majak> + -an,bentukan,[96] pe- + (<all>) + (-an)
+92960.6,x,,pe- + <majakan>,bentukan,[96] pe- + (<all>) + (-an)
+92960.7,x,,<pemaja> + -kan,bentukan,[29] [S] -kan + (<all>)
+92960.8,x,,<pemajak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+92961,k,2,pemajanan,dasar,
+92961.1,x,,[peng-:pe-] + <majan> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92961.2,v,,[peng-:pe-] + <pajan> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92961.3,x,,[peng-:pe-] + <majanan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92961.4,x,,[peng-:pe-] + <pajanan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92961.5,x,,pe- + <majan> + -an,bentukan,[96] pe- + (<all>) + (-an)
+92961.6,x,,pe- + <majanan>,bentukan,[96] pe- + (<all>) + (-an)
+92961.7,x,,<pemajan> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+92962,k,2,pemajang,dasar,
+92962.1,x,,[peng-:pe-] + <majang>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92962.2,v,,[peng-:pe-] + <pajang>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92962.3,x,,pe- + <majang>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+92963,k,7,pemajangan,dasar,
+92963.1,x,,[peng-:pe-] + <majang> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92963.2,v,,[peng-:pe-] + <pajang> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92963.3,x,,[peng-:pe-] + <majangan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92963.4,x,,[peng-:pe-] + <pajangan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92963.5,x,,pe- + <majang> + -an,bentukan,[96] pe- + (<all>) + (-an)
+92963.6,x,,pe- + <majangan>,bentukan,[96] pe- + (<all>) + (-an)
+92963.7,x,,<pemajang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+92964,v,3,pemajemukan,dasar,
+92964.1,x,,[peng-:pe-] + <majemuk> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92964.2,x,,[peng-:pe-] + <pajemuk> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92964.3,x,,[peng-:pe-] + <majemukan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92964.4,x,,[peng-:pe-] + <pajemukan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92964.5,v,,pe- + <majemuk> + -an,bentukan,[96] pe- + (<all>) + (-an)
+92964.6,x,,pe- + <majemukan>,bentukan,[96] pe- + (<all>) + (-an)
+92964.7,x,,<pemajemu> + -kan,bentukan,[29] [S] -kan + (<all>)
+92964.8,x,,<pemajemuk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+92965,k,2,pemaju,dasar,
+92965.1,v,,[peng-:pe-] + <maju>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92965.2,x,,[peng-:pe-] + <paju>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92965.3,x,,pe- + <maju>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+92966,k,58,pemajuan,dasar,
+92966.1,x,,[peng-:pe-] + <maju> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92966.2,x,,[peng-:pe-] + <paju> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92966.3,x,,[peng-:pe-] + <majuan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92966.4,x,,[peng-:pe-] + <pajuan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92966.5,v,,pe- + <maju> + -an,bentukan,[96] pe- + (<all>) + (-an)
+92966.6,x,,pe- + <majuan>,bentukan,[96] pe- + (<all>) + (-an)
+92966.7,x,,<pemaju> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+92967,k,247,pemakai,dasar,
+92967.1,x,,[peng-:pe-] + <makai>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92967.2,v,,[peng-:pe-] + <pakai>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92967.3,x,,pe- + <makai>,bentukan,[96] pe- + (<all>) + (-an)
+92967.4,x,,<pemaka> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+92968,v,2,pemakai-pemakai,dasar,
+92968.1,x,,<pemakai> [-] <r>,bentukan,[23] [RD] |
+92968.2,x,,[peng-:pe-] + <makai> [-] [peng-:pe-] + <r>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an) => [23] [RD] |
+92968.3,v,,[peng-:pe-] + <pakai> [-] [peng-:pe-] + <r>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an) => [23] [RD] |
+92968.4,x,,pe- + <makai> [-] pe- + <r>,bentukan,[96] pe- + (<all>) + (-an) => [23] [RD] |
+92968.5,x,,<pemaka> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+92969,k,896,pemakaian,dasar,
+92969.1,x,,[peng-:pe-] + <makai> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92969.2,v,,[peng-:pe-] + <pakai> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92969.3,x,,[peng-:pe-] + <makaian>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92969.4,x,,[peng-:pe-] + <pakaian>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92969.5,x,,pe- + <makai> + -an,bentukan,[96] pe- + (<all>) + (-an)
+92969.6,x,,pe- + <makaian>,bentukan,[96] pe- + (<all>) + (-an)
+92969.7,x,,<pemakai> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+92970,v,104,pemakaiannya,dasar,
+92970.1,x,,[peng-:pe-] + <makaiannya>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92970.2,x,,[peng-:pe-] + <pakaiannya>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92970.3,x,,pe- + <makaiannya>,bentukan,[96] pe- + (<all>) + (-an)
+92970.4,x,,<pemakaian> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+92970.5,x,,[peng-:pe-] + <makai> + -an + -nya,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an) => [34] [SFS] -nya + (<all>)
+92970.6,v,,[peng-:pe-] + <pakai> + -an + -nya,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an) => [34] [SFS] -nya + (<all>)
+92970.7,x,,[peng-:pe-] + <makaian> + -nya,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an) => [34] [SFS] -nya + (<all>)
+92970.8,x,,[peng-:pe-] + <pakaian> + -nya,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an) => [34] [SFS] -nya + (<all>)
+92970.9,x,,pe- + <makai> + -an + -nya,bentukan,[96] pe- + (<all>) + (-an) => [34] [SFS] -nya + (<all>)
+92970.1,x,,pe- + <makaian> + -nya,bentukan,[96] pe- + (<all>) + (-an) => [34] [SFS] -nya + (<all>)
+92970.11,x,,<pemakai> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+92971,v,88,pemakainya,dasar,
+92971.1,x,,[peng-:pe-] + <makainya>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92971.2,x,,[peng-:pe-] + <pakainya>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92971.3,x,,pe- + <makainya>,bentukan,[96] pe- + (<all>) + (-an)
+92971.4,x,,<pemakai> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+92971.5,x,,[peng-:pe-] + <makai> + -nya,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an) => [34] [SFS] -nya + (<all>)
+92971.6,v,,[peng-:pe-] + <pakai> + -nya,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an) => [34] [SFS] -nya + (<all>)
+92971.7,x,,pe- + <makai> + -nya,bentukan,[96] pe- + (<all>) + (-an) => [34] [SFS] -nya + (<all>)
+92971.8,x,,<pemaka> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+92972,k,0,pemakal,dasar,
+92972.1,x,,[peng-:pe-] + <makal>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92972.2,v,,[peng-:pe-] + <pakal>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92972.3,x,,pe- + <makal>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+92973,k,38,pemakalah,dasar,
+92973.1,v,,[peng-:pe-] + <makalah>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92973.2,x,,[peng-:pe-] + <pakalah>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92973.3,x,,pe- + <makalah>,bentukan,[96] pe- + (<all>) + (-an)
+92973.4,x,,<pemaka> + -lah,bentukan,[31] [FS] -lah + (<all>)
+92973.5,x,,[peng-:pe-] + <maka> + -lah,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an) => [31] [FS] -lah + (<all>)
+92973.6,x,,[peng-:pe-] + <paka> + -lah,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an) => [31] [FS] -lah + (<all>)
+92973.7,x,,pe- + <maka> + -lah,bentukan,[96] pe- + (<all>) + (-an) => [31] [FS] -lah + (<all>)
+,,,,,
+92974,k,394,pemakaman,dasar,
+92974.1,x,,[peng-:pe-] + <makam> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92974.2,x,,[peng-:pe-] + <pakam> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92974.3,x,,[peng-:pe-] + <makaman>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92974.4,x,,[peng-:pe-] + <pakaman>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92974.5,v,,pe- + <makam> + -an,bentukan,[96] pe- + (<all>) + (-an)
+92974.6,x,,pe- + <makaman>,bentukan,[96] pe- + (<all>) + (-an)
+92974.7,x,,<pemakam> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+92975,v,5,pemakamanku,dasar,
+92975.1,x,,[peng-:pe-] + <makamanku>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92975.2,x,,[peng-:pe-] + <pakamanku>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92975.3,x,,pe- + <makamanku>,bentukan,[96] pe- + (<all>) + (-an)
+92975.4,x,,<pemakaman> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+92975.5,x,,[peng-:pe-] + <makam> + -an + -ku,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an) => [32] [SFS] -ku + (<all>)
+92975.6,x,,[peng-:pe-] + <pakam> + -an + -ku,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an) => [32] [SFS] -ku + (<all>)
+92975.7,x,,[peng-:pe-] + <makaman> + -ku,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an) => [32] [SFS] -ku + (<all>)
+92975.8,x,,[peng-:pe-] + <pakaman> + -ku,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an) => [32] [SFS] -ku + (<all>)
+92975.9,v,,pe- + <makam> + -an + -ku,bentukan,[96] pe- + (<all>) + (-an) => [32] [SFS] -ku + (<all>)
+92975.1,x,,pe- + <makaman> + -ku,bentukan,[96] pe- + (<all>) + (-an) => [32] [SFS] -ku + (<all>)
+92975.11,x,,<pemakam> + -an + -ku,bentukan,[38] [S] -an + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+92976,v,34,pemakamannya,dasar,
+92976.1,x,,[peng-:pe-] + <makamannya>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92976.2,x,,[peng-:pe-] + <pakamannya>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92976.3,x,,pe- + <makamannya>,bentukan,[96] pe- + (<all>) + (-an)
+92976.4,x,,<pemakaman> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+92976.5,x,,[peng-:pe-] + <makam> + -an + -nya,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an) => [34] [SFS] -nya + (<all>)
+92976.6,x,,[peng-:pe-] + <pakam> + -an + -nya,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an) => [34] [SFS] -nya + (<all>)
+92976.7,x,,[peng-:pe-] + <makaman> + -nya,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an) => [34] [SFS] -nya + (<all>)
+92976.8,x,,[peng-:pe-] + <pakaman> + -nya,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an) => [34] [SFS] -nya + (<all>)
+92976.9,v,,pe- + <makam> + -an + -nya,bentukan,[96] pe- + (<all>) + (-an) => [34] [SFS] -nya + (<all>)
+92976.1,x,,pe- + <makaman> + -nya,bentukan,[96] pe- + (<all>) + (-an) => [34] [SFS] -nya + (<all>)
+92976.11,x,,<pemakam> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+92977,k,83,pemakan,dasar,
+92977.1,x,,[peng-:pe-] + <mak> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92977.2,x,,[peng-:pe-] + <pak> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92977.3,v,,[peng-:pe-] + <makan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92977.4,x,,[peng-:pe-] + <pakan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92977.5,x,,pe- + <mak> + -an,bentukan,[96] pe- + (<all>) + (-an)
+92977.6,x,,pe- + <makan>,bentukan,[96] pe- + (<all>) + (-an)
+92977.7,x,,<pema> + -kan,bentukan,[29] [S] -kan + (<all>)
+92977.8,x,,<pemak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+92978,k,0,pemakan anak,dasar,
+92978.1,x,,[peng-:pe-] + <makan anak>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92978.2,x,,[peng-:pe-] + <pakan anak>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92978.3,x,,pe- + <makan anak>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+92979,k,0,pemakan bawang,dasar,
+92979.1,x,,[peng-:pe-] + <makan bawang>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92979.2,x,,[peng-:pe-] + <pakan bawang>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92979.3,x,,pe- + <makan bawang>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+92980,k,0,pemakan daging,dasar,
+92980.1,x,,[peng-:pe-] + <makan daging>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92980.2,x,,[peng-:pe-] + <pakan daging>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92980.3,x,,pe- + <makan daging>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+92981,k,0,pemakan deposit,dasar,
+92981.1,x,,[peng-:pe-] + <makan deposit>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92981.2,x,,[peng-:pe-] + <pakan deposit>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92981.3,x,,pe- + <makan deposit>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+92982,k,0,pemakan suspensi,dasar,
+92982.1,x,,[peng-:pe-] + <makan suspensi>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92982.2,x,,[peng-:pe-] + <pakan suspensi>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92982.3,x,,pe- + <makan suspensi>,bentukan,[96] pe- + (<all>) + (-an)
+92982.4,x,,<pemakan suspens> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+92983,d,0,pemaketan,dasar,
+92983.1,x,,[peng-:pe-] + <maket> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92983.2,x,,[peng-:pe-] + <paket> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92983.3,x,,[peng-:pe-] + <maketan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92983.4,x,,[peng-:pe-] + <paketan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92983.5,v,,pe- + <maket> + -an,bentukan,[96] pe- + (<all>) + (-an)
+92983.6,x,,pe- + <maketan>,bentukan,[96] pe- + (<all>) + (-an)
+92983.7,x,,<pemaket> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+92984,k,0,pemaki,dasar,
+92984.1,v,,[peng-:pe-] + <maki>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92984.2,x,,[peng-:pe-] + <paki>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92984.3,x,,pe- + <maki>,bentukan,[96] pe- + (<all>) + (-an)
+92984.4,x,,<pemak> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+92985,k,19,pemakluman,dasar,
+92985.1,x,,[peng-:pe-] + <maklum> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92985.2,x,,[peng-:pe-] + <paklum> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92985.3,x,,[peng-:pe-] + <makluman>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92985.4,x,,[peng-:pe-] + <pakluman>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92985.5,v,,pe- + <maklum> + -an,bentukan,[96] pe- + (<all>) + (-an)
+92985.6,x,,pe- + <makluman>,bentukan,[96] pe- + (<all>) + (-an)
+92985.7,x,,<pemaklum> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+92986,k,0,pemakmuran,dasar,
+92986.1,x,,[peng-:pe-] + <makmur> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92986.2,x,,[peng-:pe-] + <pakmur> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92986.3,x,,[peng-:pe-] + <makmuran>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92986.4,x,,[peng-:pe-] + <pakmuran>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92986.5,v,,pe- + <makmur> + -an,bentukan,[96] pe- + (<all>) + (-an)
+92986.6,x,,pe- + <makmuran>,bentukan,[96] pe- + (<all>) + (-an)
+92986.7,x,,<pemakmur> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+92987,k,173,pemaknaan,dasar,
+92987.1,x,,[peng-:pe-] + <makna> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92987.2,x,,[peng-:pe-] + <pakna> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92987.3,x,,[peng-:pe-] + <maknaan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92987.4,x,,[peng-:pe-] + <paknaan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92987.5,v,,pe- + <makna> + -an,bentukan,[96] pe- + (<all>) + (-an)
+92987.6,x,,pe- + <maknaan>,bentukan,[96] pe- + (<all>) + (-an)
+92987.7,x,,<pemakna> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+92988,v,2,pemaknaan-pemaknaan,dasar,
+92988.1,x,,<pemaknaan> [-] <r>,bentukan,[23] [RD] |
+92988.2,x,,[peng-:pe-] + <makna> + -an [-] [peng-:pe-] + <r> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an) => [23] [RD] |
+92988.3,x,,[peng-:pe-] + <pakna> + -an [-] [peng-:pe-] + <r> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an) => [23] [RD] |
+92988.4,x,,[peng-:pe-] + <maknaan> [-] [peng-:pe-] + <r>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an) => [23] [RD] |
+92988.5,x,,[peng-:pe-] + <paknaan> [-] [peng-:pe-] + <r>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an) => [23] [RD] |
+92988.6,v,,pe- + <makna> + -an [-] pe- + <r> + -an,bentukan,[96] pe- + (<all>) + (-an) => [23] [RD] |
+92988.7,x,,pe- + <maknaan> [-] pe- + <r>,bentukan,[96] pe- + (<all>) + (-an) => [23] [RD] |
+92988.8,x,,<pemakna> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+92989,v,14,pemaknaannya,dasar,
+92989.1,x,,[peng-:pe-] + <maknaannya>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92989.2,x,,[peng-:pe-] + <paknaannya>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92989.3,x,,pe- + <maknaannya>,bentukan,[96] pe- + (<all>) + (-an)
+92989.4,x,,<pemaknaan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+92989.5,x,,[peng-:pe-] + <makna> + -an + -nya,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an) => [34] [SFS] -nya + (<all>)
+92989.6,x,,[peng-:pe-] + <pakna> + -an + -nya,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an) => [34] [SFS] -nya + (<all>)
+92989.7,x,,[peng-:pe-] + <maknaan> + -nya,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an) => [34] [SFS] -nya + (<all>)
+92989.8,x,,[peng-:pe-] + <paknaan> + -nya,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an) => [34] [SFS] -nya + (<all>)
+92989.9,v,,pe- + <makna> + -an + -nya,bentukan,[96] pe- + (<all>) + (-an) => [34] [SFS] -nya + (<all>)
+92989.1,x,,pe- + <maknaan> + -nya,bentukan,[96] pe- + (<all>) + (-an) => [34] [SFS] -nya + (<all>)
+92989.11,x,,<pemakna> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+92990,d,0,pemaksa,dasar,
+92990.1,x,,[peng-:pe-] + <maksa>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92990.2,v,,[peng-:pe-] + <paksa>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92990.3,x,,pe- + <maksa>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+92991,k,153,pemaksaan,dasar,
+92991.1,x,,[peng-:pe-] + <maksa> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92991.2,v,,[peng-:pe-] + <paksa> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92991.3,x,,[peng-:pe-] + <maksaan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92991.4,x,,[peng-:pe-] + <paksaan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92991.5,x,,pe- + <maksa> + -an,bentukan,[96] pe- + (<all>) + (-an)
+92991.6,x,,pe- + <maksaan>,bentukan,[96] pe- + (<all>) + (-an)
+92991.7,x,,<pemaksa> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+92992,k,0,pemaksaan kehamilan,dasar,
+92992.1,x,,[peng-:pe-] + <maksaan kehamil> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92992.2,x,,[peng-:pe-] + <paksaan kehamil> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92992.3,x,,[peng-:pe-] + <maksaan kehamilan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92992.4,x,,[peng-:pe-] + <paksaan kehamilan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92992.5,x,,pe- + <maksaan kehamil> + -an,bentukan,[96] pe- + (<all>) + (-an)
+92992.6,x,,pe- + <maksaan kehamilan>,bentukan,[96] pe- + (<all>) + (-an)
+92992.7,x,,<pemaksaan kehamil> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+92993,d,0,pemaksimalan,dasar,
+92993.1,x,,[peng-:pe-] + <maksimal> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92993.2,x,,[peng-:pe-] + <paksimal> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92993.3,x,,[peng-:pe-] + <maksimalan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92993.4,x,,[peng-:pe-] + <paksimalan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92993.5,v,,pe- + <maksimal> + -an,bentukan,[96] pe- + (<all>) + (-an)
+92993.6,x,,pe- + <maksimalan>,bentukan,[96] pe- + (<all>) + (-an)
+92993.7,x,,<pemaksimal> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+92994,k,0,pemakzulan,dasar,
+92994.1,x,,[peng-:pe-] + <makzul> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92994.2,x,,[peng-:pe-] + <pakzul> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92994.3,x,,[peng-:pe-] + <makzulan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92994.4,x,,[peng-:pe-] + <pakzulan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92994.5,v,,pe- + <makzul> + -an,bentukan,[96] pe- + (<all>) + (-an)
+92994.6,x,,pe- + <makzulan>,bentukan,[96] pe- + (<all>) + (-an)
+92994.7,x,,<pemakzul> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+92995,v,2,pemakzulannya,dasar,
+92995.1,x,,[peng-:pe-] + <makzulannya>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92995.2,x,,[peng-:pe-] + <pakzulannya>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92995.3,x,,pe- + <makzulannya>,bentukan,[96] pe- + (<all>) + (-an)
+92995.4,x,,<pemakzulan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+92995.5,x,,[peng-:pe-] + <makzul> + -an + -nya,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an) => [34] [SFS] -nya + (<all>)
+92995.6,x,,[peng-:pe-] + <pakzul> + -an + -nya,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an) => [34] [SFS] -nya + (<all>)
+92995.7,x,,[peng-:pe-] + <makzulan> + -nya,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an) => [34] [SFS] -nya + (<all>)
+92995.8,x,,[peng-:pe-] + <pakzulan> + -nya,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an) => [34] [SFS] -nya + (<all>)
+92995.9,v,,pe- + <makzul> + -an + -nya,bentukan,[96] pe- + (<all>) + (-an) => [34] [SFS] -nya + (<all>)
+92995.1,x,,pe- + <makzulan> + -nya,bentukan,[96] pe- + (<all>) + (-an) => [34] [SFS] -nya + (<all>)
+92995.11,x,,<pemakzul> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+92996,k,0,pemalak,dasar,
+92996.1,x,,[peng-:pe-] + <malak>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92996.2,v,,[peng-:pe-] + <palak>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92996.3,x,,pe- + <malak>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+92997,k,8,pemalakan,dasar,
+92997.1,x,,[peng-:pe-] + <malak> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92997.2,v,,[peng-:pe-] + <palak> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92997.3,x,,[peng-:pe-] + <malakan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92997.4,x,,[peng-:pe-] + <palakan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92997.5,x,,pe- + <malak> + -an,bentukan,[96] pe- + (<all>) + (-an)
+92997.6,x,,pe- + <malakan>,bentukan,[96] pe- + (<all>) + (-an)
+92997.7,x,,<pemala> + -kan,bentukan,[29] [S] -kan + (<all>)
+92997.8,x,,<pemalak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+92998,k,0,pemalam,dasar,
+92998.1,x,,[peng-:pe-] + <malam>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92998.2,v,,[peng-:pe-] + <palam>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92998.3,x,,pe- + <malam>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+92999,k,0,pemalaman,dasar,
+92999.1,x,,[peng-:pe-] + <malam> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92999.2,v,,[peng-:pe-] + <palam> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92999.3,x,,[peng-:pe-] + <malaman>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92999.4,x,,[peng-:pe-] + <palaman>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+92999.5,x,,pe- + <malam> + -an,bentukan,[96] pe- + (<all>) + (-an)
+92999.6,x,,pe- + <malaman>,bentukan,[96] pe- + (<all>) + (-an)
+92999.7,x,,<pemalam> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+93000,k,64,pemalang,dasar,
+93000.1,x,,[peng-:pe-] + <malang>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+93000.2,x,,[peng-:pe-] + <palang>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+93000.3,x,,pe- + <malang>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+93001,k,60,pemalas,dasar,
+93001.1,v,,[peng-:pe-] + <malas>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+93001.2,x,,[peng-:pe-] + <palas>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+93001.3,x,,pe- + <malas>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+93002,k,9,pemali,dasar,
+93002.1,x,,[peng-:pe-] + <mali>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+93002.2,x,,[peng-:pe-] + <pali>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+93002.3,x,,pe- + <mali>,bentukan,[96] pe- + (<all>) + (-an)
+93002.4,x,,<pemal> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+93003,k,2,pemaling,dasar,
+93003.1,v,,[peng-:pe-] + <maling>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+93003.2,x,,[peng-:pe-] + <paling>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+93003.3,x,,pe- + <maling>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+93004,k,10,pemalsu,dasar,
+93004.1,x,,[peng-:pe-] + <malsu>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+93004.2,v,,[peng-:pe-] + <palsu>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+93004.3,x,,pe- + <malsu>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+93005,k,176,pemalsuan,dasar,
+93005.1,x,,[peng-:pe-] + <malsu> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+93005.2,v,,[peng-:pe-] + <palsu> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+93005.3,x,,[peng-:pe-] + <malsuan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+93005.4,x,,[peng-:pe-] + <palsuan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+93005.5,x,,pe- + <malsu> + -an,bentukan,[96] pe- + (<all>) + (-an)
+93005.6,x,,pe- + <malsuan>,bentukan,[96] pe- + (<all>) + (-an)
+93005.7,x,,<pemalsu> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+93006,k,0,pemalsuan dokumen baik,dasar,
+93006.1,x,,[peng-:pe-] + <malsuan dokumen baik>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+93006.2,x,,[peng-:pe-] + <palsuan dokumen baik>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+93006.3,x,,pe- + <malsuan dokumen baik>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+93007,k,0,pemalsuan ijazah,dasar,
+93007.1,x,,[peng-:pe-] + <malsuan ijazah>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+93007.2,x,,[peng-:pe-] + <palsuan ijazah>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+93007.3,x,,pe- + <malsuan ijazah>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+93008,k,0,pemalsuan intelektual,dasar,
+93008.1,x,,[peng-:pe-] + <malsuan intelektual>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+93008.2,x,,[peng-:pe-] + <palsuan intelektual>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+93008.3,x,,pe- + <malsuan intelektual>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+93009,k,0,pemalsuan sertifikat,dasar,
+93009.1,x,,[peng-:pe-] + <malsuan sertifikat>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+93009.2,x,,[peng-:pe-] + <palsuan sertifikat>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+93009.3,x,,pe- + <malsuan sertifikat>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+93010,k,0,pemalsuan susu,dasar,
+93010.1,x,,[peng-:pe-] + <malsuan susu>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+93010.2,x,,[peng-:pe-] + <palsuan susu>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+93010.3,x,,pe- + <malsuan susu>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+93011,k,0,pemalsuan tanda tangan,dasar,
+93011.1,x,,[peng-:pe-] + <malsuan tanda tang> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+93011.2,x,,[peng-:pe-] + <palsuan tanda tang> + -an,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+93011.3,x,,[peng-:pe-] + <malsuan tanda tangan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+93011.4,x,,[peng-:pe-] + <palsuan tanda tangan>,bentukan,[8] peng- + (l;m;n;ng;ny;r;w;y;[p:m];[t:n];[k:ng];[s:ny]) + (-an)
+93011.5,x,,pe- + <malsuan tanda tang> + -an,bentukan,[96] pe- + (<all>) + (-an)
+93011.6,x,,pe- + <malsuan tanda tangan>,bentukan,[96] pe- + (<all>) + (-an)
+93011.7,x,,<pemalsuan tanda tang> + -an,bentukan,[38] [S] -an + (<all>)

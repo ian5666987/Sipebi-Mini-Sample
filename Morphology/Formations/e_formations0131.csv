@@ -1,0 +1,1493 @@
+Nomor,KP,Jumlah,Entri,Tipe,Pembentukan
+60590,k,4,kumpai,dasar,
+60590.1,x,,<kumpa> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+60591,k,0,kumpal,dasar,
+,,,,,
+60592,k,0,kumpang,dasar,
+,,,,,
+60593,k,0,kumpar,dasar,
+,,,,,
+60594,k,29,kumparan,dasar,
+60594.1,v,,<kumpar> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+60595,k,0,kumparan benang,dasar,
+,,,,,
+60596,k,0,kumpas,dasar,
+,,,,,
+60597,k,0,kumpi,dasar,
+60597.1,x,,<kump> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+60598,k,118,kumpul,dasar,
+,,,,,
+60599,k,0,kumpul kebo,dasar,
+,,,,,
+60600,k,828,kumpulan,dasar,
+60600.1,v,,<kumpul> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+60601,k,222,kumuh,dasar,
+60601.1,x,,ku- + <muh>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60602,k,6,kumulasi,dasar,
+60602.1,x,,ku- + <mulas> + -i,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60602.2,x,,ku- + <mulasi>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60602.3,x,,<kumulas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+60603,k,0,kumulasi objektif,dasar,
+60603.1,x,,ku- + <mulasi objektif>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60604,k,0,kumulasi subjektif,dasar,
+60604.1,x,,ku- + <mulasi subjektif>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60605,k,312,kumulatif,dasar,
+60605.1,x,,ku- + <mulatif>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60606,k,6,kumulonimbus,dasar,
+60606.1,x,,ku- + <mulonimbus>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60607,k,5,kumulus,dasar,
+60607.1,x,,ku- + <mulus>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60608,k,0,kumulus cuaca cerah,dasar,
+60608.1,x,,ku- + <mulus cuaca cerah>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60609,k,0,kumulus gulung,dasar,
+60609.1,x,,ku- + <mulus gulung>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60610,k,10,kumur,dasar,
+60610.1,x,,ku- + <mur>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60611,k,0,kumus,dasar,
+60611.1,x,,ku- + <mus>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60612,k,0,kumut,dasar,
+60612.1,x,,ku- + <mut>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60613,k,30,kun,dasar,
+60613.1,x,,ku- + <n>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60614,c,18,kuna,dasar,kuno
+60614.1,x,,ku- + <na>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60615,k,78,kunang-kunang,dasar,
+60615.1,v,,<kunang> [-] <r>,bentukan,[23] [RD] |
+60615.2,x,,ku- + <nang> [-] ku- + <r>,bentukan,[35] ku- + (<all>) + (-i;-kan) => [23] [RD] |
+,,,,,
+60616,k,0,kunang-kunang sekebun,dasar,
+,,,,,
+60617,k,0,kunani,dasar,
+60617.1,x,,ku- + <nan> + -i,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60617.2,x,,ku- + <nani>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60617.3,x,,<kunan> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+60618,k,0,kunar-kunar,dasar,
+60618.1,v,,<kunar> [-] <r>,bentukan,[23] [RD] |
+60618.2,x,,ku- + <nar> [-] ku- + <r>,bentukan,[35] ku- + (<all>) + (-i;-kan) => [23] [RD] |
+,,,,,
+60619,k,0,kunarpa,dasar,
+60619.1,x,,ku- + <narpa>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60620,k,0,kunca,dasar,
+,,,,,
+60621,k,0,kuncah,dasar,
+,,,,,
+60622,k,0,kunce,dasar,
+,,,,,
+60623,k,14,kuncen,dasar,
+,,,,,
+60624,k,3810,kunci,dasar,
+60624.1,x,,<kunc> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+60625,k,0,kunci botanik,dasar,
+,,,,,
+60626,k,0,kunci eksklusif,dasar,
+,,,,,
+60627,k,0,kunci elektronik,dasar,
+,,,,,
+60628,k,0,kunci enkripsi,dasar,
+60628.1,x,,<kunci enkrips> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+60629,k,0,kunci gantung,dasar,
+,,,,,
+60630,k,0,kunci inggris,dasar,
+60630.1,x,,<kunci inggri> + [-is:-s],bentukan,[177] [S] -is + (i)
+60630.2,x,,<kunci inggr> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+60631,k,0,kunci kait,dasar,
+,,,,,
+60632,k,0,kunci kontak,dasar,
+,,,,,
+60633,k,0,kunci kroma,dasar,
+,,,,,
+60634,k,0,kunci kura-kura,dasar,
+,,,,,
+60635,k,0,kunci leter t,dasar,
+,,,,,
+60636,k,0,kunci lisensi,dasar,
+60636.1,x,,<kunci lisens> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+60637,k,0,kunci lunak,dasar,
+,,,,,
+60638,k,0,kunci lutut,dasar,
+,,,,,
+60639,k,0,kunci maling,dasar,
+,,,,,
+60640,k,0,kunci master,dasar,
+,,,,,
+60641,k,0,kunci mati,dasar,
+60641.1,x,,<kunci mat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+60642,k,0,kunci mur terbuka,dasar,
+,,,,,
+60643,k,0,kunci nada,dasar,
+,,,,,
+60644,k,0,kunci paha,dasar,
+,,,,,
+60645,k,0,kunci panas,dasar,
+,,,,,
+60646,k,0,kunci pas,dasar,
+,,,,,
+60647,k,0,kunci pintasan,dasar,
+60647.1,x,,<kunci pintas> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+60648,k,0,kunci pipa,dasar,
+,,,,,
+60649,k,0,kunci ring,dasar,
+,,,,,
+60650,k,0,kunci sakelar,dasar,
+,,,,,
+60651,k,0,kunci sentral,dasar,
+,,,,,
+60652,k,0,kunci sok,dasar,
+,,,,,
+60653,k,0,kunci tab,dasar,
+,,,,,
+60654,k,0,kunci tolak,dasar,
+,,,,,
+60655,k,0,kunci utama,dasar,
+,,,,,
+60656,k,0,kunci wasiat,dasar,
+,,,,,
+60657,k,9,kuncian,dasar,
+60657.1,v,,<kunci> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+60658,k,0,kuncikan,dasar,
+60658.1,v,,<kunci> + -kan,bentukan,[29] [S] -kan + (<all>)
+60658.2,x,,<kuncik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+60659,v,8,kuncir,dasar,
+,,,,,
+60660,v,3,kunciran,dasar,
+60660.1,v,,<kuncir> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+60661,k,0,kuncit,dasar,
+,,,,,
+60662,k,0,kuncitara,dasar,
+,,,,,
+60663,k,11,kuncung,dasar,
+,,,,,
+60664,k,41,kuncup,dasar,
+,,,,,
+60665,k,0,kuncup bawah tangkai,dasar,
+60665.1,x,,<kuncup bawah tangka> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+60666,k,0,kuncup bunga,dasar,
+,,,,,
+60667,k,0,kuncup campuran,dasar,
+60667.1,x,,<kuncup campur> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+60668,k,0,kuncup daun,dasar,
+,,,,,
+60669,k,0,kuncup eram,dasar,
+,,,,,
+60670,k,0,kuncup hati,dasar,
+60670.1,x,,<kuncup hat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+60671,k,0,kuncup ketiak,dasar,
+,,,,,
+60672,k,0,kuncup liar,dasar,
+,,,,,
+60673,k,0,kuncup pancur,dasar,
+,,,,,
+60674,k,0,kuncup pelengkap,dasar,
+,,,,,
+60675,k,0,kuncup tambahan,dasar,
+60675.1,x,,<kuncup tambah> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+60676,k,0,kuncup telanjang,dasar,
+,,,,,
+60677,k,0,kuncup terlindung,dasar,
+,,,,,
+60678,k,0,kuncup ujung,dasar,
+,,,,,
+60679,k,0,kundai,dasar,
+60679.1,x,,ku- + <nda> + -i,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60679.2,x,,ku- + <ndai>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60679.3,x,,<kunda> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+60680,k,24,kundang,dasar,
+60680.1,x,,ku- + <ndang>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60681,k,0,kundangan,dasar,
+60681.1,x,,ku- + <ndangan>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60681.2,v,,<kundang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+60682,k,0,kundi,dasar,
+60682.1,x,,ku- + <nd> + -i,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60682.2,x,,ku- + <ndi>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60682.3,x,,<kund> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+60683,k,7,kundur,dasar,
+60683.1,x,,ku- + <ndur>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60684,k,0,kunduran,dasar,
+60684.1,x,,ku- + <nduran>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60684.2,x,,<kundur> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+60685,k,44,kung,dasar,
+60685.1,x,,ku- + <ng>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60686,k,0,kungfu,dasar,
+,,,,,
+60687,k,0,kungkang,dasar,
+,,,,,
+60688,k,0,kungki,dasar,
+60688.1,x,,<kungk> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+60689,k,3,kungkum,dasar,
+,,,,,
+60690,k,2,kungkung,dasar,
+,,,,,
+60691,k,39,kungkungan,dasar,
+60691.1,v,,<kungkung> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+60692,k,982,kuning,dasar,
+60692.1,x,,ku- + <ning>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60693,k,0,kuning bambu,dasar,
+60693.1,x,,ku- + <ning bambu>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60694,k,0,kuning belerang,dasar,
+60694.1,x,,ku- + <ning belerang>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60695,k,0,kuning buluh,dasar,
+60695.1,x,,ku- + <ning buluh>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60696,k,0,kuning emas,dasar,
+60696.1,x,,ku- + <ning emas>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60697,k,0,kuning gading,dasar,
+60697.1,x,,ku- + <ning gading>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60698,k,0,kuning gersing,dasar,
+60698.1,x,,ku- + <ning gersing>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60699,k,0,kuning janur,dasar,
+60699.1,x,,ku- + <ning janur>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60700,k,0,kuning jenar,dasar,
+60700.1,x,,ku- + <ning jenar>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60701,k,0,kuning jerami,dasar,
+60701.1,x,,ku- + <ning jeram> + -i,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60701.2,x,,ku- + <ning jerami>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60701.3,x,,<kuning jeram> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+60702,k,0,kuning kepodang,dasar,
+60702.1,x,,ku- + <ning kepodang>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60703,k,0,kuning kunyit,dasar,
+60703.1,x,,ku- + <ning kunyit>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60704,k,0,kuning langsat,dasar,
+60704.1,x,,ku- + <ning langsat>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60705,k,0,kuning limau,dasar,
+60705.1,x,,ku- + <ning limau>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60706,k,0,kuning lulur,dasar,
+60706.1,x,,ku- + <ning lulur>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60707,k,0,kuning madu,dasar,
+60707.1,x,,ku- + <ning madu>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60708,k,0,kuning pepaya,dasar,
+60708.1,x,,ku- + <ning pepaya>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60709,k,0,kuning telur,dasar,
+60709.1,x,,ku- + <ning telur>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60710,k,0,kuning telur ganda,dasar,
+60710.1,x,,ku- + <ning telur ganda>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60710.2,x,,<kuning telur ga> + [-anda:-nda],bentukan,[183] [S] -anda + (i;u;a;[k:])
+60710.3,x,,<kuning telur gan> + [-anda:-da],bentukan,[184] [S] -anda + (an)
+60710.4,x,,<kuning telur g> + -anda,bentukan,[185] [S] -anda + (<others>)
+,,,,,
+60711,k,330,kuningan,dasar,
+60711.1,x,,ku- + <ningan>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60711.2,x,,<kuning> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+60712,k,0,kuningisasi,dasar,
+60712.1,x,,ku- + <ningisas> + -i,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60712.2,x,,ku- + <ningisasi>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60712.3,x,,<kuningisas> + -i,bentukan,[28] [S] -i + (<all>)
+60712.4,x,,<kuningi> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+60712.5,x,,<kuningis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+60712.6,v,,<kuning> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+60713,k,5,kunir,dasar,
+60713.1,x,,ku- + <nir>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60714,k,0,kunir putih,dasar,
+60714.1,x,,ku- + <nir putih>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60715,k,682,kunjung,dasar,
+60715.1,x,,ku- + <njung>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60716,k,0,kunjung-mengunjungi,dasar,
+60716.1,v,,<kunjung> [-] [meng-:me-] + <r> + -i,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [24] [RD] |meng-
+,,,,,
+60717,k,1637,kunjungan,dasar,
+60717.1,x,,ku- + <njungan>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60717.2,v,,<kunjung> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+60718,k,0,kunjungan kerja,dasar,
+60718.1,x,,ku- + <njungan kerja>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60719,k,0,kunjungan muhibah,dasar,
+60719.1,x,,ku- + <njungan muhibah>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60720,k,0,kunjungan pribadi,dasar,
+60720.1,x,,ku- + <njungan pribad> + -i,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60720.2,x,,ku- + <njungan pribadi>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60720.3,x,,<kunjungan pribad> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+60721,k,0,kunjungan rumah,dasar,
+60721.1,x,,ku- + <njungan rumah>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60722,v,6,kunker,dasar,
+,,,,,
+60723,k,485,kuno,dasar,
+60723.1,x,,ku- + <no>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60724,k,2,kunta,dasar,
+,,,,,
+60725,k,0,kunta bima,dasar,
+,,,,,
+60726,k,0,kuntau,dasar,
+,,,,,
+60727,k,25,kuntilanak,dasar,
+,,,,,
+60728,k,0,kuntit,dasar,
+,,,,,
+60729,k,0,kuntuan,dasar,
+60729.1,x,,<kuntu> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+60730,k,9,kuntul,dasar,
+,,,,,
+60731,k,0,kuntul karang,dasar,
+,,,,,
+60732,k,0,kuntul kecil,dasar,
+,,,,,
+60733,k,0,kuntul kerbau,dasar,
+,,,,,
+60734,k,0,kuntul malam,dasar,
+,,,,,
+60735,k,32,kuntum,dasar,
+,,,,,
+60736,k,0,kuntung,dasar,
+,,,,,
+60737,k,4,kunut,dasar,
+60737.1,x,,ku- + <nut>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60738,k,0,kunut nazilah,dasar,
+60738.1,x,,ku- + <nut nazilah>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60738.2,x,,<kunut nazi> + -lah,bentukan,[31] [FS] -lah + (<all>)
+60738.3,x,,ku- + <nut naz> + -i + -lah,bentukan,[35] ku- + (<all>) + (-i;-kan) => [31] [FS] -lah + (<all>)
+60738.4,x,,ku- + <nut nazi> + -lah,bentukan,[35] ku- + (<all>) + (-i;-kan) => [31] [FS] -lah + (<all>)
+60738.5,x,,<kunut naz> + -i + -lah,bentukan,[28] [S] -i + (<all>) => [31] [FS] -lah + (<all>)
+,,,,,
+60739,k,18,kunyah,dasar,
+60739.1,x,,ku- + <nyah>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60740,k,10,kunyahan,dasar,
+60740.1,x,,ku- + <nyahan>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60740.2,v,,<kunyah> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+60741,k,0,kunyam,dasar,
+60741.1,x,,ku- + <nyam>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60742,k,87,kunyit,dasar,
+60742.1,x,,ku- + <nyit>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60743,k,6,kunyuk,dasar,
+60743.1,x,,ku- + <nyuk>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60744,k,0,kunzite,dasar,
+,,,,,
+60745,k,0,kuodlibet,dasar,
+60745.1,x,,ku- + <odlibet>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60746,k,0,kuoka,dasar,
+60746.1,x,,ku- + <oka>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60747,k,25,kuorum,dasar,
+60747.1,x,,ku- + <orum>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60748,k,0,kuosien,dasar,
+60748.1,x,,ku- + <osien>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60749,k,0,kuosien perkembangan,dasar,
+60749.1,x,,ku- + <osien perkembangan>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60749.2,x,,<kuosien perkembang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+60750,k,434,kuota,dasar,
+60750.1,x,,ku- + <ota>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60751,k,0,kuota ekspor,dasar,
+60751.1,x,,ku- + <ota ekspor>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60752,k,0,kuota impor,dasar,
+60752.1,x,,ku- + <ota impor>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60753,k,25,kuotasi,dasar,
+60753.1,x,,ku- + <otas> + -i,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60753.2,x,,ku- + <otasi>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60753.3,x,,<kuotas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+60754,k,0,kuotum,dasar,
+60754.1,x,,ku- + <otum>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60755,c,36,kup,dasar,kudeta
+60755.1,x,,ku- + <p>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60756,k,2,kupa,dasar,
+60756.1,x,,ku- + <pa>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60757,k,0,kupahan,dasar,
+60757.1,x,,ku- + <pahan>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60757.2,x,,<kupah> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+60758,k,0,kupak,dasar,
+60758.1,x,,ku- + <pak>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60759,k,0,kupakan,dasar,
+60759.1,x,,ku- + <pa> + -kan,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60759.2,x,,ku- + <pakan>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60759.3,x,,<kupa> + -kan,bentukan,[29] [S] -kan + (<all>)
+60759.4,v,,<kupak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+60760,k,173,kupang,dasar,
+60760.1,x,,ku- + <pang>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60761,k,0,kupang beras,dasar,
+60761.1,x,,ku- + <pang beras>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60762,k,0,kupang kawung,dasar,
+60762.1,x,,ku- + <pang kawung>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60763,k,0,kupang merah,dasar,
+60763.1,x,,ku- + <pang merah>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60764,k,0,kupang putih,dasar,
+60764.1,x,,ku- + <pang putih>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60765,k,26,kupas,dasar,
+60765.1,x,,ku- + <pas>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60766,k,5,kupasan,dasar,
+60766.1,x,,ku- + <pasan>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60766.2,v,,<kupas> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+60767,k,9,kupat,dasar,
+60767.1,x,,ku- + <pat>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60768,k,0,kupat glabed,dasar,
+60768.1,x,,ku- + <pat glabed>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60769,k,0,kupat-kapit,dasar,
+60769.1,v,,<kupat-kapit>,bentukan,[Reduplication-Rhyming]
+,,,,,
+60770,k,2,kupe,dasar,
+60770.1,x,,ku- + <pe>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60771,k,0,kupel,dasar,
+60771.1,x,,ku- + <pel>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60772,v,10,kuper,dasar,
+60772.1,x,,ku- + <per>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60773,k,9,kupi,dasar,
+60773.1,x,,ku- + <p> + -i,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60773.2,x,,ku- + <pi>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60773.3,x,,<kup> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+60774,v,6,kupiah,dasar,
+60774.1,x,,ku- + <piah>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60774.2,x,,<kup> + -iah,bentukan,[175] [S] -iah + (<others>)
+,,,,,
+60775,k,0,kupil,dasar,
+60775.1,x,,ku- + <pil>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60776,k,117,kuping,dasar,
+60776.1,x,,ku- + <ping>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60777,k,0,kuping gajah,dasar,
+60777.1,x,,ku- + <ping gajah>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60778,k,0,kuping menjangan,dasar,
+60778.1,x,,ku- + <ping menjangan>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60778.2,x,,<kuping menjang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+60779,k,0,kuping tebal,dasar,
+60779.1,x,,ku- + <ping tebal>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60780,k,0,kuping tikus,dasar,
+60780.1,x,,ku- + <ping tikus>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60781,k,0,kupir,dasar,
+60781.1,x,,ku- + <pir>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60782,k,2,kuplet,dasar,
+60782.1,x,,ku- + <plet>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60783,k,0,kuplet tertutup,dasar,
+60783.1,x,,ku- + <plet tertutup>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60784,k,7,kupluk,dasar,
+60784.1,x,,ku- + <pluk>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60785,k,0,kupnat,dasar,
+60785.1,x,,ku- + <pnat>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60786,k,0,kupnat prancis,dasar,
+60786.1,x,,ku- + <pnat prancis>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60786.2,x,,<kupnat pranci> + [-is:-s],bentukan,[177] [S] -is + (i)
+60786.3,x,,<kupnat pranc> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+60787,k,0,kupola,dasar,
+60787.1,x,,ku- + <pola>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60788,k,159,kupon,dasar,
+60788.1,x,,ku- + <pon>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60789,k,0,kupon makan,dasar,
+60789.1,x,,ku- + <pon ma> + -kan,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60789.2,x,,ku- + <pon makan>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60789.3,x,,<kupon ma> + -kan,bentukan,[29] [S] -kan + (<all>)
+60789.4,x,,<kupon mak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+60790,k,0,kupon obligasi,dasar,
+60790.1,x,,ku- + <pon obligas> + -i,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60790.2,x,,ku- + <pon obligasi>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60790.3,x,,<kupon obligas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+60791,k,0,kupon togel,dasar,
+60791.1,x,,ku- + <pon togel>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60792,k,0,kupron,dasar,
+60792.1,x,,ku- + <pron>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60793,k,0,kuproprotein,dasar,
+60793.1,x,,ku- + <proprotein>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60794,k,0,kuprum,dasar,
+60794.1,x,,ku- + <prum>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60795,c,11,kupu,dasar,kufu
+60795.1,x,,ku- + <pu>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60796,k,0,kupu tarung,dasar,
+60796.1,x,,ku- + <pu tarung>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60797,k,135,kupu-kupu,dasar,
+60797.1,v,,<kupu> [-] <r>,bentukan,[23] [RD] |
+60797.2,x,,ku- + <pu> [-] ku- + <r>,bentukan,[35] ku- + (<all>) + (-i;-kan) => [23] [RD] |
+,,,,,
+60798,k,0,kupu-kupu gajah,dasar,
+,,,,,
+60799,k,0,kupu-kupu malam,dasar,
+,,,,,
+60800,k,0,kupu-kupu padi,dasar,
+,,,,,
+60801,k,0,kupu-kupu sosial,dasar,
+,,,,,
+60802,k,0,kupu-kupu sutra,dasar,
+,,,,,
+60803,k,0,kupui,dasar,
+60803.1,x,,ku- + <pu> + -i,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60803.2,x,,ku- + <pui>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60803.3,x,,<kupu> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+60804,k,0,kupule,dasar,
+60804.1,x,,ku- + <pule>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60805,k,0,kupur,dasar,
+60805.1,x,,ku- + <pur>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60806,k,106,kur,dasar,
+60806.1,x,,ku- + <r>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60807,k,0,kura,dasar,
+60807.1,x,,ku- + <ra>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60808,k,58,kura-kura,dasar,
+60808.1,v,,<kura> [-] <r>,bentukan,[23] [RD] |
+60808.2,x,,ku- + <ra> [-] ku- + <r>,bentukan,[35] ku- + (<all>) + (-i;-kan) => [23] [RD] |
+,,,,,
+60809,k,0,kura-kura belawa,dasar,
+,,,,,
+60810,k,0,kura-kura hijau,dasar,
+,,,,,
+60811,k,0,kura-kura jendela,dasar,
+,,,,,
+60812,k,0,kura-kura kaki,dasar,
+,,,,,
+60813,k,0,kura-kura moncong babi,dasar,
+,,,,,
+60814,k,0,kura-kura tangan,dasar,
+,,,,,
+60815,k,0,kurada,dasar,
+60815.1,x,,ku- + <rada>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60816,k,3,kurai,dasar,
+60816.1,x,,ku- + <ra> + -i,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60816.2,x,,ku- + <rai>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60816.3,x,,<kura> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+60817,k,0,kurambit,dasar,
+60817.1,x,,ku- + <rambit>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60818,c,5,kuran,dasar,al-qur'an
+60818.1,x,,ku- + <ran>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60818.2,x,,<kur> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+60819,k,6787,kurang,dasar,
+60819.1,x,,ku- + <rang>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60820,k,0,kurang adab,dasar,
+60820.1,x,,ku- + <rang adab>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60821,k,0,kurang adat,dasar,
+60821.1,x,,ku- + <rang adat>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60822,k,0,kurang air,dasar,
+60822.1,x,,ku- + <rang air>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60823,k,0,kurang ajar,dasar,
+60823.1,x,,ku- + <rang ajar>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60824,k,0,kurang akal,dasar,
+60824.1,x,,ku- + <rang akal>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60825,k,0,kurang asam,dasar,
+60825.1,x,,ku- + <rang asam>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60826,k,0,kurang asin,dasar,
+60826.1,x,,ku- + <rang asin>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60827,k,0,kurang bahasa,dasar,
+60827.1,x,,ku- + <rang bahasa>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60828,k,0,kurang beres,dasar,
+60828.1,x,,ku- + <rang beres>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60829,k,0,kurang darah,dasar,
+60829.1,x,,ku- + <rang darah>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60830,k,0,kurang energi protein,dasar,
+60830.1,x,,ku- + <rang energi protein>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60831,k,0,kurang gizi,dasar,
+60831.1,x,,ku- + <rang giz> + -i,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60831.2,x,,ku- + <rang gizi>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60831.3,x,,<kurang giz> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+60832,k,0,kurang hati,dasar,
+60832.1,x,,ku- + <rang hat> + -i,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60832.2,x,,ku- + <rang hati>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60832.3,x,,<kurang hat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+60833,k,0,kurang iman,dasar,
+60833.1,x,,ku- + <rang iman>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60833.2,x,,<kurang im> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+60834,k,0,kurang ingat,dasar,
+60834.1,x,,ku- + <rang ingat>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60835,k,0,kurang ingatan,dasar,
+60835.1,x,,ku- + <rang ingatan>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60835.2,x,,<kurang ingat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+60836,k,0,kurang jadi,dasar,
+60836.1,x,,ku- + <rang jad> + -i,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60836.2,x,,ku- + <rang jadi>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60836.3,x,,<kurang jad> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+60837,k,0,kurang jantan,dasar,
+60837.1,x,,ku- + <rang jantan>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60837.2,x,,<kurang jant> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+60838,k,0,kurang kalori protein,dasar,
+60838.1,x,,ku- + <rang kalori protein>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60839,k,0,kurang lebih,dasar,
+60839.1,x,,ku- + <rang lebih>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60840,k,0,kurang perhatian,dasar,
+60840.1,x,,ku- + <rang perhatian>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60840.2,x,,<kurang perhati> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+60841,k,0,kurang periksa,dasar,
+60841.1,x,,ku- + <rang periksa>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60842,k,0,kurang pikir,dasar,
+60842.1,x,,ku- + <rang pikir>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60843,k,0,kurang pikiran,dasar,
+60843.1,x,,ku- + <rang pikiran>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60843.2,x,,<kurang pikir> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+60844,k,0,kurang sesen,dasar,
+60844.1,x,,ku- + <rang sesen>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60845,k,0,kurang tenaga,dasar,
+60845.1,x,,ku- + <rang tenaga>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60846,k,0,kurang terima,dasar,
+60846.1,x,,ku- + <rang terima>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60847,k,0,kurang waras,dasar,
+60847.1,x,,ku- + <rang waras>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60848,k,11,kurang-kurang,dasar,
+60848.1,v,,<kurang> [-] <r>,bentukan,[23] [RD] |
+60848.2,x,,ku- + <rang> [-] ku- + <r>,bentukan,[35] ku- + (<all>) + (-i;-kan) => [23] [RD] |
+,,,,,
+60849,d,0,kurangnya,dasar,
+60849.1,x,,ku- + <rangnya>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60849.2,v,,<kurang> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+60849.3,x,,ku- + <rang> + -nya,bentukan,[35] ku- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+,,,,,
+60850,k,18,kurap,dasar,
+60850.1,x,,ku- + <rap>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60851,k,0,kurap kuku,dasar,
+60851.1,x,,ku- + <rap kuku>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60851.2,x,,<kurap ku> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+60851.3,x,,ku- + <rap ku> + -ku,bentukan,[35] ku- + (<all>) + (-i;-kan) => [32] [SFS] -ku + (<all>)
+60851.4,x,,<kurap > + -ku + -ku,bentukan,[32] [SFS] -ku + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+60852,k,0,kurap kulit kepala,dasar,
+60852.1,x,,ku- + <rap kulit kepala>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60853,k,0,kurapunktur,dasar,
+60853.1,x,,ku- + <rapunktur>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60854,k,6,kuras,dasar,
+60854.1,x,,ku- + <ras>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60855,k,0,kurasani,dasar,
+60855.1,x,,ku- + <rasan> + -i,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60855.2,x,,ku- + <rasani>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60855.3,x,,<kurasan> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+60856,k,0,kurasao,dasar,
+60856.1,x,,ku- + <rasao>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60857,k,25,kurasi,dasar,
+60857.1,x,,ku- + <ras> + -i,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60857.2,x,,ku- + <rasi>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60857.3,x,,<kuras> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+60858,k,104,kuratif,dasar,
+60858.1,x,,ku- + <ratif>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60859,k,78,kurator,dasar,
+60859.1,x,,ku- + <rator>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60860,k,0,kurator koleksi,dasar,
+60860.1,x,,ku- + <rator koleks> + -i,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60860.2,x,,ku- + <rator koleksi>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60860.3,x,,<kurator koleks> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+60861,k,6,kuratorial,dasar,
+60861.1,x,,ku- + <ratorial>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60862,k,0,kuratorium,dasar,
+60862.1,x,,ku- + <ratorium>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60863,k,0,kurau,dasar,
+60863.1,x,,ku- + <rau>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60864,k,18,kurawa,dasar,
+60864.1,x,,ku- + <rawa>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60865,k,0,kurawal,dasar,
+60865.1,x,,ku- + <rawal>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60866,k,68,kurban,dasar,
+60866.1,x,,<kurb> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+60867,k,0,kurban misa,dasar,
+,,,,,
+60868,k,14,kurcaci,dasar,
+60868.1,x,,<kurcac> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+60869,k,48,kurdi,dasar,
+60869.1,x,,<kurd> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+60870,k,0,kuren,dasar,
+60870.1,x,,ku- + <ren>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60871,k,4,kuret,dasar,
+60871.1,x,,ku- + <ret>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60872,k,6,kuretase,dasar,
+60872.1,x,,ku- + <retase>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60872.2,x,,<kuret> + -ase,bentukan,[210] [S] -ase + (<all>)
+,,,,,
+60873,k,0,kuria romana,dasar,
+60873.1,x,,ku- + <ria romana>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60874,k,0,kuriak,dasar,
+60874.1,x,,ku- + <riak>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60875,k,0,kuricak,dasar,
+60875.1,x,,ku- + <ricak>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60876,k,0,kuricakan,dasar,
+60876.1,x,,ku- + <rica> + -kan,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60876.2,x,,ku- + <ricakan>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60876.3,x,,<kurica> + -kan,bentukan,[29] [S] -kan + (<all>)
+60876.4,v,,<kuricak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+60877,k,0,kuriding,dasar,
+60877.1,x,,ku- + <riding>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60878,k,0,kurigram,dasar,
+60878.1,x,,ku- + <rigram>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60879,k,5,kurik,dasar,
+60879.1,x,,ku- + <rik>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60880,k,41,kurikuler,dasar,
+60880.1,x,,ku- + <rikuler>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60881,k,635,kurikulum,dasar,
+60881.1,x,,ku- + <rikulum>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60882,k,0,kurikulum cakupan,dasar,
+60882.1,x,,ku- + <rikulum cakupan>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60882.2,x,,<kurikulum cakup> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+60883,k,0,kurikulum inti,dasar,
+60883.1,x,,ku- + <rikulum int> + -i,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60883.2,x,,ku- + <rikulum inti>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60883.3,x,,<kurikulum int> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+60884,k,0,kurikulum kegiatan,dasar,
+60884.1,x,,ku- + <rikulum kegiatan>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60884.2,x,,<kurikulum kegiat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+60885,k,0,kurikulum kegiatan luar sekolah,dasar,
+60885.1,x,,ku- + <rikulum kegiatan luar sekolah>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60885.2,x,,<kurikulum kegiatan luar seko> + -lah,bentukan,[31] [FS] -lah + (<all>)
+60885.3,x,,ku- + <rikulum kegiatan luar seko> + -lah,bentukan,[35] ku- + (<all>) + (-i;-kan) => [31] [FS] -lah + (<all>)
+,,,,,
+60886,k,0,kurikulum muatan lokal,dasar,
+60886.1,x,,ku- + <rikulum muatan lokal>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60887,k,0,kurikulum pelengkap,dasar,
+60887.1,x,,ku- + <rikulum pelengkap>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60888,k,0,kurikulum terpadu,dasar,
+60888.1,x,,ku- + <rikulum terpadu>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60889,k,0,kurikulum terpisah,dasar,
+60889.1,x,,ku- + <rikulum terpisah>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60890,k,0,kurikulum tertutup,dasar,
+60890.1,x,,ku- + <rikulum tertutup>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60891,k,2,kuring,dasar,
+60891.1,x,,ku- + <ring>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60892,k,0,kuriositas,dasar,
+60892.1,x,,ku- + <riositas>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60892.2,x,,<kurios> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+60893,k,6,kuripan,dasar,
+60893.1,x,,ku- + <ripan>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60893.2,x,,<kurip> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+60894,k,92,kurir,dasar,
+60894.1,x,,ku- + <rir>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60895,k,0,kuririk,dasar,
+60895.1,x,,ku- + <ririk>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60896,v,2,kurit,dasar,
+60896.1,x,,ku- + <rit>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60897,v,2,kurita,dasar,
+60897.1,x,,ku- + <rita>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60898,k,0,kurium,dasar,
+60898.1,x,,ku- + <rium>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60899,v,2,kuriyama,dasar,
+60899.1,x,,ku- + <riyama>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60900,v,3,kurk,dasar,
+,,,,,
+60901,k,0,kurkatovium,dasar,
+,,,,,
+60902,v,2,kurkulum,dasar,
+,,,,,
+60903,k,0,kurkuma,dasar,
+,,,,,
+60904,v,11,kurkumin,dasar,
+,,,,,
+60905,v,4,kurkuminoid,dasar,
+60905.1,x,,<kurkumin> + -oid,bentukan,[209] [S] -oid + (<all>)
+,,,,,
+60906,k,58,kurma,dasar,
+,,,,,
+60907,k,0,kurma ajwa,dasar,
+,,,,,
+60908,k,0,kurma nabi,dasar,
+60908.1,x,,<kurma nab> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+60909,k,0,kurma rawa,dasar,
+,,,,,
+60910,k,0,kurma sukari,dasar,
+60910.1,x,,<kurma sukar> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+60911,v,158,kurnia,dasar,
+,,,,,
+60912,v,2,kurnit,dasar,
+,,,,,
+60913,k,0,kurok,dasar,
+60913.1,x,,ku- + <rok>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60914,k,371,kurs,dasar,
+,,,,,
+60915,k,0,kurs kripto,dasar,
+,,,,,
+60916,k,0,kursemangat,dasar,
+,,,,,
+60917,k,1468,kursi,dasar,
+60917.1,x,,<kurs> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+60918,k,0,kursi bakso,dasar,
+,,,,,
+60919,k,0,kursi bar,dasar,
+,,,,,
+60920,k,0,kursi berlengan,dasar,
+60920.1,x,,<kursi berleng> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+60921,k,0,kursi besar berlengan,dasar,
+60921.1,x,,<kursi besar berleng> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+60922,k,0,kursi empuk,dasar,
+,,,,,
+60923,k,0,kursi ergonomis,dasar,
+60923.1,x,,<kursi ergonomi> + [-is:-s],bentukan,[177] [S] -is + (i)
+60923.2,x,,<kursi ergonom> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+60924,k,0,kursi geser,dasar,
+,,,,,
+60925,k,0,kursi goyang,dasar,
+,,,,,
+60926,k,0,kursi hidraulik,dasar,
+,,,,,
+60927,k,0,kursi lincak,dasar,
+,,,,,
+60928,k,0,kursi lipat,dasar,
+,,,,,
+60929,k,0,kursi listrik,dasar,
+,,,,,
+60930,k,0,kursi lontar,dasar,
+,,,,,
+60931,k,0,kursi makan,dasar,
+60931.1,x,,<kursi ma> + -kan,bentukan,[29] [S] -kan + (<all>)
+60931.2,x,,<kursi mak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+60932,k,0,kursi malas,dasar,
+,,,,,
+60933,k,0,kursi panas,dasar,
+,,,,,
+60934,k,0,kursi panjang,dasar,
+,,,,,
+60935,k,0,kursi pesakitan,dasar,
+60935.1,x,,<kursi pesakit> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+60936,k,0,kursi rebah,dasar,
+,,,,,
+60937,k,0,kursi roda,dasar,
+,,,,,
+60938,k,0,kursi setel,dasar,
+,,,,,
+60939,k,0,kursi sudut,dasar,
+,,,,,
+60940,k,0,kursi susun,dasar,
+,,,,,
+60941,k,0,kursi sutradara,dasar,
+,,,,,
+60942,k,0,kursi telur,dasar,
+,,,,,
+60943,k,2,kursif,dasar,
+,,,,,
+60944,d,0,kursinya,dasar,
+60944.1,v,,<kursi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+60944.2,x,,<kurs> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+60945,k,17,kursor,dasar,
+,,,,,
+60946,k,308,kursus,dasar,
+,,,,,
+60947,k,0,kursus daring,dasar,
+,,,,,
+60948,k,0,kursus kilat,dasar,
+,,,,,
+60949,k,0,kursus penyegaran,dasar,
+60949.1,x,,<kursus penyegar> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+60950,k,0,kursus tani,dasar,
+60950.1,x,,<kursus tan> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+60951,v,31,kurt,dasar,
+,,,,,
+60952,k,0,kurtase,dasar,
+60952.1,x,,<kurt> + -ase,bentukan,[210] [S] -ase + (<all>)
+,,,,,
+60953,v,2,kurtilas,dasar,
+,,,,,
+60954,k,3,kurtosis,dasar,
+60954.1,x,,<kurtosi> + [-is:-s],bentukan,[177] [S] -is + (i)
+60954.2,x,,<kurtos> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+60955,v,4,kurtubi,dasar,
+60955.1,x,,<kurtub> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+60956,v,3,kurtulmus,dasar,
+,,,,,
+60957,v,14,kuru,dasar,
+60957.1,x,,ku- + <ru>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60958,k,0,kurudu,dasar,
+60958.1,x,,ku- + <rudu>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60959,v,2,kurukasetra,dasar,
+60959.1,x,,ku- + <rukasetra>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60960,v,2,kuruksetra,dasar,
+60960.1,x,,ku- + <ruksetra>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60961,v,4,kurukulum,dasar,
+60961.1,x,,ku- + <rukulum>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60962,v,2,kurulu,dasar,
+60962.1,x,,ku- + <rulu>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60963,k,912,kurun,dasar,
+60963.1,x,,ku- + <run>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60964,k,0,kurun ke-20,dasar,
+,,,,,
+60965,k,0,kurun masehi ke-10,dasar,
+,,,,,
+60966,k,0,kurun menit,dasar,
+60966.1,x,,ku- + <run menit>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60967,k,0,kurun waktu,dasar,
+60967.1,x,,ku- + <run waktu>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60968,k,0,kurun zaman,dasar,
+60968.1,x,,ku- + <run zaman>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60968.2,x,,<kurun zam> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+60969,v,2,kuruncingkan,dasar,
+60969.1,v,,ku- + <runcing> + -kan,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60969.2,x,,ku- + <runcingkan>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60969.3,x,,<kuruncing> + -kan,bentukan,[29] [S] -kan + (<all>)
+60969.4,x,,<kuruncingk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+60970,k,59,kurung,dasar,
+60970.1,x,,ku- + <rung>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60971,k,0,kurung batang,dasar,
+60971.1,x,,ku- + <rung batang>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60972,k,0,kurung besar,dasar,
+60972.1,x,,ku- + <rung besar>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60973,k,0,kurung kurawal,dasar,
+60973.1,x,,ku- + <rung kurawal>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60974,k,0,kurung seluruh,dasar,
+60974.1,x,,ku- + <rung seluruh>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60975,k,0,kurung siku,dasar,
+60975.1,x,,ku- + <rung siku>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60975.2,x,,<kurung si> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+60975.3,x,,ku- + <rung s> + -i + -ku,bentukan,[35] ku- + (<all>) + (-i;-kan) => [32] [SFS] -ku + (<all>)
+60975.4,x,,ku- + <rung si> + -ku,bentukan,[35] ku- + (<all>) + (-i;-kan) => [32] [SFS] -ku + (<all>)
+60975.5,x,,<kurung s> + -i + -ku,bentukan,[28] [S] -i + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+60976,k,360,kurungan,dasar,
+60976.1,x,,ku- + <rungan>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60976.2,v,,<kurung> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+60977,k,414,kurus,dasar,
+60977.1,x,,ku- + <rus>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60978,k,0,kurus kering,dasar,
+60978.1,x,,ku- + <rus kering>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60979,k,0,kurus mering,dasar,
+60979.1,x,,ku- + <rus mering>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60980,k,8,kurusan,dasar,
+60980.1,x,,ku- + <rusan>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60980.2,v,,<kurus> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+60981,v,2,kurusdan,dasar,
+60981.1,x,,ku- + <rusdan>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60981.2,x,,<kurusd> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+60982,v,7,kurusetra,dasar,
+60982.1,x,,ku- + <rusetra>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60983,v,5,kurusku,dasar,
+60983.1,x,,ku- + <rusku>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60983.2,v,,<kurus> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+60983.3,x,,ku- + <rus> + -ku,bentukan,[35] ku- + (<all>) + (-i;-kan) => [32] [SFS] -ku + (<all>)
+,,,,,
+60984,v,19,kurusnya,dasar,
+60984.1,x,,ku- + <rusnya>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+60984.2,v,,<kurus> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+60984.3,x,,ku- + <rus> + -nya,bentukan,[35] ku- + (<all>) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+,,,,,
+60985,k,0,kuruyuk,dasar,
+60985.1,x,,ku- + <ruyuk>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+60986,k,195,kurva,dasar,
+,,,,,
+60987,k,0,kurva adiabatik-semu,dasar,
+,,,,,
+60988,k,0,kurva aljabar,dasar,
+,,,,,
+60989,k,0,kurva beban-deformasi,dasar,
+,,,,,
+60990,k,0,kurva belajar,dasar,
+,,,,,
+60991,k,0,kurva bola,dasar,
+,,,,,
+60992,k,0,kurva bonjean,dasar,
+60992.1,x,,<kurva bonje> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+60993,k,0,kurva epidemi,dasar,
+60993.1,x,,<kurva epidem> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+60994,k,0,kurva indiferen,dasar,
+,,,,,
+60995,k,0,kurva kenyamanan,dasar,
+60995.1,x,,<kurva kenyaman> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+60996,k,0,kurva laktasi,dasar,
+60996.1,x,,<kurva laktas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+60997,k,0,kurva lurus,dasar,
+,,,,,
+60998,k,0,kurva normal,dasar,
+,,,,,
+60999,k,0,kurva pembelajaran,dasar,
+60999.1,x,,<kurva pembelajar> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+61000,k,0,kurva penawaran,dasar,
+61000.1,x,,<kurva penawar> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+61001,k,0,kurva penawaran agregat,dasar,
+,,,,,
+61002,k,0,kurva pendinginan,dasar,
+61002.1,x,,<kurva pendingin> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+61003,k,0,kurva permintaan,dasar,
+61003.1,x,,<kurva perminta> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+61004,k,0,kurva permintaan agregat,dasar,
+,,,,,
+61005,k,0,kurva pertumbuhan,dasar,
+61005.1,x,,<kurva pertumbuh> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+61006,k,0,kurva sekat,dasar,
+,,,,,
+61007,k,0,kurva signoid,dasar,
+61007.1,x,,<kurva sign> + -oid,bentukan,[209] [S] -oid + (<all>)
+,,,,,
+61008,k,0,kurva tahanan,dasar,
+61008.1,x,,<kurva tahan> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+61009,k,0,kurva taksederhana,dasar,
+,,,,,
+61010,k,0,kurva taktertutup,dasar,
+,,,,,
+61011,k,0,kurva tekan-tarik,dasar,
+,,,,,
+61012,k,0,kurva tertutup,dasar,
+,,,,,
+61013,k,0,kurva toleransi gula,dasar,
+,,,,,
+61014,k,0,kurvalinier,dasar,
+,,,,,
+61015,v,8,kurvanya,dasar,
+61015.1,v,,<kurva> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+61016,k,0,kurvatur,dasar,
+,,,,,
+61017,v,6,kurve,dasar,
+,,,,,
+61018,c,9,kus,dasar,dekus
+61018.1,x,,ku- + <s>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+61019,k,3,kusa,dasar,
+61019.1,x,,ku- + <sa>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+61020,v,2,kusadap,dasar,
+61020.1,v,,ku- + <sadap>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+61021,v,72,kusadari,dasar,
+61021.1,v,,ku- + <sadar> + -i,bentukan,[35] ku- + (<all>) + (-i;-kan)
+61021.2,x,,ku- + <sadari>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+61021.3,x,,<kusadar> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+61022,v,2,kusadarkan,dasar,
+61022.1,v,,ku- + <sadar> + -kan,bentukan,[35] ku- + (<all>) + (-i;-kan)
+61022.2,x,,ku- + <sadarkan>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+61022.3,x,,<kusadar> + -kan,bentukan,[29] [S] -kan + (<all>)
+61022.4,x,,<kusadark> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+61023,v,50,kusaksikan,dasar,
+61023.1,v,,ku- + <saksi> + -kan,bentukan,[35] ku- + (<all>) + (-i;-kan)
+61023.2,x,,ku- + <saksikan>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+61023.3,x,,<kusaksi> + -kan,bentukan,[29] [S] -kan + (<all>)
+61023.4,x,,<kusaksik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+61024,k,0,kusal,dasar,
+61024.1,x,,ku- + <sal>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+61025,k,2,kusala,dasar,
+61025.1,x,,ku- + <sala>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+61026,k,183,kusam,dasar,
+61026.1,x,,ku- + <sam>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+61027,v,2,kusan,dasar,
+61027.1,x,,ku- + <san>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+61027.2,x,,<kus> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+61028,v,3,kusanagi,dasar,
+61028.1,x,,ku- + <sanag> + -i,bentukan,[35] ku- + (<all>) + (-i;-kan)
+61028.2,x,,ku- + <sanagi>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+61028.3,x,,<kusanag> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+61029,k,0,kusanin,dasar,
+61029.1,x,,ku- + <sanin>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+61030,k,0,kusat-mesat,dasar,
+61030.1,v,,<kusat-mesat>,bentukan,[Reduplication-Rhyming]
+,,,,,
+61031,k,2,kusau,dasar,
+61031.1,x,,ku- + <sau>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+61032,v,6,kuseka,dasar,
+61032.1,v,,ku- + <seka>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+61033,c,29,kusen,dasar,kosen
+61033.1,x,,ku- + <sen>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+61034,v,3,kuseru,dasar,
+61034.1,v,,ku- + <seru>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+61035,v,6,kusi,dasar,
+61035.1,x,,ku- + <s> + -i,bentukan,[35] ku- + (<all>) + (-i;-kan)
+61035.2,x,,ku- + <si>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+61035.3,x,,<kus> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+61036,k,0,kusik,dasar,
+61036.1,x,,ku- + <sik>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+61037,k,58,kusir,dasar,
+61037.1,x,,ku- + <sir>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+61038,k,3,kuskus,dasar,
+61038.1,x,,ku- + <skus>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+61039,k,0,kuskus beruang,dasar,
+61039.1,x,,ku- + <skus beruang>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+61040,k,0,kuskus biak,dasar,
+61040.1,x,,ku- + <skus biak>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+61041,k,0,kuskus bohai,dasar,
+61041.1,x,,ku- + <skus boha> + -i,bentukan,[35] ku- + (<all>) + (-i;-kan)
+61041.2,x,,ku- + <skus bohai>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+61041.3,x,,<kuskus boha> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+61042,k,0,kuskus gebe,dasar,
+61042.1,x,,ku- + <skus gebe>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+61043,k,0,kuskus kerdil,dasar,
+61043.1,x,,ku- + <skus kerdil>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+61044,k,0,kuskus obi,dasar,
+61044.1,x,,ku- + <skus ob> + -i,bentukan,[35] ku- + (<all>) + (-i;-kan)
+61044.2,x,,ku- + <skus obi>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+61044.3,x,,<kuskus ob> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+61045,k,0,kuskus peleng,dasar,
+61045.1,x,,ku- + <skus peleng>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+61046,k,0,kuskus tutul,dasar,
+61046.1,x,,ku- + <skus tutul>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+61047,v,14,kusodorkan,dasar,
+61047.1,v,,ku- + <sodor> + -kan,bentukan,[35] ku- + (<all>) + (-i;-kan)
+61047.2,x,,ku- + <sodorkan>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+61047.3,x,,<kusodor> + -kan,bentukan,[29] [S] -kan + (<all>)
+61047.4,x,,<kusodork> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+61048,k,0,kuspis,dasar,
+61048.1,x,,ku- + <spis>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+61048.2,x,,<kuspi> + [-is:-s],bentukan,[177] [S] -is + (i)
+61048.3,x,,<kusp> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+61049,k,0,kuspis gigi,dasar,
+61049.1,x,,ku- + <spis gig> + -i,bentukan,[35] ku- + (<all>) + (-i;-kan)
+61049.2,x,,ku- + <spis gigi>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+61049.3,x,,<kuspis gig> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+61050,v,2,kusrin,dasar,
+61050.1,x,,ku- + <srin>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+61051,v,6,kusrini,dasar,
+61051.1,x,,ku- + <srin> + -i,bentukan,[35] ku- + (<all>) + (-i;-kan)
+61051.2,x,,ku- + <srini>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+61051.3,x,,<kusrin> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+61052,k,0,kusruk,dasar,
+61052.1,x,,ku- + <sruk>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+61053,k,30,kusta,dasar,
+61053.1,x,,ku- + <sta>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+61054,x,2,kustakusta,dasar,
+61054.1,x,,ku- + <stakusta>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+61055,x,2,kustandi,dasar,
+61055.1,x,,ku- + <stand> + -i,bentukan,[35] ku- + (<all>) + (-i;-kan)
+61055.2,x,,ku- + <standi>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+61055.3,x,,<kustand> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+61056,k,0,kustar,dasar,
+61056.1,x,,ku- + <star>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+61057,k,0,kusti,dasar,
+61057.1,x,,ku- + <st> + -i,bentukan,[35] ku- + (<all>) + (-i;-kan)
+61057.2,x,,ku- + <sti>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+61057.3,x,,<kust> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+61058,x,15,kustini,dasar,
+61058.1,x,,ku- + <stin> + -i,bentukan,[35] ku- + (<all>) + (-i;-kan)
+61058.2,x,,ku- + <stini>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+61058.3,x,,<kustin> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+61059,k,0,kustodi,dasar,
+61059.1,x,,ku- + <stod> + -i,bentukan,[35] ku- + (<all>) + (-i;-kan)
+61059.2,x,,ku- + <stodi>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+61059.3,x,,<kustod> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+61060,k,0,kustodi bersama,dasar,
+61060.1,x,,ku- + <stodi bersama>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+61061,k,121,kustodian,dasar,
+61061.1,x,,ku- + <stodian>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+61061.2,v,,<kustodi> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+61062,v,9,kustom,dasar,
+61062.1,x,,ku- + <stom>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+61063,v,4,kustomasi,dasar,
+61063.1,x,,ku- + <stomas> + -i,bentukan,[35] ku- + (<all>) + (-i;-kan)
+61063.2,x,,ku- + <stomasi>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+61063.3,x,,<kustomas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+61064,v,6,kustomer,dasar,
+61064.1,x,,ku- + <stomer>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+61065,v,2,kustomfest,dasar,
+61065.1,x,,ku- + <stomfest>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+61066,k,17,kustomisasi,dasar,
+61066.1,x,,ku- + <stomisas> + -i,bentukan,[35] ku- + (<all>) + (-i;-kan)
+61066.2,x,,ku- + <stomisasi>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+61066.3,x,,<kustomisas> + -i,bentukan,[28] [S] -i + (<all>)
+61066.4,x,,<kustomi> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+61066.5,x,,<kustomis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+61066.6,v,,<kustom> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+61067,k,3,kusu,dasar,
+61067.1,x,,ku- + <su>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+61068,k,0,kusu-kusu,dasar,
+61068.1,v,,<kusu> [-] <r>,bentukan,[23] [RD] |
+61068.2,x,,ku- + <su> [-] ku- + <r>,bentukan,[35] ku- + (<all>) + (-i;-kan) => [23] [RD] |
+,,,,,
+61069,k,0,kusuf,dasar,
+61069.1,x,,ku- + <suf>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+61070,k,0,kusuk,dasar,
+61070.1,x,,ku- + <suk>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+61071,k,176,kusuma,dasar,
+61071.1,x,,ku- + <suma>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+61072,k,0,kusuma bangsa,dasar,
+61072.1,x,,ku- + <suma bangsa>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+61073,k,167,kusut,dasar,
+61073.1,x,,ku- + <sut>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+61074,k,0,kusut hati,dasar,
+61074.1,x,,ku- + <sut hat> + -i,bentukan,[35] ku- + (<all>) + (-i;-kan)
+61074.2,x,,ku- + <sut hati>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+61074.3,x,,<kusut hat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+61075,k,0,kusut kasau,dasar,
+61075.1,x,,ku- + <sut kasau>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+61076,k,0,kusut masai,dasar,
+61076.1,x,,ku- + <sut masa> + -i,bentukan,[35] ku- + (<all>) + (-i;-kan)
+61076.2,x,,ku- + <sut masai>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+61076.3,x,,<kusut masa> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+61077,k,0,kusut mesut,dasar,
+61077.1,x,,ku- + <sut mesut>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+61078,k,0,kusut muka,dasar,
+61078.1,x,,ku- + <sut muka>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+61079,k,0,kusut murut,dasar,
+61079.1,x,,ku- + <sut murut>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+61080,k,0,kusut musut,dasar,
+61080.1,x,,ku- + <sut musut>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+,,,,,
+61081,k,0,kusut pikiran,dasar,
+61081.1,x,,ku- + <sut pikiran>,bentukan,[35] ku- + (<all>) + (-i;-kan)
+61081.2,x,,<kusut pikir> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+61082,k,0,kusut sarang tempua,dasar,
+61082.1,x,,ku- + <sut sarang tempua>,bentukan,[35] ku- + (<all>) + (-i;-kan)

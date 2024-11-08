@@ -1,0 +1,1306 @@
+Nomor,KP,Jumlah,Entri,Tipe,Pembentukan
+13863,k,39,berjuta-juta,dasar,
+13863.1,v,,ber- + <juta> [-] <r>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya) => [27] [RD] ber-|
+,,,,,
+13864,k,0,berkaba,dasar,
+13864.1,v,,ber- + <kaba>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13865,k,34,berkabar,dasar,
+13865.1,v,,ber- + <kabar>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13866,k,6,berkabel,dasar,
+13866.1,v,,ber- + <kabel>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13867,k,0,berkabilan,dasar,
+13867.1,v,,ber- + <kabil> + -an,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+13867.2,x,,ber- + <kabilan>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+13867.3,x,,<berkabil> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+13868,k,0,berkabu-kabu,dasar,
+13868.1,v,,ber- + <kabu> [-] <r>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya) => [27] [RD] ber-|
+,,,,,
+13869,k,65,berkabung,dasar,
+13869.1,v,,ber- + <kabung>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13870,k,78,berkabut,dasar,
+13870.1,v,,ber- + <kabut>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13871,k,231,berkaca,dasar,
+13871.1,v,,ber- + <kaca>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13872,k,131,berkaca-kaca,dasar,
+13872.1,v,,ber- + <kaca> [-] <r>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya) => [27] [RD] ber-|
+,,,,,
+13873,k,36,berkacak,dasar,
+13873.1,v,,ber- + <kacak>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13874,k,0,berkacak pinggang,dasar,
+13874.1,x,,ber- + <kacak pinggang>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13875,v,2,berkacalah,dasar,
+13875.1,x,,ber- + <kacalah>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+13875.2,x,,<berkaca> + -lah,bentukan,[31] [FS] -lah + (<all>)
+13875.3,v,,ber- + <kaca> + -lah,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya) => [31] [FS] -lah + (<all>)
+,,,,,
+13876,k,60,berkacamata,dasar,
+13876.1,v,,ber- + <kacamata>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13877,k,0,berkacau,dasar,
+13877.1,v,,ber- + <kacau>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13878,k,32,berkadar,dasar,
+13878.1,v,,ber- + <kadar>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13879,k,2,berkafan,dasar,
+13879.1,x,,ber- + <kaf> + -an,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+13879.2,v,,ber- + <kafan>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+13879.3,x,,<berkaf> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+13880,v,7,berkafein,dasar,
+13880.1,v,,ber- + <kafein>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13881,k,0,berkafeina,dasar,
+13881.1,v,,ber- + <kafeina>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13882,k,376,berkah,dasar,
+13882.1,x,,ber- + <kah>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+13882.2,x,,<ber> + -kah,bentukan,[30] [FS] -kah + (<all>)
+13882.3,x,,[ber-:be-] + <r> + -kah,bentukan,[14] ber- + (r) + (-kan;-i;-an) => [30] [FS] -kah + (<all>)
+,,,,,
+13883,k,0,berkah dalem,dasar,
+13883.1,x,,ber- + <kah dalem>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13884,v,4,berkahi,dasar,
+13884.1,x,,ber- + <kah> + -i,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+13884.2,x,,ber- + <kahi>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+13884.3,v,,<berkah> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+13885,v,4,berkahilah,dasar,
+13885.1,x,,ber- + <kahilah>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+13885.2,x,,<berkahi> + -lah,bentukan,[31] [FS] -lah + (<all>)
+13885.3,x,,ber- + <kah> + -i + -lah,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya) => [31] [FS] -lah + (<all>)
+13885.4,x,,ber- + <kahi> + -lah,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya) => [31] [FS] -lah + (<all>)
+13885.5,v,,<berkah> + -i + -lah,bentukan,[28] [S] -i + (<all>) => [31] [FS] -lah + (<all>)
+,,,,,
+13886,v,14,berkahnya,dasar,
+13886.1,x,,ber- + <kah> + -nya,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+13886.2,x,,ber- + <kahnya>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+13886.3,v,,<berkah> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+13886.4,x,,ber- + <kah> + -nya,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya) => [34] [SFS] -nya + (<all>)
+13886.5,x,,<ber> + -kah + -nya,bentukan,[30] [FS] -kah + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+13887,k,0,berkaidah,dasar,
+13887.1,v,,ber- + <kaidah>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13888,k,0,berkail,dasar,
+13888.1,v,,ber- + <kail>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13889,k,19,berkain,dasar,
+13889.1,v,,ber- + <kain>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13890,k,0,berkain dua,dasar,
+13890.1,x,,ber- + <kain dua>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13891,k,0,berkaing,dasar,
+13891.1,v,,ber- + <kaing>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13892,k,0,berkaing-kaing,dasar,
+13892.1,v,,ber- + <kaing> [-] <r>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya) => [27] [RD] ber-|
+,,,,,
+13893,k,72,berkait,dasar,
+13893.1,v,,ber- + <kait>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13894,k,0,berkait-kaitan,dasar,
+13894.1,v,,ber- + <kait> [-] <r> + -an,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya) => [27] [RD] ber-|
+,,,,,
+13895,k,3202,berkaitan,dasar,
+13895.1,v,,ber- + <kait> + -an,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+13895.2,x,,ber- + <kaitan>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+13895.3,x,,<berkait> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+13896,k,0,berkajang,dasar,
+13896.1,v,,ber- + <kajang>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13897,k,3,berkakak,dasar,
+13897.1,v,,ber- + <kakak>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13898,k,0,berkakakan,dasar,
+13898.1,x,,ber- + <kaka> + -kan,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+13898.2,v,,ber- + <kakak> + -an,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+13898.3,x,,ber- + <kakakan>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+13898.4,x,,<berkaka> + -kan,bentukan,[29] [S] -kan + (<all>)
+13898.5,x,,<berkakak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+13899,k,0,berkakawin,dasar,
+13899.1,v,,ber- + <kakawin>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13900,k,56,berkaki,dasar,
+13900.1,x,,ber- + <kak> + -i,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+13900.2,v,,ber- + <kaki>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+13900.3,x,,<berkak> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+13901,k,0,berkaki ayam,dasar,
+13901.1,x,,ber- + <kaki ayam>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13902,k,1094,berkala,dasar,
+13902.1,v,,ber- + <kala>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13903,k,0,berkala-kala,dasar,
+13903.1,v,,ber- + <kala> [-] <r>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya) => [27] [RD] ber-|
+,,,,,
+13904,k,22,berkalang,dasar,
+13904.1,v,,ber- + <kalang>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13905,k,0,berkaldu,dasar,
+13905.1,v,,ber- + <kaldu>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13906,k,889,berkali-kali,dasar,
+13906.1,x,,ber- + <kal> [-] <r> + -i,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya) => [27] [RD] ber-|
+13906.2,v,,ber- + <kali> [-] <r>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya) => [27] [RD] ber-|
+,,,,,
+13907,k,7,berkaliber,dasar,
+13907.1,v,,ber- + <kaliber>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13908,k,0,berkalih,dasar,
+13908.1,v,,ber- + <kalih>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13909,k,13,berkalori,dasar,
+13909.1,x,,ber- + <kalor> + -i,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+13909.2,v,,ber- + <kalori>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+13909.3,x,,<berkalor> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+13910,k,0,berkalsium,dasar,
+13910.1,v,,ber- + <kalsium>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13911,k,19,berkalung,dasar,
+13911.1,v,,ber- + <kalung>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13912,k,0,berkalung usus,dasar,
+13912.1,x,,ber- + <kalung usus>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13913,v,3,berkalus,dasar,
+13913.1,x,,ber- + <kalus>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13914,k,8,berkamar,dasar,
+13914.1,v,,ber- + <kamar>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13915,k,0,berkambi,dasar,
+13915.1,x,,ber- + <kamb> + -i,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+13915.2,v,,ber- + <kambi>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+13915.3,x,,<berkamb> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+13916,k,6,berkamera,dasar,
+13916.1,v,,ber- + <kamera>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13917,k,0,berkamit-kamit,dasar,
+13917.1,v,,ber- + <kamit> [-] <r>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya) => [27] [RD] ber-|
+,,,,,
+13918,k,0,berkampai,dasar,
+13918.1,x,,ber- + <kampa> + -i,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+13918.2,v,,ber- + <kampai>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+13918.3,x,,<berkampa> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+13919,k,0,berkampaian,dasar,
+13919.1,v,,ber- + <kampai> + -an,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+13919.2,x,,ber- + <kampaian>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+13919.3,x,,<berkampai> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+13920,k,133,berkampanye,dasar,
+13920.1,v,,ber- + <kampanye>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13921,k,0,berkampuh,dasar,
+13921.1,v,,ber- + <kampuh>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13922,k,2,berkampung,dasar,
+13922.1,v,,ber- + <kampung>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13923,k,0,berkamu,dasar,
+13923.1,v,,ber- + <kamu>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+13923.2,x,,<berka> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+13923.3,x,,ber- + <ka> + -mu,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya) => [33] [SFS] -mu + (<all>)
+,,,,,
+13924,k,2,berkamuflase,dasar,
+13924.1,v,,ber- + <kamuflase>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+13924.2,x,,<berkamufl> + -ase,bentukan,[210] [S] -ase + (<all>)
+,,,,,
+13925,k,11,berkancing,dasar,
+13925.1,v,,ber- + <kancing>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13926,k,0,berkandang,dasar,
+13926.1,v,,ber- + <kandang>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13927,k,0,berkandul,dasar,
+13927.1,v,,ber- + <kandul>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13928,k,0,berkandung,dasar,
+13928.1,v,,ber- + <kandung>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13929,k,2,berkandungan,dasar,
+13929.1,v,,ber- + <kandung> + -an,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+13929.2,x,,ber- + <kandungan>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+13929.3,x,,<berkandung> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+13930,k,0,berkang,dasar,
+13930.1,v,,ber- + <kang>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13931,k,2,berkanjang,dasar,
+13931.1,v,,ber- + <kanjang>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13932,k,0,berkanjar,dasar,
+13932.1,v,,ber- + <kanjar>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13933,k,0,berkanjar-kanjar,dasar,
+13933.1,v,,ber- + <kanjar> [-] <r>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya) => [27] [RD] ber-|
+,,,,,
+13934,k,0,berkano,dasar,
+13934.1,v,,ber- + <kano>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13935,k,0,berkanopi,dasar,
+13935.1,x,,ber- + <kanop> + -i,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+13935.2,v,,ber- + <kanopi>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+13935.3,x,,<berkanop> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+13936,k,0,berkantaran,dasar,
+13936.1,v,,ber- + <kantar> + -an,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+13936.2,x,,ber- + <kantaran>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+13936.3,x,,<berkantar> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+13937,k,18,berkantong,dasar,
+13937.1,v,,ber- + <kantong>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13938,v,4,berkantong-kantong,dasar,
+13938.1,v,,ber- + <kantong> [-] <r>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya) => [27] [RD] ber-|
+,,,,,
+13939,k,307,berkantor,dasar,
+13939.1,v,,ber- + <kantor>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13940,v,10,berkantung,dasar,
+13940.1,v,,ber- + <kantung>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13941,v,3,berkaok,dasar,
+13941.1,v,,ber- + <kaok>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13942,k,4,berkaok-kaok,dasar,
+13942.1,v,,ber- + <kaok> [-] <r>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya) => [27] [RD] ber-|
+,,,,,
+13943,v,15,berkaos,dasar,
+13943.1,x,,ber- + <kaos>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13944,k,0,berkap,dasar,
+13944.1,v,,ber- + <kap>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13945,k,0,berkapak,dasar,
+13945.1,v,,ber- + <kapak>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13946,k,2,berkapal,dasar,
+13946.1,v,,ber- + <kapal>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13947,k,0,berkapal-kapal,dasar,
+13947.1,v,,ber- + <kapal> [-] <r>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya) => [27] [RD] ber-|
+,,,,,
+13948,k,0,berkapang,dasar,
+13948.1,v,,ber- + <kapang>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13949,k,0,berkapar,dasar,
+13949.1,v,,ber- + <kapar>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13950,k,0,berkaparan,dasar,
+13950.1,v,,ber- + <kapar> + -an,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+13950.2,x,,ber- + <kaparan>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+13950.3,x,,<berkapar> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+13951,k,0,berkapas,dasar,
+13951.1,v,,ber- + <kapas>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13952,k,399,berkapasitas,dasar,
+13952.1,v,,ber- + <kapasitas>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+13952.2,x,,<berkapas> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+13953,k,0,berkapitulasi,dasar,
+13953.1,x,,ber- + <kapitulas> + -i,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+13953.2,v,,ber- + <kapitulasi>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+13953.3,x,,<berkapitulas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+13954,k,6,berkapur,dasar,
+13954.1,v,,ber- + <kapur>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13955,k,0,berkarah,dasar,
+13955.1,v,,ber- + <karah>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13956,k,204,berkarakter,dasar,
+13956.1,v,,ber- + <karakter>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13957,k,4,berkarang,dasar,
+13957.1,v,,ber- + <karang>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13958,k,7,berkaraoke,dasar,
+13958.1,v,,ber- + <karaoke>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13959,k,89,berkarat,dasar,
+13959.1,v,,ber- + <karat>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13960,k,0,berkarate,dasar,
+13960.1,v,,ber- + <karate>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13961,k,0,berkarau,dasar,
+13961.1,v,,ber- + <karau>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13962,v,8,berkarbohidrat,dasar,
+13962.1,v,,ber- + <karbohidrat>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13963,k,3,berkarbon,dasar,
+13963.1,v,,ber- + <karbon>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13964,k,3,berkarbonasi,dasar,
+13964.1,x,,ber- + <karbonas> + -i,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+13964.2,v,,ber- + <karbonasi>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+13964.3,x,,<berkarbonas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+13965,v,3,berkardus-kardus,dasar,
+13965.1,v,,ber- + <kardus> [-] <r>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya) => [27] [RD] ber-|
+,,,,,
+13966,k,10,berkarib,dasar,
+13966.1,v,,ber- + <karib>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13967,k,145,berkarier,dasar,
+13967.1,v,,ber- + <karier>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13968,x,64,berkarir,dasar,
+13968.1,x,,ber- + <karir>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13969,k,10,berkarisma,dasar,
+13969.1,v,,ber- + <karisma>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13970,k,8,berkarpet,dasar,
+13970.1,v,,ber- + <karpet>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13971,k,0,berkarton-karton,dasar,
+13971.1,v,,ber- + <karton> [-] <r>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya) => [27] [RD] ber-|
+,,,,,
+13972,k,3,berkartu,dasar,
+13972.1,v,,ber- + <kartu>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13973,k,0,berkaru,dasar,
+13973.1,v,,ber- + <karu>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13974,k,0,berkarung,dasar,
+13974.1,v,,ber- + <karung>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13975,k,10,berkarung-karung,dasar,
+13975.1,v,,ber- + <karung> [-] <r>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya) => [27] [RD] ber-|
+,,,,,
+13976,k,0,berkarut,dasar,
+13976.1,v,,ber- + <karut>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13977,k,392,berkarya,dasar,
+13977.1,v,,ber- + <karya>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13978,v,5,berkaryalah,dasar,
+13978.1,x,,ber- + <karyalah>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+13978.2,x,,<berkarya> + -lah,bentukan,[31] [FS] -lah + (<all>)
+13978.3,v,,ber- + <karya> + -lah,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya) => [31] [FS] -lah + (<all>)
+,,,,,
+13979,k,503,berkas,dasar,
+13979.1,x,,ber- + <kas>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13980,k,0,berkas cahaya,dasar,
+13980.1,x,,ber- + <kas cahaya>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13981,k,0,berkas data,dasar,
+13981.1,x,,ber- + <kas data>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13982,k,0,berkas isoglos,dasar,
+13982.1,x,,ber- + <kas isoglos>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13983,k,0,berkas komputer,dasar,
+13983.1,x,,ber- + <kas komputer>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13984,k,0,berkas konkordansi,dasar,
+13984.1,x,,ber- + <kas konkordans> + -i,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+13984.2,x,,ber- + <kas konkordansi>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+13984.3,x,,<berkas konkordans> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+13985,k,0,berkas tersendiri,dasar,
+13985.1,x,,ber- + <kas tersendir> + -i,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+13985.2,x,,ber- + <kas tersendiri>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+13985.3,x,,<berkas tersendir> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+13986,k,0,berkas zip,dasar,
+13986.1,x,,ber- + <kas zip>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13987,v,45,berkas-berkas,dasar,
+13987.1,v,,<berkas> [-] <r>,bentukan,[23] [RD] |
+13987.2,x,,ber- + <kas> [-] ber- + <r>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya) => [23] [RD] |
+,,,,,
+13988,v,3,berkas-berkasnya,dasar,
+13988.1,x,,<berkas> [-] <r> + -nya,bentukan,[23] [RD] |
+13988.2,x,,ber- + <kas> [-] ber- + <r> + -nya,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya) => [23] [RD] |
+13988.3,v,,<berkas> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+13988.4,x,,ber- + <kas> [-] ber- + <r> + -nya,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya) => [23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+13989,k,3,berkasak-kusuk,dasar,
+13989.1,v,,ber- + <kasak-kusuk>,bentukan,[Reduplication-Rhyming] => [16] ber- + (<others>) + (-kan;-i;-an;-nya) => [27] [RD] ber-|
+,,,,,
+13990,k,0,berkasan,dasar,
+13990.1,x,,ber- + <kas> + -an,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+13990.2,x,,ber- + <kasan>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+13990.3,v,,<berkas> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+13991,k,0,berkasidah,dasar,
+13991.1,v,,ber- + <kasidah>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13992,k,7,berkasih,dasar,
+13992.1,v,,ber- + <kasih>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13993,k,12,berkasih-kasihan,dasar,
+13993.1,v,,ber- + <kasih> [-] <r> + -an,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya) => [27] [RD] ber-|
+,,,,,
+13994,v,18,berkasnya,dasar,
+13994.1,x,,ber- + <kas> + -nya,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+13994.2,x,,ber- + <kasnya>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+13994.3,v,,<berkas> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+13994.4,x,,ber- + <kas> + -nya,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya) => [34] [SFS] -nya + (<all>)
+,,,,,
+13995,k,6,berkasta,dasar,
+13995.1,v,,ber- + <kasta>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13996,k,4,berkasur,dasar,
+13996.1,v,,ber- + <kasur>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13997,k,6,berkasus,dasar,
+13997.1,v,,ber- + <kasus>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13998,k,1043,berkat,dasar,
+13998.1,x,,ber- + <kat>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+13999,k,1234,berkata,dasar,
+13999.1,v,,ber- + <kata>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+14000,k,0,berkata dua,dasar,
+14000.1,x,,ber- + <kata dua>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+14001,k,152,berkata-kata,dasar,
+14001.1,v,,ber- + <kata> [-] <r>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya) => [27] [RD] ber-|
+,,,,,
+14002,k,0,berkatak-katak,dasar,
+14002.1,v,,ber- + <katak> [-] <r>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya) => [27] [RD] ber-|
+,,,,,
+14003,k,0,berkatalog,dasar,
+14003.1,v,,ber- + <katalog>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+14004,k,42,berkategori,dasar,
+14004.1,x,,ber- + <kategor> + -i,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14004.2,v,,ber- + <kategori>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14004.3,x,,<berkategor> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+14005,v,2,berkati,dasar,
+14005.1,x,,ber- + <kat> + -i,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14005.2,x,,ber- + <kati>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14005.3,v,,<berkat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+14006,v,2,berkatilah,dasar,
+14006.1,x,,ber- + <katilah>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14006.2,x,,<berkati> + -lah,bentukan,[31] [FS] -lah + (<all>)
+14006.3,x,,ber- + <kat> + -i + -lah,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya) => [31] [FS] -lah + (<all>)
+14006.4,x,,ber- + <kati> + -lah,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya) => [31] [FS] -lah + (<all>)
+14006.5,v,,<berkat> + -i + -lah,bentukan,[28] [S] -i + (<all>) => [31] [FS] -lah + (<all>)
+,,,,,
+14007,v,6,berkatnya,dasar,
+14007.1,x,,ber- + <kat> + -nya,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14007.2,x,,ber- + <katnya>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14007.3,v,,<berkat> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+14007.4,x,,ber- + <kat> + -nya,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya) => [34] [SFS] -nya + (<all>)
+,,,,,
+14008,k,2,berkatup,dasar,
+14008.1,v,,ber- + <katup>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+14009,k,0,berkatupung,dasar,
+14009.1,v,,ber- + <katupung>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+14010,k,5,berkaul,dasar,
+14010.1,v,,ber- + <kaul>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+14011,k,6,berkaum,dasar,
+14011.1,v,,ber- + <kaum>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+14012,k,32,berkaus,dasar,
+14012.1,v,,ber- + <kaus>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+14013,k,0,berkaveling,dasar,
+14013.1,v,,ber- + <kaveling>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+14014,k,0,berkawah,dasar,
+14014.1,v,,ber- + <kawah>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+14015,k,0,berkawal,dasar,
+14015.1,v,,ber- + <kawal>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+14016,k,61,berkawan,dasar,
+14016.1,x,,ber- + <kaw> + -an,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14016.2,v,,ber- + <kawan>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14016.3,x,,<berkaw> + -an,bentukan,[38] [S] -an + (<all>)
+14016.4,x,,<berka> + -wan,bentukan,[180] [S] -wan + (<others>)
+14016.5,x,,<berk> + [-wan:-awan],bentukan,[18000001] [S] -wan + (<all>)
+,,,,,
+14017,k,0,berkawan-kawan,dasar,
+14017.1,x,,ber- + <kaw> [-] <r> + -an,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya) => [27] [RD] ber-|
+14017.2,v,,ber- + <kawan> [-] <r>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya) => [27] [RD] ber-|
+,,,,,
+14018,k,0,berkawanan,dasar,
+14018.1,v,,ber- + <kawan> + -an,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14018.2,x,,ber- + <kawanan>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14018.3,x,,<berkawan> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+14019,k,6,berkawat,dasar,
+14019.1,v,,ber- + <kawat>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+14020,k,3,berkawin,dasar,
+14020.1,v,,ber- + <kawin>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+14021,k,0,berkayau,dasar,
+14021.1,v,,ber- + <kayau>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+14022,k,10,berkayu,dasar,
+14022.1,v,,ber- + <kayu>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+14023,k,2,berkayuh,dasar,
+14023.1,v,,ber- + <kayuh>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+,,,,,
+14024,k,0,berkeadaan,dasar,
+14024.1,x,,ber- + <keada> + -an,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14024.2,x,,ber- + <keadaan>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14024.3,v,,ber-+ke- + <ada> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14024.4,x,,ber-+ke- + <adaan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14024.5,x,,<berkeada> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+14025,k,20,berkeadaban,dasar,
+14025.1,x,,ber- + <keadab> + -an,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14025.2,x,,ber- + <keadaban>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14025.3,v,,ber-+ke- + <adab> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14025.4,x,,ber-+ke- + <adaban>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14025.5,x,,<berkeadab> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+14026,k,307,berkeadilan,dasar,
+14026.1,x,,ber- + <keadil> + -an,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14026.2,x,,ber- + <keadilan>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14026.3,v,,ber-+ke- + <adil> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14026.4,x,,ber-+ke- + <adilan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14026.5,x,,<berkeadil> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+14027,k,8,berkeahlian,dasar,
+14027.1,x,,ber- + <keahli> + -an,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14027.2,x,,ber- + <keahlian>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14027.3,v,,ber-+ke- + <ahli> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14027.4,x,,ber-+ke- + <ahlian>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14027.5,x,,<berkeahli> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+14028,v,2,berkeamanan,dasar,
+14028.1,x,,ber- + <keaman> + -an,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14028.2,x,,ber- + <keamanan>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14028.3,v,,ber-+ke- + <aman> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14028.4,x,,ber-+ke- + <amanan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14028.5,x,,<berkeaman> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+14029,k,69,berkebalikan,dasar,
+14029.1,x,,ber- + <kebali> + -kan,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14029.2,x,,ber- + <kebalik> + -an,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14029.3,x,,ber- + <kebalikan>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14029.4,v,,ber-+ke- + <balik> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14029.5,x,,ber-+ke- + <bali> + -kan,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14029.6,x,,ber-+ke- + <balikan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14029.7,x,,<berkebali> + -kan,bentukan,[29] [S] -kan + (<all>)
+14029.8,x,,<berkebalik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+14030,k,98,berkebangsaan,dasar,
+14030.1,x,,ber- + <kebangsa> + -an,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14030.2,x,,ber- + <kebangsaan>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14030.3,v,,ber-+ke- + <bangsa> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14030.4,x,,ber-+ke- + <bangsaan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14030.5,x,,<berkebangsa> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+14031,k,27,berkebaya,dasar,
+14031.1,v,,ber- + <kebaya>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14031.2,x,,ber-+ke- + <baya>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+,,,,,
+14032,k,87,berkeberatan,dasar,
+14032.1,x,,ber- + <keberat> + -an,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14032.2,x,,ber- + <keberatan>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14032.3,v,,ber-+ke- + <berat> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14032.4,x,,ber-+ke- + <beratan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14032.5,x,,<berkeberat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+14033,k,0,berkebetulan,dasar,
+14033.1,x,,ber- + <kebetul> + -an,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14033.2,x,,ber- + <kebetulan>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14033.3,v,,ber-+ke- + <betul> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14033.4,x,,ber-+ke- + <betulan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14033.5,x,,<berkebetul> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+14034,k,0,berkebolehan,dasar,
+14034.1,x,,ber- + <keboleh> + -an,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14034.2,x,,ber- + <kebolehan>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14034.3,v,,ber-+ke- + <boleh> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14034.4,x,,ber-+ke- + <bolehan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14034.5,x,,<berkeboleh> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+14035,v,20,berkebudayaan,dasar,
+14035.1,x,,ber- + <kebudaya> + -an,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14035.2,x,,ber- + <kebudayaan>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14035.3,v,,ber-+ke- + <budaya> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14035.4,x,,ber-+ke- + <budayaan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14035.5,x,,<berkebudaya> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+14036,k,111,berkebun,dasar,
+14036.1,v,,ber- + <kebun>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14036.2,x,,ber-+ke- + <bun>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+,,,,,
+14037,k,84,berkebutuhan,dasar,
+14037.1,x,,ber- + <kebutuh> + -an,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14037.2,x,,ber- + <kebutuhan>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14037.3,v,,ber-+ke- + <butuh> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14037.4,x,,ber-+ke- + <butuhan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14037.5,x,,<berkebutuh> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+14038,k,0,berkebyaran,dasar,
+14038.1,v,,ber- + <kebyar> + -an,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14038.2,x,,ber- + <kebyaran>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14038.3,x,,ber-+ke- + <byar> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14038.4,x,,ber-+ke- + <byaran>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14038.5,x,,<berkebyar> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+14039,k,0,berkecai,dasar,
+14039.1,x,,ber- + <keca> + -i,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14039.2,v,,ber- + <kecai>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14039.3,x,,ber-+ke- + <cai>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14039.4,x,,<berkeca> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+14040,k,0,berkecai-kecai,dasar,
+14040.1,x,,ber- + <keca> [-] <r> + -i,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya) => [27] [RD] ber-|
+14040.2,v,,ber- + <kecai> [-] <r>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya) => [27] [RD] ber-|
+,,,,,
+14041,k,0,berkecak pinggang,dasar,
+14041.1,x,,ber- + <kecak pinggang>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14041.2,x,,ber-+ke- + <cak pinggang>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+,,,,,
+14042,k,0,berkecakapan,dasar,
+14042.1,x,,ber- + <kecakap> + -an,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14042.2,x,,ber- + <kecakapan>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14042.3,v,,ber-+ke- + <cakap> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14042.4,x,,ber-+ke- + <cakapan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14042.5,x,,<berkecakap> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+14043,k,43,berkecambah,dasar,
+14043.1,v,,ber- + <kecambah>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14043.2,x,,ber-+ke- + <cambah>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+,,,,,
+14044,k,112,berkecamuk,dasar,
+14044.1,v,,ber- + <kecamuk>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14044.2,x,,ber-+ke- + <camuk>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+,,,,,
+14045,v,2,berkecamuklah,dasar,
+14045.1,x,,ber- + <kecamuklah>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14045.2,x,,ber-+ke- + <camuklah>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14045.3,x,,<berkecamuk> + -lah,bentukan,[31] [FS] -lah + (<all>)
+14045.4,v,,ber- + <kecamuk> + -lah,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya) => [31] [FS] -lah + (<all>)
+14045.5,x,,ber-+ke- + <camuk> + -lah,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan) => [31] [FS] -lah + (<all>)
+,,,,,
+14046,k,0,berkecandan,dasar,
+14046.1,x,,ber- + <kecand> + -an,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14046.2,v,,ber- + <kecandan>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14046.3,x,,ber-+ke- + <cand> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14046.4,x,,ber-+ke- + <candan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14046.5,x,,<berkecand> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+14047,k,0,berkecap,dasar,
+14047.1,v,,ber- + <kecap>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14047.2,x,,ber-+ke- + <cap>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+,,,,,
+14048,k,0,berkecek-kecek,dasar,
+14048.1,v,,ber- + <kecek> [-] <r>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya) => [27] [RD] ber-|
+,,,,,
+14049,k,11,berkecenderungan,dasar,
+14049.1,x,,ber- + <kecenderung> + -an,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14049.2,x,,ber- + <kecenderungan>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14049.3,v,,ber-+ke- + <cenderung> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14049.4,x,,ber-+ke- + <cenderungan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14049.5,x,,<berkecenderung> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+14050,k,51,berkecepatan,dasar,
+14050.1,x,,ber- + <kecepat> + -an,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14050.2,x,,ber- + <kecepatan>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14050.3,v,,ber-+ke- + <cepat> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14050.4,x,,ber-+ke- + <cepatan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14050.5,x,,<berkecepat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+14051,k,0,berkeciak,dasar,
+14051.1,v,,ber- + <keciak>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14051.2,x,,ber-+ke- + <ciak>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+,,,,,
+14052,k,0,berkecibakan,dasar,
+14052.1,x,,ber- + <keciba> + -kan,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14052.2,v,,ber- + <kecibak> + -an,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14052.3,x,,ber- + <kecibakan>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14052.4,x,,ber-+ke- + <cibak> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14052.5,x,,ber-+ke- + <ciba> + -kan,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14052.6,x,,ber-+ke- + <cibakan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14052.7,x,,<berkeciba> + -kan,bentukan,[29] [S] -kan + (<all>)
+14052.8,x,,<berkecibak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+14053,k,0,berkecil hati,dasar,
+14053.1,x,,ber- + <kecil hat> + -i,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14053.2,x,,ber- + <kecil hati>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14053.3,x,,ber-+ke- + <cil hati>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14053.4,x,,<berkecil hat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+14054,k,2,berkecil-kecil,dasar,
+14054.1,v,,ber- + <kecil> [-] <r>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya) => [27] [RD] ber-|
+,,,,,
+14055,k,0,berkecil-kecilan,dasar,
+14055.1,v,,ber- + <kecil> [-] <r> + -an,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya) => [27] [RD] ber-|
+,,,,,
+14056,k,145,berkecimpung,dasar,
+14056.1,v,,ber- + <kecimpung>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14056.2,x,,ber-+ke- + <cimpung>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+,,,,,
+14057,k,15,berkecipak,dasar,
+14057.1,v,,ber- + <kecipak>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14057.2,x,,ber-+ke- + <cipak>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+,,,,,
+14058,k,0,berkecondongan,dasar,
+14058.1,x,,ber- + <kecondong> + -an,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14058.2,x,,ber- + <kecondongan>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14058.3,v,,ber-+ke- + <condong> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14058.4,x,,ber-+ke- + <condongan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14058.5,x,,<berkecondong> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+14059,k,0,berkecuali,dasar,
+14059.1,x,,ber- + <kecual> + -i,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14059.2,v,,ber- + <kecuali>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14059.3,x,,ber-+ke- + <cuali>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14059.4,x,,<berkecual> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+14060,k,87,berkecukupan,dasar,
+14060.1,x,,ber- + <kecukup> + -an,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14060.2,x,,ber- + <kecukupan>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14060.3,v,,ber-+ke- + <cukup> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14060.4,x,,ber-+ke- + <cukupan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14060.5,x,,<berkecukup> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+14061,k,0,berkecumik,dasar,
+14061.1,v,,ber- + <kecumik>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14061.2,x,,ber-+ke- + <cumik>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+,,,,,
+14062,k,0,berkecup,dasar,
+14062.1,v,,ber- + <kecup>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14062.2,x,,ber-+ke- + <cup>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+,,,,,
+14063,k,3,berkedai,dasar,
+14063.1,x,,ber- + <keda> + -i,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14063.2,v,,ber- + <kedai>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14063.3,x,,ber-+ke- + <dai>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14063.4,x,,<berkeda> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+14064,k,0,berkedal,dasar,
+14064.1,v,,ber- + <kedal>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14064.2,x,,ber-+ke- + <dal>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+,,,,,
+14065,k,0,berkedap-kedip,dasar,
+,,,,,
+14066,k,9,berkedaulatan,dasar,
+14066.1,x,,ber- + <kedaulat> + -an,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14066.2,x,,ber- + <kedaulatan>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14066.3,v,,ber-+ke- + <daulat> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14066.4,x,,ber-+ke- + <daulatan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14066.5,x,,<berkedaulat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+14067,k,0,berkediaman,dasar,
+14067.1,x,,ber- + <kediam> + -an,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14067.2,x,,ber- + <kediaman>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14067.3,v,,ber-+ke- + <diam> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14067.4,x,,ber-+ke- + <diaman>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14067.5,x,,<berkediam> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+14068,k,121,berkedip,dasar,
+14068.1,v,,ber- + <kedip>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14068.2,x,,ber-+ke- + <dip>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+,,,,,
+14069,k,39,berkedip-kedip,dasar,
+14069.1,v,,ber- + <kedip> [-] <r>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya) => [27] [RD] ber-|
+,,,,,
+14070,k,35,berkedok,dasar,
+14070.1,v,,ber- + <kedok>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14070.2,x,,ber-+ke- + <dok>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+,,,,,
+14071,k,587,berkedudukan,dasar,
+14071.1,x,,ber- + <kedudu> + -kan,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14071.2,x,,ber- + <keduduk> + -an,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14071.3,x,,ber- + <kedudukan>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14071.4,v,,ber-+ke- + <duduk> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14071.5,x,,ber-+ke- + <dudu> + -kan,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14071.6,x,,ber-+ke- + <dudukan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14071.7,x,,<berkedudu> + -kan,bentukan,[29] [S] -kan + (<all>)
+14071.8,x,,<berkeduduk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+14072,k,7,berkedut,dasar,
+14072.1,v,,ber- + <kedut>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14072.2,x,,ber-+ke- + <dut>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+,,,,,
+14073,k,2,berkedut-kedut,dasar,
+14073.1,v,,ber- + <kedut> [-] <r>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya) => [27] [RD] ber-|
+,,,,,
+14074,k,92,berkegiatan,dasar,
+14074.1,x,,ber- + <kegiat> + -an,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14074.2,x,,ber- + <kegiatan>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14074.3,v,,ber-+ke- + <giat> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14074.4,x,,ber-+ke- + <giatan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14074.5,x,,<berkegiat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+14075,k,0,berkegunaan,dasar,
+14075.1,x,,ber- + <keguna> + -an,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14075.2,x,,ber- + <kegunaan>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14075.3,v,,ber-+ke- + <guna> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14075.4,x,,ber-+ke- + <gunaan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14075.5,x,,<berkeguna> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+14076,k,85,berkehendak,dasar,
+14076.1,x,,ber- + <kehendak>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14076.2,v,,ber-+ke- + <hendak>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+,,,,,
+14077,k,207,berkeinginan,dasar,
+14077.1,x,,ber- + <keingin> + -an,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14077.2,x,,ber- + <keinginan>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14077.3,v,,ber-+ke- + <ingin> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14077.4,x,,ber-+ke- + <inginan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14077.5,x,,<berkeingin> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+14078,k,0,berkejai,dasar,
+14078.1,x,,ber- + <keja> + -i,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14078.2,v,,ber- + <kejai>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14078.3,x,,ber-+ke- + <jai>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14078.4,x,,<berkeja> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+14079,k,0,berkejang,dasar,
+14079.1,v,,ber- + <kejang>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14079.2,x,,ber-+ke- + <jang>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+,,,,,
+14080,k,0,berkejang-kejang,dasar,
+14080.1,v,,ber- + <kejang> [-] <r>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya) => [27] [RD] ber-|
+,,,,,
+14081,k,0,berkejap,dasar,
+14081.1,v,,ber- + <kejap>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14081.2,x,,ber-+ke- + <jap>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+,,,,,
+14082,k,3,berkejap-kejap,dasar,
+14082.1,v,,ber- + <kejap> [-] <r>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya) => [27] [RD] ber-|
+,,,,,
+14083,k,20,berkejar-kejaran,dasar,
+14083.1,v,,ber- + <kejar> [-] <r> + -an,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya) => [27] [RD] ber-|
+,,,,,
+14084,k,74,berkejaran,dasar,
+14084.1,v,,ber- + <kejar> + -an,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14084.2,x,,ber- + <kejaran>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14084.3,x,,ber-+ke- + <jar> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14084.4,x,,ber-+ke- + <jaran>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14084.5,x,,<berkejar> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+14085,k,0,berkeji,dasar,
+14085.1,x,,ber- + <kej> + -i,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14085.2,v,,ber- + <keji>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14085.3,x,,ber-+ke- + <ji>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14085.4,x,,<berkej> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+14086,k,0,berkeji diri,dasar,
+14086.1,x,,ber- + <keji dir> + -i,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14086.2,x,,ber- + <keji diri>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14086.3,x,,ber-+ke- + <ji diri>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14086.4,x,,<berkeji dir> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+14087,k,0,berkejut,dasar,
+14087.1,v,,ber- + <kejut>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14087.2,x,,ber-+ke- + <jut>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+,,,,,
+14088,k,0,berkejut telinga,dasar,
+14088.1,x,,ber- + <kejut telinga>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14088.2,x,,ber-+ke- + <jut telinga>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+,,,,,
+14089,k,0,berkejutan,dasar,
+14089.1,v,,ber- + <kejut> + -an,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14089.2,x,,ber- + <kejutan>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14089.3,x,,ber-+ke- + <jut> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14089.4,x,,ber-+ke- + <jutan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14089.5,x,,<berkejut> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+14090,k,0,berkekalan,dasar,
+14090.1,v,,ber- + <kekal> + -an,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14090.2,x,,ber- + <kekalan>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14090.3,x,,ber-+ke- + <kal> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14090.4,x,,ber-+ke- + <kalan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14090.5,x,,<berkekal> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+14091,k,0,berkekang,dasar,
+14091.1,v,,ber- + <kekang>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14091.2,x,,ber-+ke- + <kang>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+,,,,,
+14092,k,237,berkekuatan,dasar,
+14092.1,x,,ber- + <kekuat> + -an,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14092.2,x,,ber- + <kekuatan>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14092.3,v,,ber-+ke- + <kuat> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14092.4,x,,ber-+ke- + <kuatan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14092.5,x,,<berkekuat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+14093,k,22,berkekurangan,dasar,
+14093.1,x,,ber- + <kekurang> + -an,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14093.2,x,,ber- + <kekurangan>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14093.3,v,,ber-+ke- + <kurang> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14093.4,x,,ber-+ke- + <kurangan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14093.5,x,,<berkekurang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+14094,k,0,berkelabang,dasar,
+14094.1,v,,ber- + <kelabang>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14094.2,x,,ber-+ke- + <labang>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+,,,,,
+14095,k,0,berkeladak,dasar,
+14095.1,v,,ber- + <keladak>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14095.2,x,,ber-+ke- + <ladak>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+,,,,,
+14096,k,0,berkelah,dasar,
+14096.1,v,,ber- + <kelah>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14096.2,x,,ber-+ke- + <lah>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14096.3,x,,<berke> + -lah,bentukan,[31] [FS] -lah + (<all>)
+14096.4,x,,ber- + <ke> + -lah,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya) => [31] [FS] -lah + (<all>)
+,,,,,
+14097,k,175,berkelahi,dasar,
+14097.1,x,,ber- + <kelah> + -i,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14097.2,v,,ber- + <kelahi>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14097.3,x,,ber-+ke- + <lahi>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14097.4,x,,<berkelah> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+14098,k,3,berkelainan,dasar,
+14098.1,x,,ber- + <kelain> + -an,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14098.2,x,,ber- + <kelainan>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14098.3,v,,ber-+ke- + <lain> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14098.4,x,,ber-+ke- + <lainan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14098.5,x,,<berkelain> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+14099,k,7,berkelak-kelok,dasar,
+14099.1,v,,ber- + <[kelok:kelak-kelok]>,bentukan,[Reduplication-Rhyming] => [16] ber- + (<others>) + (-kan;-i;-an;-nya) => [27] [RD] ber-|
+,,,,,
+14100,k,65,berkelakar,dasar,
+14100.1,v,,ber- + <kelakar>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14100.2,x,,ber-+ke- + <lakar>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+,,,,,
+14101,k,61,berkelakuan,dasar,
+14101.1,x,,ber- + <kelaku> + -an,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14101.2,x,,ber- + <kelakuan>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14101.3,v,,ber-+ke- + <laku> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14101.4,x,,ber-+ke- + <lakuan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14101.5,x,,<berkelaku> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+14102,k,0,berkelaluan,dasar,
+14102.1,x,,ber- + <kelalu> + -an,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14102.2,x,,ber- + <kelaluan>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14102.3,v,,ber-+ke- + <lalu> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14102.4,x,,ber-+ke- + <laluan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14102.5,x,,<berkelalu> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+14103,k,0,berkelam,dasar,
+14103.1,v,,ber- + <kelam>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14103.2,x,,ber-+ke- + <lam>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+,,,,,
+14104,k,3,berkelambu,dasar,
+14104.1,v,,ber- + <kelambu>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14104.2,x,,ber-+ke- + <lambu>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+,,,,,
+14105,k,15,berkelamin,dasar,
+14105.1,v,,ber- + <kelamin>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14105.2,x,,ber-+ke- + <lamin>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+,,,,,
+14106,k,94,berkelana,dasar,
+14106.1,v,,ber- + <kelana>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14106.2,x,,ber-+ke- + <lana>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+,,,,,
+14107,k,0,berkelanjaran,dasar,
+14107.1,v,,ber- + <kelanjar> + -an,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14107.2,x,,ber- + <kelanjaran>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14107.3,x,,ber-+ke- + <lanjar> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14107.4,x,,ber-+ke- + <lanjaran>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14107.5,x,,<berkelanjar> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+14108,k,1452,berkelanjutan,dasar,
+14108.1,x,,ber- + <kelanjut> + -an,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14108.2,x,,ber- + <kelanjutan>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14108.3,v,,ber-+ke- + <lanjut> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14108.4,x,,ber-+ke- + <lanjutan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14108.5,x,,<berkelanjut> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+14109,v,17,berkelap-kelip,dasar,
+14109.1,x,,ber- + <[kelip:kelap-kelip]>,bentukan,[Reduplication-Rhyming] => [16] ber- + (<others>) + (-kan;-i;-an;-nya) => [27] [RD] ber-|
+,,,,,
+14110,k,0,berkelar,dasar,
+14110.1,v,,ber- + <kelar>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14110.2,x,,ber-+ke- + <lar>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+,,,,,
+14111,k,0,berkelar-kelar,dasar,
+14111.1,v,,ber- + <kelar> [-] <r>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya) => [27] [RD] ber-|
+,,,,,
+14112,k,197,berkelas,dasar,
+14112.1,v,,ber- + <kelas>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14112.2,x,,ber-+ke- + <las>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+,,,,,
+14113,k,86,berkelebat,dasar,
+14113.1,v,,ber- + <kelebat>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14113.2,x,,ber-+ke- + <lebat>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+,,,,,
+14114,k,11,berkelebatan,dasar,
+14114.1,v,,ber- + <kelebat> + -an,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14114.2,x,,ber- + <kelebatan>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14114.3,x,,ber-+ke- + <lebat> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14114.4,x,,ber-+ke- + <lebatan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14114.5,x,,<berkelebat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+14115,k,8,berkelebihan,dasar,
+14115.1,x,,ber- + <kelebih> + -an,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14115.2,x,,ber- + <kelebihan>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14115.3,v,,ber-+ke- + <lebih> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14115.4,x,,ber-+ke- + <lebihan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14115.5,x,,<berkelebih> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+14116,k,0,berkeledar,dasar,
+14116.1,v,,ber- + <keledar>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14116.2,x,,ber-+ke- + <ledar>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+,,,,,
+14117,k,0,berkelejat,dasar,
+14117.1,v,,ber- + <kelejat>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14117.2,x,,ber-+ke- + <lejat>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+,,,,,
+14118,k,0,berkelelot,dasar,
+14118.1,v,,ber- + <kelelot>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14118.2,x,,ber-+ke- + <lelot>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+,,,,,
+14119,k,0,berkelemban,dasar,
+14119.1,x,,ber- + <kelemb> + -an,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14119.2,v,,ber- + <kelemban>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14119.3,x,,ber-+ke- + <lemb> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14119.4,x,,ber-+ke- + <lemban>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14119.5,x,,<berkelemb> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+14120,k,0,berkelembapan,dasar,
+14120.1,x,,ber- + <kelembap> + -an,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14120.2,x,,ber- + <kelembapan>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14120.3,v,,ber-+ke- + <lembap> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14120.4,x,,ber-+ke- + <lembapan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14120.5,x,,<berkelembap> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+14121,k,3,berkelenjar,dasar,
+14121.1,v,,ber- + <kelenjar>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14121.2,x,,ber-+ke- + <lenjar>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+,,,,,
+14122,k,0,berkelepai,dasar,
+14122.1,x,,ber- + <kelepa> + -i,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14122.2,v,,ber- + <kelepai>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14122.3,x,,ber-+ke- + <lepai>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14122.4,x,,<berkelepa> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+14123,k,0,berkelepai-kelepai,dasar,
+14123.1,x,,ber- + <kelepa> [-] <r> + -i,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya) => [27] [RD] ber-|
+14123.2,v,,ber- + <kelepai> [-] <r>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya) => [27] [RD] ber-|
+,,,,,
+14124,v,4,berkelepak,dasar,
+14124.1,v,,ber- + <kelepak>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14124.2,x,,ber-+ke- + <lepak>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+,,,,,
+14125,k,0,berkeletah,dasar,
+14125.1,v,,ber- + <keletah>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14125.2,x,,ber-+ke- + <letah>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+,,,,,
+14126,v,3,berkeletak,dasar,
+14126.1,v,,ber- + <keletak>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14126.2,x,,ber-+ke- + <letak>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+,,,,,
+14127,k,251,berkeliaran,dasar,
+14127.1,v,,ber- + <keliar> + -an,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14127.2,x,,ber- + <keliaran>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14127.3,x,,ber-+ke- + <liar> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14127.4,x,,ber-+ke- + <liaran>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14127.5,x,,<berkeliar> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+14128,k,0,berkelibang,dasar,
+14128.1,v,,ber- + <kelibang>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14128.2,x,,ber-+ke- + <libang>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+,,,,,
+14129,k,0,berkelibangan,dasar,
+14129.1,v,,ber- + <kelibang> + -an,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14129.2,x,,ber- + <kelibangan>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14129.3,x,,ber-+ke- + <libang> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14129.4,x,,ber-+ke- + <libangan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14129.5,x,,<berkelibang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+14130,k,0,berkelijak,dasar,
+14130.1,v,,ber- + <kelijak>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14130.2,x,,ber-+ke- + <lijak>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+,,,,,
+14131,k,0,berkelik,dasar,
+14131.1,v,,ber- + <kelik>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14131.2,x,,ber-+ke- + <lik>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+,,,,,
+14132,k,431,berkeliling,dasar,
+14132.1,v,,ber- + <keliling>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14132.2,x,,ber-+ke- + <liling>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+,,,,,
+14133,k,8,berkeliling-keliling,dasar,
+14133.1,v,,ber- + <keliling> [-] <r>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya) => [27] [RD] ber-|
+,,,,,
+14134,k,0,berkelim,dasar,
+14134.1,v,,ber- + <kelim>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14134.2,x,,ber-+ke- + <lim>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+,,,,,
+14135,v,11,berkelimpahan,dasar,
+14135.1,x,,ber- + <kelimpah> + -an,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14135.2,x,,ber- + <kelimpahan>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14135.3,v,,ber-+ke- + <limpah> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14135.4,x,,ber-+ke- + <limpahan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14135.5,x,,<berkelimpah> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+14136,k,61,berkelindan,dasar,
+14136.1,x,,ber- + <kelind> + -an,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14136.2,v,,ber- + <kelindan>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14136.3,x,,ber-+ke- + <lind> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14136.4,x,,ber-+ke- + <lindan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14136.5,x,,<berkelind> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+14137,k,0,berkelintaran,dasar,
+14137.1,v,,ber- + <kelintar> + -an,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14137.2,x,,ber- + <kelintaran>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14137.3,x,,ber-+ke- + <lintar> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14137.4,x,,ber-+ke- + <lintaran>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14137.5,x,,<berkelintar> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+14138,k,7,berkelip,dasar,
+14138.1,v,,ber- + <kelip>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14138.2,x,,ber-+ke- + <lip>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+,,,,,
+14139,k,7,berkelip-kelip,dasar,
+14139.1,v,,ber- + <kelip> [-] <r>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya) => [27] [RD] ber-|
+,,,,,
+14140,v,27,berkelir,dasar,
+14140.1,v,,ber- + <kelir>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14140.2,x,,ber-+ke- + <lir>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+,,,,,
+14141,k,78,berkelit,dasar,
+14141.1,v,,ber- + <kelit>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14141.2,x,,ber-+ke- + <lit>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+,,,,,
+14142,k,0,berkelit-kelit,dasar,
+14142.1,v,,ber- + <kelit> [-] <r>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya) => [27] [RD] ber-|
+,,,,,
+14143,k,0,berkelium,dasar,
+14143.1,v,,ber- + <kelium>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14143.2,x,,ber-+ke- + <lium>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+,,,,,
+14144,k,0,berkelocak,dasar,
+14144.1,v,,ber- + <kelocak>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14144.2,x,,ber-+ke- + <locak>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+,,,,,
+14145,k,0,berkeloid,dasar,
+14145.1,v,,ber- + <keloid>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14145.2,x,,ber-+ke- + <loid>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14145.3,x,,<berkel> + -oid,bentukan,[209] [S] -oid + (<all>)
+,,,,,
+14146,k,53,berkelok,dasar,
+14146.1,v,,ber- + <kelok>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14146.2,x,,ber-+ke- + <lok>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+,,,,,
+14147,k,39,berkelok-kelok,dasar,
+14147.1,v,,ber- + <kelok> [-] <r>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya) => [27] [RD] ber-|
+,,,,,
+14148,k,0,berkelompen,dasar,
+14148.1,v,,ber- + <kelompen>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14148.2,x,,ber-+ke- + <lompen>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+,,,,,
+14149,k,213,berkelompok,dasar,
+14149.1,v,,ber- + <kelompok>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14149.2,x,,ber-+ke- + <lompok>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+,,,,,
+14150,k,3,berkelompok-kelompok,dasar,
+14150.1,v,,ber- + <kelompok> [-] <r>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya) => [27] [RD] ber-|
+,,,,,
+14151,v,2,berkelompoklah,dasar,
+14151.1,x,,ber- + <kelompoklah>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14151.2,x,,ber-+ke- + <lompoklah>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14151.3,x,,<berkelompok> + -lah,bentukan,[31] [FS] -lah + (<all>)
+14151.4,v,,ber- + <kelompok> + -lah,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya) => [31] [FS] -lah + (<all>)
+14151.5,x,,ber-+ke- + <lompok> + -lah,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan) => [31] [FS] -lah + (<all>)
+,,,,,
+14152,k,0,berkelong,dasar,
+14152.1,v,,ber- + <kelong>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14152.2,x,,ber-+ke- + <long>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+,,,,,
+14153,k,0,berkelongsong,dasar,
+14153.1,v,,ber- + <kelongsong>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14153.2,x,,ber-+ke- + <longsong>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+,,,,,
+14154,v,2,berkelontang,dasar,
+14154.1,v,,ber- + <kelontang>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14154.2,x,,ber-+ke- + <lontang>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+,,,,,
+14155,v,8,berkelontangan,dasar,
+14155.1,v,,ber- + <kelontang> + -an,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14155.2,x,,ber- + <kelontangan>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14155.3,x,,ber-+ke- + <lontang> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14155.4,x,,ber-+ke- + <lontangan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14155.5,x,,<berkelontang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+14156,k,6,berkelopak,dasar,
+14156.1,v,,ber- + <kelopak>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14156.2,x,,ber-+ke- + <lopak>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+,,,,,
+14157,v,2,berkelotak,dasar,
+14157.1,x,,ber- + <kelotak>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14157.2,x,,ber-+ke- + <lotak>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+,,,,,
+14158,k,0,berkeloyak,dasar,
+14158.1,v,,ber- + <keloyak>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14158.2,x,,ber-+ke- + <loyak>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+,,,,,
+14159,k,0,berkeluaran,dasar,
+14159.1,v,,ber- + <keluar> + -an,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14159.2,x,,ber- + <keluaran>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14159.3,x,,ber-+ke- + <luar> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14159.4,x,,ber-+ke- + <luaran>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14159.5,x,,<berkeluar> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+14160,k,161,berkeluarga,dasar,
+14160.1,v,,ber- + <keluarga>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14160.2,x,,ber-+ke- + <luarga>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+,,,,,
+14161,k,51,berkeluh,dasar,
+14161.1,v,,ber- + <keluh>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14161.2,x,,ber-+ke- + <luh>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+,,,,,
+14162,k,0,berkeluh kesah,dasar,
+14162.1,x,,ber- + <keluh kesah>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14162.2,x,,ber-+ke- + <luh kesah>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+,,,,,
+14163,v,13,berkeluh-kesah,dasar,
+,,,,,
+14164,k,0,berkeluk,dasar,
+14164.1,v,,ber- + <keluk>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14164.2,x,,ber-+ke- + <luk>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+,,,,,
+14165,k,0,berkeluk-keluk,dasar,
+14165.1,v,,ber- + <keluk> [-] <r>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya) => [27] [RD] ber-|
+,,,,,
+14166,k,0,berkelukur,dasar,
+14166.1,v,,ber- + <kelukur>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14166.2,x,,ber-+ke- + <lukur>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+,,,,,
+14167,k,0,berkelukuran,dasar,
+14167.1,v,,ber- + <kelukur> + -an,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14167.2,x,,ber- + <kelukuran>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14167.3,x,,ber-+ke- + <lukur> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14167.4,x,,ber-+ke- + <lukuran>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)
+14167.5,x,,<berkelukur> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+14168,k,2,berkelumun,dasar,
+14168.1,v,,ber- + <kelumun>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya)
+14168.2,x,,ber-+ke- + <lumun>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [86] [MP] ber-+ke- + (<all>) + (-an;-kan)

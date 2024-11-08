@@ -1,0 +1,1619 @@
+Nomor,KP,Jumlah,Entri,Tipe,Pembentukan
+57707,k,0,kognisi sosial,dasar,
+,,,,,
+57708,v,4,kognisinya,dasar,
+57708.1,v,,<kognisi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+57708.2,x,,<kognis> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+57709,k,358,kognitif,dasar,
+,,,,,
+57710,v,2,kognitivisme,dasar,
+57710.1,x,,<kognitiv> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+57711,k,0,kogongo,dasar,
+,,,,,
+57712,k,0,kohabitasi,dasar,
+57712.1,x,,<kohabitas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57713,k,47,koheren,dasar,
+,,,,,
+57714,k,29,koherensi,dasar,
+57714.1,x,,<koherens> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57715,k,0,koherensi pusat,dasar,
+,,,,,
+57716,v,2,koherensif,dasar,
+,,,,,
+57717,v,2,koherensinya,dasar,
+57717.1,v,,<koherensi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+57717.2,x,,<koherens> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+57718,k,48,kohesi,dasar,
+57718.1,x,,<kohes> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57719,k,0,kohesi cair,dasar,
+,,,,,
+57720,k,0,kohesi sosial,dasar,
+,,,,,
+57721,k,16,kohesif,dasar,
+,,,,,
+57722,v,19,kohesivitas,dasar,
+57722.1,x,,<kohesiv> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+57723,v,2,kohesivitasnya,dasar,
+57723.1,v,,<kohesivitas> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+57723.2,x,,<kohesiv> + -itas + -nya,bentukan,[205] [S] -itas + (<others>) => [34] [SFS] -nya + (<all>)
+,,,,,
+57724,k,0,kohiponim,dasar,
+,,,,,
+57725,k,0,kohir,dasar,
+,,,,,
+57726,k,0,kohlea,dasar,
+,,,,,
+57727,k,0,kohol,dasar,
+,,,,,
+57728,k,0,kohong,dasar,
+,,,,,
+57729,k,2,kohor,dasar,
+,,,,,
+57730,k,0,kohor kelahiran,dasar,
+57730.1,x,,<kohor kelahir> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57731,k,0,kohor perkawinan,dasar,
+57731.1,x,,<kohor perkawin> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57732,k,26,kohort,dasar,
+,,,,,
+57733,k,0,kohu-kohu,dasar,
+57733.1,v,,<kohu> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+57734,k,75,koi,dasar,
+57734.1,x,,<ko> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57735,k,9,koil,dasar,
+,,,,,
+57736,k,0,koimetrofobia,dasar,
+57736.1,x,,<koimetro> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+57737,k,95,koin,dasar,
+,,,,,
+57738,v,11,koin-koin,dasar,
+57738.1,v,,<koin> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+57739,k,3,koinfeksi,dasar,
+57739.1,x,,<koinfeks> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57740,k,0,koinonifobia,dasar,
+57740.1,x,,<koinoni> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+57741,k,4,koinsiden,dasar,
+,,,,,
+57742,k,0,koinsidensi,dasar,
+57742.1,x,,<koinsidens> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57743,k,0,koipuk,dasar,
+,,,,,
+57744,k,3,koit,dasar,
+,,,,,
+57745,k,0,koitofobia,dasar,
+57745.1,x,,<koito> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+57746,k,2,koitus,dasar,
+,,,,,
+57747,k,0,koitus interuptus,dasar,
+,,,,,
+57748,k,0,koiwai,dasar,
+57748.1,x,,<koiwa> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57749,c,27,koja,dasar,khoja
+,,,,,
+57750,k,0,kojah,dasar,
+,,,,,
+57751,k,0,kojang,dasar,
+,,,,,
+57752,k,0,kojoh,dasar,
+,,,,,
+57753,k,0,kojol,dasar,
+,,,,,
+57754,k,0,kojor,dasar,
+,,,,,
+57755,k,972,kok,dasar,
+,,,,,
+57756,k,6,koka,dasar,
+,,,,,
+57757,k,0,koka ana,dasar,
+,,,,,
+57758,k,0,kokah,dasar,
+57758.1,x,,<ko> + -kah,bentukan,[30] [FS] -kah + (<all>)
+,,,,,
+57759,c,21,kokain,dasar,kokaina
+,,,,,
+57760,k,0,kokaina,dasar,
+,,,,,
+57761,k,0,kokainisasi,dasar,
+57761.1,x,,<kokainisas> + -i,bentukan,[28] [S] -i + (<all>)
+57761.2,x,,<kokaini> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+57761.3,x,,<kokainis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+57761.4,v,,<kokain> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+57762,k,0,kokainisme,dasar,
+57762.1,v,,<kokain> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+57763,k,3,kokam,dasar,
+,,,,,
+57764,k,3,kokang,dasar,
+,,,,,
+57765,k,0,kokarde,dasar,
+,,,,,
+57766,k,0,kokarsinogen,dasar,
+,,,,,
+57767,k,8,kokas,dasar,
+,,,,,
+57768,k,0,kokas alam,dasar,
+,,,,,
+57769,k,0,kokas alami,dasar,
+57769.1,x,,<kokas alam> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57770,k,0,kokas metalurgi,dasar,
+57770.1,x,,<kokas metalurg> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57771,k,0,kokas minyak bumi,dasar,
+57771.1,x,,<kokas minyak bum> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57772,k,76,koki,dasar,
+57772.1,x,,<kok> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57773,k,0,kokila,dasar,
+,,,,,
+57774,k,0,kokinea,dasar,
+,,,,,
+57775,k,0,kokiraba,dasar,
+,,,,,
+57776,k,3,koklea,dasar,
+,,,,,
+57777,k,0,kokoda,dasar,
+,,,,,
+57778,k,566,kokoh,dasar,
+,,,,,
+57779,v,5,kokohkan,dasar,
+57779.1,v,,<kokoh> + -kan,bentukan,[29] [S] -kan + (<all>)
+57779.2,x,,<kokohk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57780,v,2,kokohkanlah,dasar,
+57780.1,v,,<kokohkan> + -lah,bentukan,[31] [FS] -lah + (<all>)
+57780.2,v,,<kokoh> + -kan + -lah,bentukan,[29] [S] -kan + (<all>) => [31] [FS] -lah + (<all>)
+57780.3,x,,<kokohk> + -an + -lah,bentukan,[38] [S] -an + (<all>) => [31] [FS] -lah + (<all>)
+,,,,,
+57781,v,2,kokohlah,dasar,
+57781.1,v,,<kokoh> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+57782,v,24,kokohnya,dasar,
+57782.1,v,,<kokoh> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+57783,k,30,kokok,dasar,
+,,,,,
+57784,k,0,kokok beluk,dasar,
+,,,,,
+57785,k,4,kokokan,dasar,
+57785.1,x,,<koko> + -kan,bentukan,[29] [S] -kan + (<all>)
+57785.2,v,,<kokok> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57786,v,2,kokoknya,dasar,
+57786.1,v,,<kokok> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+57787,k,0,kokol,dasar,
+,,,,,
+57788,k,0,kokole,dasar,
+,,,,,
+57789,k,0,kokoleceran,dasar,
+57789.1,x,,<kokolecer> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57790,k,0,kokolitofor,dasar,
+,,,,,
+57791,k,2,kokon,dasar,
+,,,,,
+57792,k,0,kokontraksi antagonis,dasar,
+57792.1,x,,<kokontraksi antagoni> + [-is:-s],bentukan,[177] [S] -is + (i)
+57792.2,x,,<kokontraksi antagon> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+57793,k,0,kokop,dasar,
+,,,,,
+57794,k,0,kokopandan,dasar,
+57794.1,x,,<kokopand> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57795,k,0,kokopit,dasar,
+,,,,,
+57796,k,0,kokosan,dasar,
+57796.1,x,,<kokos> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57797,k,0,kokot,dasar,
+,,,,,
+57798,k,0,kokot betina,dasar,
+,,,,,
+57799,k,0,kokot bisu,dasar,
+,,,,,
+57800,k,0,kokot jantan,dasar,
+57800.1,x,,<kokot jant> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57801,k,0,kokot kunci,dasar,
+57801.1,x,,<kokot kunc> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57802,k,0,kokot pemaut,dasar,
+,,,,,
+57803,k,0,kokpit,dasar,
+,,,,,
+57804,k,0,koksa,dasar,
+,,,,,
+57805,k,0,koksidia,dasar,
+,,,,,
+57806,k,0,koksidiosis,dasar,
+57806.1,x,,<koksidiosi> + [-is:-s],bentukan,[177] [S] -is + (i)
+57806.2,x,,<koksidios> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+57807,k,0,koksitis,dasar,
+57807.1,x,,<koksiti> + [-is:-s],bentukan,[177] [S] -is + (i)
+57807.2,x,,<koksit> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+57808,k,8,koktail,dasar,
+,,,,,
+57809,k,22,kokurikuler,dasar,
+,,,,,
+57810,k,4,kokus,dasar,
+,,,,,
+57811,k,65,kol,dasar,
+,,,,,
+57812,k,0,kol banda,dasar,
+57812.1,x,,<kol ba> + [-anda:-nda],bentukan,[183] [S] -anda + (i;u;a;[k:])
+57812.2,x,,<kol ban> + [-anda:-da],bentukan,[184] [S] -anda + (an)
+57812.3,x,,<kol b> + -anda,bentukan,[185] [S] -anda + (<others>)
+,,,,,
+57813,k,0,kol cina,dasar,
+,,,,,
+57814,k,0,kol merah,dasar,
+,,,,,
+57815,k,0,kol savoi,dasar,
+57815.1,x,,<kol savo> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57816,k,9,kola,dasar,
+,,,,,
+57817,k,715,kolaborasi,dasar,
+57817.1,x,,<kolaboras> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57818,v,2,kolaborasikan,dasar,
+57818.1,v,,<kolaborasi> + -kan,bentukan,[29] [S] -kan + (<all>)
+57818.2,x,,<kolaborasik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57819,v,14,kolaborasinya,dasar,
+57819.1,v,,<kolaborasi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+57819.2,x,,<kolaboras> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+57820,k,99,kolaboratif,dasar,
+,,,,,
+57821,k,32,kolaborator,dasar,
+,,,,,
+57822,k,70,kolagen,dasar,
+,,,,,
+57823,k,3,kolagenase,dasar,
+57823.1,x,,<kolagen> + -ase,bentukan,[210] [S] -ase + (<all>)
+,,,,,
+57824,c,8,kolah,dasar,kulah
+57824.1,x,,<ko> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+57825,k,25,kolak,dasar,
+,,,,,
+57826,k,0,kolak biji salak,dasar,
+,,,,,
+57827,k,36,kolaka,dasar,
+,,,,,
+57828,v,2,kolaknya,dasar,
+57828.1,v,,<kolak> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+57829,k,389,kolam,dasar,
+,,,,,
+57830,k,0,kolam beratap,dasar,
+,,,,,
+57831,k,0,kolam bola,dasar,
+,,,,,
+57832,k,0,kolam ikan,dasar,
+57832.1,x,,<kolam i> + -kan,bentukan,[29] [S] -kan + (<all>)
+57832.2,x,,<kolam ik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57833,k,0,kolam induk,dasar,
+,,,,,
+57834,k,0,kolam kaca,dasar,
+,,,,,
+57835,k,0,kolam pasir,dasar,
+,,,,,
+57836,k,0,kolam pemijahan,dasar,
+57836.1,x,,<kolam pemijah> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57837,k,0,kolam renang,dasar,
+,,,,,
+57838,k,0,kolam renang nirbatas,dasar,
+,,,,,
+57839,k,0,kolam tertutup,dasar,
+,,,,,
+57840,v,20,kolam-kolam,dasar,
+57840.1,v,,<kolam> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+57841,v,11,kolamnya,dasar,
+57841.1,v,,<kolam> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+57842,k,0,kolana,dasar,
+,,,,,
+57843,k,0,kolang-kalik,dasar,
+,,,,,
+57844,k,5,kolang-kaling,dasar,
+57844.1,v,,<kolang-kaling>,bentukan,[Reduplication-Rhyming]
+,,,,,
+57845,k,0,kolano,dasar,
+,,,,,
+57846,k,59,kolaps,dasar,
+,,,,,
+57847,k,0,kolaps kemacetan,dasar,
+57847.1,x,,<kolaps kemacet> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57848,k,0,kolaret,dasar,
+,,,,,
+57849,k,9,kolase,dasar,
+57849.1,x,,<kol> + -ase,bentukan,[210] [S] -ase + (<all>)
+,,,,,
+57850,k,11,kolateral,dasar,
+,,,,,
+57851,k,0,kolator,dasar,
+,,,,,
+57852,k,0,kolbas,dasar,
+,,,,,
+57853,k,0,kolbu,dasar,
+,,,,,
+57854,k,2,kole-kole,dasar,
+57854.1,v,,<kole> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+57855,k,175,kolega,dasar,
+,,,,,
+57856,v,8,kolega-kolega,dasar,
+57856.1,v,,<kolega> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+57857,v,5,kolega-koleganya,dasar,
+57857.1,x,,<kolega> [-] <r> + -nya,bentukan,[23] [RD] |
+57857.2,v,,<kolega> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+57858,v,3,kolegaku,dasar,
+57858.1,v,,<kolega> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+57859,v,147,koleganya,dasar,
+57859.1,v,,<kolega> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+57860,k,39,kolegial,dasar,
+,,,,,
+57861,k,8,kolegialitas,dasar,
+57861.1,v,,<kolegial> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+57862,k,0,koleh-koleh,dasar,
+57862.1,v,,<koleh> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+57863,k,0,kolek,dasar,
+,,,,,
+57864,k,2,kolekalsiferol,dasar,
+,,,,,
+57865,k,0,kolekdol,dasar,
+,,,,,
+57866,k,783,koleksi,dasar,
+57866.1,x,,<koleks> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57867,k,0,koleksi acuan,dasar,
+57867.1,x,,<koleksi acu> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57868,k,0,koleksi kostum,dasar,
+,,,,,
+57869,k,0,koleksi rujukan,dasar,
+57869.1,x,,<koleksi ruju> + -kan,bentukan,[29] [S] -kan + (<all>)
+57869.2,x,,<koleksi rujuk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57870,k,0,koleksi tandon,dasar,
+,,,,,
+57871,v,12,koleksi-koleksi,dasar,
+57871.1,v,,<koleksi> [-] <r>,bentukan,[23] [RD] |
+57871.2,x,,<koleks> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+57872,v,2,koleksi-koleksinya,dasar,
+57872.1,x,,<koleksi> [-] <r> + -nya,bentukan,[23] [RD] |
+57872.2,x,,<koleks> + -i [-] <r> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+57872.3,v,,<koleksi> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+57872.4,x,,<koleks> + -i [-] <r> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+57873,v,92,koleksinya,dasar,
+57873.1,v,,<koleksi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+57873.2,x,,<koleks> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+57874,v,3,kolektabilitas,dasar,
+57874.1,x,,<kolektabil> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+57875,k,4,kolekte,dasar,
+,,,,,
+57876,k,581,kolektif,dasar,
+,,,,,
+57877,c,6,kolektifitas,dasar,kolektivitas
+57877.1,v,,<kolektif> + -itas,bentukan,[182] [S] -itas + ([f:v])
+,,,,,
+57878,k,5,kolektivis,dasar,
+57878.1,x,,<kolektivi> + [-is:-s],bentukan,[177] [S] -is + (i)
+57878.2,x,,<kolektiv> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+57879,k,0,kolektivisasi,dasar,
+57879.1,x,,<kolektivisas> + -i,bentukan,[28] [S] -i + (<all>)
+57879.2,x,,<kolektivi> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+57879.3,x,,<kolektivis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+57879.4,x,,<kolektiv> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+57880,k,12,kolektivisme,dasar,
+57880.1,x,,<kolektiv> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+57881,k,39,kolektivitas,dasar,
+57881.1,x,,<kolektiv> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+57882,k,0,kolektomi,dasar,
+57882.1,x,,<kolektom> + -i,bentukan,[28] [S] -i + (<all>)
+57882.2,x,,<kolek> + -tomi,bentukan,[200] [S] -tomi + (<all>)
+,,,,,
+57883,k,104,kolektor,dasar,
+,,,,,
+57884,v,2,kolektor-kolektor,dasar,
+57884.1,v,,<kolektor> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+57885,v,2,kolektornya,dasar,
+57885.1,v,,<kolektor> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+57886,k,0,kolektron,dasar,
+,,,,,
+57887,k,0,kolembeng,dasar,
+,,,,,
+57888,k,0,kolemia,dasar,
+,,,,,
+57889,k,0,koleng,dasar,
+,,,,,
+57890,k,0,kolenjer,dasar,
+,,,,,
+57891,k,2,koleoptil,dasar,
+,,,,,
+57892,k,0,koleoriza,dasar,
+,,,,,
+57893,k,31,kolera,dasar,
+,,,,,
+57894,k,0,kolera eltor,dasar,
+,,,,,
+57895,k,4,koleris,dasar,
+57895.1,x,,<koleri> + [-is:-s],bentukan,[177] [S] -is + (i)
+57895.2,x,,<koler> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+57896,k,0,kolerofobia,dasar,
+57896.1,x,,<kolero> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+57897,k,7,kolese,dasar,
+,,,,,
+57898,k,0,kolesistektomi,dasar,
+57898.1,x,,<kolesistektom> + -i,bentukan,[28] [S] -i + (<all>)
+57898.2,x,,<kolesistek> + -tomi,bentukan,[200] [S] -tomi + (<all>)
+,,,,,
+57899,k,0,kolesom,dasar,
+,,,,,
+57900,k,0,kolestasis,dasar,
+57900.1,x,,<kolestasi> + [-is:-s],bentukan,[177] [S] -is + (i)
+57900.2,x,,<kolestas> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+57901,k,0,kolesterase,dasar,
+57901.1,x,,<kolester> + -ase,bentukan,[210] [S] -ase + (<all>)
+,,,,,
+57902,k,0,kolesterin,dasar,
+,,,,,
+57903,k,175,kolesterol,dasar,
+57903.1,x,,<kole> + -sterol,bentukan,[208] [S] -sterol + (<all>)
+,,,,,
+57904,k,0,kolesterol baik,dasar,
+,,,,,
+57905,k,0,kolesterol jahat,dasar,
+,,,,,
+57906,k,0,kolesterol lipoprotein densitas tinggi,dasar,
+57906.1,x,,<kolesterol lipoprotein densitas tingg> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57907,k,0,kolesterol serum,dasar,
+,,,,,
+57908,k,0,kolesterol total,dasar,
+,,,,,
+57909,k,0,kolesterolfobia,dasar,
+57909.1,x,,<kolesterol> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+57910,k,0,kolet,dasar,
+,,,,,
+57911,k,9,koli,dasar,
+57911.1,x,,<kol> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57912,k,4,kolibri,dasar,
+57912.1,x,,<kolibr> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57913,k,0,koligasi,dasar,
+57913.1,x,,<koligas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57914,k,2,koligatif,dasar,
+,,,,,
+57915,k,5,kolik,dasar,
+,,,,,
+57916,k,0,kolim,dasar,
+,,,,,
+57917,k,0,kolimasi,dasar,
+57917.1,x,,<kolimas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57918,k,0,kolimator,dasar,
+,,,,,
+57919,c,10,kolin,dasar,kolina
+,,,,,
+57920,k,0,kolina,dasar,
+,,,,,
+57921,k,2,kolinesterase,dasar,
+57921.1,x,,<kolinester> + -ase,bentukan,[210] [S] -ase + (<all>)
+,,,,,
+57922,k,4,kolintang,dasar,
+,,,,,
+57923,k,0,koliseng,dasar,
+,,,,,
+57924,k,10,kolitis,dasar,
+57924.1,x,,<koliti> + [-is:-s],bentukan,[177] [S] -is + (i)
+57924.2,x,,<kolit> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+57925,k,0,kolitis ulsertif,dasar,
+,,,,,
+57926,k,0,kolkhoz,dasar,
+,,,,,
+57927,k,0,kolodion,dasar,
+,,,,,
+57928,k,4,kolofon,dasar,
+,,,,,
+57929,k,0,kologen,dasar,
+,,,,,
+57930,k,20,koloid,dasar,
+57930.1,x,,<kol> + -oid,bentukan,[209] [S] -oid + (<all>)
+,,,,,
+57931,k,0,koloid lempung,dasar,
+,,,,,
+57932,k,0,koloid liofilik,dasar,
+,,,,,
+57933,k,0,koloid liofob,dasar,
+,,,,,
+57934,k,3,koloidal,dasar,
+,,,,,
+57935,c,3,kolok,dasar,kuluk
+,,,,,
+57936,k,0,kolokan,dasar,
+57936.1,x,,<kolo> + -kan,bentukan,[29] [S] -kan + (<all>)
+57936.2,v,,<kolok> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57937,k,5,kolokasi,dasar,
+57937.1,x,,<kolokas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57938,k,0,kolokat,dasar,
+,,,,,
+57939,k,0,koloke,dasar,
+,,,,,
+57940,k,0,kolokium,dasar,
+,,,,,
+57941,k,581,kolom,dasar,
+,,,,,
+57942,k,0,kolom berita,dasar,
+,,,,,
+57943,k,0,kolom dorsal,dasar,
+,,,,,
+57944,k,0,kolom gunjing,dasar,
+,,,,,
+57945,k,0,kolom guyonan,dasar,
+57945.1,x,,<kolom guyon> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57946,k,0,kolom kerucut,dasar,
+,,,,,
+57947,k,0,kolom paralel,dasar,
+,,,,,
+57948,k,0,kolom praktis,dasar,
+57948.1,x,,<kolom prakti> + [-is:-s],bentukan,[177] [S] -is + (i)
+57948.2,x,,<kolom prakt> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+57949,k,0,kolom rangkaian,dasar,
+57949.1,x,,<kolom rangkai> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57950,k,0,kolom utama,dasar,
+,,,,,
+57951,v,25,kolom-kolom,dasar,
+57951.1,v,,<kolom> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+57952,v,4,kolom-kolomnya,dasar,
+57952.1,x,,<kolom> [-] <r> + -nya,bentukan,[23] [RD] |
+57952.2,v,,<kolom> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+57953,k,0,kolomben,dasar,
+,,,,,
+57954,k,98,kolombia,dasar,
+,,,,,
+57955,c,5,kolomnis,dasar,kolumnis
+57955.1,x,,<kolomni> + [-is:-s],bentukan,[177] [S] -is + (i)
+57955.2,x,,<kolomn> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+57956,v,13,kolomnya,dasar,
+57956.1,v,,<kolom> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+57957,k,19,kolon,dasar,
+,,,,,
+57958,k,0,kolone,dasar,
+,,,,,
+57959,k,0,kolone kelima,dasar,
+,,,,,
+57960,k,186,kolonel,dasar,
+,,,,,
+57961,v,3,kolonel-kolonel,dasar,
+57961.1,v,,<kolonel> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+57962,k,144,kolong,dasar,
+,,,,,
+57963,k,0,kolong langit,dasar,
+,,,,,
+57964,k,0,kolong layar,dasar,
+,,,,,
+57965,k,0,kolong timah,dasar,
+,,,,,
+57966,k,3,kolong-kolong,dasar,
+57966.1,v,,<kolong> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+57967,k,3,kolongan,dasar,
+57967.1,v,,<kolong> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57968,v,2,kolongnya,dasar,
+57968.1,v,,<kolong> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+57969,k,156,koloni,dasar,
+57969.1,x,,<kolon> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57970,k,0,koloni jaringan,dasar,
+57970.1,x,,<koloni jaring> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+57971,k,0,koloni rayap,dasar,
+,,,,,
+57972,k,0,koloni sel,dasar,
+,,,,,
+57973,v,7,koloni-koloni,dasar,
+57973.1,v,,<koloni> [-] <r>,bentukan,[23] [RD] |
+57973.2,x,,<kolon> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+57974,k,321,kolonial,dasar,
+,,,,,
+57975,k,21,kolonialis,dasar,
+57975.1,x,,<koloniali> + [-is:-s],bentukan,[177] [S] -is + (i)
+57975.2,x,,<kolonial> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+57976,v,12,kolonialisasi,dasar,
+57976.1,x,,<kolonialisas> + -i,bentukan,[28] [S] -i + (<all>)
+57976.2,x,,<koloniali> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+57976.3,x,,<kolonialis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+57976.4,v,,<kolonial> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+57977,k,120,kolonialisme,dasar,
+57977.1,v,,<kolonial> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+57978,v,8,kolonialnya,dasar,
+57978.1,v,,<kolonial> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+57979,v,2,kolonim,dasar,
+,,,,,
+57980,v,14,koloninya,dasar,
+57980.1,v,,<koloni> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+57980.2,x,,<kolon> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+57981,k,0,kolonis,dasar,
+57981.1,x,,<koloni> + [-is:-s],bentukan,[177] [S] -is + (i)
+57981.2,x,,<kolon> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+57982,k,34,kolonisasi,dasar,
+57982.1,x,,<kolonisas> + -i,bentukan,[28] [S] -i + (<all>)
+57982.2,v,,<koloni> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+57982.3,x,,<kolonis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+57982.4,x,,<kolo> + [-isasi:-nisasi],bentukan,[168] [S] -isasi + (a;e;u;o)
+57982.5,x,,<kolon> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+57983,v,2,kolonisasinya,dasar,
+57983.1,v,,<kolonisasi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+57983.2,x,,<kolonisas> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+57983.3,v,,<koloni> + [-isasi:-sasi] + -nya,bentukan,[166] [S] -isasi + (i) => [34] [SFS] -nya + (<all>)
+57983.4,x,,<kolonis> + [-isasi:-asi] + -nya,bentukan,[167] [S] -isasi + (is) => [34] [SFS] -nya + (<all>)
+57983.5,x,,<kolo> + [-isasi:-nisasi] + -nya,bentukan,[168] [S] -isasi + (a;e;u;o) => [34] [SFS] -nya + (<all>)
+57983.6,x,,<kolon> + -isasi + -nya,bentukan,[169] [S] -isasi + (<others>) => [34] [SFS] -nya + (<all>)
+,,,,,
+57984,k,0,kolonoskop,dasar,
+,,,,,
+57985,k,0,kolonoskopi,dasar,
+57985.1,x,,<kolonoskop> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57986,k,0,kolontong,dasar,
+,,,,,
+57987,k,0,kolonye,dasar,
+,,,,,
+57988,k,18,kolor,dasar,
+,,,,,
+57989,k,19,kolorektal,dasar,
+,,,,,
+57990,k,0,kolorimeter,dasar,
+57990.1,x,,<kolori> + -meter,bentukan,[189] [S] -meter + (<all>)
+,,,,,
+57991,k,5,kolorimetri,dasar,
+57991.1,x,,<kolorimetr> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+57992,v,2,kolorku,dasar,
+57992.1,v,,<kolor> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+57993,v,3,kolornya,dasar,
+57993.1,v,,<kolor> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+57994,k,49,kolosal,dasar,
+,,,,,
+57995,v,2,kolosalnya,dasar,
+57995.1,v,,<kolosal> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+57996,k,0,koloseum,dasar,
+,,,,,
+57997,k,0,kolosom,dasar,
+,,,,,
+57998,k,0,kolostomi,dasar,
+57998.1,x,,<kolostom> + -i,bentukan,[28] [S] -i + (<all>)
+57998.2,x,,<kolos> + -tomi,bentukan,[200] [S] -tomi + (<all>)
+,,,,,
+57999,k,10,kolostrum,dasar,
+,,,,,
+58000,k,52,kolot,dasar,
+,,,,,
+58001,k,0,kolotipe,dasar,
+,,,,,
+58002,k,0,kolpitis,dasar,
+58002.1,x,,<kolpiti> + [-is:-s],bentukan,[177] [S] -is + (i)
+58002.2,x,,<kolpit> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+58003,k,0,kolpofobia,dasar,
+58003.1,x,,<kolpo> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+58004,k,0,kolpoplasti,dasar,
+58004.1,x,,<kolpoplast> + -i,bentukan,[28] [S] -i + (<all>)
+58004.2,x,,<kolpo> + -plasti,bentukan,[199] [S] -plasti + (<all>)
+,,,,,
+58005,k,0,kolpopoiesis,dasar,
+58005.1,x,,<kolpopoiesi> + [-is:-s],bentukan,[177] [S] -is + (i)
+58005.2,x,,<kolpopoies> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+58006,k,0,kolporafi,dasar,
+58006.1,x,,<kolporaf> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+58007,k,0,kolporeksi,dasar,
+58007.1,x,,<kolporeks> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+58008,k,0,kolportir,dasar,
+,,,,,
+58009,k,0,kolposistiplasti,dasar,
+58009.1,x,,<kolposistiplast> + -i,bentukan,[28] [S] -i + (<all>)
+58009.2,x,,<kolposisti> + -plasti,bentukan,[199] [S] -plasti + (<all>)
+,,,,,
+58010,k,0,kolposistosel,dasar,
+,,,,,
+58011,k,0,kolposkopi,dasar,
+58011.1,x,,<kolposkop> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+58012,k,0,kolpotomi,dasar,
+58012.1,x,,<kolpotom> + -i,bentukan,[28] [S] -i + (<all>)
+58012.2,x,,<kolpo> + -tomi,bentukan,[200] [S] -tomi + (<all>)
+,,,,,
+58013,k,0,kolt,dasar,
+,,,,,
+58014,k,0,kolum,dasar,
+,,,,,
+58015,k,0,kolumbarium,dasar,
+,,,,,
+58016,k,0,kolumela,dasar,
+,,,,,
+58017,k,58,kolumnis,dasar,
+58017.1,x,,<kolumni> + [-is:-s],bentukan,[177] [S] -is + (i)
+58017.2,x,,<kolumn> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+58018,k,0,kolumnus,dasar,
+,,,,,
+58019,k,297,kolusi,dasar,
+58019.1,x,,<kolus> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+58020,k,0,koluvial,dasar,
+,,,,,
+58021,k,0,koluvium,dasar,
+,,,,,
+58022,k,27,kom,dasar,
+,,,,,
+58023,c,325,koma,dasar,kurkuma
+,,,,,
+58024,k,0,koma diabetikum,dasar,
+,,,,,
+58025,k,0,komaliwan,dasar,
+58025.1,x,,<komaliw> + -an,bentukan,[38] [S] -an + (<all>)
+58025.2,x,,<komali> + -wan,bentukan,[180] [S] -wan + (<others>)
+,,,,,
+58026,k,4,koman,dasar,
+58026.1,x,,<kom> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+58027,k,380,komandan,dasar,
+58027.1,x,,<komand> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+58028,v,6,komandan-komandan,dasar,
+58028.1,v,,<komandan> [-] <r>,bentukan,[23] [RD] |
+58028.2,x,,<komand> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+58029,v,34,komandannya,dasar,
+58029.1,v,,<komandan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+58029.2,x,,<komand> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+58030,k,4,komandemen,dasar,
+,,,,,
+58031,k,77,komanditer,dasar,
+,,,,,
+58032,k,431,komando,dasar,
+,,,,,
+58033,k,0,komando kendali,dasar,
+58033.1,x,,<komando kendal> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+58034,v,11,komandonya,dasar,
+58034.1,v,,<komando> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+58035,v,3,komanya,dasar,
+58035.1,v,,<koma> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+58036,k,0,komaran,dasar,
+58036.1,x,,<komar> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+58037,c,9,komariah,dasar,kamariah
+58037.1,x,,<komar> + -iah,bentukan,[175] [S] -iah + (<others>)
+,,,,,
+58038,k,60,komat-kamit,dasar,
+58038.1,v,,<komat-kamit>,bentukan,[Reduplication-Rhyming]
+,,,,,
+58039,k,0,kombai,dasar,
+58039.1,x,,<komba> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+58040,k,0,kombangan,dasar,
+58040.1,v,,<kombang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+58041,k,3,kombat,dasar,
+,,,,,
+58042,k,30,kombatan,dasar,
+58042.1,v,,<kombat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+58043,k,957,kombinasi,dasar,
+58043.1,x,,<kombinas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+58044,k,0,kombinasi tubuh,dasar,
+,,,,,
+58045,v,5,kombinasi-kombinasi,dasar,
+58045.1,v,,<kombinasi> [-] <r>,bentukan,[23] [RD] |
+58045.2,x,,<kombinas> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+58046,v,3,kombinasi-kombinasinya,dasar,
+58046.1,x,,<kombinasi> [-] <r> + -nya,bentukan,[23] [RD] |
+58046.2,x,,<kombinas> + -i [-] <r> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+58046.3,v,,<kombinasi> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+58046.4,x,,<kombinas> + -i [-] <r> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+58047,v,23,kombinasinya,dasar,
+58047.1,v,,<kombinasi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+58047.2,x,,<kombinas> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+58048,v,2,kombinatif,dasar,
+,,,,,
+58049,k,3,kombo,dasar,
+,,,,,
+58050,k,0,komboloi,dasar,
+58050.1,x,,<kombolo> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+58051,k,0,kombor,dasar,
+,,,,,
+58052,k,0,komboran,dasar,
+58052.1,v,,<kombor> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+58053,k,0,kombu,dasar,
+,,,,,
+58054,k,0,kombukha,dasar,
+,,,,,
+58055,k,0,kombusio,dasar,
+,,,,,
+58056,k,203,komedi,dasar,
+58056.1,x,,<komed> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+58057,k,0,komedi air mata,dasar,
+,,,,,
+58058,k,0,komedi alternatif,dasar,
+,,,,,
+58059,k,0,komedi bangsawan,dasar,
+58059.1,x,,<komedi bangsaw> + -an,bentukan,[38] [S] -an + (<all>)
+58059.2,x,,<komedi bangsa> + -wan,bentukan,[180] [S] -wan + (<others>)
+58059.3,x,,<komedi bangs> + [-wan:-awan],bentukan,[18000001] [S] -wan + (<all>)
+,,,,,
+58060,k,0,komedi banyolan,dasar,
+58060.1,x,,<komedi banyol> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+58061,k,0,komedi baru,dasar,
+,,,,,
+58062,k,0,komedi heroik,dasar,
+,,,,,
+58063,k,0,komedi humor,dasar,
+,,,,,
+58064,k,0,komedi intrik,dasar,
+,,,,,
+58065,k,0,komedi kalang kabut,dasar,
+,,,,,
+58066,k,0,komedi lama,dasar,
+,,,,,
+58067,k,0,komedi musikal,dasar,
+,,,,,
+58068,k,0,komedi pendidikan,dasar,
+58068.1,x,,<komedi pendidi> + -kan,bentukan,[29] [S] -kan + (<all>)
+58068.2,x,,<komedi pendidik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+58069,k,0,komedi realis,dasar,
+58069.1,x,,<komedi reali> + [-is:-s],bentukan,[177] [S] -is + (i)
+58069.2,x,,<komedi real> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+58070,k,0,komedi rendah,dasar,
+,,,,,
+58071,k,0,komedi romantik,dasar,
+,,,,,
+58072,k,0,komedi satire,dasar,
+,,,,,
+58073,k,0,komedi sentimental,dasar,
+,,,,,
+58074,k,0,komedi situasi,dasar,
+58074.1,x,,<komedi situas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+58075,k,0,komedi sopan santun,dasar,
+,,,,,
+58076,k,0,komedi stambul,dasar,
+,,,,,
+58077,k,0,komedi statis,dasar,
+58077.1,x,,<komedi stati> + [-is:-s],bentukan,[177] [S] -is + (i)
+58077.2,x,,<komedi stat> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+58078,k,0,komedi tengah,dasar,
+,,,,,
+58079,k,0,komedi tinggi,dasar,
+58079.1,x,,<komedi tingg> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+58080,v,4,komedi-komedi,dasar,
+58080.1,v,,<komedi> [-] <r>,bentukan,[23] [RD] |
+58080.2,x,,<komed> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+58081,k,0,komedia,dasar,
+,,,,,
+58082,k,38,komedian,dasar,
+58082.1,v,,<komedi> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+58083,k,0,komedian tunggal,dasar,
+,,,,,
+58084,k,0,komediator,dasar,
+,,,,,
+58085,v,2,komedik,dasar,
+,,,,,
+58086,v,8,komedinya,dasar,
+58086.1,v,,<komedi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+58086.2,x,,<komed> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+58087,k,10,komedo,dasar,
+,,,,,
+58088,k,2,komedogenik,dasar,
+,,,,,
+58089,k,12,komen,dasar,
+,,,,,
+58090,v,2,komen-komen,dasar,
+58090.1,v,,<komen> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+58091,k,0,komendur,dasar,
+,,,,,
+58092,k,0,komeng,dasar,
+,,,,,
+58093,k,2,komensal,dasar,
+,,,,,
+58094,k,2,komensalisme,dasar,
+58094.1,v,,<komensal> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+58095,k,697,komentar,dasar,
+,,,,,
+58096,v,42,komentar-komentar,dasar,
+58096.1,v,,<komentar> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+58097,v,4,komentar-komentarnya,dasar,
+58097.1,x,,<komentar> [-] <r> + -nya,bentukan,[23] [RD] |
+58097.2,v,,<komentar> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+58098,t,2,komentarin,dasar,mengomentari
+,,,,,
+58099,v,10,komentarku,dasar,
+58099.1,v,,<komentar> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+58100,v,11,komentarmu,dasar,
+58100.1,v,,<komentar> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+,,,,,
+58101,v,79,komentarnya,dasar,
+58101.1,v,,<komentar> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+58102,k,53,komentator,dasar,
+,,,,,
+58103,k,56,komering,dasar,
+,,,,,
+58104,k,827,komersial,dasar,
+,,,,,
+58105,k,81,komersialisasi,dasar,
+58105.1,x,,<komersialisas> + -i,bentukan,[28] [S] -i + (<all>)
+58105.2,x,,<komersiali> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+58105.3,x,,<komersialis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+58105.4,v,,<komersial> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+58106,k,0,komersialisasi percabulan,dasar,
+58106.1,x,,<komersialisasi percabul> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+58107,v,2,komersialisasinya,dasar,
+58107.1,v,,<komersialisasi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+58107.2,x,,<komersialisas> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+58107.3,x,,<komersiali> + [-isasi:-sasi] + -nya,bentukan,[166] [S] -isasi + (i) => [34] [SFS] -nya + (<all>)
+58107.4,x,,<komersialis> + [-isasi:-asi] + -nya,bentukan,[167] [S] -isasi + (is) => [34] [SFS] -nya + (<all>)
+58107.5,v,,<komersial> + -isasi + -nya,bentukan,[169] [S] -isasi + (<others>) => [34] [SFS] -nya + (<all>)
+,,,,,
+58108,k,0,komersialisme,dasar,
+58108.1,v,,<komersial> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+58109,k,0,komersialitas,dasar,
+58109.1,v,,<komersial> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+58110,v,9,komersialnya,dasar,
+58110.1,v,,<komersial> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+58111,c,140,komersil,dasar,komersial
+,,,,,
+58112,k,18,komet,dasar,
+,,,,,
+58113,k,0,komet halley,dasar,
+,,,,,
+58114,k,0,komet nonperiodik,dasar,
+,,,,,
+58115,k,0,komet periodik,dasar,
+,,,,,
+58116,k,0,kometofobia,dasar,
+58116.1,x,,<kometo> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+58117,k,0,komfortabel,dasar,
+,,,,,
+58118,k,15,komidi,dasar,
+58118.1,x,,<komid> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+58119,k,0,komidi gambar,dasar,
+,,,,,
+58120,k,0,komidi putar,dasar,
+,,,,,
+58121,k,140,komik,dasar,
+,,,,,
+58122,k,0,komik anak-anak,dasar,
+,,,,,
+58123,k,0,komik dewasa,dasar,
+,,,,,
+58124,k,0,komik jepang,dasar,
+,,,,,
+58125,k,0,komik wayang,dasar,
+,,,,,
+58126,v,7,komik-komik,dasar,
+58126.1,v,,<komik> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+58127,v,2,komik-komiknya,dasar,
+58127.1,x,,<komik> [-] <r> + -nya,bentukan,[23] [RD] |
+58127.2,v,,<komik> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+58128,k,3,komika,dasar,
+,,,,,
+58129,k,15,komikal,dasar,
+,,,,,
+58130,v,14,komiknya,dasar,
+58130.1,v,,<komik> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+58131,k,12,komikus,dasar,
+,,,,,
+58132,k,0,kominusi,dasar,
+58132.1,x,,<kominus> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+58133,k,6,komis,dasar,
+58133.1,x,,<komi> + [-is:-s],bentukan,[177] [S] -is + (i)
+58133.2,x,,<kom> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+58134,k,0,komisar,dasar,
+,,,,,
+58135,k,17,komisariat,dasar,
+,,,,,
+58136,k,0,komisariat tinggi,dasar,
+58136.1,x,,<komisariat tingg> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+58137,k,907,komisaris,dasar,
+58137.1,x,,<komisari> + [-is:-s],bentukan,[177] [S] -is + (i)
+58137.2,x,,<komisar> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+58138,k,0,komisaris agung,dasar,
+,,,,,
+58139,k,0,komisaris besar polisi,dasar,
+58139.1,x,,<komisaris besar polis> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+58140,k,0,komisaris jenderal polisi,dasar,
+58140.1,x,,<komisaris jenderal polis> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+58141,k,0,komisaris polisi,dasar,
+58141.1,x,,<komisaris polis> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+58142,k,0,komisaris tinggi,dasar,
+58142.1,x,,<komisaris tingg> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+58143,k,2632,komisi,dasar,
+58143.1,x,,<komis> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+58144,k,0,komisi awal,dasar,
+,,,,,
+58145,k,0,komisi bank,dasar,
+,,,,,
+58146,k,0,komisi bersyarat,dasar,
+,,,,,
+58147,k,0,komisi dagang,dasar,
+,,,,,
+58148,k,0,komisi kebenaran dan rekonsiliasi,dasar,
+58148.1,x,,<komisi kebenaran dan rekonsilias> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+58149,k,0,komisi keuntungan,dasar,
+58149.1,x,,<komisi keuntung> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+58150,k,0,komisi lanjutan,dasar,
+58150.1,x,,<komisi lanjut> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+58151,k,0,komisi nasional ham,dasar,
+,,,,,
+58152,k,0,komisi pajak,dasar,
+,,,,,
+58153,k,0,komisi pemasaran,dasar,
+58153.1,x,,<komisi pemasar> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+58154,k,0,komisi pembinaan,dasar,
+58154.1,x,,<komisi pembina> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+58155,k,0,komisi pemilihan umum,dasar,
+,,,,,
+58156,k,0,komisi penjamin,dasar,
+,,,,,
+58157,k,0,komisi produksi baru,dasar,
+,,,,,
+58158,k,0,komisi reasuransi,dasar,
+58158.1,x,,<komisi reasurans> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+58159,k,0,komisi sisihan,dasar,
+58159.1,x,,<komisi sisih> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+58160,k,0,komisi tahun pertama,dasar,
+,,,,,
+58161,k,0,komisi tahunan,dasar,
+58161.1,x,,<komisi tahun> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+58162,k,0,komisi yudisial,dasar,
+,,,,,
+58163,v,22,komisi-komisi,dasar,
+58163.1,v,,<komisi> [-] <r>,bentukan,[23] [RD] |
+58163.2,x,,<komis> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+58164,v,15,komisinya,dasar,
+58164.1,v,,<komisi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+58164.2,x,,<komis> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+58165,k,375,komisioner,dasar,
+,,,,,
+58166,k,0,komisura,dasar,
+,,,,,
+58167,k,958,komite,dasar,
+,,,,,
+58168,k,0,komite kredit,dasar,
+,,,,,
+58169,k,0,komite kuotasi,dasar,
+58169.1,x,,<komite kuotas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+58170,v,14,komite-komite,dasar,
+58170.1,v,,<komite> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+58171,k,2087,komitmen,dasar,
+,,,,,
+58172,v,8,komitmen-komitmen,dasar,
+58172.1,v,,<komitmen> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+58173,k,0,komkoma,dasar,
+,,,,,
+58174,k,23,komodifikasi,dasar,
+58174.1,x,,<komodifikas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+58175,v,2,komodifikasinya,dasar,
+58175.1,v,,<komodifikasi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+58175.2,x,,<komodifikas> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+58176,k,947,komoditas,dasar,
+58176.1,x,,<komod> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+58177,k,0,komoditas andalan,dasar,
+58177.1,x,,<komoditas andal> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+58178,v,14,komoditas-komoditas,dasar,
+58178.1,v,,<komoditas> [-] <r>,bentukan,[23] [RD] |
+58178.2,x,,<komod> + -itas [-] <r> + -itas,bentukan,[205] [S] -itas + (<others>) => [23] [RD] |
+,,,,,
+58179,v,14,komoditasnya,dasar,
+58179.1,v,,<komoditas> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+58179.2,x,,<komod> + -itas + -nya,bentukan,[205] [S] -itas + (<others>) => [34] [SFS] -nya + (<all>)
+,,,,,
+58180,c,220,komoditi,dasar,komoditas
+58180.1,x,,<komodit> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+58181,t,3,komoditinya,dasar,komoditasnya
+58181.1,v,,<komoditi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+58181.2,x,,<komodit> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+58182,k,56,komodo,dasar,
+,,,,,
+58183,k,16,komodor,dasar,
+,,,,,
+58184,k,0,komolom,dasar,
+,,,,,
+58185,k,32,komorbid,dasar,
+,,,,,
+58186,k,16,komorbiditas,dasar,
+58186.1,v,,<komorbid> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+58187,k,2,komoro,dasar,
+,,,,,
+58188,d,0,komosisi,dasar,
+58188.1,x,,<komosis> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+58189,k,0,kompa,dasar,
+,,,,,
+58190,k,342,kompak,dasar,
+,,,,,
+58191,k,3,kompaksi,dasar,
+58191.1,x,,<kompaks> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+58192,k,0,kompang,dasar,
+,,,,,
+58193,k,0,kompangan,dasar,
+58193.1,v,,<kompang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+58194,k,0,kompanyon,dasar,
+,,,,,
+58195,k,70,komparasi,dasar,
+58195.1,x,,<komparas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+58196,k,0,komparasi sosial,dasar,
+,,,,,
+58197,k,143,komparatif,dasar,
+,,,,,
+58198,k,2,komparator,dasar,
+,,,,,
+58199,k,0,komparisi,dasar,
+58199.1,x,,<komparis> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+58200,k,59,kompartemen,dasar,
+,,,,,
+58201,v,6,kompartemenisasi,dasar,
+58201.1,x,,<kompartemenisas> + -i,bentukan,[28] [S] -i + (<all>)
+58201.2,x,,<kompartemeni> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+58201.3,x,,<kompartemenis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+58201.4,x,,<komparteme> + [-isasi:-nisasi],bentukan,[168] [S] -isasi + (a;e;u;o)
+58201.5,v,,<kompartemen> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+58202,k,1182,kompas,dasar,
+,,,,,
+58203,v,3,kompasnya,dasar,
+58203.1,v,,<kompas> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+58204,k,69,kompatibel,dasar,
+,,,,,
+58205,k,29,kompatibilitas,dasar,
+58205.1,x,,<kompatibil> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+58206,v,2,kompatibilitasnya,dasar,
+58206.1,v,,<kompatibilitas> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+58206.2,x,,<kompatibil> + -itas + -nya,bentukan,[205] [S] -itas + (<others>) => [34] [SFS] -nya + (<all>)
+,,,,,
+58207,k,3,kompatriot,dasar,
+,,,,,
+58208,k,4,kompendium,dasar,
+,,,,,
+58209,k,38,kompeni,dasar,
+58209.1,x,,<kompen> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+58210,v,2,kompeni-kompeni,dasar,
+58210.1,v,,<kompeni> [-] <r>,bentukan,[23] [RD] |
+58210.2,x,,<kompen> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+58211,k,0,kompenian,dasar,
+58211.1,x,,<kompeni> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+58212,k,466,kompensasi,dasar,
+58212.1,x,,<kompensas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+58213,k,0,kompes,dasar,
+,,,,,
+58214,k,0,kompet,dasar,
+,,,,,
+58215,k,409,kompeten,dasar,
+,,,,,
+58216,k,1440,kompetensi,dasar,
+58216.1,x,,<kompetens> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+58217,k,0,kompetensi guru,dasar,
+,,,,,
+58218,k,0,kompetensi minimal,dasar,
+,,,,,
+58219,v,9,kompetensi-kompetensi,dasar,
+58219.1,v,,<kompetensi> [-] <r>,bentukan,[23] [RD] |
+58219.2,x,,<kompetens> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+58220,v,107,kompetensinya,dasar,
+58220.1,v,,<kompetensi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+58220.2,x,,<kompetens> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+58221,k,1350,kompetisi,dasar,
+58221.1,x,,<kompetis> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+58222,k,0,kompetisi antarnegara,dasar,
+,,,,,
+58223,k,0,kompetisi nonharga,dasar,
+,,,,,
+58224,k,0,kompetisi penuh,dasar,
+,,,,,
+58225,k,0,kompetisi sosial,dasar,
+,,,,,
+58226,v,9,kompetisi-kompetisi,dasar,
+58226.1,v,,<kompetisi> [-] <r>,bentukan,[23] [RD] |
+58226.2,x,,<kompetis> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+58227,v,20,kompetisinya,dasar,
+58227.1,v,,<kompetisi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+58227.2,x,,<kompetis> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+58228,k,669,kompetitif,dasar,
+,,,,,
+58229,k,203,kompetitor,dasar,
+,,,,,
+58230,v,4,kompetitor-kompetitor,dasar,
+58230.1,v,,<kompetitor> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+58231,v,52,kompetitornya,dasar,
+58231.1,v,,<kompetitor> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+58232,k,39,kompi,dasar,
+58232.1,x,,<komp> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+58233,k,0,kompi bantuan,dasar,
+58233.1,x,,<kompi bantu> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+58234,k,0,kompi markas,dasar,
+,,,,,
+58235,k,0,kompi senapan,dasar,
+58235.1,x,,<kompi senap> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+58236,v,2,kompi-kompi,dasar,
+58236.1,v,,<kompi> [-] <r>,bentukan,[23] [RD] |
+58236.2,x,,<komp> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+58237,k,89,kompilasi,dasar,
+58237.1,x,,<kompilas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+58238,k,0,kompilasi terpisah,dasar,
+,,,,,
+58239,k,0,kompilator,dasar,
+,,,,,
+58240,k,0,kompilator bahasa,dasar,
+,,,,,
+58241,k,0,kompilator java,dasar,
+,,,,,
+58242,k,0,kompiler,dasar,
+,,,,,
+58243,k,111,komplain,dasar,
+,,,,,
+58244,v,2,komplainlah,dasar,
+58244.1,v,,<komplain> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+58245,c,245,komplek,dasar,kompleks
+,,,,,
+58246,k,1642,kompleks,dasar,
+,,,,,
+58247,k,0,kompleks demensia aids,dasar,
+,,,,,
+58248,k,0,kompleks industri,dasar,
+58248.1,x,,<kompleks industr> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+58249,k,0,kompleks keibuan,dasar,
+58249.1,x,,<kompleks keibu> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+58250,k,0,kompleks olahraga,dasar,
+,,,,,
+58251,k,0,kompleks peluncuran,dasar,
+58251.1,x,,<kompleks peluncur> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+58252,k,0,kompleks perkantoran,dasar,
+58252.1,x,,<kompleks perkantor> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+58253,k,0,kompleks perumahan,dasar,
+58253.1,x,,<kompleks perumah> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+58254,k,0,kompleks rendah diri,dasar,
+58254.1,x,,<kompleks rendah dir> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+58255,k,0,kompleks terkait aids,dasar,
+,,,,,
+58256,v,9,kompleks-kompleks,dasar,
+58256.1,v,,<kompleks> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+58257,k,0,kompleksifitas,dasar,
+58257.1,x,,<kompleksif> + -itas,bentukan,[182] [S] -itas + ([f:v])
+,,,,,
+58258,k,355,kompleksitas,dasar,
+58258.1,v,,<kompleks> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+58259,k,0,kompleksitas perangkat lunak,dasar,
+,,,,,
+58260,k,0,kompleksitas siklomatik,dasar,
+,,,,,
+58261,k,32,komplemen,dasar,
+,,,,,
+58262,k,3,komplementaritas,dasar,
+58262.1,x,,<komplementar> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+58263,k,55,komplementer,dasar,
+,,,,,
+58264,k,97,komplet,dasar,
+,,,,,
+58265,k,2,komplians,dasar,
+,,,,,
+58266,k,269,komplikasi,dasar,
+58266.1,x,,<komplikas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+58267,k,0,komplikasi spiral,dasar,
+,,,,,
+58268,v,21,komplikasinya,dasar,
+58268.1,v,,<komplikasi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+58268.2,x,,<komplikas> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+58269,k,0,komplikatif,dasar,
+,,,,,
+58270,k,6,komplimen,dasar,
+,,,,,
+58271,k,0,komplimentaris,dasar,
+58271.1,x,,<komplimentari> + [-is:-s],bentukan,[177] [S] -is + (i)
+58271.2,x,,<komplimentar> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+58272,c,53,komplit,dasar,komplet
+,,,,,
+58273,v,2,komplitnya,dasar,
+58273.1,v,,<komplit> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+58274,k,0,komplot,dasar,
+,,,,,
+58275,k,59,komplotan,dasar,
+58275.1,v,,<komplot> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+58276,v,11,komplotannya,dasar,
+58276.1,v,,<komplotan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+58276.2,v,,<komplot> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+58277,k,5,kompon,dasar,
+,,,,,
+58278,k,1908,komponen,dasar,
+,,,,,
+58279,k,0,komponen ageostrofik,dasar,
+,,,,,
+58280,k,0,komponen golak-galik,dasar,
+,,,,,
+58281,k,0,komponen kontraktil,dasar,
+,,,,,
+58282,k,0,komponen langkisau,dasar,
+,,,,,
+58283,k,0,komponen modal,dasar,
+,,,,,
+58284,k,0,komponen produk,dasar,
+,,,,,
+58285,v,155,komponen-komponen,dasar,
+58285.1,v,,<komponen> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+58286,k,0,kompong,dasar,
+,,,,,
+58287,k,11,komponis,dasar,
+58287.1,x,,<komponi> + [-is:-s],bentukan,[177] [S] -is + (i)
+58287.2,x,,<kompon> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+58288,k,135,kompor,dasar,
+,,,,,
+58289,k,0,kompor gas,dasar,
+,,,,,
+58290,k,0,kompor induksi,dasar,
+58290.1,x,,<kompor induks> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+58291,k,0,kompor listrik,dasar,
+,,,,,
+58292,k,0,kompor mitanol,dasar,
+,,,,,
+58293,k,0,kompor portabel,dasar,
+,,,,,
+58294,k,0,kompor tanam,dasar,
+,,,,,
+58295,v,2,kompor-kompor,dasar,
+58295.1,v,,<kompor> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+58296,v,8,kompornya,dasar,
+58296.1,v,,<kompor> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+58297,k,78,kompos,dasar,
+,,,,,
+58298,k,0,kompos cair,dasar,
+,,,,,
+58299,k,28,komposer,dasar,
+,,,,,
+58300,k,880,komposisi,dasar,
+58300.1,x,,<komposis> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+58301,k,0,komposisi kimia curahan,dasar,
+58301.1,x,,<komposisi kimia curah> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+58302,k,0,komposisi lemak tubuh,dasar,
+,,,,,
+58303,k,0,komposisi tubuh,dasar,
+,,,,,
+58304,k,0,komposisi visual,dasar,
+,,,,,
+58305,v,64,komposisinya,dasar,
+58305.1,v,,<komposisi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+58305.2,x,,<komposis> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+58306,k,72,komposit,dasar,
+,,,,,
+58307,k,0,kompositum,dasar,
+,,,,,
+58308,k,8,komposter,dasar,
+,,,,,
+58309,d,0,kompotitif,dasar,
+,,,,,
+58310,k,3,komprador,dasar,
+,,,,,
+58311,k,8,komprang,dasar,
+,,,,,
+58312,k,932,komprehensif,dasar,
+,,,,,
+58313,k,18,kompres,dasar,
+,,,,,
+58314,k,64,kompresi,dasar,
+58314.1,x,,<kompres> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+58315,k,0,kompresi berkas,dasar,
+,,,,,
+58316,k,0,kompresi citra,dasar,
+,,,,,
+58317,v,2,kompresif,dasar,
+,,,,,
+58318,v,3,kompresinya,dasar,
+58318.1,v,,<kompresi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+58318.2,x,,<kompres> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+58319,k,33,kompresor,dasar,
+,,,,,
+58320,k,0,kompresor udara,dasar,
+,,,,,
+58321,k,0,kompri,dasar,
+58321.1,x,,<kompr> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+58322,k,214,kompromi,dasar,
+58322.1,x,,<komprom> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+58323,v,2,kompromi-kompromi,dasar,
+58323.1,v,,<kompromi> [-] <r>,bentukan,[23] [RD] |
+58323.2,x,,<komprom> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+58324,v,4,komprominya,dasar,
+58324.1,v,,<kompromi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+58324.2,x,,<komprom> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)

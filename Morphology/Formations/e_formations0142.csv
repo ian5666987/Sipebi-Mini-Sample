@@ -1,0 +1,1644 @@
+Nomor,KP,Jumlah,Entri,Tipe,Pembentukan
+67775,x,0,masyarat,dasar,
+,,,,,
+67776,k,0,masyarilharam,dasar,
+,,,,,
+67777,k,36,masygul,dasar,
+,,,,,
+67778,v,3,masygulnya,dasar,
+67778.1,v,,<masygul> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+67779,k,0,masyhadat,dasar,
+,,,,,
+67780,k,0,masyhaf,dasar,
+,,,,,
+67781,k,55,masyhur,dasar,
+,,,,,
+67782,k,0,masyrik,dasar,
+,,,,,
+67783,k,21,masyuk,dasar,
+,,,,,
+67784,v,2,masyuknya,dasar,
+67784.1,v,,<masyuk> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+67785,c,66,mat,dasar,emat
+,,,,,
+67786,k,0,mat-matan,dasar,
+67786.1,v,,<mat> [-] <r> + -an,bentukan,[23] [RD] |
+,,,,,
+67787,k,5065,mata,dasar,
+,,,,,
+67788,k,0,mata acara,dasar,
+,,,,,
+67789,k,0,mata air,dasar,
+,,,,,
+67790,k,0,mata air berjeda,dasar,
+,,,,,
+67791,k,0,mata air mineral,dasar,
+,,,,,
+67792,k,0,mata air mineral panas,dasar,
+,,,,,
+67793,k,0,mata air panas,dasar,
+,,,,,
+67794,k,0,mata air rekahan,dasar,
+67794.1,x,,<mata air rekah> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67795,k,0,mata air rembesan,dasar,
+67795.1,x,,<mata air rembes> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67796,k,0,mata air retakan,dasar,
+67796.1,x,,<mata air reta> + -kan,bentukan,[29] [S] -kan + (<all>)
+67796.2,x,,<mata air retak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67797,k,0,mata air sesar,dasar,
+,,,,,
+67798,k,0,mata alamat,dasar,
+,,,,,
+67799,k,0,mata anggaran,dasar,
+67799.1,x,,<mata anggar> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67800,k,0,mata angin,dasar,
+,,,,,
+67801,k,0,mata ayak,dasar,
+,,,,,
+67802,k,0,mata ayam,dasar,
+,,,,,
+67803,k,0,mata badai,dasar,
+67803.1,x,,<mata bada> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67804,k,0,mata bajak,dasar,
+,,,,,
+67805,k,0,mata batin,dasar,
+,,,,,
+67806,k,0,mata bedil,dasar,
+,,,,,
+67807,k,0,mata beliung,dasar,
+,,,,,
+67808,k,0,mata benda,dasar,
+,,,,,
+67809,k,0,mata betung,dasar,
+,,,,,
+67810,k,0,mata bisul,dasar,
+,,,,,
+67811,k,0,mata biuku,dasar,
+67811.1,x,,<mata biu> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+67812,k,0,mata boneka,dasar,
+,,,,,
+67813,k,0,mata bor,dasar,
+,,,,,
+67814,k,0,mata buatan,dasar,
+67814.1,x,,<mata buat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67815,k,0,mata bugil,dasar,
+,,,,,
+67816,k,0,mata buku,dasar,
+67816.1,x,,<mata bu> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+67817,k,0,mata bulan,dasar,
+67817.1,x,,<mata bul> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67818,k,0,mata cangkul,dasar,
+,,,,,
+67819,k,0,mata cempering,dasar,
+,,,,,
+67820,k,0,mata cincin,dasar,
+,,,,,
+67821,k,0,mata dacing,dasar,
+,,,,,
+67822,k,0,mata dagangan,dasar,
+67822.1,x,,<mata dagang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67823,k,0,mata dekat,dasar,
+,,,,,
+67824,k,0,mata duitan,dasar,
+67824.1,x,,<mata duit> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67825,k,0,mata dunia,dasar,
+,,,,,
+67826,k,0,mata faset,dasar,
+,,,,,
+67827,k,0,mata gawai,dasar,
+67827.1,x,,<mata gawa> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67828,k,0,mata gelap,dasar,
+,,,,,
+67829,k,0,mata gunting,dasar,
+,,,,,
+67830,k,0,mata hati,dasar,
+67830.1,x,,<mata hat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67831,k,0,mata hidup,dasar,
+,,,,,
+67832,k,0,mata huruf,dasar,
+,,,,,
+67833,k,0,mata ikan,dasar,
+67833.1,x,,<mata i> + -kan,bentukan,[29] [S] -kan + (<all>)
+67833.2,x,,<mata ik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67834,k,0,mata itik,dasar,
+,,,,,
+67835,k,0,mata jala,dasar,
+,,,,,
+67836,k,0,mata jalan,dasar,
+67836.1,x,,<mata jal> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67837,k,0,mata jaring,dasar,
+,,,,,
+67838,k,0,mata jauh,dasar,
+,,,,,
+67839,k,0,mata kail,dasar,
+,,,,,
+67840,k,0,mata kain,dasar,
+,,,,,
+67841,k,0,mata kakab,dasar,
+,,,,,
+67842,k,0,mata kakap,dasar,
+,,,,,
+67843,k,0,mata kaki,dasar,
+67843.1,x,,<mata kak> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67844,k,0,mata kayu,dasar,
+,,,,,
+67845,k,0,mata kemung,dasar,
+,,,,,
+67846,k,0,mata kepala,dasar,
+,,,,,
+67847,k,0,mata keranjang,dasar,
+,,,,,
+67848,k,0,mata kerek,dasar,
+,,,,,
+67849,k,0,mata ketiga,dasar,
+,,,,,
+67850,k,0,mata kucing,dasar,
+,,,,,
+67851,k,0,mata kuliah,dasar,
+67851.1,x,,<mata kul> + -iah,bentukan,[175] [S] -iah + (<others>)
+,,,,,
+67852,k,0,mata lelah,dasar,
+67852.1,x,,<mata le> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+67853,k,0,mata lipas,dasar,
+,,,,,
+67854,k,0,mata listrik,dasar,
+,,,,,
+67855,k,0,mata luka,dasar,
+,,,,,
+67856,k,0,mata majemuk,dasar,
+,,,,,
+67857,k,0,mata malas,dasar,
+,,,,,
+67858,k,0,mata nenek,dasar,
+,,,,,
+67859,k,0,mata nurani,dasar,
+67859.1,x,,<mata nuran> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67860,k,0,mata pahat,dasar,
+,,,,,
+67861,k,0,mata pajak,dasar,
+,,,,,
+67862,k,0,mata panah,dasar,
+,,,,,
+67863,k,0,mata pancing,dasar,
+,,,,,
+67864,k,0,mata panda,dasar,
+67864.1,x,,<mata pa> + [-anda:-nda],bentukan,[183] [S] -anda + (i;u;a;[k:])
+67864.2,x,,<mata pan> + [-anda:-da],bentukan,[184] [S] -anda + (an)
+67864.3,x,,<mata p> + -anda,bentukan,[185] [S] -anda + (<others>)
+,,,,,
+67865,k,0,mata pedang,dasar,
+,,,,,
+67866,k,0,mata pedoman,dasar,
+67866.1,x,,<mata pedom> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67867,k,0,mata pelajaran,dasar,
+67867.1,x,,<mata pelajar> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67868,d,0,mata pencaharian,dasar,
+67868.1,x,,<mata pencahari> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67869,k,0,mata pencarian,dasar,
+67869.1,x,,<mata pencari> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67870,k,0,mata penghidupan,dasar,
+67870.1,x,,<mata penghidup> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67871,k,0,mata perdagangan,dasar,
+67871.1,x,,<mata perdagang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67872,k,0,mata petir,dasar,
+,,,,,
+67873,k,0,mata piano,dasar,
+,,,,,
+67874,k,0,mata pisau,dasar,
+,,,,,
+67875,k,0,mata pukat,dasar,
+,,,,,
+67876,k,0,mata rantai,dasar,
+67876.1,x,,<mata ranta> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67877,k,0,mata sabun,dasar,
+,,,,,
+67878,k,0,mata sangkur,dasar,
+,,,,,
+67879,k,0,mata sapi,dasar,
+67879.1,x,,<mata sap> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67880,k,0,mata sipit,dasar,
+,,,,,
+67881,k,0,mata surat,dasar,
+,,,,,
+67882,k,0,mata susu,dasar,
+,,,,,
+67883,k,0,mata telanjang,dasar,
+,,,,,
+67884,k,0,mata telinga,dasar,
+,,,,,
+67885,k,0,mata tenggala,dasar,
+,,,,,
+67886,k,0,mata tersuruk,dasar,
+,,,,,
+67887,k,0,mata timbangan,dasar,
+67887.1,x,,<mata timbang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67888,k,0,mata tombak,dasar,
+,,,,,
+67889,k,0,mata tunas,dasar,
+,,,,,
+67890,k,0,mata uang,dasar,
+,,,,,
+67891,k,0,mata uang acuan,dasar,
+67891.1,x,,<mata uang acu> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67892,k,0,mata uang logam,dasar,
+,,,,,
+67893,k,0,mata wayang,dasar,
+,,,,,
+67894,k,143,mata-mata,dasar,
+67894.1,v,,<mata> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+67895,v,5,mata-matanya,dasar,
+67895.1,x,,<mata> [-] <r> + -nya,bentukan,[23] [RD] |
+67895.2,v,,<mata> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+67896,k,29,matador,dasar,
+,,,,,
+67897,k,0,matagas,dasar,
+,,,,,
+67898,k,1357,matahari,dasar,
+67898.1,x,,<matahar> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67899,k,0,matahari beralih,dasar,
+,,,,,
+67900,k,0,matahari berayun,dasar,
+,,,,,
+67901,k,0,matahari biru,dasar,
+,,,,,
+67902,k,0,matahari gelincir,dasar,
+,,,,,
+67903,k,0,matahari hidup,dasar,
+,,,,,
+67904,k,0,matahari lengser,dasar,
+,,,,,
+67905,k,0,matahari masuk,dasar,
+,,,,,
+67906,k,0,matahari mati,dasar,
+67906.1,x,,<matahari mat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67907,k,0,matahari miring,dasar,
+,,,,,
+67908,k,0,matahari naik,dasar,
+,,,,,
+67909,d,0,matahari pagi,dasar,
+67909.1,x,,<matahari pag> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67910,k,0,matahari sudah condong,dasar,
+,,,,,
+67911,k,0,matahari tenggelam,dasar,
+,,,,,
+67912,k,0,matahari terbenam,dasar,
+,,,,,
+67913,k,0,matahari terbit,dasar,
+,,,,,
+67914,v,2,matahari-matahari,dasar,
+67914.1,v,,<matahari> [-] <r>,bentukan,[23] [RD] |
+67914.2,x,,<matahar> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+67915,v,4,matahariku,dasar,
+67915.1,v,,<matahari> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+67915.2,x,,<matahar> + -i + -ku,bentukan,[28] [S] -i + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+67916,v,8,mataharinya,dasar,
+67916.1,v,,<matahari> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+67916.2,x,,<matahar> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+67917,k,0,matahiang,dasar,
+,,,,,
+67918,k,0,matakao,dasar,
+,,,,,
+67919,v,365,mataku,dasar,
+67919.1,v,,<mata> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+67920,k,0,matalamat,dasar,
+,,,,,
+67921,k,0,mataliur,dasar,
+,,,,,
+67922,v,157,matamu,dasar,
+67922.1,v,,<mata> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+,,,,,
+67923,k,19,matan,dasar,
+67923.1,x,,<mat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67924,k,850,matang,dasar,
+,,,,,
+67925,k,0,matang sempurna,dasar,
+,,,,,
+67926,v,17,matang-matang,dasar,
+67926.1,v,,<matang> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+67927,v,13,matangkan,dasar,
+67927.1,v,,<matang> + -kan,bentukan,[29] [S] -kan + (<all>)
+67927.2,x,,<matangk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67928,v,2,matanglah,dasar,
+67928.1,v,,<matang> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+67929,v,14,matangnya,dasar,
+67929.1,v,,<matang> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+67930,v,1147,matanya,dasar,
+67930.1,v,,<mata> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+67931,k,261,mataram,dasar,
+,,,,,
+67932,k,0,matarumah,dasar,
+,,,,,
+67933,k,0,matbat,dasar,
+,,,,,
+67934,k,20,mate,dasar,
+,,,,,
+67935,k,480,matematika,dasar,
+,,,,,
+67936,k,0,matematika keuangan,dasar,
+67936.1,x,,<matematika keuang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67937,k,0,matematika murni,dasar,
+67937.1,x,,<matematika murn> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67938,k,0,matematika terapan,dasar,
+67938.1,x,,<matematika terap> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67939,k,13,matematikawan,dasar,
+67939.1,x,,<matematikaw> + -an,bentukan,[38] [S] -an + (<all>)
+67939.2,v,,<matematika> + -wan,bentukan,[180] [S] -wan + (<others>)
+67939.3,x,,<matematik> + [-wan:-awan],bentukan,[18000001] [S] -wan + (<all>)
+,,,,,
+67940,k,0,matematikus,dasar,
+,,,,,
+67941,k,141,matematis,dasar,
+67941.1,x,,<matemati> + [-is:-s],bentukan,[177] [S] -is + (i)
+67941.2,x,,<matemat> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+67942,c,4,mateng,dasar,matang
+,,,,,
+67943,c,75,materai,dasar,meterai
+67943.1,x,,<matera> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67944,k,1740,materi,dasar,
+67944.1,x,,<mater> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67945,k,0,materi abu-abu,dasar,
+,,,,,
+67946,k,0,materi ajar,dasar,
+,,,,,
+67947,k,0,materi kepartikelan,dasar,
+67947.1,x,,<materi kepartikel> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67948,k,0,materi kepartikelan organik,dasar,
+,,,,,
+67949,k,0,materi kepartikelan tersuspensi,dasar,
+67949.1,x,,<materi kepartikelan tersuspens> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67950,k,0,materi organik,dasar,
+,,,,,
+67951,k,0,materi partikulat tersuspensi,dasar,
+67951.1,x,,<materi partikulat tersuspens> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67952,k,0,materi tersuspensi,dasar,
+67952.1,x,,<materi tersuspens> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67953,k,1170,material,dasar,
+,,,,,
+67954,k,17,materialis,dasar,
+67954.1,x,,<materiali> + [-is:-s],bentukan,[177] [S] -is + (i)
+67954.2,v,,<material> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+67955,k,5,materialisasi,dasar,
+67955.1,x,,<materialisas> + -i,bentukan,[28] [S] -i + (<all>)
+67955.2,x,,<materiali> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+67955.3,x,,<materialis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+67955.4,v,,<material> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+67956,k,52,materialisme,dasar,
+67956.1,v,,<material> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+67957,k,20,materialistis,dasar,
+67957.1,x,,<materialisti> + [-is:-s],bentukan,[177] [S] -is + (i)
+67957.2,x,,<materialist> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+67958,k,20,materiel,dasar,
+,,,,,
+67959,c,127,materiil,dasar,materiel
+,,,,,
+67960,c,42,materil,dasar,materiel
+,,,,,
+67961,k,33,maternal,dasar,
+,,,,,
+67962,k,2490,mati,dasar,
+67962.1,x,,<mat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67963,k,0,mati akal,dasar,
+,,,,,
+67964,k,0,mati andar,dasar,
+,,,,,
+67965,k,0,mati angin,dasar,
+,,,,,
+67966,k,0,mati ayam,dasar,
+,,,,,
+67967,k,0,mati bebang,dasar,
+,,,,,
+67968,k,0,mati beragan,dasar,
+67968.1,x,,<mati berag> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67969,k,0,mati beranak,dasar,
+,,,,,
+67970,k,0,mati berangai,dasar,
+67970.1,x,,<mati beranga> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67971,k,0,mati berkalang tanah,dasar,
+,,,,,
+67972,k,0,mati bersebab,dasar,
+,,,,,
+67973,k,0,mati bongkong,dasar,
+,,,,,
+67974,k,0,mati bujang,dasar,
+,,,,,
+67975,k,0,mati dini,dasar,
+67975.1,x,,<mati din> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67976,k,0,mati garing,dasar,
+,,,,,
+67977,k,0,mati gaya,dasar,
+,,,,,
+67978,k,0,mati haid,dasar,
+,,,,,
+67979,k,0,mati hati,dasar,
+67979.1,x,,<mati hat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67980,k,0,mati hukumullah,dasar,
+67980.1,x,,<mati hukumul> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+67981,k,0,mati kaku,dasar,
+67981.1,x,,<mati ka> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+67982,k,0,mati katak,dasar,
+,,,,,
+67983,k,0,mati kebebangan,dasar,
+67983.1,x,,<mati kebebang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67984,k,0,mati kejang,dasar,
+,,,,,
+67985,k,0,mati kejat,dasar,
+,,,,,
+67986,k,0,mati kekam,dasar,
+,,,,,
+67987,k,0,mati kekat,dasar,
+,,,,,
+67988,k,0,mati konyol,dasar,
+,,,,,
+67989,k,0,mati kumlah,dasar,
+67989.1,x,,<mati kum> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+67990,k,0,mati kutu,dasar,
+,,,,,
+67991,k,0,mati langkah,dasar,
+67991.1,x,,<mati lang> + -kah,bentukan,[30] [FS] -kah + (<all>)
+,,,,,
+67992,k,0,mati lelas,dasar,
+,,,,,
+67993,k,0,mati lemas,dasar,
+,,,,,
+67994,k,0,mati lidah,dasar,
+,,,,,
+67995,k,0,mati mawai,dasar,
+67995.1,x,,<mati mawa> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67996,k,0,mati pengap,dasar,
+,,,,,
+67997,k,0,mati percuma,dasar,
+,,,,,
+67998,k,0,mati pucuk,dasar,
+,,,,,
+67999,k,0,mati raga,dasar,
+,,,,,
+68000,k,0,mati rasa,dasar,
+,,,,,
+68001,k,0,mati samar,dasar,
+,,,,,
+68002,k,0,mati seladang,dasar,
+,,,,,
+68003,k,0,mati semu,dasar,
+68003.1,x,,<mati se> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+,,,,,
+68004,k,0,mati separuh,dasar,
+,,,,,
+68005,k,0,mati sesat,dasar,
+,,,,,
+68006,k,0,mati sirik,dasar,
+,,,,,
+68007,k,0,mati suri,dasar,
+68007.1,x,,<mati sur> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+68008,k,0,mati syahid,dasar,
+,,,,,
+68009,k,0,mati tegang,dasar,
+,,,,,
+68010,k,0,mati terbebang,dasar,
+,,,,,
+68011,k,17,mati-mati,dasar,
+68011.1,v,,<mati> [-] <r>,bentukan,[23] [RD] |
+68011.2,x,,<mat> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+68012,k,144,mati-matian,dasar,
+68012.1,v,,<mati> [-] <r> + -an,bentukan,[23] [RD] |
+68012.2,x,,<mat> + -i [-] <r> + -i + -an,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+68013,k,0,matine,dasar,
+,,,,,
+68014,k,16,matius,dasar,
+,,,,,
+68015,k,0,matlak,dasar,
+,,,,,
+68016,k,4,matoa,dasar,
+,,,,,
+68017,k,2,maton,dasar,
+,,,,,
+68018,k,60,matra,dasar,
+,,,,,
+68019,k,30,matras,dasar,
+,,,,,
+68020,k,6,matre,dasar,
+,,,,,
+68021,k,0,matres,dasar,
+,,,,,
+68022,k,0,matriarkal,dasar,
+,,,,,
+68023,k,0,matriarkat,dasar,
+,,,,,
+68024,k,171,matriks,dasar,
+,,,,,
+68025,k,0,matriks asli,dasar,
+68025.1,x,,<matriks asl> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+68026,k,0,matriks baris,dasar,
+68026.1,x,,<matriks bari> + [-is:-s],bentukan,[177] [S] -is + (i)
+68026.2,x,,<matriks bar> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+68027,k,0,matriks bujur sangkar,dasar,
+,,,,,
+68028,k,0,matriks elementer,dasar,
+,,,,,
+68029,k,0,matriks koefisien,dasar,
+,,,,,
+68030,k,0,matriks kolom,dasar,
+,,,,,
+68031,k,0,matriks kompleks,dasar,
+,,,,,
+68032,k,0,matriks nol,dasar,
+,,,,,
+68033,k,0,matriks pita,dasar,
+,,,,,
+68034,k,0,matriks real,dasar,
+,,,,,
+68035,k,0,matriks serupa,dasar,
+,,,,,
+68036,k,0,matriks singular,dasar,
+,,,,,
+68037,k,0,matriks taksingular,dasar,
+,,,,,
+68038,k,3,matrikulasi,dasar,
+68038.1,x,,<matrikulas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+68039,k,16,matrilineal,dasar,
+,,,,,
+68040,k,0,matrilokal,dasar,
+,,,,,
+68041,k,2,matris,dasar,
+68041.1,x,,<matri> + [-is:-s],bentukan,[177] [S] -is + (i)
+68041.2,x,,<matr> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+68042,k,0,matrisida,dasar,
+,,,,,
+68043,k,0,matronim,dasar,
+,,,,,
+68044,k,0,matros,dasar,
+,,,,,
+68045,k,6,matu,dasar,
+,,,,,
+68046,k,0,matun,dasar,
+,,,,,
+68047,k,34,matur,dasar,
+,,,,,
+68048,k,18,maturasi,dasar,
+68048.1,x,,<maturas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+68049,k,27,maturitas,dasar,
+68049.1,v,,<matur> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+68050,k,0,matutinal,dasar,
+,,,,,
+68051,k,5123,mau,dasar,
+,,,,,
+68052,k,0,mau apa,dasar,
+,,,,,
+68053,k,0,mau tak mau,dasar,
+,,,,,
+68054,k,0,mau(pun),dasar,
+,,,,,
+68055,k,0,mauizah,dasar,
+,,,,,
+68056,k,10,maujud,dasar,
+,,,,,
+68057,k,0,maujudat,dasar,
+,,,,,
+68058,k,0,maukhid,dasar,
+,,,,,
+68059,k,0,maukif,dasar,
+,,,,,
+68060,k,2,maukuf,dasar,
+,,,,,
+68061,k,2,maula,dasar,
+,,,,,
+68062,k,0,maula kiwi,dasar,
+68062.1,x,,<maula kiw> + -i,bentukan,[28] [S] -i + (<all>)
+68062.2,x,,<maula ki> + -wi,bentukan,[174] [S] -wi + (<others>)
+,,,,,
+68063,k,0,maulage,dasar,
+,,,,,
+68064,k,0,maulai,dasar,
+68064.1,x,,<maula> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+68065,k,252,maulana,dasar,
+,,,,,
+68066,k,0,maulaya,dasar,
+,,,,,
+68067,k,0,maulhayat,dasar,
+,,,,,
+68068,k,71,maulid,dasar,
+,,,,,
+68069,k,0,maulid rasul,dasar,
+,,,,,
+68070,k,0,maulidurasul,dasar,
+,,,,,
+68071,k,0,maulua,dasar,
+,,,,,
+68072,k,16,maulud,dasar,
+,,,,,
+68073,k,4,mauludan,dasar,
+68073.1,v,,<maulud> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+68074,k,43,maung,dasar,
+,,,,,
+68075,k,9566,maupun,dasar,
+,,,,,
+68076,k,13,mauritania,dasar,
+,,,,,
+68077,k,16,mauritius,dasar,
+,,,,,
+68078,k,5,mausoleum,dasar,
+,,,,,
+68079,k,0,mausoleum cinta,dasar,
+,,,,,
+68080,k,303,maut,dasar,
+,,,,,
+68081,k,0,mauz,dasar,
+,,,,,
+68082,k,7,mawadah,dasar,
+,,,,,
+68083,k,0,mawaih,dasar,
+,,,,,
+68084,c,186,mawar,dasar,tawar
+,,,,,
+68085,k,0,mawar gurun,dasar,
+,,,,,
+68086,k,0,mawar laut,dasar,
+,,,,,
+68087,k,47,mawas,dasar,
+,,,,,
+68088,k,0,mawas diri,dasar,
+68088.1,x,,<mawas dir> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+68089,k,0,mawat,dasar,
+,,,,,
+68090,k,0,maweda,dasar,
+,,,,,
+68091,k,0,mawes,dasar,
+,,,,,
+68092,k,2,mawin,dasar,
+,,,,,
+68093,k,8,mawon,dasar,
+,,,,,
+68094,k,0,mawut,dasar,
+,,,,,
+68095,k,468,maya,dasar,
+,,,,,
+68096,k,0,maya-maya,dasar,
+68096.1,v,,<maya> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+68097,k,0,mayam,dasar,
+,,,,,
+68098,k,35,mayang,dasar,
+,,,,,
+68099,k,0,mayang mekar,dasar,
+,,,,,
+68100,k,0,mayang mengurai,dasar,
+68100.1,x,,<mayang mengura> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+68101,k,0,mayang sondek,dasar,
+,,,,,
+68102,k,0,mayangda,dasar,
+,,,,,
+68103,k,0,mayantara,dasar,
+,,,,,
+68104,k,28,mayapada,dasar,
+,,,,,
+68105,c,2,mayar,dasar,kelemayar
+,,,,,
+68106,k,0,mayas,dasar,
+,,,,,
+68107,k,357,mayat,dasar,
+,,,,,
+68108,k,0,mayat bernyawa,dasar,
+,,,,,
+68109,k,0,mayat hidup,dasar,
+,,,,,
+68110,k,0,mayeng,dasar,
+,,,,,
+68111,c,16,mayit,dasar,mayat
+,,,,,
+68112,k,0,mayokratio,dasar,
+,,,,,
+68113,k,11,mayones,dasar,
+,,,,,
+68114,k,253,mayor,dasar,
+,,,,,
+68115,k,0,mayor jenderal tni,dasar,
+68115.1,x,,<mayor jenderal tn> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+68116,k,2,mayoret,dasar,
+,,,,,
+68117,k,1383,mayoritas,dasar,
+68117.1,v,,<mayor> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+68118,k,0,mayoritas biasa,dasar,
+,,,,,
+68119,k,0,mayoritas diam,dasar,
+,,,,,
+68120,k,0,mayoritas mutlak,dasar,
+,,,,,
+68121,k,0,mayoritas tunggal,dasar,
+,,,,,
+68122,k,0,mayos,dasar,
+,,,,,
+68123,k,0,maysir,dasar,
+,,,,,
+68124,k,26,mayur,dasar,
+,,,,,
+68125,k,0,mazarin,dasar,
+,,,,,
+68126,k,0,mazbah,dasar,
+,,,,,
+68127,k,90,mazhab,dasar,
+,,,,,
+68128,k,0,mazi,dasar,
+68128.1,x,,<maz> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+68129,k,0,mazkur,dasar,
+,,,,,
+68130,k,2,mazmumah,dasar,
+,,,,,
+68131,k,8,mazmur,dasar,
+,,,,,
+68132,k,0,mazurka,dasar,
+,,,,,
+68133,k,0,mb,dasar,
+,,,,,
+68134,k,111,mbah,dasar,
+,,,,,
+68135,k,198,mbak,dasar,
+,,,,,
+68136,k,12,mbakyu,dasar,
+,,,,,
+68137,k,0,mbaru gendang,dasar,
+,,,,,
+68138,k,0,mbaru niang,dasar,
+,,,,,
+68139,k,0,mbaru tembong,dasar,
+,,,,,
+68140,c,5,mbeling,dasar,beling
+,,,,,
+68141,k,0,mbis,dasar,
+68141.1,x,,<mbi> + [-is:-s],bentukan,[177] [S] -is + (i)
+68141.2,x,,<mb> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+68142,k,0,mbitoro,dasar,
+,,,,,
+68143,k,0,mboh,dasar,
+,,,,,
+68144,k,0,mboja,dasar,
+,,,,,
+68145,k,8,mbojo,dasar,
+,,,,,
+68146,k,71,mbok,dasar,
+,,,,,
+68147,k,0,mbok ajeng,dasar,
+,,,,,
+68148,k,0,mbololo,dasar,
+,,,,,
+68149,k,602,me,dasar,
+,,,,,
+68150,k,0,meah,dasar,
+,,,,,
+68151,k,0,meaks,dasar,
+,,,,,
+68152,k,2,meander,dasar,
+,,,,,
+68153,k,60,mebel,dasar,
+,,,,,
+68154,k,0,mebel siap pasang,dasar,
+,,,,,
+68155,k,0,mebele,dasar,
+,,,,,
+68156,k,2,mecin,dasar,
+,,,,,
+68157,k,0,mecis,dasar,
+68157.1,x,,<meci> + [-is:-s],bentukan,[177] [S] -is + (i)
+68157.2,x,,<mec> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+68158,k,0,mecundang,dasar,
+,,,,,
+68159,k,424,medali,dasar,
+68159.1,x,,<medal> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+68160,k,4,medalion,dasar,
+,,,,,
+68161,k,0,medalis,dasar,
+68161.1,v,,<medali> + [-is:-s],bentukan,[177] [S] -is + (i)
+68161.2,x,,<medal> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+68162,k,1282,medan,dasar,
+68162.1,x,,<med> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+68163,k,0,medan dingin,dasar,
+,,,,,
+68164,k,0,medan kunci,dasar,
+68164.1,x,,<medan kunc> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+68165,k,0,medan laga,dasar,
+,,,,,
+68166,k,0,medan listrik,dasar,
+,,,,,
+68167,k,0,medan magnet,dasar,
+,,,,,
+68168,k,0,medan magnet permanen,dasar,
+,,,,,
+68169,k,0,medan makna,dasar,
+,,,,,
+68170,k,0,medan panas,dasar,
+,,,,,
+68171,k,0,medan pandang sesaat,dasar,
+,,,,,
+68172,k,0,medan penglihatan,dasar,
+68172.1,x,,<medan penglihat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+68173,k,0,medan perang,dasar,
+,,,,,
+68174,k,0,medan pertempuran,dasar,
+68174.1,x,,<medan pertempur> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+68175,k,0,medan tombol,dasar,
+,,,,,
+68176,k,11,medang,dasar,
+,,,,,
+68177,k,0,medang buaya,dasar,
+,,,,,
+68178,k,0,medangsia,dasar,
+,,,,,
+68179,k,0,mede,dasar,
+,,,,,
+68180,k,0,medeli,dasar,
+68180.1,x,,<medel> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+68181,k,5190,media,dasar,
+,,,,,
+68182,k,0,media cetak,dasar,
+,,,,,
+68183,k,0,media elektronik,dasar,
+,,,,,
+68184,k,0,media film,dasar,
+,,,,,
+68185,k,0,media interaktif,dasar,
+,,,,,
+68186,k,0,media kontras,dasar,
+,,,,,
+68187,k,0,media massa,dasar,
+,,,,,
+68188,k,0,media padat,dasar,
+,,,,,
+68189,k,0,media pendidikan,dasar,
+68189.1,x,,<media pendidi> + -kan,bentukan,[29] [S] -kan + (<all>)
+68189.2,x,,<media pendidik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+68190,k,0,media periklanan,dasar,
+68190.1,x,,<media periklan> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+68191,k,0,media sosial,dasar,
+,,,,,
+68192,k,0,media tanam,dasar,
+,,,,,
+68193,k,19,medial,dasar,
+,,,,,
+68194,k,2,medialis,dasar,
+68194.1,x,,<mediali> + [-is:-s],bentukan,[177] [S] -is + (i)
+68194.2,v,,<medial> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+68195,k,125,median,dasar,
+68195.1,x,,<medi> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+68196,k,246,mediasi,dasar,
+68196.1,x,,<medias> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+68197,k,2,mediastinum,dasar,
+,,,,,
+68198,k,0,mediastinum otak kecil,dasar,
+,,,,,
+68199,k,171,mediator,dasar,
+,,,,,
+68200,k,163,medik,dasar,
+,,,,,
+68201,k,8,medikamentosa,dasar,
+,,,,,
+68202,k,5,medikasi,dasar,
+68202.1,x,,<medikas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+68203,k,0,medikasi candu,dasar,
+,,,,,
+68204,k,0,medikasi oblongata,dasar,
+,,,,,
+68205,k,12,medikolegal,dasar,
+,,,,,
+68206,k,0,medikus,dasar,
+,,,,,
+68207,k,0,medil,dasar,
+,,,,,
+68208,c,3,medinah,dasar,madinah
+,,,,,
+68209,k,82,medio,dasar,
+,,,,,
+68210,k,12,medioker,dasar,
+,,,,,
+68211,k,0,mediokris,dasar,
+68211.1,x,,<mediokri> + [-is:-s],bentukan,[177] [S] -is + (i)
+68211.2,x,,<mediokr> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+68212,k,1108,medis,dasar,
+68212.1,x,,<medi> + [-is:-s],bentukan,[177] [S] -is + (i)
+68212.2,x,,<med> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+68213,k,0,medisinal,dasar,
+,,,,,
+68214,k,3,medit,dasar,
+,,,,,
+68215,k,70,meditasi,dasar,
+68215.1,x,,<meditas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+68216,k,2,meditatif,dasar,
+,,,,,
+68217,k,66,mediterania,dasar,
+,,,,,
+68218,k,509,medium,dasar,
+,,,,,
+68219,k,0,medium filter,dasar,
+,,,,,
+68220,k,16,medok,dasar,
+,,,,,
+68221,k,0,medomalakufobia,dasar,
+68221.1,x,,<medomalaku> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+68222,k,0,medortofobia,dasar,
+68222.1,x,,<medorto> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+68223,k,0,medu,dasar,
+,,,,,
+68224,k,0,meduk,dasar,
+,,,,,
+68225,k,13,medula,dasar,
+,,,,,
+68226,k,0,medula oblongata,dasar,
+,,,,,
+68227,k,5,medusa,dasar,
+,,,,,
+68228,k,0,medusoid,dasar,
+68228.1,x,,<medus> + -oid,bentukan,[209] [S] -oid + (<all>)
+,,,,,
+68229,k,285,mega,dasar,
+,,,,,
+68230,k,0,mega mendung,dasar,
+,,,,,
+68231,k,22,megabintang,dasar,
+,,,,,
+68232,k,2,megabit,dasar,
+,,,,,
+68233,k,0,megabit per detik,dasar,
+,,,,,
+68234,k,0,megabita,dasar,
+,,,,,
+68235,k,0,megadigma,dasar,
+,,,,,
+68236,k,0,megadiva,dasar,
+,,,,,
+68237,k,0,megadosis,dasar,
+68237.1,x,,<megadosi> + [-is:-s],bentukan,[177] [S] -is + (i)
+68237.2,x,,<megados> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+68238,k,0,megafauna,dasar,
+,,,,,
+68239,k,0,megafil,dasar,
+,,,,,
+68240,k,0,megaflop,dasar,
+,,,,,
+68241,k,6,megafon,dasar,
+,,,,,
+68242,k,302,megah,dasar,
+,,,,,
+68243,k,0,megahertz,dasar,
+,,,,,
+68244,k,0,megahotel,dasar,
+,,,,,
+68245,k,0,megak,dasar,
+,,,,,
+68246,k,0,megakolon,dasar,
+,,,,,
+68247,k,0,megakota,dasar,
+,,,,,
+68248,k,0,megakredit,dasar,
+,,,,,
+68249,k,2,megal-megol,dasar,
+68249.1,v,,<megal-megol>,bentukan,[Reduplication-Rhyming]
+,,,,,
+68250,k,3,megalit,dasar,
+,,,,,
+68251,k,13,megalitikum,dasar,
+,,,,,
+68252,k,0,megaloblas,dasar,
+,,,,,
+68253,k,0,megalodoras,dasar,
+,,,,,
+68254,k,0,megalofobia,dasar,
+68254.1,x,,<megalo> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+68255,k,0,megaloftalmus,dasar,
+,,,,,
+68256,k,6,megalomania,dasar,
+,,,,,
+68257,k,0,megalomaniak,dasar,
+,,,,,
+68258,k,0,megalopolis,dasar,
+68258.1,x,,<megalopoli> + [-is:-s],bentukan,[177] [S] -is + (i)
+68258.2,x,,<megalopol> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+68259,k,0,megalopolitan,dasar,
+68259.1,x,,<megalopolit> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+68260,k,0,megalosit,dasar,
+,,,,,
+68261,k,0,megamalofili,dasar,
+68261.1,x,,<megamalofil> + -i,bentukan,[28] [S] -i + (<all>)
+68261.2,x,,<megamalo> + -fili,bentukan,[193] [S] -fili + (<all>)
+,,,,,
+68262,k,0,megamalofilia,dasar,
+68262.1,x,,<megamalo> + -filia,bentukan,[216] [S] -filia + (<all>)
+,,,,,
+68263,k,0,megamerger,dasar,
+,,,,,
+68264,k,12,megan,dasar,
+68264.1,x,,<meg> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+68265,k,0,megana,dasar,
+,,,,,
+68266,k,15,megang,dasar,
+,,,,,
+68267,k,0,megaohm,dasar,
+,,,,,
+68268,k,50,megap-megap,dasar,
+68268.1,v,,<megap> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+68269,k,8,megapiksel,dasar,
+,,,,,
+68270,k,0,megapolis,dasar,
+68270.1,x,,<megapoli> + [-is:-s],bentukan,[177] [S] -is + (i)
+68270.2,x,,<megapol> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+68271,c,12,megapolitan,dasar,megalopolitan
+68271.1,x,,<megapolit> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+68272,k,50,megaproyek,dasar,
+,,,,,
+68273,k,3,megar,dasar,
+,,,,,
+68274,k,0,megaspora,dasar,
+,,,,,
+68275,k,0,megasporangium,dasar,
+,,,,,
+68276,k,0,megasporofil,dasar,
+,,,,,
+68277,k,6,megat,dasar,
+,,,,,
+68278,k,0,megaton,dasar,
+,,,,,
+68279,k,0,megatren,dasar,
+,,,,,
+68280,k,9,megatruh,dasar,
+,,,,,
+68281,k,0,megaurban,dasar,
+68281.1,x,,<megaurb> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+68282,k,0,megavitamin,dasar,
+,,,,,
+68283,k,71,megawatt,dasar,
+,,,,,
+68284,k,0,meger-meger,dasar,
+68284.1,v,,<meger> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+68285,k,0,megibung,dasar,
+,,,,,
+68286,k,2,mego,dasar,
+,,,,,
+68287,k,0,megrek-megrek,dasar,
+68287.1,v,,<megrek> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+68288,k,2941,mei,dasar,
+68288.1,x,,<me> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+68289,k,0,meiobentos,dasar,
+,,,,,
+68290,k,0,meiofauna,dasar,
+,,,,,
+68291,k,6,meiosis,dasar,
+68291.1,x,,<meiosi> + [-is:-s],bentukan,[177] [S] -is + (i)
+68291.2,x,,<meios> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+68292,k,1343,meja,dasar,
+,,,,,
+68293,k,0,meja bantuan,dasar,
+68293.1,x,,<meja bantu> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+68294,k,0,meja biliar,dasar,
+,,,,,
+68295,k,0,meja bola,dasar,
+,,,,,
+68296,k,0,meja dapur,dasar,
+,,,,,
+68297,k,0,meja dorong,dasar,
+,,,,,
+68298,k,0,meja gambar,dasar,
+,,,,,
+68299,k,0,meja gerak,dasar,
+,,,,,
+68300,k,0,meja goyang,dasar,
+,,,,,
+68301,k,0,meja hijau,dasar,
+,,,,,
+68302,k,0,meja judi,dasar,
+68302.1,x,,<meja jud> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+68303,k,0,meja kartu,dasar,
+,,,,,
+68304,k,0,meja konsol,dasar,
+,,,,,
+68305,k,0,meja konstruksi,dasar,
+68305.1,x,,<meja konstruks> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+68306,k,0,meja layanan,dasar,
+68306.1,x,,<meja layan> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+68307,k,0,meja lipat,dasar,
+,,,,,
+68308,k,0,meja lompat,dasar,
+,,,,,
+68309,k,0,meja makan,dasar,
+68309.1,x,,<meja ma> + -kan,bentukan,[29] [S] -kan + (<all>)
+68309.2,x,,<meja mak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+68310,k,0,meja modular,dasar,
+,,,,,
+68311,k,0,meja operasi,dasar,
+68311.1,x,,<meja operas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+68312,k,0,meja pengontrol,dasar,
+,,,,,
+68313,k,0,meja pingpong,dasar,
+,,,,,
+68314,k,0,meja pinjam,dasar,
+,,,,,
+68315,k,0,meja putaran keramik,dasar,
+,,,,,
+68316,k,0,meja rolet,dasar,
+,,,,,
+68317,k,0,meja sebelah,dasar,
+68317.1,x,,<meja sebe> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+68318,k,0,meja sirkulasi,dasar,
+68318.1,x,,<meja sirkulas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+68319,k,0,meja tengah,dasar,
+,,,,,
+68320,k,0,meja tulis,dasar,
+68320.1,x,,<meja tuli> + [-is:-s],bentukan,[177] [S] -is + (i)
+68320.2,x,,<meja tul> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+68321,k,0,meja uap,dasar,
+,,,,,
+68322,k,0,mejam,dasar,
+,,,,,
+68323,c,3,mejan,dasar,nisan
+68323.1,x,,<mej> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+68324,k,0,mejana,dasar,
+,,,,,
+68325,k,0,mejati,dasar,
+68325.1,x,,<mejat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+68326,c,5,mejelis,dasar,majelis
+68326.1,x,,<mejeli> + [-is:-s],bentukan,[177] [S] -is + (i)
+68326.2,x,,<mejel> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+68327,k,0,mejen,dasar,
+,,,,,
+68328,k,20,mejeng,dasar,
+,,,,,
+68329,k,4,mek,dasar,
+68329.1,x,,[meng-:me-] + <k>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+,,,,,
+68330,k,2,meka,dasar,
+68330.1,x,,[meng-:me-] + <ka>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+,,,,,
+68331,c,97,mekah,dasar,makkah
+68331.1,x,,[meng-:me-] + <kah>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+68331.2,x,,<me> + -kah,bentukan,[30] [FS] -kah + (<all>)
+,,,,,
+68332,k,0,mekala-kalado,dasar,
+68332.1,x,,[meng-:me-] + <kala> [-] <r> + -do,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [25] [RD] meng-|
+,,,,,
+68333,k,0,mekan,dasar,
+68333.1,x,,[meng-:me-] + <kan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+68333.2,x,,<me> + -kan,bentukan,[29] [S] -kan + (<all>)
+68333.3,x,,<mek> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+68334,k,225,mekanik,dasar,
+68334.1,x,,[meng-:me-] + <kanik>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+,,,,,
+68335,k,39,mekanika,dasar,
+68335.1,x,,[meng-:me-] + <kanika>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+,,,,,
+68336,k,0,mekanika kuantum,dasar,
+68336.1,x,,[meng-:me-] + <kanika kuantum>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+,,,,,
+68337,k,0,mekanika statistik,dasar,
+68337.1,x,,[meng-:me-] + <kanika statistik>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+,,,,,
+68338,k,0,mekanikgraha,dasar,
+68338.1,x,,[meng-:me-] + <kanikgraha>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+,,,,,
+68339,k,187,mekanis,dasar,
+68339.1,x,,[meng-:me-] + <kanis>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+68339.2,x,,<mekani> + [-is:-s],bentukan,[177] [S] -is + (i)
+68339.3,x,,<mekan> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+68340,k,17,mekanisasi,dasar,
+68340.1,x,,[meng-:me-] + <kanisas> + -i,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+68340.2,x,,[meng-:me-] + <kanisasi>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+68340.3,x,,<mekanisas> + -i,bentukan,[28] [S] -i + (<all>)
+68340.4,x,,<mekani> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+68340.5,v,,<mekanis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+68340.6,x,,<meka> + [-isasi:-nisasi],bentukan,[168] [S] -isasi + (a;e;u;o)
+68340.7,x,,<mekan> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+68341,k,2406,mekanisme,dasar,
+68341.1,x,,[meng-:me-] + <kanisme>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+68341.2,x,,<mekan> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+68342,k,0,mekanisme detoksikasi,dasar,
+68342.1,x,,[meng-:me-] + <kanisme detoksikas> + -i,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+68342.2,x,,[meng-:me-] + <kanisme detoksikasi>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+68342.3,x,,<mekanisme detoksikas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+68343,k,0,mekanisme harga,dasar,
+68343.1,x,,[meng-:me-] + <kanisme harga>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+,,,,,
+68344,k,0,mekanisme kerja,dasar,
+68344.1,x,,[meng-:me-] + <kanisme kerja>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+,,,,,
+68345,k,0,mekanisme pasar,dasar,
+68345.1,x,,[meng-:me-] + <kanisme pasar>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+,,,,,
+68346,k,0,mekanisme penyesuaian,dasar,
+68346.1,x,,[meng-:me-] + <kanisme penyesuaian>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+68346.2,x,,<mekanisme penyesuai> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+68347,k,0,mekanisme pertahanan,dasar,
+68347.1,x,,[meng-:me-] + <kanisme pertahanan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+68347.2,x,,<mekanisme pertahan> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+68348,k,0,mekanisme reaksi,dasar,
+68348.1,x,,[meng-:me-] + <kanisme reaks> + -i,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+68348.2,x,,[meng-:me-] + <kanisme reaksi>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+68348.3,x,,<mekanisme reaks> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+68349,k,10,mekanistik,dasar,
+68349.1,x,,[meng-:me-] + <kanistik>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+,,,,,
+68350,k,0,mekanofobia,dasar,
+68350.1,x,,[meng-:me-] + <kanofobia>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+68350.2,x,,<mekano> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+68351,k,0,mekanomiografi,dasar,
+68351.1,x,,[meng-:me-] + <kanomiograf> + -i,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+68351.2,x,,[meng-:me-] + <kanomiografi>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+68351.3,x,,<mekanomiograf> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+68352,k,0,mekap,dasar,
+68352.1,x,,[meng-:me-] + <kap>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+,,,,,
+68353,k,159,mekar,dasar,
+68353.1,x,,[meng-:me-] + <kar>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+,,,,,
+68354,k,0,mekatende,dasar,
+68354.1,x,,[meng-:me-] + <katende>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+,,,,,
+68355,k,0,mekindoroa,dasar,
+68355.1,x,,[meng-:me-] + <kindoroa>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+,,,,,
+68356,k,0,mekis,dasar,
+68356.1,x,,[meng-:me-] + <kis>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+68356.2,x,,<meki> + [-is:-s],bentukan,[177] [S] -is + (i)
+68356.3,x,,<mek> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+68357,c,103,mekkah,dasar,makkah
+68357.1,x,,<mek> + -kah,bentukan,[30] [FS] -kah + (<all>)
+68357.2,x,,[meng-:me-] + <k> + -kah,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [30] [FS] -kah + (<all>)
+,,,,,
+68358,k,0,meko,dasar,
+68358.1,x,,[meng-:me-] + <ko>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+,,,,,
+68359,k,3,mekongga,dasar,
+68359.1,x,,[meng-:me-] + <kongga>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+,,,,,
+68360,k,2,mekonium,dasar,
+68360.1,x,,[meng-:me-] + <konium>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+,,,,,
+68361,k,200,meksiko,dasar,
+,,,,,
+68362,k,0,mekwai,dasar,
+68362.1,x,,<mekwa> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+68363,k,0,mekwei,dasar,
+68363.1,x,,<mekwe> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+68364,k,19,mel,dasar,
+68364.1,x,,[meng-:me-] + <l>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+,,,,,
+68365,k,0,melabai,dasar,
+68365.1,v,,[meng-:me-] + <laba> + -i,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+68365.2,x,,[meng-:me-] + <labai>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+68365.3,x,,<melaba> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+68366,k,0,melabakan,dasar,
+68366.1,v,,[meng-:me-] + <laba> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+68366.2,x,,[meng-:me-] + <labakan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+68366.3,x,,<melaba> + -kan,bentukan,[29] [S] -kan + (<all>)
+68366.4,x,,<melabak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+68367,k,0,melabang,dasar,
+68367.1,v,,[meng-:me-] + <labang>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+,,,,,
+68368,k,29,melabeli,dasar,
+68368.1,v,,[meng-:me-] + <label> + -i,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+68368.2,x,,[meng-:me-] + <labeli>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+68368.3,x,,<melabel> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+68369,k,5,melabelkan,dasar,
+68369.1,v,,[meng-:me-] + <label> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+68369.2,x,,[meng-:me-] + <labelkan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+68369.3,x,,<melabel> + -kan,bentukan,[29] [S] -kan + (<all>)
+68369.4,x,,<melabelk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+68370,k,34,melabrak,dasar,
+68370.1,v,,[meng-:me-] + <labrak>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+,,,,,
+68371,k,0,melabu,dasar,
+68371.1,v,,[meng-:me-] + <labu>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+,,,,,
+68372,k,0,melabuai,dasar,
+68372.1,x,,[meng-:me-] + <labua> + -i,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+68372.2,x,,[meng-:me-] + <labuai>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+68372.3,x,,<melabua> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+68373,k,2,melabuh,dasar,
+68373.1,v,,[meng-:me-] + <labuh>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+,,,,,
+68374,k,15,melabuhkan,dasar,
+68374.1,v,,[meng-:me-] + <labuh> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+68374.2,x,,[meng-:me-] + <labuhkan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+68374.3,x,,<melabuh> + -kan,bentukan,[29] [S] -kan + (<all>)
+68374.4,x,,<melabuhk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+68375,k,0,melabuhkan hukum,dasar,
+68375.1,x,,[meng-:me-] + <labuhkan hukum>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+,,,,,
+68376,k,0,melabuhkan orang,dasar,
+68376.1,x,,[meng-:me-] + <labuhkan orang>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+,,,,,
+68377,k,0,melabuhkan pancing,dasar,
+68377.1,x,,[meng-:me-] + <labuhkan pancing>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+,,,,,
+68378,k,2,melabur,dasar,
+68378.1,v,,[meng-:me-] + <labur>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+,,,,,
+68379,k,0,melaburkan,dasar,
+68379.1,v,,[meng-:me-] + <labur> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+68379.2,x,,[meng-:me-] + <laburkan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+68379.3,x,,<melabur> + -kan,bentukan,[29] [S] -kan + (<all>)
+68379.4,x,,<melaburk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+68380,k,217,melacak,dasar,
+68380.1,v,,[meng-:me-] + <lacak>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+,,,,,
+68381,k,0,melacak balik,dasar,
+68381.1,x,,[meng-:me-] + <lacak balik>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+,,,,,
+68382,k,12,melacur,dasar,
+68382.1,v,,[meng-:me-] + <lacur>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+,,,,,
+68383,k,15,melacurkan,dasar,
+68383.1,v,,[meng-:me-] + <lacur> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+68383.2,x,,[meng-:me-] + <lacurkan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+68383.3,x,,<melacur> + -kan,bentukan,[29] [S] -kan + (<all>)
+68383.4,x,,<melacurk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+68384,k,0,melacut,dasar,
+68384.1,v,,[meng-:me-] + <lacut>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+,,,,,
+68385,k,0,meladai,dasar,
+68385.1,v,,[meng-:me-] + <lada> + -i,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+68385.2,x,,[meng-:me-] + <ladai>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+68385.3,x,,<melada> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+68386,k,120,meladeni,dasar,
+68386.1,v,,[meng-:me-] + <laden> + -i,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+68386.2,x,,[meng-:me-] + <ladeni>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+68386.3,x,,<meladen> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+68387,k,0,meladungkan,dasar,
+68387.1,v,,[meng-:me-] + <ladung> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+68387.2,x,,[meng-:me-] + <ladungkan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+68387.3,x,,<meladung> + -kan,bentukan,[29] [S] -kan + (<all>)
+68387.4,x,,<meladungk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+68388,k,52,melafalkan,dasar,
+68388.1,v,,[meng-:me-] + <lafal> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+68388.2,x,,[meng-:me-] + <lafalkan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+68388.3,x,,<melafal> + -kan,bentukan,[29] [S] -kan + (<all>)
+68388.4,x,,<melafalk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+68389,k,7,melafazkan,dasar,
+68389.1,v,,[meng-:me-] + <lafaz> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+68389.2,x,,[meng-:me-] + <lafazkan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+68389.3,x,,<melafaz> + -kan,bentukan,[29] [S] -kan + (<all>)
+68389.4,x,,<melafazk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+68390,k,0,melaga,dasar,
+68390.1,v,,[meng-:me-] + <laga>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+,,,,,
+68391,k,2,melagak,dasar,
+68391.1,v,,[meng-:me-] + <lagak>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+,,,,,
+68392,k,0,melagakan,dasar,
+68392.1,v,,[meng-:me-] + <laga> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+68392.2,x,,[meng-:me-] + <lagakan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+68392.3,x,,<melaga> + -kan,bentukan,[29] [S] -kan + (<all>)
+68392.4,x,,<melagak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+68393,k,0,melagakkan,dasar,
+68393.1,v,,[meng-:me-] + <lagak> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+68393.2,x,,[meng-:me-] + <lagakkan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+68393.3,x,,<melagak> + -kan,bentukan,[29] [S] -kan + (<all>)
+68393.4,x,,<melagakk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+68394,k,0,melagang,dasar,
+68394.1,v,,[meng-:me-] + <lagang>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+,,,,,
+68395,k,0,melagangkan,dasar,
+68395.1,v,,[meng-:me-] + <lagang> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+68395.2,x,,[meng-:me-] + <lagangkan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+68395.3,x,,<melagang> + -kan,bentukan,[29] [S] -kan + (<all>)
+68395.4,x,,<melagangk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+68396,k,0,melagu,dasar,
+68396.1,v,,[meng-:me-] + <lagu>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+,,,,,
+68397,k,0,melagui,dasar,
+68397.1,v,,[meng-:me-] + <lagu> + -i,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+68397.2,x,,[meng-:me-] + <lagui>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+68397.3,x,,<melagu> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+68398,k,13,melagukan,dasar,
+68398.1,v,,[meng-:me-] + <lagu> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+68398.2,x,,[meng-:me-] + <lagukan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+68398.3,x,,<melagu> + -kan,bentukan,[29] [S] -kan + (<all>)
+68398.4,x,,<melaguk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+68399,k,136,melahap,dasar,
+68399.1,v,,[meng-:me-] + <lahap>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+,,,,,
+68400,k,1403,melahirkan,dasar,
+68400.1,v,,[meng-:me-] + <lahir> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+68400.2,x,,[meng-:me-] + <lahirkan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+68400.3,x,,<melahir> + -kan,bentukan,[29] [S] -kan + (<all>)
+68400.4,x,,<melahirk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+68401,k,0,melaini,dasar,
+68401.1,v,,[meng-:me-] + <lain> + -i,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+68401.2,x,,[meng-:me-] + <laini>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+68401.3,x,,<melain> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+68402,k,2385,melainkan,dasar,
+68402.1,v,,[meng-:me-] + <lain> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+68402.2,x,,[meng-:me-] + <lainkan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+68402.3,x,,<melain> + -kan,bentukan,[29] [S] -kan + (<all>)
+68402.4,x,,<melaink> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+68403,k,0,melais,dasar,
+68403.1,x,,[meng-:me-] + <lais>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+68403.2,x,,<melai> + [-is:-s],bentukan,[177] [S] -is + (i)
+68403.3,x,,<mela> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+68404,k,20,melajang,dasar,
+68404.1,v,,[meng-:me-] + <lajang>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+,,,,,
+68405,k,604,melaju,dasar,
+68405.1,v,,[meng-:me-] + <laju>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+,,,,,
+68406,k,27,melajukan,dasar,
+68406.1,v,,[meng-:me-] + <laju> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+68406.2,x,,[meng-:me-] + <lajukan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+68406.3,x,,<melaju> + -kan,bentukan,[29] [S] -kan + (<all>)
+68406.4,x,,<melajuk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+68407,k,0,melak-melak,dasar,
+68407.1,v,,<melak> [-] <r>,bentukan,[23] [RD] |
+68407.2,x,,[meng-:me-] + <lak> [-] [meng-:me-] + <r>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [23] [RD] |
+,,,,,
+68408,c,18,melaka,dasar,malaka
+68408.1,x,,[meng-:me-] + <laka>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+,,,,,
+68409,k,0,melakabkan,dasar,
+68409.1,v,,[meng-:me-] + <lakab> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+68409.2,x,,[meng-:me-] + <lakabkan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+68409.3,x,,<melakab> + -kan,bentukan,[29] [S] -kan + (<all>)
+68409.4,x,,<melakabk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+68410,k,0,melakak,dasar,
+68410.1,v,,[meng-:me-] + <lakak>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+,,,,,
+68411,k,0,melaken,dasar,
+68411.1,v,,[meng-:me-] + <laken>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+,,,,,
+68412,k,11,melaknat,dasar,
+68412.1,v,,[meng-:me-] + <laknat>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+,,,,,
+68413,k,0,melaknati,dasar,
+68413.1,v,,[meng-:me-] + <laknat> + -i,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+68413.2,x,,[meng-:me-] + <laknati>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+68413.3,x,,<melaknat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+68414,k,0,melaknatkan,dasar,
+68414.1,v,,[meng-:me-] + <laknat> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+68414.2,x,,[meng-:me-] + <laknatkan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+68414.3,x,,<melaknat> + -kan,bentukan,[29] [S] -kan + (<all>)
+68414.4,x,,<melaknatk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+68415,k,170,melakoni,dasar,
+68415.1,v,,[meng-:me-] + <lakon> + -i,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+68415.2,x,,[meng-:me-] + <lakoni>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+68415.3,x,,<melakon> + -i,bentukan,[28] [S] -i + (<all>)

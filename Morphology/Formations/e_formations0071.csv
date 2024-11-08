@@ -1,0 +1,1672 @@
+Nomor,KP,Jumlah,Entri,Tipe,Pembentukan
+31230,k,0,dokter gula,dasar,
+,,,,,
+31231,k,0,dokter hewan,dasar,
+31231.1,x,,<dokter hew> + -an,bentukan,[38] [S] -an + (<all>)
+31231.2,x,,<dokter he> + -wan,bentukan,[180] [S] -wan + (<others>)
+,,,,,
+31232,k,0,dokter hotel,dasar,
+,,,,,
+31233,k,0,dokter jaga,dasar,
+,,,,,
+31234,k,0,dokter jawa,dasar,
+,,,,,
+31235,k,0,dokter jiwa,dasar,
+,,,,,
+31236,k,0,dokter kecil,dasar,
+,,,,,
+31237,k,0,dokter keluarga,dasar,
+,,,,,
+31238,k,0,dokter mata,dasar,
+,,,,,
+31239,k,0,dokter muda,dasar,
+,,,,,
+31240,k,0,dokter praktik umum,dasar,
+,,,,,
+31241,k,0,dokter pribadi,dasar,
+31241.1,x,,<dokter pribad> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+31242,k,0,dokter spesialis,dasar,
+31242.1,x,,<dokter spesiali> + [-is:-s],bentukan,[177] [S] -is + (i)
+31242.2,x,,<dokter spesial> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+31243,k,0,dokter umum,dasar,
+,,,,,
+31244,v,49,dokter-dokter,dasar,
+31244.1,v,,<dokter> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+31245,v,2,dokter-dokteran,dasar,
+31245.1,v,,<dokter> [-] <r> + -an,bentukan,[23] [RD] |
+,,,,,
+31246,v,3,dokterku,dasar,
+31246.1,v,,<dokter> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+31247,v,2,doktermu,dasar,
+31247.1,v,,<dokter> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+,,,,,
+31248,v,44,dokternya,dasar,
+31248.1,v,,<dokter> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+31249,k,358,doktor,dasar,
+,,,,,
+31250,k,0,doktor kehormatan,dasar,
+31250.1,x,,<doktor kehormat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+31251,v,68,doktoral,dasar,
+,,,,,
+31252,v,12,doktoralnya,dasar,
+31252.1,v,,<doktoral> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+31253,k,3,doktoranda,dasar,
+31253.1,x,,<doktora> + [-anda:-nda],bentukan,[183] [S] -anda + (i;u;a;[k:])
+31253.2,x,,<doktoran> + [-anda:-da],bentukan,[184] [S] -anda + (an)
+31253.3,x,,<doktor> + -anda,bentukan,[185] [S] -anda + (<others>)
+,,,,,
+31254,k,5,doktorandus,dasar,
+,,,,,
+31255,v,14,doktornya,dasar,
+31255.1,v,,<doktor> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+31256,k,172,doktrin,dasar,
+,,,,,
+31257,k,0,doktrin hukum,dasar,
+,,,,,
+31258,v,20,doktrin-doktrin,dasar,
+31258.1,v,,<doktrin> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+31259,v,8,doktrinal,dasar,
+,,,,,
+31260,v,4,doktrinasi,dasar,
+31260.1,x,,<doktrinas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+31261,v,4,doktriner,dasar,
+,,,,,
+31262,v,2,doktrinisasi,dasar,
+31262.1,x,,<doktrinisas> + -i,bentukan,[28] [S] -i + (<all>)
+31262.2,x,,<doktrini> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+31262.3,x,,<doktrinis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+31262.4,v,,<doktrin> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+31263,k,3,doku,dasar,
+31263.1,x,,<do> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+31264,k,2315,dokumen,dasar,
+,,,,,
+31265,k,0,dokumen medis,dasar,
+31265.1,x,,<dokumen medi> + [-is:-s],bentukan,[177] [S] -is + (i)
+31265.2,x,,<dokumen med> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+31266,k,0,dokumen perjalanan,dasar,
+31266.1,x,,<dokumen perjalan> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+31267,k,0,dokumen wisata,dasar,
+31267.1,x,,<dokumen > + -wisata,bentukan,[212] [S] -wisata + (<all>)
+,,,,,
+31268,v,176,dokumen-dokumen,dasar,
+31268.1,v,,<dokumen> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+31269,v,3,dokumenku,dasar,
+31269.1,v,,<dokumen> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+31270,k,0,dokumentalis,dasar,
+31270.1,x,,<dokumentali> + [-is:-s],bentukan,[177] [S] -is + (i)
+31270.2,x,,<dokumental> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+31271,k,563,dokumentasi,dasar,
+31271.1,x,,<dokumentas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+31272,k,0,dokumentasi pengguna,dasar,
+,,,,,
+31273,v,15,dokumentasikan,dasar,
+31273.1,v,,<dokumentasi> + -kan,bentukan,[29] [S] -kan + (<all>)
+31273.2,x,,<dokumentasik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+31274,v,10,dokumentasinya,dasar,
+31274.1,v,,<dokumentasi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+31274.2,x,,<dokumentas> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+31275,v,6,dokumentatif,dasar,
+,,,,,
+31276,v,2,dokumentator,dasar,
+,,,,,
+31277,k,141,dokumenter,dasar,
+,,,,,
+31278,v,5,dokumenternya,dasar,
+31278.1,v,,<dokumenter> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+31279,k,0,dokumentografi,dasar,
+31279.1,x,,<dokumentograf> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+31280,k,8,dol,dasar,
+,,,,,
+31281,k,0,dolak-dalik,dasar,
+31281.1,x,,<dolak-dalik>,bentukan,[Reduplication-Rhyming]
+,,,,,
+31282,k,2,dolalak,dasar,
+,,,,,
+31283,k,15,dolan,dasar,
+31283.1,x,,<dol> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+31284,k,12,dolanan,dasar,
+31284.1,v,,<dolan> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+31285,k,0,dolanga,dasar,
+,,,,,
+31286,k,848,dolar,dasar,
+,,,,,
+31287,v,5,dolarnya,dasar,
+31287.1,v,,<dolar> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+31288,k,0,dolat,dasar,
+,,,,,
+31289,k,0,doldrum,dasar,
+,,,,,
+31290,k,0,dole,dasar,
+,,,,,
+31291,k,0,dole-dole,dasar,
+31291.1,v,,<dole> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+31292,k,0,dolerit,dasar,
+,,,,,
+31293,k,0,dolfin,dasar,
+,,,,,
+31294,k,0,dolgi,dasar,
+31294.1,x,,<dolg> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+31295,k,14,doli,dasar,
+31295.1,x,,<dol> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+31296,k,0,dolikosepalik,dasar,
+,,,,,
+31297,k,0,dolim,dasar,
+,,,,,
+31298,k,0,dolin,dasar,
+,,,,,
+31299,k,0,dolina,dasar,
+,,,,,
+31300,k,0,dollar,dasar,
+,,,,,
+31301,k,0,dolma,dasar,
+,,,,,
+31302,k,0,dolman,dasar,
+31302.1,x,,<dolm> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+31303,k,5,dolmen,dasar,
+,,,,,
+31304,k,3,dolo,dasar,
+,,,,,
+31305,k,11,dolok,dasar,
+,,,,,
+31306,k,0,dolomani,dasar,
+31306.1,x,,<doloman> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+31307,k,15,dolomit,dasar,
+,,,,,
+31308,k,0,dolpin,dasar,
+,,,,,
+31309,k,0,doluhupa,dasar,
+,,,,,
+31310,k,22,dom,dasar,
+,,,,,
+31311,k,190,domain,dasar,
+,,,,,
+31312,k,0,domain eminen,dasar,
+,,,,,
+31313,k,0,domain semantik,dasar,
+,,,,,
+31314,v,2,domain-domain,dasar,
+31314.1,v,,<domain> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+31315,k,0,domato,dasar,
+,,,,,
+31316,k,0,domatofobia,dasar,
+31316.1,x,,<domato> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+31317,k,195,domba,dasar,
+,,,,,
+31318,k,0,domba anakan,dasar,
+31318.1,x,,<domba ana> + -kan,bentukan,[29] [S] -kan + (<all>)
+31318.2,v,,<domba anak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+31319,k,0,domba ekor gemuk,dasar,
+,,,,,
+31320,k,0,domba ekor kurus,dasar,
+,,,,,
+31321,k,0,domba ekor tipis,dasar,
+31321.1,x,,<domba ekor tipi> + [-is:-s],bentukan,[177] [S] -is + (i)
+31321.2,x,,<domba ekor tip> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+31322,k,0,domba garut,dasar,
+,,,,,
+31323,k,0,domba keraman,dasar,
+31323.1,v,,<domba keram> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+31324,k,0,domba liar,dasar,
+,,,,,
+31325,k,0,domba merino,dasar,
+,,,,,
+31326,k,0,domba pejantan,dasar,
+31326.1,x,,<domba pejant> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+31327,k,0,domba umbaran,dasar,
+31327.1,x,,<domba umbar> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+31328,v,18,domba-domba,dasar,
+31328.1,v,,<domba> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+31329,v,2,domba-dombanya,dasar,
+31329.1,x,,<domba> [-] <r> + -nya,bentukan,[23] [RD] |
+31329.2,v,,<domba> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+31330,v,8,dombanya,dasar,
+31330.1,v,,<domba> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+31331,k,0,dombas,dasar,
+,,,,,
+31332,k,0,domblong,dasar,
+,,,,,
+31333,k,4,domei,dasar,
+31333.1,x,,<dome> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+31334,c,5,domein,dasar,domain
+,,,,,
+31335,k,0,domen,dasar,
+,,,,,
+31336,k,1385,domestik,dasar,
+,,,,,
+31337,k,13,domestikasi,dasar,
+31337.1,x,,<domestikas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+31338,v,24,domestiknya,dasar,
+31338.1,v,,<domestik> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+31339,k,1009,dominan,dasar,
+31339.1,x,,<domin> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+31340,v,37,dominannya,dasar,
+31340.1,v,,<dominan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+31340.2,x,,<domin> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+31341,k,26,dominansi,dasar,
+31341.1,x,,<dominans> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+31342,v,3,dominansinya,dasar,
+31342.1,v,,<dominansi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+31342.2,x,,<dominans> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+31343,k,509,dominasi,dasar,
+31343.1,x,,<dominas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+31344,k,0,dominasi fauna,dasar,
+,,,,,
+31345,k,0,dominasi flora,dasar,
+,,,,,
+31346,k,0,dominasi genetik,dasar,
+,,,,,
+31347,v,23,dominasinya,dasar,
+31347.1,v,,<dominasi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+31347.2,x,,<dominas> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+31348,v,5,dominatif,dasar,
+,,,,,
+31349,v,2,dominator,dasar,
+,,,,,
+31350,k,0,dominatriks,dasar,
+,,,,,
+31351,k,6,domine,dasar,
+,,,,,
+31352,k,0,dominggo,dasar,
+,,,,,
+31353,k,19,dominika,dasar,
+,,,,,
+31354,k,0,dominion,dasar,
+,,,,,
+31355,k,59,domino,dasar,
+,,,,,
+31356,v,2,dominonya,dasar,
+31356.1,v,,<domino> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+31357,k,204,domisili,dasar,
+31357.1,x,,<domisil> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+31358,v,13,domisilinya,dasar,
+31358.1,v,,<domisili> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+31358.2,x,,<domisil> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+31359,k,5,domo,dasar,
+,,,,,
+31360,k,0,domot,dasar,
+,,,,,
+31361,k,0,dompak,dasar,
+,,,,,
+31362,k,2,dompeng,dasar,
+,,,,,
+31363,k,212,dompet,dasar,
+,,,,,
+31364,k,0,dompet buku cek,dasar,
+,,,,,
+31365,k,0,dompet digital,dasar,
+,,,,,
+31366,k,0,dompet kacamata,dasar,
+,,,,,
+31367,k,0,dompet kartu,dasar,
+,,,,,
+31368,k,0,dompet koin,dasar,
+,,,,,
+31369,k,0,dompet kulit,dasar,
+,,,,,
+31370,k,0,dompet lipat,dasar,
+,,,,,
+31371,k,0,dompet paspor,dasar,
+,,,,,
+31372,k,0,dompet receh,dasar,
+,,,,,
+31373,v,2,dompet-dompet,dasar,
+31373.1,v,,<dompet> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+31374,v,35,dompetnya,dasar,
+31374.1,v,,<dompet> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+31375,k,0,domplang,dasar,
+,,,,,
+31376,k,0,domplangan,dasar,
+31376.1,v,,<domplang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+31377,k,0,dompleng,dasar,
+,,,,,
+31378,k,0,domplengan,dasar,
+31378.1,v,,<dompleng> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+31379,k,0,dompol,dasar,
+,,,,,
+31380,k,0,dompolan,dasar,
+31380.1,v,,<dompol> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+31381,k,0,dompon,dasar,
+,,,,,
+31382,k,23,dompu,dasar,
+,,,,,
+31383,k,0,don juan,dasar,
+31383.1,x,,<don ju> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+31384,k,0,donang sayang,dasar,
+,,,,,
+31385,k,152,donasi,dasar,
+31385.1,x,,<donas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+31386,x,2,donasikemudian,dasar,
+31386.1,x,,<donasikemudi> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+31387,k,44,donat,dasar,
+,,,,,
+31388,k,0,donat kentang,dasar,
+,,,,,
+31389,c,0,donatir,dasar,
+,,,,,
+31390,c,6,donator,dasar,donatur
+,,,,,
+31391,k,67,donatur,dasar,
+,,,,,
+31392,v,4,donaturnya,dasar,
+31392.1,v,,<donatur> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+31393,k,0,doncang,dasar,
+,,,,,
+31394,k,0,dondang,dasar,
+,,,,,
+31395,k,0,dondangan,dasar,
+31395.1,v,,<dondang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+31396,k,0,donder,dasar,
+,,,,,
+31397,k,2,dondo,dasar,
+,,,,,
+31398,k,0,dondon,dasar,
+,,,,,
+31399,k,0,dondurma,dasar,
+,,,,,
+31400,k,380,dong,dasar,
+,,,,,
+31401,k,0,dongak,dasar,
+,,,,,
+31402,v,5,dongakkan,dasar,
+31402.1,v,,<dongak> + -kan,bentukan,[29] [S] -kan + (<all>)
+31402.2,x,,<dongakk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+31403,k,7,dongan,dasar,
+31403.1,x,,<dong> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+31404,k,0,dongbret,dasar,
+,,,,,
+31405,k,0,dongdang,dasar,
+,,,,,
+31406,k,0,dongdoman,dasar,
+31406.1,x,,<dongdom> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+31407,k,0,dongdot,dasar,
+,,,,,
+31408,k,254,dongeng,dasar,
+,,,,,
+31409,k,0,dongeng sasakala,dasar,
+,,,,,
+31410,v,36,dongeng-dongeng,dasar,
+31410.1,v,,<dongeng> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+31411,v,2,dongeng-dongengnya,dasar,
+31411.1,x,,<dongeng> [-] <r> + -nya,bentukan,[23] [RD] |
+31411.2,v,,<dongeng> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+31412,k,6,dongengan,dasar,
+31412.1,v,,<dongeng> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+31413,v,2,dongengi,dasar,
+31413.1,v,,<dongeng> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+31414,v,4,dongengkan,dasar,
+31414.1,v,,<dongeng> + -kan,bentukan,[29] [S] -kan + (<all>)
+31414.2,x,,<dongengk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+31415,v,2,dongengku,dasar,
+31415.1,v,,<dongeng> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+31416,v,5,dongengmu,dasar,
+31416.1,v,,<dongeng> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+,,,,,
+31417,v,15,dongengnya,dasar,
+31417.1,v,,<dongeng> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+31418,k,49,donggala,dasar,
+,,,,,
+31419,k,0,dongkak,dasar,
+,,,,,
+31420,k,0,dongkal,dasar,
+,,,,,
+31421,k,0,dongkel,dasar,
+,,,,,
+31422,k,0,dongkelan,dasar,
+31422.1,v,,<dongkel> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+31423,k,8,dongker,dasar,
+,,,,,
+31424,k,0,dongkok,dasar,
+,,,,,
+31425,k,45,dongkol,dasar,
+,,,,,
+31426,k,27,dongkrak,dasar,
+,,,,,
+31427,k,0,dongkrak ulir,dasar,
+,,,,,
+31428,k,0,dongkrok,dasar,
+,,,,,
+31429,k,4,dongok,dasar,
+,,,,,
+31430,k,0,dongpan,dasar,
+31430.1,x,,<dongp> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+31431,k,0,dongsok,dasar,
+,,,,,
+31432,k,109,doni,dasar,
+31432.1,x,,<don> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+31433,k,161,donor,dasar,
+,,,,,
+31434,k,0,donor universal,dasar,
+,,,,,
+31435,v,2,donor-donor,dasar,
+31435.1,v,,<donor> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+31436,v,2,donorkan,dasar,
+31436.1,v,,<donor> + -kan,bentukan,[29] [S] -kan + (<all>)
+31436.2,x,,<donork> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+31437,v,3,donornya,dasar,
+31437.1,v,,<donor> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+31438,k,0,donto,dasar,
+,,,,,
+31439,k,0,dontok,dasar,
+,,,,,
+31440,k,10,dop,dasar,
+,,,,,
+31441,k,0,dopak,dasar,
+,,,,,
+31442,k,21,dopamin,dasar,
+,,,,,
+31443,k,41,doping,dasar,
+,,,,,
+31444,k,0,dopis,dasar,
+31444.1,x,,<dopi> + [-is:-s],bentukan,[177] [S] -is + (i)
+31444.2,x,,<dop> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+31445,k,60,dor,dasar,
+,,,,,
+31446,k,0,dor-doran,dasar,
+31446.1,v,,<dor> [-] <r> + -an,bentukan,[23] [RD] |
+,,,,,
+31447,k,0,dorama,dasar,
+,,,,,
+31448,k,4,doran,dasar,
+31448.1,x,,<dor> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+31449,k,0,dorang,dasar,
+,,,,,
+31450,k,0,dorayaki,dasar,
+31450.1,x,,<dorayak> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+31451,k,0,dorbi,dasar,
+31451.1,x,,<dorb> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+31452,k,4,dore,dasar,
+,,,,,
+31453,k,12,dori,dasar,
+31453.1,x,,<dor> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+31454,k,19,dorman,dasar,
+31454.1,x,,<dorm> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+31455,k,6,dormansi,dasar,
+31455.1,x,,<dormans> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+31456,k,13,dorna,dasar,
+,,,,,
+31457,k,405,dorong,dasar,
+,,,,,
+31458,v,3,dorong-mendorong,dasar,
+31458.1,v,,<dorong> [-] [meng-:men-] + <r>,bentukan,[3] meng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-i;-kan) => [24] [RD] |meng-
+,,,,,
+31459,k,567,dorongan,dasar,
+31459.1,v,,<dorong> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+31460,k,0,dorongan data,dasar,
+,,,,,
+31461,k,0,dorongan nafsu,dasar,
+,,,,,
+31462,k,0,dorongan nafsu mempertahankan diri,dasar,
+31462.1,x,,<dorongan nafsu mempertahankan dir> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+31463,k,0,dorongan nafsu mempertahankan jenis,dasar,
+31463.1,x,,<dorongan nafsu mempertahankan jeni> + [-is:-s],bentukan,[177] [S] -is + (i)
+31463.2,x,,<dorongan nafsu mempertahankan jen> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+31464,k,0,dorongan nafsu mengembangkan diri,dasar,
+31464.1,x,,<dorongan nafsu mengembangkan dir> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+31465,k,0,dorongan nafsu seksual,dasar,
+,,,,,
+31466,k,0,dorongan sembur,dasar,
+,,,,,
+31467,k,0,dorongan sosial,dasar,
+,,,,,
+31468,t,10,dorongan-dorongan,dasar,dorong-mendorong
+31468.1,v,,<dorongan> [-] <r>,bentukan,[23] [RD] |
+31468.2,x,,<dorong> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+31469,k,10,dorsal,dasar,
+,,,,,
+31470,k,0,dorsifleksi,dasar,
+31470.1,x,,<dorsifleks> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+31471,k,0,dorslah,dasar,
+31471.1,x,,<dors> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+31472,k,0,dorsopalatal,dasar,
+,,,,,
+31473,k,0,dorsovelar,dasar,
+,,,,,
+31474,k,2,dorsum,dasar,
+,,,,,
+31475,k,0,dortrap,dasar,
+,,,,,
+31476,k,0,doru,dasar,
+,,,,,
+31477,c,42,dos,dasar,dus
+,,,,,
+31478,k,375,dosa,dasar,
+,,,,,
+31479,k,0,dosa asal,dasar,
+,,,,,
+31480,k,0,dosa besar,dasar,
+,,,,,
+31481,k,0,dosa maut,dasar,
+,,,,,
+31482,k,0,dosa pokok,dasar,
+,,,,,
+31483,k,0,dosa waris,dasar,
+31483.1,x,,<dosa wari> + [-is:-s],bentukan,[177] [S] -is + (i)
+31483.2,x,,<dosa war> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+31484,v,47,dosa-dosa,dasar,
+31484.1,v,,<dosa> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+31485,v,4,dosa-dosaku,dasar,
+31485.1,x,,<dosa-dosa> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+31485.2,v,,<dosa> [-] <r> + -ku,bentukan,[23] [RD] | => [32] [SFS] -ku + (<all>)
+,,,,,
+31486,v,8,dosa-dosamu,dasar,
+31486.1,x,,<dosa-dosa> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+31486.2,v,,<dosa> [-] <r> + -mu,bentukan,[23] [RD] | => [33] [SFS] -mu + (<all>)
+,,,,,
+31487,v,13,dosa-dosanya,dasar,
+31487.1,x,,<dosa> [-] <r> + -nya,bentukan,[23] [RD] |
+31487.2,v,,<dosa> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+31488,v,27,dosaku,dasar,
+31488.1,v,,<dosa> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+31489,v,10,dosamu,dasar,
+31489.1,v,,<dosa> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+,,,,,
+31490,v,36,dosanya,dasar,
+31490.1,v,,<dosa> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+31491,k,1241,dosen,dasar,
+,,,,,
+31492,k,0,dosen luar biasa,dasar,
+,,,,,
+31493,k,0,dosen pembimbing,dasar,
+,,,,,
+31494,k,0,dosen tamu,dasar,
+31494.1,x,,<dosen ta> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+,,,,,
+31495,k,0,dosen terbang,dasar,
+,,,,,
+31496,v,33,dosen-dosen,dasar,
+31496.1,v,,<dosen> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+31497,v,2,dosen-dosenku,dasar,
+31497.1,x,,<dosen-dosen> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+31497.2,v,,<dosen> [-] <r> + -ku,bentukan,[23] [RD] | => [32] [SFS] -ku + (<all>)
+,,,,,
+31498,v,3,dosenku,dasar,
+31498.1,v,,<dosen> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+31499,v,2,dosenmu,dasar,
+31499.1,v,,<dosen> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+,,,,,
+31500,k,0,dosimeter,dasar,
+31500.1,x,,<dosi> + -meter,bentukan,[189] [S] -meter + (<all>)
+,,,,,
+31501,k,0,dosin,dasar,
+,,,,,
+31502,k,0,dosir,dasar,
+,,,,,
+31503,k,559,dosis,dasar,
+31503.1,x,,<dosi> + [-is:-s],bentukan,[177] [S] -is + (i)
+31503.2,x,,<dos> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+31504,k,0,dosis ambang,dasar,
+,,,,,
+31505,k,0,dosis maut,dasar,
+,,,,,
+31506,k,40,dot,dasar,
+,,,,,
+31507,k,7,dou,dasar,
+,,,,,
+31508,k,0,dou matua,dasar,
+,,,,,
+31509,k,0,doula,dasar,
+,,,,,
+31510,k,2,dowel,dasar,
+,,,,,
+31511,k,9,dower,dasar,
+,,,,,
+31512,k,0,doyak,dasar,
+,,,,,
+31513,k,99,doyan,dasar,
+31513.1,x,,<doy> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+31514,k,0,doyang,dasar,
+,,,,,
+31515,v,2,doyannya,dasar,
+31515.1,v,,<doyan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+31515.2,x,,<doy> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+31516,c,2,doyo,dasar,dojo
+,,,,,
+31517,v,2,doyok,dasar,
+,,,,,
+31518,k,15,doyong,dasar,
+,,,,,
+31519,k,0,dr kecil mula,dasar,
+,,,,,
+31520,k,197,draf,dasar,
+,,,,,
+31521,k,43,dragon,dasar,
+,,,,,
+31522,k,0,dragonder,dasar,
+,,,,,
+31523,k,0,drai,dasar,
+31523.1,x,,<dra> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+31524,k,170,drainase,dasar,
+31524.1,x,,<drain> + -ase,bentukan,[210] [S] -ase + (<all>)
+,,,,,
+31525,k,0,drainase aerasi,dasar,
+31525.1,x,,<drainase aeras> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+31526,k,0,drainase alamiah,dasar,
+31526.1,x,,<drainase alam> + -iah,bentukan,[175] [S] -iah + (<others>)
+,,,,,
+31527,k,0,drainase bawah permukaan,dasar,
+31527.1,x,,<drainase bawah permuka> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+31528,k,0,drainase induk,dasar,
+,,,,,
+31529,k,0,drainase lapangan,dasar,
+31529.1,x,,<drainase lapang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+31530,k,0,drainase permukaan,dasar,
+31530.1,x,,<drainase permuka> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+31531,k,0,drainase terbuka,dasar,
+,,,,,
+31532,k,13,drakula,dasar,
+,,,,,
+31533,k,5,dram,dasar,
+,,,,,
+31534,k,613,drama,dasar,
+,,,,,
+31535,k,0,drama absurd,dasar,
+,,,,,
+31536,k,0,drama air,dasar,
+,,,,,
+31537,k,0,drama akademik,dasar,
+,,,,,
+31538,k,0,drama anjing,dasar,
+,,,,,
+31539,k,0,drama atenian,dasar,
+31539.1,x,,<drama ateni> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+31540,k,0,drama baca,dasar,
+,,,,,
+31541,k,0,drama banyolan,dasar,
+31541.1,x,,<drama banyol> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+31542,k,0,drama baru,dasar,
+,,,,,
+31543,k,0,drama berbingkai,dasar,
+31543.1,x,,<drama berbingka> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+31544,k,0,drama bersajak,dasar,
+,,,,,
+31545,k,0,drama borjuis,dasar,
+31545.1,x,,<drama borjui> + [-is:-s],bentukan,[177] [S] -is + (i)
+31545.2,x,,<drama borju> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+31546,k,0,drama cinta,dasar,
+,,,,,
+31547,k,0,drama daerah,dasar,
+,,,,,
+31548,k,0,drama dalam drama,dasar,
+,,,,,
+31549,k,0,drama dapur-cuci,dasar,
+31549.1,x,,<drama dapur-cuc> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+31550,k,0,drama dokumenter,dasar,
+,,,,,
+31551,k,0,drama domestik,dasar,
+,,,,,
+31552,k,0,drama duka,dasar,
+,,,,,
+31553,k,0,drama duka ria,dasar,
+,,,,,
+31554,k,0,drama eksistensialisme,dasar,
+31554.1,x,,<drama eksistensial> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+31555,k,0,drama epik,dasar,
+,,,,,
+31556,k,0,drama gembala desa,dasar,
+,,,,,
+31557,k,0,drama helenistik,dasar,
+,,,,,
+31558,k,0,drama heroik,dasar,
+,,,,,
+31559,k,0,drama keagamaan,dasar,
+31559.1,x,,<drama keagama> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+31560,k,0,drama kebangkitan,dasar,
+31560.1,x,,<drama kebangkit> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+31561,k,0,drama komedi,dasar,
+31561.1,x,,<drama komed> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+31562,k,0,drama kontemporer,dasar,
+,,,,,
+31563,k,0,drama legitemet,dasar,
+,,,,,
+31564,k,0,drama liris,dasar,
+31564.1,x,,<drama liri> + [-is:-s],bentukan,[177] [S] -is + (i)
+31564.2,x,,<drama lir> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+31565,k,0,drama liturgis,dasar,
+31565.1,x,,<drama liturgi> + [-is:-s],bentukan,[177] [S] -is + (i)
+31565.2,x,,<drama liturg> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+31566,k,0,drama mini kata,dasar,
+,,,,,
+31567,k,0,drama misteri,dasar,
+31567.1,x,,<drama mister> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+31568,k,0,drama modern,dasar,
+,,,,,
+31569,k,0,drama moralis,dasar,
+31569.1,x,,<drama morali> + [-is:-s],bentukan,[177] [S] -is + (i)
+31569.2,x,,<drama moral> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+31570,k,0,drama neoklasik,dasar,
+,,,,,
+31571,k,0,drama non-puitis,dasar,
+31571.1,x,,<drama non-puiti> + [-is:-s],bentukan,[177] [S] -is + (i)
+31571.2,x,,<drama non-puit> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+31572,k,0,drama objektif,dasar,
+,,,,,
+31573,k,0,drama parabel,dasar,
+,,,,,
+31574,k,0,drama pelayaran,dasar,
+31574.1,x,,<drama pelayar> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+31575,k,0,drama pengorbanan,dasar,
+31575.1,x,,<drama pengorban> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+31576,k,0,drama proletar,dasar,
+,,,,,
+31577,k,0,drama puitis,dasar,
+31577.1,x,,<drama puiti> + [-is:-s],bentukan,[177] [S] -is + (i)
+31577.2,x,,<drama puit> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+31578,k,0,drama rakyat,dasar,
+,,,,,
+31579,k,0,drama realis,dasar,
+31579.1,x,,<drama reali> + [-is:-s],bentukan,[177] [S] -is + (i)
+31579.2,x,,<drama real> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+31580,k,0,drama religius,dasar,
+,,,,,
+31581,k,0,drama ria,dasar,
+,,,,,
+31582,k,0,drama romantik,dasar,
+,,,,,
+31583,k,0,drama romawi,dasar,
+31583.1,x,,<drama romaw> + -i,bentukan,[28] [S] -i + (<all>)
+31583.2,x,,<drama roma> + -wi,bentukan,[174] [S] -wi + (<others>)
+,,,,,
+31584,k,0,drama ruang keseharian,dasar,
+31584.1,x,,<drama ruang kesehari> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+31585,k,0,drama rumah tangga,dasar,
+,,,,,
+31586,k,0,drama satire,dasar,
+,,,,,
+31587,k,0,drama satu babak,dasar,
+,,,,,
+31588,k,0,drama sejarah,dasar,
+,,,,,
+31589,k,0,drama sekolah,dasar,
+31589.1,x,,<drama seko> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+31590,k,0,drama serius,dasar,
+,,,,,
+31591,k,0,drama takdir,dasar,
+,,,,,
+31592,k,0,drama tari,dasar,
+31592.1,x,,<drama tar> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+31593,k,0,drama tari timur,dasar,
+,,,,,
+31594,k,0,drama tendens,dasar,
+,,,,,
+31595,v,13,drama-drama,dasar,
+31595.1,v,,<drama> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+31596,k,49,dramatik,dasar,
+,,,,,
+31597,k,0,dramatikus,dasar,
+,,,,,
+31598,k,208,dramatis,dasar,
+31598.1,x,,<dramati> + [-is:-s],bentukan,[177] [S] -is + (i)
+31598.2,x,,<dramat> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+31599,k,22,dramatisasi,dasar,
+31599.1,x,,<dramatisas> + -i,bentukan,[28] [S] -i + (<all>)
+31599.2,x,,<dramati> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+31599.3,x,,<dramatis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+31599.4,x,,<dramat> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+31600,v,2,dramatisasinya,dasar,
+31600.1,v,,<dramatisasi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+31600.2,x,,<dramatisas> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+31600.3,x,,<dramati> + [-isasi:-sasi] + -nya,bentukan,[166] [S] -isasi + (i) => [34] [SFS] -nya + (<all>)
+31600.4,x,,<dramatis> + [-isasi:-asi] + -nya,bentukan,[167] [S] -isasi + (is) => [34] [SFS] -nya + (<all>)
+31600.5,x,,<dramat> + -isasi + -nya,bentukan,[169] [S] -isasi + (<others>) => [34] [SFS] -nya + (<all>)
+,,,,,
+31601,k,0,dramatisir,dasar,
+,,,,,
+31602,v,4,dramatisnya,dasar,
+31602.1,v,,<dramatis> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+31602.2,x,,<dramati> + [-is:-s] + -nya,bentukan,[177] [S] -is + (i) => [34] [SFS] -nya + (<all>)
+31602.3,x,,<dramat> + -is + -nya,bentukan,[178] [S] -is + (<others>) => [34] [SFS] -nya + (<all>)
+,,,,,
+31603,k,0,dramaturg,dasar,
+,,,,,
+31604,k,9,dramaturgi,dasar,
+31604.1,x,,<dramaturg> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+31605,k,21,dramawan,dasar,
+31605.1,x,,<dramaw> + -an,bentukan,[38] [S] -an + (<all>)
+31605.2,v,,<drama> + -wan,bentukan,[180] [S] -wan + (<others>)
+31605.3,x,,<dram> + [-wan:-awan],bentukan,[18000001] [S] -wan + (<all>)
+,,,,,
+31606,k,2,draperi,dasar,
+31606.1,x,,<draper> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+31607,k,530,drastis,dasar,
+31607.1,x,,<drasti> + [-is:-s],bentukan,[177] [S] -is + (i)
+31607.2,x,,<drast> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+31608,v,3,drastisnya,dasar,
+31608.1,v,,<drastis> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+31608.2,x,,<drasti> + [-is:-s] + -nya,bentukan,[177] [S] -is + (i) => [34] [SFS] -nya + (<all>)
+31608.3,x,,<drast> + -is + -nya,bentukan,[178] [S] -is + (<others>) => [34] [SFS] -nya + (<all>)
+,,,,,
+31609,k,0,drat,dasar,
+,,,,,
+31610,k,0,drel,dasar,
+,,,,,
+31611,k,0,drem,dasar,
+,,,,,
+31612,k,0,dresoar,dasar,
+,,,,,
+31613,k,0,dresur,dasar,
+,,,,,
+31614,c,3,dria,dasar,indra
+,,,,,
+31615,k,4,dribel,dasar,
+,,,,,
+31616,k,0,drif,dasar,
+,,,,,
+31617,k,4,dril,dasar,
+,,,,,
+31618,k,7,drip,dasar,
+,,,,,
+31619,k,0,dromomania,dasar,
+,,,,,
+31620,k,181,drop,dasar,
+,,,,,
+31621,k,0,dropsi,dasar,
+31621.1,x,,<drops> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+31622,k,0,drosometer,dasar,
+31622.1,x,,<droso> + -meter,bentukan,[189] [S] -meter + (<all>)
+,,,,,
+31623,k,117,drum,dasar,
+,,,,,
+31624,v,5,drum-drum,dasar,
+31624.1,v,,<drum> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+31625,k,0,druma,dasar,
+,,,,,
+31626,k,0,drumben,dasar,
+,,,,,
+31627,k,0,drumer,dasar,
+,,,,,
+31628,v,4,drumnya,dasar,
+31628.1,v,,<drum> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+31629,k,0,druwe,dasar,
+,,,,,
+31630,k,0,druwe desa,dasar,
+,,,,,
+31631,k,15083,dua,dasar,
+,,,,,
+31632,v,10,dua-dua,dasar,
+31632.1,v,,<dua> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+31633,k,0,dua-duaan,dasar,
+31633.1,v,,<dua> [-] <r> + -an,bentukan,[23] [RD] |
+,,,,,
+31634,k,129,dua-duanya,dasar,
+31634.1,x,,<dua> [-] <r> + -nya,bentukan,[23] [RD] |
+31634.2,v,,<dua> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+31635,k,9,duafa,dasar,
+,,,,,
+31636,k,0,duai,dasar,
+31636.1,x,,<dua> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+31637,k,0,duaja,dasar,
+,,,,,
+31638,k,361,dual,dasar,
+,,,,,
+31639,k,0,dualis,dasar,
+31639.1,x,,<duali> + [-is:-s],bentukan,[177] [S] -is + (i)
+31639.2,v,,<dual> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+31640,k,0,dualisme,dasar,
+31640.1,v,,<dual> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+31641,k,0,dualisme ekonomi,dasar,
+31641.1,x,,<dualisme ekonom> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+31642,k,0,dualisme semantis,dasar,
+31642.1,x,,<dualisme semanti> + [-is:-s],bentukan,[177] [S] -is + (i)
+31642.2,x,,<dualisme semant> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+31643,v,5,dualistik,dasar,
+,,,,,
+31644,k,2,dualistis,dasar,
+31644.1,x,,<dualisti> + [-is:-s],bentukan,[177] [S] -is + (i)
+31644.2,x,,<dualist> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+31645,k,13,dualitas,dasar,
+31645.1,v,,<dual> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+31646,k,5,duane,dasar,
+,,,,,
+31647,k,2,dub,dasar,
+,,,,,
+31648,k,0,dubalang,dasar,
+,,,,,
+31649,k,0,dubelir,dasar,
+,,,,,
+31650,k,149,dubes,dasar,
+,,,,,
+31651,k,0,dubing,dasar,
+,,,,,
+31652,k,0,dubius,dasar,
+,,,,,
+31653,k,0,duble,dasar,
+,,,,,
+31654,k,0,dublir,dasar,
+,,,,,
+31655,k,0,dubnium,dasar,
+,,,,,
+31656,k,0,dubu,dasar,
+,,,,,
+31657,k,0,dubuk,dasar,
+,,,,,
+31658,k,21,dubur,dasar,
+,,,,,
+31659,k,61,duda,dasar,
+,,,,,
+31660,k,0,duda caluk,dasar,
+,,,,,
+31661,k,0,duda kembang,dasar,
+,,,,,
+31662,k,7,dudu,dasar,
+,,,,,
+31663,k,0,duduh,dasar,
+,,,,,
+31664,k,2449,duduk,dasar,
+,,,,,
+31665,k,0,duduk belunjur,dasar,
+,,,,,
+31666,k,0,duduk berjuntai,dasar,
+31666.1,x,,<duduk berjunta> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+31667,k,0,duduk bersila,dasar,
+,,,,,
+31668,k,0,duduk bersimpuh,dasar,
+,,,,,
+31669,k,0,duduk bertimpuh,dasar,
+,,,,,
+31670,k,0,duduk bertinggung,dasar,
+,,,,,
+31671,k,0,duduk bertongkat lutut,dasar,
+,,,,,
+31672,k,0,duduk kijang,dasar,
+,,,,,
+31673,k,0,duduk menukuk,dasar,
+,,,,,
+31674,k,0,duduk perkara,dasar,
+,,,,,
+31675,k,0,duduk persoalan,dasar,
+31675.1,x,,<duduk persoal> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+31676,k,0,duduk perut,dasar,
+,,,,,
+31677,k,0,duduk sengkil,dasar,
+,,,,,
+31678,k,145,duduk-duduk,dasar,
+31678.1,v,,<duduk> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+31679,k,52,dudukan,dasar,
+31679.1,x,,<dudu> + -kan,bentukan,[29] [S] -kan + (<all>)
+31679.2,v,,<duduk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+31680,v,36,duduki,dasar,
+31680.1,v,,<duduk> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+31681,v,54,duduklah,dasar,
+31681.1,v,,<duduk> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+31682,v,4,dudukmu,dasar,
+31682.1,v,,<duduk> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+,,,,,
+31683,v,174,duduknya,dasar,
+31683.1,v,,<duduk> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+31684,k,0,dudur,dasar,
+,,,,,
+31685,k,0,dudus,dasar,
+,,,,,
+31686,k,187,duel,dasar,
+,,,,,
+31687,k,118,duet,dasar,
+,,,,,
+31688,v,5,duetnya,dasar,
+31688.1,v,,<duet> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+31689,k,158,duga,dasar,
+,,,,,
+31690,v,6,duga-duga,dasar,
+31690.1,v,,<duga> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+31691,k,1418,dugaan,dasar,
+31691.1,v,,<duga> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+31692,k,0,dugaan kebutuhan rerata,dasar,
+,,,,,
+31693,v,15,dugaan-dugaan,dasar,
+31693.1,v,,<dugaan> [-] <r>,bentukan,[23] [RD] |
+31693.2,x,,<duga> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+31694,v,70,dugaanku,dasar,
+31694.1,x,,<dugaan> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+31694.2,v,,<duga> + -an + -ku,bentukan,[38] [S] -an + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+31695,v,3,dugaanmu,dasar,
+31695.1,x,,<dugaan> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+31695.2,v,,<duga> + -an + -mu,bentukan,[38] [S] -an + (<all>) => [33] [SFS] -mu + (<all>)
+,,,,,
+31696,v,52,dugaannya,dasar,
+31696.1,x,,<dugaan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+31696.2,v,,<duga> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+31697,k,0,dugal,dasar,
+,,,,,
+31698,k,0,dugang,dasar,
+,,,,,
+31699,k,0,dugas,dasar,
+,,,,,
+31700,k,0,dugdeng,dasar,
+,,,,,
+31701,k,0,dugder,dasar,
+,,,,,
+31702,k,4,dugem,dasar,
+,,,,,
+31703,k,7,dugong,dasar,
+,,,,,
+31704,k,107,duh,dasar,
+,,,,,
+31705,k,8,duha,dasar,
+,,,,,
+31706,k,17,duhai,dasar,
+31706.1,x,,<duha> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+31707,k,0,duhe,dasar,
+,,,,,
+31708,k,0,duhu,dasar,
+,,,,,
+31709,k,0,duhuna,dasar,
+,,,,,
+31710,c,6,duhur,dasar,zuhur
+,,,,,
+31711,k,0,duilah,dasar,
+31711.1,x,,<dui> + -lah,bentukan,[31] [FS] -lah + (<all>)
+31711.2,x,,<du> + -i + -lah,bentukan,[28] [S] -i + (<all>) => [31] [FS] -lah + (<all>)
+,,,,,
+31712,k,545,duit,dasar,
+,,,,,
+31713,k,0,duit ayam,dasar,
+,,,,,
+31714,k,0,duit maya,dasar,
+,,,,,
+31715,k,0,duit selawat,dasar,
+,,,,,
+31716,v,3,duit-duit,dasar,
+31716.1,v,,<duit> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+31717,v,49,duitnya,dasar,
+31717.1,v,,<duit> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+31718,k,30,duk,dasar,
+,,,,,
+31719,k,473,duka,dasar,
+,,,,,
+31720,k,0,duka cita,dasar,
+,,,,,
+31721,k,0,duka nestapa,dasar,
+,,,,,
+31722,k,0,duka ria,dasar,
+,,,,,
+31723,k,0,dukacarita,dasar,
+,,,,,
+31724,k,32,dukacita,dasar,
+,,,,,
+31725,k,0,dukacita kematian,dasar,
+31725.1,x,,<dukacita kemati> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+31726,k,0,dukak,dasar,
+,,,,,
+31727,v,7,dukaku,dasar,
+31727.1,v,,<duka> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+31728,k,4,dukan,dasar,
+31728.1,x,,<du> + -kan,bentukan,[29] [S] -kan + (<all>)
+31728.2,x,,<duk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+31729,k,0,dukana,dasar,
+,,,,,
+31730,v,31,dukanya,dasar,
+31730.1,v,,<duka> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+31731,k,0,dukat,dasar,
+,,,,,
+31732,k,0,dukaten,dasar,
+,,,,,
+31733,k,0,dukhan,dasar,
+31733.1,x,,<dukh> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+31734,k,0,dukremek,dasar,
+,,,,,
+31735,k,0,duktulus,dasar,
+,,,,,
+31736,k,11,duktus,dasar,
+,,,,,
+31737,k,0,duktus empedu,dasar,
+,,,,,
+31738,k,0,duktus torakikus,dasar,
+,,,,,
+31739,k,33,duku,dasar,
+31739.1,x,,<du> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+31740,k,60,dukuh,dasar,
+,,,,,
+31741,k,207,dukun,dasar,
+,,,,,
+31742,k,0,dukun bayi,dasar,
+31742.1,x,,<dukun bay> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+31743,k,0,dukun beranak,dasar,
+,,,,,
+31744,k,0,dukun calak,dasar,
+,,,,,
+31745,k,0,dukun jampi,dasar,
+31745.1,x,,<dukun jamp> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+31746,k,0,dukun japa,dasar,
+,,,,,
+31747,k,0,dukun klenik,dasar,
+,,,,,
+31748,k,0,dukun pangkeng,dasar,
+,,,,,
+31749,k,0,dukun santet,dasar,
+,,,,,
+31750,k,0,dukun siwer,dasar,
+,,,,,
+31751,k,0,dukun susuk,dasar,
+,,,,,
+31752,k,0,dukun tenung,dasar,
+,,,,,
+31753,k,0,dukun tiban,dasar,
+31753.1,x,,<dukun tib> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+31754,v,7,dukun-dukun,dasar,
+31754.1,v,,<dukun> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+31755,k,614,dukung,dasar,
+,,,,,
+31756,v,5,dukung-mendukung,dasar,
+31756.1,v,,<dukung> [-] [meng-:men-] + <r>,bentukan,[3] meng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-i;-kan) => [24] [RD] |meng-
+,,,,,
+31757,k,3258,dukungan,dasar,
+31757.1,v,,<dukung> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+31758,k,0,dukungan bahasa alami,dasar,
+31758.1,v,,<dukungan bahasa alam> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+31759,k,0,dukungan sosial,dasar,
+,,,,,
+31760,v,8,dukungan-dukungan,dasar,
+31760.1,x,,<dukungan> [-] <r>,bentukan,[23] [RD] |
+31760.2,v,,<dukung> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+31761,v,119,dukungannya,dasar,
+31761.1,x,,<dukungan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+31761.2,v,,<dukung> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+31762,v,4,dukunglah,dasar,
+31762.1,v,,<dukung> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+31763,k,2,dukut,dasar,
+,,,,,
+31764,k,2,dula,dasar,
+,,,,,
+31765,k,0,dulag,dasar,
+,,,,,
+31766,k,3,dulah,dasar,
+31766.1,x,,<du> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+31767,k,0,dulaha,dasar,
+,,,,,
+31768,k,20,dulang,dasar,
+,,,,,
+31769,k,0,dulang alas,dasar,
+,,,,,
+31770,k,0,dulang pelanda,dasar,
+31770.1,x,,<dulang pela> + [-anda:-nda],bentukan,[183] [S] -anda + (i;u;a;[k:])
+31770.2,x,,<dulang pelan> + [-anda:-da],bentukan,[184] [S] -anda + (an)
+31770.3,x,,<dulang pel> + -anda,bentukan,[185] [S] -anda + (<others>)
+,,,,,
+31771,k,0,dulang rendah,dasar,
+,,,,,
+31772,k,0,dulang tinggi,dasar,
+31772.1,x,,<dulang tingg> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+31773,k,0,dulang-dulang,dasar,
+31773.1,v,,<dulang> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+31774,k,5,duli,dasar,
+31774.1,x,,<dul> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+31775,k,0,dulngo,dasar,
+,,,,,
+31776,k,0,dulohupa,dasar,
+,,,,,
+31777,c,4423,dulu,dasar,dahulu
+,,,,,
+31778,v,36,dulu-dulu,dasar,
+31778.1,v,,<dulu> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+31779,t,2,dulu-duluan,dasar,mendulu-dului
+31779.1,x,,<dulu> [-] <r> + -an,bentukan,[23] [RD] |
+,,,,,
+31780,v,188,duluan,dasar,
+31780.1,v,,<dulu> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+31781,k,3,dulur,dasar,
+,,,,,
+31782,k,5,dum,dasar,
+,,,,,
+31783,k,83,dumai,dasar,
+31783.1,x,,<duma> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+31784,k,0,dumalombang,dasar,
+,,,,,
+31785,k,0,dumbarat,dasar,
+,,,,,
+31786,k,0,dumbel,dasar,
+,,,,,
+31787,k,7,dumbo,dasar,
+,,,,,
+31788,k,0,dumdum,dasar,
+,,,,,
+31789,k,0,dumen,dasar,
+,,,,,
+31790,k,0,dumi,dasar,
+31790.1,x,,<dum> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+31791,k,29,dumping,dasar,
+,,,,,
+31792,k,0,dumung,dasar,
+,,,,,
+31793,k,0,dumut,dasar,
+,,,,,
+31794,k,0,dunah,dasar,
+,,,,,
+31795,k,0,dunak,dasar,
+,,,,,
+31796,k,0,dundang,dasar,
+,,,,,
+31797,k,31,dung,dasar,
+,,,,,
+31798,k,0,dungas,dasar,
+,,,,,
+31799,k,0,dungdung,dasar,
+,,,,,
+31800,k,0,dunggu,dasar,
+,,,,,
+31801,k,0,dungkelan,dasar,
+31801.1,x,,<dungkel> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+31802,k,0,dungkul,dasar,
+,,,,,
+31803,k,65,dungu,dasar,
+,,,,,
+31804,k,0,dungulan,dasar,
+31804.1,x,,<dungul> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+31805,k,0,dungun,dasar,
+,,,,,
+31806,k,9961,dunia,dasar,
+,,,,,
+31807,k,0,dunia akhirat,dasar,
+,,,,,
+31808,k,0,dunia anak-anak,dasar,
+,,,,,
+31809,k,0,dunia atas,dasar,
+,,,,,
+31810,k,0,dunia barat,dasar,
+,,,,,
+31811,k,0,dunia bawah,dasar,
+,,,,,
+31812,k,0,dunia bebas,dasar,
+,,,,,
+31813,k,0,dunia fana,dasar,
+,,,,,
+31814,k,0,dunia hewan,dasar,
+31814.1,x,,<dunia hew> + -an,bentukan,[38] [S] -an + (<all>)
+31814.2,x,,<dunia he> + -wan,bentukan,[180] [S] -wan + (<others>)
+,,,,,
+31815,k,0,dunia hitam,dasar,
+,,,,,
+31816,k,0,dunia internasional,dasar,
+,,,,,
+31817,k,0,dunia ketiga,dasar,
+,,,,,
+31818,k,0,dunia luar,dasar,
+,,,,,
+31819,k,0,dunia maya,dasar,
+,,,,,
+31820,k,0,dunia merdeka,dasar,
+,,,,,
+31821,d,0,dunia nyata,dasar,
+,,,,,
+31822,k,0,dunia paralel,dasar,
+,,,,,
+31823,k,0,dunia politik,dasar,
+,,,,,
+31824,k,0,dunia ramai,dasar,
+31824.1,x,,<dunia rama> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+31825,k,0,dunia timur,dasar,
+,,,,,
+31826,k,0,dunia tumbuh-tumbuhan,dasar,
+31826.1,x,,<dunia tumbuh-tumbuh> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+31827,k,0,dunia wadak,dasar,
+,,,,,
+31828,v,30,duniaku,dasar,
+31828.1,v,,<dunia> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+31829,v,23,duniamu,dasar,
+31829.1,v,,<dunia> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+,,,,,
+31830,v,149,dunianya,dasar,
+31830.1,v,,<dunia> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+31831,k,120,duniawi,dasar,
+31831.1,x,,<duniaw> + -i,bentukan,[28] [S] -i + (<all>)
+31831.2,v,,<dunia> + -wi,bentukan,[174] [S] -wi + (<others>)
+,,,,,
+31832,c,3,dunsanak,dasar,dansanak
+,,,,,
+31833,k,122,duo,dasar,
+,,,,,
+31834,k,5,duodenum,dasar,
+,,,,,
+31835,k,0,duodesimal,dasar,
+,,,,,
+31836,k,0,duodrama,dasar,
+,,,,,
+31837,k,0,duopoli,dasar,
+31837.1,x,,<duopol> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+31838,k,0,duopsoni,dasar,
+31838.1,x,,<duopson> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+31839,k,13,dup,dasar,
+,,,,,
+31840,k,41,dupa,dasar,
+,,,,,
+31841,v,2,dupa-dupa,dasar,
+31841.1,v,,<dupa> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+31842,k,4,dupak,dasar,
+,,,,,
+31843,k,0,dupet,dasar,
+,,,,,
+31844,k,0,dupi,dasar,
+31844.1,x,,<dup> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+31845,k,4,dupleks,dasar,
+,,,,,
+31846,k,0,dupleks hibrid,dasar,
+,,,,,
+31847,k,0,duplet,dasar,
+,,,,,
+31848,k,5,duplik,dasar,
+,,,,,
+31849,k,59,duplikasi,dasar,
+31849.1,x,,<duplikas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+31850,k,39,duplikat,dasar,
+,,,,,
+31851,k,2,duplikatif,dasar,
+,,,,,
+31852,v,4,duplikatnya,dasar,
+31852.1,v,,<duplikat> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+31853,k,0,duplikator,dasar,
+,,,,,
+31854,k,0,duplikatus,dasar,
+,,,,,
+31855,k,0,duplisitas,dasar,
+31855.1,x,,<duplis> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+31856,k,9,duplo,dasar,
+,,,,,
+31857,k,0,duprah,dasar,
+,,,,,
+31858,k,114,dur,dasar,
+,,,,,
+31859,k,3,dura,dasar,
+,,,,,
+31860,k,0,dura mater,dasar,
+,,,,,
+31861,v,37,durabilitas,dasar,
+31861.1,x,,<durabil> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+31862,v,8,durabilitasnya,dasar,
+31862.1,v,,<durabilitas> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+31862.2,x,,<durabil> + -itas + -nya,bentukan,[205] [S] -itas + (<others>) => [34] [SFS] -nya + (<all>)
+,,,,,
+31863,k,0,duralumin,dasar,
+,,,,,
+31864,k,0,duramater,dasar,
+,,,,,
+31865,k,0,durap,dasar,
+,,,,,
+31866,k,491,durasi,dasar,
+31866.1,x,,<duras> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+31867,k,0,durasi inap,dasar,
+,,,,,
+31868,v,33,durasinya,dasar,
+31868.1,v,,<durasi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+31868.2,x,,<duras> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+31869,k,0,durat,dasar,
+,,,,,
+31870,k,0,duratif,dasar,
+,,,,,
+31871,c,69,duren,dasar,durian
+,,,,,
+31872,k,0,dureng,dasar,
+,,,,,
+31873,k,65,durhaka,dasar,
+,,,,,
+31874,k,160,duri,dasar,
+31874.1,x,,<dur> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+31875,k,0,duri lengkung insang,dasar,
+,,,,,
+31876,k,0,duri tempel,dasar,
+,,,,,
+31877,v,21,duri-duri,dasar,
+31877.1,v,,<duri> [-] <r>,bentukan,[23] [RD] |
+31877.2,x,,<dur> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+31878,v,2,duri-durinya,dasar,
+31878.1,x,,<duri> [-] <r> + -nya,bentukan,[23] [RD] |
+31878.2,x,,<dur> + -i [-] <r> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+31878.3,v,,<duri> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+31878.4,x,,<dur> + -i [-] <r> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+31879,k,127,durian,dasar,
+31879.1,x,,<duri> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+31880,k,0,durian belanda,dasar,
+31880.1,x,,<durian bela> + [-anda:-nda],bentukan,[183] [S] -anda + (i;u;a;[k:])
+31880.2,x,,<durian belan> + [-anda:-da],bentukan,[184] [S] -anda + (an)
+31880.3,x,,<durian bel> + -anda,bentukan,[185] [S] -anda + (<others>)
+,,,,,
+31881,k,0,durian kuning,dasar,
+,,,,,
+31882,k,0,durian pulu,dasar,
+,,,,,
+31883,k,0,durian tinggang,dasar,
+,,,,,
+31884,v,4,duriannya,dasar,
+31884.1,v,,<durian> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+31884.2,x,,<duri> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+31885,k,0,durias,dasar,
+,,,,,
+31886,c,4,duriat,dasar,zuriah
+,,,,,
+31887,k,0,durikras,dasar,
+,,,,,
+31888,k,0,durinoda,dasar,
+,,,,,
+31889,k,0,duripan,dasar,
+31889.1,x,,<durip> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+31890,k,12,durja,dasar,
+,,,,,
+31891,k,29,durjana,dasar,
+,,,,,
+31892,k,0,durjasa,dasar,
+,,,,,
+31893,k,0,durkarsa,dasar,
+,,,,,
+31894,k,6,durma,dasar,
+,,,,,
+31895,c,4,durna,dasar,durno
+,,,,,
+31896,k,0,durno,dasar,
+,,,,,
+31897,k,0,durnois,dasar,
+31897.1,x,,<durnoi> + [-is:-s],bentukan,[177] [S] -is + (i)
+31897.2,v,,<durno> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+31898,k,0,durnoisme,dasar,
+31898.1,v,,<durno> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+31899,k,0,durometer,dasar,
+31899.1,x,,<duro> + -meter,bentukan,[189] [S] -meter + (<all>)
+,,,,,
+31900,k,0,dursila,dasar,
+,,,,,
+31901,k,3,duru,dasar,

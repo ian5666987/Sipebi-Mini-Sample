@@ -1,0 +1,1630 @@
+Nomor,KP,Jumlah,Entri,Tipe,Pembentukan
+41001,k,0,hidrofotometer,dasar,
+41001.1,x,,<hidrofoto> + -meter,bentukan,[189] [S] -meter + (<all>)
+,,,,,
+41002,k,0,hidrogasifikasi,dasar,
+41002.1,x,,<hidrogasifikas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+41003,k,4,hidrogel,dasar,
+,,,,,
+41004,k,128,hidrogen,dasar,
+,,,,,
+41005,k,0,hidrogen peroksida,dasar,
+,,,,,
+41006,k,0,hidrogen sulfida,dasar,
+,,,,,
+41007,k,0,hidrogenase,dasar,
+41007.1,x,,<hidrogen> + -ase,bentukan,[210] [S] -ase + (<all>)
+,,,,,
+41008,k,7,hidrogenasi,dasar,
+41008.1,x,,<hidrogenas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+41009,k,17,hidrogeologi,dasar,
+41009.1,x,,<hidrogeolog> + -i,bentukan,[28] [S] -i + (<all>)
+41009.2,x,,<hidrogeo> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+41010,t,15,hidrogeologis,dasar,hidrogeologi
+41010.1,v,,<hidrogeologi> + [-is:-s],bentukan,[177] [S] -is + (i)
+41010.2,v,,<hidrogeolog> + -is,bentukan,[178] [S] -is + (<others>)
+41010.3,x,,<hidrogeo> + -logi+-s,bentukan,[194] [MS] -logi+-s + (<all>)
+,,,,,
+41011,k,3,hidrograf,dasar,
+41011.1,x,,<hidro> + -graf,bentukan,[191] [S] -graf + (<all>)
+,,,,,
+41012,k,14,hidrografi,dasar,
+41012.1,x,,<hidrograf> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+41013,k,0,hidrogram,dasar,
+,,,,,
+41014,k,57,hidrokarbon,dasar,
+,,,,,
+41015,k,0,hidrokarbon alifatik,dasar,
+,,,,,
+41016,k,0,hidrokarbon aromatik,dasar,
+,,,,,
+41017,k,0,hidrokarbon jenuh,dasar,
+,,,,,
+41018,k,0,hidrokarbon siklik,dasar,
+,,,,,
+41019,k,0,hidrokarbon takjenuh,dasar,
+,,,,,
+41020,k,0,hidrokel,dasar,
+,,,,,
+41021,k,0,hidrokinematika,dasar,
+,,,,,
+41022,k,0,hidrokinetika,dasar,
+,,,,,
+41023,v,3,hidroklimatologi,dasar,
+41023.1,x,,<hidroklimatolog> + -i,bentukan,[28] [S] -i + (<all>)
+41023.2,x,,<hidroklimato> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+41024,k,4,hidroklorida,dasar,
+,,,,,
+41025,k,0,hidrokoloid,dasar,
+41025.1,x,,<hidrokol> + -oid,bentukan,[209] [S] -oid + (<all>)
+,,,,,
+41026,k,0,hidrokori,dasar,
+41026.1,x,,<hidrokor> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+41027,k,0,hidrokortison,dasar,
+,,,,,
+41028,t,22,hidroksi,dasar,hidroksil
+41028.1,x,,<hidroks> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+41029,k,3,hidroksiapatit,dasar,
+,,,,,
+41030,k,39,hidroksida,dasar,
+,,,,,
+41031,k,0,hidroksikobalamin,dasar,
+,,,,,
+41032,k,0,hidroksikolekalsiferol,dasar,
+,,,,,
+41033,k,42,hidroksil,dasar,
+,,,,,
+41034,k,7,hidroksilasi,dasar,
+41034.1,x,,<hidroksilas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+41035,k,0,hidroksilisin,dasar,
+,,,,,
+41036,k,0,hidroksiprolina,dasar,
+,,,,,
+41037,k,0,hidrokuinol,dasar,
+,,,,,
+41038,k,2,hidrokuinon,dasar,
+,,,,,
+41039,k,0,hidrolase,dasar,
+41039.1,x,,<hidrol> + -ase,bentukan,[210] [S] -ase + (<all>)
+,,,,,
+41040,t,27,hidrolik,dasar,hidrolis
+,,,,,
+41041,c,5,hidrolika,dasar,hidraulika
+,,,,,
+41042,v,7,hidrolis,dasar,
+41042.1,x,,<hidroli> + [-is:-s],bentukan,[177] [S] -is + (i)
+41042.2,x,,<hidrol> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+41043,d,0,hidrolisa,dasar,
+,,,,,
+41044,k,5,hidrolisat,dasar,
+,,,,,
+41045,k,41,hidrolisis,dasar,
+41045.1,x,,<hidrolisi> + [-is:-s],bentukan,[177] [S] -is + (i)
+41045.2,x,,<hidrolis> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+41046,k,6,hidrolitik,dasar,
+,,,,,
+41047,k,52,hidrologi,dasar,
+41047.1,x,,<hidrolog> + -i,bentukan,[28] [S] -i + (<all>)
+41047.2,x,,<hidro> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+41048,k,0,hidrologi lahan basah,dasar,
+,,,,,
+41049,k,0,hidrologi permukaan,dasar,
+41049.1,x,,<hidrologi permuka> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+41050,k,0,hidrologi tanah,dasar,
+,,,,,
+41051,k,0,hidrologia,dasar,
+,,,,,
+41052,k,26,hidrologis,dasar,
+41052.1,x,,<hidrologi> + [-is:-s],bentukan,[177] [S] -is + (i)
+41052.2,x,,<hidrolog> + -is,bentukan,[178] [S] -is + (<others>)
+41052.3,x,,<hidro> + -logi+-s,bentukan,[194] [MS] -logi+-s + (<all>)
+,,,,,
+41053,k,0,hidromagnetik,dasar,
+,,,,,
+41054,k,0,hidromagnetika,dasar,
+,,,,,
+41055,k,0,hidromekanika,dasar,
+,,,,,
+41056,k,3,hidrometalurgi,dasar,
+41056.1,x,,<hidrometalurg> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+41057,k,0,hidrometeor,dasar,
+,,,,,
+41058,k,20,hidrometeorologi,dasar,
+41058.1,x,,<hidrometeorolog> + -i,bentukan,[28] [S] -i + (<all>)
+41058.2,x,,<hidrometeoro> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+41059,v,2,hidrometeorologis,dasar,hidrometeorologi
+41059.1,v,,<hidrometeorologi> + [-is:-s],bentukan,[177] [S] -is + (i)
+41059.2,x,,<hidrometeorolog> + -is,bentukan,[178] [S] -is + (<others>)
+41059.3,x,,<hidrometeoro> + -logi+-s,bentukan,[194] [MS] -logi+-s + (<all>)
+,,,,,
+41060,k,5,hidrometer,dasar,
+41060.1,x,,<hidro> + -meter,bentukan,[189] [S] -meter + (<all>)
+,,,,,
+41061,k,0,hidrometer aki,dasar,
+41061.1,x,,<hidrometer ak> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+41062,k,0,hidrometer alkohol,dasar,
+,,,,,
+41063,k,0,hidrometer minyak,dasar,
+,,,,,
+41064,k,0,hidrometer tanah,dasar,
+,,,,,
+41065,k,2,hidrometri,dasar,
+41065.1,x,,<hidrometr> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+41066,k,0,hidromini,dasar,
+41066.1,x,,<hidromin> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+41067,k,0,hidronan,dasar,
+41067.1,x,,<hidron> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+41068,k,2,hidronefrosis,dasar,
+41068.1,x,,<hidronefrosi> + [-is:-s],bentukan,[177] [S] -is + (i)
+41068.2,x,,<hidronefros> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+41069,v,2,hidrooseanografi,dasar,
+41069.1,x,,<hidrooseanograf> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+41070,k,0,hidropati,dasar,
+41070.1,x,,<hidropat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+41071,k,6,hidroperoksida,dasar,
+,,,,,
+41072,k,0,hidropoisis,dasar,
+41072.1,x,,<hidropoisi> + [-is:-s],bentukan,[177] [S] -is + (i)
+41072.2,x,,<hidropois> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+41073,k,17,hidroponik,dasar,
+,,,,,
+41074,k,0,hidroponik bertingkat,dasar,
+,,,,,
+41075,k,0,hidropsoma,dasar,
+,,,,,
+41076,k,3,hidrosefalus,dasar,
+,,,,,
+41077,k,0,hidroselulosa,dasar,
+,,,,,
+41078,k,0,hidroser,dasar,
+,,,,,
+41079,k,3,hidrosfer,dasar,
+,,,,,
+41080,k,0,hidrosiklon,dasar,
+,,,,,
+41081,k,0,hidroskop,dasar,
+,,,,,
+41082,k,0,hidrosol,dasar,
+,,,,,
+41083,k,0,hidrostat,dasar,
+,,,,,
+41084,t,4,hidrostatik,dasar,hidrostatis
+,,,,,
+41085,k,0,hidrostatika,dasar,
+,,,,,
+41086,k,5,hidrostatis,dasar,
+41086.1,x,,<hidrostati> + [-is:-s],bentukan,[177] [S] -is + (i)
+41086.2,x,,<hidrostat> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+41087,k,0,hidrosulfida,dasar,
+,,,,,
+41088,k,0,hidrotaksis,dasar,
+41088.1,x,,<hidrotaksi> + [-is:-s],bentukan,[177] [S] -is + (i)
+41088.2,x,,<hidrotaks> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+41089,k,0,hidroterapi,dasar,
+41089.1,x,,<hidroterap> + -i,bentukan,[28] [S] -i + (<all>)
+41089.2,x,,<hidro> + -terapi,bentukan,[215] [S] -terapi + (<all>)
+,,,,,
+41090,k,13,hidrotermal,dasar,
+,,,,,
+41091,k,0,hidroton,dasar,
+,,,,,
+41092,k,0,hidrotropisme,dasar,
+41092.1,x,,<hidrotrop> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+41093,k,2,hidu,dasar,
+,,,,,
+41094,k,530,hidung,dasar,
+,,,,,
+41095,k,0,hidung belang,dasar,
+,,,,,
+41096,k,0,hidung betet,dasar,
+,,,,,
+41097,k,0,hidung putih,dasar,
+,,,,,
+41098,v,2,hidung-hidung,dasar,
+41098.1,v,,<hidung> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+41099,v,67,hidungku,dasar,
+41099.1,v,,<hidung> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+41100,v,13,hidungmu,dasar,
+41100.1,v,,<hidung> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+,,,,,
+41101,v,226,hidungnya,dasar,
+41101.1,v,,<hidung> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+41102,d,0,hidungnya mancung,dasar,
+,,,,,
+41103,k,6604,hidup,dasar,
+,,,,,
+41104,v,0,hidup mati,dasar,
+41104.1,x,,<hidup mat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+41105,k,0,hidup tertopang,dasar,
+,,,,,
+41106,v,88,hidup-hidup,dasar,
+41106.1,v,,<hidup> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+41107,v,2,hidup-hidupilah,dasar,
+41107.1,x,,<hidup-hidupi> + -lah,bentukan,[31] [FS] -lah + (<all>)
+41107.2,v,,<hidup> [-] <r> + -i + -lah,bentukan,[23] [RD] | => [31] [FS] -lah + (<all>)
+,,,,,
+41108,k,10,hidupan,dasar,
+41108.1,v,,<hidup> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+41109,k,0,hidupan liar,dasar,
+,,,,,
+41110,v,9,hidupi,dasar,
+41110.1,v,,<hidup> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+41111,v,36,hidupkan,dasar,
+41111.1,v,,<hidup> + -kan,bentukan,[29] [S] -kan + (<all>)
+41111.2,x,,<hidupk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+41112,v,2,hidupkanlah,dasar,
+41112.1,x,,<hidupkan> + -lah,bentukan,[31] [FS] -lah + (<all>)
+41112.2,v,,<hidup> + -kan + -lah,bentukan,[29] [S] -kan + (<all>) => [31] [FS] -lah + (<all>)
+41112.3,x,,<hidupk> + -an + -lah,bentukan,[38] [S] -an + (<all>) => [31] [FS] -lah + (<all>)
+,,,,,
+41113,v,36,hiduplah,dasar,
+41113.1,v,,<hidup> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+41114,v,1396,hidupnya,dasar,
+41114.1,v,,<hidup> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+41115,k,0,hielofobia,dasar,
+41115.1,x,,<hielo> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+41116,k,0,hiena,dasar,
+,,,,,
+41117,t,8,hierarkhi,dasar,hierarki
+41117.1,x,,<hierarkh> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+41118,k,151,hierarki,dasar,
+41118.1,x,,<hierark> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+41119,k,0,hierarki fonologis,dasar,
+41119.1,x,,<hierarki fonologi> + [-is:-s],bentukan,[177] [S] -is + (i)
+41119.2,x,,<hierarki fonolog> + -is,bentukan,[178] [S] -is + (<others>)
+41119.3,x,,<hierarki fono> + -logi+-s,bentukan,[194] [MS] -logi+-s + (<all>)
+,,,,,
+41120,k,0,hierarki gramatikal,dasar,
+,,,,,
+41121,k,0,hierarki taksonomi,dasar,
+41121.1,x,,<hierarki taksonom> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+41122,v,12,hierarkinya,dasar,
+41122.1,v,,<hierarki> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+41122.2,x,,<hierark> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+41123,k,58,hierarkis,dasar,
+41123.1,x,,<hierarki> + [-is:-s],bentukan,[177] [S] -is + (i)
+41123.2,x,,<hierark> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+41124,k,0,hierofobia,dasar,
+41124.1,x,,<hiero> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+41125,k,2,hieroglif,dasar,
+,,,,,
+41126,k,0,hietograf,dasar,
+41126.1,v,,<hieto> + -graf,bentukan,[191] [S] -graf + (<all>)
+,,,,,
+41127,k,0,hietografi,dasar,
+41127.1,v,,<hietograf> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+41128,k,21,hifa,dasar,
+,,,,,
+41129,k,0,hifa senositik,dasar,
+,,,,,
+41130,k,3,hifi,dasar,
+41130.1,x,,<hif> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+41131,k,28,higiene,dasar,
+,,,,,
+41132,k,0,higiene mental,dasar,
+,,,,,
+41133,k,0,higiene pangan,dasar,
+41133.1,x,,<higiene pang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+41134,k,0,higiene sanitasi makanan,dasar,
+41134.1,x,,<higiene sanitasi makan> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+41135,k,75,higienis,dasar,
+41135.1,x,,<higieni> + [-is:-s],bentukan,[177] [S] -is + (i)
+41135.2,x,,<higien> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+41136,v,17,higienitas,dasar,
+41136.1,x,,<higien> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+41137,t,2,higinis,dasar,higienis
+41137.1,x,,<higini> + [-is:-s],bentukan,[177] [S] -is + (i)
+41137.2,x,,<higin> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+41138,k,0,higlokemia,dasar,
+,,,,,
+41139,k,0,higrofili,dasar,
+41139.1,x,,<higrofil> + -i,bentukan,[28] [S] -i + (<all>)
+41139.2,x,,<higro> + -fili,bentukan,[193] [S] -fili + (<all>)
+,,,,,
+41140,k,0,higrofilia,dasar,
+41140.1,x,,<higro> + -filia,bentukan,[216] [S] -filia + (<all>)
+,,,,,
+41141,k,0,higrofobia,dasar,
+41141.1,x,,<higro> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+41142,k,0,higrograf,dasar,
+41142.1,x,,<higro> + -graf,bentukan,[191] [S] -graf + (<all>)
+,,,,,
+41143,k,0,higrogram,dasar,
+,,,,,
+41144,k,2,higrometer,dasar,
+41144.1,x,,<higro> + -meter,bentukan,[189] [S] -meter + (<all>)
+,,,,,
+41145,k,0,higrometer elektrik,dasar,
+,,,,,
+41146,k,0,higrometer kimia,dasar,
+,,,,,
+41147,k,0,higrometer listrik,dasar,
+,,,,,
+41148,k,0,higrometer rambut,dasar,
+,,,,,
+41149,k,0,higrometer serap,dasar,
+,,,,,
+41150,k,0,higrometer titik embun,dasar,
+,,,,,
+41151,k,0,higrometer titik ibun,dasar,
+,,,,,
+41152,k,0,higrometri,dasar,
+41152.1,x,,<higrometr> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+41153,k,0,higroskop,dasar,
+,,,,,
+41154,k,0,higroskopik,dasar,
+,,,,,
+41155,k,13,higroskopis,dasar,
+41155.1,x,,<higroskopi> + [-is:-s],bentukan,[177] [S] -is + (i)
+41155.2,v,,<higroskop> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+41156,k,0,higroskopisitas,dasar,
+41156.1,v,,<higroskopis> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+41157,k,0,higrotermograf,dasar,
+41157.1,v,,<higrotermo> + -graf,bentukan,[191] [S] -graf + (<all>)
+,,,,,
+41158,k,0,higrotermogram,dasar,
+,,,,,
+41159,k,0,hihid,dasar,
+,,,,,
+41160,k,107,hijab,dasar,
+,,,,,
+41161,t,6,hijaber,dasar,pehijab
+,,,,,
+41162,k,6,hijaiah,dasar,
+41162.1,x,,<hija> + -iah,bentukan,[175] [S] -iah + (<others>)
+,,,,,
+41163,k,1535,hijau,dasar,
+,,,,,
+41164,k,0,hijau asetat,dasar,
+,,,,,
+41165,k,0,hijau daun,dasar,
+,,,,,
+41166,k,0,hijau gadung,dasar,
+,,,,,
+41167,k,0,hijau jelak,dasar,
+,,,,,
+41168,d,0,hijau kekuningan,dasar,
+41168.1,x,,<hijau kekuning> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+41169,k,0,hijau lestari,dasar,
+41169.1,x,,<hijau lestar> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+41170,k,0,hijau lumut,dasar,
+,,,,,
+41171,k,0,hijau maya-maya,dasar,
+,,,,,
+41172,k,0,hijau muda,dasar,
+,,,,,
+41173,k,0,hijau paris,dasar,
+41173.1,x,,<hijau pari> + [-is:-s],bentukan,[177] [S] -is + (i)
+41173.2,x,,<hijau par> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+41174,k,0,hijau tua,dasar,
+,,,,,
+41175,k,0,hijau zamrud,dasar,
+,,,,,
+41176,v,3,hijau-hijauan,dasar,kehijau-hijauan
+41176.1,v,,<hijau> [-] <r> + -an,bentukan,[23] [RD] |
+,,,,,
+41177,k,38,hijauan,dasar,
+41177.1,v,,<hijau> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+41178,k,0,hijauan kering,dasar,
+,,,,,
+41179,v,5,hijaukan,dasar,
+41179.1,v,,<hijau> + -kan,bentukan,[29] [S] -kan + (<all>)
+41179.2,x,,<hijauk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+41180,k,0,hijiki,dasar,
+41180.1,x,,<hijik> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+41181,k,2,hijir,dasar,
+,,,,,
+41182,k,0,hijir ismail,dasar,
+,,,,,
+41183,t,2,hijiriah,dasar,hijriah
+41183.1,x,,<hijir> + -iah,bentukan,[175] [S] -iah + (<others>)
+,,,,,
+41184,k,194,hijrah,dasar,
+,,,,,
+41185,v,17,hijrahnya,dasar,
+41185.1,v,,<hijrah> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+41186,k,91,hijriah,dasar,
+41186.1,x,,<hijr> + -iah,bentukan,[175] [S] -iah + (<others>)
+,,,,,
+41187,t,126,hijriyah,dasar,hijriah
+,,,,,
+41188,t,5,hikajat,dasar,hikayat
+,,,,,
+41189,c,6,hikam,dasar,hikmah
+,,,,,
+41190,k,86,hikayat,dasar,
+,,,,,
+41191,v,4,hikayat-hikayat,dasar,
+41191.1,v,,<hikayat> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+41192,v,2,hikayatnya,dasar,
+41192.1,v,,<hikayat> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+41193,k,202,hikmah,dasar,
+,,,,,
+41194,v,3,hikmah-hikmah,dasar,
+41194.1,v,,<hikmah> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+41195,v,38,hikmahnya,dasar,
+41195.1,v,,<hikmah> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+41196,k,69,hikmat,dasar,
+,,,,,
+41197,k,0,hikmat gajah,dasar,
+,,,,,
+41198,k,0,hila-hila,dasar,
+41198.1,v,,<hila> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+41199,k,39,hilal,dasar,
+,,,,,
+41200,k,2083,hilang,dasar,
+,,,,,
+41201,k,0,hilang akal,dasar,
+,,,,,
+41202,k,0,hilang arwah,dasar,
+,,,,,
+41203,k,0,hilang bicara,dasar,
+,,,,,
+41204,k,0,hilang cahaya,dasar,
+,,,,,
+41205,k,0,hilang dara,dasar,
+,,,,,
+41206,k,0,hilang dari mata,dasar,
+,,,,,
+41207,k,0,hilang gaib,dasar,
+,,,,,
+41208,k,0,hilang harapan,dasar,
+41208.1,x,,<hilang harap> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+41209,k,0,hilang hayat,dasar,
+,,,,,
+41210,k,0,hilang ingatan,dasar,
+41210.1,x,,<hilang ingat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+41211,k,0,hilang kata,dasar,
+,,,,,
+41212,k,0,hilang kikis,dasar,
+41212.1,x,,<hilang kiki> + [-is:-s],bentukan,[177] [S] -is + (i)
+41212.2,x,,<hilang kik> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+41213,k,0,hilang lenyap,dasar,
+,,,,,
+41214,k,0,hilang malu,dasar,
+,,,,,
+41215,k,0,hilang nyawa,dasar,
+,,,,,
+41216,k,0,hilang pijar,dasar,
+,,,,,
+41217,k,0,hilang pikiran,dasar,
+41217.1,x,,<hilang pikir> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+41218,k,0,hilang pintang,dasar,
+,,,,,
+41219,k,0,hilang redam,dasar,
+,,,,,
+41220,k,0,hilang semangat,dasar,
+,,,,,
+41221,k,4,hilang-hilang,dasar,
+41221.1,v,,<hilang> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+41222,k,0,hilang-hilang timbul,dasar,
+,,,,,
+41223,v,75,hilangkan,dasar,
+41223.1,v,,<hilang> + -kan,bentukan,[29] [S] -kan + (<all>)
+41223.2,x,,<hilangk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+41224,v,2,hilangkanlah,dasar,
+41224.1,x,,<hilangkan> + -lah,bentukan,[31] [FS] -lah + (<all>)
+41224.2,v,,<hilang> + -kan + -lah,bentukan,[29] [S] -kan + (<all>) => [31] [FS] -lah + (<all>)
+41224.3,x,,<hilangk> + -an + -lah,bentukan,[38] [S] -an + (<all>) => [31] [FS] -lah + (<all>)
+,,,,,
+41225,v,26,hilanglah,dasar,
+41225.1,v,,<hilang> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+41226,v,578,hilangnya,dasar,
+41226.1,v,,<hilang> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+41227,k,0,hilap,dasar,
+,,,,,
+41228,k,0,hilau,dasar,
+,,,,,
+41229,k,0,hilefobia,dasar,
+41229.1,x,,<hile> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+41230,k,562,hilir,dasar,
+,,,,,
+41231,k,0,hilir malam,dasar,
+,,,,,
+41232,k,0,hilir mudik,dasar,
+,,,,,
+41233,k,0,hilir sungai,dasar,
+41233.1,x,,<hilir sunga> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+41234,k,150,hilirisasi,dasar,
+41234.1,x,,<hilirisas> + -i,bentukan,[28] [S] -i + (<all>)
+41234.2,x,,<hiliri> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+41234.3,x,,<hiliris> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+41234.4,v,,<hilir> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+41235,v,2,hilirisasinya,dasar,
+41235.1,v,,<hilirisasi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+41235.2,x,,<hilirisas> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+41235.3,x,,<hiliri> + [-isasi:-sasi] + -nya,bentukan,[166] [S] -isasi + (i) => [34] [SFS] -nya + (<all>)
+41235.4,x,,<hiliris> + [-isasi:-asi] + -nya,bentukan,[167] [S] -isasi + (is) => [34] [SFS] -nya + (<all>)
+41235.5,v,,<hilir> + -isasi + -nya,bentukan,[169] [S] -isasi + (<others>) => [34] [SFS] -nya + (<all>)
+,,,,,
+41236,k,0,hilofagus,dasar,
+,,,,,
+41237,k,0,hilofobia,dasar,
+41237.1,x,,<hilo> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+41238,k,0,hilum,dasar,
+,,,,,
+41239,k,28,himalaya,dasar,
+,,,,,
+41240,k,0,himanga,dasar,
+,,,,,
+41241,k,0,himar,dasar,
+,,,,,
+41242,c,15,himbau,dasar,imbau
+,,,,,
+41243,c,89,himbauan,dasar,imbauan
+41243.1,v,,<himbau> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+41244,k,0,himen,dasar,
+,,,,,
+41245,k,0,himenium,dasar,
+,,,,,
+41246,k,0,himenoplasti,dasar,
+41246.1,x,,<himenoplast> + -i,bentukan,[28] [S] -i + (<all>)
+41246.2,x,,<himeno> + -plasti,bentukan,[199] [S] -plasti + (<all>)
+,,,,,
+41247,k,0,himenoplastis,dasar,
+41247.1,x,,<himenoplasti> + [-is:-s],bentukan,[177] [S] -is + (i)
+41247.2,x,,<himenoplast> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+41248,k,0,himenopterofili,dasar,
+41248.1,x,,<himenopterofil> + -i,bentukan,[28] [S] -i + (<all>)
+41248.2,x,,<himenoptero> + -fili,bentukan,[193] [S] -fili + (<all>)
+,,,,,
+41249,k,0,himlao,dasar,
+,,,,,
+41250,k,28,himne,dasar,
+,,,,,
+41251,k,0,himpit,dasar,
+,,,,,
+41252,t,31,himpitan,dasar,impitan
+41252.1,v,,<himpit> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+41253,k,11,himpun,dasar,
+,,,,,
+41254,k,405,himpunan,dasar,
+41254.1,v,,<himpun> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+41255,k,0,himpunan instruksi,dasar,
+41255.1,x,,<himpunan instruks> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+41256,k,0,himpunan undang-undang,dasar,
+,,,,,
+41257,v,3,himpunan-himpunan,dasar,
+41257.1,v,,<himpunan> [-] <r>,bentukan,[23] [RD] |
+41257.2,v,,<himpun> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+41258,k,0,himudu,dasar,
+,,,,,
+41259,k,15,hin,dasar,
+,,,,,
+41260,k,101,hina,dasar,
+,,,,,
+41261,k,0,hina angkara,dasar,
+,,,,,
+41262,k,0,hina budi,dasar,
+41262.1,x,,<hina bud> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+41263,k,0,hina dina,dasar,
+,,,,,
+41264,k,0,hina lata,dasar,
+,,,,,
+41265,k,0,hina papa,dasar,
+,,,,,
+41266,k,0,hina-menghinakan,dasar,
+41266.1,v,,<hina> [-] meng- + <r> + -kan,bentukan,[4] meng- + (g;h;x;kl;kr;kh;kw) + (-i;-kan) => [24] [RD] |meng-
+,,,,,
+41267,k,42,hinaan,dasar,
+41267.1,v,,<hina> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+41268,v,8,hinakan,dasar,
+41268.1,v,,<hina> + -kan,bentukan,[29] [S] -kan + (<all>)
+41268.2,x,,<hinak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+41269,v,5,hinanya,dasar,
+41269.1,v,,<hina> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+41270,k,0,hinap,dasar,
+,,,,,
+41271,k,0,hinayana,dasar,
+,,,,,
+41272,k,2,hindar,dasar,
+,,,,,
+41273,v,368,hindari,dasar,
+41273.1,v,,<hindar> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+41274,v,17,hindarilah,dasar,
+41274.1,x,,<hindari> + -lah,bentukan,[31] [FS] -lah + (<all>)
+41274.2,v,,<hindar> + -i + -lah,bentukan,[28] [S] -i + (<all>) => [31] [FS] -lah + (<all>)
+,,,,,
+41275,v,15,hindarkan,dasar,
+41275.1,v,,<hindar> + -kan,bentukan,[29] [S] -kan + (<all>)
+41275.2,x,,<hindark> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+41276,v,2,hindarkanlah,dasar,
+41276.1,x,,<hindarkan> + -lah,bentukan,[31] [FS] -lah + (<all>)
+41276.2,v,,<hindar> + -kan + -lah,bentukan,[29] [S] -kan + (<all>) => [31] [FS] -lah + (<all>)
+41276.3,x,,<hindark> + -an + -lah,bentukan,[38] [S] -an + (<all>) => [31] [FS] -lah + (<all>)
+,,,,,
+41277,k,0,hindesan,dasar,
+41277.1,x,,<hindes> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+41278,k,10,hindi,dasar,
+41278.1,x,,<hind> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+41279,k,290,hindia,dasar,
+,,,,,
+41280,k,0,hindia belanda,dasar,
+41280.1,x,,<hindia bela> + [-anda:-nda],bentukan,[183] [S] -anda + (i;u;a;[k:])
+41280.2,x,,<hindia belan> + [-anda:-da],bentukan,[184] [S] -anda + (an)
+41280.3,x,,<hindia bel> + -anda,bentukan,[185] [S] -anda + (<others>)
+,,,,,
+41281,t,2,hindikator,dasar,indikator
+,,,,,
+41282,k,320,hindu,dasar,
+,,,,,
+41283,k,14,hinduisme,dasar,
+41283.1,v,,<hindu> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+41284,c,21,hingar,dasar,ingar
+,,,,,
+41285,k,0,hingar bingar,dasar,
+,,,,,
+41286,k,13012,hingga,dasar,
+,,,,,
+41287,d,0,hingga kini,dasar,
+41287.1,x,,<hingga kin> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+41288,d,0,hingga malam,dasar,
+,,,,,
+41289,k,172,hinggap,dasar,
+,,,,,
+41290,v,3,hinggapi,dasar,
+41290.1,v,,<hinggap> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+41291,v,3,hinggapnya,dasar,
+41291.1,v,,<hinggap> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+41292,k,2,hinggi,dasar,
+41292.1,x,,<hingg> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+41293,k,0,hinggut,dasar,
+,,,,,
+41294,k,2,hinomaru,dasar,
+,,,,,
+41295,k,0,hintuk,dasar,
+,,,,,
+41296,k,0,hinyai,dasar,
+41296.1,x,,<hinya> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+41297,k,12,hio,dasar,
+,,,,,
+41298,k,0,hiosiamina,dasar,
+,,,,,
+41299,k,0,hiosin,dasar,
+,,,,,
+41300,k,0,hipantium,dasar,
+,,,,,
+41301,k,0,hipegiafobia,dasar,
+41301.1,x,,<hipegia> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+41302,k,0,hiperajusis,dasar,
+41302.1,x,,<hiperajusi> + [-is:-s],bentukan,[177] [S] -is + (i)
+41302.2,x,,<hiperajus> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+41303,k,30,hiperaktif,dasar,
+,,,,,
+41304,k,9,hiperaktivitas,dasar,
+41304.1,x,,<hiperaktiv> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+41305,k,0,hiperamnesi,dasar,
+41305.1,x,,<hiperamnes> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+41306,k,0,hiperamonemia,dasar,
+,,,,,
+41307,k,0,hiperandrogen,dasar,
+,,,,,
+41308,k,0,hiperantefleksi,dasar,
+41308.1,x,,<hiperantefleks> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+41309,k,5,hiperbarik,dasar,
+,,,,,
+41310,k,0,hiperbilirubinemia,dasar,
+,,,,,
+41311,k,3,hiperbol,dasar,
+,,,,,
+41312,k,9,hiperbola,dasar,
+,,,,,
+41313,k,0,hiperbola daun dua,dasar,
+,,,,,
+41314,k,0,hiperbola daun satu,dasar,
+,,,,,
+41315,k,0,hiperbola persegi panjang,dasar,
+,,,,,
+41316,k,15,hiperbolis,dasar,
+41316.1,x,,<hiperboli> + [-is:-s],bentukan,[177] [S] -is + (i)
+41316.2,v,,<hiperbol> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+41317,k,0,hiperboloid,dasar,
+41317.1,x,,<hiperbol> + -oid,bentukan,[209] [S] -oid + (<all>)
+,,,,,
+41318,k,0,hiperdaktili,dasar,
+41318.1,x,,<hiperdaktil> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+41319,v,4,hiperekstensi,dasar,
+41319.1,x,,<hiperekstens> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+41320,k,3,hiperemesis,dasar,
+41320.1,x,,<hiperemesi> + [-is:-s],bentukan,[177] [S] -is + (i)
+41320.2,x,,<hiperemes> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+41321,k,0,hiperemesis gravidarum,dasar,
+,,,,,
+41322,k,2,hiperemia,dasar,
+,,,,,
+41323,k,0,hiperendemi,dasar,
+41323.1,x,,<hiperendem> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+41324,k,0,hiperestesia,dasar,
+,,,,,
+41325,k,0,hiperetrofleksi,dasar,
+41325.1,x,,<hiperetrofleks> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+41326,k,0,hipereutrofik,dasar,
+,,,,,
+41327,k,0,hiperfleksi,dasar,
+41327.1,x,,<hiperfleks> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+41328,k,0,hiperfosfatemia,dasar,
+,,,,,
+41329,k,0,hipergami,dasar,
+41329.1,x,,<hipergam> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+41330,k,26,hiperglikemia,dasar,
+,,,,,
+41331,k,6,hiperglikemik,dasar,
+,,,,,
+41332,k,2,hiperglisemia,dasar,
+,,,,,
+41333,k,0,hipergolik,dasar,
+,,,,,
+41334,k,0,hiperhidrosis,dasar,
+41334.1,x,,<hiperhidrosi> + [-is:-s],bentukan,[177] [S] -is + (i)
+41334.2,x,,<hiperhidros> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+41335,k,9,hiperinflasi,dasar,
+41335.1,x,,<hiperinflas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+41336,k,5,hiperinsulinemia,dasar,
+,,,,,
+41337,k,0,hiperinsulinemia reaktif pascamakan,dasar,
+41337.1,x,,<hiperinsulinemia reaktif pascama> + -kan,bentukan,[29] [S] -kan + (<all>)
+41337.2,x,,<hiperinsulinemia reaktif pascamak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+41338,k,2,hiperkalemia,dasar,
+,,,,,
+41339,k,0,hiperkalsemia,dasar,
+,,,,,
+41340,k,0,hiperkalsiuria,dasar,
+,,,,,
+41341,k,3,hiperkapnia,dasar,
+,,,,,
+41342,k,0,hiperkelas,dasar,
+,,,,,
+41343,k,0,hiperkeratosis,dasar,
+41343.1,x,,<hiperkeratosi> + [-is:-s],bentukan,[177] [S] -is + (i)
+41343.2,x,,<hiperkeratos> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+41344,k,0,hiperkinesis,dasar,
+41344.1,x,,<hiperkinesi> + [-is:-s],bentukan,[177] [S] -is + (i)
+41344.2,x,,<hiperkines> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+41345,k,0,hiperkinetik,dasar,
+,,,,,
+41346,k,0,hiperklorhidria,dasar,
+,,,,,
+41347,v,6,hiperkolesterol,dasar,
+41347.1,x,,<hiperkole> + -sterol,bentukan,[208] [S] -sterol + (<all>)
+,,,,,
+41348,k,22,hiperkolesterolemia,dasar,
+,,,,,
+41349,v,3,hiperkompetisi,dasar,
+41349.1,x,,<hiperkompetis> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+41350,k,0,hiperkorek,dasar,
+,,,,,
+41351,k,0,hiperkoreksi,dasar,
+41351.1,x,,<hiperkoreks> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+41352,k,0,hiperkritis,dasar,
+41352.1,x,,<hiperkriti> + [-is:-s],bentukan,[177] [S] -is + (i)
+41352.2,x,,<hiperkrit> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+41353,k,0,hiperlipemia,dasar,
+,,,,,
+41354,k,15,hiperlipidemia,dasar,
+,,,,,
+41355,k,0,hipermedia,dasar,
+,,,,,
+41356,v,4,hipermetabolisme,dasar,
+41356.1,x,,<hipermetabol> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+41357,k,0,hipermetropi,dasar,
+41357.1,x,,<hipermetrop> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+41358,k,0,hipermetropia,dasar,
+,,,,,
+41359,k,0,hipermobilitas,dasar,
+41359.1,x,,<hipermobil> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+41360,k,3,hipernim,dasar,
+,,,,,
+41361,k,0,hipernova,dasar,
+,,,,,
+41362,k,0,hiperoksemia,dasar,
+,,,,,
+41363,k,0,hiperon,dasar,
+,,,,,
+41364,k,0,hiperopia,dasar,
+,,,,,
+41365,k,0,hiperosmia,dasar,
+,,,,,
+41366,k,0,hiperosmotik,dasar,
+,,,,,
+41367,k,0,hiperparasit,dasar,
+,,,,,
+41368,k,5,hiperpigmentasi,dasar,
+41368.1,x,,<hiperpigmentas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+41369,k,0,hiperpigmentasi pascaradang,dasar,
+,,,,,
+41370,k,8,hiperplasia,dasar,
+,,,,,
+41371,k,0,hiperplasia adrenal kongenita,dasar,
+,,,,,
+41372,k,0,hiperprolaktinemia,dasar,
+,,,,,
+41373,v,2,hiperresponsif,dasar,
+,,,,,
+41374,k,0,hipersalin,dasar,
+,,,,,
+41375,k,0,hipersaliva,dasar,
+,,,,,
+41376,v,2,hipersalivasi,dasar,
+41376.1,x,,<hipersalivas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+41377,v,5,hipersekresi,dasar,
+41377.1,x,,<hipersekres> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+41378,k,0,hiperseksual,dasar,
+,,,,,
+41379,k,14,hipersensitif,dasar,
+,,,,,
+41380,t,3,hipersensitifitas,dasar,hipersensitivitas
+41380.1,x,,<hipersensitif> + -itas,bentukan,[182] [S] -itas + ([f:v])
+,,,,,
+41381,k,15,hipersensitivitas,dasar,
+41381.1,x,,<hipersensitiv> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+41382,k,5,hipersomnia,dasar,
+,,,,,
+41383,k,0,hipersonik,dasar,
+,,,,,
+41384,k,0,hipersonika,dasar,
+,,,,,
+41385,k,0,hipertaut,dasar,
+,,,,,
+41386,k,3,hiperteks,dasar,
+,,,,,
+41387,k,219,hipertensi,dasar,
+41387.1,x,,<hipertens> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+41388,k,0,hipertensi esensial,dasar,
+,,,,,
+41389,d,0,hipertensi gestasional,dasar,
+,,,,,
+41390,k,0,hipertensi paru,dasar,
+,,,,,
+41391,k,0,hipertensi primer,dasar,
+,,,,,
+41392,k,0,hipertermik,dasar,
+,,,,,
+41393,k,8,hipertiroid,dasar,
+41393.1,x,,<hipertir> + -oid,bentukan,[209] [S] -oid + (<all>)
+,,,,,
+41394,k,3,hipertiroidisme,dasar,
+41394.1,v,,<hipertiroid> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+41395,k,3,hipertonik,dasar,
+,,,,,
+41396,t,2,hipertonis,dasar,hipertonik
+41396.1,x,,<hipertoni> + [-is:-s],bentukan,[177] [S] -is + (i)
+41396.2,x,,<hiperton> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+41397,k,0,hipertradisional,dasar,
+,,,,,
+41398,k,7,hipertrigliseridemia,dasar,
+,,,,,
+41399,k,0,hipertrikosis,dasar,
+41399.1,x,,<hipertrikosi> + [-is:-s],bentukan,[177] [S] -is + (i)
+41399.2,x,,<hipertrikos> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+41400,k,23,hipertrofi,dasar,
+41400.1,x,,<hipertrof> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+41401,k,0,hipertrofi adenoid,dasar,
+41401.1,x,,<hipertrofi aden> + -oid,bentukan,[209] [S] -oid + (<all>)
+,,,,,
+41402,k,0,hipertrofi atletis,dasar,
+41402.1,x,,<hipertrofi atleti> + [-is:-s],bentukan,[177] [S] -is + (i)
+41402.2,x,,<hipertrofi atlet> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+41403,k,0,hipertrofik,dasar,
+,,,,,
+41404,k,4,hiperurisemia,dasar,
+,,,,,
+41405,k,4,hiperventilasi,dasar,
+41405.1,x,,<hiperventilas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+41406,v,2,hiperviskositas,dasar,
+41406.1,x,,<hiperviskos> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+41407,k,0,hipervitaminosis,dasar,
+41407.1,x,,<hipervitaminosi> + [-is:-s],bentukan,[177] [S] -is + (i)
+41407.2,x,,<hipervitaminos> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+41408,k,2,hipervolemia,dasar,
+,,,,,
+41409,t,2,hipetensi,dasar,hipertensi
+41409.1,x,,<hipetens> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+41410,k,0,hiphop,dasar,
+,,,,,
+41411,k,0,hipnofobia,dasar,
+41411.1,x,,<hipno> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+41412,k,0,hipnolangsing,dasar,
+,,,,,
+41413,k,0,hipnosa,dasar,
+,,,,,
+41414,k,0,hipnose,dasar,
+,,,,,
+41415,k,11,hipnosis,dasar,
+41415.1,x,,<hipnosi> + [-is:-s],bentukan,[177] [S] -is + (i)
+41415.2,x,,<hipnos> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+41416,k,5,hipnoterapi,dasar,
+41416.1,x,,<hipnoterap> + -i,bentukan,[28] [S] -i + (<all>)
+41416.2,x,,<hipno> + -terapi,bentukan,[215] [S] -terapi + (<all>)
+,,,,,
+41417,k,2,hipnoterapis,dasar,
+41417.1,x,,<hipnoterapi> + [-is:-s],bentukan,[177] [S] -is + (i)
+41417.2,x,,<hipnoterap> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+41418,k,3,hipnotik,dasar,
+,,,,,
+41419,k,20,hipnotis,dasar,
+41419.1,x,,<hipnoti> + [-is:-s],bentukan,[177] [S] -is + (i)
+41419.2,x,,<hipnot> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+41420,k,0,hipnotisme,dasar,
+41420.1,x,,<hipnot> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+41421,k,0,hipobarik,dasar,
+,,,,,
+41422,k,0,hipoblas,dasar,
+,,,,,
+41423,k,2,hipodermis,dasar,
+41423.1,x,,<hipodermi> + [-is:-s],bentukan,[177] [S] -is + (i)
+41423.2,x,,<hipoderm> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+41424,k,0,hipodermoklisis,dasar,
+41424.1,x,,<hipodermoklisi> + [-is:-s],bentukan,[177] [S] -is + (i)
+41424.2,x,,<hipodermoklis> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+41425,k,0,hipodrom,dasar,
+41425.1,x,,<hipo> + -drom,bentukan,[202] [S] -drom + (<all>)
+,,,,,
+41426,k,0,hipofili,dasar,
+41426.1,x,,<hipofil> + -i,bentukan,[28] [S] -i + (<all>)
+41426.2,x,,<hipo> + -fili,bentukan,[193] [S] -fili + (<all>)
+,,,,,
+41427,k,0,hipofilia,dasar,
+41427.1,x,,<hipo> + -filia,bentukan,[216] [S] -filia + (<all>)
+,,,,,
+41428,k,13,hipofisis,dasar,
+41428.1,x,,<hipofisi> + [-is:-s],bentukan,[177] [S] -is + (i)
+41428.2,x,,<hipofis> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+41429,k,0,hipofobia,dasar,
+41429.1,x,,<hipo> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+41430,k,0,hipofosfatemia,dasar,
+,,,,,
+41431,k,0,hipofremia,dasar,
+,,,,,
+41432,k,0,hipogen,dasar,
+,,,,,
+41433,k,0,hipogesia,dasar,
+,,,,,
+41434,k,0,hipogeum,dasar,
+,,,,,
+41435,k,0,hipogini,dasar,
+41435.1,x,,<hipogin> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+41436,k,16,hipoglikemia,dasar,
+,,,,,
+41437,k,7,hipoglikemik,dasar,
+,,,,,
+41438,k,0,hipoglisemia,dasar,
+,,,,,
+41439,v,6,hipogram,dasar,
+,,,,,
+41440,k,4,hipokalemia,dasar,
+,,,,,
+41441,k,4,hipokalsemia,dasar,
+,,,,,
+41442,k,0,hipokampal,dasar,
+,,,,,
+41443,k,3,hipokampus,dasar,
+,,,,,
+41444,k,0,hipokinesia,dasar,
+,,,,,
+41445,k,0,hipoklorhidria,dasar,
+,,,,,
+41446,k,0,hipokondria,dasar,
+,,,,,
+41447,k,3,hipokotil,dasar,
+,,,,,
+41448,k,5,hipokrisi,dasar,
+41448.1,x,,<hipokris> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+41449,k,6,hipokrit,dasar,
+,,,,,
+41450,k,0,hipokritis,dasar,
+41450.1,x,,<hipokriti> + [-is:-s],bentukan,[177] [S] -is + (i)
+41450.2,x,,<hipokrit> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+41451,k,3,hipoksemia,dasar,
+,,,,,
+41452,k,24,hipoksia,dasar,
+,,,,,
+41453,k,0,hipoksia anemik,dasar,
+,,,,,
+41454,k,0,hipoksia hipobarik,dasar,
+,,,,,
+41455,k,0,hipoksia hipoksemik,dasar,
+,,,,,
+41456,k,0,hipoksia iskemik,dasar,
+,,,,,
+41457,k,2,hipolimnion,dasar,
+,,,,,
+41458,k,0,hipomania,dasar,
+,,,,,
+41459,k,0,hipomastia,dasar,
+,,,,,
+41460,k,0,hipomnesia,dasar,
+,,,,,
+41461,k,0,hipomolitas,dasar,
+41461.1,x,,<hipomol> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+41462,k,5,hiponatremia,dasar,
+,,,,,
+41463,k,0,hiponatrium,dasar,
+,,,,,
+41464,k,4,hiponim,dasar,
+,,,,,
+41465,k,0,hiponimi,dasar,
+41465.1,x,,<hiponim> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+41466,k,0,hipoparatiroidisme,dasar,
+41466.1,x,,<hipoparatiroid> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+41467,k,0,hipopituitarisme,dasar,
+41467.1,x,,<hipopituitar> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+41468,k,0,hipoplankton,dasar,
+,,,,,
+41469,k,2,hipoplasia,dasar,
+,,,,,
+41470,k,0,hipopotamus,dasar,
+,,,,,
+41471,k,2,hipoproteinemia,dasar,
+,,,,,
+41472,k,0,hiposentrum,dasar,
+,,,,,
+41473,k,0,hiposit,dasar,
+,,,,,
+41474,k,2,hipospadia,dasar,
+,,,,,
+41475,k,0,hipotaksis,dasar,
+41475.1,x,,<hipotaksi> + [-is:-s],bentukan,[177] [S] -is + (i)
+41475.2,x,,<hipotaks> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+41476,k,20,hipotalamus,dasar,
+,,,,,
+41477,k,0,hipotalamus lateral,dasar,
+,,,,,
+41478,k,0,hipotalamus posterior,dasar,
+,,,,,
+41479,k,0,hipotalamus ventromedial,dasar,
+,,,,,
+41480,k,16,hipotek,dasar,
+,,,,,
+41481,k,0,hipotek saksama,dasar,
+,,,,,
+41482,k,0,hipotenar,dasar,
+,,,,,
+41483,k,21,hipotensi,dasar,
+41483.1,x,,<hipotens> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+41484,k,0,hipotensi ortostatik,dasar,
+,,,,,
+41485,k,2,hipotenusa,dasar,
+,,,,,
+41486,k,17,hipotermia,dasar,
+,,,,,
+41487,c,43,hipotesa,dasar,hipotesis
+,,,,,
+41488,k,486,hipotesis,dasar,
+41488.1,x,,<hipotesi> + [-is:-s],bentukan,[177] [S] -is + (i)
+41488.2,x,,<hipotes> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+41489,k,0,hipotesis alternatif,dasar,
+,,,,,
+41490,k,0,hipotesis argumentatif,dasar,
+,,,,,
+41491,k,0,hipotesis deskriptif,dasar,
+,,,,,
+41492,k,0,hipotesis frustrasi-agresi,dasar,
+41492.1,x,,<hipotesis frustrasi-agres> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+41493,k,0,hipotesis inokulasi,dasar,
+41493.1,x,,<hipotesis inokulas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+41494,k,0,hipotesis kemampuan gerak umum,dasar,
+,,,,,
+41495,k,0,hipotesis kerja,dasar,
+,,,,,
+41496,k,0,hipotesis kualitatif,dasar,
+,,,,,
+41497,k,0,hipotesis kuantitatif,dasar,
+,,,,,
+41498,k,0,hipotesis nol,dasar,
+,,,,,
+41499,k,0,hipotesis operasional,dasar,
+,,,,,
+41500,k,0,hipotesis penggunaan isyarat,dasar,
+,,,,,
+41501,k,0,hipotesis penjelasan,dasar,
+41501.1,x,,<hipotesis penjelas> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+41502,k,0,hipotesis penyangga,dasar,
+,,,,,
+41503,k,0,hipotesis penyesuaian,dasar,
+41503.1,x,,<hipotesis penyesuai> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+41504,k,0,hipotesis tandingan,dasar,
+41504.1,x,,<hipotesis tanding> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+41505,v,8,hipotesis-hipotesis,dasar,
+41505.1,v,,<hipotesis> [-] <r>,bentukan,[23] [RD] |
+41505.2,x,,<hipotesi> + [-is:-s] [-] <r> + [-is:-s],bentukan,[177] [S] -is + (i) => [23] [RD] |
+41505.3,x,,<hipotes> + -is [-] <r> + -is,bentukan,[178] [S] -is + (<others>) => [23] [RD] |
+,,,,,
+41506,v,13,hipotesisnya,dasar,
+41506.1,v,,<hipotesis> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+41506.2,x,,<hipotesi> + [-is:-s] + -nya,bentukan,[177] [S] -is + (i) => [34] [SFS] -nya + (<all>)
+41506.3,x,,<hipotes> + -is + -nya,bentukan,[178] [S] -is + (<others>) => [34] [SFS] -nya + (<all>)
+,,,,,
+41507,k,14,hipotetis,dasar,
+41507.1,x,,<hipoteti> + [-is:-s],bentukan,[177] [S] -is + (i)
+41507.2,x,,<hipotet> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+41508,c,6,hipotik,dasar,hipotek
+,,,,,
+41509,k,11,hipotiroid,dasar,
+41509.1,x,,<hipotir> + -oid,bentukan,[209] [S] -oid + (<all>)
+,,,,,
+41510,k,6,hipotiroidisme,dasar,
+41510.1,v,,<hipotiroid> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+41511,k,4,hipotonik,dasar,
+,,,,,
+41512,v,2,hipoventilasi,dasar,
+41512.1,x,,<hipoventilas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+41513,k,0,hipovitaminosis,dasar,
+41513.1,x,,<hipovitaminosi> + [-is:-s],bentukan,[177] [S] -is + (i)
+41513.2,x,,<hipovitaminos> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+41514,k,5,hipovolemia,dasar,
+,,,,,
+41515,k,0,hipsifobia,dasar,
+41515.1,x,,<hipsi> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+41516,k,0,hipsometer,dasar,
+41516.1,x,,<hipso> + -meter,bentukan,[189] [S] -meter + (<all>)
+,,,,,
+41517,k,5,hipster,dasar,
+,,,,,
+41518,k,0,hipui,dasar,
+41518.1,x,,<hipu> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+41519,k,0,hiragana,dasar,
+,,,,,
+41520,t,3,hiraki,dasar,hierarki
+41520.1,x,,<hirak> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+41521,k,0,hirap,dasar,
+,,,,,
+41522,t,3,hirarkhi,dasar,hierarki
+41522.1,x,,<hirarkh> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+41523,t,4,hirarkhis,dasar,hierarkis
+41523.1,x,,<hirarkhi> + [-is:-s],bentukan,[177] [S] -is + (i)
+41523.2,x,,<hirarkh> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+41524,c,83,hirarki,dasar,hierarki
+41524.1,x,,<hirark> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+41525,t,29,hirarkis,dasar,hierarkis
+41525.1,x,,<hirarki> + [-is:-s],bentukan,[177] [S] -is + (i)
+41525.2,x,,<hirark> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+41526,k,40,hirau,dasar,
+,,,,,
+41527,v,32,hiraukan,dasar,
+41527.1,v,,<hirau> + -kan,bentukan,[29] [S] -kan + (<all>)
+41527.2,x,,<hirauk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+41528,t,5,hirearki,dasar,hierarki
+41528.1,x,,<hireark> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+41529,k,0,hiri motu,dasar,
+,,,,,
+41530,k,0,hiris,dasar,
+41530.1,x,,<hiri> + [-is:-s],bentukan,[177] [S] -is + (i)
+41530.2,x,,<hir> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+41531,k,2,hirsutisme,dasar,
+41531.1,x,,<hirsut> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+41532,k,0,hirsutisme idiopatik,dasar,
+,,,,,
+41533,k,0,hirsutofili,dasar,
+41533.1,x,,<hirsutofil> + -i,bentukan,[28] [S] -i + (<all>)
+41533.2,x,,<hirsuto> + -fili,bentukan,[193] [S] -fili + (<all>)
+,,,,,
+41534,k,0,hirsutofilia,dasar,
+41534.1,x,,<hirsuto> + -filia,bentukan,[216] [S] -filia + (<all>)
+,,,,,
+41535,k,3,hirta,dasar,
+,,,,,
+41536,x,0,hiru-biru,dasar,
+41536.1,x,,<hiru-biru>,bentukan,[Reduplication-Rhyming]
+,,,,,
+41537,x,0,hiru-hara,dasar,
+41537.1,x,,<hiru-hara>,bentukan,[Reduplication-Rhyming]
+,,,,,
+41538,k,0,hirudin,dasar,
+,,,,,
+41539,k,85,hiruk,dasar,
+,,,,,
+41540,k,0,hiruk pikuk,dasar,
+,,,,,
+41541,k,42,hirup,dasar,
+,,,,,
+41542,v,9,hirupan,dasar,
+41542.1,v,,<hirup> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+41543,k,161,his,dasar,
+41543.1,x,,<hi> + [-is:-s],bentukan,[177] [S] -is + (i)
+41543.2,x,,<h> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+41544,k,33,hisab,dasar,
+,,,,,
+41545,c,22,hisap,dasar,isap
+,,,,,
+41546,t,7,hisapan,dasar,isapan
+41546.1,v,,<hisap> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+41547,t,2,hisapannya,dasar,isapannya
+41547.1,x,,<hisapan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+41547.2,v,,<hisap> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+41548,k,0,histamina,dasar,
+,,,,,
+41549,k,0,histaminase,dasar,
+41549.1,x,,<histamin> + -ase,bentukan,[210] [S] -ase + (<all>)
+,,,,,
+41550,k,0,histerektomi,dasar,
+41550.1,x,,<histerektom> + -i,bentukan,[28] [S] -i + (<all>)
+41550.2,x,,<histerek> + -tomi,bentukan,[200] [S] -tomi + (<all>)
+,,,,,
+41551,k,23,histeria,dasar,
+,,,,,
+41552,k,0,histeria konversi,dasar,
+41552.1,x,,<histeria konvers> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+41553,k,0,histerikal,dasar,
+,,,,,
+41554,k,129,histeris,dasar,
+41554.1,x,,<histeri> + [-is:-s],bentukan,[177] [S] -is + (i)
+41554.2,x,,<hister> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+41555,k,0,histerisis,dasar,
+41555.1,x,,<histerisi> + [-is:-s],bentukan,[177] [S] -is + (i)
+41555.2,x,,<histeris> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+41556,v,6,histerisnya,dasar,
+41556.1,v,,<histeris> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+41556.2,x,,<histeri> + [-is:-s] + -nya,bentukan,[177] [S] -is + (i) => [34] [SFS] -nya + (<all>)
+41556.3,x,,<hister> + -is + -nya,bentukan,[178] [S] -is + (<others>) => [34] [SFS] -nya + (<all>)
+,,,,,
+41557,k,0,histerografi,dasar,
+41557.1,x,,<histerograf> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+41558,k,0,histeroplasti,dasar,
+41558.1,x,,<histeroplast> + -i,bentukan,[28] [S] -i + (<all>)
+41558.2,x,,<histero> + -plasti,bentukan,[199] [S] -plasti + (<all>)
+,,,,,
+41559,k,0,histerosel,dasar,
+,,,,,
+41560,k,0,histerospasme,dasar,
+,,,,,
+41561,k,0,histidina,dasar,
+,,,,,
+41562,k,0,histogeni,dasar,
+41562.1,x,,<histogen> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+41563,k,20,histogram,dasar,
+,,,,,
+41564,k,5,histokimia,dasar,
+,,,,,
+41565,k,31,histologi,dasar,
+41565.1,x,,<histolog> + -i,bentukan,[28] [S] -i + (<all>)
+41565.2,x,,<histo> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+41566,t,2,histologik,dasar,histologi
+,,,,,
+41567,t,14,histologis,dasar,histologi
+41567.1,x,,<histologi> + [-is:-s],bentukan,[177] [S] -is + (i)
+41567.2,x,,<histolog> + -is,bentukan,[178] [S] -is + (<others>)
+41567.3,x,,<histo> + -logi+-s,bentukan,[194] [MS] -logi+-s + (<all>)
+,,,,,
+41568,k,4,histon,dasar,
+,,,,,
+41569,k,38,histopatologi,dasar,
+41569.1,x,,<histopatolog> + -i,bentukan,[28] [S] -i + (<all>)
+41569.2,x,,<histopato> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+41570,t,18,histopatologis,dasar,histopatologi
+41570.1,x,,<histopatologi> + [-is:-s],bentukan,[177] [S] -is + (i)
+41570.2,x,,<histopatolog> + -is,bentukan,[178] [S] -is + (<others>)
+41570.3,x,,<histopato> + -logi+-s,bentukan,[194] [MS] -logi+-s + (<all>)
+,,,,,
+41571,k,22,histori,dasar,
+41571.1,x,,<histor> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+41572,k,0,historikus,dasar,
+,,,,,
+41573,k,30,historiografi,dasar,
+41573.1,x,,<historiograf> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+41574,k,0,historiografi linguistik,dasar,
+,,,,,
+41575,t,2,historiografis,dasar,historiografi
+41575.1,x,,<historiografi> + [-is:-s],bentukan,[177] [S] -is + (i)
+41575.2,x,,<historiograf> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+41576,k,421,historis,dasar,
+41576.1,x,,<histori> + [-is:-s],bentukan,[177] [S] -is + (i)
+41576.2,x,,<histor> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+41577,k,0,historisisme,dasar,
+41577.1,v,,<historis> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+41578,k,17,historisitas,dasar,
+41578.1,x,,<historis> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+41579,v,21,historisnya,dasar,
+41579.1,v,,<historis> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+41579.2,x,,<histori> + [-is:-s] + -nya,bentukan,[177] [S] -is + (i) => [34] [SFS] -nya + (<all>)
+41579.3,x,,<histor> + -is + -nya,bentukan,[178] [S] -is + (<others>) => [34] [SFS] -nya + (<all>)
+,,,,,
+41580,k,0,histrionik,dasar,
+,,,,,
+41581,k,35,hit,dasar,
+,,,,,
+41582,k,2278,hitam,dasar,
+,,,,,
+41583,k,0,hitam anilina,dasar,
+,,,,,
+41584,k,0,hitam antimon,dasar,
+,,,,,
+41585,k,0,hitam arang,dasar,
+,,,,,
+41586,k,0,hitam asetilena,dasar,
+,,,,,
+41587,k,0,hitam berkilat,dasar,
+,,,,,
+41588,k,0,hitam birat,dasar,
+,,,,,
+41589,k,0,hitam bogot,dasar,
+,,,,,
+41590,k,0,hitam jengat,dasar,
+,,,,,
+41591,k,0,hitam karbon,dasar,
+,,,,,
+41592,k,0,hitam kumbang,dasar,
+,,,,,
+41593,k,0,hitam lakan,dasar,
+41593.1,x,,<hitam la> + -kan,bentukan,[29] [S] -kan + (<all>)
+41593.2,x,,<hitam lak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+41594,k,0,hitam langit,dasar,
+,,,,,
+41595,k,0,hitam lebam,dasar,
+,,,,,
+41596,k,0,hitam legam,dasar,
+,,,,,
+41597,k,0,hitam lotong,dasar,
+,,,,,
+41598,k,0,hitam manggis,dasar,
+41598.1,x,,<hitam manggi> + [-is:-s],bentukan,[177] [S] -is + (i)
+41598.2,x,,<hitam mangg> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+41599,k,0,hitam manis,dasar,
+41599.1,x,,<hitam mani> + [-is:-s],bentukan,[177] [S] -is + (i)
+41599.2,x,,<hitam man> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+41600,k,0,hitam mata,dasar,
+,,,,,
+41601,k,0,hitam pegam,dasar,
+,,,,,
+41602,k,0,hitam pekat,dasar,
+,,,,,
+41603,k,0,hitam putih,dasar,
+,,,,,
+41604,k,0,hitam sabak,dasar,
+,,,,,
+41605,k,0,hitam selalu,dasar,
+,,,,,
+41606,k,0,hitam tulang,dasar,
+,,,,,
+41607,k,0,hitam usam,dasar,
+,,,,,
+41608,v,2,hitamkan,dasar,
+41608.1,v,,<hitam> + -kan,bentukan,[29] [S] -kan + (<all>)
+41608.2,x,,<hitamk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+41609,v,85,hitamnya,dasar,
+41609.1,v,,<hitam> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+41610,k,0,hitergraf,dasar,
+41610.1,x,,<hiter> + -graf,bentukan,[191] [S] -graf + (<all>)
+,,,,,
+41611,t,41,hits,dasar,hit
+,,,,,
+41612,k,395,hitung,dasar,
+,,,,,
+41613,k,0,hitung cepat,dasar,
+,,,,,
+41614,k,0,hitung mundur,dasar,
+,,,,,
+41615,k,0,hitung panjang,dasar,
+,,,,,
+41616,k,0,hitung punya,dasar,
+41616.1,x,,<hitung pu> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+41617,k,26,hitung-hitung,dasar,
+41617.1,v,,<hitung> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+41618,k,92,hitung-hitungan,dasar,
+41618.1,v,,<hitung> [-] <r> + -an,bentukan,[23] [RD] |
+,,,,,
+41619,v,20,hitung-hitungannya,dasar,
+41619.1,x,,<hitung-hitungan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+41619.2,v,,<hitung> [-] <r> + -an + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+41620,v,2,hitung-hitungnya,dasar,
+41620.1,x,,<hitung> [-] <r> + -nya,bentukan,[23] [RD] |
+41620.2,v,,<hitung> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+41621,v,5,hitung-menghitung,dasar,
+41621.1,v,,<hitung> [-] meng- + <r>,bentukan,[4] meng- + (g;h;x;kl;kr;kh;kw) + (-i;-kan) => [24] [RD] |meng-
+,,,,,
+41622,k,504,hitungan,dasar,
+41622.1,v,,<hitung> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+41623,k,0,hitungan angka-angka,dasar,
+,,,,,
+41624,v,0,hitungan detik,dasar,
+,,,,,
+41625,k,0,hitungan luar kepala,dasar,
+,,,,,
+41626,k,0,hitungan soal,dasar,
+,,,,,
+41627,k,0,hitungan soalan,dasar,
+41627.1,x,,<hitungan soal> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+41628,v,8,hitungan-hitungan,dasar,
+41628.1,v,,<hitungan> [-] <r>,bentukan,[23] [RD] |
+41628.2,v,,<hitung> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |

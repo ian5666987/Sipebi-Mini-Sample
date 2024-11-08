@@ -1,0 +1,1638 @@
+Nomor,KP,Jumlah,Entri,Tipe,Pembentukan
+33804,k,0,estuari dataran pesisir,dasar,
+,,,,,
+33805,k,0,estuari negatif,dasar,
+,,,,,
+33806,k,0,estuari positif,dasar,
+,,,,,
+33807,k,0,estuari tektonik,dasar,
+,,,,,
+33808,k,0,estuarin,dasar,
+,,,,,
+33809,k,0,eswatini,dasar,
+33809.1,x,,<eswatin> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33810,k,14,eta,dasar,
+,,,,,
+33811,k,0,etai,dasar,
+33811.1,x,,<eta> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33812,k,0,etai watarek,dasar,
+,,,,,
+33813,k,66,etalase,dasar,
+33813.1,x,,<etal> + -ase,bentukan,[210] [S] -ase + (<all>)
+,,,,,
+33814,v,4,etalasenya,dasar,
+33814.1,v,,<etalase> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+33814.2,x,,<etal> + -ase + -nya,bentukan,[210] [S] -ase + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+33815,k,2,etana,dasar,
+,,,,,
+33816,k,153,etanol,dasar,
+,,,,,
+33817,k,0,etanolisis,dasar,
+33817.1,x,,<etanolisi> + [-is:-s],bentukan,[177] [S] -is + (i)
+33817.2,x,,<etanolis> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+33818,k,27,etape,dasar,
+,,,,,
+33819,k,0,etatisme,dasar,
+33819.1,x,,<etat> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+33820,k,17,etek,dasar,
+,,,,,
+33821,k,0,etenoida,dasar,
+,,,,,
+33822,k,41,eter,dasar,
+,,,,,
+33823,k,0,eteris,dasar,
+33823.1,x,,<eteri> + [-is:-s],bentukan,[177] [S] -is + (i)
+33823.2,x,,<eter> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+33824,k,0,eternet,dasar,
+,,,,,
+33825,k,3,eternit,dasar,
+,,,,,
+33826,k,0,ethanol,dasar,
+,,,,,
+33827,k,10,eti,dasar,
+33827.1,x,,<et> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33828,k,0,etida,dasar,
+,,,,,
+33829,k,544,etik,dasar,
+,,,,,
+33830,k,0,etik pembangunan,dasar,
+33830.1,x,,<etik pembangun> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+33831,k,713,etika,dasar,
+,,,,,
+33832,k,0,etika bisnis,dasar,
+33832.1,x,,<etika bisni> + [-is:-s],bentukan,[177] [S] -is + (i)
+33832.2,x,,<etika bisn> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+33833,v,4,etika-etika,dasar,
+33833.1,v,,<etika> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+33834,v,5,etikanya,dasar,
+33834.1,v,,<etika> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+33835,k,0,etikat,dasar,
+,,,,,
+33836,k,25,etiket,dasar,
+,,,,,
+33837,k,53,etil,dasar,
+,,,,,
+33838,k,0,etilalkohol,dasar,
+,,,,,
+33839,k,0,etilasi,dasar,
+33839.1,x,,<etilas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33840,k,3,etilena,dasar,
+,,,,,
+33841,k,49,etimologi,dasar,
+33841.1,x,,<etimolog> + -i,bentukan,[28] [S] -i + (<all>)
+33841.2,x,,<etimo> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+33842,k,0,etimologi rakyat,dasar,
+,,,,,
+33843,k,44,etimologis,dasar,
+33843.1,x,,<etimologi> + [-is:-s],bentukan,[177] [S] -is + (i)
+33843.2,x,,<etimolog> + -is,bentukan,[178] [S] -is + (<others>)
+33843.3,x,,<etimo> + -logi+-s,bentukan,[194] [MS] -logi+-s + (<all>)
+,,,,,
+33844,k,0,etimon,dasar,
+,,,,,
+33845,k,0,etinil,dasar,
+,,,,,
+33846,k,0,etinil estradiol,dasar,
+,,,,,
+33847,k,0,etiolasi,dasar,
+33847.1,x,,<etiolas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33848,k,0,etiolin,dasar,
+,,,,,
+33849,k,29,etiologi,dasar,
+33849.1,x,,<etiolog> + -i,bentukan,[28] [S] -i + (<all>)
+33849.2,x,,<etio> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+33850,k,0,etiologi kejahatan,dasar,
+33850.1,x,,<etiologi kejahat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+33851,k,12,etiopia,dasar,
+,,,,,
+33852,k,203,etis,dasar,
+33852.1,x,,<eti> + [-is:-s],bentukan,[177] [S] -is + (i)
+33852.2,x,,<et> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+33853,v,4,etisnya,dasar,
+33853.1,v,,<etis> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+33853.2,x,,<eti> + [-is:-s] + -nya,bentukan,[177] [S] -is + (i) => [34] [SFS] -nya + (<all>)
+33853.3,x,,<et> + -is + -nya,bentukan,[178] [S] -is + (<others>) => [34] [SFS] -nya + (<all>)
+,,,,,
+33854,k,0,etmoid,dasar,
+33854.1,x,,<etm> + -oid,bentukan,[209] [S] -oid + (<all>)
+,,,,,
+33855,k,0,etnate,dasar,
+,,,,,
+33856,k,163,etnik,dasar,
+,,,,,
+33857,v,5,etnik-etnik,dasar,
+33857.1,v,,<etnik> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+33858,k,509,etnis,dasar,
+33858.1,x,,<etni> + [-is:-s],bentukan,[177] [S] -is + (i)
+33858.2,x,,<etn> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+33859,v,3,etnis-etnis,dasar,
+33859.1,v,,<etnis> [-] <r>,bentukan,[23] [RD] |
+33859.2,x,,<etni> + [-is:-s] [-] <r> + [-is:-s],bentukan,[177] [S] -is + (i) => [23] [RD] |
+33859.3,x,,<etn> + -is [-] <r> + -is,bentukan,[178] [S] -is + (<others>) => [23] [RD] |
+,,,,,
+33860,v,18,etnisnya,dasar,
+33860.1,v,,<etnis> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+33860.2,x,,<etni> + [-is:-s] + -nya,bentukan,[177] [S] -is + (i) => [34] [SFS] -nya + (<all>)
+33860.3,x,,<etn> + -is + -nya,bentukan,[178] [S] -is + (<others>) => [34] [SFS] -nya + (<all>)
+,,,,,
+33861,k,5,etnobotani,dasar,
+33861.1,x,,<etnobotan> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33862,k,0,etnograf,dasar,
+33862.1,v,,<etno> + -graf,bentukan,[191] [S] -graf + (<all>)
+,,,,,
+33863,v,3,etnografer,dasar,
+,,,,,
+33864,k,32,etnografi,dasar,
+33864.1,x,,<etnograf> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33865,k,0,etnografi komunikasi,dasar,
+33865.1,x,,<etnografi komunikas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33866,k,14,etnografis,dasar,
+33866.1,x,,<etnografi> + [-is:-s],bentukan,[177] [S] -is + (i)
+33866.2,x,,<etnograf> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+33867,k,4,etnolinguistik,dasar,
+,,,,,
+33868,k,4,etnolog,dasar,
+,,,,,
+33869,k,6,etnologi,dasar,
+33869.1,x,,<etnolog> + -i,bentukan,[28] [S] -i + (<all>)
+33869.2,x,,<etno> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+33870,k,0,etnologis,dasar,
+33870.1,x,,<etnologi> + [-is:-s],bentukan,[177] [S] -is + (i)
+33870.2,x,,<etnolog> + -is,bentukan,[178] [S] -is + (<others>)
+33870.3,x,,<etno> + -logi+-s,bentukan,[194] [MS] -logi+-s + (<all>)
+,,,,,
+33871,k,3,etnomusikolog,dasar,
+,,,,,
+33872,k,5,etnomusikologi,dasar,
+33872.1,x,,<etnomusikolog> + -i,bentukan,[28] [S] -i + (<all>)
+33872.2,x,,<etnomusiko> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+33873,k,0,etnopolitik,dasar,
+,,,,,
+33874,k,0,etnopsikologi,dasar,
+33874.1,x,,<etnopsikolog> + -i,bentukan,[28] [S] -i + (<all>)
+33874.2,x,,<etnopsiko> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+33875,k,3,etnosentris,dasar,
+33875.1,v,,<etno> + -sentris,bentukan,[111] [S] -sentris + (<all>)
+33875.2,x,,<etnosentri> + [-is:-s],bentukan,[177] [S] -is + (i)
+33875.3,x,,<etnosentr> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+33876,k,4,etnosentrisme,dasar,
+33876.1,x,,<etnosentr> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+33877,k,0,etnosida,dasar,
+,,,,,
+33878,k,0,etnowisata,dasar,
+33878.1,x,,<etno> + -wisata,bentukan,[212] [S] -wisata + (<all>)
+,,,,,
+33879,k,0,etologi,dasar,
+33879.1,x,,<etolog> + -i,bentukan,[28] [S] -i + (<all>)
+33879.2,x,,<eto> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+33880,k,153,etos,dasar,
+,,,,,
+33881,k,0,etos kebudayaan,dasar,
+33881.1,x,,<etos kebudaya> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+33882,k,0,etos kerja,dasar,
+,,,,,
+33883,k,4,etsa,dasar,
+,,,,,
+33884,k,3,etude,dasar,
+,,,,,
+33885,k,0,eudaemonisme,dasar,
+33885.1,x,,<eudaemon> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+33886,k,0,eudiometer,dasar,
+33886.1,x,,<eudio> + -meter,bentukan,[189] [S] -meter + (<all>)
+,,,,,
+33887,k,9,eufemisme,dasar,
+33887.1,x,,<eufem> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+33888,k,0,eufemistis,dasar,
+33888.1,x,,<eufemisti> + [-is:-s],bentukan,[177] [S] -is + (i)
+33888.2,x,,<eufemist> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+33889,k,0,eufili,dasar,
+33889.1,x,,<eufil> + -i,bentukan,[28] [S] -i + (<all>)
+33889.2,x,,<eu> + -fili,bentukan,[193] [S] -fili + (<all>)
+,,,,,
+33890,k,0,eufobia,dasar,
+33890.1,x,,<eu> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+33891,k,0,eufoni,dasar,
+33891.1,x,,<eufon> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33892,k,0,eufonik,dasar,
+,,,,,
+33893,k,0,eufonium,dasar,
+,,,,,
+33894,k,0,euforbia,dasar,
+,,,,,
+33895,k,110,euforia,dasar,
+,,,,,
+33896,k,0,euforian,dasar,
+33896.1,x,,<eufori> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+33897,v,3,euforianya,dasar,
+33897.1,v,,<euforia> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+33898,k,0,eufotik,dasar,
+,,,,,
+33899,k,0,eugenetika,dasar,
+,,,,,
+33900,k,0,eugenika,dasar,
+,,,,,
+33901,k,6,eugenol,dasar,
+,,,,,
+33902,k,0,eukaliptol,dasar,
+,,,,,
+33903,k,10,eukaliptus,dasar,
+,,,,,
+33904,k,0,eukarion,dasar,
+,,,,,
+33905,k,3,eukariota,dasar,
+,,,,,
+33906,k,5,eukariotik,dasar,
+,,,,,
+33907,k,0,eulitoral,dasar,
+,,,,,
+33908,k,2,eulogi,dasar,
+33908.1,x,,<eulog> + -i,bentukan,[28] [S] -i + (<all>)
+33908.2,x,,<eu> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+33909,k,0,euploid,dasar,
+33909.1,x,,<eupl> + -oid,bentukan,[209] [S] -oid + (<all>)
+,,,,,
+33910,k,30,eurasia,dasar,
+,,,,,
+33911,k,0,eurih,dasar,
+,,,,,
+33912,k,0,eurihalin,dasar,
+,,,,,
+33913,k,0,euritermal,dasar,
+,,,,,
+33914,k,0,euritopik,dasar,
+,,,,,
+33915,k,255,euro,dasar,
+,,,,,
+33916,k,66,europa,dasar,
+,,,,,
+33917,k,0,europium,dasar,
+,,,,,
+33918,k,0,eurosentris,dasar,
+33918.1,x,,<euro> + -sentris,bentukan,[111] [S] -sentris + (<all>)
+33918.2,x,,<eurosentri> + [-is:-s],bentukan,[177] [S] -is + (i)
+33918.3,x,,<eurosentr> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+33919,k,0,eurotofobia,dasar,
+33919.1,x,,<euroto> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+33920,k,0,euseksual,dasar,
+,,,,,
+33921,k,0,eusinantropus,dasar,
+,,,,,
+33922,k,0,eusporangium,dasar,
+,,,,,
+33923,k,0,eustele,dasar,
+,,,,,
+33924,k,0,eustres,dasar,
+,,,,,
+33925,k,9,eutanasia,dasar,
+,,,,,
+33926,k,0,eutanasia aktif,dasar,
+,,,,,
+33927,k,0,eutanasia pasif,dasar,
+,,,,,
+33928,k,0,eutektik,dasar,
+,,,,,
+33929,k,0,eutenika,dasar,
+,,,,,
+33930,k,0,eutosia,dasar,
+,,,,,
+33931,k,2,eutrofik,dasar,
+,,,,,
+33932,k,8,eutrofikasi,dasar,
+33932.1,x,,<eutrofikas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33933,k,0,eutropik,dasar,
+,,,,,
+33934,k,217,evakuasi,dasar,
+33934.1,x,,<evakuas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33935,v,2,evakuasinya,dasar,
+33935.1,v,,<evakuasi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+33935.2,x,,<evakuas> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+33936,k,2317,evaluasi,dasar,
+33936.1,x,,<evaluas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33937,k,0,evaluasi dinamik,dasar,
+,,,,,
+33938,k,0,evaluasi internal,dasar,
+,,,,,
+33939,k,0,evaluasi mutu,dasar,
+,,,,,
+33940,k,0,evaluasi penggamakan,dasar,
+33940.1,x,,<evaluasi penggama> + -kan,bentukan,[29] [S] -kan + (<all>)
+33940.2,x,,<evaluasi penggamak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+33941,v,3,evaluasi-evaluasi,dasar,
+33941.1,v,,<evaluasi> [-] <r>,bentukan,[23] [RD] |
+33941.2,x,,<evaluas> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+33942,k,27,evaluatif,dasar,
+,,,,,
+33943,k,16,evaluator,dasar,
+,,,,,
+33944,k,0,evangeli,dasar,
+33944.1,x,,<evangel> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33945,k,0,evangeliarium,dasar,
+,,,,,
+33946,k,5,evangelis,dasar,
+33946.1,x,,<evangeli> + [-is:-s],bentukan,[177] [S] -is + (i)
+33946.2,x,,<evangel> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+33947,k,31,evaporasi,dasar,
+33947.1,x,,<evaporas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33948,k,53,evaporator,dasar,
+,,,,,
+33949,k,0,evaporimeter,dasar,
+33949.1,x,,<evapori> + -meter,bentukan,[189] [S] -meter + (<all>)
+,,,,,
+33950,k,0,evaporivitas,dasar,
+33950.1,x,,<evaporiv> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+33951,k,0,evaporograf,dasar,
+33951.1,x,,<evaporo> + -graf,bentukan,[191] [S] -graf + (<all>)
+,,,,,
+33952,k,0,evaporogram,dasar,
+,,,,,
+33953,k,8,evapotranspirasi,dasar,
+33953.1,x,,<evapotranspiras> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33954,k,0,evapotranspirasi efektif,dasar,
+,,,,,
+33955,k,0,evapotranspirometer,dasar,
+33955.1,x,,<evapotranspiro> + -meter,bentukan,[189] [S] -meter + (<all>)
+,,,,,
+33956,k,0,eversi,dasar,
+33956.1,x,,<evers> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33957,k,0,eviden,dasar,
+,,,,,
+33958,k,0,eviserasi,dasar,
+33958.1,x,,<eviseras> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33959,k,0,evokasi,dasar,
+33959.1,x,,<evokas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33960,k,0,evokatif,dasar,
+,,,,,
+33961,k,170,evolusi,dasar,
+33961.1,x,,<evolus> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33962,k,0,evolusi filetik,dasar,
+,,,,,
+33963,k,0,evolusi masyarakat,dasar,
+,,,,,
+33964,v,7,evolusinya,dasar,
+33964.1,v,,<evolusi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+33964.2,x,,<evolus> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+33965,k,18,evolusioner,dasar,
+,,,,,
+33966,k,0,evolusionisme,dasar,
+33966.1,x,,<evolusion> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+33967,k,0,eweai,dasar,
+33967.1,x,,<ewea> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33968,k,8,ewuh,dasar,
+,,,,,
+33969,k,0,ewuh pekewuh,dasar,
+,,,,,
+33970,k,0,expor,dasar,
+,,,,,
+33971,k,54,eyang,dasar,
+,,,,,
+33972,d,0,eyangku,dasar,
+33972.1,v,,<eyang> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+33973,v,2,eyangmu,dasar,
+33973.1,v,,<eyang> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+,,,,,
+33974,v,7,eyangnya,dasar,
+33974.1,v,,<eyang> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+33975,k,0,eyel,dasar,
+,,,,,
+33976,k,2766,f,dasar,
+,,,,,
+33977,k,179,fa,dasar,
+,,,,,
+33978,k,19,faal,dasar,
+,,,,,
+33979,k,0,faal getah bening,dasar,
+,,,,,
+33980,k,4,faali,dasar,
+33980.1,x,,<faal> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33981,k,14,fabel,dasar,
+,,,,,
+33982,k,0,fabel personal,dasar,
+,,,,,
+33983,k,0,fabrik,dasar,
+,,,,,
+33984,k,62,fabrikasi,dasar,
+33984.1,x,,<fabrikas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33985,k,2,fabula,dasar,
+,,,,,
+33986,k,0,fabula atelana,dasar,
+,,,,,
+33987,k,0,fabula preleksta,dasar,
+,,,,,
+33988,k,0,fabula tabernasia,dasar,
+,,,,,
+33989,k,0,fabula togata,dasar,
+,,,,,
+33990,k,0,fadem,dasar,
+,,,,,
+33991,k,0,fadeometer,dasar,
+33991.1,x,,<fadeo> + -meter,bentukan,[189] [S] -meter + (<all>)
+,,,,,
+33992,k,2,fadi,dasar,
+33992.1,x,,<fad> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33993,k,0,fadihat,dasar,
+,,,,,
+33994,k,27,fadil,dasar,
+,,,,,
+33995,k,21,fadilah,dasar,
+33995.1,x,,<fadi> + -lah,bentukan,[31] [FS] -lah + (<all>)
+33995.2,x,,<fad> + -i + -lah,bentukan,[28] [S] -i + (<all>) => [31] [FS] -lah + (<all>)
+,,,,,
+33996,k,0,fadilat,dasar,
+,,,,,
+33997,k,41,faedah,dasar,
+,,,,,
+33998,k,2,fafa,dasar,
+,,,,,
+33999,k,2,fafiri,dasar,
+33999.1,x,,<fafir> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34000,k,0,fagatena,dasar,
+,,,,,
+34001,k,0,fago,dasar,
+,,,,,
+34002,k,0,fagofobia,dasar,
+34002.1,x,,<fago> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+34003,k,0,fagomania,dasar,
+,,,,,
+34004,k,10,fagosit,dasar,
+,,,,,
+34005,k,14,fagositosis,dasar,
+34005.1,x,,<fagositosi> + [-is:-s],bentukan,[177] [S] -is + (i)
+34005.2,x,,<fagositos> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+34006,k,0,fagot,dasar,
+,,,,,
+34007,c,59,faham,dasar,paham
+,,,,,
+34008,t,3,faham-faham,dasar,paham-paham
+34008.1,v,,<faham> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+34009,k,2,fahisyah,dasar,
+,,,,,
+34010,k,0,fahombe,dasar,
+,,,,,
+34011,k,0,fahrasat,dasar,
+,,,,,
+34012,k,7,fahrenheit,dasar,
+,,,,,
+34013,k,2,fahsya,dasar,
+,,,,,
+34014,k,18,fai,dasar,
+34014.1,x,,<fa> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34015,c,0,faidah,dasar,
+,,,,,
+34016,t,3,faidahnya,dasar,faedahnya
+34016.1,v,,<faidah> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+34017,k,23,fail,dasar,
+,,,,,
+34018,k,0,fail komputer,dasar,
+,,,,,
+34019,k,0,fail terkunci,dasar,
+34019.1,x,,<fail terkunc> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34020,k,329,fajar,dasar,
+,,,,,
+34021,k,0,fajar kizib,dasar,
+,,,,,
+34022,k,0,fajar menyingsing,dasar,
+,,,,,
+34023,k,0,fajar sadik,dasar,
+,,,,,
+34024,k,0,fajar senja,dasar,
+,,,,,
+34025,k,0,fajar senja astronomi,dasar,
+34025.1,x,,<fajar senja astronom> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34026,k,0,fajar senja nyata,dasar,
+,,,,,
+34027,k,0,fajar sidik,dasar,
+,,,,,
+34028,k,0,fakar,dasar,
+,,,,,
+34029,k,25,fakfak,dasar,
+,,,,,
+34030,k,21,fakih,dasar,
+,,,,,
+34031,k,111,fakir,dasar,
+,,,,,
+34032,k,0,fakir miskin,dasar,
+,,,,,
+34033,k,78,faksi,dasar,
+34033.1,x,,<faks> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34034,c,8,faksimil,dasar,faksimile
+,,,,,
+34035,k,92,faksimile,dasar,
+,,,,,
+34036,c,102,faksimili,dasar,faksimile
+34036.1,x,,<faksimil> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34037,k,0,faksin,dasar,
+,,,,,
+34038,k,0,faksinasi,dasar,
+34038.1,x,,<faksinas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34039,v,5,faksionalisasi,dasar,
+34039.1,x,,<faksionalisas> + -i,bentukan,[28] [S] -i + (<all>)
+34039.2,x,,<faksionali> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+34039.3,x,,<faksionalis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+34039.4,x,,<faksional> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+34040,k,0,faksionalisme,dasar,
+34040.1,x,,<faksional> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+34041,k,1663,fakta,dasar,
+,,,,,
+34042,v,222,fakta-fakta,dasar,
+34042.1,v,,<fakta> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+34043,v,6,fakta-faktanya,dasar,
+34043.1,x,,<fakta> [-] <r> + -nya,bentukan,[23] [RD] |
+34043.2,v,,<fakta> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+34044,v,440,faktanya,dasar,
+34044.1,v,,<fakta> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+34045,k,0,faktif,dasar,
+,,,,,
+34046,k,0,faktitius,dasar,
+,,,,,
+34047,k,3796,faktor,dasar,
+,,,,,
+34048,k,0,faktor abiotik,dasar,
+,,,,,
+34049,k,0,faktor anti uban,dasar,
+34049.1,x,,<faktor anti ub> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+34050,k,0,faktor antihemofilik,dasar,
+,,,,,
+34051,k,0,faktor biotik,dasar,
+,,,,,
+34052,k,0,faktor bujur,dasar,
+,,,,,
+34053,k,0,faktor derau,dasar,
+,,,,,
+34054,k,0,faktor edafilik,dasar,
+,,,,,
+34055,k,0,faktor ekologi,dasar,
+34055.1,x,,<faktor ekolog> + -i,bentukan,[28] [S] -i + (<all>)
+34055.2,x,,<faktor eko> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+34056,k,0,faktor ekonomi,dasar,
+34056.1,x,,<faktor ekonom> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34057,k,0,faktor ekstrinsik,dasar,
+,,,,,
+34058,k,0,faktor fungsional,dasar,
+,,,,,
+34059,k,0,faktor iklim,dasar,
+,,,,,
+34060,k,0,faktor intrinsik,dasar,
+,,,,,
+34061,k,0,faktor kebetulan,dasar,
+34061.1,x,,<faktor kebetul> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+34062,k,0,faktor keruh,dasar,
+,,,,,
+34063,k,0,faktor koagulasi,dasar,
+34063.1,x,,<faktor koagulas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34064,k,0,faktor koagulasi ix,dasar,
+,,,,,
+34065,k,0,faktor koagulasi viii,dasar,
+,,,,,
+34066,k,0,faktor konversi,dasar,
+34066.1,x,,<faktor konvers> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34067,k,0,faktor konversi energi,dasar,
+34067.1,x,,<faktor konversi energ> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34068,k,0,faktor konversi nitrogen,dasar,
+,,,,,
+34069,k,0,faktor lingkungan,dasar,
+34069.1,x,,<faktor lingkung> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+34070,k,0,faktor lintang,dasar,
+,,,,,
+34071,k,0,faktor motivasi,dasar,
+34071.1,x,,<faktor motivas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34072,k,0,faktor muai,dasar,
+34072.1,x,,<faktor mua> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34073,k,0,faktor muat,dasar,
+,,,,,
+34074,k,0,faktor nekrosis tumor,dasar,
+,,,,,
+34075,k,0,faktor normatif berdasarkan sejarah,dasar,
+,,,,,
+34076,k,0,faktor normatif berdasarkan umur,dasar,
+,,,,,
+34077,k,0,faktor pembatas,dasar,
+,,,,,
+34078,k,0,faktor penarik,dasar,
+,,,,,
+34079,k,0,faktor pendorong,dasar,
+,,,,,
+34080,k,0,faktor persekutuan,dasar,
+34080.1,x,,<faktor persekutu> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+34081,k,0,faktor produksi,dasar,
+34081.1,x,,<faktor produks> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34082,k,0,faktor sukses kritis,dasar,
+34082.1,x,,<faktor sukses kriti> + [-is:-s],bentukan,[177] [S] -is + (i)
+34082.2,x,,<faktor sukses krit> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+34083,k,0,faktor susut,dasar,
+,,,,,
+34084,k,0,faktor toleransi glukosa,dasar,
+,,,,,
+34085,v,810,faktor-faktor,dasar,
+34085.1,v,,<faktor> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+34086,k,57,faktorial,dasar,
+,,,,,
+34087,v,23,faktornya,dasar,
+34087.1,v,,<faktor> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+34088,v,182,faktual,dasar,
+,,,,,
+34089,v,2,faktualisasi,dasar,
+34089.1,x,,<faktualisas> + -i,bentukan,[28] [S] -i + (<all>)
+34089.2,x,,<faktuali> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+34089.3,x,,<faktualis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+34089.4,x,,<faktual> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+34090,v,3,faktualitas,dasar,
+34090.1,x,,<faktual> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+34091,v,4,faktualnya,dasar,
+34091.1,v,,<faktual> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+34092,k,61,faktur,dasar,
+,,,,,
+34093,k,0,faktur bervisa,dasar,
+,,,,,
+34094,k,0,faktur dagang,dasar,
+,,,,,
+34095,k,0,faktur konsuler,dasar,
+,,,,,
+34096,k,0,faktur penjualan,dasar,
+34096.1,x,,<faktur penjual> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+34097,k,1468,fakultas,dasar,
+,,,,,
+34098,v,9,fakultas-fakultas,dasar,
+34098.1,v,,<fakultas> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+34099,v,15,fakultasnya,dasar,
+34099.1,v,,<fakultas> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+34100,k,25,fakultatif,dasar,
+,,,,,
+34101,d,0,fakultatif anaerob,dasar,
+,,,,,
+34102,k,0,fakum,dasar,
+,,,,,
+34103,k,0,falaenofili,dasar,
+34103.1,x,,<falaenofil> + -i,bentukan,[28] [S] -i + (<all>)
+34103.2,x,,<falaeno> + -fili,bentukan,[193] [S] -fili + (<all>)
+,,,,,
+34104,k,0,falafel,dasar,
+,,,,,
+34105,k,26,falah,dasar,
+34105.1,x,,<fa> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+34106,k,0,falaj,dasar,
+,,,,,
+34107,k,7,falak,dasar,
+,,,,,
+34108,k,0,falakiah,dasar,
+34108.1,v,,<falak> + -iah,bentukan,[175] [S] -iah + (<others>)
+,,,,,
+34109,k,0,falakrofobia,dasar,
+34109.1,x,,<falakro> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+34110,k,0,falang,dasar,
+,,,,,
+34111,k,0,falawela,dasar,
+,,,,,
+34112,k,0,falid,dasar,
+,,,,,
+34113,k,0,falik,dasar,
+,,,,,
+34114,k,0,falofobia,dasar,
+34114.1,x,,<falo> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+34115,k,0,falowa,dasar,
+,,,,,
+34116,v,22,fals,dasar,
+,,,,,
+34117,k,162,falsafah,dasar,
+,,,,,
+34118,v,2,falsafahnya,dasar,
+34118.1,v,,<falsafah> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+34119,t,2,falsafat,dasar,falsafah
+,,,,,
+34120,k,6,falsafi,dasar,
+34120.1,x,,<falsaf> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34121,k,0,falseto,dasar,
+,,,,,
+34122,k,0,falsifikasi,dasar,
+34122.1,x,,<falsifikas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34123,k,0,famai,dasar,
+34123.1,x,,<fama> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34124,k,171,famili,dasar,
+34124.1,x,,<famil> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34125,v,4,famili-famili,dasar,
+34125.1,v,,<famili> [-] <r>,bentukan,[23] [RD] |
+34125.2,x,,<famil> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+34126,c,10,familia,dasar,famili
+,,,,,
+34127,c,153,familiar,dasar,familier
+,,,,,
+34128,k,0,familiarisasi,dasar,
+34128.1,x,,<familiarisas> + -i,bentukan,[28] [S] -i + (<all>)
+34128.2,x,,<familiari> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+34128.3,x,,<familiaris> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+34128.4,x,,<familiar> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+34129,v,2,familiarisme,dasar,
+34129.1,x,,<familiar> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+34130,v,2,familiaritas,dasar,
+34130.1,x,,<familiar> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+34131,k,44,familier,dasar,
+,,,,,
+34132,v,2,familimu,dasar,
+34132.1,v,,<famili> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+34132.2,x,,<famil> + -i + -mu,bentukan,[28] [S] -i + (<all>) => [33] [SFS] -mu + (<all>)
+,,,,,
+34133,v,15,familinya,dasar,
+34133.1,v,,<famili> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+34133.2,x,,<famil> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+34134,k,0,familisida,dasar,
+,,,,,
+34135,k,2,familisme,dasar,
+34135.1,x,,<famil> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+34136,k,0,famplet,dasar,
+,,,,,
+34137,k,137,fan,dasar,
+34137.1,x,,<f> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+34138,k,0,fan fiksi,dasar,
+34138.1,x,,<fan fiks> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34139,k,77,fana,dasar,
+,,,,,
+34140,k,111,fanatik,dasar,
+,,,,,
+34141,v,4,fanatiknya,dasar,
+34141.1,v,,<fanatik> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+34142,t,3,fanatis,dasar,fanatik
+34142.1,x,,<fanati> + [-is:-s],bentukan,[177] [S] -is + (i)
+34142.2,x,,<fanat> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+34143,k,58,fanatisme,dasar,
+34143.1,x,,<fanat> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+34144,k,2,fandom,dasar,
+,,,,,
+34145,k,0,faneritik,dasar,
+,,,,,
+34146,k,0,fanerokotil,dasar,
+,,,,,
+34147,k,0,fanfare,dasar,
+,,,,,
+34148,k,0,fanfik,dasar,
+,,,,,
+34149,k,0,fanfiksi,dasar,
+34149.1,x,,<fanfiks> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34150,k,8,fani,dasar,
+34150.1,x,,<fan> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34151,k,0,fankam,dasar,
+,,,,,
+34152,k,0,fanservis,dasar,
+34152.1,x,,<fanservi> + [-is:-s],bentukan,[177] [S] -is + (i)
+34152.2,x,,<fanserv> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+34153,k,121,fantasi,dasar,
+34153.1,x,,<fantas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34154,k,0,fantasi biologis,dasar,
+34154.1,x,,<fantasi biologi> + [-is:-s],bentukan,[177] [S] -is + (i)
+34154.2,x,,<fantasi biolog> + -is,bentukan,[178] [S] -is + (<others>)
+34154.3,x,,<fantasi bio> + -logi+-s,bentukan,[194] [MS] -logi+-s + (<all>)
+,,,,,
+34155,k,0,fantasi seksual,dasar,
+,,,,,
+34156,v,2,fantasi-fantasi,dasar,
+34156.1,v,,<fantasi> [-] <r>,bentukan,[23] [RD] |
+34156.2,x,,<fantas> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+34157,v,3,fantasia,dasar,
+,,,,,
+34158,v,2,fantasikan,dasar,
+34158.1,v,,<fantasi> + -kan,bentukan,[29] [S] -kan + (<all>)
+34158.2,x,,<fantasik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+34159,v,6,fantasiku,dasar,
+34159.1,v,,<fantasi> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+34159.2,x,,<fantas> + -i + -ku,bentukan,[28] [S] -i + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+34160,v,15,fantasinya,dasar,
+34160.1,v,,<fantasi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+34160.2,x,,<fantas> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+34161,t,15,fantastik,dasar,fantastis
+,,,,,
+34162,k,200,fantastis,dasar,
+34162.1,x,,<fantasti> + [-is:-s],bentukan,[177] [S] -is + (i)
+34162.2,x,,<fantast> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+34163,k,0,fantom,dasar,
+,,,,,
+34164,k,0,fantosmia,dasar,
+,,,,,
+34165,k,0,faqih,dasar,
+,,,,,
+34166,k,0,faqir,dasar,
+,,,,,
+34167,k,0,farad,dasar,
+,,,,,
+34168,k,0,farafale,dasar,
+,,,,,
+34169,k,0,faraid,dasar,
+,,,,,
+34170,c,2,faraj,dasar,farji
+,,,,,
+34171,k,0,farak,dasar,
+,,,,,
+34172,k,0,faranyao,dasar,
+,,,,,
+34173,k,10,fardu,dasar,
+,,,,,
+34174,k,0,fardu ain,dasar,
+,,,,,
+34175,k,0,fardu kifayah,dasar,
+,,,,,
+34176,k,0,faret,dasar,
+,,,,,
+34177,k,0,farik,dasar,
+,,,,,
+34178,k,8,faring,dasar,
+,,,,,
+34179,k,0,faringal,dasar,
+,,,,,
+34180,k,0,faringalisasi,dasar,
+34180.1,x,,<faringalisas> + -i,bentukan,[28] [S] -i + (<all>)
+34180.2,x,,<faringali> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+34180.3,x,,<faringalis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+34180.4,x,,<faringal> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+34181,v,2,faringeal,dasar,
+,,,,,
+34182,k,5,faringitis,dasar,
+34182.1,x,,<faringiti> + [-is:-s],bentukan,[177] [S] -is + (i)
+34182.2,x,,<faringit> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+34183,k,0,farinograf,dasar,
+34183.1,x,,<farino> + -graf,bentukan,[191] [S] -graf + (<all>)
+,,,,,
+34184,k,10,farisi,dasar,
+34184.1,x,,<faris> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34185,k,4,farji,dasar,
+34185.1,x,,<farj> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34186,v,112,farma,dasar,
+,,,,,
+34187,k,2,farmakodinamika,dasar,
+,,,,,
+34188,k,0,farmakofobia,dasar,
+34188.1,x,,<farmako> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+34189,k,0,farmakogenomik,dasar,
+,,,,,
+34190,k,0,farmakognosi,dasar,
+34190.1,x,,<farmakognos> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34191,v,10,farmakokinetik,dasar,
+,,,,,
+34192,k,6,farmakokinetika,dasar,
+,,,,,
+34193,k,2,farmakolog,dasar,
+,,,,,
+34194,k,63,farmakologi,dasar,
+34194.1,x,,<farmakolog> + -i,bentukan,[28] [S] -i + (<all>)
+34194.2,x,,<farmako> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+34195,t,7,farmakologik,dasar,farmakologis
+,,,,,
+34196,k,12,farmakologis,dasar,
+34196.1,x,,<farmakologi> + [-is:-s],bentukan,[177] [S] -is + (i)
+34196.2,x,,<farmakolog> + -is,bentukan,[178] [S] -is + (<others>)
+34196.3,x,,<farmako> + -logi+-s,bentukan,[194] [MS] -logi+-s + (<all>)
+,,,,,
+34197,k,14,farmakope,dasar,
+,,,,,
+34198,t,2,farmakosetika,dasar,farmakoseutika
+,,,,,
+34199,k,4,farmakoseutika,dasar,
+,,,,,
+34200,k,8,farmakoterapi,dasar,
+34200.1,x,,<farmakoterap> + -i,bentukan,[28] [S] -i + (<all>)
+34200.2,x,,<farmako> + -terapi,bentukan,[215] [S] -terapi + (<all>)
+,,,,,
+34201,k,436,farmasi,dasar,
+34201.1,x,,<farmas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34202,k,8,farmasis,dasar,
+34202.1,v,,<farmasi> + [-is:-s],bentukan,[177] [S] -is + (i)
+34202.2,x,,<farmas> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+34203,k,0,farnesol,dasar,
+,,,,,
+34204,k,0,farsakh,dasar,
+,,,,,
+34205,v,3,farsi,dasar,
+34205.1,x,,<fars> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34206,c,9,fas,dasar,vas
+,,,,,
+34207,v,43,fasa,dasar,
+,,,,,
+34208,k,14,fasad,dasar,
+,,,,,
+34209,t,7,fasade,dasar,fasad
+,,,,,
+34210,t,2,fasadenya,dasar,fasadnya
+34210.1,v,,<fasade> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+34211,k,2,fasakh,dasar,
+,,,,,
+34212,t,2,fasal,dasar,pasal
+,,,,,
+34213,v,9,fasbi,dasar,
+34213.1,x,,<fasb> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34214,v,9,fasbis,dasar,
+34214.1,x,,<fasbi> + [-is:-s],bentukan,[177] [S] -is + (i)
+34214.2,x,,<fasb> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+34215,v,2,fasdiklat,dasar,
+,,,,,
+34216,k,0,fasdu,dasar,
+,,,,,
+34217,k,847,fase,dasar,
+34217.1,x,,<f> + -ase,bentukan,[210] [S] -ase + (<all>)
+,,,,,
+34218,k,0,fase antarglasial,dasar,
+,,,,,
+34219,k,0,fase artikulasi,dasar,
+34219.1,x,,<fase artikulas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34220,k,0,fase asimptomatik,dasar,
+,,,,,
+34221,k,0,fase dekompensasi,dasar,
+34221.1,x,,<fase dekompensas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34222,k,0,fase kompensasi,dasar,
+34222.1,x,,<fase kompensas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34223,k,0,fase kompetisi,dasar,
+34223.1,x,,<fase kompetis> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34224,k,0,fase kronik,dasar,
+,,,,,
+34225,k,0,fase mati,dasar,
+34225.1,x,,<fase mat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34226,k,0,fase prapensiun,dasar,
+,,,,,
+34227,k,0,fase reorientasi,dasar,
+34227.1,x,,<fase reorientas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34228,k,0,fase simptomatik,dasar,
+,,,,,
+34229,k,0,fase telogen,dasar,
+,,,,,
+34230,k,0,fase warna,dasar,
+,,,,,
+34231,v,39,fase-fase,dasar,
+34231.1,v,,<fase> [-] <r>,bentukan,[23] [RD] |
+34231.2,x,,<f> + -ase [-] <r> + -ase,bentukan,[210] [S] -ase + (<all>) => [23] [RD] |
+,,,,,
+34232,k,3,faset,dasar,
+,,,,,
+34233,v,7,fasi,dasar,
+34233.1,x,,<fas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34234,k,0,fasia,dasar,
+,,,,,
+34235,k,4,fasid,dasar,
+,,,,,
+34236,k,154,fasih,dasar,
+,,,,,
+34237,k,0,fasih lidah,dasar,
+,,,,,
+34238,k,0,fasihat,dasar,
+,,,,,
+34239,k,8,fasik,dasar,
+,,,,,
+34240,k,0,fasikulus,dasar,
+,,,,,
+34241,k,3204,fasilitas,dasar,
+34241.1,x,,<fasil> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+34242,k,0,fasilitas diplomatik,dasar,
+,,,,,
+34243,k,0,fasilitas diskonto,dasar,
+,,,,,
+34244,k,0,fasilitas kesehatan,dasar,
+34244.1,x,,<fasilitas kesehat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+34245,k,0,fasilitas likuiditas,dasar,
+34245.1,x,,<fasilitas likuid> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+34246,k,0,fasilitas neuromuskular proprioseptif,dasar,
+,,,,,
+34247,k,0,fasilitas rawat rumah,dasar,
+,,,,,
+34248,k,0,fasilitas sosial,dasar,
+,,,,,
+34249,k,0,fasilitas umum,dasar,
+,,,,,
+34250,v,75,fasilitas-fasilitas,dasar,
+34250.1,v,,<fasilitas> [-] <r>,bentukan,[23] [RD] |
+34250.2,x,,<fasil> + -itas [-] <r> + -itas,bentukan,[205] [S] -itas + (<others>) => [23] [RD] |
+,,,,,
+34251,k,489,fasilitasi,dasar,
+34251.1,x,,<fasilitas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34252,k,0,fasilitasi sosial,dasar,
+,,,,,
+34253,v,92,fasilitasnya,dasar,
+34253.1,v,,<fasilitas> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+34253.2,x,,<fasil> + -itas + -nya,bentukan,[205] [S] -itas + (<others>) => [34] [SFS] -nya + (<all>)
+,,,,,
+34254,t,2,fasilitastor,dasar,fasilitator
+,,,,,
+34255,v,9,fasilitatif,dasar,
+,,,,,
+34256,k,245,fasilitator,dasar,
+,,,,,
+34257,k,22,fasis,dasar,
+34257.1,x,,<fasi> + [-is:-s],bentukan,[177] [S] -is + (i)
+34257.2,x,,<fas> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+34258,k,18,fasisme,dasar,
+34258.1,x,,<fas> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+34259,v,34,faskes,dasar,
+,,,,,
+34260,k,0,fasmofobia,dasar,
+34260.1,x,,<fasmo> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+34261,k,0,fasos,dasar,
+,,,,,
+34262,k,3,fasum,dasar,
+,,,,,
+34263,v,24,fasyankes,dasar,
+,,,,,
+34264,k,81,fatah,dasar,
+,,,,,
+34265,k,290,fatal,dasar,
+,,,,,
+34266,k,7,fatalis,dasar,
+34266.1,x,,<fatali> + [-is:-s],bentukan,[177] [S] -is + (i)
+34266.2,v,,<fatal> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+34267,k,3,fatalisme,dasar,
+34267.1,v,,<fatal> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+34268,k,6,fatalitas,dasar,
+34268.1,v,,<fatal> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+34269,v,4,fatalitasnya,dasar,
+34269.1,x,,<fatalitas> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+34269.2,v,,<fatal> + -itas + -nya,bentukan,[205] [S] -itas + (<others>) => [34] [SFS] -nya + (<all>)
+,,,,,
+34270,v,7,fatalnya,dasar,
+34270.1,v,,<fatal> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+34271,k,29,fatamorgana,dasar,
+,,,,,
+34272,k,2,fatanah,dasar,
+,,,,,
+34273,k,0,fatele,dasar,
+,,,,,
+34274,k,14,fatihah,dasar,
+,,,,,
+34275,k,2,fatir,dasar,
+,,,,,
+34276,v,2,fatis,dasar,
+34276.1,x,,<fati> + [-is:-s],bentukan,[177] [S] -is + (i)
+34276.2,x,,<fat> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+34277,k,0,fatkaman,dasar,
+34277.1,x,,<fatkam> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+34278,k,0,fatom,dasar,
+,,,,,
+34279,k,0,fatometer,dasar,
+34279.1,x,,<fato> + -meter,bentukan,[189] [S] -meter + (<all>)
+,,,,,
+34280,k,0,fatri,dasar,
+34280.1,x,,<fatr> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34281,k,0,fatsoen,dasar,
+,,,,,
+34282,k,4,fatsun,dasar,
+,,,,,
+34283,k,2,fatur,dasar,
+,,,,,
+34284,k,233,fatwa,dasar,
+,,,,,
+34285,v,8,fatwa-fatwa,dasar,
+34285.1,v,,<fatwa> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+34286,v,2,fatwa-fatwanya,dasar,
+34286.1,x,,<fatwa> [-] <r> + -nya,bentukan,[23] [RD] |
+34286.2,v,,<fatwa> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+34287,v,11,fatwanya,dasar,
+34287.1,v,,<fatwa> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+34288,k,157,fauna,dasar,
+,,,,,
+34289,k,0,fauna identitas,dasar,
+34289.1,x,,<fauna ident> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+34290,v,11,faunanya,dasar,
+34290.1,v,,<fauna> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+34291,k,0,faunistik,dasar,
+,,,,,
+34292,k,0,favano,dasar,
+,,,,,
+34293,k,570,favorit,dasar,
+,,,,,
+34294,k,6,favoritisme,dasar,
+34294.1,v,,<favorit> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+34295,v,101,favoritnya,dasar,
+34295.1,v,,<favorit> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+34296,k,0,faximile,dasar,
+,,,,,
+34297,k,0,fayu,dasar,
+,,,,,
+34298,v,124,fe,dasar,
+,,,,,
+34299,x,61,feb,dasar,
+,,,,,
+34300,k,0,febrifobia,dasar,
+34300.1,x,,<febri> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+34301,k,0,febrin,dasar,
+,,,,,
+34302,k,2877,februari,dasar,
+34302.1,x,,<februar> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34303,v,11,februari-maret,dasar,
+,,,,,
+34304,v,2,februari-september,dasar,
+,,,,,
+34305,t,12,febuari,dasar,februari
+34305.1,x,,<febuar> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34306,t,2,federaal,dasar,federal
+,,,,,
+34307,k,268,federal,dasar,
+,,,,,
+34308,k,4,federalis,dasar,
+34308.1,x,,<federali> + [-is:-s],bentukan,[177] [S] -is + (i)
+34308.2,v,,<federal> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+34309,k,3,federalisme,dasar,
+34309.1,v,,<federal> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+34310,k,0,federalistis,dasar,
+34310.1,x,,<federalisti> + [-is:-s],bentukan,[177] [S] -is + (i)
+34310.2,x,,<federalist> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+34311,k,303,federasi,dasar,
+34311.1,x,,<federas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34312,k,3,fedora,dasar,
+,,,,,
+34313,k,0,feko,dasar,
+,,,,,
+34314,k,0,fekundasi,dasar,
+34314.1,x,,<fekundas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34315,k,4,fekunditas,dasar,
+34315.1,x,,<fekund> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+34316,k,0,felandrol,dasar,
+,,,,,
+34317,k,0,felinofobia,dasar,
+34317.1,x,,<felino> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+34318,k,0,felon,dasar,
+,,,,,
+34319,k,0,felspar,dasar,
+,,,,,
+34320,k,5,femi,dasar,
+34320.1,x,,<fem> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34321,c,16,feminim,dasar,feminin
+,,,,,
+34322,k,110,feminin,dasar,
+,,,,,
+34323,t,6,femininitas,dasar,feminitas
+34323.1,x,,<feminin> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+34324,k,76,feminis,dasar,
+34324.1,x,,<femini> + [-is:-s],bentukan,[177] [S] -is + (i)
+34324.2,x,,<femin> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+34325,v,6,feminisasi,dasar,
+34325.1,x,,<feminisas> + -i,bentukan,[28] [S] -i + (<all>)
+34325.2,x,,<femini> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+34325.3,x,,<feminis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+34325.4,x,,<femin> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+34326,k,61,feminisme,dasar,
+34326.1,x,,<femin> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+34327,v,2,feminisnya,dasar,
+34327.1,v,,<feminis> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+34327.2,x,,<femini> + [-is:-s] + -nya,bentukan,[177] [S] -is + (i) => [34] [SFS] -nya + (<all>)
+34327.3,x,,<femin> + -is + -nya,bentukan,[178] [S] -is + (<others>) => [34] [SFS] -nya + (<all>)
+,,,,,
+34328,k,16,feminitas,dasar,
+34328.1,x,,<femin> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+34329,k,3,femisida,dasar,
+,,,,,
+34330,v,4,femoralis,dasar,
+34330.1,x,,<femorali> + [-is:-s],bentukan,[177] [S] -is + (i)
+34330.2,x,,<femoral> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+34331,k,0,femtoampere,dasar,
+,,,,,
+34332,k,0,femtometer,dasar,
+34332.1,x,,<femto> + -meter,bentukan,[189] [S] -meter + (<all>)
+,,,,,
+34333,k,0,femtovolt,dasar,
+,,,,,
+34334,v,10,femur,dasar,
+,,,,,
+34335,k,0,fena,dasar,
+,,,,,
+34336,k,0,fenakit,dasar,
+,,,,,
+34337,v,33,fender,dasar,
+,,,,,
+34338,v,2,fendernya,dasar,
+34338.1,v,,<fender> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+34339,t,2,fenemona,dasar,fenomena
+,,,,,
+34340,k,0,fenestrasi,dasar,
+34340.1,x,,<fenestras> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34341,k,4,fenetik,dasar,
+,,,,,
+34342,k,0,fenetika,dasar,
+,,,,,
+34343,k,0,fengofobia,dasar,
+34343.1,x,,<fengo> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+34344,k,3,fengsui,dasar,
+34344.1,x,,<fengsu> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34345,v,4,fenil,dasar,
+,,,,,
+34346,c,8,fenilalanin,dasar,fenilalanina
+,,,,,
+34347,k,0,fenilalanina,dasar,
+,,,,,
+34348,k,0,fenilketonuria,dasar,
+,,,,,
+34349,k,0,fenit,dasar,
+,,,,,
+34350,v,3,fenitoin,dasar,
+,,,,,
+34351,k,4,fenobarbital,dasar,
+,,,,,
+34352,v,3,fenogram,dasar,
+,,,,,
+34353,k,0,fenokris,dasar,
+34353.1,x,,<fenokri> + [-is:-s],bentukan,[177] [S] -is + (i)
+34353.2,x,,<fenokr> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+34354,k,57,fenol,dasar,
+,,,,,
+34355,k,0,fenolase,dasar,
+34355.1,x,,<fenol> + -ase,bentukan,[210] [S] -ase + (<all>)
+,,,,,
+34356,v,13,fenolat,dasar,
+,,,,,
+34357,v,30,fenolik,dasar,
+,,,,,
+34358,k,2,fenologi,dasar,
+34358.1,x,,<fenolog> + -i,bentukan,[28] [S] -i + (<all>)
+34358.2,x,,<feno> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+34359,k,1278,fenomena,dasar,
+,,,,,
+34360,k,0,fenomena gunung es,dasar,
+,,,,,
+34361,v,35,fenomena-fenomena,dasar,
+34361.1,v,,<fenomena> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+34362,x,3,fenomenaglobalisasi,dasar,
+34362.1,x,,<fenomenaglobalisas> + -i,bentukan,[28] [S] -i + (<all>)
+34362.2,x,,<fenomenaglobali> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+34362.3,x,,<fenomenaglobalis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+34362.4,x,,<fenomenaglobal> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+34363,k,132,fenomenal,dasar,
+,,,,,
+34364,k,0,fenomenalisme,dasar,
+34364.1,v,,<fenomenal> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+34365,v,5,fenomenalnya,dasar,
+34365.1,v,,<fenomenal> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+34366,v,13,fenomenanya,dasar,
+34366.1,v,,<fenomena> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+34367,v,4,fenomenolog,dasar,
+,,,,,
+34368,k,33,fenomenologi,dasar,
+34368.1,x,,<fenomenolog> + -i,bentukan,[28] [S] -i + (<all>)
+34368.2,x,,<fenomeno> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+34369,v,13,fenomenologis,dasar,
+34369.1,v,,<fenomenologi> + [-is:-s],bentukan,[177] [S] -is + (i)
+34369.2,x,,<fenomenolog> + -is,bentukan,[178] [S] -is + (<others>)
+34369.3,x,,<fenomeno> + -logi+-s,bentukan,[194] [MS] -logi+-s + (<all>)
+,,,,,
+34370,k,0,fenosis,dasar,
+34370.1,x,,<fenosi> + [-is:-s],bentukan,[177] [S] -is + (i)
+34370.2,x,,<fenos> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+34371,t,22,fenotip,dasar,fenotipe
+,,,,,
+34372,k,14,fenotipe,dasar,
+,,,,,
+34373,v,2,fenotipenya,dasar,
+34373.1,v,,<fenotipe> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+34374,v,12,fenotipik,dasar,
+,,,,,
+34375,v,16,fentanil,dasar,
+,,,,,
+34376,v,5,fenton,dasar,
+,,,,,
+34377,v,9,feo,dasar,
+,,,,,
+34378,k,47,feodal,dasar,
+,,,,,
+34379,k,39,feodalisme,dasar,
+34379.1,v,,<feodal> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+34380,t,8,feodalistik,dasar,feodalistis
+,,,,,
+34381,k,3,feodalistis,dasar,
+34381.1,x,,<feodalisti> + [-is:-s],bentukan,[177] [S] -is + (i)
+34381.2,x,,<feodalist> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+34382,k,0,feral,dasar,
+,,,,,
+34383,d,0,feresis,dasar,
+34383.1,x,,<feresi> + [-is:-s],bentukan,[177] [S] -is + (i)
+34383.2,x,,<feres> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+34384,k,64,feri,dasar,
+34384.1,x,,<fer> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34385,k,0,ferimagnetik,dasar,
+,,,,,
+34386,k,6,feritin,dasar,
+,,,,,
+34387,k,0,fermata,dasar,
+,,,,,
+34388,k,0,fermen,dasar,
+,,,,,
+34389,k,109,fermentasi,dasar,
+34389.1,x,,<fermentas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34390,k,4,fermentatif,dasar,
+,,,,,
+34391,k,0,fermion,dasar,
+,,,,,
+34392,k,0,fermium,dasar,
+,,,,,
+34393,k,0,feromagnetik,dasar,
+,,,,,
+34394,k,0,feromagnetisme,dasar,
+34394.1,x,,<feromagnet> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+34395,k,3,feromon,dasar,
+,,,,,
+34396,k,0,feron,dasar,
+,,,,,
+34397,k,10,feronikel,dasar,
+,,,,,
+34398,k,0,ferosilikon,dasar,
+,,,,,
+34399,k,0,ferri,dasar,
+34399.1,x,,<ferr> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34400,k,2,fertigasi,dasar,
+34400.1,x,,<fertigas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34401,k,9,fertil,dasar,
+,,,,,
+34402,t,3,fertile,dasar,fertil
+,,,,,
+34403,k,26,fertilisasi,dasar,
+34403.1,x,,<fertilisas> + -i,bentukan,[28] [S] -i + (<all>)
+34403.2,x,,<fertili> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+34403.3,x,,<fertilis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+34403.4,v,,<fertil> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+34404,k,35,fertilitas,dasar,
+34404.1,v,,<fertil> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+34405,k,0,fertilitas diferensial,dasar,
+,,,,,
+34406,v,3,fertilitasnya,dasar,
+34406.1,v,,<fertilitas> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+34406.2,x,,<fertil> + -itas + -nya,bentukan,[205] [S] -itas + (<others>) => [34] [SFS] -nya + (<all>)
+,,,,,
+34407,k,0,fertilizin,dasar,
+,,,,,
+34408,k,0,ferum,dasar,
+,,,,,
+34409,k,0,ferumfobia,dasar,
+34409.1,v,,<ferum> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+34410,c,0,fery,dasar,
+,,,,,
+34411,t,2,feserta,dasar,peserta
+,,,,,
+34412,k,54,feses,dasar,
+,,,,,
+34413,k,0,feses putih,dasar,
+,,,,,
+34414,v,5,fesesnya,dasar,
+34414.1,v,,<feses> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+34415,t,3,festifal,dasar,festival
+,,,,,
+34416,k,740,festival,dasar,
+,,,,,
+34417,k,0,festival cap go me,dasar,
+,,,,,
+34418,k,0,festival musik,dasar,
+,,,,,
+34419,v,11,festival-festival,dasar,
+34419.1,v,,<festival> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+34420,v,7,festivalnya,dasar,
+34420.1,v,,<festival> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+34421,k,0,feston,dasar,
+,,,,,
+34422,k,78,fesyen,dasar,
+,,,,,
+34423,k,0,fesyen jalanan,dasar,
+34423.1,x,,<fesyen jalan> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+34424,k,0,fesyenista,dasar,
+,,,,,
+34425,k,0,fetis,dasar,
+34425.1,x,,<feti> + [-is:-s],bentukan,[177] [S] -is + (i)
+34425.2,x,,<fet> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+34426,k,4,fetisisme,dasar,
+34426.1,v,,<fetis> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+34427,k,0,fetografi,dasar,
+34427.1,x,,<fetograf> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34428,k,0,fetomaternal,dasar,
+,,,,,
+34429,k,0,fetor,dasar,
+,,,,,
+34430,k,0,fetosa umane,dasar,
+,,,,,
+34431,k,0,fetucini,dasar,
+34431.1,x,,<fetucin> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34432,k,8,fetus,dasar,
+,,,,,
+34433,k,200,fi,dasar,
+34433.1,x,,<f> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34434,k,0,fiasko,dasar,
+,,,,,
+34435,k,36,fiat,dasar,
+,,,,,
+34436,x,38,fib,dasar,
+,,,,,
+34437,k,91,fiber,dasar,
+,,,,,
+34438,k,0,fibrasi,dasar,
+34438.1,x,,<fibras> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+34439,v,3,fibrat,dasar,
+,,,,,
+34440,k,0,fibratus,dasar,
+,,,,,
+34441,k,0,fibriblas,dasar,

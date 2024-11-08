@@ -1,0 +1,1589 @@
+Nomor,KP,Jumlah,Entri,Tipe,Pembentukan
+24217,k,13,defender,dasar,
+,,,,,
+24218,c,23,defenisi,dasar,definisi
+24218.1,x,,<defenis> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24219,x,2,defenisikan,dasar,
+24219.1,x,,<defenisi> + -kan,bentukan,[29] [S] -kan + (<all>)
+24219.2,x,,<defenisik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+24220,k,0,defensi,dasar,
+24220.1,x,,<defens> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24221,k,0,defensi afirmatif,dasar,
+,,,,,
+24222,k,0,defensi kegilaan,dasar,
+24222.1,x,,<defensi kegila> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+24223,k,66,defensif,dasar,
+,,,,,
+24224,k,6,deferens,dasar,
+,,,,,
+24225,k,0,defiasi,dasar,
+24225.1,x,,<defias> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24226,k,5,defibrilator,dasar,
+,,,,,
+24227,k,0,defibrinasi,dasar,
+24227.1,x,,<defibrinas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24228,k,19,defile,dasar,
+,,,,,
+24229,k,713,definisi,dasar,
+24229.1,x,,<definis> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24230,k,0,definisi berputar,dasar,
+,,,,,
+24231,k,0,definisi biverbal,dasar,
+,,,,,
+24232,k,0,definisi demonstratif,dasar,
+,,,,,
+24233,k,0,definisi melingkar,dasar,
+,,,,,
+24234,k,0,definisi metaforis,dasar,
+24234.1,x,,<definisi metafori> + [-is:-s],bentukan,[177] [S] -is + (i)
+24234.2,x,,<definisi metafor> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+24235,k,0,definisi nominal,dasar,
+,,,,,
+24236,k,0,definisi ostensif,dasar,
+,,,,,
+24237,k,0,definisi riel,dasar,
+,,,,,
+24238,k,0,definisi sinonim,dasar,
+,,,,,
+24239,k,0,definisi tinggi,dasar,
+24239.1,x,,<definisi tingg> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24240,v,29,definisi-definisi,dasar,
+24240.1,v,,<definisi> [-] <r>,bentukan,[23] [RD] |
+24240.2,x,,<definis> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+24241,v,2,definisi-definisinya,dasar,
+24241.1,v,,<definisi> [-] <r> + -nya,bentukan,[23] [RD] |
+24241.2,x,,<definis> + -i [-] <r> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+24241.3,v,,<definisi> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+24241.4,x,,<definis> + -i [-] <r> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+24242,v,14,definisikan,dasar,
+24242.1,v,,<definisi> + -kan,bentukan,[29] [S] -kan + (<all>)
+24242.2,x,,<definisik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+24243,v,35,definisinya,dasar,
+24243.1,v,,<definisi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+24243.2,x,,<definis> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+24244,k,0,definit,dasar,
+,,,,,
+24245,k,127,definitif,dasar,
+,,,,,
+24246,k,3,defisien,dasar,
+,,,,,
+24247,k,78,defisiensi,dasar,
+24247.1,x,,<defisiens> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24248,k,0,defisiensi kromium,dasar,
+,,,,,
+24249,k,564,defisit,dasar,
+,,,,,
+24250,k,0,defisit anggaran,dasar,
+24250.1,x,,<defisit anggar> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+24251,k,0,defisit atensi,dasar,
+24251.1,x,,<defisit atens> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24252,k,0,defisit kalori,dasar,
+24252.1,x,,<defisit kalor> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24253,k,0,defisit wisatawan,dasar,
+24253.1,x,,<defisit wisataw> + -an,bentukan,[38] [S] -an + (<all>)
+24253.2,x,,<defisit wisata> + -wan,bentukan,[180] [S] -wan + (<others>)
+24253.3,x,,<defisit wisat> + [-wan:-awan],bentukan,[18000001] [S] -wan + (<all>)
+,,,,,
+24254,v,13,defisitnya,dasar,
+24254.1,v,,<defisit> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+24255,k,0,deflagrasi,dasar,
+24255.1,x,,<deflagras> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24256,k,0,deflagrator,dasar,
+,,,,,
+24257,k,41,deflasi,dasar,
+24257.1,x,,<deflas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24258,k,3,deflator,dasar,
+,,,,,
+24259,k,4,defleksi,dasar,
+24259.1,x,,<defleks> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24260,k,0,deflokasi,dasar,
+24260.1,x,,<deflokas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24261,k,0,deflokulasi,dasar,
+24261.1,x,,<deflokulas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24262,k,0,deflorasi,dasar,
+24262.1,x,,<defloras> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24263,k,2,defoliasi,dasar,
+24263.1,x,,<defolias> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24264,k,0,defonologisasi,dasar,
+24264.1,x,,<defonologisas> + -i,bentukan,[28] [S] -i + (<all>)
+24264.2,v,,<defonologi> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+24264.3,x,,<defonologis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+24264.4,x,,<defonolog> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+24265,k,40,deforestasi,dasar,
+24265.1,x,,<deforestas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24266,k,48,deformasi,dasar,
+24266.1,x,,<deformas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24267,k,0,deformasi batuan,dasar,
+24267.1,x,,<deformasi batu> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+24268,k,0,deformasi plastik,dasar,
+,,,,,
+24269,k,2,deformatif,dasar,
+,,,,,
+24270,k,0,deformilasi,dasar,
+24270.1,x,,<deformilas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24271,k,3,defosforilasi,dasar,
+24271.1,x,,<defosforilas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24272,k,0,defragmentasi,dasar,
+24272.1,x,,<defragmentas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24273,v,19,deg,dasar,
+,,,,,
+24274,v,3,deg-deg,dasar,
+24274.1,x,,<deg> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+24275,k,49,deg-degan,dasar,
+24275.1,x,,<deg> [-] <r> + -an,bentukan,[23] [RD] |
+,,,,,
+24276,k,0,degam,dasar,
+,,,,,
+24277,k,54,degan,dasar,
+24277.1,x,,<deg> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+24278,k,0,degap,dasar,
+,,,,,
+24279,k,0,degap-degap,dasar,
+24279.1,x,,<degap> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+24280,k,0,degar,dasar,
+,,,,,
+24281,k,0,degasifikasi,dasar,
+24281.1,x,,<degasifikas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24282,k,0,degen,dasar,
+,,,,,
+24283,k,35,degenerasi,dasar,
+24283.1,x,,<degeneras> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24284,k,0,degenerasi makular,dasar,
+,,,,,
+24285,k,0,degenerat,dasar,
+,,,,,
+24286,k,70,degeneratif,dasar,
+,,,,,
+24287,k,2,degil,dasar,
+,,,,,
+24288,k,0,deging,dasar,
+,,,,,
+24289,k,0,degos,dasar,
+,,,,,
+24290,k,262,degradasi,dasar,
+24290.1,x,,<degradas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24291,v,3,degradasinya,dasar,
+24291.1,v,,<degradasi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+24291.2,x,,<degradas> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+24292,k,0,degradatif,dasar,
+,,,,,
+24293,k,0,degresi,dasar,
+24293.1,x,,<degres> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24294,k,0,deguk,dasar,
+,,,,,
+24295,k,0,degum,dasar,
+,,,,,
+24296,k,0,degum degam,dasar,
+,,,,,
+24297,k,9,degung,dasar,
+,,,,,
+24298,k,47,degup,dasar,
+,,,,,
+24299,v,4,degupan,dasar,
+24299.1,x,,<degup> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+24300,v,2,degupnya,dasar,
+24300.1,v,,<degup> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+24301,k,297,deh,dasar,
+,,,,,
+24302,k,0,dehalogenasi,dasar,
+24302.1,x,,<dehalogenas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24303,k,2,deham,dasar,
+,,,,,
+24304,v,3,dehaman,dasar,
+24304.1,v,,<deham> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+24305,t,0,dehem,dasar,
+,,,,,
+24306,k,94,dehidrasi,dasar,
+24306.1,x,,<dehidras> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24307,k,0,dehidrat,dasar,
+,,,,,
+24308,v,2,dehidrator,dasar,
+,,,,,
+24309,x,6,dehidrogenase,dasar,dehidrogenasi
+24309.1,x,,<dehidrogen> + -ase,bentukan,[210] [S] -ase + (<all>)
+,,,,,
+24310,k,2,dehidrogenasi,dasar,
+24310.1,x,,<dehidrogenas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24311,k,0,dehidrohalogenasi,dasar,
+24311.1,x,,<dehidrohalogenas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24312,k,0,dehidrolisis,dasar,
+24312.1,x,,<dehidrolisi> + [-is:-s],bentukan,[177] [S] -is + (i)
+24312.2,x,,<dehidrolis> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+24313,k,0,dehidroretinol,dasar,
+,,,,,
+24314,k,14,dehumanisasi,dasar,
+24314.1,x,,<dehumanisas> + -i,bentukan,[28] [S] -i + (<all>)
+24314.2,x,,<dehumani> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+24314.3,x,,<dehumanis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+24314.4,x,,<dehuma> + [-isasi:-nisasi],bentukan,[168] [S] -isasi + (a;e;u;o)
+24314.5,v,,<dehuman> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+24315,k,0,dehumidifikasi,dasar,
+24315.1,x,,<dehumidifikas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24316,k,0,deideologisasi,dasar,
+24316.1,x,,<deideologisas> + -i,bentukan,[28] [S] -i + (<all>)
+24316.2,x,,<deideologi> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+24316.3,x,,<deideologis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+24316.4,x,,<deideolog> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+24317,k,0,deifikasi,dasar,
+24317.1,x,,<deifikas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24318,k,5,deiksis,dasar,
+24318.1,x,,<deiksi> + [-is:-s],bentukan,[177] [S] -is + (i)
+24318.2,x,,<deiks> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+24319,k,0,deiktis,dasar,
+24319.1,x,,<deikti> + [-is:-s],bentukan,[177] [S] -is + (i)
+24319.2,x,,<deikt> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+24320,k,0,deimos,dasar,
+,,,,,
+24321,k,0,deindividuasi,dasar,
+24321.1,x,,<deindividuas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24322,x,4,deindustrialisasi,dasar,
+24322.1,x,,<deindustrialisas> + -i,bentukan,[28] [S] -i + (<all>)
+24322.2,x,,<deindustriali> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+24322.3,x,,<deindustrialis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+24322.4,v,,<deindustrial> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+24323,v,0,deinstitusionalisasi,dasar,
+24323.1,x,,<deinstitusionalisas> + -i,bentukan,[28] [S] -i + (<all>)
+24323.2,x,,<deinstitusionali> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+24323.3,x,,<deinstitusionalis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+24323.4,v,,<deinstitusional> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+24324,k,0,deislamisasi,dasar,
+24324.1,x,,<deislamisas> + -i,bentukan,[28] [S] -i + (<all>)
+24324.2,x,,<deislami> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+24324.3,x,,<deislamis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+24324.4,v,,<deislam> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+24325,k,0,deisme,dasar,
+24325.1,x,,<de> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+24326,k,0,deito,dasar,
+,,,,,
+24327,k,0,deiyai,dasar,
+24327.1,x,,<deiya> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24328,k,0,dejavu,dasar,
+,,,,,
+24329,k,58,dek,dasar,
+,,,,,
+24330,k,729,dekade,dasar,
+,,,,,
+24331,v,7,dekade-dekade,dasar,
+24331.1,v,,<dekade> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+24332,k,5,dekaden,dasar,
+,,,,,
+24333,k,25,dekadensi,dasar,
+24333.1,x,,<dekadens> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24334,k,0,dekafeinisasi,dasar,
+24334.1,x,,<dekafeinisas> + -i,bentukan,[28] [S] -i + (<all>)
+24334.2,x,,<dekafeini> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+24334.3,x,,<dekafeinis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+24334.4,v,,<dekafein> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+24335,k,0,dekagon,dasar,
+,,,,,
+24336,k,0,dekagonal,dasar,
+,,,,,
+24337,k,0,dekagram,dasar,
+,,,,,
+24338,k,0,dekah,dasar,
+24338.1,x,,<de> + -kah,bentukan,[30] [FS] -kah + (<all>)
+,,,,,
+24339,k,0,dekak-dekak,dasar,
+24339.1,v,,<dekak> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+24340,k,0,dekakorn,dasar,
+,,,,,
+24341,k,0,dekaliter,dasar,
+,,,,,
+24342,k,0,dekalsifikasi,dasar,
+24342.1,x,,<dekalsifikas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24343,k,0,dekam,dasar,
+,,,,,
+24344,k,0,dekameter,dasar,
+24344.1,v,,<deka> + -meter,bentukan,[189] [S] -meter + (<all>)
+,,,,,
+24345,k,286,dekan,dasar,
+24345.1,x,,<de> + -kan,bentukan,[29] [S] -kan + (<all>)
+24345.2,x,,<dek> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+24346,v,2,dekan-dekan,dasar,
+24346.1,v,,<dekan> [-] <r>,bentukan,[23] [RD] |
+24346.2,x,,<de> + -kan [-] <r> + -kan,bentukan,[29] [S] -kan + (<all>) => [23] [RD] |
+24346.3,x,,<dek> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+24347,k,0,dekanal,dasar,
+,,,,,
+24348,k,5,dekanat,dasar,
+,,,,,
+24349,k,0,dekantasi,dasar,
+24349.1,x,,<dekantas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24350,k,12,dekap,dasar,
+,,,,,
+24351,v,43,dekapan,dasar,
+24351.1,v,,<dekap> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+24352,v,10,dekapanku,dasar,
+24352.1,x,,<dekapan> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+24352.2,v,,<dekap> + -an + -ku,bentukan,[38] [S] -an + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+24353,v,10,dekapannya,dasar,
+24353.1,x,,<dekapan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+24353.2,v,,<dekap> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+24354,v,2,dekapnya,dasar,
+24354.1,v,,<dekap> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+24355,k,0,dekapoda,dasar,
+,,,,,
+24356,k,0,dekar,dasar,
+,,,,,
+24357,k,5,dekarboksilasi,dasar,
+24357.1,x,,<dekarboksilas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24358,k,0,dekarbonisasi,dasar,
+24358.1,x,,<dekarbonisas> + -i,bentukan,[28] [S] -i + (<all>)
+24358.2,x,,<dekarboni> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+24358.3,x,,<dekarbonis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+24358.4,x,,<dekarbo> + [-isasi:-nisasi],bentukan,[168] [S] -isasi + (a;e;u;o)
+24358.5,v,,<dekarbon> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+24359,k,0,dekare,dasar,
+,,,,,
+24360,k,0,dekasualisasi,dasar,
+24360.1,x,,<dekasualisas> + -i,bentukan,[28] [S] -i + (<all>)
+24360.2,x,,<dekasuali> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+24360.3,x,,<dekasualis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+24360.4,v,,<dekasual> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+24361,k,3689,dekat,dasar,
+,,,,,
+24362,k,0,dekat rezekinya,dasar,
+24362.1,x,,<dekat rezeki> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+24362.2,x,,<dekat rezek> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+24363,k,68,dekat-dekat,dasar,
+24363.1,v,,<dekat> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+24364,v,50,dekati,dasar,
+24364.1,x,,<dekat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24365,v,4,dekatilah,dasar,
+24365.1,x,,<dekati> + -lah,bentukan,[31] [FS] -lah + (<all>)
+24365.2,v,,<dekat> + -i + -lah,bentukan,[28] [S] -i + (<all>) => [31] [FS] -lah + (<all>)
+,,,,,
+24366,v,20,dekatkan,dasar,
+24366.1,v,,<dekat> + -kan,bentukan,[29] [S] -kan + (<all>)
+24366.2,x,,<dekatk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+24367,x,6,dekatlah,dasar,
+24367.1,x,,<dekat> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+24368,x,320,dekatnya,dasar,
+24368.1,x,,<dekat> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+24369,t,24,deket,dasar,dekat
+,,,,,
+24370,t,2,deket-deket,dasar,dekat-dekat
+24370.1,x,,<deket> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+24371,t,6,deketin,dasar,dekati
+,,,,,
+24372,k,0,dekik,dasar,
+,,,,,
+24373,k,39,dekil,dasar,
+,,,,,
+24374,k,16,deklamasi,dasar,
+24374.1,x,,<deklamas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24375,k,0,deklamasian,dasar,
+24375.1,x,,<deklamasi> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+24376,k,5,deklamator,dasar,
+,,,,,
+24377,k,307,deklarasi,dasar,
+24377.1,x,,<deklaras> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24378,k,0,deklarasi nasional,dasar,
+,,,,,
+24379,k,0,deklarasi pabean,dasar,
+24379.1,x,,<deklarasi pabe> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+24380,v,2,deklarasi-deklarasi,dasar,
+24380.1,v,,<deklarasi> [-] <r>,bentukan,[23] [RD] |
+24380.2,x,,<deklaras> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+24381,v,10,deklarasikan,dasar,
+24381.1,v,,<deklarasi> + -kan,bentukan,[29] [S] -kan + (<all>)
+24381.2,x,,<deklarasik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+24382,v,3,deklarasinya,dasar,
+24382.1,v,,<deklarasi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+24382.2,x,,<deklaras> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+24383,k,20,deklaratif,dasar,
+,,,,,
+24384,v,6,deklarator,dasar,
+,,,,,
+24385,k,0,deklasifikasi,dasar,
+24385.1,x,,<deklasifikas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24386,k,0,deklerer,dasar,
+,,,,,
+24387,k,0,deklinasi,dasar,
+24387.1,x,,<deklinas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24388,k,0,deklinasi kompas,dasar,
+,,,,,
+24389,k,0,deklinasi kuat,dasar,
+,,,,,
+24390,k,0,deklinasi lemah,dasar,
+,,,,,
+24391,k,0,deklinasi negatif,dasar,
+,,,,,
+24392,k,0,deklinasi positif,dasar,
+,,,,,
+24393,k,0,deklinometer,dasar,
+24393.1,x,,<deklino> + -meter,bentukan,[189] [S] -meter + (<all>)
+,,,,,
+24394,k,0,deklorinasi,dasar,
+24394.1,x,,<deklorinas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24395,k,0,dekode,dasar,
+,,,,,
+24396,k,0,dekoder,dasar,
+,,,,,
+24397,v,2,dekodifikasi,dasar,
+24397.1,x,,<dekodifikas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24398,v,2,dekolonialisasi,dasar,
+24398.1,x,,<dekolonialisas> + -i,bentukan,[28] [S] -i + (<all>)
+24398.2,x,,<dekoloniali> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+24398.3,x,,<dekolonialis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+24398.4,v,,<dekolonial> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+24399,k,11,dekolonisasi,dasar,
+24399.1,x,,<dekolonisas> + -i,bentukan,[28] [S] -i + (<all>)
+24399.2,v,,<dekoloni> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+24399.3,x,,<dekolonis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+24399.4,x,,<dekolo> + [-isasi:-nisasi],bentukan,[168] [S] -isasi + (a;e;u;o)
+24399.5,x,,<dekolon> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+24400,k,0,dekolorisasi,dasar,
+24400.1,x,,<dekolorisas> + -i,bentukan,[28] [S] -i + (<all>)
+24400.2,x,,<dekolori> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+24400.3,x,,<dekoloris> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+24400.4,v,,<dekolor> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+24401,v,4,dekompensasi,dasar,
+24401.1,x,,<dekompensas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24402,k,6,dekomposer,dasar,
+,,,,,
+24403,k,0,dekomposer aerobik,dasar,
+,,,,,
+24404,k,0,dekomposer anaerobik,dasar,
+,,,,,
+24405,k,54,dekomposisi,dasar,
+24405.1,x,,<dekomposis> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24406,k,0,dekompres,dasar,
+,,,,,
+24407,k,3,dekompresi,dasar,
+24407.1,x,,<dekompres> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24408,k,3,dekongestan,dasar,
+24408.1,x,,<dekongest> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+24409,k,67,dekonsentrasi,dasar,
+24409.1,x,,<dekonsentras> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24410,k,24,dekonstruksi,dasar,
+24410.1,x,,<dekonstruks> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24411,v,4,dekonstruktif,dasar,
+,,,,,
+24412,k,16,dekontaminasi,dasar,
+24412.1,x,,<dekontaminas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24413,k,2,dekontekstualisasi,dasar,
+24413.1,x,,<dekontekstualisas> + -i,bentukan,[28] [S] -i + (<all>)
+24413.2,x,,<dekontekstuali> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+24413.3,x,,<dekontekstualis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+24413.4,v,,<dekontekstual> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+24414,k,9,dekor,dasar,
+,,,,,
+24415,k,111,dekorasi,dasar,
+24415.1,x,,<dekoras> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24416,v,3,dekorasinya,dasar,
+24416.1,v,,<dekorasi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+24416.2,x,,<dekoras> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+24417,k,26,dekoratif,dasar,
+,,,,,
+24418,k,3,dekorator,dasar,
+,,,,,
+24419,k,0,dekosistem,dasar,
+,,,,,
+24420,k,0,dekremeter,dasar,
+24420.1,x,,<dekre> + -meter,bentukan,[189] [S] -meter + (<all>)
+,,,,,
+24421,k,0,dekreolisasi,dasar,
+24421.1,x,,<dekreolisas> + -i,bentukan,[28] [S] -i + (<all>)
+24421.2,x,,<dekreoli> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+24421.3,x,,<dekreolis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+24421.4,v,,<dekreol> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+24422,k,0,dekret,dasar,
+,,,,,
+24423,k,0,dekret presiden,dasar,
+,,,,,
+24424,k,3,dekriminalisasi,dasar,
+24424.1,x,,<dekriminalisas> + -i,bentukan,[28] [S] -i + (<all>)
+24424.2,x,,<dekriminali> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+24424.3,x,,<dekriminalis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+24424.4,v,,<dekriminal> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+24425,k,4,dekripsi,dasar,
+24425.1,x,,<dekrips> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24426,c,52,dekrit,dasar,dekret
+,,,,,
+24427,t,2,dekrit-dekrit,dasar,dekret-dekret
+24427.1,x,,<dekrit> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+24428,t,2,dekritnya,dasar,dekretnya
+24428.1,x,,<dekrit> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+24429,k,5,dekstrin,dasar,
+,,,,,
+24430,k,0,dekstrinisasi,dasar,
+24430.1,x,,<dekstrinisas> + -i,bentukan,[28] [S] -i + (<all>)
+24430.2,x,,<dekstrini> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+24430.3,x,,<dekstrinis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+24430.4,x,,<dekstrin> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+24431,k,0,dekstrinosa,dasar,
+,,,,,
+24432,k,0,dekstrofobia,dasar,
+24432.1,x,,<dekstro> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+24433,k,0,dekstrorotatori,dasar,
+24433.1,x,,<dekstrorotator> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24434,k,10,dekstrosa,dasar,
+,,,,,
+24435,k,0,deksura,dasar,
+,,,,,
+24436,k,3,dektrosa,dasar,
+,,,,,
+24437,k,0,deku,dasar,
+24437.1,x,,<de> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+24438,k,0,dekunci,dasar,
+24438.1,x,,<dekunc> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24439,k,0,dekung,dasar,
+,,,,,
+24440,k,0,dekus,dasar,
+,,,,,
+24441,k,0,dekut,dasar,
+,,,,,
+24442,k,81,del,dasar,
+,,,,,
+24443,k,0,delabialisasi,dasar,
+24443.1,x,,<delabialisas> + -i,bentukan,[28] [S] -i + (<all>)
+24443.2,x,,<delabiali> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+24443.3,x,,<delabialis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+24443.4,v,,<delabial> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+24444,k,0,delah,dasar,
+24444.1,x,,<de> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+24445,k,0,delamak,dasar,
+,,,,,
+24446,v,2,delaminasi,dasar,
+24446.1,x,,<delaminas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24447,k,0,delan,dasar,
+24447.1,x,,<del> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+24448,k,0,delap,dasar,
+,,,,,
+24449,k,2378,delapan,dasar,
+24449.1,x,,<delap> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+24450,k,0,delapan jam,dasar,
+,,,,,
+24451,k,0,delas,dasar,
+,,,,,
+24452,k,0,delat,dasar,
+,,,,,
+24453,k,391,delegasi,dasar,
+24453.1,x,,<delegas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24454,k,0,delegasi wewenang,dasar,
+,,,,,
+24455,v,5,delegasikan,dasar,
+24455.1,v,,<delegasi> + -kan,bentukan,[29] [S] -kan + (<all>)
+24455.2,x,,<delegasik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+24456,v,15,delegasinya,dasar,
+24456.1,v,,<delegasi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+24456.2,x,,<delegas> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+24457,k,0,delegat,dasar,
+,,,,,
+24458,v,5,delegatif,dasar,
+,,,,,
+24459,k,7,delegitimasi,dasar,
+24459.1,x,,<delegitimas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24460,k,0,deleka,dasar,
+,,,,,
+24461,k,0,delemak,dasar,
+,,,,,
+24462,k,0,delepak,dasar,
+,,,,,
+24463,k,0,deler,dasar,
+,,,,,
+24464,k,0,deli serdang,dasar,
+,,,,,
+24465,k,10,deliberasi,dasar,
+24465.1,x,,<deliberas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24466,v,17,deliberatif,dasar,
+,,,,,
+24467,v,2,deligitimasi,dasar,
+24467.1,x,,<deligitimas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24468,v,6,delignifikasi,dasar,
+24468.1,x,,<delignifikas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24469,k,90,delik,dasar,
+,,,,,
+24470,k,0,delik adat,dasar,
+,,,,,
+24471,k,0,delik aduan,dasar,
+24471.1,x,,<delik adu> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+24472,k,0,delik air,dasar,
+,,,,,
+24473,k,0,delik bangas,dasar,
+,,,,,
+24474,k,0,delik berlanjut,dasar,
+,,,,,
+24475,k,0,delik bukit,dasar,
+,,,,,
+24476,k,0,delik culpa,dasar,
+,,,,,
+24477,k,0,delik dolus,dasar,
+,,,,,
+24478,k,0,delik jambu putih,dasar,
+,,,,,
+24479,k,0,delik limau manis,dasar,
+24479.1,x,,<delik limau mani> + [-is:-s],bentukan,[177] [S] -is + (i)
+24479.2,x,,<delik limau man> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+24480,k,0,delik murni,dasar,
+24480.1,x,,<delik murn> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24481,k,0,delik pers,dasar,
+,,,,,
+24482,k,0,delik putih,dasar,
+,,,,,
+24483,k,0,delik selesai,dasar,
+24483.1,x,,<delik selesa> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24484,k,0,delik susila,dasar,
+,,,,,
+24485,k,0,delik tembaga,dasar,
+,,,,,
+24486,v,2,delik-delik,dasar,
+24486.1,v,,<delik> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+24487,k,0,delikan,dasar,
+24487.1,x,,<deli> + -kan,bentukan,[29] [S] -kan + (<all>)
+24487.2,x,,<delik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+24488,k,0,delikat,dasar,
+,,,,,
+24489,k,0,delikates,dasar,
+,,,,,
+24490,v,2,deliknya,dasar,
+24490.1,v,,<delik> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+24491,k,38,delima,dasar,
+,,,,,
+24492,k,0,delima burung,dasar,
+,,,,,
+24493,k,0,delima gading,dasar,
+,,,,,
+24494,k,0,delima hutan,dasar,
+24494.1,x,,<delima hut> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+24495,k,0,delima katik,dasar,
+,,,,,
+24496,k,0,delima kuning,dasar,
+,,,,,
+24497,k,0,delima merah,dasar,
+,,,,,
+24498,k,0,delima putih,dasar,
+,,,,,
+24499,k,0,delima serikaya,dasar,
+,,,,,
+24500,v,4,delimitasi,dasar,
+24500.1,x,,<delimitas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24501,k,0,delimukan,dasar,
+24501.1,x,,<delimu> + -kan,bentukan,[29] [S] -kan + (<all>)
+24501.2,x,,<delimuk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+24502,k,9,delineasi,dasar,
+24502.1,x,,<delineas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24503,v,2,delineasinya,dasar,
+24503.1,v,,<delineasi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+24503.2,x,,<delineas> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+24504,k,0,delineator,dasar,
+,,,,,
+24505,k,0,delinggam,dasar,
+,,,,,
+24506,k,0,delinkuen,dasar,
+,,,,,
+24507,k,0,delinkuensi,dasar,
+24507.1,x,,<delinkuens> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24508,k,11,delirium,dasar,
+,,,,,
+24509,k,0,delirium emosional,dasar,
+,,,,,
+24510,k,0,delirium tremens,dasar,
+,,,,,
+24511,k,0,delis,dasar,
+24511.1,x,,<deli> + [-is:-s],bentukan,[177] [S] -is + (i)
+24511.2,x,,<del> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+24512,k,0,delit,dasar,
+,,,,,
+24513,k,15,delman,dasar,
+24513.1,x,,<delm> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+24514,v,2,delman-delman,dasar,
+24514.1,v,,<delman> [-] <r>,bentukan,[23] [RD] |
+24514.2,x,,<delm> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+24515,v,2,delmannya,dasar,
+24515.1,v,,<delman> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+24515.2,x,,<delm> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+24516,v,3,delokalisasi,dasar,
+24516.1,x,,<delokalisas> + -i,bentukan,[28] [S] -i + (<all>)
+24516.2,x,,<delokali> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+24516.3,x,,<delokalis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+24516.4,v,,<delokal> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+24517,k,0,delong,dasar,
+,,,,,
+24518,k,109,delta,dasar,
+,,,,,
+24519,k,0,deltiologi,dasar,
+24519.1,x,,<deltiolog> + -i,bentukan,[28] [S] -i + (<all>)
+24519.2,x,,<deltio> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+24520,k,0,deltiologis,dasar,
+24520.1,x,,<deltiologi> + [-is:-s],bentukan,[177] [S] -is + (i)
+24520.2,x,,<deltiolog> + -is,bentukan,[178] [S] -is + (<others>)
+24520.3,x,,<deltio> + -logi+-s,bentukan,[194] [MS] -logi+-s + (<all>)
+,,,,,
+24521,k,0,deltoid,dasar,
+24521.1,x,,<delt> + -oid,bentukan,[209] [S] -oid + (<all>)
+,,,,,
+24522,k,0,delu,dasar,
+,,,,,
+24523,k,0,deluang,dasar,
+,,,,,
+24524,k,0,delujur,dasar,
+,,,,,
+24525,k,6,delusi,dasar,
+24525.1,x,,<delus> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24526,k,0,delusi persekusi,dasar,
+24526.1,x,,<delusi persekus> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24527,k,0,delusi skizofrenia,dasar,
+,,,,,
+24528,k,0,delusif,dasar,
+,,,,,
+24529,k,2,delusional,dasar,
+,,,,,
+24530,k,0,delut,dasar,
+,,,,,
+24531,k,32,dem,dasar,
+,,,,,
+24532,k,0,demabrasi,dasar,
+24532.1,x,,<demabras> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24533,k,0,demagnetisasi,dasar,
+24533.1,x,,<demagnetisas> + -i,bentukan,[28] [S] -i + (<all>)
+24533.2,x,,<demagneti> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+24533.3,x,,<demagnetis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+24533.4,v,,<demagnet> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+24534,k,3,demagog,dasar,
+,,,,,
+24535,k,3,demagogi,dasar,
+24535.1,x,,<demagog> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24536,k,0,demagogis,dasar,
+24536.1,x,,<demagogi> + [-is:-s],bentukan,[177] [S] -is + (i)
+24536.2,x,,<demagog> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+24537,k,0,demah,dasar,
+,,,,,
+24538,k,124,demak,dasar,
+,,,,,
+24539,k,440,demam,dasar,
+,,,,,
+24540,k,0,demam (ke)pialu,dasar,
+,,,,,
+24541,k,0,demam berdarah,dasar,
+,,,,,
+24542,k,0,demam berganti hari,dasar,
+24542.1,x,,<demam berganti har> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24543,k,0,demam berselang,dasar,
+,,,,,
+24544,k,0,demam cupak,dasar,
+,,,,,
+24545,k,0,demam dingin,dasar,
+,,,,,
+24546,k,0,demam esek,dasar,
+,,,,,
+24547,k,0,demam gigil,dasar,
+,,,,,
+24548,k,0,demam kamera,dasar,
+,,,,,
+24549,k,0,demam keong,dasar,
+,,,,,
+24550,k,0,demam kepialu,dasar,
+,,,,,
+24551,k,0,demam ketulangan,dasar,
+24551.1,x,,<demam ketulang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+24552,k,0,demam kuning,dasar,
+,,,,,
+24553,k,0,demam kura,dasar,
+,,,,,
+24554,k,0,demam kura-kura,dasar,
+,,,,,
+24555,k,0,demam lapangan,dasar,
+24555.1,x,,<demam lapang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+24556,k,0,demam malaria,dasar,
+,,,,,
+24557,k,0,demam mengambuh,dasar,
+,,,,,
+24558,k,0,demam panas,dasar,
+,,,,,
+24559,k,0,demam panggung,dasar,
+,,,,,
+24560,k,0,demam parit,dasar,
+,,,,,
+24561,k,0,demam puyuh,dasar,
+,,,,,
+24562,k,0,demam sejuk,dasar,
+,,,,,
+24563,k,0,demam selesma,dasar,
+,,,,,
+24564,k,0,demam skarlatina,dasar,
+,,,,,
+24565,k,0,demam susu,dasar,
+,,,,,
+24566,k,0,demam texas,dasar,
+,,,,,
+24567,k,29,demang,dasar,
+,,,,,
+24568,k,0,demap,dasar,
+,,,,,
+24569,k,18,demarkasi,dasar,
+24569.1,x,,<demarkas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24570,k,0,dembai,dasar,
+24570.1,x,,<demba> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24571,k,0,dembam,dasar,
+,,,,,
+24572,k,0,dembun,dasar,
+,,,,,
+24573,k,0,demek,dasar,
+,,,,,
+24574,k,18,demen,dasar,
+,,,,,
+24575,k,34,demensia,dasar,
+,,,,,
+24576,k,0,demensia prekoks,dasar,
+,,,,,
+24577,k,0,demensia senilis,dasar,
+24577.1,x,,<demensia senili> + [-is:-s],bentukan,[177] [S] -is + (i)
+24577.2,x,,<demensia senil> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+24578,k,6,demersal,dasar,
+,,,,,
+24579,k,0,demes,dasar,
+,,,,,
+24580,k,4119,demi,dasar,
+24580.1,x,,<dem> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24581,k,2,demik,dasar,
+,,,,,
+24582,k,7586,demikian,dasar,
+24582.1,x,,<demiki> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+24583,k,8,demiliterisasi,dasar,
+24583.1,x,,<demiliterisas> + -i,bentukan,[28] [S] -i + (<all>)
+24583.2,x,,<demiliteri> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+24583.3,x,,<demiliteris> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+24583.4,v,,<demiliter> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+24584,k,11,demineralisasi,dasar,
+24584.1,x,,<demineralisas> + -i,bentukan,[28] [S] -i + (<all>)
+24584.2,x,,<deminerali> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+24584.3,x,,<demineralis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+24584.4,v,,<demineral> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+24585,k,3,demise,dasar,
+,,,,,
+24586,k,7,demisioner,dasar,
+,,,,,
+24587,v,3,demistifikasi,dasar,
+24587.1,x,,<demistifikas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24588,c,10,demit,dasar,dedemit
+,,,,,
+24589,v,4,demitologisasi,dasar,
+24589.1,x,,<demitologisas> + -i,bentukan,[28] [S] -i + (<all>)
+24589.2,v,,<demitologi> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+24589.3,x,,<demitologis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+24589.4,x,,<demitolog> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+24590,k,264,demo,dasar,
+,,,,,
+24591,k,0,demobilisan,dasar,
+24591.1,x,,<demobilis> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+24592,k,12,demobilisasi,dasar,
+24592.1,x,,<demobilisas> + -i,bentukan,[28] [S] -i + (<all>)
+24592.2,x,,<demobili> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+24592.3,x,,<demobilis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+24592.4,v,,<demobil> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+24593,k,0,demodulasi,dasar,
+24593.1,x,,<demodulas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24594,k,3,demodulator,dasar,
+,,,,,
+24595,k,0,demofobia,dasar,
+24595.1,v,,<demo> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+24596,k,0,demograf,dasar,
+24596.1,x,,<demo> + -graf,bentukan,[191] [S] -graf + (<all>)
+,,,,,
+24597,k,261,demografi,dasar,
+24597.1,x,,<demograf> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24598,k,0,demografi bahasa,dasar,
+,,,,,
+24599,t,3,demografik,dasar,demografi
+,,,,,
+24600,k,59,demografis,dasar,
+24600.1,x,,<demografi> + [-is:-s],bentukan,[177] [S] -is + (i)
+24600.2,x,,<demograf> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+24601,k,1224,demokrasi,dasar,
+24601.1,x,,<demokras> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24602,k,0,demokrasi absolut,dasar,
+,,,,,
+24603,d,0,demokrasi deliberatif,dasar,
+,,,,,
+24604,k,0,demokrasi ekonomi,dasar,
+24604.1,x,,<demokrasi ekonom> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24605,k,0,demokrasi formal,dasar,
+,,,,,
+24606,k,0,demokrasi langsung,dasar,
+,,,,,
+24607,k,0,demokrasi liberal,dasar,
+,,,,,
+24608,k,0,demokrasi material,dasar,
+,,,,,
+24609,k,0,demokrasi pancasila,dasar,
+,,,,,
+24610,k,0,demokrasi perwakilan,dasar,
+24610.1,x,,<demokrasi perwakil> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+24611,k,0,demokrasi plutokrat,dasar,
+,,,,,
+24612,k,0,demokrasi politik,dasar,
+,,,,,
+24613,k,0,demokrasi terpimpin,dasar,
+,,,,,
+24614,k,0,demokrasi tidak langsung,dasar,
+,,,,,
+24615,k,0,demokrat,dasar,
+,,,,,
+24616,t,3,demokratif,dasar,demokratis
+,,,,,
+24617,t,67,demokratik,dasar,demokratis
+,,,,,
+24618,k,497,demokratis,dasar,
+24618.1,x,,<demokrati> + [-is:-s],bentukan,[177] [S] -is + (i)
+24618.2,x,,<demokrat> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+24619,k,124,demokratisasi,dasar,
+24619.1,x,,<demokratisas> + -i,bentukan,[28] [S] -i + (<all>)
+24619.2,x,,<demokrati> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+24619.3,v,,<demokratis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+24619.4,x,,<demokrat> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+24620,k,2,demolisi,dasar,
+24620.1,x,,<demolis> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24621,k,6,demon,dasar,
+,,,,,
+24622,k,0,demonetisasi,dasar,
+24622.1,x,,<demonetisas> + -i,bentukan,[28] [S] -i + (<all>)
+24622.2,x,,<demoneti> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+24622.3,x,,<demonetis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+24622.4,x,,<demonet> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+24623,k,0,demoniak,dasar,
+,,,,,
+24624,k,0,demonim,dasar,
+,,,,,
+24625,k,0,demonopolisasi,dasar,
+24625.1,x,,<demonopolisas> + -i,bentukan,[28] [S] -i + (<all>)
+24625.2,v,,<demonopoli> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+24625.3,x,,<demonopolis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+24625.4,x,,<demonopol> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+24626,k,168,demonstran,dasar,
+24626.1,x,,<demonstr> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+24627,k,381,demonstrasi,dasar,
+24627.1,x,,<demonstras> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24628,k,17,demonstratif,dasar,
+,,,,,
+24629,k,4,demonstrativa,dasar,
+,,,,,
+24630,t,18,demontrasi,dasar,demonstrasi
+24630.1,x,,<demontras> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24631,k,12,demoralisasi,dasar,
+24631.1,x,,<demoralisas> + -i,bentukan,[28] [S] -i + (<all>)
+24631.2,x,,<demorali> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+24631.3,x,,<demoralis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+24631.4,v,,<demoral> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+24632,k,5,demosi,dasar,
+24632.1,x,,<demos> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24633,k,5,demotivasi,dasar,
+24633.1,x,,<demotivas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24634,k,0,dempak,dasar,
+,,,,,
+24635,k,0,dempam,dasar,
+,,,,,
+24636,k,0,dempang,dasar,
+,,,,,
+24637,k,0,demper,dasar,
+,,,,,
+24638,k,13,dempet,dasar,
+,,,,,
+24639,k,0,dempir,dasar,
+,,,,,
+24640,k,0,demplon,dasar,
+,,,,,
+24641,k,0,dempok,dasar,
+,,,,,
+24642,k,0,dempuk,dasar,
+,,,,,
+24643,k,9,dempul,dasar,
+,,,,,
+24644,k,0,dempulan,dasar,
+24644.1,v,,<dempul> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+24645,k,0,dempung,dasar,
+,,,,,
+24646,k,0,demta,dasar,
+,,,,,
+24647,k,5,demung,dasar,
+,,,,,
+24648,k,0,demuyung,dasar,
+,,,,,
+24649,k,203,den,dasar,
+,,,,,
+24650,c,2,dena,dasar,dina hari
+,,,,,
+24651,k,72,denah,dasar,
+,,,,,
+24652,k,0,denah duga,dasar,
+,,,,,
+24653,k,0,denah evakuasi,dasar,
+24653.1,x,,<denah evakuas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24654,k,0,denah jahat,dasar,
+,,,,,
+24655,k,3,denai,dasar,
+24655.1,x,,<dena> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24656,k,0,denak,dasar,
+,,,,,
+24657,k,0,denar,dasar,
+,,,,,
+24658,k,0,denasalisasi,dasar,
+24658.1,x,,<denasalisas> + -i,bentukan,[28] [S] -i + (<all>)
+24658.2,x,,<denasali> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+24658.3,x,,<denasalis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+24658.4,v,,<denasal> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+24659,k,0,denasionalisasi,dasar,
+24659.1,x,,<denasionalisas> + -i,bentukan,[28] [S] -i + (<all>)
+24659.2,x,,<denasionali> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+24659.3,x,,<denasionalis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+24659.4,v,,<denasional> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+24660,k,38,denaturasi,dasar,
+24660.1,x,,<denaturas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24661,k,0,denawa,dasar,
+,,,,,
+24662,k,0,dencang,dasar,
+,,,,,
+24663,k,0,dencing,dasar,
+,,,,,
+24664,k,854,denda,dasar,
+,,,,,
+24665,k,0,denda adat,dasar,
+,,,,,
+24666,k,0,denda administratif,dasar,
+,,,,,
+24667,k,0,denda kubra,dasar,
+,,,,,
+24668,k,0,denda pati,dasar,
+24668.1,x,,<denda pat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24669,k,0,denda paturunan,dasar,
+24669.1,x,,<denda paturun> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+24670,k,0,denda uang,dasar,
+,,,,,
+24671,k,0,dendaan,dasar,
+24671.1,v,,<denda> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+24672,k,465,dendam,dasar,
+,,,,,
+24673,k,0,dendam berahi,dasar,
+24673.1,x,,<dendam berah> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24674,k,0,dendam kesumat,dasar,
+,,,,,
+24675,c,22,dendang,dasar,dandang
+,,,,,
+24676,k,0,dendang air,dasar,
+,,,,,
+24677,k,0,dendang laut,dasar,
+,,,,,
+24678,k,20,dendeng,dasar,
+,,,,,
+24679,k,0,dendeng ikan,dasar,
+24679.1,x,,<dendeng i> + -kan,bentukan,[29] [S] -kan + (<all>)
+24679.2,x,,<dendeng ik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+24680,k,11,dendi,dasar,
+24680.1,x,,<dend> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24681,k,0,dendrimer,dasar,
+,,,,,
+24682,k,7,dendrit,dasar,
+,,,,,
+24683,k,0,dendrofilia,dasar,
+24683.1,x,,<dendro> + -filia,bentukan,[216] [S] -filia + (<all>)
+,,,,,
+24684,k,0,dendrofobia,dasar,
+24684.1,x,,<dendro> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+24685,k,0,dendrokronologi,dasar,
+24685.1,x,,<dendrokronolog> + -i,bentukan,[28] [S] -i + (<all>)
+24685.2,x,,<dendrokrono> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+24686,k,0,dendrologi,dasar,
+24686.1,x,,<dendrolog> + -i,bentukan,[28] [S] -i + (<all>)
+24686.2,x,,<dendro> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+24687,k,0,denen,dasar,
+,,,,,
+24688,k,0,denervasi,dasar,
+24688.1,x,,<denervas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24689,k,0,dengak,dasar,
+,,,,,
+24690,k,32484,dengan,dasar,
+24690.1,x,,<deng> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+24691,d,0,dengan begitu,dasar,
+,,,,,
+24692,k,0,dengan demikian,dasar,
+24692.1,x,,<dengan demiki> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+24693,d,0,dengan hormat,dasar,
+,,,,,
+24694,d,0,dengan ini,dasar,
+24694.1,x,,<dengan in> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24695,d,0,dengan itu,dasar,
+,,,,,
+24696,k,0,dengan kata lain,dasar,
+,,,,,
+24697,d,0,dengan makna,dasar,
+,,,,,
+24698,d,0,dengan maksud,dasar,
+,,,,,
+24699,k,0,dengan sendirinya,dasar,
+24699.1,x,,<dengan sendiri> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+24699.2,x,,<dengan sendir> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+24700,d,0,dengan tujuan,dasar,
+24700.1,x,,<dengan tuju> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+24701,k,0,dengap,dasar,
+,,,,,
+24702,k,879,dengar,dasar,
+,,,,,
+24703,k,0,dengar pendapat,dasar,
+,,,,,
+24704,k,19,dengar-dengar,dasar,
+24704.1,v,,<dengar> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+24705,k,0,dengar-dengaran,dasar,
+24705.1,v,,<dengar> [-] <r> + -an,bentukan,[23] [RD] |
+,,,,,
+24706,k,0,dengaran,dasar,
+24706.1,v,,<dengar> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+24707,t,3,dengari,dasar,mendengarkan
+24707.1,x,,<dengar> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24708,t,3,dengarin,dasar,mendengarkan
+,,,,,
+24709,t,149,dengarkan,dasar,mendengarkan
+24709.1,v,,<dengar> + -kan,bentukan,[29] [S] -kan + (<all>)
+24709.2,x,,<dengark> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+24710,k,0,denge,dasar,
+,,,,,
+24711,k,5,dengen,dasar,
+,,,,,
+24712,t,26,denger,dasar,dengar
+,,,,,
+24713,t,24,dengerin,dasar,mendengarkan
+,,,,,
+24714,k,0,denggal,dasar,
+,,,,,
+24715,k,0,dengih,dasar,
+,,,,,
+24716,k,10,denging,dasar,
+,,,,,
+24717,k,0,dengkang,dasar,
+,,,,,
+24718,k,0,dengkel,dasar,
+,,,,,
+24719,k,61,dengki,dasar,
+24719.1,x,,<dengk> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24720,k,0,dengki hati,dasar,
+24720.1,x,,<dengki hat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24721,k,0,dengkik,dasar,
+,,,,,
+24722,k,4,dengking,dasar,
+,,,,,
+24723,k,0,dengking-mendengking,dasar,
+24723.1,v,,<dengking> [-] [meng-:men-] + <r>,bentukan,[3] meng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-i;-kan) => [24] [RD] |meng-
+,,,,,
+24724,k,0,dengkleng,dasar,
+,,,,,
+24725,k,0,dengkol,dasar,
+,,,,,
+24726,k,34,dengkul,dasar,
+,,,,,
+24727,k,2,dengkung,dasar,
+,,,,,
+24728,k,14,dengkur,dasar,
+,,,,,
+24729,k,17,dengkuran,dasar,
+24729.1,v,,<dengkur> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+24730,k,0,dengkus,dasar,
+,,,,,
+24731,k,0,dengkut,dasar,
+,,,,,
+24732,k,0,dengu,dasar,
+,,,,,
+24733,k,45,dengue,dasar,
+,,,,,
+24734,k,0,denguk,dasar,
+,,,,,
+24735,k,54,dengung,dasar,
+,,,,,
+24736,k,21,dengungan,dasar,
+24736.1,v,,<dengung> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+24737,k,42,dengus,dasar,
+,,,,,
+24738,k,15,dengusan,dasar,
+24738.1,v,,<dengus> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+24739,k,0,dengut,dasar,
+,,,,,
+24740,k,28,denim,dasar,
+,,,,,
+24741,k,0,denitrasi,dasar,
+24741.1,x,,<denitras> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24742,k,2,denitrifikasi,dasar,
+24742.1,x,,<denitrifikas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24743,k,216,denmark,dasar,
+,,,,,
+24744,k,4,denok,dasar,
+,,,,,
+24745,k,0,denominal,dasar,
+,,,,,
+24746,k,59,denominasi,dasar,
+24746.1,x,,<denominas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24747,k,10,denotasi,dasar,
+24747.1,x,,<denotas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24748,k,17,denotatif,dasar,
+,,,,,
+24749,k,429,denpasar,dasar,
+,,,,,
+24750,k,0,densanak,dasar,
+,,,,,
+24751,k,0,densimeter,dasar,
+24751.1,x,,<densi> + -meter,bentukan,[189] [S] -meter + (<all>)
+,,,,,
+24752,k,62,densitas,dasar,
+24752.1,x,,<dens> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+24753,k,0,densitometer,dasar,
+24753.1,x,,<densito> + -meter,bentukan,[189] [S] -meter + (<all>)
+,,,,,
+24754,k,3,densitometri,dasar,
+24754.1,x,,<densitometr> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24755,k,0,densometer,dasar,
+24755.1,x,,<denso> + -meter,bentukan,[189] [S] -meter + (<all>)
+,,,,,
+24756,k,28,dental,dasar,
+,,,,,
+24757,k,3,dentam,dasar,
+,,,,,
+24758,k,6,dentaman,dasar,
+24758.1,v,,<dentam> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+24759,k,15,dentang,dasar,
+,,,,,
+24760,k,0,dentat,dasar,
+,,,,,
+24761,k,2,dentin,dasar,
+,,,,,
+24762,k,40,denting,dasar,
+,,,,,
+24763,k,11,dentingan,dasar,
+24763.1,v,,<denting> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+24764,k,0,dentobu,dasar,
+,,,,,
+24765,k,0,dentofobia,dasar,
+24765.1,x,,<dento> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+24766,k,17,dentum,dasar,
+,,,,,
+24767,k,69,dentuman,dasar,
+24767.1,v,,<dentum> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+24768,k,0,dentung,dasar,
+,,,,,
+24769,k,0,dentur,dasar,
+,,,,,
+24770,k,2,denudasi,dasar,
+24770.1,x,,<denudas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24771,k,17,denuklirisasi,dasar,
+24771.1,x,,<denuklirisas> + -i,bentukan,[28] [S] -i + (<all>)
+24771.2,x,,<denukliri> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+24771.3,x,,<denukliris> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+24771.4,v,,<denuklir> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+24772,k,5,denyar,dasar,
+,,,,,
+24773,k,0,denyaran,dasar,
+24773.1,v,,<denyar> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+24774,k,3,denyit,dasar,
+,,,,,
+24775,k,0,denyitan,dasar,
+24775.1,v,,<denyit> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+24776,k,167,denyut,dasar,
+,,,,,
+24777,k,0,denyut jantung,dasar,
+,,,,,
+24778,k,0,denyut nadi,dasar,
+24778.1,x,,<denyut nad> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24779,k,7,denyutan,dasar,
+24779.1,v,,<denyut> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+24780,k,14,deodoran,dasar,
+24780.1,x,,<deodor> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+24781,k,0,deodoran batang,dasar,
+,,,,,
+24782,k,0,deodoran oles,dasar,
+,,,,,
+24783,k,0,deodoran semprot,dasar,
+,,,,,
+24784,c,4,deodorant,dasar,deodoran
+,,,,,
+24785,k,0,deoknumisasi,dasar,
+24785.1,x,,<deoknumisas> + -i,bentukan,[28] [S] -i + (<all>)
+24785.2,x,,<deoknumi> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+24785.3,x,,<deoknumis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+24785.4,v,,<deoknum> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+24786,k,0,deoksidasi,dasar,
+24786.1,x,,<deoksidas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24787,k,0,deoksigenasi,dasar,
+24787.1,x,,<deoksigenas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+24788,k,0,deoksigula,dasar,
+,,,,,
+24789,k,3,deontologi,dasar,
+24789.1,x,,<deontolog> + -i,bentukan,[28] [S] -i + (<all>)
+24789.2,x,,<deonto> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+24790,k,13,dep,dasar,
+,,,,,
+24791,k,27,depa,dasar,
+,,,,,
+24792,k,0,depa agung,dasar,
+,,,,,
+24793,k,5,depak,dasar,
+,,,,,
+24794,k,0,depakan,dasar,
+24794.1,x,,<depa> + -kan,bentukan,[29] [S] -kan + (<all>)
+24794.2,v,,<depak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+24795,k,0,depalatalisasi,dasar,
+24795.1,x,,<depalatalisas> + -i,bentukan,[28] [S] -i + (<all>)
+24795.2,x,,<depalatali> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+24795.3,x,,<depalatalis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+24795.4,v,,<depalatal> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+24796,k,8072,depan,dasar,
+24796.1,x,,<dep> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+24797,k,0,depancasilaisasi,dasar,
+24797.1,x,,<depancasilaisas> + -i,bentukan,[28] [S] -i + (<all>)
+24797.2,x,,<depancasilai> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+24797.3,x,,<depancasilais> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+,,,,,
+24798,k,3,depang,dasar,
+,,,,,
+24799,d,0,depannya,dasar,
+24799.1,v,,<depan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+24799.2,x,,<dep> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+24800,k,0,depap,dasar,
+,,,,,
+24801,v,3,deparafinisasi,dasar,
+24801.1,x,,<deparafinisas> + -i,bentukan,[28] [S] -i + (<all>)
+24801.2,x,,<deparafini> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+24801.3,x,,<deparafinis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+24801.4,v,,<deparafin> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+24802,k,2,deparpolisasi,dasar,
+24802.1,x,,<deparpolisas> + -i,bentukan,[28] [S] -i + (<all>)
+24802.2,x,,<deparpoli> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+24802.3,x,,<deparpolis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+24802.4,v,,<deparpol> + -isasi,bentukan,[169] [S] -isasi + (<others>)

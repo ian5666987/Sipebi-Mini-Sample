@@ -1,0 +1,1671 @@
+Nomor,KP,Jumlah,Entri,Tipe,Pembentukan
+20782,k,0,cairan koreksi,dasar,
+20782.1,x,,<cairan koreks> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+20783,k,0,cairan pengencer,dasar,
+,,,,,
+20784,k,0,cairan tubuh,dasar,
+,,,,,
+20785,k,0,cairan vitreus,dasar,
+,,,,,
+20786,v,5,cairan-cairan,dasar,
+20786.1,x,,<cairan> [-] <r>,bentukan,[23] [RD] |
+20786.2,v,,<cair> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+20787,v,14,cairannya,dasar,
+20787.1,x,,<cairan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+20787.2,v,,<cair> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+20788,v,9,cairkan,dasar,
+20788.1,v,,<cair> + -kan,bentukan,[29] [S] -kan + (<all>)
+20788.2,x,,<cairk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+20789,x,2,cairlah,dasar,
+20789.1,x,,<cair> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+20790,x,13,cairnya,dasar,
+20790.1,x,,<cair> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+20791,k,0,cais,dasar,
+20791.1,x,,<cai> + [-is:-s],bentukan,[177] [S] -is + (i)
+20791.2,x,,<ca> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+20792,k,3,caisim,dasar,
+,,,,,
+20793,k,71,cak,dasar,
+,,,,,
+20794,k,0,cak padang,dasar,
+,,,,,
+20795,k,0,cak padi,dasar,
+20795.1,x,,<cak pad> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+20796,k,0,cak raya,dasar,
+,,,,,
+20797,k,0,cak tanah,dasar,
+,,,,,
+20798,x,5,caka,dasar,
+,,,,,
+20799,k,0,cakah,dasar,
+20799.1,x,,<ca> + -kah,bentukan,[30] [FS] -kah + (<all>)
+,,,,,
+20800,k,0,cakak,dasar,
+,,,,,
+20801,k,19,cakalang,dasar,
+,,,,,
+20802,k,2,cakalele,dasar,
+,,,,,
+20803,k,237,cakap,dasar,
+,,,,,
+20804,k,0,cakap angin,dasar,
+,,,,,
+20805,k,0,cakap besar,dasar,
+,,,,,
+20806,k,0,cakap kosong,dasar,
+,,,,,
+20807,v,3,cakap-cakap,dasar,
+20807.1,v,,<cakap> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+20808,k,4,cakapan,dasar,
+20808.1,v,,<cakap> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+20809,k,0,cakapan tunggal,dasar,
+,,,,,
+20810,k,0,cakapan tunggal dramatik,dasar,
+,,,,,
+20811,v,2,cakapkan,dasar,
+20811.1,v,,<cakap> + -kan,bentukan,[29] [S] -kan + (<all>)
+20811.2,x,,<cakapk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+20812,x,6,cakapnya,dasar,
+20812.1,x,,<cakap> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+20813,k,40,cakar,dasar,
+,,,,,
+20814,k,0,cakar ayam,dasar,
+,,,,,
+20815,k,0,cakar balar,dasar,
+,,,,,
+20816,k,0,cakar besi,dasar,
+20816.1,x,,<cakar bes> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+20817,k,0,cakar setan,dasar,
+20817.1,x,,<cakar set> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+20818,v,3,cakar-cakar,dasar,
+20818.1,v,,<cakar> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+20819,v,2,cakar-cakaran,dasar,
+20819.1,v,,<cakar> [-] <r> + -an,bentukan,[23] [RD] |
+,,,,,
+20820,k,2,cakar-mencakar,dasar,
+20820.1,v,,<cakar> [-] [meng-:men-] + <r>,bentukan,[3] meng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-i;-kan) => [24] [RD] |meng-
+,,,,,
+20821,k,9,cakaran,dasar,
+20821.1,v,,<cakar> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+20822,v,13,cakarnya,dasar,
+20822.1,v,,<cakar> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+20823,k,0,cakawari,dasar,
+20823.1,x,,<cakawar> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+20824,k,0,cakela,dasar,
+,,,,,
+20825,c,40,cakep,dasar,cakap
+,,,,,
+20826,x,3,cakep-cakep,dasar,cakap
+20826.1,x,,<cakep> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+20827,x,3,cakepan,dasar,
+20827.1,x,,<cakep> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+20828,x,4,caketum,dasar,
+,,,,,
+20829,k,0,caki,dasar,
+20829.1,x,,<cak> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+20830,k,0,cakiak,dasar,
+,,,,,
+20831,k,7,cakil,dasar,
+,,,,,
+20832,k,0,cakilan,dasar,
+20832.1,v,,<cakil> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+20833,k,0,cakmar,dasar,
+,,,,,
+20834,k,0,cakmau,dasar,
+,,,,,
+20835,k,0,cako,dasar,
+,,,,,
+20836,k,34,cakra,dasar,
+,,,,,
+20837,k,8,cakrabirawa,dasar,
+,,,,,
+20838,k,0,cakrabuana,dasar,
+,,,,,
+20839,k,119,cakram,dasar,
+,,,,,
+20840,k,0,cakram benih,dasar,
+,,,,,
+20841,k,0,cakram kecambah,dasar,
+,,,,,
+20842,k,0,cakram keras,dasar,
+,,,,,
+20843,k,0,cakram kompak,dasar,
+,,,,,
+20844,k,0,cakram liuk,dasar,
+,,,,,
+20845,k,0,cakram magnetik,dasar,
+,,,,,
+20846,k,0,cakram optik,dasar,
+,,,,,
+20847,k,0,cakram optis,dasar,
+20847.1,x,,<cakram opti> + [-is:-s],bentukan,[177] [S] -is + (i)
+20847.2,x,,<cakram opt> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+20848,k,0,cakram padat,dasar,
+,,,,,
+20849,k,0,cakram sisipan,dasar,
+20849.1,x,,<cakram sisip> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+20850,k,0,cakram target,dasar,
+,,,,,
+20851,k,0,cakram tetap,dasar,
+,,,,,
+20852,v,5,cakramnya,dasar,
+20852.1,v,,<cakram> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+20853,v,3,cakranya,dasar,
+20853.1,v,,<cakra> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+20854,k,159,cakrawala,dasar,
+,,,,,
+20855,k,0,cakrawala angkasa,dasar,
+,,,,,
+20856,k,0,cakrawala maya,dasar,
+,,,,,
+20857,v,4,cakrawalanya,dasar,
+20857.1,v,,<cakrawala> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+20858,k,0,cakrawati,dasar,
+20858.1,x,,<cakrawat> + -i,bentukan,[28] [S] -i + (<all>)
+20858.2,v,,<cakra> + -wati,bentukan,[181] [S] -wati + (<all>)
+,,,,,
+20859,k,0,cakruk,dasar,
+,,,,,
+20860,t,2,cakue,dasar,
+,,,,,
+20861,k,0,cakup,dasar,
+,,,,,
+20862,k,0,cakup lindung,dasar,
+,,,,,
+20863,k,0,cakup-mencakup,dasar,
+20863.1,v,,<cakup> [-] [meng-:men-] + <r>,bentukan,[3] meng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-i;-kan) => [24] [RD] |meng-
+,,,,,
+20864,k,696,cakupan,dasar,
+20864.1,v,,<cakup> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+20865,v,59,cakupannya,dasar,
+20865.1,x,,<cakupan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+20865.2,v,,<cakup> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+20866,k,0,cakur,dasar,
+,,,,,
+20867,k,0,cakus,dasar,
+,,,,,
+20868,k,2,cakwe,dasar,
+,,,,,
+20869,c,35,cal,dasar,
+,,,,,
+20870,k,0,calabikang,dasar,
+,,,,,
+20871,k,0,calacah,dasar,
+,,,,,
+20872,k,0,caladi,dasar,
+20872.1,x,,<calad> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+20873,k,0,calak,dasar,
+,,,,,
+20874,k,0,calak-calak,dasar,
+20874.1,v,,<calak> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+20875,k,3,calang,dasar,
+,,,,,
+20876,k,0,calar,dasar,
+,,,,,
+20877,k,0,calar-balar,dasar,
+20877.1,v,,<[calar:calar-balar]>,bentukan,[Reduplication-Rhyming]
+,,,,,
+20878,k,0,calecer,dasar,
+,,,,,
+20879,v,113,caleg,dasar,
+,,,,,
+20880,v,4,caleg-caleg,dasar,
+20880.1,v,,<caleg> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+20881,k,0,calempong,dasar,
+,,,,,
+20882,k,0,calincing,dasar,
+,,,,,
+20883,c,2,caling,dasar,colang caling
+,,,,,
+20884,k,0,calintuh,dasar,
+,,,,,
+20885,k,0,calir,dasar,
+,,,,,
+20886,k,0,calir cukur,dasar,
+,,,,,
+20887,k,0,calir dasar,dasar,
+,,,,,
+20888,k,0,calir jerawat,dasar,
+,,,,,
+20889,k,0,calir pembersih,dasar,
+,,,,,
+20890,k,0,calir raga,dasar,
+,,,,,
+20891,k,0,calir rambut,dasar,
+,,,,,
+20892,k,0,calir tangan,dasar,
+20892.1,x,,<calir tang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+20893,k,0,calir wajah,dasar,
+,,,,,
+20894,k,0,calit,dasar,
+,,,,,
+20895,k,92,calo,dasar,
+,,,,,
+20896,v,5,calo-calo,dasar,
+20896.1,v,,<calo> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+20897,k,0,calobak,dasar,
+,,,,,
+20898,k,0,calok,dasar,
+,,,,,
+20899,k,3101,calon,dasar,
+,,,,,
+20900,k,0,calon pembeli utama,dasar,
+,,,,,
+20901,k,0,calon perwira,dasar,
+,,,,,
+20902,v,125,calon-calon,dasar,
+20902.1,v,,<calon> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+20903,k,0,calong,dasar,
+,,,,,
+20904,v,4,calonkan,dasar,
+20904.1,v,,<calon> + -kan,bentukan,[29] [S] -kan + (<all>)
+20904.2,x,,<calonk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+20905,v,2,calonmu,dasar,
+20905.1,v,,<calon> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+,,,,,
+20906,k,0,calui,dasar,
+20906.1,x,,<calu> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+20907,k,2,caluk,dasar,
+,,,,,
+20908,k,2,calum,dasar,
+,,,,,
+20909,k,12,calung,dasar,
+,,,,,
+20910,k,0,calung lengger,dasar,
+,,,,,
+20911,k,0,calung renteng,dasar,
+,,,,,
+20912,k,0,calus,dasar,
+,,,,,
+20913,c,31,cam,dasar,kecam
+,,,,,
+20914,k,35,camar,dasar,
+,,,,,
+20915,v,3,camar-camar,dasar,
+20915.1,v,,<camar> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+20916,k,8,camara,dasar,
+,,,,,
+20917,k,261,camat,dasar,
+,,,,,
+20918,v,2,camatnya,dasar,
+20918.1,v,,<camat> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+20919,k,0,camau,dasar,
+,,,,,
+20920,k,0,cambah,dasar,
+,,,,,
+20921,k,0,cambahan,dasar,
+20921.1,x,,<cambah> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+20922,k,21,cambang,dasar,
+,,,,,
+20923,k,0,cambang bauk,dasar,
+,,,,,
+20924,v,9,cambangnya,dasar,
+20924.1,v,,<cambang> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+20925,k,80,cambuk,dasar,
+,,,,,
+20926,k,0,cambuk haribu,dasar,
+,,,,,
+20927,v,12,cambukan,dasar,
+20927.1,x,,<cambu> + -kan,bentukan,[29] [S] -kan + (<all>)
+20927.2,v,,<cambuk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+20928,v,3,cambuknya,dasar,
+20928.1,v,,<cambuk> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+20929,k,0,cambul,dasar,
+,,,,,
+20930,k,2,cambung,dasar,
+,,,,,
+20931,k,0,camca,dasar,
+,,,,,
+20932,k,0,camcao,dasar,
+,,,,,
+20933,k,0,camcau,dasar,
+,,,,,
+20934,v,4,camel,dasar,
+,,,,,
+20935,k,0,camil,dasar,
+,,,,,
+20936,k,92,camilan,dasar,
+20936.1,v,,<camil> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+20937,v,4,camilan-camilan,dasar,
+20937.1,x,,<camilan> [-] <r>,bentukan,[23] [RD] |
+20937.2,v,,<camil> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+20938,c,4,camilla,dasar,
+,,,,,
+20939,v,19,camkan,dasar,
+20939.1,x,,<cam> + -kan,bentukan,[29] [S] -kan + (<all>)
+20939.2,x,,<camk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+20940,v,7,camkanlah,dasar,
+20940.1,v,,<camkan> + -lah,bentukan,[31] [FS] -lah + (<all>)
+20940.2,x,,<cam> + -kan + -lah,bentukan,[29] [S] -kan + (<all>) => [31] [FS] -lah + (<all>)
+20940.3,x,,<camk> + -an + -lah,bentukan,[38] [S] -an + (<all>) => [31] [FS] -lah + (<all>)
+,,,,,
+20941,k,0,camok,dasar,
+,,,,,
+20942,k,5,campa,dasar,
+,,,,,
+20943,k,0,campah,dasar,
+,,,,,
+20944,k,0,campah cabar,dasar,
+,,,,,
+20945,k,0,campah cahang,dasar,
+,,,,,
+20946,k,38,campak,dasar,
+,,,,,
+20947,k,0,campak jerman,dasar,
+20947.1,x,,<campak jerm> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+20948,k,0,campang,dasar,
+,,,,,
+20949,k,0,campang-camping,dasar,
+20949.1,v,,<[camping:campang-camping]>,bentukan,[Reduplication-Rhyming]
+,,,,,
+20950,k,0,campat,dasar,
+,,,,,
+20951,k,0,campin,dasar,
+,,,,,
+20952,k,12,camping,dasar,
+,,,,,
+20953,k,0,camplungan,dasar,
+20953.1,x,,<camplung> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+20954,k,0,campuh,dasar,
+,,,,,
+20955,v,5,campuhan,dasar,
+20955.1,x,,<campuh> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+20956,k,0,campung,dasar,
+,,,,,
+20957,k,575,campur,dasar,
+,,,,,
+20958,k,0,campur aduk,dasar,
+,,,,,
+20959,k,0,campur baur,dasar,
+,,,,,
+20960,k,0,campur bekerja,dasar,
+,,,,,
+20961,k,0,campur kaya,dasar,
+,,,,,
+20962,k,0,campur kode,dasar,
+,,,,,
+20963,k,0,campur lingkungan,dasar,
+20963.1,x,,<campur lingkung> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+20964,k,0,campur mulut,dasar,
+,,,,,
+20965,k,0,campur tangan,dasar,
+20965.1,x,,<campur tang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+20966,v,7,campur-campur,dasar,
+20966.1,v,,<campur> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+20967,k,878,campuran,dasar,
+20967.1,v,,<campur> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+20968,v,22,campurannya,dasar,
+20968.1,x,,<campuran> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+20968.2,v,,<campur> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+20969,v,8,campuri,dasar,
+20969.1,v,,<campur> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+20970,v,26,campurkan,dasar,
+20970.1,v,,<campur> + -kan,bentukan,[29] [S] -kan + (<all>)
+20970.2,x,,<campurk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+20971,v,2,campurlah,dasar,
+20971.1,v,,<campur> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+20972,v,5,campurnya,dasar,
+20972.1,v,,<campur> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+20973,k,13,campursari,dasar,
+20973.1,x,,<campursar> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+20974,k,0,camuk,dasar,
+,,,,,
+20975,k,0,camur,dasar,
+,,,,,
+20976,k,2,canai,dasar,
+20976.1,x,,<cana> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+20977,k,0,canaian,dasar,
+20977.1,v,,<canai> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+20978,k,0,canak,dasar,
+,,,,,
+20979,k,6,canang,dasar,
+,,,,,
+20980,k,0,canang besar,dasar,
+,,,,,
+20981,v,22,canangkan,dasar,
+20981.1,v,,<canang> + -kan,bentukan,[29] [S] -kan + (<all>)
+20981.2,x,,<canangk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+20982,k,39,canberra,dasar,
+,,,,,
+20983,k,0,cancan bulan,dasar,
+20983.1,x,,<cancan bul> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+20984,k,2,cancang,dasar,
+,,,,,
+20985,k,0,cancut,dasar,
+,,,,,
+20986,k,99,canda,dasar,
+20986.1,x,,<ca> + [-anda:-nda],bentukan,[183] [S] -anda + (i;u;a;[k:])
+20986.2,x,,<can> + [-anda:-da],bentukan,[184] [S] -anda + (an)
+20986.3,x,,<c> + -anda,bentukan,[185] [S] -anda + (<others>)
+,,,,,
+20987,k,0,canda gurau,dasar,
+,,,,,
+20988,k,0,canda kemudi,dasar,
+20988.1,x,,<canda kemud> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+20989,k,0,canda peti,dasar,
+20989.1,x,,<canda pet> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+20990,v,3,canda-canda,dasar,
+20990.1,v,,<canda> [-] <r>,bentukan,[23] [RD] |
+20990.2,x,,<ca> + [-anda:-nda] [-] <r> + [-anda:-nda],bentukan,[183] [S] -anda + (i;u;a;[k:]) => [23] [RD] |
+20990.3,x,,<can> + [-anda:-da] [-] <r> + [-anda:-da],bentukan,[184] [S] -anda + (an) => [23] [RD] |
+20990.4,x,,<c> + -anda [-] <r> + -anda,bentukan,[185] [S] -anda + (<others>) => [23] [RD] |
+,,,,,
+20991,k,60,candaan,dasar,
+20991.1,v,,<canda> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+20992,v,4,candaan-candaan,dasar,
+20992.1,x,,<candaan> [-] <r>,bentukan,[23] [RD] |
+20992.2,v,,<canda> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+20993,v,6,candaannya,dasar,
+20993.1,x,,<candaan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+20993.2,v,,<canda> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+20994,k,0,candai,dasar,
+20994.1,v,,<canda> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+20995,k,0,candak,dasar,
+,,,,,
+20996,k,0,candak cekel,dasar,
+,,,,,
+20997,k,0,candak cekel kulak,dasar,
+,,,,,
+20998,v,3,candaku,dasar,
+20998.1,v,,<canda> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+20998.2,x,,<ca> + [-anda:-nda] + -ku,bentukan,[183] [S] -anda + (i;u;a;[k:]) => [32] [SFS] -ku + (<all>)
+20998.3,x,,<can> + [-anda:-da] + -ku,bentukan,[184] [S] -anda + (an) => [32] [SFS] -ku + (<all>)
+20998.4,x,,<c> + -anda + -ku,bentukan,[185] [S] -anda + (<others>) => [32] [SFS] -ku + (<all>)
+,,,,,
+20999,k,0,candala,dasar,
+,,,,,
+21000,v,2,candamu,dasar,
+21000.1,v,,<canda> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+21000.2,x,,<ca> + [-anda:-nda] + -mu,bentukan,[183] [S] -anda + (i;u;a;[k:]) => [33] [SFS] -mu + (<all>)
+21000.3,x,,<can> + [-anda:-da] + -mu,bentukan,[184] [S] -anda + (an) => [33] [SFS] -mu + (<all>)
+21000.4,x,,<c> + -anda + -mu,bentukan,[185] [S] -anda + (<others>) => [33] [SFS] -mu + (<all>)
+,,,,,
+21001,k,0,candan,dasar,
+21001.1,x,,<cand> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+21002,k,2,candang,dasar,
+,,,,,
+21003,v,15,candanya,dasar,
+21003.1,v,,<canda> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+21003.2,x,,<ca> + [-anda:-nda] + -nya,bentukan,[183] [S] -anda + (i;u;a;[k:]) => [34] [SFS] -nya + (<all>)
+21003.3,x,,<can> + [-anda:-da] + -nya,bentukan,[184] [S] -anda + (an) => [34] [SFS] -nya + (<all>)
+21003.4,x,,<c> + -anda + -nya,bentukan,[185] [S] -anda + (<others>) => [34] [SFS] -nya + (<all>)
+,,,,,
+21004,k,0,candat,dasar,
+,,,,,
+21005,k,0,candawara,dasar,
+,,,,,
+21006,k,159,candi,dasar,
+21006.1,x,,<cand> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+21007,k,0,candi apit,dasar,
+,,,,,
+21008,k,0,candi bentar,dasar,
+,,,,,
+21009,k,0,candi induk,dasar,
+,,,,,
+21010,k,0,candi kelir,dasar,
+,,,,,
+21011,k,0,candi perwosa,dasar,
+,,,,,
+21012,k,0,candi pewara,dasar,
+,,,,,
+21013,v,23,candi-candi,dasar,
+21013.1,v,,<candi> [-] <r>,bentukan,[23] [RD] |
+21013.2,x,,<cand> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+21014,k,0,candik,dasar,
+,,,,,
+21015,k,0,candil,dasar,
+,,,,,
+21016,v,2,candinya,dasar,
+21016.1,v,,<candi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+21016.2,x,,<cand> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+21017,k,0,candit,dasar,
+,,,,,
+21018,k,0,candok,dasar,
+,,,,,
+21019,k,0,candoli,dasar,
+21019.1,x,,<candol> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+21020,k,69,candra,dasar,
+,,,,,
+21021,k,21,candradimuka,dasar,
+,,,,,
+21022,k,3,candrakirana,dasar,
+,,,,,
+21023,k,0,candramawa,dasar,
+,,,,,
+21024,k,0,candrasa,dasar,
+,,,,,
+21025,k,0,candrasengkala,dasar,
+,,,,,
+21026,k,72,candu,dasar,
+,,,,,
+21027,k,2,candung,dasar,
+,,,,,
+21028,k,8,cane,dasar,
+,,,,,
+21029,k,9,cang,dasar,
+,,,,,
+21030,k,0,cangah,dasar,
+,,,,,
+21031,k,0,cangak,dasar,
+,,,,,
+21032,k,0,cangak abu,dasar,
+,,,,,
+21033,k,0,cangak besar,dasar,
+,,,,,
+21034,k,0,cangak merah,dasar,
+,,,,,
+21035,k,0,cangam,dasar,
+,,,,,
+21036,k,0,cangantu,dasar,
+,,,,,
+21037,k,0,cangap,dasar,
+,,,,,
+21038,k,0,cangar,dasar,
+,,,,,
+21039,k,0,cangcang,dasar,
+,,,,,
+21040,k,0,cangduri,dasar,
+21040.1,x,,<cangdur> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+21041,k,0,cangga,dasar,
+,,,,,
+21042,k,0,canggaan,dasar,
+21042.1,x,,<cangga> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+21043,k,3,canggah,dasar,
+,,,,,
+21044,k,0,canggai,dasar,
+21044.1,x,,<cangga> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+21045,k,3,canggal,dasar,
+,,,,,
+21046,k,0,cangget pineng,dasar,
+,,,,,
+21047,k,625,canggih,dasar,
+,,,,,
+21048,v,5,canggih-canggih,dasar,
+21048.1,v,,<canggih> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+21049,k,5,canggu,dasar,
+,,,,,
+21050,k,166,canggung,dasar,
+,,,,,
+21051,k,74,cangkang,dasar,
+,,,,,
+21052,v,15,cangkangnya,dasar,
+21052.1,v,,<cangkang> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+21053,k,0,cangkarok,dasar,
+,,,,,
+21054,k,0,cangkarok batu,dasar,
+,,,,,
+21055,k,0,cangkat,dasar,
+,,,,,
+21056,k,0,cangkau,dasar,
+,,,,,
+21057,k,0,cangkel,dasar,
+,,,,,
+21058,k,0,cangkih-mangkih,dasar,
+21058.1,v,,<cangkih-mangkih>,bentukan,[Reduplication-Rhyming]
+,,,,,
+21059,k,0,cangking,dasar,
+,,,,,
+21060,k,0,cangkingan,dasar,
+21060.1,v,,<cangking> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+21061,k,152,cangkir,dasar,
+,,,,,
+21062,k,0,cangkir pensil,dasar,
+,,,,,
+21063,k,0,cangkir piring,dasar,
+,,,,,
+21064,v,13,cangkir-cangkir,dasar,
+21064.1,v,,<cangkir> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+21065,v,2,cangkirku,dasar,
+21065.1,v,,<cangkir> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+21066,v,2,cangkirmu,dasar,
+21066.1,v,,<cangkir> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+,,,,,
+21067,v,14,cangkirnya,dasar,
+21067.1,v,,<cangkir> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+21068,k,0,cangklek,dasar,
+,,,,,
+21069,k,11,cangklong,dasar,
+,,,,,
+21070,v,5,cangklongnya,dasar,
+21070.1,v,,<cangklong> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+21071,k,16,cangkok,dasar,
+,,,,,
+21072,k,0,cangkok ginjal,dasar,
+,,,,,
+21073,k,3,cangkokan,dasar,
+21073.1,x,,<cangko> + -kan,bentukan,[29] [S] -kan + (<all>)
+21073.2,v,,<cangkok> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+21074,k,0,cangkolan,dasar,
+21074.1,x,,<cangkol> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+21075,k,0,cangkolang,dasar,
+,,,,,
+21076,k,0,cangkrang,dasar,
+,,,,,
+21077,k,3,cangkriman,dasar,
+21077.1,x,,<cangkrim> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+21078,k,8,cangkring,dasar,
+,,,,,
+21079,k,0,cangku,dasar,
+21079.1,x,,<cang> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+21080,k,3,cangkuang,dasar,
+,,,,,
+21081,k,0,cangkuk,dasar,
+,,,,,
+21082,k,67,cangkul,dasar,
+,,,,,
+21083,k,0,cangkulan,dasar,
+21083.1,v,,<cangkul> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+21084,v,2,cangkulmu,dasar,
+21084.1,v,,<cangkul> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+,,,,,
+21085,v,8,cangkulnya,dasar,
+21085.1,v,,<cangkul> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+21086,k,0,cangkum,dasar,
+,,,,,
+21087,k,0,cangkung,dasar,
+,,,,,
+21088,k,0,cangkup,dasar,
+,,,,,
+21089,k,0,cangok,dasar,
+,,,,,
+21090,k,0,canguk,dasar,
+,,,,,
+21091,k,0,cangut,dasar,
+,,,,,
+21092,k,0,canitu,dasar,
+,,,,,
+21093,k,0,canoyu,dasar,
+,,,,,
+21094,k,0,cantas,dasar,
+,,,,,
+21095,k,0,cantek,dasar,
+,,,,,
+21096,k,3,cantel,dasar,
+,,,,,
+21097,k,0,cantelan,dasar,
+21097.1,v,,<cantel> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+21098,k,0,canteng,dasar,
+,,,,,
+21099,k,0,cantengan,dasar,
+21099.1,v,,<canteng> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+21100,k,1164,cantik,dasar,
+,,,,,
+21101,k,0,cantik molek,dasar,
+,,,,,
+21102,v,22,cantik-cantik,dasar,
+21102.1,v,,<cantik> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+21103,v,2,cantikku,dasar,
+21103.1,v,,<cantik> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+21104,v,3,cantiklah,dasar,
+21104.1,v,,<cantik> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+21105,v,4,cantikmu,dasar,
+21105.1,v,,<cantik> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+,,,,,
+21106,v,80,cantiknya,dasar,
+21106.1,v,,<cantik> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+21107,k,0,cantilan,dasar,
+21107.1,x,,<cantil> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+21108,k,23,canting,dasar,
+,,,,,
+21109,k,0,canting cecekan,dasar,
+21109.1,x,,<canting cece> + -kan,bentukan,[29] [S] -kan + (<all>)
+21109.2,x,,<canting cecek> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+21110,k,0,canting isen,dasar,
+,,,,,
+21111,k,0,canting liman,dasar,
+21111.1,x,,<canting lim> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+21112,k,0,canting loron,dasar,
+,,,,,
+21113,k,0,canting obyok,dasar,
+,,,,,
+21114,k,0,canting prapatan,dasar,
+21114.1,x,,<canting prapat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+21115,k,0,canting rengrengan,dasar,
+21115.1,x,,<canting rengreng> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+21116,k,0,canting telon,dasar,
+,,,,,
+21117,k,0,canting tembokan,dasar,
+21117.1,x,,<canting tembo> + -kan,bentukan,[29] [S] -kan + (<all>)
+21117.2,x,,<canting tembok> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+21118,k,0,canting tenteng,dasar,
+,,,,,
+21119,v,2,cantingnya,dasar,
+21119.1,v,,<canting> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+21120,k,0,cantol,dasar,
+,,,,,
+21121,k,6,cantolan,dasar,
+21121.1,v,,<cantol> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+21122,k,16,cantrang,dasar,
+,,,,,
+21123,k,4,cantrik,dasar,
+,,,,,
+21124,k,0,cantuk,dasar,
+,,,,,
+21125,k,0,cantum,dasar,
+,,,,,
+21126,v,43,cantumkan,dasar,
+21126.1,v,,<cantum> + -kan,bentukan,[29] [S] -kan + (<all>)
+21126.2,x,,<cantumk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+21127,v,4,cantumkanlah,dasar,
+21127.1,x,,<cantumkan> + -lah,bentukan,[31] [FS] -lah + (<all>)
+21127.2,v,,<cantum> + -kan + -lah,bentukan,[29] [S] -kan + (<all>) => [31] [FS] -lah + (<all>)
+21127.3,x,,<cantumk> + -an + -lah,bentukan,[38] [S] -an + (<all>) => [31] [FS] -lah + (<all>)
+,,,,,
+21128,k,21,cao,dasar,
+,,,,,
+21129,k,0,caong,dasar,
+,,,,,
+21130,k,0,caos,dasar,
+,,,,,
+21131,k,0,caos bekti,dasar,
+21131.1,x,,<caos bekt> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+21132,k,278,cap,dasar,
+,,,,,
+21133,k,0,cap dagang,dasar,
+,,,,,
+21134,k,0,cap jari,dasar,
+21134.1,x,,<cap jar> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+21135,k,0,cap jempol,dasar,
+,,,,,
+21136,k,0,cap kempa,dasar,
+,,,,,
+21137,k,0,cap kualitas utama,dasar,
+,,,,,
+21138,k,0,cap mohor,dasar,
+,,,,,
+21139,k,0,cap pos,dasar,
+,,,,,
+21140,v,5,cap-cap,dasar,
+21140.1,x,,<cap> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+21141,k,3,capa,dasar,
+,,,,,
+21142,k,0,capah,dasar,
+,,,,,
+21143,k,243,capai,dasar,
+21143.1,x,,<capa> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+21144,x,3,capai-capai,dasar,
+21144.1,x,,<capai> [-] <r>,bentukan,[23] [RD] |
+21144.2,x,,<capa> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+21145,k,662,capaian,dasar,
+21145.1,v,,<capai> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+21146,k,0,capaian identitas,dasar,
+21146.1,x,,<capaian ident> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+21147,v,24,capaian-capaian,dasar,
+21147.1,x,,<capaian> [-] <r>,bentukan,[23] [RD] |
+21147.2,v,,<capai> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+21148,v,18,capaiannya,dasar,
+21148.1,x,,<capaian> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+21148.2,v,,<capai> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+21149,v,2,capailah,dasar,
+21149.1,v,,<capai> + -lah,bentukan,[31] [FS] -lah + (<all>)
+21149.2,x,,<capa> + -i + -lah,bentukan,[28] [S] -i + (<all>) => [31] [FS] -lah + (<all>)
+,,,,,
+21150,x,2,capainya,dasar,
+21150.1,x,,<capai> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+21150.2,x,,<capa> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+21151,k,0,capak,dasar,
+,,,,,
+21152,k,0,capal,dasar,
+,,,,,
+21153,k,0,capan,dasar,
+21153.1,x,,<cap> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+21154,k,3,capang,dasar,
+,,,,,
+21155,k,0,capar,dasar,
+,,,,,
+21156,k,0,capati,dasar,
+21156.1,x,,<capat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+21157,k,2,capcai,dasar,
+21157.1,x,,<capca> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+21158,k,0,capcaisin,dasar,
+,,,,,
+21159,c,6,capcay,dasar,capcai
+,,,,,
+21160,k,49,cape,dasar,
+,,,,,
+21161,k,0,cape hati,dasar,
+21161.1,x,,<cape hat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+21162,k,187,capek,dasar,
+,,,,,
+21163,v,16,capek-capek,dasar,
+21163.1,v,,<capek> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+21164,v,11,capeknya,dasar,
+21164.1,v,,<capek> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+21165,k,0,capelin,dasar,
+,,,,,
+21166,k,0,capgome,dasar,
+,,,,,
+21167,k,0,capiau,dasar,
+,,,,,
+21168,k,0,capik,dasar,
+,,,,,
+21169,k,3,capil,dasar,
+,,,,,
+21170,k,23,caping,dasar,
+,,,,,
+21171,k,0,caping gunung,dasar,
+,,,,,
+21172,k,0,caping kerosok,dasar,
+,,,,,
+21173,v,4,capingnya,dasar,
+21173.1,v,,<caping> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+21174,k,0,capir,dasar,
+,,,,,
+21175,k,8,capit,dasar,
+,,,,,
+21176,k,0,capjiki,dasar,
+21176.1,x,,<capjik> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+21177,k,0,caplak,dasar,
+,,,,,
+21178,k,0,caplang,dasar,
+,,,,,
+21179,k,5,caplok,dasar,
+,,,,,
+21180,k,0,capluk,dasar,
+,,,,,
+21181,v,5,capnya,dasar,
+21181.1,v,,<cap> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+21182,k,0,capol,dasar,
+,,,,,
+21183,k,161,capres,dasar,
+,,,,,
+21184,x,25,capres-cawapres,dasar,
+,,,,,
+21185,x,2,capres-cawapresnya,dasar,
+21185.1,x,,<capres-cawapres> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+21186,v,5,capresnya,dasar,
+21186.1,v,,<capres> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+21187,k,0,capuk,dasar,
+,,,,,
+21188,k,30,capung,dasar,
+,,,,,
+21189,k,0,capung jarum,dasar,
+,,,,,
+21190,v,6,capung-capung,dasar,
+21190.1,v,,<capung> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+21191,k,328,car,dasar,
+,,,,,
+21192,k,8859,cara,dasar,
+,,,,,
+21193,k,0,cara artikulasi,dasar,
+21193.1,x,,<cara artikulas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+21194,k,0,cara bikang,dasar,
+,,,,,
+21195,k,0,cara penyajian,dasar,
+21195.1,x,,<cara penyaji> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+21196,v,568,cara-cara,dasar,
+21196.1,v,,<cara> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+21197,v,8,cara-caranya,dasar,
+21197.1,v,,<cara> [-] <r> + -nya,bentukan,[23] [RD] |
+21197.2,v,,<cara> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+21198,k,0,carabalen,dasar,
+,,,,,
+21199,x,2,caraberpakaian,dasar,
+21199.1,x,,<caraberpakai> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+21200,k,0,caracat,dasar,
+,,,,,
+21201,k,0,carah,dasar,
+,,,,,
+21202,k,0,carak,dasar,
+,,,,,
+21203,k,6,caraka,dasar,
+,,,,,
+21204,k,0,carakawati,dasar,
+21204.1,x,,<carakawat> + -i,bentukan,[28] [S] -i + (<all>)
+21204.2,v,,<caraka> + -wati,bentukan,[181] [S] -wati + (<all>)
+,,,,,
+21205,v,45,caraku,dasar,
+21205.1,v,,<cara> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+21206,k,0,caram,dasar,
+,,,,,
+21207,v,24,caramu,dasar,
+21207.1,v,,<cara> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+,,,,,
+21208,k,0,caran,dasar,
+21208.1,x,,<car> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+21209,k,0,carancam,dasar,
+,,,,,
+21210,k,7,carang,dasar,
+,,,,,
+21211,k,0,carang gesing,dasar,
+,,,,,
+21212,k,3,carangan,dasar,
+21212.1,v,,<carang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+21213,v,1069,caranya,dasar,
+21213.1,v,,<cara> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+21214,c,5,carat,dasar,carak
+,,,,,
+21215,k,0,carebi,dasar,
+21215.1,x,,<careb> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+21216,k,2,caren,dasar,
+,,,,,
+21217,k,860,cari,dasar,
+21217.1,x,,<car> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+21218,k,0,cari angin,dasar,
+,,,,,
+21219,k,0,cari perhatian,dasar,
+21219.1,x,,<cari perhati> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+21220,v,48,cari-cari,dasar,
+21220.1,v,,<cari> [-] <r>,bentukan,[23] [RD] |
+21220.2,x,,<car> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+21221,k,0,cari-carian,dasar,
+21221.1,v,,<cari> [-] <r> + -an,bentukan,[23] [RD] |
+21221.2,x,,<car> + -i [-] <r> + -i + -an,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+21222,k,5,carian,dasar,
+21222.1,v,,<cari> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+21223,x,2,cariin,dasar,
+,,,,,
+21224,k,25,carik,dasar,
+,,,,,
+21225,k,0,carik duwe,dasar,
+,,,,,
+21226,k,0,carik pecatu,dasar,
+,,,,,
+21227,v,2,carik-carik,dasar,
+21227.1,v,,<carik> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+21228,k,49,carikan,dasar,
+21228.1,x,,<cari> + -kan,bentukan,[29] [S] -kan + (<all>)
+21228.2,v,,<carik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+21229,v,133,carilah,dasar,
+21229.1,v,,<cari> + -lah,bentukan,[31] [FS] -lah + (<all>)
+21229.2,x,,<car> + -i + -lah,bentukan,[28] [S] -i + (<all>) => [31] [FS] -lah + (<all>)
+,,,,,
+21230,k,24,caring,dasar,
+,,,,,
+21231,v,11,carinya,dasar,
+21231.1,v,,<cari> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+21231.2,x,,<car> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+21232,k,0,cariyu,dasar,
+,,,,,
+21233,k,0,carok,dasar,
+,,,,,
+21234,k,62,carter,dasar,
+,,,,,
+21235,k,15,carteran,dasar,
+21235.1,v,,<carter> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+21236,k,0,caruk,dasar,
+,,,,,
+21237,k,0,caruluk,dasar,
+,,,,,
+21238,k,13,carut,dasar,
+,,,,,
+21239,k,0,carut capai,dasar,
+21239.1,x,,<carut capa> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+21240,k,21,carut-marut,dasar,
+21240.1,v,,<[carut:carut-marut]>,bentukan,[Reduplication-Rhyming]
+,,,,,
+21241,k,16,cas,dasar,
+,,,,,
+21242,k,0,cas-cis-cus,dasar,
+,,,,,
+21243,k,0,casan,dasar,
+21243.1,v,,<cas> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+21244,k,0,casis,dasar,
+21244.1,x,,<casi> + [-is:-s],bentukan,[177] [S] -is + (i)
+21244.2,x,,<cas> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+21245,k,0,cat,dasar,
+,,,,,
+21246,k,0,cat air,dasar,
+,,,,,
+21247,k,0,cat alis,dasar,
+21247.1,x,,<cat ali> + [-is:-s],bentukan,[177] [S] -is + (i)
+21247.2,x,,<cat al> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+21248,k,0,cat bakar,dasar,
+,,,,,
+21249,k,0,cat batik,dasar,
+,,,,,
+21250,k,0,cat bibir,dasar,
+,,,,,
+21251,k,0,cat kuku,dasar,
+21251.1,x,,<cat ku> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+21251.2,x,,<cat > + -ku + -ku,bentukan,[32] [SFS] -ku + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+21252,k,0,cat lateks,dasar,
+,,,,,
+21253,k,0,cat minyak,dasar,
+,,,,,
+21254,k,0,cat rambut,dasar,
+,,,,,
+21255,k,0,cat semprot,dasar,
+,,,,,
+21256,k,0,cat wajah,dasar,
+,,,,,
+21257,k,0,cata,dasar,
+,,,,,
+21258,x,3,catalase,dasar,
+21258.1,x,,<catal> + -ase,bentukan,[210] [S] -ase + (<all>)
+,,,,,
+21259,k,0,catamite,dasar,
+,,,,,
+21260,k,4,catan,dasar,
+21260.1,v,,<cat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+21261,k,0,catang,dasar,
+,,,,,
+21262,x,3,catas,dasar,
+,,,,,
+21263,k,175,catat,dasar,
+,,,,,
+21264,k,0,catat-mencatat,dasar,
+21264.1,v,,<catat> [-] [meng-:men-] + <r>,bentukan,[3] meng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-i;-kan) => [24] [RD] |meng-
+,,,,,
+21265,k,2706,catatan,dasar,
+21265.1,v,,<catat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+21266,k,0,catatan anekdot,dasar,
+,,,,,
+21267,k,0,catatan bawah,dasar,
+,,,,,
+21268,k,0,catatan dividen,dasar,
+,,,,,
+21269,k,0,catatan harga,dasar,
+,,,,,
+21270,k,0,catatan harian,dasar,
+21270.1,x,,<catatan hari> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+21271,k,0,catatan kaki,dasar,
+21271.1,x,,<catatan kak> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+21272,k,0,catatan pinjaman,dasar,
+21272.1,x,,<catatan pinjam> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+21273,k,0,catatan samping,dasar,
+,,,,,
+21274,k,0,catatan sipil,dasar,
+,,,,,
+21275,v,100,catatan-catatan,dasar,
+21275.1,x,,<catatan> [-] <r>,bentukan,[23] [RD] |
+21275.2,v,,<catat> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+21276,v,2,catatan-catatannya,dasar,
+21276.1,x,,<catatan> [-] <r> + -nya,bentukan,[23] [RD] |
+21276.2,x,,<catat> + -an [-] <r> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+21276.3,x,,<catatan> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+21276.4,v,,<catat> + -an [-] <r> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+21277,v,10,catatanku,dasar,
+21277.1,x,,<catatan> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+21277.2,v,,<catat> + -an + -ku,bentukan,[38] [S] -an + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+21278,v,4,catatanmu,dasar,
+21278.1,x,,<catatan> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+21278.2,v,,<catat> + -an + -mu,bentukan,[38] [S] -an + (<all>) => [33] [SFS] -mu + (<all>)
+,,,,,
+21279,v,66,catatannya,dasar,
+21279.1,x,,<catatan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+21279.2,v,,<catat> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+21280,v,4,catatkan,dasar,
+21280.1,v,,<catat> + -kan,bentukan,[29] [S] -kan + (<all>)
+21280.2,x,,<catatk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+21281,v,22,catatlah,dasar,
+21281.1,v,,<catat> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+21282,k,0,catek,dasar,
+,,,,,
+21283,k,0,catel,dasar,
+,,,,,
+21284,k,0,catet,dasar,
+,,,,,
+21285,k,0,catik,dasar,
+,,,,,
+21286,v,31,catnya,dasar,
+21286.1,v,,<cat> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+21287,k,0,cato,dasar,
+,,,,,
+21288,k,6,catok,dasar,
+,,,,,
+21289,k,3,catokan,dasar,
+21289.1,x,,<cato> + -kan,bentukan,[29] [S] -kan + (<all>)
+21289.2,v,,<catok> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+21290,k,2,catra,dasar,
+,,,,,
+21291,x,7,cats,dasar,
+,,,,,
+21292,k,28,catu,dasar,
+,,,,,
+21293,k,0,catu cahaya,dasar,
+,,,,,
+21294,k,0,catu daya,dasar,
+,,,,,
+21295,k,0,catuan,dasar,
+21295.1,v,,<catu> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+21296,t,4,catudaya,dasar,
+,,,,,
+21297,k,0,catuk,dasar,
+,,,,,
+21298,k,0,catuken,dasar,
+,,,,,
+21299,k,166,catur,dasar,
+,,,,,
+21300,k,0,catur jepang,dasar,
+,,,,,
+21301,k,0,caturan,dasar,
+21301.1,v,,<catur> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+21302,k,0,caturgol,dasar,
+,,,,,
+21303,k,0,caturjalma,dasar,
+,,,,,
+21304,v,2,caturku,dasar,
+21304.1,v,,<catur> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+21305,k,0,caturlarik,dasar,
+,,,,,
+21306,k,0,caturlomba,dasar,
+,,,,,
+21307,v,4,caturnya,dasar,
+21307.1,v,,<catur> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+21308,k,3,caturtunggal,dasar,
+,,,,,
+21309,k,0,caturwangsa,dasar,
+,,,,,
+21310,k,2,caturwarga,dasar,
+,,,,,
+21311,k,0,caturwarna,dasar,
+,,,,,
+21312,k,4,caturwulan,dasar,
+21312.1,x,,<caturwul> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+21313,k,4,catut,dasar,
+,,,,,
+21314,k,2,catutan,dasar,
+21314.1,v,,<catut> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+21315,k,4,cau,dasar,
+,,,,,
+21316,k,0,cauk,dasar,
+,,,,,
+21317,k,0,caul,dasar,
+,,,,,
+21318,k,0,caung,dasar,
+,,,,,
+21319,k,0,caveat emptor,dasar,
+,,,,,
+21320,v,13,cawagub,dasar,
+,,,,,
+21321,k,0,cawai,dasar,
+21321.1,x,,<cawa> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+21322,k,3,cawak,dasar,
+,,,,,
+21323,x,2,cawali,dasar,
+21323.1,x,,<cawal> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+21324,k,103,cawan,dasar,
+21324.1,x,,<caw> + -an,bentukan,[38] [S] -an + (<all>)
+21324.2,x,,<ca> + -wan,bentukan,[180] [S] -wan + (<others>)
+21324.3,x,,<c> + [-wan:-awan],bentukan,[18000001] [S] -wan + (<all>)
+,,,,,
+21325,k,0,cawan kisatan,dasar,
+21325.1,x,,<cawan kisat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+21326,k,0,cawan menstruasi,dasar,
+21326.1,x,,<cawan menstruas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+21327,k,0,cawan petri,dasar,
+21327.1,x,,<cawan petr> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+21328,k,0,cawan pinggan,dasar,
+21328.1,x,,<cawan pingg> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+21329,v,2,cawan-cawan,dasar,
+21329.1,v,,<cawan> [-] <r>,bentukan,[23] [RD] |
+21329.2,x,,<caw> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+21329.3,x,,<ca> + -wan [-] <r> + -wan,bentukan,[180] [S] -wan + (<others>) => [23] [RD] |
+21329.4,x,,<c> + [-wan:-awan] [-] <r> + [-wan:-awan],bentukan,[18000001] [S] -wan + (<all>) => [23] [RD] |
+,,,,,
+21330,k,48,cawang,dasar,
+,,,,,
+21331,k,0,cawangan,dasar,
+21331.1,v,,<cawang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+21332,k,89,cawapres,dasar,
+,,,,,
+21333,v,10,cawapresnya,dasar,
+21333.1,v,,<cawapres> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+21334,k,14,cawat,dasar,
+,,,,,
+21335,v,2,cawatnya,dasar,
+21335.1,v,,<cawat> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+21336,k,9,cawe-cawe,dasar,
+21336.1,x,,<cawe> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+21337,k,0,cawi,dasar,
+21337.1,x,,<caw> + -i,bentukan,[28] [S] -i + (<all>)
+21337.2,x,,<ca> + -wi,bentukan,[174] [S] -wi + (<others>)
+,,,,,
+21338,k,0,cawi-cawi,dasar,
+21338.1,v,,<cawi> [-] <r>,bentukan,[23] [RD] |
+21338.2,x,,<caw> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+21338.3,x,,<ca> + -wi [-] <r> + -wi,bentukan,[174] [S] -wi + (<others>) => [23] [RD] |
+,,,,,
+21339,x,2,cawir,dasar,
+,,,,,
+21340,k,0,cawis,dasar,
+21340.1,x,,<cawi> + [-is:-s],bentukan,[177] [S] -is + (i)
+21340.2,x,,<caw> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+21341,k,0,cawokah,dasar,
+21341.1,x,,<cawo> + -kah,bentukan,[30] [FS] -kah + (<all>)
+,,,,,
+21342,c,5,caya,dasar,cahaya
+,,,,,
+21343,k,43,ce,dasar,
+,,,,,
+21344,k,0,cebak,dasar,
+,,,,,
+21345,k,3,cebakan,dasar,
+21345.1,x,,<ceba> + -kan,bentukan,[29] [S] -kan + (<all>)
+21345.2,v,,<cebak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+21346,k,0,ceban,dasar,
+21346.1,x,,<ceb> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+21347,k,0,cebar-cebur,dasar,
+21347.1,v,,<[cebur:cebar-cebur]>,bentukan,[Reduplication-Rhyming]
+,,,,,
+21348,k,0,cebik,dasar,
+,,,,,
+21349,k,0,cebikas,dasar,
+,,,,,
+21350,k,0,cebil,dasar,
+,,,,,
+21351,k,0,cebir,dasar,
+,,,,,
+21352,k,0,cebis,dasar,
+21352.1,x,,<cebi> + [-is:-s],bentukan,[177] [S] -is + (i)
+21352.2,x,,<ceb> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+21353,k,10,cebok,dasar,
+,,,,,
+21354,k,17,cebol,dasar,
+,,,,,
+21355,k,10,cebong,dasar,
+,,,,,
+21356,k,0,cebur,dasar,
+,,,,,
+21357,v,2,ceburkan,dasar,
+21357.1,v,,<cebur> + -kan,bentukan,[29] [S] -kan + (<all>)
+21357.2,x,,<ceburk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+21358,v,6,cecabang,dasar,
+,,,,,
+21359,k,0,cecah,dasar,
+,,,,,
+21360,k,0,cecairan,dasar,
+21360.1,x,,<[cair:cecairan]>,bentukan,[Reduplication-Dwipurwa]
+21360.2,v,,<cecair> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+21361,k,16,cecak,dasar,
+,,,,,
+21362,k,0,cecak tanah,dasar,
+,,,,,
+21363,k,0,cecak terbang,dasar,
+,,,,,
+21364,v,5,cecak-cecak,dasar,
+21364.1,v,,<cecak> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+21365,k,3,cecap,dasar,
+,,,,,
+21366,k,16,cecar,dasar,
+,,,,,
+21367,v,5,cecaran,dasar,
+21367.1,x,,<cecar> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+21368,v,2,cecarku,dasar,
+21368.1,v,,<cecar> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+21369,v,5,cecarnya,dasar,
+21369.1,v,,<cecar> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+21370,k,0,cecawi,dasar,
+21370.1,x,,<cecaw> + -i,bentukan,[28] [S] -i + (<all>)
+21370.2,x,,<ceca> + -wi,bentukan,[174] [S] -wi + (<others>)
+,,,,,
+21371,k,10,cece,dasar,
+,,,,,
+21372,k,0,ceceh,dasar,
+,,,,,
+21373,x,2,cecek,dasar,
+,,,,,
+21374,k,0,cecendet,dasar,
+,,,,,
+21375,k,0,ceceng,dasar,
+,,,,,
+21376,k,0,cecengklok,dasar,
+,,,,,
+21377,k,29,cecep,dasar,
+,,,,,
+21378,k,0,cecer,dasar,
+,,,,,
+21379,k,19,ceceran,dasar,
+21379.1,v,,<cecer> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+21380,k,0,cecere,dasar,
+,,,,,
+21381,k,0,cecok,dasar,
+,,,,,
+21382,k,0,cecongor,dasar,
+,,,,,
+21383,k,5,cecunguk,dasar,
+,,,,,
+21384,v,3,cecunguk-cecunguk,dasar,
+21384.1,v,,<cecunguk> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+21385,k,3,cecurut,dasar,
+,,,,,
+21386,c,2,cedal,dasar,cadel
+,,,,,
+21387,c,575,cedera,dasar,cendera
+,,,,,
+21388,k,0,cedera gerakan berulang,dasar,
+,,,,,
+21389,k,0,cedera janji,dasar,
+21389.1,x,,<cedera janj> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+21390,k,0,cedera kronis,dasar,
+21390.1,x,,<cedera kroni> + [-is:-s],bentukan,[177] [S] -is + (i)
+21390.2,x,,<cedera kron> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+21391,k,0,cedera lebih pakai,dasar,
+21391.1,x,,<cedera lebih paka> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+21392,k,0,cedera oksidatif,dasar,
+,,,,,
+21393,v,2,cedera-cedera,dasar,
+21393.1,v,,<cedera> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+21394,v,20,cederanya,dasar,
+21394.1,v,,<cedera> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+21395,k,6,ceding,dasar,
+,,,,,
+21396,k,2,cedok,dasar,
+,,,,,
+21397,k,0,cedong,dasar,
+,,,,,
+21398,k,0,ceduk,dasar,
+,,,,,
+21399,k,0,ceeng,dasar,
+,,,,,
+21400,k,330,cegah,dasar,
+,,,,,
+21401,k,0,cegah dan tangkal,dasar,
+,,,,,
+21402,k,0,cegah siar,dasar,
+,,,,,
+21403,t,2,cegah-tangkal,dasar,
+,,,,,
+21404,k,0,cegahan,dasar,
+21404.1,v,,<cegah> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+21405,v,5,cegahlah,dasar,
+21405.1,v,,<cegah> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+21406,k,2,cegak,dasar,
+,,,,,
+21407,k,0,cegar,dasar,
+,,,,,
+21408,k,0,cegas,dasar,
+,,,,,
+21409,k,12,cegat,dasar,
+,,,,,
+21410,k,0,ceguk,dasar,
+,,,,,
+21411,k,3,cegukan,dasar,
+21411.1,x,,<cegu> + -kan,bentukan,[29] [S] -kan + (<all>)
+21411.2,v,,<ceguk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+21412,k,0,ceimafobia,dasar,
+21412.1,x,,<ceima> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+21413,k,609,cek,dasar,
+,,,,,
+21414,k,0,cek atas bawa,dasar,
+,,,,,
+21415,k,0,cek bank,dasar,
+,,,,,
+21416,k,0,cek berjaminan,dasar,
+21416.1,x,,<cek berjamin> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+21417,k,0,cek blangko,dasar,
+,,,,,
+21418,k,0,cek cacat,dasar,
+,,,,,
+21419,k,0,cek gantung,dasar,
+,,,,,
+21420,k,0,cek intern,dasar,
+,,,,,
+21421,k,0,cek jalan,dasar,
+21421.1,x,,<cek jal> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+21422,k,0,cek karis,dasar,
+21422.1,x,,<cek kari> + [-is:-s],bentukan,[177] [S] -is + (i)
+21422.2,x,,<cek kar> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+21423,k,0,cek kasir,dasar,
+,,,,,
+21424,k,0,cek kedaluwarsa,dasar,
+,,,,,
+21425,k,0,cek kliring,dasar,
+,,,,,
+21426,k,0,cek kosong,dasar,
+,,,,,
+21427,k,0,cek lunas,dasar,
+,,,,,
+21428,k,0,cek meja,dasar,
+,,,,,
+21429,k,0,cek mundur,dasar,
+,,,,,
+21430,k,0,cek musafir,dasar,
+,,,,,
+21431,k,0,cek nonpari,dasar,
+21431.1,x,,<cek nonpar> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+21432,k,0,cek order,dasar,
+,,,,,
+21433,k,0,cek paritas,dasar,
+21433.1,x,,<cek par> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+21434,k,0,cek pelanggan,dasar,
+21434.1,x,,<cek pelangg> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+21435,k,0,cek pelawat,dasar,
+,,,,,
+21436,k,0,cek putih,dasar,
+,,,,,
+21437,k,0,cek rusak,dasar,
+,,,,,
+21438,k,0,cek silang,dasar,
+,,,,,
+21439,k,0,cek suara,dasar,
+,,,,,
+21440,k,0,cek terbuka,dasar,
+,,,,,
+21441,k,0,cek terjamin,dasar,
+,,,,,
+21442,k,0,cekah,dasar,
+21442.1,x,,<ce> + -kah,bentukan,[30] [FS] -kah + (<all>)
+,,,,,
+21443,k,23,cekak,dasar,
+,,,,,
+21444,k,3,cekakak,dasar,
+,,,,,
+21445,k,2,cekakak-cekikik,dasar,
+21445.1,v,,<[cekakak:cekakak-cekikik]>,bentukan,[Reduplication-Rhyming]
+,,,,,
+21446,k,0,cekakan,dasar,
+21446.1,x,,<ceka> + -kan,bentukan,[29] [S] -kan + (<all>)
+21446.2,x,,<cekak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+21447,k,11,cekal,dasar,
+,,,,,
+21448,k,4,cekalan,dasar,
+21448.1,v,,<cekal> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+21449,k,0,cekalang,dasar,
+,,,,,
+21450,k,2,cekam,dasar,
+,,,,,
+21451,k,26,cekaman,dasar,
+21451.1,v,,<cekam> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+21452,k,0,cekang,dasar,

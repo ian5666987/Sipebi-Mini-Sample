@@ -1,0 +1,1325 @@
+Nomor,KP,Jumlah,Entri,Tipe,Pembentukan
+126234,v,6,terkomunikasikan,dasar,
+126234.1,v,,ter- + <komunikasi> + -kan,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126234.2,x,,ter- + <komunikasik> + -an,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126234.3,x,,ter- + <komunikasikan>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126234.4,x,,<terkomunikasi> + -kan,bentukan,[29] [S] -kan + (<all>)
+126234.5,x,,<terkomunikasik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+126235,k,0,terkondang,dasar,
+126235.1,x,,ter- + <kondang>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126236,v,8,terkondensasi,dasar,
+126236.1,x,,ter- + <kondensas> + -i,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126236.2,v,,ter- + <kondensasi>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126236.3,x,,<terkondensas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+126237,k,9,terkondisikan,dasar,
+126237.1,v,,ter- + <kondisi> + -kan,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126237.2,x,,ter- + <kondisik> + -an,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126237.3,x,,ter- + <kondisikan>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126237.4,x,,<terkondisi> + -kan,bentukan,[29] [S] -kan + (<all>)
+126237.5,x,,<terkondisik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+126238,v,156,terkoneksi,dasar,
+126238.1,x,,ter- + <koneks> + -i,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126238.2,v,,ter- + <koneksi>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126238.3,x,,<terkoneks> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+126239,v,3,terkoneksinya,dasar,
+126239.1,x,,ter- + <koneksinya>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126239.2,x,,<terkoneksi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+126239.3,x,,ter- + <koneks> + -i + -nya,bentukan,[22] ter- + (<others>) + (-i;-kan;-an) => [34] [SFS] -nya + (<all>)
+126239.4,v,,ter- + <koneksi> + -nya,bentukan,[22] ter- + (<others>) + (-i;-kan;-an) => [34] [SFS] -nya + (<all>)
+126239.5,x,,<terkoneks> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+126240,v,3,terkonfigurasi,dasar,
+126240.1,x,,ter- + <konfiguras> + -i,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126240.2,v,,ter- + <konfigurasi>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126240.3,x,,<terkonfiguras> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+126241,k,127,terkonfirmasi,dasar,
+126241.1,x,,ter- + <konfirmas> + -i,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126241.2,v,,ter- + <konfirmasi>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126241.3,x,,<terkonfirmas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+126242,v,2,terkonfirmasinya,dasar,
+126242.1,x,,ter- + <konfirmasinya>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126242.2,x,,<terkonfirmasi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+126242.3,x,,ter- + <konfirmas> + -i + -nya,bentukan,[22] ter- + (<others>) + (-i;-kan;-an) => [34] [SFS] -nya + (<all>)
+126242.4,v,,ter- + <konfirmasi> + -nya,bentukan,[22] ter- + (<others>) + (-i;-kan;-an) => [34] [SFS] -nya + (<all>)
+126242.5,x,,<terkonfirmas> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+126243,k,0,terkongkong,dasar,
+126243.1,v,,ter- + <kongkong>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126244,k,7,terkonjugasi,dasar,
+126244.1,x,,ter- + <konjugas> + -i,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126244.2,v,,ter- + <konjugasi>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126244.3,x,,<terkonjugas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+126245,k,137,terkonsentrasi,dasar,
+126245.1,x,,ter- + <konsentras> + -i,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126245.2,v,,ter- + <konsentrasi>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126245.3,x,,<terkonsentras> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+126246,v,4,terkonsentrasinya,dasar,
+126246.1,x,,ter- + <konsentrasinya>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126246.2,x,,<terkonsentrasi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+126246.3,x,,ter- + <konsentras> + -i + -nya,bentukan,[22] ter- + (<others>) + (-i;-kan;-an) => [34] [SFS] -nya + (<all>)
+126246.4,v,,ter- + <konsentrasi> + -nya,bentukan,[22] ter- + (<others>) + (-i;-kan;-an) => [34] [SFS] -nya + (<all>)
+126246.5,x,,<terkonsentras> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+126247,k,10,terkonsep,dasar,
+126247.1,v,,ter- + <konsep>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126248,k,3,terkonservasi,dasar,
+126248.1,x,,ter- + <konservas> + -i,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126248.2,v,,ter- + <konservasi>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126248.3,x,,<terkonservas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+126249,k,34,terkonsolidasi,dasar,
+126249.1,x,,ter- + <konsolidas> + -i,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126249.2,v,,ter- + <konsolidasi>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126249.3,x,,<terkonsolidas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+126250,v,2,terkonsolidasikan,dasar,
+126250.1,v,,ter- + <konsolidasi> + -kan,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126250.2,x,,ter- + <konsolidasik> + -an,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126250.3,x,,ter- + <konsolidasikan>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126250.4,x,,<terkonsolidasi> + -kan,bentukan,[29] [S] -kan + (<all>)
+126250.5,x,,<terkonsolidasik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+126251,v,7,terkonstruksi,dasar,
+126251.1,x,,ter- + <konstruks> + -i,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126251.2,v,,ter- + <konstruksi>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126251.3,x,,<terkonstruks> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+126252,v,7,terkonsumsi,dasar,
+126252.1,x,,ter- + <konsums> + -i,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126252.2,v,,ter- + <konsumsi>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126252.3,x,,<terkonsums> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+126253,k,0,terkontak,dasar,
+126253.1,v,,ter- + <kontak>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126254,k,121,terkontaminasi,dasar,
+126254.1,x,,ter- + <kontaminas> + -i,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126254.2,v,,ter- + <kontaminasi>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126254.3,x,,<terkontaminas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+126255,k,3,terkontrak,dasar,
+126255.1,v,,ter- + <kontrak>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126256,k,38,terkontraksi,dasar,
+126256.1,x,,ter- + <kontraks> + -i,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126256.2,v,,ter- + <kontraksi>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126256.3,x,,<terkontraks> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+126257,k,214,terkontrol,dasar,
+126257.1,v,,ter- + <kontrol>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126258,v,2,terkonvergensi,dasar,
+126258.1,x,,ter- + <konvergens> + -i,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126258.2,v,,ter- + <konvergensi>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126258.3,x,,<terkonvergens> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+126259,k,22,terkonversi,dasar,
+126259.1,x,,ter- + <konvers> + -i,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126259.2,v,,ter- + <konversi>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126259.3,x,,<terkonvers> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+126260,k,7,terkooptasi,dasar,
+126260.1,x,,ter- + <kooptas> + -i,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126260.2,v,,ter- + <kooptasi>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126260.3,x,,<terkooptas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+126261,k,164,terkoordinasi,dasar,
+126261.1,x,,ter- + <koordinas> + -i,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126261.2,v,,ter- + <koordinasi>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126261.3,x,,<terkoordinas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+126262,k,3,terkoordinasikan,dasar,
+126262.1,v,,ter- + <koordinasi> + -kan,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126262.2,x,,ter- + <koordinasik> + -an,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126262.3,x,,ter- + <koordinasikan>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126262.4,x,,<terkoordinasi> + -kan,bentukan,[29] [S] -kan + (<all>)
+126262.5,x,,<terkoordinasik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+126263,k,0,terkopi,dasar,
+126263.1,x,,ter- + <kop> + -i,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126263.2,v,,ter- + <kopi>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126263.3,x,,<terkop> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+126264,k,30,terkoreksi,dasar,
+126264.1,x,,ter- + <koreks> + -i,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126264.2,v,,ter- + <koreksi>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126264.3,x,,<terkoreks> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+126265,v,6,terkorelasi,dasar,
+126265.1,x,,ter- + <korelas> + -i,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126265.2,v,,ter- + <korelasi>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126265.3,x,,<terkorelas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+126266,v,12,terkorup,dasar,
+126266.1,v,,ter- + <korup>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126267,v,4,terkorupsi,dasar,
+126267.1,x,,ter- + <korups> + -i,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126267.2,v,,ter- + <korupsi>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126267.3,x,,<terkorups> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+126268,k,0,terkosel-kosel,dasar,
+126268.1,v,,ter- + <kosel> [-] <r>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an) => [49] [RD] ter-|
+,,,,,
+126269,v,3,terkosentrasi,dasar,
+126269.1,x,,ter- + <kosentras> + -i,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126269.2,v,,ter- + <kosentrasi>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126269.3,x,,<terkosentras> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+126270,k,0,terkotak,dasar,
+126270.1,v,,ter- + <kotak>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126271,k,27,terkotak-kotak,dasar,
+126271.1,v,,ter- + <kotak> [-] <r>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an) => [49] [RD] ter-|
+,,,,,
+126272,k,0,terkoteng-koteng,dasar,
+126272.1,v,,ter- + <koteng> [-] <r>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an) => [49] [RD] ter-|
+,,,,,
+126273,v,2,terkotor,dasar,
+126273.1,v,,ter- + <kotor>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126274,k,4,terkotori,dasar,
+126274.1,v,,ter- + <kotor> + -i,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126274.2,x,,ter- + <kotori>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126274.3,v,,<terkotor> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+126275,v,2,terkover,dasar,
+126275.1,v,,ter- + <kover>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126276,k,44,terkoyak,dasar,
+126276.1,v,,ter- + <koyak>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126277,v,4,terkoyak-koyak,dasar,
+126277.1,v,,ter- + <koyak> [-] <r>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an) => [49] [RD] ter-|
+,,,,,
+126278,k,0,terkristal,dasar,
+126278.1,v,,ter- + <kristal>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126279,t,3,terkristalisasi,dasar,
+126279.1,x,,ter- + <kristalisas> + -i,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126279.2,v,,ter- + <kristalisasi>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126279.3,x,,<terkristalisas> + -i,bentukan,[28] [S] -i + (<all>)
+126279.4,x,,<terkristali> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+126279.5,x,,<terkristalis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+126279.6,x,,<terkristal> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+126280,k,0,terkuai-kuai,dasar,
+126280.1,x,,ter- + <kua> [-] <r> + -i,bentukan,[22] ter- + (<others>) + (-i;-kan;-an) => [49] [RD] ter-|
+126280.2,v,,ter- + <kuai> [-] <r>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an) => [49] [RD] ter-|
+,,,,,
+126281,k,117,terkuak,dasar,
+126281.1,v,,ter- + <kuak>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126282,v,4,terkuaklah,dasar,
+126282.1,x,,ter- + <kuaklah>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126282.2,x,,<terkuak> + -lah,bentukan,[31] [FS] -lah + (<all>)
+126282.3,v,,ter- + <kuak> + -lah,bentukan,[22] ter- + (<others>) + (-i;-kan;-an) => [31] [FS] -lah + (<all>)
+,,,,,
+126283,v,16,terkuaknya,dasar,
+126283.1,x,,ter- + <kuaknya>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126283.2,x,,<terkuak> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+126283.3,v,,ter- + <kuak> + -nya,bentukan,[22] ter- + (<others>) + (-i;-kan;-an) => [34] [SFS] -nya + (<all>)
+,,,,,
+126284,v,5,terkualifikasi,dasar,
+126284.1,x,,ter- + <kualifikas> + -i,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126284.2,v,,ter- + <kualifikasi>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126284.3,x,,<terkualifikas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+126285,k,5,terkuasai,dasar,
+126285.1,v,,ter- + <kuasa> + -i,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126285.2,x,,ter- + <kuasai>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126285.3,x,,<terkuasa> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+126286,v,182,terkuat,dasar,
+126286.1,v,,ter- + <kuat>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126287,v,9,terkuatnya,dasar,
+126287.1,x,,ter- + <kuatnya>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126287.2,x,,<terkuat> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+126287.3,v,,ter- + <kuat> + -nya,bentukan,[22] ter- + (<others>) + (-i;-kan;-an) => [34] [SFS] -nya + (<all>)
+,,,,,
+126288,k,0,terkubak,dasar,
+126288.1,v,,ter- + <kubak>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126289,k,0,terkubu,dasar,
+126289.1,v,,ter- + <kubu>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126290,k,121,terkubur,dasar,
+126290.1,v,,ter- + <kubur>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126291,v,7,terkuburkan,dasar,
+126291.1,v,,ter- + <kubur> + -kan,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126291.2,x,,ter- + <kuburk> + -an,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126291.3,x,,ter- + <kuburkan>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126291.4,x,,<terkubur> + -kan,bentukan,[29] [S] -kan + (<all>)
+126291.5,x,,<terkuburk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+126292,v,6,terkuburnya,dasar,
+126292.1,x,,ter- + <kuburnya>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126292.2,x,,<terkubur> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+126292.3,v,,ter- + <kubur> + -nya,bentukan,[22] ter- + (<others>) + (-i;-kan;-an) => [34] [SFS] -nya + (<all>)
+,,,,,
+126293,k,0,terkucai,dasar,
+126293.1,x,,ter- + <kuca> + -i,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126293.2,v,,ter- + <kucai>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126293.3,x,,<terkuca> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+126294,k,0,terkucak,dasar,
+126294.1,v,,ter- + <kucak>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126295,k,15,terkucil,dasar,
+126295.1,v,,ter- + <kucil>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126296,v,8,terkucilkan,dasar,
+126296.1,v,,ter- + <kucil> + -kan,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126296.2,x,,ter- + <kucilk> + -an,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126296.3,x,,ter- + <kucilkan>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126296.4,x,,<terkucil> + -kan,bentukan,[29] [S] -kan + (<all>)
+126296.5,x,,<terkucilk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+126297,k,0,terkudeta,dasar,
+126297.1,v,,ter- + <kudeta>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126298,k,0,terkudian,dasar,
+126298.1,x,,ter- + <kudi> + -an,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126298.2,v,,ter- + <kudian>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126298.3,x,,<terkudi> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+126299,k,0,terkujut,dasar,
+126299.1,v,,ter- + <kujut>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126300,k,0,terkul,dasar,
+126300.1,x,,ter- + <kul>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126301,k,108,terkulai,dasar,
+126301.1,x,,ter- + <kula> + -i,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126301.2,v,,ter- + <kulai>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126301.3,x,,<terkula> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+126302,v,4,terkulum,dasar,
+126302.1,v,,ter- + <kulum>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126303,k,0,terkumpal-kumpal,dasar,
+126303.1,v,,ter- + <kumpal> [-] <r>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an) => [49] [RD] ter-|
+,,,,,
+126304,k,0,terkumpar,dasar,
+126304.1,v,,ter- + <kumpar>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126305,k,392,terkumpul,dasar,
+126305.1,v,,ter- + <kumpul>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126306,v,5,terkumpullah,dasar,
+126306.1,x,,ter- + <kumpullah>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126306.2,x,,<terkumpul> + -lah,bentukan,[31] [FS] -lah + (<all>)
+126306.3,v,,ter- + <kumpul> + -lah,bentukan,[22] ter- + (<others>) + (-i;-kan;-an) => [31] [FS] -lah + (<all>)
+,,,,,
+126307,v,11,terkumpulnya,dasar,
+126307.1,x,,ter- + <kumpulnya>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126307.2,x,,<terkumpul> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+126307.3,v,,ter- + <kumpul> + -nya,bentukan,[22] ter- + (<others>) + (-i;-kan;-an) => [34] [SFS] -nya + (<all>)
+,,,,,
+126308,k,203,terkunci,dasar,
+126308.1,x,,ter- + <kunc> + -i,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126308.2,v,,ter- + <kunci>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126308.3,x,,<terkunc> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+126309,k,0,terkunci mulutnya,dasar,
+126309.1,x,,ter- + <kunci mulutnya>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126309.2,x,,<terkunci mulut> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+126309.3,v,,ter- + <kunci mulut> + -nya,bentukan,[22] ter- + (<others>) + (-i;-kan;-an) => [34] [SFS] -nya + (<all>)
+,,,,,
+126310,v,3,terkuncir,dasar,
+126310.1,v,,ter- + <kuncir>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126311,k,41,terkungkung,dasar,
+126311.1,v,,ter- + <kungkung>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126312,k,0,terkuntum,dasar,
+126312.1,v,,ter- + <kuntum>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126313,k,4,terkunyah,dasar,
+126313.1,v,,ter- + <kunyah>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126314,k,0,terkup,dasar,
+126314.1,x,,ter- + <kup>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126315,k,8,terkupas,dasar,
+126315.1,v,,ter- + <kupas>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126316,t,10,terkurangi,dasar,
+126316.1,v,,ter- + <kurang> + -i,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126316.2,x,,ter- + <kurangi>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126316.3,x,,<terkurang> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+126317,k,78,terkuras,dasar,
+126317.1,v,,ter- + <kuras>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126318,v,3,terkurasnya,dasar,
+126318.1,x,,ter- + <kurasnya>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126318.2,x,,<terkuras> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+126318.3,v,,ter- + <kuras> + -nya,bentukan,[22] ter- + (<others>) + (-i;-kan;-an) => [34] [SFS] -nya + (<all>)
+,,,,,
+126319,k,86,terkurung,dasar,
+126319.1,v,,ter- + <kurung>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126320,k,0,terkurung paham,dasar,
+126320.1,v,,ter- + <kurung paham>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126321,k,0,terkutub,dasar,
+126321.1,v,,ter- + <kutub>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126322,k,73,terkutuk,dasar,
+126322.1,v,,ter- + <kutuk>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126323,v,13,terkutuklah,dasar,
+126323.1,x,,ter- + <kutuklah>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126323.2,x,,<terkutuk> + -lah,bentukan,[31] [FS] -lah + (<all>)
+126323.3,v,,ter- + <kutuk> + -lah,bentukan,[22] ter- + (<others>) + (-i;-kan;-an) => [31] [FS] -lah + (<all>)
+,,,,,
+126324,v,3,terkutuknya,dasar,
+126324.1,x,,ter- + <kutuknya>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126324.2,x,,<terkutuk> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+126324.3,v,,ter- + <kutuk> + -nya,bentukan,[22] ter- + (<others>) + (-i;-kan;-an) => [34] [SFS] -nya + (<all>)
+,,,,,
+126325,k,43,terlacak,dasar,
+126325.1,v,,ter- + <lacak>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126326,k,241,terlahir,dasar,
+126326.1,v,,ter- + <lahir>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126327,v,2,terlahirkan,dasar,
+126327.1,v,,ter- + <lahir> + -kan,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126327.2,x,,ter- + <lahirk> + -an,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126327.3,x,,ter- + <lahirkan>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126327.4,x,,<terlahir> + -kan,bentukan,[29] [S] -kan + (<all>)
+126327.5,x,,<terlahirk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+126328,v,2,terlahirlah,dasar,
+126328.1,x,,ter- + <lahirlah>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126328.2,x,,<terlahir> + -lah,bentukan,[31] [FS] -lah + (<all>)
+126328.3,v,,ter- + <lahir> + -lah,bentukan,[22] ter- + (<others>) + (-i;-kan;-an) => [31] [FS] -lah + (<all>)
+,,,,,
+126329,v,5,terlahirnya,dasar,
+126329.1,x,,ter- + <lahirnya>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126329.2,x,,<terlahir> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+126329.3,v,,ter- + <lahir> + -nya,bentukan,[22] ter- + (<others>) + (-i;-kan;-an) => [34] [SFS] -nya + (<all>)
+,,,,,
+126330,k,0,terlak,dasar,
+126330.1,x,,ter- + <lak>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126331,v,2,terlaknat,dasar,
+126331.1,v,,ter- + <laknat>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126332,k,403,terlaksana,dasar,
+126332.1,v,,ter- + <laksana>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126333,k,3,terlaksanakan,dasar,
+126333.1,v,,ter- + <laksana> + -kan,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126333.2,x,,ter- + <laksanak> + -an,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126333.3,x,,ter- + <laksanakan>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126333.4,x,,<terlaksana> + -kan,bentukan,[29] [S] -kan + (<all>)
+126333.5,x,,<terlaksanak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+126334,v,239,terlaksananya,dasar,
+126334.1,x,,ter- + <laksananya>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126334.2,x,,<terlaksana> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+126334.3,v,,ter- + <laksana> + -nya,bentukan,[22] ter- + (<others>) + (-i;-kan;-an) => [34] [SFS] -nya + (<all>)
+,,,,,
+126335,v,2,terlaku,dasar,
+126335.1,v,,ter- + <laku>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126335.2,x,,<terla> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+126335.3,x,,ter- + <la> + -ku,bentukan,[22] ter- + (<others>) + (-i;-kan;-an) => [32] [SFS] -ku + (<all>)
+,,,,,
+126336,k,0,terlalah,dasar,
+126336.1,v,,ter- + <lalah>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126336.2,x,,<terla> + -lah,bentukan,[31] [FS] -lah + (<all>)
+126336.3,x,,ter- + <la> + -lah,bentukan,[22] ter- + (<others>) + (-i;-kan;-an) => [31] [FS] -lah + (<all>)
+,,,,,
+126337,k,0,terlalah terkejar,dasar,
+126337.1,x,,ter- + <lalah terkejar>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126338,k,0,terlalai,dasar,
+126338.1,x,,ter- + <lala> + -i,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126338.2,v,,ter- + <lalai>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126338.3,x,,<terlala> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+126339,k,0,terlalaikan,dasar,
+126339.1,v,,ter- + <lalai> + -kan,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126339.2,x,,ter- + <lalaik> + -an,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126339.3,x,,ter- + <lalaikan>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126339.4,x,,<terlalai> + -kan,bentukan,[29] [S] -kan + (<all>)
+126339.5,x,,<terlalaik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+126340,k,4780,terlalu,dasar,
+126340.1,v,,ter- + <lalu>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126341,v,3,terlalui,dasar,
+126341.1,v,,ter- + <lalu> + -i,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126341.2,x,,ter- + <lalui>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126341.3,x,,<terlalu> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+126342,v,75,terlama,dasar,
+126342.1,v,,ter- + <lama>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126343,k,0,terlambak,dasar,
+126343.1,v,,ter- + <lambak>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126344,k,841,terlambat,dasar,
+126344.1,v,,ter- + <lambat>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126345,v,22,terlambatnya,dasar,
+126345.1,x,,ter- + <lambatnya>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126345.2,x,,<terlambat> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+126345.3,v,,ter- + <lambat> + -nya,bentukan,[22] ter- + (<others>) + (-i;-kan;-an) => [34] [SFS] -nya + (<all>)
+,,,,,
+126346,v,5,terlambung,dasar,
+126346.1,v,,ter- + <lambung>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126347,k,0,terlampai,dasar,
+126347.1,x,,ter- + <lampa> + -i,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126347.2,v,,ter- + <lampai>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126347.3,x,,<terlampa> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+126348,k,249,terlampau,dasar,
+126348.1,v,,ter- + <lampau>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126349,k,100,terlampaui,dasar,
+126349.1,v,,ter- + <lampau> + -i,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126349.2,x,,ter- + <lampaui>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126349.3,x,,<terlampau> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+126350,v,11,terlampauinya,dasar,
+126350.1,x,,ter- + <lampauinya>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126350.2,x,,<terlampaui> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+126350.3,v,,ter- + <lampau> + -i + -nya,bentukan,[22] ter- + (<others>) + (-i;-kan;-an) => [34] [SFS] -nya + (<all>)
+126350.4,x,,ter- + <lampaui> + -nya,bentukan,[22] ter- + (<others>) + (-i;-kan;-an) => [34] [SFS] -nya + (<all>)
+126350.5,x,,<terlampau> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+126351,v,7,terlampiaskan,dasar,
+126351.1,v,,ter- + <lampias> + -kan,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126351.2,x,,ter- + <lampiask> + -an,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126351.3,x,,ter- + <lampiaskan>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126351.4,x,,<terlampias> + -kan,bentukan,[29] [S] -kan + (<all>)
+126351.5,x,,<terlampiask> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+126352,k,258,terlampir,dasar,
+126352.1,v,,ter- + <lampir>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126353,k,0,terlancap,dasar,
+126353.1,v,,ter- + <lancap>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126354,k,17,terlanda,dasar,
+126354.1,v,,ter- + <landa>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126354.2,x,,<terla> + [-anda:-nda],bentukan,[183] [S] -anda + (i;u;a;[k:])
+126354.3,x,,<terlan> + [-anda:-da],bentukan,[184] [S] -anda + (an)
+126354.4,x,,<terl> + -anda,bentukan,[185] [S] -anda + (<others>)
+,,,,,
+126355,k,0,terlangah,dasar,
+126355.1,v,,ter- + <langah>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126356,k,7,terlanggar,dasar,
+126356.1,v,,ter- + <langgar>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126357,v,4,terlanggarnya,dasar,
+126357.1,x,,ter- + <langgarnya>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126357.2,x,,<terlanggar> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+126357.3,v,,ter- + <langgar> + -nya,bentukan,[22] ter- + (<others>) + (-i;-kan;-an) => [34] [SFS] -nya + (<all>)
+,,,,,
+126358,t,2,terlangkahi,dasar,
+126358.1,v,,ter- + <langkah> + -i,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126358.2,x,,ter- + <langkahi>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126358.3,x,,<terlangkah> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+126359,k,0,terlangkahkan,dasar,
+126359.1,v,,ter- + <langkah> + -kan,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126359.2,x,,ter- + <langkahk> + -an,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126359.3,x,,ter- + <langkahkan>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126359.4,x,,<terlangkah> + -kan,bentukan,[29] [S] -kan + (<all>)
+126359.5,x,,<terlangkahk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+126360,k,0,terlangkaui,dasar,
+126360.1,v,,ter- + <langkau> + -i,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126360.2,x,,ter- + <langkaui>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126360.3,x,,<terlangkau> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+126361,k,0,terlangkup,dasar,
+126361.1,v,,ter- + <langkup>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126362,k,2,terlangsung,dasar,
+126362.1,v,,ter- + <langsung>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126363,k,0,terlanjau,dasar,
+126363.1,v,,ter- + <lanjau>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126364,c,206,terlanjur,dasar,telanjur
+126364.1,v,,ter- + <lanjur>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126365,k,0,terlansir,dasar,
+126365.1,v,,ter- + <lansir>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126366,k,0,terlantan,dasar,
+126366.1,x,,ter- + <lant> + -an,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126366.2,v,,ter- + <lantan>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126366.3,x,,<terlant> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+126367,c,129,terlantar,dasar,telantar
+126367.1,v,,ter- + <lantar>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126368,v,2,terlantarnya,dasar,
+126368.1,x,,ter- + <lantarnya>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126368.2,x,,<terlantar> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+126368.3,v,,ter- + <lantar> + -nya,bentukan,[22] ter- + (<others>) + (-i;-kan;-an) => [34] [SFS] -nya + (<all>)
+,,,,,
+126369,k,0,terlantas,dasar,
+126369.1,v,,ter- + <lantas>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126370,k,0,terlantik,dasar,
+126370.1,v,,ter- + <lantik>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126371,k,0,terlanting,dasar,
+126371.1,v,,ter- + <lanting>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126372,v,8,terlantun,dasar,
+126372.1,v,,ter- + <lantun>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126373,k,0,terlantung,dasar,
+126373.1,v,,ter- + <lantung>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126374,k,0,terlantung-lantung,dasar,
+126374.1,v,,ter- + <lantung> [-] <r>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an) => [49] [RD] ter-|
+,,,,,
+126375,v,4,terlapisi,dasar,
+126375.1,v,,ter- + <lapis> + -i,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126375.2,x,,ter- + <lapisi>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126375.3,x,,<terlapis> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+126376,k,45,terlapor,dasar,
+126376.1,v,,ter- + <lapor>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126377,v,9,terlaporkan,dasar,
+126377.1,v,,ter- + <lapor> + -kan,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126377.2,x,,ter- + <lapork> + -an,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126377.3,x,,ter- + <laporkan>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126377.4,x,,<terlapor> + -kan,bentukan,[29] [S] -kan + (<all>)
+126377.5,x,,<terlapork> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+126378,v,3,terlapornya,dasar,
+126378.1,x,,ter- + <lapornya>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126378.2,x,,<terlapor> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+126378.3,v,,ter- + <lapor> + -nya,bentukan,[22] ter- + (<others>) + (-i;-kan;-an) => [34] [SFS] -nya + (<all>)
+,,,,,
+126379,k,0,terlara-lara,dasar,
+126379.1,v,,ter- + <lara> [-] <r>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an) => [49] [RD] ter-|
+,,,,,
+126380,k,341,terlarang,dasar,
+126380.1,v,,ter- + <larang>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126381,k,73,terlaris,dasar,
+126381.1,v,,ter- + <laris>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126381.2,x,,<terlari> + [-is:-s],bentukan,[177] [S] -is + (i)
+126381.3,x,,<terlar> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+126382,k,118,terlarut,dasar,
+126382.1,v,,ter- + <larut>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126383,k,3,terlarutkan,dasar,
+126383.1,v,,ter- + <larut> + -kan,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126383.2,x,,ter- + <larutk> + -an,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126383.3,x,,ter- + <larutkan>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126383.4,x,,<terlarut> + -kan,bentukan,[29] [S] -kan + (<all>)
+126383.5,x,,<terlarutk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+126384,v,4,terlarutnya,dasar,
+126384.1,x,,ter- + <larutnya>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126384.2,x,,<terlarut> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+126384.3,v,,ter- + <larut> + -nya,bentukan,[22] ter- + (<others>) + (-i;-kan;-an) => [34] [SFS] -nya + (<all>)
+,,,,,
+126385,k,258,terlatih,dasar,
+126385.1,v,,ter- + <latih>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126386,k,3,terlawan,dasar,
+126386.1,x,,ter- + <law> + -an,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126386.2,v,,ter- + <lawan>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126386.3,x,,<terlaw> + -an,bentukan,[38] [S] -an + (<all>)
+126386.4,x,,<terla> + -wan,bentukan,[180] [S] -wan + (<others>)
+126386.5,x,,<terl> + [-wan:-awan],bentukan,[18000001] [S] -wan + (<all>)
+,,,,,
+126387,v,2,terlawankan,dasar,
+126387.1,v,,ter- + <lawan> + -kan,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126387.2,x,,ter- + <lawank> + -an,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126387.3,x,,ter- + <lawankan>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126387.4,x,,<terlawan> + -kan,bentukan,[29] [S] -kan + (<all>)
+126387.5,x,,<terlawank> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+126388,k,0,terlayah,dasar,
+126388.1,v,,ter- + <layah>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126389,k,0,terlayak,dasar,
+126389.1,v,,ter- + <layak>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126390,k,2,terlayang,dasar,
+126390.1,v,,ter- + <layang>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126391,k,0,terlayang-layang,dasar,
+126391.1,v,,ter- + <layang> [-] <r>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an) => [49] [RD] ter-|
+,,,,,
+126392,k,68,terlayani,dasar,
+126392.1,v,,ter- + <layan> + -i,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126392.2,x,,ter- + <layani>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126392.3,x,,<terlayan> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+126393,v,4,terlayaninya,dasar,
+126393.1,x,,ter- + <layaninya>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126393.2,x,,<terlayani> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+126393.3,v,,ter- + <layan> + -i + -nya,bentukan,[22] ter- + (<others>) + (-i;-kan;-an) => [34] [SFS] -nya + (<all>)
+126393.4,x,,ter- + <layani> + -nya,bentukan,[22] ter- + (<others>) + (-i;-kan;-an) => [34] [SFS] -nya + (<all>)
+126393.5,x,,<terlayan> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+126394,k,0,terlayap,dasar,
+126394.1,v,,ter- + <layap>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126395,v,14,terlebar,dasar,
+126395.1,v,,ter- + <lebar>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126396,k,3188,terlebih,dasar,
+126396.1,v,,ter- + <lebih>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126397,k,21,terlebih-lebih,dasar,
+126397.1,v,,ter- + <lebih> [-] <r>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an) => [49] [RD] ter-|
+,,,,,
+126398,k,0,terlebur,dasar,
+126398.1,v,,ter- + <lebur>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126399,k,0,terlecah,dasar,
+126399.1,v,,ter- + <lecah>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126400,k,6,terlecut,dasar,
+126400.1,v,,ter- + <lecut>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126401,k,0,terledakkan,dasar,
+126401.1,v,,ter- + <ledak> + -kan,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126401.2,x,,ter- + <ledakk> + -an,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126401.3,x,,ter- + <ledakkan>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126401.4,x,,<terledak> + -kan,bentukan,[29] [S] -kan + (<all>)
+126401.5,x,,<terledakk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+126402,v,3,terlegitimasi,dasar,
+126402.1,x,,ter- + <legitimas> + -i,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126402.2,v,,ter- + <legitimasi>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126402.3,x,,<terlegitimas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+126403,k,0,terleka,dasar,
+126403.1,v,,ter- + <leka>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126404,k,0,terlekat,dasar,
+126404.1,v,,ter- + <lekat>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126405,k,0,terlelah,dasar,
+126405.1,v,,ter- + <lelah>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126405.2,x,,<terle> + -lah,bentukan,[31] [FS] -lah + (<all>)
+126405.3,x,,ter- + <le> + -lah,bentukan,[22] ter- + (<others>) + (-i;-kan;-an) => [31] [FS] -lah + (<all>)
+,,,,,
+126406,k,0,terlelang,dasar,
+126406.1,v,,ter- + <lelang>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126407,k,181,terlelap,dasar,
+126407.1,v,,ter- + <lelap>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126408,k,0,terleluasa,dasar,
+126408.1,v,,ter- + <leluasa>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126409,k,23,terlemah,dasar,
+126409.1,v,,ter- + <lemah>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126410,k,2,terlemahkan,dasar,
+126410.1,v,,ter- + <lemah> + -kan,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126410.2,x,,ter- + <lemahk> + -an,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126410.3,x,,ter- + <lemahkan>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126410.4,x,,<terlemah> + -kan,bentukan,[29] [S] -kan + (<all>)
+126410.5,x,,<terlemahk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+126411,t,20,terlembaga,dasar,
+126411.1,v,,ter- + <lembaga>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126412,k,12,terlembagakan,dasar,
+126412.1,v,,ter- + <lembaga> + -kan,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126412.2,x,,ter- + <lembagak> + -an,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126412.3,x,,ter- + <lembagakan>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126412.4,x,,<terlembaga> + -kan,bentukan,[29] [S] -kan + (<all>)
+126412.5,x,,<terlembagak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+126413,k,0,terlembap,dasar,
+126413.1,v,,ter- + <lembap>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126414,k,0,terlembek,dasar,
+126414.1,v,,ter- + <lembek>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126415,k,3,terlembut,dasar,
+126415.1,v,,ter- + <lembut>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126416,k,0,terlempai,dasar,
+126416.1,x,,ter- + <lempa> + -i,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126416.2,v,,ter- + <lempai>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126416.3,x,,<terlempa> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+126417,k,132,terlempar,dasar,
+126417.1,v,,ter- + <lempar>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126418,v,2,terlempar-lempar,dasar,
+126418.1,v,,ter- + <lempar> [-] <r>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an) => [49] [RD] ter-|
+,,,,,
+126419,v,2,terlemparkan,dasar,
+126419.1,v,,ter- + <lempar> + -kan,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126419.2,x,,ter- + <lempark> + -an,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126419.3,x,,ter- + <lemparkan>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126419.4,x,,<terlempar> + -kan,bentukan,[29] [S] -kan + (<all>)
+126419.5,x,,<terlempark> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+126420,v,6,terlemparnya,dasar,
+126420.1,x,,ter- + <lemparnya>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126420.2,x,,<terlempar> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+126420.3,v,,ter- + <lempar> + -nya,bentukan,[22] ter- + (<others>) + (-i;-kan;-an) => [34] [SFS] -nya + (<all>)
+,,,,,
+126421,k,104,terlena,dasar,
+126421.1,v,,ter- + <lena>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126422,k,0,terlengah,dasar,
+126422.1,v,,ter- + <lengah>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126423,k,0,terlengar,dasar,
+126423.1,v,,ter- + <lengar>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126424,k,0,terlenggang-lenggang,dasar,
+126424.1,v,,ter- + <lenggang> [-] <r>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an) => [49] [RD] ter-|
+,,,,,
+126425,v,43,terlengkap,dasar,
+126425.1,v,,ter- + <lengkap>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126426,v,2,terlengkapi,dasar,
+126426.1,v,,ter- + <lengkap> + -i,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126426.2,x,,ter- + <lengkapi>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126426.3,x,,<terlengkap> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+126427,k,0,terlengket,dasar,
+126427.1,v,,ter- + <lengket>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126428,k,0,terlengkung,dasar,
+126428.1,v,,ter- + <lengkung>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126429,k,0,terlengkung balik,dasar,
+126429.1,v,,ter- + <lengkung balik>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126430,k,0,terlengkung masuk,dasar,
+126430.1,v,,ter- + <lengkung masuk>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126431,k,0,terlentang,dasar,
+126431.1,v,,ter- + <lentang>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126432,k,0,terlentuk,dasar,
+126432.1,v,,ter- + <lentuk>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126433,k,0,terlepa,dasar,
+126433.1,v,,ter- + <lepa>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126434,k,0,terlepap,dasar,
+126434.1,v,,ter- + <lepap>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126435,k,1208,terlepas,dasar,
+126435.1,v,,ter- + <lepas>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126436,v,10,terlepasnya,dasar,
+126436.1,x,,ter- + <lepasnya>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126436.2,x,,<terlepas> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+126436.3,v,,ter- + <lepas> + -nya,bentukan,[22] ter- + (<others>) + (-i;-kan;-an) => [34] [SFS] -nya + (<all>)
+,,,,,
+126437,k,0,terlepoh,dasar,
+126437.1,v,,ter- + <lepoh>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126438,v,5,terlerai,dasar,
+126438.1,x,,ter- + <lera> + -i,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126438.2,v,,ter- + <lerai>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126438.3,x,,<terlera> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+126439,k,0,terleraikan,dasar,
+126439.1,v,,ter- + <lerai> + -kan,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126439.2,x,,ter- + <leraik> + -an,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126439.3,x,,ter- + <leraikan>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126439.4,x,,<terlerai> + -kan,bentukan,[29] [S] -kan + (<all>)
+126439.5,x,,<terleraik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+126440,k,3,terlestarikan,dasar,
+126440.1,v,,ter- + <lestari> + -kan,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126440.2,x,,ter- + <lestarik> + -an,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126440.3,x,,ter- + <lestarikan>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126440.4,x,,<terlestari> + -kan,bentukan,[29] [S] -kan + (<all>)
+126440.5,x,,<terlestarik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+126441,k,1768,terletak,dasar,
+126441.1,v,,ter- + <letak>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126442,k,67,terlewat,dasar,
+126442.1,v,,ter- + <lewat>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126443,k,71,terlewati,dasar,
+126443.1,v,,ter- + <lewat> + -i,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126443.2,x,,ter- + <lewati>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126443.3,x,,<terlewat> + -i,bentukan,[28] [S] -i + (<all>)
+126443.4,x,,<terle> + -wati,bentukan,[181] [S] -wati + (<all>)
+,,,,,
+126444,v,2,terlewatinya,dasar,
+126444.1,x,,ter- + <lewatinya>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126444.2,x,,<terlewati> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+126444.3,v,,ter- + <lewat> + -i + -nya,bentukan,[22] ter- + (<others>) + (-i;-kan;-an) => [34] [SFS] -nya + (<all>)
+126444.4,x,,ter- + <lewati> + -nya,bentukan,[22] ter- + (<others>) + (-i;-kan;-an) => [34] [SFS] -nya + (<all>)
+126444.5,x,,<terlewat> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+126444.6,x,,<terle> + -wati + -nya,bentukan,[181] [S] -wati + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+126445,v,61,terlewatkan,dasar,
+126445.1,v,,ter- + <lewat> + -kan,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126445.2,x,,ter- + <lewatk> + -an,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126445.3,x,,ter- + <lewatkan>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126445.4,x,,<terlewat> + -kan,bentukan,[29] [S] -kan + (<all>)
+126445.5,x,,<terlewatk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+126446,k,10,terlezat,dasar,
+126446.1,v,,ter- + <lezat>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126447,k,3,terliar,dasar,
+126447.1,v,,ter- + <liar>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126448,k,2698,terlibat,dasar,
+126448.1,v,,ter- + <libat>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126449,k,0,terlibat diri,dasar,
+126449.1,x,,ter- + <libat dir> + -i,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126449.2,x,,ter- + <libat diri>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126449.3,x,,<terlibat dir> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+126450,v,2,terlibatlah,dasar,
+126450.1,x,,ter- + <libatlah>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126450.2,x,,<terlibat> + -lah,bentukan,[31] [FS] -lah + (<all>)
+126450.3,v,,ter- + <libat> + -lah,bentukan,[22] ter- + (<others>) + (-i;-kan;-an) => [31] [FS] -lah + (<all>)
+,,,,,
+126451,v,15,terlibatnya,dasar,
+126451.1,x,,ter- + <libatnya>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126451.2,x,,<terlibat> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+126451.3,v,,ter- + <libat> + -nya,bentukan,[22] ter- + (<others>) + (-i;-kan;-an) => [34] [SFS] -nya + (<all>)
+,,,,,
+126452,k,0,terlicik,dasar,
+126452.1,v,,ter- + <licik>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126453,k,0,terlicin,dasar,
+126453.1,v,,ter- + <licin>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126454,k,5392,terlihat,dasar,
+126454.1,v,,ter- + <lihat>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126455,v,17,terlihatlah,dasar,
+126455.1,x,,ter- + <lihatlah>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126455.2,x,,<terlihat> + -lah,bentukan,[31] [FS] -lah + (<all>)
+126455.3,v,,ter- + <lihat> + -lah,bentukan,[22] ter- + (<others>) + (-i;-kan;-an) => [31] [FS] -lah + (<all>)
+,,,,,
+126456,v,9,terlihatnya,dasar,
+126456.1,x,,ter- + <lihatnya>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126456.2,x,,<terlihat> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+126456.3,v,,ter- + <lihat> + -nya,bentukan,[22] ter- + (<others>) + (-i;-kan;-an) => [34] [SFS] -nya + (<all>)
+,,,,,
+126457,v,55,terlilit,dasar,
+126457.1,v,,ter- + <lilit>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126458,k,0,terlimpas,dasar,
+126458.1,v,,ter- + <limpas>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126459,k,0,terlincah-lincah,dasar,
+126459.1,v,,ter- + <lincah> [-] <r>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an) => [49] [RD] ter-|
+,,,,,
+126460,k,0,terlincir,dasar,
+126460.1,v,,ter- + <lincir>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126461,k,18,terlindas,dasar,
+126461.1,v,,ter- + <lindas>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126462,k,78,terlindung,dasar,
+126462.1,v,,ter- + <lindung>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126463,k,180,terlindungi,dasar,
+126463.1,v,,ter- + <lindung> + -i,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126463.2,x,,ter- + <lindungi>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126463.3,x,,<terlindung> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+126464,v,16,terlindunginya,dasar,
+126464.1,x,,ter- + <lindunginya>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126464.2,x,,<terlindungi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+126464.3,v,,ter- + <lindung> + -i + -nya,bentukan,[22] ter- + (<others>) + (-i;-kan;-an) => [34] [SFS] -nya + (<all>)
+126464.4,x,,ter- + <lindungi> + -nya,bentukan,[22] ter- + (<others>) + (-i;-kan;-an) => [34] [SFS] -nya + (<all>)
+126464.5,x,,<terlindung> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+126465,v,2,terlindungnya,dasar,
+126465.1,x,,ter- + <lindungnya>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126465.2,x,,<terlindung> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+126465.3,v,,ter- + <lindung> + -nya,bentukan,[22] ter- + (<others>) + (-i;-kan;-an) => [34] [SFS] -nya + (<all>)
+,,,,,
+126466,k,0,terlingkar,dasar,
+126466.1,v,,ter- + <lingkar>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126467,k,0,terlingkung,dasar,
+126467.1,v,,ter- + <lingkung>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126468,k,2,terlingkup,dasar,
+126468.1,v,,ter- + <lingkup>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126469,k,0,terlinierkan,dasar,
+126469.1,v,,ter- + <linier> + -kan,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126469.2,x,,ter- + <linierk> + -an,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126469.3,x,,ter- + <linierkan>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126469.4,x,,<terlinier> + -kan,bentukan,[29] [S] -kan + (<all>)
+126469.5,x,,<terlinierk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+126470,k,0,terlintang,dasar,
+126470.1,v,,ter- + <lintang>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126471,k,134,terlintas,dasar,
+126471.1,v,,ter- + <lintas>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126472,k,70,terlipat,dasar,
+126472.1,v,,ter- + <lipat>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126473,k,0,terlipat balik,dasar,
+126473.1,v,,ter- + <lipat balik>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126474,k,0,terlipat masuk,dasar,
+126474.1,v,,ter- + <lipat masuk>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126475,v,4,terlipat-lipat,dasar,
+126475.1,v,,ter- + <lipat> [-] <r>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an) => [49] [RD] ter-|
+,,,,,
+126476,k,6,terliput,dasar,
+126476.1,v,,ter- + <liput>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126477,v,4,terlisensi,dasar,
+126477.1,x,,ter- + <lisens> + -i,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126477.2,v,,ter- + <lisensi>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126477.3,x,,<terlisens> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+126478,v,4,terlistriki,dasar,
+126478.1,v,,ter- + <listrik> + -i,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126478.2,x,,ter- + <listriki>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126478.3,x,,<terlistrik> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+126479,v,2,terliterasi,dasar,
+126479.1,x,,ter- + <literas> + -i,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126479.2,v,,ter- + <literasi>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126479.3,x,,<terliteras> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+126480,k,0,terliuk,dasar,
+126480.1,v,,ter- + <liuk>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126481,k,0,terliuk-liuk,dasar,
+126481.1,v,,ter- + <liuk> [-] <r>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an) => [49] [RD] ter-|
+,,,,,
+126482,k,0,terlok,dasar,
+126482.1,x,,ter- + <lok>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126483,k,11,terlokalisasi,dasar,
+126483.1,x,,ter- + <lokalisas> + -i,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126483.2,v,,ter- + <lokalisasi>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126483.3,x,,<terlokalisas> + -i,bentukan,[28] [S] -i + (<all>)
+126483.4,x,,<terlokali> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+126483.5,x,,<terlokalis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+126483.6,x,,<terlokal> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+126484,k,0,terlokalisasikan,dasar,
+126484.1,v,,ter- + <lokalisasi> + -kan,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126484.2,x,,ter- + <lokalisasik> + -an,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126484.3,x,,ter- + <lokalisasikan>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126484.4,x,,<terlokalisasi> + -kan,bentukan,[29] [S] -kan + (<all>)
+126484.5,x,,<terlokalisasik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+126485,k,0,terlokasi,dasar,
+126485.1,x,,ter- + <lokas> + -i,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126485.2,v,,ter- + <lokasi>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126485.3,x,,<terlokas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+126486,k,0,terlolong,dasar,
+126486.1,v,,ter- + <lolong>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126487,k,0,terlolong-lolong,dasar,
+126487.1,v,,ter- + <lolong> [-] <r>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an) => [49] [RD] ter-|
+,,,,,
+126488,k,15,terlompat,dasar,
+126488.1,v,,ter- + <lompat>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126489,v,10,terloncat,dasar,
+126489.1,v,,ter- + <loncat>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126490,k,0,terlonggar,dasar,
+126490.1,v,,ter- + <longgar>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126491,k,0,terlonggok,dasar,
+126491.1,v,,ter- + <longgok>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126492,v,4,terlongo,dasar,
+126492.1,v,,ter- + <longo>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126493,v,3,terlongo-longo,dasar,
+126493.1,v,,ter- + <longo> [-] <r>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an) => [49] [RD] ter-|
+,,,,,
+126494,v,8,terlongong,dasar,
+126494.1,v,,ter- + <longong>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126495,k,2,terlongong-longong,dasar,
+126495.1,v,,ter- + <longong> [-] <r>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an) => [49] [RD] ter-|
+,,,,,
+126496,k,39,terlonjak,dasar,
+126496.1,v,,ter- + <lonjak>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126497,v,5,terlonjak-lonjak,dasar,
+126497.1,v,,ter- + <lonjak> [-] <r>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an) => [49] [RD] ter-|
+,,,,,
+126498,k,0,terlonsong,dasar,
+126498.1,v,,ter- + <lonsong>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126499,k,118,terlontar,dasar,
+126499.1,v,,ter- + <lontar>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126500,k,5,terluang,dasar,
+126500.1,v,,ter- + <luang>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126501,k,225,terluar,dasar,
+126501.1,v,,ter- + <luar>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126502,v,6,terluarnya,dasar,
+126502.1,x,,ter- + <luarnya>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126502.2,x,,<terluar> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+126502.3,v,,ter- + <luar> + -nya,bentukan,[22] ter- + (<others>) + (-i;-kan;-an) => [34] [SFS] -nya + (<all>)
+,,,,,
+126503,v,77,terluas,dasar,
+126503.1,v,,ter- + <luas>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126504,k,0,terluaskan,dasar,
+126504.1,v,,ter- + <luas> + -kan,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126504.2,x,,ter- + <luask> + -an,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126504.3,x,,ter- + <luaskan>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126504.4,x,,<terluas> + -kan,bentukan,[29] [S] -kan + (<all>)
+126504.5,x,,<terluask> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+126505,k,6,terlucu,dasar,
+126505.1,v,,ter- + <lucu>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126506,k,0,terlucut,dasar,
+126506.1,v,,ter- + <lucut>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126507,k,2,terluhur,dasar,
+126507.1,v,,ter- + <luhur>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126508,k,438,terluka,dasar,
+126508.1,v,,ter- + <luka>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126509,k,0,terlukai,dasar,
+126509.1,v,,ter- + <luka> + -i,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126509.2,x,,ter- + <lukai>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126509.3,x,,<terluka> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+126510,v,2,terlukanya,dasar,
+126510.1,x,,ter- + <lukanya>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126510.2,x,,<terluka> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+126510.3,v,,ter- + <luka> + -nya,bentukan,[22] ter- + (<others>) + (-i;-kan;-an) => [34] [SFS] -nya + (<all>)
+,,,,,
+126511,k,31,terlukis,dasar,
+126511.1,v,,ter- + <lukis>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126511.2,x,,<terluki> + [-is:-s],bentukan,[177] [S] -is + (i)
+126511.3,x,,<terluk> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+126512,k,12,terlukiskan,dasar,
+126512.1,v,,ter- + <lukis> + -kan,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126512.2,x,,ter- + <lukisk> + -an,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126512.3,x,,ter- + <lukiskan>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126512.4,x,,<terlukis> + -kan,bentukan,[29] [S] -kan + (<all>)
+126512.5,x,,<terlukisk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+126513,k,0,terluluk,dasar,
+126513.1,v,,ter- + <luluk>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126514,d,0,terlumpurkan,dasar,
+126514.1,v,,ter- + <lumpur> + -kan,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126514.2,x,,ter- + <lumpurk> + -an,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126514.3,x,,ter- + <lumpurkan>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126514.4,x,,<terlumpur> + -kan,bentukan,[29] [S] -kan + (<all>)
+126514.5,x,,<terlumpurk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+126515,k,0,terlumrah,dasar,
+126515.1,v,,ter- + <lumrah>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126516,k,0,terlunak,dasar,
+126516.1,v,,ter- + <lunak>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126517,v,7,terlunasi,dasar,
+126517.1,v,,ter- + <lunas> + -i,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126517.2,x,,ter- + <lunasi>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126517.3,x,,<terlunas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+126518,v,2,terlunaskan,dasar,
+126518.1,v,,ter- + <lunas> + -kan,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126518.2,x,,ter- + <lunask> + -an,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126518.3,x,,ter- + <lunaskan>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126518.4,x,,<terlunas> + -kan,bentukan,[29] [S] -kan + (<all>)
+126518.5,x,,<terlunask> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+126519,k,2,terluncur,dasar,
+126519.1,v,,ter- + <luncur>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126520,k,0,terlungsar,dasar,
+126520.1,v,,ter- + <lungsar>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126521,k,0,terlunjur,dasar,
+126521.1,v,,ter- + <lunjur>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126522,k,10,terlunta,dasar,
+126522.1,v,,ter- + <lunta>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126523,k,34,terlunta-lunta,dasar,
+126523.1,v,,ter- + <lunta> [-] <r>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an) => [49] [RD] ter-|
+,,,,,
+126524,v,2,terluntang-lantung,dasar,
+126524.1,v,,ter- + <[lantung:luntang-lantung]>,bentukan,[Reduplication-Rhyming] => [22] ter- + (<others>) + (-i;-kan;-an) => [49] [RD] ter-|
+,,,,,
+126525,k,30,terlupa,dasar,
+126525.1,v,,ter- + <lupa>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126526,k,228,terlupakan,dasar,
+126526.1,v,,ter- + <lupa> + -kan,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126526.2,x,,ter- + <lupak> + -an,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126526.3,x,,ter- + <lupakan>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126526.4,x,,<terlupa> + -kan,bentukan,[29] [S] -kan + (<all>)
+126526.5,x,,<terlupak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+126527,k,0,terluput,dasar,
+126527.1,v,,ter- + <luput>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126528,k,0,terlurus,dasar,
+126528.1,v,,ter- + <lurus>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126529,k,0,terlut,dasar,
+126529.1,x,,ter- + <lut>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126530,k,205,term,dasar,
+126530.1,x,,ter- + <m>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126531,v,5,term-term,dasar,
+126531.1,v,,<term> [-] <r>,bentukan,[23] [RD] |
+126531.2,x,,ter- + <m> [-] ter- + <r>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an) => [23] [RD] |
+,,,,,
+126532,k,10,termaafkan,dasar,
+126532.1,v,,ter- + <maaf> + -kan,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126532.2,x,,ter- + <maafk> + -an,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126532.3,x,,ter- + <maafkan>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126532.4,x,,<termaaf> + -kan,bentukan,[29] [S] -kan + (<all>)
+126532.5,x,,<termaafk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+126533,k,6,termacet,dasar,
+126533.1,v,,ter- + <macet>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126534,k,0,termae,dasar,
+126534.1,x,,ter- + <mae>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126535,k,0,termaestesia,dasar,
+126535.1,x,,ter- + <maestesia>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126536,k,132,termahal,dasar,
+126536.1,v,,ter- + <mahal>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126537,v,2,termahalnya,dasar,
+126537.1,x,,ter- + <mahalnya>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126537.2,x,,<termahal> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+126537.3,v,,ter- + <mahal> + -nya,bentukan,[22] ter- + (<others>) + (-i;-kan;-an) => [34] [SFS] -nya + (<all>)
+,,,,,
+126538,v,2,termajinalisasi,dasar,
+126538.1,x,,ter- + <majinalisas> + -i,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126538.2,v,,ter- + <majinalisasi>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126538.3,x,,<termajinalisas> + -i,bentukan,[28] [S] -i + (<all>)
+126538.4,x,,<termajinali> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+126538.5,x,,<termajinalis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+126538.6,x,,<termajinal> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+126539,v,4,termajinalkan,dasar,
+126539.1,v,,ter- + <majinal> + -kan,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126539.2,x,,ter- + <majinalk> + -an,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126539.3,x,,ter- + <majinalkan>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126539.4,x,,<termajinal> + -kan,bentukan,[29] [S] -kan + (<all>)
+126539.5,x,,<termajinalk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+126540,v,7,termaju,dasar,
+126540.1,v,,ter- + <maju>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126541,k,101,termakan,dasar,
+126541.1,x,,ter- + <ma> + -kan,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126541.2,x,,ter- + <mak> + -an,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126541.3,v,,ter- + <makan>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126541.4,x,,<terma> + -kan,bentukan,[29] [S] -kan + (<all>)
+126541.5,x,,<termak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+126542,k,0,termakankan,dasar,
+126542.1,v,,ter- + <makan> + -kan,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126542.2,x,,ter- + <makank> + -an,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126542.3,x,,ter- + <makankan>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126542.4,x,,<termakan> + -kan,bentukan,[29] [S] -kan + (<all>)
+126542.5,x,,<termakank> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+126543,k,0,termakmur,dasar,
+126543.1,v,,ter- + <makmur>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126544,v,2,termaknai,dasar,
+126544.1,v,,ter- + <makna> + -i,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126544.2,x,,ter- + <maknai>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126544.3,x,,<termakna> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+126545,v,2,termaksimalkan,dasar,
+126545.1,v,,ter- + <maksimal> + -kan,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126545.2,x,,ter- + <maksimalk> + -an,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126545.3,x,,ter- + <maksimalkan>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126545.4,x,,<termaksimal> + -kan,bentukan,[29] [S] -kan + (<all>)
+126545.5,x,,<termaksimalk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+126546,k,20,termaksud,dasar,
+126546.1,v,,ter- + <maksud>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126547,k,104,termaktub,dasar,
+126547.1,v,,ter- + <maktub>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126548,k,63,termal,dasar,
+126548.1,x,,ter- + <mal>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126549,k,0,termala,dasar,
+126549.1,v,,ter- + <mala>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126550,k,0,termalang,dasar,
+126550.1,v,,ter- + <malang>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126551,k,0,termalas,dasar,
+126551.1,v,,ter- + <malas>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126552,v,3,termalnya,dasar,
+126552.1,x,,ter- + <malnya>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126552.2,v,,<termal> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+126552.3,x,,ter- + <mal> + -nya,bentukan,[22] ter- + (<others>) + (-i;-kan;-an) => [34] [SFS] -nya + (<all>)
+,,,,,
+126553,k,0,termalu,dasar,
+126553.1,v,,ter- + <malu>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+,,,,,
+126554,v,4,termampatkan,dasar,
+126554.1,v,,ter- + <mampat> + -kan,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126554.2,x,,ter- + <mampatk> + -an,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126554.3,x,,ter- + <mampatkan>,bentukan,[22] ter- + (<others>) + (-i;-kan;-an)
+126554.4,x,,<termampat> + -kan,bentukan,[29] [S] -kan + (<all>)
+126554.5,x,,<termampatk> + -an,bentukan,[38] [S] -an + (<all>)

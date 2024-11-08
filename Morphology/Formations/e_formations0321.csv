@@ -1,0 +1,1498 @@
+Nomor,KP,Jumlah,Entri,Tipe,Pembentukan
+120777,k,0,tahap berteman,dasar,
+120777.1,x,,<tahap bertem> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+120778,k,0,tahap capaian,dasar,
+120778.1,x,,<tahap capai> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+120779,k,0,tahap coba-coba,dasar,
+,,,,,
+120780,k,0,tahap es,dasar,
+,,,,,
+120781,k,0,tahap falik,dasar,
+,,,,,
+120782,k,0,tahap genital freud,dasar,
+,,,,,
+120783,k,0,tahap hujan,dasar,
+120783.1,x,,<tahap huj> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+120784,k,0,tahap hujan es,dasar,
+,,,,,
+120785,k,0,tahap kering,dasar,
+,,,,,
+120786,k,0,tahap kognitif,dasar,
+,,,,,
+120787,k,0,tahap kooperasi usia,dasar,
+,,,,,
+120788,k,0,tahap mengoceh,dasar,
+,,,,,
+120789,k,0,tahap operasional konkret,dasar,
+,,,,,
+120790,k,0,tahap oral,dasar,
+,,,,,
+120791,k,0,tahap otonom,dasar,
+,,,,,
+120792,k,0,tahap penemuan,dasar,
+120792.1,x,,<tahap penemu> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+120793,k,0,tahap penerimaan,dasar,
+120793.1,x,,<tahap penerima> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+120794,k,0,tahap penerimaan kehilangan,dasar,
+120794.1,x,,<tahap penerimaan kehilang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+120795,k,0,tahap penyangkalan,dasar,
+120795.1,x,,<tahap penyangkal> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+120796,k,0,tahap pramoral piaget,dasar,
+,,,,,
+120797,k,0,tahap salju,dasar,
+,,,,,
+120798,k,0,tahap sensorimotor,dasar,
+120798.1,x,,<tahap sensori> + -motor,bentukan,[201] [S] -motor + (<all>)
+,,,,,
+120799,k,0,tahap upaya,dasar,
+,,,,,
+120800,v,125,tahap-tahap,dasar,
+120800.1,v,,<tahap> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+120801,k,1627,tahapan,dasar,
+120801.1,v,,<tahap> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+120802,v,8,tahapan-tahapannya,dasar,
+120802.1,x,,<tahapan> [-] <r> + -nya,bentukan,[23] [RD] |
+120802.2,x,,<tahap> + -an [-] <r> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+120802.3,x,,<tahapan> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+120802.4,v,,<tahap> + -an [-] <r> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+120803,v,60,tahapannya,dasar,
+120803.1,x,,<tahapan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+120803.2,v,,<tahap> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+120804,v,13,tahapnya,dasar,
+120804.1,v,,<tahap> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+120805,k,21,tahar,dasar,
+,,,,,
+120806,k,2,taharah,dasar,
+,,,,,
+120807,t,11,tahayul,dasar,takhayul
+,,,,,
+120808,k,0,tahbis,dasar,
+120808.1,x,,<tahbi> + [-is:-s],bentukan,[177] [S] -is + (i)
+120808.2,x,,<tahb> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+120809,k,2,tahbisan,dasar,
+120809.1,v,,<tahbis> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+120810,k,0,tahfifah,dasar,
+,,,,,
+120811,k,5,tahfiz,dasar,
+,,,,,
+120812,k,90,tahi,dasar,
+120812.1,x,,<tah> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+120813,k,0,tahi angin,dasar,
+,,,,,
+120814,k,0,tahi ayam,dasar,
+,,,,,
+120815,k,0,tahi babi,dasar,
+120815.1,x,,<tahi bab> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+120816,k,0,tahi besi,dasar,
+120816.1,x,,<tahi bes> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+120817,k,0,tahi bintang,dasar,
+,,,,,
+120818,k,0,tahi candu,dasar,
+,,,,,
+120819,k,0,tahi gagak,dasar,
+,,,,,
+120820,k,0,tahi gergaji,dasar,
+120820.1,x,,<tahi gergaj> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+120821,k,0,tahi gigi,dasar,
+120821.1,x,,<tahi gig> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+120822,k,0,tahi hidung,dasar,
+,,,,,
+120823,k,0,tahi kerbau,dasar,
+,,,,,
+120824,k,0,tahi ketam,dasar,
+,,,,,
+120825,k,0,tahi kikir,dasar,
+,,,,,
+120826,k,0,tahi kuku,dasar,
+120826.1,x,,<tahi ku> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+120826.2,x,,<tahi > + -ku + -ku,bentukan,[32] [SFS] -ku + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+120827,k,0,tahi kuping,dasar,
+,,,,,
+120828,k,0,tahi lalat,dasar,
+,,,,,
+120829,k,0,tahi mata,dasar,
+,,,,,
+120830,k,0,tahi minyak,dasar,
+,,,,,
+120831,k,0,tahi palat,dasar,
+,,,,,
+120832,k,0,tahi tangki,dasar,
+120832.1,x,,<tahi tangk> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+120833,k,0,tahi telinga,dasar,
+,,,,,
+120834,k,0,tahi tembaga,dasar,
+,,,,,
+120835,k,0,tahiat,dasar,
+,,,,,
+120836,k,2,tahil,dasar,
+,,,,,
+120837,k,0,tahini,dasar,
+120837.1,x,,<tahin> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+120838,v,8,tahinya,dasar,
+120838.1,v,,<tahi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+120838.2,x,,<tah> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+120839,k,42,tahir,dasar,
+,,,,,
+120840,k,5,tahiti,dasar,
+120840.1,x,,<tahit> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+120841,k,0,tahkik,dasar,
+,,,,,
+120842,k,5,tahkim,dasar,
+,,,,,
+120843,k,36,tahlil,dasar,
+,,,,,
+120844,k,34,tahlilan,dasar,
+120844.1,v,,<tahlil> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+120845,k,12,tahmid,dasar,
+,,,,,
+120846,k,0,tahniah,dasar,
+120846.1,x,,<tahn> + -iah,bentukan,[175] [S] -iah + (<others>)
+,,,,,
+120847,k,0,tahnik,dasar,
+,,,,,
+120848,k,0,tahsil,dasar,
+,,,,,
+120849,c,77,tahta,dasar,takhta
+,,,,,
+120850,v,9,tahtanya,dasar,
+120850.1,v,,<tahta> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+120851,k,5594,tahu,dasar,
+,,,,,
+120852,k,0,tahu adat,dasar,
+,,,,,
+120853,k,0,tahu angin bertiup,dasar,
+,,,,,
+120854,k,0,tahu bacem,dasar,
+,,,,,
+120855,k,0,tahu bakso,dasar,
+,,,,,
+120856,k,0,tahu balas,dasar,
+,,,,,
+120857,k,0,tahu beres,dasar,
+,,,,,
+120858,k,0,tahu bulat,dasar,
+,,,,,
+120859,k,0,tahu campur,dasar,
+,,,,,
+120860,k,0,tahu cina,dasar,
+,,,,,
+120861,k,0,tahu di alif,dasar,
+,,,,,
+120862,k,0,tahu di alif lempang,dasar,
+,,,,,
+120863,k,0,tahu di angin berkisar,dasar,
+,,,,,
+120864,k,0,tahu di kadar diri,dasar,
+120864.1,x,,<tahu di kadar dir> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+120865,k,0,tahu di untung,dasar,
+,,,,,
+120866,k,0,tahu diri,dasar,
+120866.1,x,,<tahu dir> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+120867,k,0,tahu gejrot,dasar,
+,,,,,
+120868,k,0,tahu guling,dasar,
+,,,,,
+120869,k,0,tahu gunting,dasar,
+,,,,,
+120870,k,0,tahu isi,dasar,
+120870.1,x,,<tahu is> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+120871,k,0,tahu jeletot,dasar,
+,,,,,
+120872,k,0,tahu jepang,dasar,
+,,,,,
+120873,k,0,tahu kediri,dasar,
+120873.1,x,,<tahu kedir> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+120874,k,0,tahu kok,dasar,
+,,,,,
+120875,k,0,tahu kupat,dasar,
+,,,,,
+120876,k,0,tahu mambo,dasar,
+,,,,,
+120877,k,0,tahu mata,dasar,
+,,,,,
+120878,k,0,tahu petis,dasar,
+120878.1,x,,<tahu peti> + [-is:-s],bentukan,[177] [S] -is + (i)
+120878.2,x,,<tahu pet> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+120879,k,0,tahu pong,dasar,
+,,,,,
+120880,k,0,tahu sama tahu,dasar,
+,,,,,
+120881,k,0,tahu siksa,dasar,
+,,,,,
+120882,k,0,tahu sumedang,dasar,
+,,,,,
+120883,k,0,tahu susu,dasar,
+,,,,,
+120884,k,0,tahu sutra,dasar,
+,,,,,
+120885,k,0,tahu takwa,dasar,
+,,,,,
+120886,k,0,tahu tek,dasar,
+,,,,,
+120887,k,0,tahu walik,dasar,
+,,,,,
+120888,k,65,tahu-menahu,dasar,
+120888.1,v,,<tahu> [-] [meng-:me-] + <r>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [24] [RD] |meng-
+,,,,,
+120889,k,140,tahu-tahu,dasar,
+120889.1,v,,<tahu> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+120890,v,4,tahu-tahunya,dasar,
+120890.1,x,,<tahu> [-] <r> + -nya,bentukan,[23] [RD] |
+120890.2,v,,<tahu> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+120891,k,0,tahuda,dasar,
+,,,,,
+120892,v,204,tahukah,dasar,
+120892.1,v,,<tahu> + -kah,bentukan,[30] [FS] -kah + (<all>)
+,,,,,
+120893,v,25,tahukan,dasar,
+120893.1,v,,<tahu> + -kan,bentukan,[29] [S] -kan + (<all>)
+120893.2,x,,<tahuk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+120894,v,69,tahulah,dasar,
+120894.1,v,,<tahu> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+120895,k,0,tahuli,dasar,
+120895.1,x,,<tahul> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+120896,k,0,tahuman,dasar,
+120896.1,x,,<tahum> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+120897,k,22099,tahun,dasar,
+,,,,,
+120898,k,0,tahun ajaran,dasar,
+120898.1,x,,<tahun ajar> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+120899,k,0,tahun akademi,dasar,
+120899.1,x,,<tahun akadem> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+120900,k,0,tahun anggaran,dasar,
+120900.1,x,,<tahun anggar> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+120901,k,0,tahun baru,dasar,
+,,,,,
+120902,k,0,tahun baruan,dasar,
+120902.1,x,,<tahun baru> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+120903,k,0,tahun basah,dasar,
+,,,,,
+120904,k,0,tahun berjalan,dasar,
+120904.1,x,,<tahun berjal> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+120905,k,0,tahun bulan,dasar,
+120905.1,x,,<tahun bul> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+120906,k,0,tahun cahaya,dasar,
+,,,,,
+120907,k,0,tahun dasar,dasar,
+,,,,,
+120908,k,0,tahun fiskal,dasar,
+,,,,,
+120909,k,0,tahun geofisika internasional,dasar,
+,,,,,
+120910,k,0,tahun hidrologi,dasar,
+120910.1,x,,<tahun hidrolog> + -i,bentukan,[28] [S] -i + (<all>)
+120910.2,x,,<tahun hidro> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+120911,k,0,tahun hijriah,dasar,
+120911.1,x,,<tahun hijr> + -iah,bentukan,[175] [S] -iah + (<others>)
+,,,,,
+120912,k,0,tahun iklim,dasar,
+,,,,,
+120913,k,0,tahun jagung,dasar,
+,,,,,
+120914,k,0,tahun kabisat,dasar,
+,,,,,
+120915,k,0,tahun kamariah,dasar,
+120915.1,x,,<tahun kamar> + -iah,bentukan,[175] [S] -iah + (<others>)
+,,,,,
+120916,k,0,tahun kering,dasar,
+,,,,,
+120917,k,0,tahun kutub,dasar,
+,,,,,
+120918,k,0,tahun lazim,dasar,
+,,,,,
+120919,k,0,tahun masehi,dasar,
+120919.1,x,,<tahun maseh> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+120920,k,0,tahun matahari,dasar,
+120920.1,x,,<tahun matahar> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+120921,k,0,tahun panjang,dasar,
+,,,,,
+120922,k,0,tahun qamariah,dasar,
+120922.1,x,,<tahun qamar> + -iah,bentukan,[175] [S] -iah + (<others>)
+,,,,,
+120923,k,0,tahun saka,dasar,
+,,,,,
+120924,k,0,tahun syamsiah,dasar,
+120924.1,x,,<tahun syams> + -iah,bentukan,[175] [S] -iah + (<others>)
+,,,,,
+120925,k,0,tahun takwim,dasar,
+,,,,,
+120926,k,0,tahun wada,dasar,
+,,,,,
+120927,v,660,tahun-tahun,dasar,
+120927.1,v,,<tahun> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+120928,k,1587,tahunan,dasar,
+120928.1,v,,<tahun> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+120929,v,27,tahunku,dasar,
+120929.1,v,,<tahun> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+120930,v,758,tahunnya,dasar,
+120930.1,v,,<tahun> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+120931,v,90,tahunya,dasar,
+120931.1,v,,<tahu> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+120932,t,4,tahyul,dasar,takhayul
+,,,,,
+120933,c,69,tai,dasar,tahi
+120933.1,x,,<ta> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+120934,k,4,taib,dasar,
+,,,,,
+120935,k,0,taici,dasar,
+120935.1,x,,<taic> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+120936,k,3,taifun,dasar,
+,,,,,
+120937,k,3,taiga,dasar,
+,,,,,
+120938,t,10,taik,dasar,tahi
+,,,,,
+120939,k,0,taikat,dasar,
+,,,,,
+120940,k,0,taiko,dasar,
+,,,,,
+120941,k,0,taikonaut,dasar,
+,,,,,
+120942,k,18,taipan,dasar,
+120942.1,x,,<taip> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+120943,t,46,taipei,dasar,taipan
+120943.1,x,,<taipe> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+120944,k,0,tais,dasar,
+120944.1,x,,<tai> + [-is:-s],bentukan,[177] [S] -is + (i)
+120944.2,x,,<ta> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+120945,k,0,taiso,dasar,
+,,,,,
+120946,v,329,taiwan,dasar,
+120946.1,x,,<taiw> + -an,bentukan,[38] [S] -an + (<all>)
+120946.2,x,,<tai> + -wan,bentukan,[180] [S] -wan + (<others>)
+,,,,,
+120947,k,0,taja,dasar,
+,,,,,
+120948,k,0,tajaan,dasar,
+120948.1,v,,<taja> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+120949,k,6,tajak,dasar,
+,,,,,
+120950,k,0,tajak kebat,dasar,
+,,,,,
+120951,k,3,tajali,dasar,
+120951.1,x,,<tajal> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+120952,k,1302,tajam,dasar,
+,,,,,
+120953,k,0,tajam mata,dasar,
+,,,,,
+120954,k,0,tajam mulut,dasar,
+,,,,,
+120955,k,0,tajam otak,dasar,
+,,,,,
+120956,k,0,tajam pikiran,dasar,
+120956.1,x,,<tajam pikir> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+120957,k,0,tajam selera,dasar,
+,,,,,
+120958,k,0,tajam siasat,dasar,
+,,,,,
+120959,k,0,tajam tilik,dasar,
+,,,,,
+120960,v,13,tajam-tajam,dasar,
+120960.1,v,,<tajam> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+120961,v,5,tajamkan,dasar,
+120961.1,v,,<tajam> + -kan,bentukan,[29] [S] -kan + (<all>)
+120961.2,x,,<tajamk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+120962,v,2,tajamku,dasar,
+120962.1,v,,<tajam> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+120963,v,47,tajamnya,dasar,
+120963.1,v,,<tajam> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+120964,k,0,tajarud,dasar,
+,,,,,
+120965,k,0,tajau,dasar,
+,,,,,
+120966,k,0,tajdid,dasar,
+,,,,,
+120967,k,3,tajen,dasar,
+,,,,,
+120968,k,23,taji,dasar,
+120968.1,x,,<taj> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+120969,k,0,taji tiruan,dasar,
+120969.1,x,,<taji tiru> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+120970,k,6,tajik,dasar,
+,,,,,
+120971,k,7,tajikistan,dasar,
+120971.1,x,,<tajikist> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+120972,k,6,tajin,dasar,
+,,,,,
+120973,v,7,tajinya,dasar,
+120973.1,v,,<taji> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+120973.2,x,,<taj> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+120974,k,0,tajio,dasar,
+,,,,,
+120975,k,20,tajir,dasar,
+,,,,,
+120976,k,0,tajnis,dasar,
+120976.1,x,,<tajni> + [-is:-s],bentukan,[177] [S] -is + (i)
+120976.2,x,,<tajn> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+120977,k,0,tajribah,dasar,
+,,,,,
+120978,c,2,taju,dasar,tajuk
+,,,,,
+120979,k,0,taju paruh gagak,dasar,
+,,,,,
+120980,k,125,tajuk,dasar,
+,,,,,
+120981,k,0,tajuk berita,dasar,
+,,,,,
+120982,k,0,tajuk hutan,dasar,
+120982.1,x,,<tajuk hut> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+120983,k,0,tajuk mahkota,dasar,
+,,,,,
+120984,k,0,tajuk rawal,dasar,
+,,,,,
+120985,k,0,tajuk rencana,dasar,
+,,,,,
+120986,k,0,tajuk surat,dasar,
+,,,,,
+120987,v,2,tajuk-tajuk,dasar,
+120987.1,v,,<tajuk> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+120988,v,5,tajuknya,dasar,
+120988.1,v,,<tajuk> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+120989,k,0,tajung,dasar,
+,,,,,
+120990,k,11,tajur,dasar,
+,,,,,
+120991,k,0,tajusalatin,dasar,
+,,,,,
+120992,k,0,tajwid,dasar,
+,,,,,
+120993,k,13301,tak,dasar,
+,,,,,
+120994,k,0,tak acuh (acuh tak acuh),dasar,
+,,,,,
+120995,k,0,tak apa,dasar,
+,,,,,
+120996,k,0,tak segan,dasar,
+120996.1,x,,<tak seg> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+120997,k,0,tak segan-segan,dasar,
+120997.1,x,,<tak segan-seg> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+120998,k,0,tak suang-suang (tak suang-suangnya),dasar,
+,,,,,
+120999,k,12,taka,dasar,
+120999.1,x,,tak- + <a>,bentukan,[90] tak- + (<all>)
+,,,,,
+121000,k,0,takabadi,dasar,
+121000.1,v,,tak- + <abadi>,bentukan,[90] tak- + (<all>)
+121000.2,x,,<takabad> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+121001,k,0,takabnormal,dasar,
+121001.1,v,,tak- + <abnormal>,bentukan,[90] tak- + (<all>)
+,,,,,
+121002,k,0,takabsah,dasar,
+121002.1,v,,tak- + <absah>,bentukan,[90] tak- + (<all>)
+,,,,,
+121003,k,28,takabur,dasar,
+121003.1,x,,tak- + <abur>,bentukan,[90] tak- + (<all>)
+,,,,,
+121004,k,0,takacuh,dasar,
+121004.1,v,,tak- + <acuh>,bentukan,[90] tak- + (<all>)
+,,,,,
+121005,k,17,takada,dasar,
+121005.1,v,,tak- + <ada>,bentukan,[90] tak- + (<all>)
+,,,,,
+121006,k,0,takadab,dasar,
+121006.1,v,,tak- + <adab>,bentukan,[90] tak- + (<all>)
+,,,,,
+121007,k,0,takadekuat,dasar,
+121007.1,v,,tak- + <adekuat>,bentukan,[90] tak- + (<all>)
+,,,,,
+121008,k,0,takadil,dasar,
+121008.1,v,,tak- + <adil>,bentukan,[90] tak- + (<all>)
+,,,,,
+121009,k,0,takaditif,dasar,
+121009.1,v,,tak- + <aditif>,bentukan,[90] tak- + (<all>)
+,,,,,
+121010,k,7,takaful,dasar,
+121010.1,x,,tak- + <aful>,bentukan,[90] tak- + (<all>)
+,,,,,
+121011,k,0,takah,dasar,
+121011.1,x,,tak- + <ah>,bentukan,[90] tak- + (<all>)
+121011.2,x,,<ta> + -kah,bentukan,[30] [FS] -kah + (<all>)
+,,,,,
+121012,k,0,takah-takahnya,dasar,
+121012.1,x,,<takah> [-] <r> + -nya,bentukan,[23] [RD] |
+121012.2,x,,tak- + <ah> [-] tak- + <r> + -nya,bentukan,[90] tak- + (<all>) => [23] [RD] |
+121012.3,x,,<ta> + -kah [-] <r> + -kah + -nya,bentukan,[30] [FS] -kah + (<all>) => [23] [RD] |
+121012.4,v,,<takah> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+121012.5,x,,tak- + <ah> [-] tak- + <r> + -nya,bentukan,[90] tak- + (<all>) => [23] [RD] | => [34] [SFS] -nya + (<all>)
+121012.6,x,,<ta> + -kah [-] <r> + -kah + -nya,bentukan,[30] [FS] -kah + (<all>) => [23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+121013,k,0,takahli,dasar,
+121013.1,v,,tak- + <ahli>,bentukan,[90] tak- + (<all>)
+121013.2,x,,<takahl> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+121014,k,0,takak,dasar,
+121014.1,x,,tak- + <ak>,bentukan,[90] tak- + (<all>)
+,,,,,
+121015,k,0,takakrab,dasar,
+121015.1,v,,tak- + <akrab>,bentukan,[90] tak- + (<all>)
+,,,,,
+121016,k,0,takaktif,dasar,
+121016.1,v,,tak- + <aktif>,bentukan,[90] tak- + (<all>)
+,,,,,
+121017,k,0,takaktual,dasar,
+121017.1,v,,tak- + <aktual>,bentukan,[90] tak- + (<all>)
+,,,,,
+121018,k,0,takakur,dasar,
+121018.1,v,,tak- + <akur>,bentukan,[90] tak- + (<all>)
+,,,,,
+121019,k,0,takakurat,dasar,
+121019.1,v,,tak- + <akurat>,bentukan,[90] tak- + (<all>)
+,,,,,
+121020,k,0,takal,dasar,
+121020.1,x,,tak- + <al>,bentukan,[90] tak- + (<all>)
+,,,,,
+121021,k,0,takalami,dasar,
+121021.1,v,,tak- + <alami>,bentukan,[90] tak- + (<all>)
+121021.2,x,,<takalam> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+121022,k,36,takalar,dasar,
+121022.1,x,,tak- + <alar>,bentukan,[90] tak- + (<all>)
+,,,,,
+121023,k,0,takaman,dasar,
+121023.1,x,,tak- + <aman>,bentukan,[90] tak- + (<all>)
+121023.2,x,,<takam> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+121024,k,0,takandal,dasar,
+121024.1,v,,tak- + <andal>,bentukan,[90] tak- + (<all>)
+,,,,,
+121025,k,0,takang-takik,dasar,
+121025.1,x,,<[takik:takang-takik]>,bentukan,[Reduplication-Rhyming]
+,,,,,
+121026,k,0,takangkuh,dasar,
+121026.1,v,,tak- + <angkuh>,bentukan,[90] tak- + (<all>)
+,,,,,
+121027,k,28,takar,dasar,
+121027.1,x,,tak- + <ar>,bentukan,[90] tak- + (<all>)
+,,,,,
+121028,k,104,takaran,dasar,
+121028.1,x,,tak- + <aran>,bentukan,[90] tak- + (<all>)
+121028.2,v,,<takar> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+121029,k,0,takaran ambang,dasar,
+121029.1,x,,tak- + <aran ambang>,bentukan,[90] tak- + (<all>)
+,,,,,
+121030,k,0,takaran kehidupan,dasar,
+121030.1,x,,tak- + <aran kehidupan>,bentukan,[90] tak- + (<all>)
+121030.2,x,,<takaran kehidup> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+121031,v,2,takaran-takaran,dasar,
+121031.1,x,,<takaran> [-] <r>,bentukan,[23] [RD] |
+121031.2,x,,tak- + <aran> [-] tak- + <r>,bentukan,[90] tak- + (<all>) => [23] [RD] |
+121031.3,v,,<takar> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+121032,v,13,takarannya,dasar,
+121032.1,x,,tak- + <arannya>,bentukan,[90] tak- + (<all>)
+121032.2,x,,<takaran> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+121032.3,x,,tak- + <aran> + -nya,bentukan,[90] tak- + (<all>) => [34] [SFS] -nya + (<all>)
+121032.4,v,,<takar> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+121033,k,0,takarif,dasar,
+121033.1,v,,tak- + <arif>,bentukan,[90] tak- + (<all>)
+,,,,,
+121034,k,0,takarir,dasar,
+121034.1,x,,tak- + <arir>,bentukan,[90] tak- + (<all>)
+,,,,,
+121035,k,0,takarir gambar,dasar,
+121035.1,x,,tak- + <arir gambar>,bentukan,[90] tak- + (<all>)
+,,,,,
+121036,k,0,takarub,dasar,
+121036.1,x,,tak- + <arub>,bentukan,[90] tak- + (<all>)
+,,,,,
+121037,k,0,takasli,dasar,
+121037.1,v,,tak- + <asli>,bentukan,[90] tak- + (<all>)
+121037.2,x,,<takasl> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+121038,v,2,takat,dasar,
+121038.1,x,,tak- + <at>,bentukan,[90] tak- + (<all>)
+,,,,,
+121039,k,0,takat layu,dasar,
+121039.1,x,,tak- + <at layu>,bentukan,[90] tak- + (<all>)
+,,,,,
+121040,k,0,takautentik,dasar,
+121040.1,v,,tak- + <autentik>,bentukan,[90] tak- + (<all>)
+,,,,,
+121041,k,0,takaw,dasar,
+121041.1,x,,tak- + <aw>,bentukan,[90] tak- + (<all>)
+,,,,,
+121042,k,0,takawas,dasar,
+121042.1,v,,tak- + <awas>,bentukan,[90] tak- + (<all>)
+,,,,,
+121043,k,0,takbahagia,dasar,
+121043.1,v,,tak- + <bahagia>,bentukan,[90] tak- + (<all>)
+,,,,,
+121044,k,0,takbaik,dasar,
+121044.1,v,,tak- + <baik>,bentukan,[90] tak- + (<all>)
+,,,,,
+121045,k,0,takbebas,dasar,
+121045.1,v,,tak- + <bebas>,bentukan,[90] tak- + (<all>)
+,,,,,
+121046,k,0,takbenar,dasar,
+121046.1,v,,tak- + <benar>,bentukan,[90] tak- + (<all>)
+,,,,,
+121047,k,13,takbenda,dasar,
+121047.1,v,,tak- + <benda>,bentukan,[90] tak- + (<all>)
+,,,,,
+121048,k,0,takbengang,dasar,
+121048.1,v,,tak- + <bengang>,bentukan,[90] tak- + (<all>)
+,,,,,
+121049,k,0,takberada,dasar,
+121049.1,v,,tak- + <berada>,bentukan,[90] tak- + (<all>)
+,,,,,
+121050,k,0,takberadab,dasar,
+121050.1,v,,tak- + <beradab>,bentukan,[90] tak- + (<all>)
+,,,,,
+121051,k,0,takberakar,dasar,
+121051.1,v,,tak- + <berakar>,bentukan,[90] tak- + (<all>)
+,,,,,
+121052,k,0,takberakhir,dasar,
+121052.1,v,,tak- + <berakhir>,bentukan,[90] tak- + (<all>)
+,,,,,
+121053,k,0,takberalas,dasar,
+121053.1,v,,tak- + <beralas>,bentukan,[90] tak- + (<all>)
+,,,,,
+121054,k,4,takberani,dasar,
+121054.1,v,,tak- + <berani>,bentukan,[90] tak- + (<all>)
+121054.2,x,,<takberan> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+121055,k,0,takberarti,dasar,
+121055.1,v,,tak- + <berarti>,bentukan,[90] tak- + (<all>)
+121055.2,x,,<takberart> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+121056,k,0,takberatur,dasar,
+121056.1,v,,tak- + <beratur>,bentukan,[90] tak- + (<all>)
+,,,,,
+121057,k,3,takberdaya,dasar,
+121057.1,v,,tak- + <berdaya>,bentukan,[90] tak- + (<all>)
+,,,,,
+121058,k,0,takberes,dasar,
+121058.1,v,,tak- + <beres>,bentukan,[90] tak- + (<all>)
+,,,,,
+121059,k,0,takberfungsi,dasar,
+121059.1,v,,tak- + <berfungsi>,bentukan,[90] tak- + (<all>)
+121059.2,x,,<takberfungs> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+121060,k,0,takberharga,dasar,
+121060.1,v,,tak- + <berharga>,bentukan,[90] tak- + (<all>)
+,,,,,
+121061,k,0,takberhingga,dasar,
+121061.1,v,,tak- + <berhingga>,bentukan,[90] tak- + (<all>)
+,,,,,
+121062,k,0,takberkah,dasar,
+121062.1,v,,tak- + <berkah>,bentukan,[90] tak- + (<all>)
+121062.2,x,,<takber> + -kah,bentukan,[30] [FS] -kah + (<all>)
+121062.3,x,,tak- + <ber> + -kah,bentukan,[90] tak- + (<all>) => [30] [FS] -kah + (<all>)
+,,,,,
+121063,v,2,takbernyawa,dasar,
+121063.1,v,,tak- + <bernyawa>,bentukan,[90] tak- + (<all>)
+,,,,,
+121064,k,0,takberpihak,dasar,
+121064.1,v,,tak- + <berpihak>,bentukan,[90] tak- + (<all>)
+,,,,,
+121065,v,4,takbersalah,dasar,
+121065.1,v,,tak- + <bersalah>,bentukan,[90] tak- + (<all>)
+121065.2,x,,<takbersa> + -lah,bentukan,[31] [FS] -lah + (<all>)
+121065.3,x,,tak- + <bersa> + -lah,bentukan,[90] tak- + (<all>) => [31] [FS] -lah + (<all>)
+,,,,,
+121066,k,0,takbersih,dasar,
+121066.1,v,,tak- + <bersih>,bentukan,[90] tak- + (<all>)
+,,,,,
+121067,k,0,takbersuara,dasar,
+121067.1,v,,tak- + <bersuara>,bentukan,[90] tak- + (<all>)
+,,,,,
+121068,v,2,takberubah,dasar,
+121068.1,v,,tak- + <berubah>,bentukan,[90] tak- + (<all>)
+,,,,,
+121069,k,0,takberuntung,dasar,
+121069.1,v,,tak- + <beruntung>,bentukan,[90] tak- + (<all>)
+,,,,,
+121070,v,2,takberwujud,dasar,
+121070.1,v,,tak- + <berwujud>,bentukan,[90] tak- + (<all>)
+,,,,,
+121071,k,0,takbetul,dasar,
+121071.1,v,,tak- + <betul>,bentukan,[90] tak- + (<all>)
+,,,,,
+121072,k,0,takbiasa,dasar,
+121072.1,v,,tak- + <biasa>,bentukan,[90] tak- + (<all>)
+,,,,,
+121073,k,0,takbijak,dasar,
+121073.1,v,,tak- + <bijak>,bentukan,[90] tak- + (<all>)
+,,,,,
+121074,k,0,takbil,dasar,
+121074.1,x,,tak- + <bil>,bentukan,[90] tak- + (<all>)
+,,,,,
+121075,k,0,takbinasa,dasar,
+121075.1,v,,tak- + <binasa>,bentukan,[90] tak- + (<all>)
+,,,,,
+121076,v,69,takbir,dasar,
+121076.1,x,,tak- + <bir>,bentukan,[90] tak- + (<all>)
+,,,,,
+121077,v,32,takbiran,dasar,
+121077.1,x,,tak- + <biran>,bentukan,[90] tak- + (<all>)
+121077.2,v,,<takbir> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+121078,k,0,takbiratulihram,dasar,
+121078.1,x,,tak- + <biratulihram>,bentukan,[90] tak- + (<all>)
+,,,,,
+121079,v,3,takbirnya,dasar,
+121079.1,x,,tak- + <birnya>,bentukan,[90] tak- + (<all>)
+121079.2,v,,<takbir> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+121079.3,x,,tak- + <bir> + -nya,bentukan,[90] tak- + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+121080,k,9,takbisa,dasar,
+121080.1,v,,tak- + <bisa>,bentukan,[90] tak- + (<all>)
+,,,,,
+121081,k,10,takboleh,dasar,
+121081.1,v,,tak- + <boleh>,bentukan,[90] tak- + (<all>)
+,,,,,
+121082,k,0,takbutuh,dasar,
+121082.1,v,,tak- + <butuh>,bentukan,[90] tak- + (<all>)
+,,,,,
+121083,k,0,takcair,dasar,
+121083.1,v,,tak- + <cair>,bentukan,[90] tak- + (<all>)
+,,,,,
+121084,k,0,takcakap,dasar,
+121084.1,v,,tak- + <cakap>,bentukan,[90] tak- + (<all>)
+,,,,,
+121085,k,0,takcampur,dasar,
+121085.1,v,,tak- + <campur>,bentukan,[90] tak- + (<all>)
+,,,,,
+121086,k,0,takcanda,dasar,
+121086.1,v,,tak- + <canda>,bentukan,[90] tak- + (<all>)
+121086.2,x,,<takca> + [-anda:-nda],bentukan,[183] [S] -anda + (i;u;a;[k:])
+121086.3,x,,<takcan> + [-anda:-da],bentukan,[184] [S] -anda + (an)
+121086.4,x,,<takc> + -anda,bentukan,[185] [S] -anda + (<others>)
+,,,,,
+121087,k,0,takcanggih,dasar,
+121087.1,v,,tak- + <canggih>,bentukan,[90] tak- + (<all>)
+,,,,,
+121088,k,0,takcanggung,dasar,
+121088.1,v,,tak- + <canggung>,bentukan,[90] tak- + (<all>)
+,,,,,
+121089,k,0,takcantik,dasar,
+121089.1,v,,tak- + <cantik>,bentukan,[90] tak- + (<all>)
+,,,,,
+121090,k,0,takcerah,dasar,
+121090.1,v,,tak- + <cerah>,bentukan,[90] tak- + (<all>)
+,,,,,
+121091,k,0,takcerdas,dasar,
+121091.1,v,,tak- + <cerdas>,bentukan,[90] tak- + (<all>)
+,,,,,
+121092,k,0,takcerdik,dasar,
+121092.1,v,,tak- + <cerdik>,bentukan,[90] tak- + (<all>)
+,,,,,
+121093,k,0,takceria,dasar,
+121093.1,v,,tak- + <ceria>,bentukan,[90] tak- + (<all>)
+,,,,,
+121094,k,0,takcermat,dasar,
+121094.1,v,,tak- + <cermat>,bentukan,[90] tak- + (<all>)
+,,,,,
+121095,k,0,takcinta,dasar,
+121095.1,v,,tak- + <cinta>,bentukan,[90] tak- + (<all>)
+,,,,,
+121096,k,0,takcocok,dasar,
+121096.1,v,,tak- + <cocok>,bentukan,[90] tak- + (<all>)
+,,,,,
+121097,k,2,takcukup,dasar,
+121097.1,v,,tak- + <cukup>,bentukan,[90] tak- + (<all>)
+,,,,,
+121098,v,8,takdapat,dasar,
+121098.1,v,,tak- + <dapat>,bentukan,[90] tak- + (<all>)
+,,,,,
+121099,k,0,takdatang,dasar,
+121099.1,v,,tak- + <datang>,bentukan,[90] tak- + (<all>)
+,,,,,
+121100,k,0,takdaya,dasar,
+121100.1,v,,tak- + <daya>,bentukan,[90] tak- + (<all>)
+,,,,,
+121101,k,0,takdekat,dasar,
+121101.1,v,,tak- + <dekat>,bentukan,[90] tak- + (<all>)
+,,,,,
+121102,v,2,takdikenal,dasar,
+121102.1,v,,tak- + <dikenal>,bentukan,[90] tak- + (<all>)
+,,,,,
+121103,k,314,takdir,dasar,
+121103.1,x,,tak- + <dir>,bentukan,[90] tak- + (<all>)
+,,,,,
+121104,k,0,takdir ilahi,dasar,
+121104.1,x,,tak- + <dir ilahi>,bentukan,[90] tak- + (<all>)
+121104.2,x,,<takdir ilah> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+121105,v,17,takdirku,dasar,
+121105.1,x,,tak- + <dirku>,bentukan,[90] tak- + (<all>)
+121105.2,v,,<takdir> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+121105.3,x,,tak- + <dir> + -ku,bentukan,[90] tak- + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+121106,v,11,takdirmu,dasar,
+121106.1,x,,tak- + <dirmu>,bentukan,[90] tak- + (<all>)
+121106.2,v,,<takdir> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+121106.3,x,,tak- + <dir> + -mu,bentukan,[90] tak- + (<all>) => [33] [SFS] -mu + (<all>)
+,,,,,
+121107,v,35,takdirnya,dasar,
+121107.1,x,,tak- + <dirnya>,bentukan,[90] tak- + (<all>)
+121107.2,v,,<takdir> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+121107.3,x,,tak- + <dir> + -nya,bentukan,[90] tak- + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+121108,k,0,takdis,dasar,
+121108.1,x,,tak- + <dis>,bentukan,[90] tak- + (<all>)
+121108.2,x,,<takdi> + [-is:-s],bentukan,[177] [S] -is + (i)
+121108.3,x,,<takd> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+121109,k,0,takdisiplin,dasar,
+121109.1,v,,tak- + <disiplin>,bentukan,[90] tak- + (<all>)
+,,,,,
+121110,k,0,takefektif,dasar,
+121110.1,v,,tak- + <efektif>,bentukan,[90] tak- + (<all>)
+,,,,,
+121111,k,0,takefisien,dasar,
+121111.1,v,,tak- + <efisien>,bentukan,[90] tak- + (<all>)
+,,,,,
+121112,k,0,takegois,dasar,
+121112.1,v,,tak- + <egois>,bentukan,[90] tak- + (<all>)
+121112.2,x,,<takegoi> + [-is:-s],bentukan,[177] [S] -is + (i)
+121112.3,x,,<takego> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+121113,k,0,takeh,dasar,
+121113.1,x,,tak- + <eh>,bentukan,[90] tak- + (<all>)
+,,,,,
+121114,k,0,takel,dasar,
+121114.1,x,,tak- + <el>,bentukan,[90] tak- + (<all>)
+,,,,,
+121115,k,2,takenak,dasar,
+121115.1,v,,tak- + <enak>,bentukan,[90] tak- + (<all>)
+,,,,,
+121116,v,15,takengon,dasar,
+121116.1,x,,tak- + <engon>,bentukan,[90] tak- + (<all>)
+,,,,,
+121117,k,0,takepan,dasar,
+121117.1,x,,tak- + <epan>,bentukan,[90] tak- + (<all>)
+121117.2,x,,<takep> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+121118,t,11,taker,dasar,takar
+121118.1,x,,tak- + <er>,bentukan,[90] tak- + (<all>)
+,,,,,
+121119,t,5,takeran,dasar,takaran
+121119.1,x,,tak- + <eran>,bentukan,[90] tak- + (<all>)
+121119.2,v,,<taker> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+121120,k,0,takeyari,dasar,
+121120.1,x,,tak- + <eyari>,bentukan,[90] tak- + (<all>)
+121120.2,x,,<takeyar> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+121121,k,0,takfiri,dasar,
+121121.1,x,,tak- + <firi>,bentukan,[90] tak- + (<all>)
+121121.2,x,,<takfir> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+121122,k,0,takfokus,dasar,
+121122.1,v,,tak- + <fokus>,bentukan,[90] tak- + (<all>)
+,,,,,
+121123,k,0,takhadir,dasar,
+121123.1,v,,tak- + <hadir>,bentukan,[90] tak- + (<all>)
+,,,,,
+121124,k,0,takharmonis,dasar,
+121124.1,v,,tak- + <harmonis>,bentukan,[90] tak- + (<all>)
+121124.2,x,,<takharmoni> + [-is:-s],bentukan,[177] [S] -is + (i)
+121124.3,x,,<takharmon> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+121125,k,31,takhayul,dasar,
+121125.1,x,,tak- + <hayul>,bentukan,[90] tak- + (<all>)
+,,,,,
+121126,k,0,takhlik,dasar,
+,,,,,
+121127,k,0,takhsis,dasar,
+121127.1,x,,<takhsi> + [-is:-s],bentukan,[177] [S] -is + (i)
+121127.2,x,,<takhs> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+121128,k,77,takhta,dasar,
+,,,,,
+121129,k,0,takhta kerajaan,dasar,
+121129.1,x,,<takhta keraja> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+121130,k,0,takhta suci vatikan,dasar,
+121130.1,x,,<takhta suci vati> + -kan,bentukan,[29] [S] -kan + (<all>)
+121130.2,x,,<takhta suci vatik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+121131,k,0,taki,dasar,
+121131.1,x,,tak- + <i>,bentukan,[90] tak- + (<all>)
+121131.2,x,,<tak> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+121132,k,0,takigen,dasar,
+121132.1,x,,tak- + <igen>,bentukan,[90] tak- + (<all>)
+,,,,,
+121133,k,0,takigenesis,dasar,
+121133.1,x,,tak- + <igenesis>,bentukan,[90] tak- + (<all>)
+121133.2,x,,<takigenesi> + [-is:-s],bentukan,[177] [S] -is + (i)
+121133.3,x,,<takigenes> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+121134,k,0,takigrafi,dasar,
+121134.1,x,,tak- + <igrafi>,bentukan,[90] tak- + (<all>)
+121134.2,x,,<takigraf> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+121135,k,4,takik,dasar,
+121135.1,x,,tak- + <ik>,bentukan,[90] tak- + (<all>)
+,,,,,
+121136,k,0,takik telinga,dasar,
+121136.1,x,,tak- + <ik telinga>,bentukan,[90] tak- + (<all>)
+,,,,,
+121137,k,0,takikan,dasar,
+121137.1,x,,tak- + <ikan>,bentukan,[90] tak- + (<all>)
+121137.2,x,,<taki> + -kan,bentukan,[29] [S] -kan + (<all>)
+121137.3,v,,<takik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+121138,k,4,takikardi,dasar,
+121138.1,x,,tak- + <ikardi>,bentukan,[90] tak- + (<all>)
+121138.2,x,,<takikard> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+121139,k,4,takikardia,dasar,
+121139.1,x,,tak- + <ikardia>,bentukan,[90] tak- + (<all>)
+,,,,,
+121140,k,0,takimeter,dasar,
+121140.1,x,,tak- + <imeter>,bentukan,[90] tak- + (<all>)
+121140.2,x,,<taki> + -meter,bentukan,[189] [S] -meter + (<all>)
+,,,,,
+121141,k,42,taking,dasar,
+121141.1,x,,tak- + <ing>,bentukan,[90] tak- + (<all>)
+,,,,,
+121142,k,0,takingin,dasar,
+121142.1,v,,tak- + <ingin>,bentukan,[90] tak- + (<all>)
+,,,,,
+121143,k,0,takipnea,dasar,
+121143.1,x,,tak- + <ipnea>,bentukan,[90] tak- + (<all>)
+,,,,,
+121144,k,3,takir,dasar,
+121144.1,x,,tak- + <ir>,bentukan,[90] tak- + (<all>)
+,,,,,
+121145,k,0,takisme,dasar,
+121145.1,x,,tak- + <isme>,bentukan,[90] tak- + (<all>)
+121145.2,x,,<tak> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+121146,k,3,takjelas,dasar,
+121146.1,v,,tak- + <jelas>,bentukan,[90] tak- + (<all>)
+,,,,,
+121147,k,0,takjenuh,dasar,
+121147.1,v,,tak- + <jenuh>,bentukan,[90] tak- + (<all>)
+,,,,,
+121148,k,11,takjil,dasar,
+121148.1,x,,tak- + <jil>,bentukan,[90] tak- + (<all>)
+,,,,,
+121149,t,5,takjim,dasar,takzim
+121149.1,x,,tak- + <jim>,bentukan,[90] tak- + (<all>)
+,,,,,
+121150,k,217,takjub,dasar,
+121150.1,x,,tak- + <jub>,bentukan,[90] tak- + (<all>)
+,,,,,
+121151,v,4,takkalah,dasar,
+121151.1,x,,tak- + <kalah>,bentukan,[90] tak- + (<all>)
+121151.2,x,,<takka> + -lah,bentukan,[31] [FS] -lah + (<all>)
+121151.3,x,,tak- + <ka> + -lah,bentukan,[90] tak- + (<all>) => [31] [FS] -lah + (<all>)
+,,,,,
+121152,v,222,takkan,dasar,
+121152.1,x,,tak- + <kan>,bentukan,[90] tak- + (<all>)
+121152.2,v,,<tak> + -kan,bentukan,[29] [S] -kan + (<all>)
+121152.3,x,,<takk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+121153,k,0,takkonsisten,dasar,
+121153.1,v,,tak- + <konsisten>,bentukan,[90] tak- + (<all>)
+,,,,,
+121154,v,2,takkuasa,dasar,
+121154.1,v,,tak- + <kuasa>,bentukan,[90] tak- + (<all>)
+,,,,,
+121155,v,4,takkurang,dasar,
+121155.1,v,,tak- + <kurang>,bentukan,[90] tak- + (<all>)
+,,,,,
+121156,v,5,taklama,dasar,
+121156.1,v,,tak- + <lama>,bentukan,[90] tak- + (<all>)
+,,,,,
+121157,v,2,taklangsung,dasar,
+121157.1,v,,tak- + <langsung>,bentukan,[90] tak- + (<all>)
+,,,,,
+121158,k,0,taklayak,dasar,
+121158.1,v,,tak- + <layak>,bentukan,[90] tak- + (<all>)
+,,,,,
+121159,k,0,taklengkap,dasar,
+121159.1,v,,tak- + <lengkap>,bentukan,[90] tak- + (<all>)
+,,,,,
+121160,k,10,taklid,dasar,
+121160.1,x,,tak- + <lid>,bentukan,[90] tak- + (<all>)
+,,,,,
+121161,k,0,taklid buta,dasar,
+121161.1,x,,tak- + <lid buta>,bentukan,[90] tak- + (<all>)
+,,,,,
+121162,k,0,taklif,dasar,
+121162.1,x,,tak- + <lif>,bentukan,[90] tak- + (<all>)
+,,,,,
+121163,k,4,taklik,dasar,
+121163.1,x,,tak- + <lik>,bentukan,[90] tak- + (<all>)
+,,,,,
+121164,k,0,taklik talak,dasar,
+121164.1,x,,tak- + <lik talak>,bentukan,[90] tak- + (<all>)
+,,,,,
+121165,k,0,taklikat,dasar,
+121165.1,x,,tak- + <likat>,bentukan,[90] tak- + (<all>)
+,,,,,
+121166,k,57,taklim,dasar,
+121166.1,x,,tak- + <lim>,bentukan,[90] tak- + (<all>)
+,,,,,
+121167,k,17,taklimat,dasar,
+121167.1,x,,tak- + <limat>,bentukan,[90] tak- + (<all>)
+,,,,,
+121168,v,4,taklimnya,dasar,
+121168.1,x,,tak- + <limnya>,bentukan,[90] tak- + (<all>)
+121168.2,v,,<taklim> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+121168.3,x,,tak- + <lim> + -nya,bentukan,[90] tak- + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+121169,k,146,takluk,dasar,
+121169.1,x,,tak- + <luk>,bentukan,[90] tak- + (<all>)
+,,,,,
+121170,k,11,taklukan,dasar,
+121170.1,x,,tak- + <lukan>,bentukan,[90] tak- + (<all>)
+121170.2,x,,<taklu> + -kan,bentukan,[29] [S] -kan + (<all>)
+121170.3,v,,<takluk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+121171,v,3,taklukannya,dasar,
+121171.1,x,,tak- + <lukannya>,bentukan,[90] tak- + (<all>)
+121171.2,x,,<taklukan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+121171.3,x,,tak- + <lukan> + -nya,bentukan,[90] tak- + (<all>) => [34] [SFS] -nya + (<all>)
+121171.4,x,,<taklu> + -kan + -nya,bentukan,[29] [S] -kan + (<all>) => [34] [SFS] -nya + (<all>)
+121171.5,v,,<takluk> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+121172,v,13,taklukkan,dasar,
+121172.1,x,,tak- + <lukkan>,bentukan,[90] tak- + (<all>)
+121172.2,v,,<takluk> + -kan,bentukan,[29] [S] -kan + (<all>)
+121172.3,x,,<taklukk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+121173,k,0,taklulus,dasar,
+121173.1,v,,tak- + <lulus>,bentukan,[90] tak- + (<all>)
+,,,,,
+121174,k,0,taklurus,dasar,
+121174.1,v,,tak- + <lurus>,bentukan,[90] tak- + (<all>)
+,,,,,
+121175,k,0,takma,dasar,
+121175.1,x,,tak- + <ma>,bentukan,[90] tak- + (<all>)
+,,,,,
+121176,v,2,takmakan,dasar,
+121176.1,v,,tak- + <makan>,bentukan,[90] tak- + (<all>)
+121176.2,x,,<takma> + -kan,bentukan,[29] [S] -kan + (<all>)
+121176.3,x,,<takmak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+121177,k,0,takmaklum,dasar,
+121177.1,v,,tak- + <maklum>,bentukan,[90] tak- + (<all>)
+,,,,,
+121178,v,8,takmampu,dasar,
+121178.1,v,,tak- + <mampu>,bentukan,[90] tak- + (<all>)
+,,,,,
+121179,k,0,takmantap,dasar,
+121179.1,v,,tak- + <mantap>,bentukan,[90] tak- + (<all>)
+,,,,,
+121180,k,0,takmapan,dasar,
+121180.1,v,,tak- + <mapan>,bentukan,[90] tak- + (<all>)
+121180.2,x,,<takmap> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+121181,v,2,takmasalah,dasar,
+121181.1,v,,tak- + <masalah>,bentukan,[90] tak- + (<all>)
+121181.2,x,,<takmasa> + -lah,bentukan,[31] [FS] -lah + (<all>)
+121181.3,x,,tak- + <masa> + -lah,bentukan,[90] tak- + (<all>) => [31] [FS] -lah + (<all>)
+,,,,,
+121182,v,7,takmau,dasar,
+121182.1,v,,tak- + <mau>,bentukan,[90] tak- + (<all>)
+,,,,,
+121183,v,2,takmemiliki,dasar,
+121183.1,v,,tak- + <memiliki>,bentukan,[90] tak- + (<all>)
+121183.2,x,,<takmemilik> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+121184,v,2,takmengapa,dasar,
+121184.1,v,,tak- + <mengapa>,bentukan,[90] tak- + (<all>)
+,,,,,
+121185,v,5,takmengerti,dasar,
+121185.1,v,,tak- + <mengerti>,bentukan,[90] tak- + (<all>)
+121185.2,x,,<takmengert> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+121186,k,17,takmir,dasar,
+121186.1,x,,tak- + <mir>,bentukan,[90] tak- + (<all>)
+,,,,,
+121187,k,0,takmir masjid,dasar,
+121187.1,x,,tak- + <mir masjid>,bentukan,[90] tak- + (<all>)
+,,,,,
+121188,k,0,takmu,dasar,
+121188.1,x,,tak- + <mu>,bentukan,[90] tak- + (<all>)
+121188.2,x,,<tak> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+,,,,,
+121189,k,6,takmungkin,dasar,
+121189.1,v,,tak- + <mungkin>,bentukan,[90] tak- + (<all>)
+,,,,,
+121190,k,0,takmurni,dasar,
+121190.1,v,,tak- + <murni>,bentukan,[90] tak- + (<all>)
+121190.2,x,,<takmurn> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+121191,k,0,takmurnian,dasar,
+121191.1,v,,tak- + <murnian>,bentukan,[90] tak- + (<all>)
+121191.2,x,,<takmurni> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+121192,k,0,takmurnian kimia,dasar,
+121192.1,x,,tak- + <murnian kimia>,bentukan,[90] tak- + (<all>)
+,,,,,
+121193,k,0,takmurnian magnetik,dasar,
+121193.1,x,,tak- + <murnian magnetik>,bentukan,[90] tak- + (<all>)
+,,,,,
+121194,k,0,takmurnian pewarna,dasar,
+121194.1,x,,tak- + <murnian pewarna>,bentukan,[90] tak- + (<all>)
+,,,,,
+121195,t,3,taknampak,dasar,taktampak
+121195.1,v,,tak- + <nampak>,bentukan,[90] tak- + (<all>)
+,,,,,
+121196,k,0,taknetral,dasar,
+121196.1,v,,tak- + <netral>,bentukan,[90] tak- + (<all>)
+,,,,,
+121197,k,0,taknormal,dasar,
+121197.1,v,,tak- + <normal>,bentukan,[90] tak- + (<all>)
+,,,,,
+121198,k,2,taknyaman,dasar,
+121198.1,v,,tak- + <nyaman>,bentukan,[90] tak- + (<all>)
+121198.2,x,,<taknyam> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+121199,k,0,taknyata,dasar,
+121199.1,v,,tak- + <nyata>,bentukan,[90] tak- + (<all>)
+,,,,,
+121200,k,0,takoah,dasar,
+121200.1,x,,tak- + <oah>,bentukan,[90] tak- + (<all>)
+,,,,,
+121201,k,0,takobjektif,dasar,
+121201.1,v,,tak- + <objektif>,bentukan,[90] tak- + (<all>)
+,,,,,
+121202,k,0,takofobia,dasar,
+121202.1,x,,tak- + <ofobia>,bentukan,[90] tak- + (<all>)
+121202.2,x,,<tako> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+121203,k,0,takokak,dasar,
+121203.1,x,,tak- + <okak>,bentukan,[90] tak- + (<all>)
+,,,,,
+121204,k,0,takol,dasar,
+121204.1,x,,tak- + <ol>,bentukan,[90] tak- + (<all>)
+,,,,,
+121205,k,2,takometer,dasar,
+121205.1,x,,tak- + <ometer>,bentukan,[90] tak- + (<all>)
+121205.2,x,,<tako> + -meter,bentukan,[189] [S] -meter + (<all>)
+,,,,,
+121206,k,0,takometer fotoelektrik,dasar,
+121206.1,x,,tak- + <ometer fotoelektrik>,bentukan,[90] tak- + (<all>)
+,,,,,
+121207,k,0,takometer mekanis,dasar,
+121207.1,x,,tak- + <ometer mekanis>,bentukan,[90] tak- + (<all>)
+121207.2,x,,<takometer mekani> + [-is:-s],bentukan,[177] [S] -is + (i)
+121207.3,x,,<takometer mekan> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+121208,k,0,takometer tangan,dasar,
+121208.1,x,,tak- + <ometer tangan>,bentukan,[90] tak- + (<all>)
+121208.2,x,,<takometer tang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+121209,k,0,takoyaki,dasar,
+121209.1,x,,tak- + <oyaki>,bentukan,[90] tak- + (<all>)
+121209.2,x,,<takoyak> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+121210,k,0,takpadan,dasar,
+121210.1,v,,tak- + <padan>,bentukan,[90] tak- + (<all>)
+121210.2,x,,<takpad> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+121211,k,0,takpaham,dasar,
+121211.1,v,,tak- + <paham>,bentukan,[90] tak- + (<all>)
+,,,,,
+121212,v,2,takpandai,dasar,
+121212.1,v,,tak- + <pandai>,bentukan,[90] tak- + (<all>)
+121212.2,x,,<takpanda> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+121213,k,0,takpantas,dasar,
+121213.1,v,,tak- + <pantas>,bentukan,[90] tak- + (<all>)
+,,,,,
+121214,k,0,takpasti,dasar,
+121214.1,v,,tak- + <pasti>,bentukan,[90] tak- + (<all>)
+121214.2,x,,<takpast> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+121215,k,0,takpatuh,dasar,
+121215.1,v,,tak- + <patuh>,bentukan,[90] tak- + (<all>)
+,,,,,
+121216,k,0,takpatut,dasar,
+121216.1,v,,tak- + <patut>,bentukan,[90] tak- + (<all>)
+,,,,,
+121217,k,4,takpeduli,dasar,
+121217.1,v,,tak- + <peduli>,bentukan,[90] tak- + (<all>)
+121217.2,x,,<takpedul> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+121218,k,0,takpeka,dasar,
+121218.1,v,,tak- + <peka>,bentukan,[90] tak- + (<all>)
+,,,,,
+121219,k,2,takpercaya,dasar,
+121219.1,v,,tak- + <percaya>,bentukan,[90] tak- + (<all>)
+,,,,,
+121220,v,4,takperlu,dasar,
+121220.1,v,,tak- + <perlu>,bentukan,[90] tak- + (<all>)
+,,,,,
+121221,v,11,takpernah,dasar,
+121221.1,v,,tak- + <pernah>,bentukan,[90] tak- + (<all>)
+,,,,,
+121222,k,0,takpraktis,dasar,
+121222.1,v,,tak- + <praktis>,bentukan,[90] tak- + (<all>)
+121222.2,x,,<takprakti> + [-is:-s],bentukan,[177] [S] -is + (i)
+121222.3,x,,<takprakt> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+121223,k,0,takpuas,dasar,
+121223.1,v,,tak- + <puas>,bentukan,[90] tak- + (<all>)
+,,,,,
+121224,v,2,takpunya,dasar,
+121224.1,v,,tak- + <punya>,bentukan,[90] tak- + (<all>)
+121224.2,x,,<takpu> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+121224.3,x,,tak- + <pu> + -nya,bentukan,[90] tak- + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+121225,k,0,takrasional,dasar,
+121225.1,v,,tak- + <rasional>,bentukan,[90] tak- + (<all>)
+,,,,,
+121226,k,13,takraw,dasar,
+121226.1,x,,tak- + <raw>,bentukan,[90] tak- + (<all>)
+,,,,,
+121227,k,0,takrif,dasar,
+121227.1,x,,tak- + <rif>,bentukan,[90] tak- + (<all>)
+,,,,,
+121228,k,0,takrim,dasar,
+121228.1,x,,tak- + <rim>,bentukan,[90] tak- + (<all>)
+,,,,,
+121229,k,0,takrir,dasar,
+121229.1,x,,tak- + <rir>,bentukan,[90] tak- + (<all>)
+,,,,,
+121230,k,12,taksa,dasar,
+121230.1,x,,tak- + <sa>,bentukan,[90] tak- + (<all>)
+,,,,,
+121231,k,0,taksabar,dasar,
+121231.1,v,,tak- + <sabar>,bentukan,[90] tak- + (<all>)
+,,,,,
+121232,k,2,taksadar,dasar,
+121232.1,v,,tak- + <sadar>,bentukan,[90] tak- + (<all>)
+,,,,,
+121233,k,2,taksaka,dasar,
+121233.1,x,,tak- + <saka>,bentukan,[90] tak- + (<all>)
+,,,,,
+121234,k,3,taksalah,dasar,
+121234.1,v,,tak- + <salah>,bentukan,[90] tak- + (<all>)
+121234.2,x,,<taksa> + -lah,bentukan,[31] [FS] -lah + (<all>)
+121234.3,x,,tak- + <sa> + -lah,bentukan,[90] tak- + (<all>) => [31] [FS] -lah + (<all>)
+,,,,,
+121235,k,0,taksama,dasar,
+121235.1,v,,tak- + <sama>,bentukan,[90] tak- + (<all>)
+,,,,,
+121236,v,2,taksampai,dasar,
+121236.1,v,,tak- + <sampai>,bentukan,[90] tak- + (<all>)
+121236.2,x,,<taksampa> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+121237,k,2,taksanggup,dasar,
+121237.1,v,,tak- + <sanggup>,bentukan,[90] tak- + (<all>)
+,,,,,
+121238,k,12,taksasi,dasar,
+121238.1,x,,tak- + <sasi>,bentukan,[90] tak- + (<all>)
+121238.2,x,,<taksas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+121239,k,0,taksasi pajak,dasar,
+121239.1,x,,tak- + <sasi pajak>,bentukan,[90] tak- + (<all>)
+,,,,,
+121240,v,2,taksedikit,dasar,
+121240.1,v,,tak- + <sedikit>,bentukan,[90] tak- + (<all>)
+,,,,,
+121241,k,0,takseimbang,dasar,
+121241.1,v,,tak- + <seimbang>,bentukan,[90] tak- + (<all>)
+,,,,,
+121242,k,0,takselaras,dasar,
+121242.1,v,,tak- + <selaras>,bentukan,[90] tak- + (<all>)
+,,,,,
+121243,k,0,taksem,dasar,
+121243.1,x,,tak- + <sem>,bentukan,[90] tak- + (<all>)
+,,,,,
+121244,v,4,taksempat,dasar,
+121244.1,v,,tak- + <sempat>,bentukan,[90] tak- + (<all>)
+,,,,,
+121245,k,0,taksempurna,dasar,
+121245.1,v,,tak- + <sempurna>,bentukan,[90] tak- + (<all>)
+,,,,,
+121246,k,0,taksenang,dasar,
+121246.1,v,,tak- + <senang>,bentukan,[90] tak- + (<all>)
+,,,,,
+121247,k,0,taksengaja,dasar,
+121247.1,v,,tak- + <sengaja>,bentukan,[90] tak- + (<all>)
+,,,,,
+121248,k,0,taksenonoh,dasar,
+121248.1,v,,tak- + <senonoh>,bentukan,[90] tak- + (<all>)
+,,,,,
+121249,k,0,taksepadan,dasar,
+121249.1,v,,tak- + <sepadan>,bentukan,[90] tak- + (<all>)
+121249.2,x,,<taksepad> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+121250,v,2,takseperti,dasar,
+121250.1,v,,tak- + <seperti>,bentukan,[90] tak- + (<all>)
+121250.2,x,,<taksepert> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+121251,k,0,taksesuai,dasar,
+121251.1,v,,tak- + <sesuai>,bentukan,[90] tak- + (<all>)
+121251.2,x,,<taksesua> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+121252,k,0,taksetara,dasar,
+121252.1,v,,tak- + <setara>,bentukan,[90] tak- + (<all>)
+,,,,,
+121253,k,0,taksetimbang,dasar,
+121253.1,v,,tak- + <setimbang>,bentukan,[90] tak- + (<all>)
+,,,,,
+121254,k,0,taksetuju,dasar,
+121254.1,v,,tak- + <setuju>,bentukan,[90] tak- + (<all>)
+,,,,,
+121255,k,308,taksi,dasar,
+121255.1,x,,tak- + <si>,bentukan,[90] tak- + (<all>)
+121255.2,x,,<taks> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+121256,k,0,taksi gelap,dasar,
+121256.1,x,,tak- + <si gelap>,bentukan,[90] tak- + (<all>)
+,,,,,
+121257,k,0,taksi liar,dasar,
+121257.1,x,,tak- + <si liar>,bentukan,[90] tak- + (<all>)
+,,,,,
+121258,k,0,taksi resmi,dasar,
+121258.1,x,,tak- + <si resmi>,bentukan,[90] tak- + (<all>)
+121258.2,x,,<taksi resm> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+121259,k,0,taksi udara,dasar,
+121259.1,x,,tak- + <si udara>,bentukan,[90] tak- + (<all>)
+,,,,,
+121260,v,2,taksi-taksi,dasar,
+121260.1,v,,<taksi> [-] <r>,bentukan,[23] [RD] |
+121260.2,x,,tak- + <si> [-] tak- + <r>,bentukan,[90] tak- + (<all>) => [23] [RD] |
+121260.3,x,,<taks> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+121261,k,0,taksidermi,dasar,
+121261.1,x,,tak- + <sidermi>,bentukan,[90] tak- + (<all>)
+121261.2,x,,<taksiderm> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+121262,k,0,taksidermis,dasar,
+121262.1,x,,tak- + <sidermis>,bentukan,[90] tak- + (<all>)
+121262.2,x,,<taksidermi> + [-is:-s],bentukan,[177] [S] -is + (i)
+121262.3,x,,<taksiderm> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+121263,v,2,taksiku,dasar,
+121263.1,v,,tak- + <siku>,bentukan,[90] tak- + (<all>)
+121263.2,v,,<taksi> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+121263.3,x,,tak- + <si> + -ku,bentukan,[90] tak- + (<all>) => [32] [SFS] -ku + (<all>)
+121263.4,x,,<taks> + -i + -ku,bentukan,[28] [S] -i + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+121264,k,0,taksimeter,dasar,
+121264.1,x,,tak- + <simeter>,bentukan,[90] tak- + (<all>)
+121264.2,v,,<taksi> + -meter,bentukan,[189] [S] -meter + (<all>)
+,,,,,
+121265,k,0,taksin,dasar,
+121265.1,x,,tak- + <sin>,bentukan,[90] tak- + (<all>)
+,,,,,
+121266,v,10,taksinya,dasar,
+121266.1,x,,tak- + <sinya>,bentukan,[90] tak- + (<all>)
+121266.2,v,,<taksi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+121266.3,x,,tak- + <si> + -nya,bentukan,[90] tak- + (<all>) => [34] [SFS] -nya + (<all>)
+121266.4,x,,<taks> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+121267,k,21,taksir,dasar,
+121267.1,x,,tak- + <sir>,bentukan,[90] tak- + (<all>)
+,,,,,
+121268,k,90,taksiran,dasar,
+121268.1,x,,tak- + <siran>,bentukan,[90] tak- + (<all>)
+121268.2,v,,<taksir> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+121269,v,2,taksiranku,dasar,
+121269.1,x,,tak- + <siranku>,bentukan,[90] tak- + (<all>)
+121269.2,x,,<taksiran> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+121269.3,x,,tak- + <siran> + -ku,bentukan,[90] tak- + (<all>) => [32] [SFS] -ku + (<all>)
+121269.4,v,,<taksir> + -an + -ku,bentukan,[38] [S] -an + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+121270,v,3,taksirannya,dasar,
+121270.1,x,,tak- + <sirannya>,bentukan,[90] tak- + (<all>)
+121270.2,x,,<taksiran> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+121270.3,x,,tak- + <siran> + -nya,bentukan,[90] tak- + (<all>) => [34] [SFS] -nya + (<all>)
+121270.4,v,,<taksir> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+121271,k,0,taksis,dasar,
+121271.1,x,,tak- + <sis>,bentukan,[90] tak- + (<all>)
+121271.2,x,,<taksi> + [-is:-s],bentukan,[177] [S] -is + (i)
+121271.3,x,,<taks> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+121272,k,0,taksis negatif,dasar,
+121272.1,x,,tak- + <sis negatif>,bentukan,[90] tak- + (<all>)
+,,,,,
+121273,k,0,taksis positif,dasar,
+121273.1,x,,tak- + <sis positif>,bentukan,[90] tak- + (<all>)
+,,,,,
+121274,k,0,taksologi,dasar,
+121274.1,x,,tak- + <sologi>,bentukan,[90] tak- + (<all>)
+121274.2,x,,<taksolog> + -i,bentukan,[28] [S] -i + (<all>)
+121274.3,x,,<takso> + -logi,bentukan,[190] [S] -logi + (<all>)

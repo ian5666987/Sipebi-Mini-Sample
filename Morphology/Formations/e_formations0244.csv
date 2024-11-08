@@ -1,0 +1,1283 @@
+Nomor,KP,Jumlah,Entri,Tipe,Pembentukan
+94942,k,0,pencapai,dasar,
+94942.1,v,,[peng-:pen-] + <capai>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+94942.2,x,,<pencapa> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+94943,k,1484,pencapaian,dasar,
+94943.1,v,,[peng-:pen-] + <capai> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+94943.2,x,,[peng-:pen-] + <capaian>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+94943.3,x,,<pencapai> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+94944,v,13,pencapaian-pencapaian,dasar,
+94944.1,x,,<pencapaian> [-] <r>,bentukan,[23] [RD] |
+94944.2,v,,[peng-:pen-] + <capai> + -an [-] [peng-:pen-] + <r> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an) => [23] [RD] |
+94944.3,x,,[peng-:pen-] + <capaian> [-] [peng-:pen-] + <r>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an) => [23] [RD] |
+94944.4,x,,<pencapai> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+94945,v,2,pencapaian-pencapaiannya,dasar,
+94945.1,x,,<pencapaian> [-] <r> + -nya,bentukan,[23] [RD] |
+94945.2,v,,[peng-:pen-] + <capai> + -an [-] [peng-:pen-] + <r> + -an + -nya,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an) => [23] [RD] |
+94945.3,x,,[peng-:pen-] + <capaian> [-] [peng-:pen-] + <r> + -nya,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an) => [23] [RD] |
+94945.4,x,,<pencapai> + -an [-] <r> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+94945.5,x,,<pencapaian> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+94945.6,x,,[peng-:pen-] + <capai> + -an [-] [peng-:pen-] + <r> + -an + -nya,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an) => [23] [RD] | => [34] [SFS] -nya + (<all>)
+94945.7,x,,[peng-:pen-] + <capaian> [-] [peng-:pen-] + <r> + -nya,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an) => [23] [RD] | => [34] [SFS] -nya + (<all>)
+94945.8,x,,<pencapai> + -an [-] <r> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+94946,v,2,pencapaianku,dasar,
+94946.1,x,,[peng-:pen-] + <capaianku>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+94946.2,x,,<pencapaian> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+94946.3,v,,[peng-:pen-] + <capai> + -an + -ku,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an) => [32] [SFS] -ku + (<all>)
+94946.4,x,,[peng-:pen-] + <capaian> + -ku,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an) => [32] [SFS] -ku + (<all>)
+94946.5,x,,<pencapai> + -an + -ku,bentukan,[38] [S] -an + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+94947,v,99,pencapaiannya,dasar,
+94947.1,x,,[peng-:pen-] + <capaiannya>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+94947.2,x,,<pencapaian> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+94947.3,v,,[peng-:pen-] + <capai> + -an + -nya,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an) => [34] [SFS] -nya + (<all>)
+94947.4,x,,[peng-:pen-] + <capaian> + -nya,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an) => [34] [SFS] -nya + (<all>)
+94947.5,x,,<pencapai> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+94948,v,2,pencapainya,dasar,
+94948.1,x,,[peng-:pen-] + <capainya>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+94948.2,x,,<pencapai> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+94948.3,v,,[peng-:pen-] + <capai> + -nya,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an) => [34] [SFS] -nya + (<all>)
+94948.4,x,,<pencapa> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+94949,d,0,pencapit,dasar,
+94949.1,v,,[peng-:pen-] + <capit>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+94950,k,0,pencaplok,dasar,
+94950.1,v,,[peng-:pen-] + <caplok>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+94951,k,18,pencaplokan,dasar,
+94951.1,v,,[peng-:pen-] + <caplok> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+94951.2,x,,[peng-:pen-] + <caplokan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+94951.3,x,,<pencaplo> + -kan,bentukan,[29] [S] -kan + (<all>)
+94951.4,x,,<pencaplok> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+94952,v,16,pencapresan,dasar,
+94952.1,v,,[peng-:pen-] + <capres> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+94952.2,x,,[peng-:pen-] + <capresan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+94952.3,x,,<pencapres> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+94953,k,2,pencar,dasar,
+94953.1,x,,[peng-:pen-] + <car>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+94954,k,0,pencarak,dasar,
+94954.1,v,,[peng-:pen-] + <carak>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+94955,k,350,pencari,dasar,
+94955.1,v,,[peng-:pen-] + <cari>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+94955.2,x,,<pencar> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+94956,k,740,pencarian,dasar,
+94956.1,v,,[peng-:pen-] + <cari> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+94956.2,x,,[peng-:pen-] + <carian>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+94956.3,x,,<pencari> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+94957,k,0,pencarian visual,dasar,
+94957.1,x,,[peng-:pen-] + <carian visual>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+94958,v,5,pencarianku,dasar,
+94958.1,x,,[peng-:pen-] + <carianku>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+94958.2,x,,<pencarian> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+94958.3,v,,[peng-:pen-] + <cari> + -an + -ku,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an) => [32] [SFS] -ku + (<all>)
+94958.4,x,,[peng-:pen-] + <carian> + -ku,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an) => [32] [SFS] -ku + (<all>)
+94958.5,x,,<pencari> + -an + -ku,bentukan,[38] [S] -an + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+94959,v,2,pencarianmu,dasar,
+94959.1,x,,[peng-:pen-] + <carianmu>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+94959.2,x,,<pencarian> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+94959.3,v,,[peng-:pen-] + <cari> + -an + -mu,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an) => [33] [SFS] -mu + (<all>)
+94959.4,x,,[peng-:pen-] + <carian> + -mu,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an) => [33] [SFS] -mu + (<all>)
+94959.5,x,,<pencari> + -an + -mu,bentukan,[38] [S] -an + (<all>) => [33] [SFS] -mu + (<all>)
+,,,,,
+94960,v,39,pencariannya,dasar,
+94960.1,x,,[peng-:pen-] + <cariannya>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+94960.2,x,,<pencarian> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+94960.3,v,,[peng-:pen-] + <cari> + -an + -nya,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an) => [34] [SFS] -nya + (<all>)
+94960.4,x,,[peng-:pen-] + <carian> + -nya,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an) => [34] [SFS] -nya + (<all>)
+94960.5,x,,<pencari> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+94961,v,2,pencarinya,dasar,
+94961.1,x,,[peng-:pen-] + <carinya>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+94961.2,x,,<pencari> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+94961.3,v,,[peng-:pen-] + <cari> + -nya,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an) => [34] [SFS] -nya + (<all>)
+94961.4,x,,<pencar> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+94962,k,0,pencarter,dasar,
+94962.1,v,,[peng-:pen-] + <carter>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+94963,k,0,pencarteran,dasar,
+94963.1,v,,[peng-:pen-] + <carter> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+94963.2,x,,[peng-:pen-] + <carteran>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+94963.3,x,,<pencarter> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+94964,k,0,pencarut,dasar,
+94964.1,v,,[peng-:pen-] + <carut>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+94965,k,63,pencatat,dasar,
+94965.1,v,,[peng-:pen-] + <catat>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+94966,k,0,pencatat getar,dasar,
+94966.1,x,,[peng-:pen-] + <catat getar>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+94967,k,0,pencatat hasil,dasar,
+94967.1,x,,[peng-:pen-] + <catat hasil>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+94968,k,0,pencatat nilai,dasar,
+94968.1,x,,[peng-:pen-] + <catat nilai>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+94968.2,x,,<pencatat nila> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+94969,k,765,pencatatan,dasar,
+94969.1,v,,[peng-:pen-] + <catat> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+94969.2,x,,[peng-:pen-] + <catatan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+94969.3,x,,<pencatat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+94970,k,0,pencatatan galat,dasar,
+94970.1,x,,[peng-:pen-] + <catatan galat>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+94971,v,15,pencatatannya,dasar,
+94971.1,x,,[peng-:pen-] + <catatannya>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+94971.2,x,,<pencatatan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+94971.3,v,,[peng-:pen-] + <catat> + -an + -nya,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an) => [34] [SFS] -nya + (<all>)
+94971.4,x,,[peng-:pen-] + <catatan> + -nya,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an) => [34] [SFS] -nya + (<all>)
+94971.5,x,,<pencatat> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+94972,v,3,pencatatatan,dasar,
+94972.1,x,,[peng-:pen-] + <catatat> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+94972.2,x,,[peng-:pen-] + <catatatan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+94972.3,x,,<pencatatat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+94973,k,2,pencatu,dasar,
+94973.1,v,,[peng-:pen-] + <catu>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+94974,k,0,pencatuan,dasar,
+94974.1,v,,[peng-:pen-] + <catu> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+94974.2,x,,[peng-:pen-] + <catuan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+94974.3,x,,<pencatu> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+94975,k,0,pencatut,dasar,
+94975.1,v,,[peng-:pen-] + <catut>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+94976,k,8,pencatutan,dasar,
+94976.1,v,,[peng-:pen-] + <catut> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+94976.2,x,,[peng-:pen-] + <catutan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+94976.3,x,,<pencatut> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+94977,k,0,pencebak,dasar,
+94977.1,v,,[peng-:pen-] + <cebak>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+94978,k,0,pencebakan,dasar,
+94978.1,v,,[peng-:pen-] + <cebak> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+94978.2,x,,[peng-:pen-] + <cebakan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+94978.3,x,,<penceba> + -kan,bentukan,[29] [S] -kan + (<all>)
+94978.4,x,,<pencebak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+94979,k,0,pencecak,dasar,
+94979.1,v,,[peng-:pen-] + <cecak>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+94980,k,2,pencederaan,dasar,
+94980.1,v,,[peng-:pen-] + <cedera> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+94980.2,x,,[peng-:pen-] + <cederaan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+94980.3,x,,<pencedera> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+94981,k,0,pencedok,dasar,
+94981.1,v,,[peng-:pen-] + <cedok>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+94982,k,58,pencegah,dasar,
+94982.1,v,,[peng-:pen-] + <cegah>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+94983,k,1666,pencegahan,dasar,
+94983.1,v,,[peng-:pen-] + <cegah> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+94983.2,x,,[peng-:pen-] + <cegahan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+94983.3,x,,<pencegah> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+94984,k,0,pencegahan pornografi,dasar,
+94984.1,x,,[peng-:pen-] + <cegahan pornografi>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+94984.2,x,,<pencegahan pornograf> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+94985,k,0,pencegahan primer,dasar,
+94985.1,x,,[peng-:pen-] + <cegahan primer>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+94986,k,0,pencegahan psikologis sekunder,dasar,
+94986.1,x,,[peng-:pen-] + <cegahan psikologis sekunder>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+94987,k,0,pencegahan residivistis,dasar,
+94987.1,x,,[peng-:pen-] + <cegahan residivistis>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+94987.2,x,,<pencegahan residivisti> + [-is:-s],bentukan,[177] [S] -is + (i)
+94987.3,x,,<pencegahan residivist> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+94988,v,40,pencegahannya,dasar,
+94988.1,x,,[peng-:pen-] + <cegahannya>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+94988.2,x,,<pencegahan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+94988.3,v,,[peng-:pen-] + <cegah> + -an + -nya,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an) => [34] [SFS] -nya + (<all>)
+94988.4,x,,[peng-:pen-] + <cegahan> + -nya,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an) => [34] [SFS] -nya + (<all>)
+94988.5,x,,<pencegah> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+94989,k,6,pencegatan,dasar,
+94989.1,v,,[peng-:pen-] + <cegat> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+94989.2,x,,[peng-:pen-] + <cegatan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+94989.3,x,,<pencegat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+94990,k,23,pencekalan,dasar,
+94990.1,v,,[peng-:pen-] + <cekal> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+94990.2,x,,[peng-:pen-] + <cekalan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+94990.3,x,,<pencekal> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+94991,k,0,pencekaman,dasar,
+94991.1,v,,[peng-:pen-] + <cekam> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+94991.2,x,,[peng-:pen-] + <cekaman>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+94991.3,x,,<pencekam> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+94992,k,2,pencekik,dasar,
+94992.1,v,,[peng-:pen-] + <cekik>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+94993,k,4,pencekikan,dasar,
+94993.1,v,,[peng-:pen-] + <cekik> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+94993.2,x,,[peng-:pen-] + <cekikan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+94993.3,x,,<penceki> + -kan,bentukan,[29] [S] -kan + (<all>)
+94993.4,x,,<pencekik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+94994,k,2,pencela,dasar,
+94994.1,v,,[peng-:pen-] + <cela>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+94995,k,0,pencelaan,dasar,
+94995.1,v,,[peng-:pen-] + <cela> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+94995.2,x,,[peng-:pen-] + <celaan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+94995.3,x,,<pencela> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+94996,k,0,pencelup,dasar,
+94996.1,v,,[peng-:pen-] + <celup>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+94997,k,15,pencelupan,dasar,
+94997.1,v,,[peng-:pen-] + <celup> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+94997.2,x,,[peng-:pen-] + <celupan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+94997.3,x,,<pencelup> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+94998,k,0,penceluran,dasar,
+94998.1,v,,[peng-:pen-] + <celur> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+94998.2,x,,[peng-:pen-] + <celuran>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+94998.3,x,,<pencelur> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+94999,k,49,pencemar,dasar,
+94999.1,v,,[peng-:pen-] + <cemar>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+95000,k,0,pencemar alamiah,dasar,
+95000.1,x,,[peng-:pen-] + <cemar alamiah>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95000.2,x,,<pencemar alam> + -iah,bentukan,[175] [S] -iah + (<others>)
+,,,,,
+95001,k,423,pencemaran,dasar,
+95001.1,v,,[peng-:pen-] + <cemar> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95001.2,x,,[peng-:pen-] + <cemaran>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95001.3,x,,<pencemar> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95002,d,0,pencemaran air,dasar,
+95002.1,x,,[peng-:pen-] + <cemaran air>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+95003,k,0,pencemaran lingkungan,dasar,
+95003.1,x,,[peng-:pen-] + <cemaran lingkung> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95003.2,x,,[peng-:pen-] + <cemaran lingkungan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95003.3,x,,<pencemaran lingkung> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95004,d,0,pencemaran udara,dasar,
+95004.1,x,,[peng-:pen-] + <cemaran udara>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+95005,v,4,pencemarannya,dasar,
+95005.1,x,,[peng-:pen-] + <cemarannya>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95005.2,x,,<pencemaran> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+95005.3,v,,[peng-:pen-] + <cemar> + -an + -nya,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an) => [34] [SFS] -nya + (<all>)
+95005.4,x,,[peng-:pen-] + <cemaran> + -nya,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an) => [34] [SFS] -nya + (<all>)
+95005.5,x,,<pencemar> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+95006,k,6,pencemas,dasar,
+95006.1,v,,[peng-:pen-] + <cemas>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+95007,k,10,pencemburu,dasar,
+95007.1,v,,[peng-:pen-] + <cemburu>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+95008,k,0,pencemeeh,dasar,
+95008.1,v,,[peng-:pen-] + <cemeeh>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+95009,k,0,pencemooh,dasar,
+95009.1,v,,[peng-:pen-] + <cemooh>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+95010,k,0,pencemplungan,dasar,
+95010.1,v,,[peng-:pen-] + <cemplung> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95010.2,x,,[peng-:pen-] + <cemplungan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95010.3,x,,<pencemplung> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95011,k,0,pencendekiaan,dasar,
+95011.1,v,,[peng-:pen-] + <cendekia> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95011.2,x,,[peng-:pen-] + <cendekiaan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95011.3,x,,<pencendekia> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95012,k,0,pencengkeram,dasar,
+95012.1,v,,[peng-:pen-] + <cengkeram>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+95013,k,0,pencengkeraman,dasar,
+95013.1,v,,[peng-:pen-] + <cengkeram> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95013.2,x,,[peng-:pen-] + <cengkeraman>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95013.3,x,,<pencengkeram> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95014,k,0,pencepatan,dasar,
+95014.1,v,,[peng-:pen-] + <cepat> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95014.2,x,,[peng-:pen-] + <cepatan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95014.3,x,,<pencepat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95015,k,0,penceracau,dasar,
+95015.1,v,,[peng-:pen-] + <ceracau>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+95016,k,27,pencerah,dasar,
+95016.1,v,,[peng-:pen-] + <cerah>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+95017,k,171,pencerahan,dasar,
+95017.1,v,,[peng-:pen-] + <cerah> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95017.2,x,,[peng-:pen-] + <cerahan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95017.3,x,,<pencerah> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95018,v,6,pencerahannya,dasar,
+95018.1,x,,[peng-:pen-] + <cerahannya>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95018.2,x,,<pencerahan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+95018.3,v,,[peng-:pen-] + <cerah> + -an + -nya,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an) => [34] [SFS] -nya + (<all>)
+95018.4,x,,[peng-:pen-] + <cerahan> + -nya,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an) => [34] [SFS] -nya + (<all>)
+95018.5,x,,<pencerah> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+95019,k,0,penceraian,dasar,
+95019.1,v,,[peng-:pen-] + <cerai> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95019.2,x,,[peng-:pen-] + <ceraian>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95019.3,x,,<pencerai> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95020,k,55,penceramah,dasar,
+95020.1,v,,[peng-:pen-] + <ceramah>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+95021,v,5,penceramahnya,dasar,
+95021.1,x,,[peng-:pen-] + <ceramahnya>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95021.2,x,,<penceramah> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+95021.3,v,,[peng-:pen-] + <ceramah> + -nya,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an) => [34] [SFS] -nya + (<all>)
+,,,,,
+95022,k,3,pencerapan,dasar,
+95022.1,v,,[peng-:pen-] + <cerap> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95022.2,x,,[peng-:pen-] + <cerapan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95022.3,x,,<pencerap> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95023,k,0,pencerca,dasar,
+95023.1,v,,[peng-:pen-] + <cerca>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+95024,k,25,pencerdasan,dasar,
+95024.1,v,,[peng-:pen-] + <cerdas> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95024.2,x,,[peng-:pen-] + <cerdasan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95024.3,x,,<pencerdas> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95025,k,0,penceriaan,dasar,
+95025.1,v,,[peng-:pen-] + <ceria> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95025.2,x,,[peng-:pen-] + <ceriaan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95025.3,x,,<penceria> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95026,k,25,pencerita,dasar,
+95026.1,v,,[peng-:pen-] + <cerita>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+95027,k,95,penceritaan,dasar,
+95027.1,v,,[peng-:pen-] + <cerita> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95027.2,x,,[peng-:pen-] + <ceritaan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95027.3,x,,<pencerita> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95028,v,25,penceritaannya,dasar,
+95028.1,x,,[peng-:pen-] + <ceritaannya>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95028.2,x,,<penceritaan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+95028.3,v,,[peng-:pen-] + <cerita> + -an + -nya,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an) => [34] [SFS] -nya + (<all>)
+95028.4,x,,[peng-:pen-] + <ceritaan> + -nya,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an) => [34] [SFS] -nya + (<all>)
+95028.5,x,,<pencerita> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+95029,v,2,penceritanya,dasar,
+95029.1,x,,[peng-:pen-] + <ceritanya>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95029.2,x,,<pencerita> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+95029.3,v,,[peng-:pen-] + <cerita> + -nya,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an) => [34] [SFS] -nya + (<all>)
+,,,,,
+95030,k,13,pencermatan,dasar,
+95030.1,v,,[peng-:pen-] + <cermat> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95030.2,x,,[peng-:pen-] + <cermatan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95030.3,x,,<pencermat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95031,k,42,pencerminan,dasar,
+95031.1,v,,[peng-:pen-] + <cermin> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95031.2,x,,[peng-:pen-] + <cerminan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95031.3,x,,<pencermin> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95032,k,0,pencerminan cakram,dasar,
+95032.1,x,,[peng-:pen-] + <cerminan cakram>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+95033,k,6,pencerna,dasar,
+95033.1,v,,[peng-:pen-] + <cerna>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+95034,k,230,pencernaan,dasar,
+95034.1,v,,[peng-:pen-] + <cerna> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95034.2,x,,[peng-:pen-] + <cernaan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95034.3,x,,<pencerna> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95035,k,23,pencet,dasar,
+95035.1,x,,[peng-:pen-] + <cet>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+95036,v,2,pencet-pencet,dasar,
+95036.1,v,,<pencet> [-] <r>,bentukan,[23] [RD] |
+95036.2,x,,[peng-:pen-] + <cet> [-] [peng-:pen-] + <r>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an) => [23] [RD] |
+,,,,,
+95037,k,114,pencetak,dasar,
+95037.1,v,,[peng-:pen-] + <cetak>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+95038,k,0,pencetak alpa,dasar,
+95038.1,x,,[peng-:pen-] + <cetak alpa>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+95039,k,0,pencetak dupleks,dasar,
+95039.1,x,,[peng-:pen-] + <cetak dupleks>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+95040,k,0,pencetak elektrostatis,dasar,
+95040.1,x,,[peng-:pen-] + <cetak elektrostatis>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95040.2,x,,<pencetak elektrostati> + [-is:-s],bentukan,[177] [S] -is + (i)
+95040.3,x,,<pencetak elektrostat> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+95041,k,0,pencetak gol,dasar,
+95041.1,x,,[peng-:pen-] + <cetak gol>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+95042,k,0,pencetak halaman,dasar,
+95042.1,x,,[peng-:pen-] + <cetak halam> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95042.2,x,,[peng-:pen-] + <cetak halaman>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95042.3,x,,<pencetak halam> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95043,k,0,pencetak huruf,dasar,
+95043.1,x,,[peng-:pen-] + <cetak huruf>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+95044,k,0,pencetak jaringan,dasar,
+95044.1,x,,[peng-:pen-] + <cetak jaring> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95044.2,x,,[peng-:pen-] + <cetak jaringan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95044.3,x,,<pencetak jaring> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95045,k,0,pencetak kualitas huruf,dasar,
+95045.1,x,,[peng-:pen-] + <cetak kualitas huruf>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+95046,k,0,pencetak label,dasar,
+95046.1,x,,[peng-:pen-] + <cetak label>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+95047,k,0,pencetak laser,dasar,
+95047.1,x,,[peng-:pen-] + <cetak laser>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+95048,k,0,pencetak matriks bintik,dasar,
+95048.1,x,,[peng-:pen-] + <cetak matriks bintik>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+95049,k,0,pencetak tumbukan,dasar,
+95049.1,x,,[peng-:pen-] + <cetak tumbuk> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95049.2,x,,[peng-:pen-] + <cetak tumbukan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95049.3,x,,<pencetak tumbu> + -kan,bentukan,[29] [S] -kan + (<all>)
+95049.4,x,,<pencetak tumbuk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95050,k,0,pencetak warna,dasar,
+95050.1,x,,[peng-:pen-] + <cetak warna>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+95051,k,141,pencetakan,dasar,
+95051.1,v,,[peng-:pen-] + <cetak> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95051.2,x,,[peng-:pen-] + <cetakan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95051.3,x,,<penceta> + -kan,bentukan,[29] [S] -kan + (<all>)
+95051.4,x,,<pencetak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95052,v,5,pencetakannya,dasar,
+95052.1,x,,[peng-:pen-] + <cetakannya>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95052.2,x,,<pencetakan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+95052.3,v,,[peng-:pen-] + <cetak> + -an + -nya,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an) => [34] [SFS] -nya + (<all>)
+95052.4,x,,[peng-:pen-] + <cetakan> + -nya,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an) => [34] [SFS] -nya + (<all>)
+95052.5,x,,<penceta> + -kan + -nya,bentukan,[29] [S] -kan + (<all>) => [34] [SFS] -nya + (<all>)
+95052.6,x,,<pencetak> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+95053,v,2,pencetaknya,dasar,
+95053.1,x,,[peng-:pen-] + <cetaknya>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95053.2,x,,<pencetak> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+95053.3,v,,[peng-:pen-] + <cetak> + -nya,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an) => [34] [SFS] -nya + (<all>)
+,,,,,
+95054,k,83,pencetus,dasar,
+95054.1,v,,[peng-:pen-] + <cetus>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+95055,k,3,pencetusan,dasar,
+95055.1,v,,[peng-:pen-] + <cetus> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95055.2,x,,[peng-:pen-] + <cetusan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95055.3,x,,<pencetus> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95056,v,14,pencetusnya,dasar,
+95056.1,x,,[peng-:pen-] + <cetusnya>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95056.2,x,,<pencetus> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+95056.3,v,,[peng-:pen-] + <cetus> + -nya,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an) => [34] [SFS] -nya + (<all>)
+,,,,,
+95057,v,2,pencibir,dasar,
+95057.1,v,,[peng-:pen-] + <cibir>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+95058,k,0,pencicil,dasar,
+95058.1,v,,[peng-:pen-] + <cicil>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+95059,k,0,pencicilan,dasar,
+95059.1,v,,[peng-:pen-] + <cicil> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95059.2,x,,[peng-:pen-] + <cicilan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95059.3,x,,<pencicil> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95060,v,5,pencicip,dasar,
+95060.1,v,,[peng-:pen-] + <cicip>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+95061,v,2,penciduk,dasar,
+95061.1,v,,[peng-:pen-] + <ciduk>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+95062,k,2,pencidukan,dasar,
+95062.1,v,,[peng-:pen-] + <ciduk> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95062.2,x,,[peng-:pen-] + <cidukan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95062.3,x,,<pencidu> + -kan,bentukan,[29] [S] -kan + (<all>)
+95062.4,x,,<penciduk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95063,k,19,pencil,dasar,
+95063.1,x,,[peng-:pen-] + <cil>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+95064,k,0,pencilok,dasar,
+95064.1,v,,[peng-:pen-] + <cilok>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+95065,k,0,pencincang,dasar,
+95065.1,v,,[peng-:pen-] + <cincang>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+95066,k,176,pencinta,dasar,
+95066.1,v,,[peng-:pen-] + <cinta>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+95067,v,4,pencintanya,dasar,
+95067.1,x,,[peng-:pen-] + <cintanya>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95067.2,x,,<pencinta> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+95067.3,v,,[peng-:pen-] + <cinta> + -nya,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an) => [34] [SFS] -nya + (<all>)
+,,,,,
+95068,k,277,pencipta,dasar,
+95068.1,v,,[peng-:pen-] + <cipta>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+95069,t,3,pencipta-nya,dasar,penciptanya
+,,,,,
+95070,k,510,penciptaan,dasar,
+95070.1,v,,[peng-:pen-] + <cipta> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95070.2,x,,[peng-:pen-] + <ciptaan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95070.3,x,,<pencipta> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95071,t,2,penciptaan-nya,dasar,penciptaannya
+,,,,,
+95072,v,2,penciptaan-penciptaan,dasar,
+95072.1,x,,<penciptaan> [-] <r>,bentukan,[23] [RD] |
+95072.2,v,,[peng-:pen-] + <cipta> + -an [-] [peng-:pen-] + <r> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an) => [23] [RD] |
+95072.3,x,,[peng-:pen-] + <ciptaan> [-] [peng-:pen-] + <r>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an) => [23] [RD] |
+95072.4,x,,<pencipta> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+95073,v,22,penciptaannya,dasar,
+95073.1,x,,[peng-:pen-] + <ciptaannya>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95073.2,x,,<penciptaan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+95073.3,v,,[peng-:pen-] + <cipta> + -an + -nya,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an) => [34] [SFS] -nya + (<all>)
+95073.4,x,,[peng-:pen-] + <ciptaan> + -nya,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an) => [34] [SFS] -nya + (<all>)
+95073.5,x,,<pencipta> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+95074,v,4,penciptamu,dasar,
+95074.1,x,,[peng-:pen-] + <ciptamu>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95074.2,x,,<pencipta> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+95074.3,v,,[peng-:pen-] + <cipta> + -mu,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an) => [33] [SFS] -mu + (<all>)
+,,,,,
+95075,v,62,penciptanya,dasar,
+95075.1,x,,[peng-:pen-] + <ciptanya>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95075.2,x,,<pencipta> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+95075.3,v,,[peng-:pen-] + <cipta> + -nya,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an) => [34] [SFS] -nya + (<all>)
+,,,,,
+95076,v,15,penciri,dasar,
+95076.1,v,,[peng-:pen-] + <ciri>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95076.2,x,,<pencir> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+95077,k,5,pencirian,dasar,
+95077.1,v,,[peng-:pen-] + <ciri> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95077.2,x,,[peng-:pen-] + <cirian>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95077.3,x,,<penciri> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95078,v,2,pencirinya,dasar,
+95078.1,x,,[peng-:pen-] + <cirinya>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95078.2,x,,<penciri> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+95078.3,v,,[peng-:pen-] + <ciri> + -nya,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an) => [34] [SFS] -nya + (<all>)
+95078.4,x,,<pencir> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+95079,k,175,pencitraan,dasar,
+95079.1,v,,[peng-:pen-] + <citra> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95079.2,x,,[peng-:pen-] + <citraan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95079.3,x,,<pencitra> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95080,k,0,pencitraan eidetik,dasar,
+95080.1,x,,[peng-:pen-] + <citraan eidetik>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+95081,k,0,pencitraan taknyeri,dasar,
+95081.1,x,,[peng-:pen-] + <citraan taknyeri>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95081.2,x,,<pencitraan taknyer> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+95082,k,4,pencium,dasar,
+95082.1,v,,[peng-:pen-] + <cium>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+95083,k,74,penciuman,dasar,
+95083.1,v,,[peng-:pen-] + <cium> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95083.2,x,,[peng-:pen-] + <ciuman>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95083.3,x,,<pencium> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95084,v,11,penciumanku,dasar,
+95084.1,x,,[peng-:pen-] + <ciumanku>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95084.2,x,,<penciuman> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+95084.3,v,,[peng-:pen-] + <cium> + -an + -ku,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an) => [32] [SFS] -ku + (<all>)
+95084.4,x,,[peng-:pen-] + <ciuman> + -ku,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an) => [32] [SFS] -ku + (<all>)
+95084.5,x,,<pencium> + -an + -ku,bentukan,[38] [S] -an + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+95085,v,2,penciumanmu,dasar,
+95085.1,x,,[peng-:pen-] + <ciumanmu>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95085.2,x,,<penciuman> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+95085.3,v,,[peng-:pen-] + <cium> + -an + -mu,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an) => [33] [SFS] -mu + (<all>)
+95085.4,x,,[peng-:pen-] + <ciuman> + -mu,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an) => [33] [SFS] -mu + (<all>)
+95085.5,x,,<pencium> + -an + -mu,bentukan,[38] [S] -an + (<all>) => [33] [SFS] -mu + (<all>)
+,,,,,
+95086,v,14,penciumannya,dasar,
+95086.1,x,,[peng-:pen-] + <ciumannya>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95086.2,x,,<penciuman> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+95086.3,v,,[peng-:pen-] + <cium> + -an + -nya,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an) => [34] [SFS] -nya + (<all>)
+95086.4,x,,[peng-:pen-] + <ciuman> + -nya,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an) => [34] [SFS] -nya + (<all>)
+95086.5,x,,<pencium> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+95087,k,0,penciut,dasar,
+95087.1,v,,[peng-:pen-] + <ciut>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+95088,k,18,penciutan,dasar,
+95088.1,v,,[peng-:pen-] + <ciut> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95088.2,x,,[peng-:pen-] + <ciutan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95088.3,x,,<penciut> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95089,k,0,pencoba,dasar,
+95089.1,v,,[peng-:pen-] + <coba>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+95090,k,2,pencobaan,dasar,
+95090.1,v,,[peng-:pen-] + <coba> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95090.2,x,,[peng-:pen-] + <cobaan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95090.3,x,,<pencoba> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95091,k,0,pencoblos,dasar,
+95091.1,v,,[peng-:pen-] + <coblos>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+95092,k,75,pencoblosan,dasar,
+95092.1,v,,[peng-:pen-] + <coblos> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95092.2,x,,[peng-:pen-] + <coblosan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95092.3,x,,<pencoblos> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95093,k,0,pencocok,dasar,
+95093.1,v,,[peng-:pen-] + <cocok>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+95094,k,41,pencocokan,dasar,
+95094.1,v,,[peng-:pen-] + <cocok> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95094.2,x,,[peng-:pen-] + <cocokan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95094.3,x,,<pencoco> + -kan,bentukan,[29] [S] -kan + (<all>)
+95094.4,x,,<pencocok> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95095,x,2,pencocokkan,dasar,
+95095.1,x,,[peng-:pen-] + <cocokk> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95095.2,x,,[peng-:pen-] + <cocokkan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95095.3,x,,<pencocok> + -kan,bentukan,[29] [S] -kan + (<all>)
+95095.4,x,,<pencocokk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95096,k,0,pencok,dasar,
+95096.1,x,,[peng-:pen-] + <cok>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+95097,k,0,pencokelatan,dasar,
+95097.1,v,,[peng-:pen-] + <cokelat> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95097.2,x,,[peng-:pen-] + <cokelatan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95097.3,x,,<pencokelat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95098,x,7,pencoklatan,dasar,
+95098.1,x,,[peng-:pen-] + <coklat> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95098.2,x,,[peng-:pen-] + <coklatan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95098.3,x,,<pencoklat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95099,k,0,pencolek,dasar,
+95099.1,v,,[peng-:pen-] + <colek>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+95100,k,0,pencolek api,dasar,
+95100.1,x,,[peng-:pen-] + <colek api>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95100.2,x,,<pencolek ap> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+95101,k,0,pencolekan,dasar,
+95101.1,v,,[peng-:pen-] + <colek> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95101.2,x,,[peng-:pen-] + <colekan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95101.3,x,,<pencole> + -kan,bentukan,[29] [S] -kan + (<all>)
+95101.4,x,,<pencolek> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95102,k,16,pencoleng,dasar,
+95102.1,v,,[peng-:pen-] + <coleng>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+95103,v,2,pencoleng-pencoleng,dasar,
+95103.1,x,,<pencoleng> [-] <r>,bentukan,[23] [RD] |
+95103.2,v,,[peng-:pen-] + <coleng> [-] [peng-:pen-] + <r>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an) => [23] [RD] |
+,,,,,
+95104,k,0,pencolengan,dasar,
+95104.1,v,,[peng-:pen-] + <coleng> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95104.2,x,,[peng-:pen-] + <colengan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95104.3,x,,<pencoleng> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95105,k,0,pencomel,dasar,
+95105.1,v,,[peng-:pen-] + <comel>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+95106,k,0,pencomelan,dasar,
+95106.1,v,,[peng-:pen-] + <comel> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95106.2,x,,[peng-:pen-] + <comelan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95106.3,x,,<pencomel> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95107,k,0,pencon,dasar,
+95107.1,x,,[peng-:pen-] + <con>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+95108,k,0,pencong,dasar,
+95108.1,x,,[peng-:pen-] + <cong>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+95109,d,0,pencongkel,dasar,
+95109.1,v,,[peng-:pen-] + <congkel>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+95110,d,0,pencongkelan,dasar,
+95110.1,v,,[peng-:pen-] + <congkel> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95110.2,x,,[peng-:pen-] + <congkelan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95110.3,x,,<pencongkel> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95111,k,23,pencopet,dasar,
+95111.1,v,,[peng-:pen-] + <copet>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+95112,k,7,pencopetan,dasar,
+95112.1,v,,[peng-:pen-] + <copet> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95112.2,x,,[peng-:pen-] + <copetan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95112.3,x,,<pencopet> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95113,k,0,pencopot,dasar,
+95113.1,v,,[peng-:pen-] + <copot>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+95114,k,45,pencopotan,dasar,
+95114.1,v,,[peng-:pen-] + <copot> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95114.2,x,,[peng-:pen-] + <copotan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95114.3,x,,<pencopot> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95115,v,2,pencopotannya,dasar,
+95115.1,x,,[peng-:pen-] + <copotannya>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95115.2,x,,<pencopotan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+95115.3,v,,[peng-:pen-] + <copot> + -an + -nya,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an) => [34] [SFS] -nya + (<all>)
+95115.4,x,,[peng-:pen-] + <copotan> + -nya,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an) => [34] [SFS] -nya + (<all>)
+95115.5,x,,<pencopot> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+95116,d,0,pencorat-coret,dasar,
+,,,,,
+95117,k,0,pencoreng,dasar,
+95117.1,v,,[peng-:pen-] + <coreng>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+95118,k,0,pencorengan,dasar,
+95118.1,v,,[peng-:pen-] + <coreng> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95118.2,x,,[peng-:pen-] + <corengan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95118.3,x,,<pencoreng> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95119,k,0,pencoret,dasar,
+95119.1,v,,[peng-:pen-] + <coret>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+95120,k,17,pencoretan,dasar,
+95120.1,v,,[peng-:pen-] + <coret> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95120.2,x,,[peng-:pen-] + <coretan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95120.3,x,,<pencoret> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95121,k,0,pencu,dasar,
+95121.1,x,,[peng-:pen-] + <cu>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+95122,k,0,pencuat,dasar,
+95122.1,v,,[peng-:pen-] + <cuat>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+95123,k,53,pencuci,dasar,
+95123.1,v,,[peng-:pen-] + <cuci>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95123.2,x,,<pencuc> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+95124,k,0,pencuci darah,dasar,
+95124.1,x,,[peng-:pen-] + <cuci darah>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+95125,k,0,pencuci muka,dasar,
+95125.1,x,,[peng-:pen-] + <cuci muka>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+95126,k,0,pencuci mulut,dasar,
+95126.1,x,,[peng-:pen-] + <cuci mulut>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+95127,k,0,pencuci perut,dasar,
+95127.1,x,,[peng-:pen-] + <cuci perut>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+95128,k,0,pencuci rambut,dasar,
+95128.1,x,,[peng-:pen-] + <cuci rambut>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+95129,k,0,pencuci tangan,dasar,
+95129.1,x,,[peng-:pen-] + <cuci tang> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95129.2,x,,[peng-:pen-] + <cuci tangan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95129.3,x,,<pencuci tang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95130,k,401,pencucian,dasar,
+95130.1,v,,[peng-:pen-] + <cuci> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95130.2,x,,[peng-:pen-] + <cucian>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95130.3,x,,<pencuci> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95131,k,0,pencucian uang,dasar,
+95131.1,x,,[peng-:pen-] + <cucian uang>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+95132,v,2,pencuciannya,dasar,
+95132.1,x,,[peng-:pen-] + <cuciannya>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95132.2,x,,<pencucian> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+95132.3,v,,[peng-:pen-] + <cuci> + -an + -nya,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an) => [34] [SFS] -nya + (<all>)
+95132.4,x,,[peng-:pen-] + <cucian> + -nya,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an) => [34] [SFS] -nya + (<all>)
+95132.5,x,,<pencuci> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+95133,k,0,pencucuran,dasar,
+95133.1,v,,[peng-:pen-] + <cucur> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95133.2,x,,[peng-:pen-] + <cucuran>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95133.3,x,,<pencucur> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95134,k,8,pencukil,dasar,
+95134.1,v,,[peng-:pen-] + <cukil>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+95135,k,0,pencukilan,dasar,
+95135.1,v,,[peng-:pen-] + <cukil> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95135.2,x,,[peng-:pen-] + <cukilan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95135.3,x,,<pencukil> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95136,v,2,pencukupan,dasar,
+95136.1,v,,[peng-:pen-] + <cukup> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95136.2,x,,[peng-:pen-] + <cukupan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95136.3,x,,<pencukup> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95137,k,7,pencukur,dasar,
+95137.1,v,,[peng-:pen-] + <cukur>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+95138,k,0,pencukuran,dasar,
+95138.1,v,,[peng-:pen-] + <cukur> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95138.2,x,,[peng-:pen-] + <cukuran>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95138.3,x,,<pencukur> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95139,k,38,penculik,dasar,
+95139.1,v,,[peng-:pen-] + <culik>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+95140,k,150,penculikan,dasar,
+95140.1,v,,[peng-:pen-] + <culik> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95140.2,x,,[peng-:pen-] + <culikan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95140.3,x,,<penculi> + -kan,bentukan,[29] [S] -kan + (<all>)
+95140.4,x,,<penculik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95141,v,3,penculikan-penculikan,dasar,
+95141.1,x,,<penculikan> [-] <r>,bentukan,[23] [RD] |
+95141.2,v,,[peng-:pen-] + <culik> + -an [-] [peng-:pen-] + <r> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an) => [23] [RD] |
+95141.3,x,,[peng-:pen-] + <culikan> [-] [peng-:pen-] + <r>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an) => [23] [RD] |
+95141.4,x,,<penculi> + -kan [-] <r> + -kan,bentukan,[29] [S] -kan + (<all>) => [23] [RD] |
+95141.5,x,,<penculik> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+95142,v,10,penculiknya,dasar,
+95142.1,x,,[peng-:pen-] + <culiknya>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95142.2,x,,<penculik> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+95142.3,v,,[peng-:pen-] + <culik> + -nya,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an) => [34] [SFS] -nya + (<all>)
+,,,,,
+95143,k,2,pencungkil,dasar,
+95143.1,v,,[peng-:pen-] + <cungkil>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+95144,k,0,pencungkil ban,dasar,
+95144.1,x,,[peng-:pen-] + <cungkil b> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95144.2,x,,[peng-:pen-] + <cungkil ban>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95144.3,x,,<pencungkil b> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95145,k,0,pencungkil gigi,dasar,
+95145.1,x,,[peng-:pen-] + <cungkil gigi>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95145.2,x,,<pencungkil gig> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+95146,k,0,pencuplik,dasar,
+95146.1,v,,[peng-:pen-] + <cuplik>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+95147,v,4,pencuplikan,dasar,
+95147.1,v,,[peng-:pen-] + <cuplik> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95147.2,x,,[peng-:pen-] + <cuplikan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95147.3,x,,<pencupli> + -kan,bentukan,[29] [S] -kan + (<all>)
+95147.4,x,,<pencuplik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95148,k,4,pencurahan,dasar,
+95148.1,v,,[peng-:pen-] + <curah> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95148.2,x,,[peng-:pen-] + <curahan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95148.3,x,,<pencurah> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95149,k,181,pencuri,dasar,
+95149.1,v,,[peng-:pen-] + <curi>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95149.2,x,,<pencur> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+95150,k,0,pencuri adegan,dasar,
+95150.1,x,,[peng-:pen-] + <curi adeg> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95150.2,x,,[peng-:pen-] + <curi adegan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95150.3,x,,<pencuri adeg> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95151,k,276,pencurian,dasar,
+95151.1,v,,[peng-:pen-] + <curi> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95151.2,x,,[peng-:pen-] + <curian>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95151.3,x,,<pencuri> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95152,k,0,pencurian informasi,dasar,
+95152.1,x,,[peng-:pen-] + <curian informasi>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95152.2,x,,<pencurian informas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+95153,k,0,pencurian melalui daring,dasar,
+95153.1,x,,[peng-:pen-] + <curian melalui daring>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+95154,v,4,pencuriga,dasar,
+95154.1,v,,[peng-:pen-] + <curiga>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+95155,v,12,pencurinya,dasar,
+95155.1,x,,[peng-:pen-] + <curinya>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95155.2,x,,<pencuri> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+95155.3,v,,[peng-:pen-] + <curi> + -nya,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an) => [34] [SFS] -nya + (<all>)
+95155.4,x,,<pencur> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+95156,k,0,pencut,dasar,
+95156.1,x,,[peng-:pen-] + <cut>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+,,,,,
+95157,k,4,penda,dasar,
+95157.1,x,,[peng-:pen-] + <da>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95157.2,x,,pe- + <nda>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+95158,k,2,pendaan,dasar,
+95158.1,x,,[peng-:pen-] + <da> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95158.2,x,,[peng-:pen-] + <daan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95158.3,x,,pe- + <nda> + -an,bentukan,[96] pe- + (<all>) + (-an)
+95158.4,x,,pe- + <ndaan>,bentukan,[96] pe- + (<all>) + (-an)
+95158.5,v,,<penda> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95159,k,0,pendabihan,dasar,
+95159.1,v,,[peng-:pen-] + <dabih> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95159.2,x,,[peng-:pen-] + <dabihan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95159.3,x,,pe- + <ndabih> + -an,bentukan,[96] pe- + (<all>) + (-an)
+95159.4,x,,pe- + <ndabihan>,bentukan,[96] pe- + (<all>) + (-an)
+95159.5,x,,<pendabih> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95160,k,0,pendadah,dasar,
+95160.1,v,,[peng-:pen-] + <dadah>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95160.2,x,,pe- + <ndadah>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+95161,k,0,pendadahan,dasar,
+95161.1,v,,[peng-:pen-] + <dadah> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95161.2,x,,[peng-:pen-] + <dadahan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95161.3,x,,pe- + <ndadah> + -an,bentukan,[96] pe- + (<all>) + (-an)
+95161.4,x,,pe- + <ndadahan>,bentukan,[96] pe- + (<all>) + (-an)
+95161.5,x,,<pendadah> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95162,k,0,pendadakan,dasar,
+95162.1,v,,[peng-:pen-] + <dadak> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95162.2,x,,[peng-:pen-] + <dadakan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95162.3,x,,pe- + <ndadak> + -an,bentukan,[96] pe- + (<all>) + (-an)
+95162.4,x,,pe- + <ndadakan>,bentukan,[96] pe- + (<all>) + (-an)
+95162.5,x,,<pendada> + -kan,bentukan,[29] [S] -kan + (<all>)
+95162.6,x,,<pendadak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95163,k,0,pendadaran,dasar,
+95163.1,v,,[peng-:pen-] + <dadar> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95163.2,x,,[peng-:pen-] + <dadaran>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95163.3,x,,pe- + <ndadar> + -an,bentukan,[96] pe- + (<all>) + (-an)
+95163.4,x,,pe- + <ndadaran>,bentukan,[96] pe- + (<all>) + (-an)
+95163.5,x,,<pendadar> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95164,k,0,pendaduk,dasar,
+95164.1,v,,[peng-:pen-] + <daduk>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95164.2,x,,pe- + <ndaduk>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+95165,k,208,pendaftar,dasar,
+95165.1,v,,[peng-:pen-] + <daftar>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95165.2,x,,pe- + <ndaftar>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+95166,x,5,pendaftaraan,dasar,
+95166.1,x,,[peng-:pen-] + <daftara> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95166.2,x,,[peng-:pen-] + <daftaraan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95166.3,x,,pe- + <ndaftara> + -an,bentukan,[96] pe- + (<all>) + (-an)
+95166.4,x,,pe- + <ndaftaraan>,bentukan,[96] pe- + (<all>) + (-an)
+95166.5,x,,<pendaftara> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95167,k,1037,pendaftaran,dasar,
+95167.1,v,,[peng-:pen-] + <daftar> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95167.2,x,,[peng-:pen-] + <daftaran>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95167.3,x,,pe- + <ndaftar> + -an,bentukan,[96] pe- + (<all>) + (-an)
+95167.4,x,,pe- + <ndaftaran>,bentukan,[96] pe- + (<all>) + (-an)
+95167.5,x,,<pendaftar> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95168,k,0,pendaga,dasar,
+95168.1,v,,[peng-:pen-] + <daga>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95168.2,x,,pe- + <ndaga>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+95169,k,0,pendagang,dasar,
+95169.1,v,,[peng-:pen-] + <dagang>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95169.2,x,,pe- + <ndagang>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+95170,k,0,pendagel,dasar,
+95170.1,v,,[peng-:pen-] + <dagel>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95170.2,x,,pe- + <ndagel>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+95171,k,0,pendagi,dasar,
+95171.1,v,,[peng-:pen-] + <dagi>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95171.2,x,,pe- + <ndagi>,bentukan,[96] pe- + (<all>) + (-an)
+95171.3,x,,<pendag> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+95172,k,0,pendaging,dasar,
+95172.1,v,,[peng-:pen-] + <daging>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95172.2,x,,pe- + <ndaging>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+95173,k,0,pendahan,dasar,
+95173.1,x,,[peng-:pen-] + <dah> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95173.2,v,,[peng-:pen-] + <dahan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95173.3,x,,pe- + <ndah> + -an,bentukan,[96] pe- + (<all>) + (-an)
+95173.4,x,,pe- + <ndahan>,bentukan,[96] pe- + (<all>) + (-an)
+95173.5,x,,<pendah> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95174,k,111,pendahulu,dasar,
+95174.1,v,,[peng-:pen-] + <dahulu>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95174.2,x,,pe- + <ndahulu>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+95175,v,2,pendahulu-pendahulu,dasar,
+95175.1,x,,<pendahulu> [-] <r>,bentukan,[23] [RD] |
+95175.2,v,,[peng-:pen-] + <dahulu> [-] [peng-:pen-] + <r>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an) => [23] [RD] |
+95175.3,x,,pe- + <ndahulu> [-] pe- + <r>,bentukan,[96] pe- + (<all>) + (-an) => [23] [RD] |
+,,,,,
+95176,v,2,pendahulu-pendahulunya,dasar,
+95176.1,x,,<pendahulu> [-] <r> + -nya,bentukan,[23] [RD] |
+95176.2,x,,[peng-:pen-] + <dahulu> [-] [peng-:pen-] + <r> + -nya,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an) => [23] [RD] |
+95176.3,x,,pe- + <ndahulu> [-] pe- + <r> + -nya,bentukan,[96] pe- + (<all>) + (-an) => [23] [RD] |
+95176.4,x,,<pendahulu> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+95176.5,v,,[peng-:pen-] + <dahulu> [-] [peng-:pen-] + <r> + -nya,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an) => [23] [RD] | => [34] [SFS] -nya + (<all>)
+95176.6,x,,pe- + <ndahulu> [-] pe- + <r> + -nya,bentukan,[96] pe- + (<all>) + (-an) => [23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+95177,k,1338,pendahuluan,dasar,
+95177.1,v,,[peng-:pen-] + <dahulu> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95177.2,x,,[peng-:pen-] + <dahuluan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95177.3,x,,pe- + <ndahulu> + -an,bentukan,[96] pe- + (<all>) + (-an)
+95177.4,x,,pe- + <ndahuluan>,bentukan,[96] pe- + (<all>) + (-an)
+95177.5,x,,<pendahulu> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95178,v,179,pendahulunya,dasar,
+95178.1,x,,[peng-:pen-] + <dahulunya>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95178.2,x,,pe- + <ndahulunya>,bentukan,[96] pe- + (<all>) + (-an)
+95178.3,x,,<pendahulu> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+95178.4,v,,[peng-:pen-] + <dahulu> + -nya,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an) => [34] [SFS] -nya + (<all>)
+95178.5,x,,pe- + <ndahulu> + -nya,bentukan,[96] pe- + (<all>) + (-an) => [34] [SFS] -nya + (<all>)
+,,,,,
+95179,k,0,pendak,dasar,
+95179.1,x,,[peng-:pen-] + <dak>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95179.2,x,,pe- + <ndak>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+95180,k,40,pendaki,dasar,
+95180.1,v,,[peng-:pen-] + <daki>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95180.2,x,,pe- + <ndaki>,bentukan,[96] pe- + (<all>) + (-an)
+95180.3,x,,<pendak> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+95181,k,0,pendaki gunung,dasar,
+95181.1,x,,[peng-:pen-] + <daki gunung>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95181.2,x,,pe- + <ndaki gunung>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+95182,k,65,pendakian,dasar,
+95182.1,v,,[peng-:pen-] + <daki> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95182.2,x,,[peng-:pen-] + <dakian>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95182.3,x,,pe- + <ndaki> + -an,bentukan,[96] pe- + (<all>) + (-an)
+95182.4,x,,pe- + <ndakian>,bentukan,[96] pe- + (<all>) + (-an)
+95182.5,x,,<pendaki> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95183,v,5,pendakiannya,dasar,
+95183.1,x,,[peng-:pen-] + <dakiannya>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95183.2,x,,pe- + <ndakiannya>,bentukan,[96] pe- + (<all>) + (-an)
+95183.3,x,,<pendakian> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+95183.4,v,,[peng-:pen-] + <daki> + -an + -nya,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an) => [34] [SFS] -nya + (<all>)
+95183.5,x,,[peng-:pen-] + <dakian> + -nya,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an) => [34] [SFS] -nya + (<all>)
+95183.6,x,,pe- + <ndaki> + -an + -nya,bentukan,[96] pe- + (<all>) + (-an) => [34] [SFS] -nya + (<all>)
+95183.7,x,,pe- + <ndakian> + -nya,bentukan,[96] pe- + (<all>) + (-an) => [34] [SFS] -nya + (<all>)
+95183.8,x,,<pendaki> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+95184,k,4,pendakwa,dasar,
+95184.1,v,,[peng-:pen-] + <dakwa>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95184.2,x,,pe- + <ndakwa>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+95185,k,3,pendakwaan,dasar,
+95185.1,v,,[peng-:pen-] + <dakwa> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95185.2,x,,[peng-:pen-] + <dakwaan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95185.3,x,,pe- + <ndakwa> + -an,bentukan,[96] pe- + (<all>) + (-an)
+95185.4,x,,pe- + <ndakwaan>,bentukan,[96] pe- + (<all>) + (-an)
+95185.5,x,,<pendakwa> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95186,k,36,pendakwah,dasar,
+95186.1,v,,[peng-:pen-] + <dakwah>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95186.2,x,,pe- + <ndakwah>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+95187,v,3,pendalam,dasar,
+95187.1,v,,[peng-:pen-] + <dalam>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95187.2,x,,pe- + <ndalam>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+95188,k,271,pendalaman,dasar,
+95188.1,v,,[peng-:pen-] + <dalam> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95188.2,x,,[peng-:pen-] + <dalaman>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95188.3,x,,pe- + <ndalam> + -an,bentukan,[96] pe- + (<all>) + (-an)
+95188.4,x,,pe- + <ndalaman>,bentukan,[96] pe- + (<all>) + (-an)
+95188.5,x,,<pendalam> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95189,k,26,pendam,dasar,
+95189.1,x,,[peng-:pen-] + <dam>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95189.2,x,,pe- + <ndam>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+95190,k,7,pendamai,dasar,
+95190.1,v,,[peng-:pen-] + <damai>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95190.2,x,,pe- + <ndamai>,bentukan,[96] pe- + (<all>) + (-an)
+95190.3,x,,<pendama> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+95191,k,0,pendamar,dasar,
+95191.1,v,,[peng-:pen-] + <damar>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95191.2,x,,pe- + <ndamar>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+95192,k,3,pendamba,dasar,
+95192.1,v,,[peng-:pen-] + <damba>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95192.2,x,,pe- + <ndamba>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+95193,k,473,pendamping,dasar,
+95193.1,v,,[peng-:pen-] + <damping>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95193.2,x,,pe- + <ndamping>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+95194,k,0,pendamping hukum lansia,dasar,
+95194.1,x,,[peng-:pen-] + <damping hukum lansia>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95194.2,x,,pe- + <ndamping hukum lansia>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+95195,v,3,pendamping-pendamping,dasar,
+95195.1,x,,<pendamping> [-] <r>,bentukan,[23] [RD] |
+95195.2,v,,[peng-:pen-] + <damping> [-] [peng-:pen-] + <r>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an) => [23] [RD] |
+95195.3,x,,pe- + <ndamping> [-] pe- + <r>,bentukan,[96] pe- + (<all>) + (-an) => [23] [RD] |
+,,,,,
+95196,k,607,pendampingan,dasar,
+95196.1,v,,[peng-:pen-] + <damping> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95196.2,x,,[peng-:pen-] + <dampingan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95196.3,x,,pe- + <ndamping> + -an,bentukan,[96] pe- + (<all>) + (-an)
+95196.4,x,,pe- + <ndampingan>,bentukan,[96] pe- + (<all>) + (-an)
+95196.5,x,,<pendamping> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95197,k,0,pendamprat,dasar,
+95197.1,v,,[peng-:pen-] + <damprat>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95197.2,x,,pe- + <ndamprat>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+95198,k,6,pendana,dasar,
+95198.1,v,,[peng-:pen-] + <dana>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95198.2,x,,pe- + <ndana>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+95199,k,1033,pendanaan,dasar,
+95199.1,v,,[peng-:pen-] + <dana> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95199.2,x,,[peng-:pen-] + <danaan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95199.3,x,,pe- + <ndana> + -an,bentukan,[96] pe- + (<all>) + (-an)
+95199.4,x,,pe- + <ndanaan>,bentukan,[96] pe- + (<all>) + (-an)
+95199.5,x,,<pendana> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95200,k,0,pendanaan spontan,dasar,
+95200.1,x,,[peng-:pen-] + <danaan spont> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95200.2,x,,[peng-:pen-] + <danaan spontan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95200.3,x,,pe- + <ndanaan spont> + -an,bentukan,[96] pe- + (<all>) + (-an)
+95200.4,x,,pe- + <ndanaan spontan>,bentukan,[96] pe- + (<all>) + (-an)
+95200.5,x,,<pendanaan spont> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95201,k,0,pendanaan teroris,dasar,
+95201.1,x,,[peng-:pen-] + <danaan teroris>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95201.2,x,,pe- + <ndanaan teroris>,bentukan,[96] pe- + (<all>) + (-an)
+95201.3,x,,<pendanaan terori> + [-is:-s],bentukan,[177] [S] -is + (i)
+95201.4,x,,<pendanaan teror> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+95202,v,2,pendandatanganan,dasar,
+95202.1,x,,[peng-:pen-] + <dandatangan> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95202.2,x,,[peng-:pen-] + <dandatanganan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95202.3,x,,pe- + <ndandatangan> + -an,bentukan,[96] pe- + (<all>) + (-an)
+95202.4,x,,pe- + <ndandatanganan>,bentukan,[96] pe- + (<all>) + (-an)
+95202.5,x,,<pendandatangan> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95203,k,41,pendangkalan,dasar,
+95203.1,v,,[peng-:pen-] + <dangkal> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95203.2,x,,[peng-:pen-] + <dangkalan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95203.3,x,,pe- + <ndangkal> + -an,bentukan,[96] pe- + (<all>) + (-an)
+95203.4,x,,pe- + <ndangkalan>,bentukan,[96] pe- + (<all>) + (-an)
+95203.5,x,,<pendangkal> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95204,c,19,pendapa,dasar,pedapa
+95204.1,x,,[peng-:pen-] + <dapa>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95204.2,x,,pe- + <ndapa>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+95205,k,1891,pendapat,dasar,
+95205.1,v,,[peng-:pen-] + <dapat>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95205.2,x,,pe- + <ndapat>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+95206,k,0,pendapat umum,dasar,
+95206.1,x,,[peng-:pen-] + <dapat umum>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95206.2,x,,pe- + <ndapat umum>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+95207,v,42,pendapat-pendapat,dasar,
+95207.1,x,,<pendapat> [-] <r>,bentukan,[23] [RD] |
+95207.2,v,,[peng-:pen-] + <dapat> [-] [peng-:pen-] + <r>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an) => [23] [RD] |
+95207.3,x,,pe- + <ndapat> [-] pe- + <r>,bentukan,[96] pe- + (<all>) + (-an) => [23] [RD] |
+,,,,,
+95208,v,3,pendapat-pendapatnya,dasar,
+95208.1,x,,<pendapat> [-] <r> + -nya,bentukan,[23] [RD] |
+95208.2,x,,[peng-:pen-] + <dapat> [-] [peng-:pen-] + <r> + -nya,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an) => [23] [RD] |
+95208.3,x,,pe- + <ndapat> [-] pe- + <r> + -nya,bentukan,[96] pe- + (<all>) + (-an) => [23] [RD] |
+95208.4,x,,<pendapat> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+95208.5,v,,[peng-:pen-] + <dapat> [-] [peng-:pen-] + <r> + -nya,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an) => [23] [RD] | => [34] [SFS] -nya + (<all>)
+95208.6,x,,pe- + <ndapat> [-] pe- + <r> + -nya,bentukan,[96] pe- + (<all>) + (-an) => [23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+95209,v,2,pendapataan,dasar,
+95209.1,x,,[peng-:pen-] + <dapata> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95209.2,x,,[peng-:pen-] + <dapataan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95209.3,x,,pe- + <ndapata> + -an,bentukan,[96] pe- + (<all>) + (-an)
+95209.4,x,,pe- + <ndapataan>,bentukan,[96] pe- + (<all>) + (-an)
+95209.5,x,,<pendapata> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95210,k,2852,pendapatan,dasar,
+95210.1,v,,[peng-:pen-] + <dapat> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95210.2,x,,[peng-:pen-] + <dapatan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95210.3,x,,pe- + <ndapat> + -an,bentukan,[96] pe- + (<all>) + (-an)
+95210.4,x,,pe- + <ndapatan>,bentukan,[96] pe- + (<all>) + (-an)
+95210.5,x,,<pendapat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95211,k,0,pendapatan akomodasi,dasar,
+95211.1,x,,[peng-:pen-] + <dapatan akomodasi>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95211.2,x,,pe- + <ndapatan akomodasi>,bentukan,[96] pe- + (<all>) + (-an)
+95211.3,x,,<pendapatan akomodas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+95212,k,0,pendapatan aktif,dasar,
+95212.1,x,,[peng-:pen-] + <dapatan aktif>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95212.2,x,,pe- + <ndapatan aktif>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+95213,k,0,pendapatan akunan,dasar,
+95213.1,x,,[peng-:pen-] + <dapatan akun> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95213.2,x,,[peng-:pen-] + <dapatan akunan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95213.3,x,,pe- + <ndapatan akun> + -an,bentukan,[96] pe- + (<all>) + (-an)
+95213.4,x,,pe- + <ndapatan akunan>,bentukan,[96] pe- + (<all>) + (-an)
+95213.5,x,,<pendapatan akun> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95214,k,0,pendapatan bersih,dasar,
+95214.1,x,,[peng-:pen-] + <dapatan bersih>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95214.2,x,,pe- + <ndapatan bersih>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+95215,k,0,pendapatan bruto,dasar,
+95215.1,x,,[peng-:pen-] + <dapatan bruto>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95215.2,x,,pe- + <ndapatan bruto>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+95216,k,0,pendapatan masyarakat,dasar,
+95216.1,x,,[peng-:pen-] + <dapatan masyarakat>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95216.2,x,,pe- + <ndapatan masyarakat>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+95217,k,0,pendapatan nasional,dasar,
+95217.1,x,,[peng-:pen-] + <dapatan nasional>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95217.2,x,,pe- + <ndapatan nasional>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+95218,k,0,pendapatan neto,dasar,
+95218.1,x,,[peng-:pen-] + <dapatan neto>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95218.2,x,,pe- + <ndapatan neto>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+95219,k,0,pendapatan pasif,dasar,
+95219.1,x,,[peng-:pen-] + <dapatan pasif>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95219.2,x,,pe- + <ndapatan pasif>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+95220,k,0,pendapatan per kapita,dasar,
+95220.1,x,,[peng-:pen-] + <dapatan per kapita>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95220.2,x,,pe- + <ndapatan per kapita>,bentukan,[96] pe- + (<all>) + (-an)
+,,,,,
+95221,k,0,pendapatan perseorangan,dasar,
+95221.1,x,,[peng-:pen-] + <dapatan perseorang> + -an,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95221.2,x,,[peng-:pen-] + <dapatan perseorangan>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95221.3,x,,pe- + <ndapatan perseorang> + -an,bentukan,[96] pe- + (<all>) + (-an)
+95221.4,x,,pe- + <ndapatan perseorangan>,bentukan,[96] pe- + (<all>) + (-an)
+95221.5,x,,<pendapatan perseorang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+95222,k,0,pendapatan rumah tangga,dasar,
+95222.1,x,,[peng-:pen-] + <dapatan rumah tangga>,bentukan,[10] peng- + (c;d;j;z;tr;ts;sy;sk;sm;sn;sl;sp;sr;st;sw) + (-an)
+95222.2,x,,pe- + <ndapatan rumah tangga>,bentukan,[96] pe- + (<all>) + (-an)

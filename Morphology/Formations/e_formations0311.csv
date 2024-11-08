@@ -1,0 +1,1411 @@
+Nomor,KP,Jumlah,Entri,Tipe,Pembentukan
+115037,v,3,seragaman,dasar,
+115037.1,v,,se- + <ragam> + -an,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115037.2,x,,se- + <ragaman>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115037.3,x,,<seragam> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+115038,v,2,seragamisasi,dasar,
+115038.1,x,,se- + <ragamisasi>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115038.2,x,,<seragamisas> + -i,bentukan,[28] [S] -i + (<all>)
+115038.3,x,,<seragami> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+115038.4,x,,<seragamis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+115038.5,x,,<seragam> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+115039,v,3,seragamkan,dasar,
+115039.1,x,,se- + <ragamk> + -an,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115039.2,v,,se- + <ragam> + -kan,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115039.3,x,,se- + <ragamkan>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115039.4,x,,<seragam> + -kan,bentukan,[29] [S] -kan + (<all>)
+115039.5,x,,<seragamk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+115040,v,4,seragamku,dasar,
+115040.1,x,,se- + <ragamku>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115040.2,x,,<seragam> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+115040.3,v,,se- + <ragam> + -ku,bentukan,[66] se- + (<all>) + (-an;-kan;-nya) => [32] [SFS] -ku + (<all>)
+,,,,,
+115041,v,35,seragamnya,dasar,
+115041.1,x,,se- + <ragam> + -nya,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115041.2,x,,se- + <ragamnya>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115041.3,x,,<seragam> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+115041.4,v,,se- + <ragam> + -nya,bentukan,[66] se- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+,,,,,
+115042,c,263,serah,dasar,sera
+115042.1,x,,se- + <rah>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115043,k,0,serah terima,dasar,
+115043.1,x,,se- + <rah terima>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115044,k,0,serahan,dasar,
+115044.1,x,,se- + <rah> + -an,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115044.2,x,,se- + <rahan>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115044.3,v,,<serah> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+115045,k,3,serahi,dasar,
+115045.1,x,,se- + <rahi>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115045.2,v,,<serah> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+115046,v,277,serahkan,dasar,
+115046.1,x,,se- + <rahk> + -an,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115046.2,x,,se- + <rah> + -kan,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115046.3,x,,se- + <rahkan>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115046.4,v,,<serah> + -kan,bentukan,[29] [S] -kan + (<all>)
+115046.5,x,,<serahk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+115047,v,5,serahkanlah,dasar,
+115047.1,x,,se- + <rahkanlah>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115047.2,x,,<serahkan> + -lah,bentukan,[31] [FS] -lah + (<all>)
+115047.3,x,,se- + <rahk> + -an + -lah,bentukan,[66] se- + (<all>) + (-an;-kan;-nya) => [31] [FS] -lah + (<all>)
+115047.4,x,,se- + <rah> + -kan + -lah,bentukan,[66] se- + (<all>) + (-an;-kan;-nya) => [31] [FS] -lah + (<all>)
+115047.5,x,,se- + <rahkan> + -lah,bentukan,[66] se- + (<all>) + (-an;-kan;-nya) => [31] [FS] -lah + (<all>)
+115047.6,v,,<serah> + -kan + -lah,bentukan,[29] [S] -kan + (<all>) => [31] [FS] -lah + (<all>)
+115047.7,x,,<serahk> + -an + -lah,bentukan,[38] [S] -an + (<all>) => [31] [FS] -lah + (<all>)
+,,,,,
+115048,k,34,serai,dasar,
+115048.1,x,,se- + <rai>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115048.2,x,,<sera> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+115049,k,0,serai dapur,dasar,
+115049.1,x,,se- + <rai dapur>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115050,k,0,serai gulai,dasar,
+115050.1,x,,se- + <rai gulai>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115050.2,x,,<serai gula> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+115051,k,0,serai wangi,dasar,
+115051.1,x,,se- + <rai wangi>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115051.2,x,,<serai wang> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+115052,v,3,serajin,dasar,
+115052.1,v,,se- + <rajin>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115053,k,101,serak,dasar,
+115053.1,x,,se- + <rak>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115054,k,2,serak-serak,dasar,
+115054.1,v,,<serak> [-] <r>,bentukan,[23] [RD] |
+115054.2,x,,se- + <rak> [-] se- + <r>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya) => [23] [RD] |
+,,,,,
+115055,k,0,serak-serak basah,dasar,
+115055.1,x,,se- + <rak> [-] se- + <r> + - basah,bentukan,[66] se- + (<all>) + (-an;-kan;-nya) => [67] [RD] se-|se-
+,,,,,
+115056,k,0,serak-serik,dasar,
+115056.1,v,,<[serik:serak-serik]>,bentukan,[Reduplication-Rhyming]
+,,,,,
+115057,k,0,serak-seruk,dasar,
+,,,,,
+115058,k,79,serakah,dasar,
+115058.1,x,,se- + <rakah>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115058.2,x,,<sera> + -kah,bentukan,[30] [FS] -kah + (<all>)
+115058.3,x,,se- + <ra> + -kah,bentukan,[66] se- + (<all>) + (-an;-kan;-nya) => [30] [FS] -kah + (<all>)
+,,,,,
+115059,k,0,serakalan,dasar,
+115059.1,x,,se- + <rakal> + -an,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115059.2,x,,se- + <rakalan>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115059.3,x,,<serakal> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+115060,k,0,serakit,dasar,
+115060.1,v,,se- + <rakit>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115061,v,8,seraknya,dasar,
+115061.1,x,,se- + <rak> + -nya,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115061.2,x,,se- + <raknya>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115061.3,v,,<serak> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+115061.4,x,,se- + <rak> + -nya,bentukan,[66] se- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+,,,,,
+115062,k,159,seram,dasar,
+115062.1,x,,se- + <ram>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115063,v,3,seram-seram,dasar,
+115063.1,v,,<seram> [-] <r>,bentukan,[23] [RD] |
+115063.2,x,,se- + <ram> [-] se- + <r>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya) => [23] [RD] |
+,,,,,
+115064,k,0,serama,dasar,
+115064.1,x,,se- + <rama>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115065,v,8,seramah,dasar,
+115065.1,v,,se- + <ramah>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115066,v,34,seramai,dasar,
+115066.1,v,,se- + <ramai>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115066.2,x,,<serama> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+115067,k,85,serambi,dasar,
+115067.1,x,,se- + <rambi>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115067.2,x,,<seramb> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+115068,k,0,serambi genital,dasar,
+115068.1,x,,se- + <rambi genital>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115069,k,0,serambi jantung,dasar,
+115069.1,x,,se- + <rambi jantung>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115070,v,2,serambinya,dasar,
+115070.1,x,,se- + <rambi> + -nya,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115070.2,x,,se- + <rambinya>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115070.3,v,,<serambi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+115070.4,x,,se- + <rambi> + -nya,bentukan,[66] se- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+115070.5,x,,<seramb> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+115071,k,3,serambut,dasar,
+115071.1,v,,se- + <rambut>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115072,v,8,seramnya,dasar,
+115072.1,x,,se- + <ram> + -nya,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115072.2,x,,se- + <ramnya>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115072.3,v,,<seram> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+115072.4,x,,se- + <ram> + -nya,bentukan,[66] se- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+,,,,,
+115073,k,2,serampang,dasar,
+115073.1,x,,se- + <rampang>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115074,k,0,serampang dua belas,dasar,
+115074.1,x,,se- + <rampang dua belas>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115075,k,98,serampangan,dasar,
+115075.1,x,,se- + <rampang> + -an,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115075.2,x,,se- + <rampangan>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115075.3,v,,<serampang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+115076,k,0,serampat,dasar,
+115076.1,x,,se- + <rampat>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115077,k,0,serampin,dasar,
+115077.1,x,,se- + <rampin>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115078,k,5,seramping,dasar,
+115078.1,v,,se- + <ramping>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115079,k,0,serampu,dasar,
+115079.1,x,,se- + <rampu>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115080,k,0,serampuk,dasar,
+115080.1,x,,se- + <rampuk>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115081,v,4,serampung,dasar,
+115081.1,v,,se- + <rampung>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115082,k,5,seran,dasar,
+115082.1,x,,se- + <r> + -an,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115082.2,x,,se- + <ran>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115082.3,x,,<ser> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+115083,k,0,serana,dasar,
+115083.1,x,,se- + <rana>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115084,k,0,seranah,dasar,
+115084.1,v,,se- + <ranah>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115085,k,0,serancak,dasar,
+115085.1,v,,se- + <rancak>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115086,k,0,serandang,dasar,
+115086.1,x,,se- + <randang>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115087,k,0,serandau,dasar,
+115087.1,x,,se- + <randau>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115088,k,0,serandib,dasar,
+115088.1,x,,se- + <randib>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115089,k,0,serandung,dasar,
+115089.1,x,,se- + <randung>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115090,k,380,serang,dasar,
+115090.1,x,,se- + <rang>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115091,k,3,serang-menyerang,dasar,
+115091.1,x,,<serang> [-] [meng-:me-] + <r>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [24] [RD] |meng-
+115091.2,x,,se- + <rang> [-] [meng-+se-:me-+nye-] + <r>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya) => [70] [RD] se-|meng-+se-
+,,,,,
+115092,k,0,serang-serangan,dasar,
+115092.1,v,,<serang> [-] <r> + -an,bentukan,[23] [RD] |
+115092.2,x,,se- + <rang> [-] se- + <r> + -an,bentukan,[66] se- + (<all>) + (-an;-kan;-nya) => [23] [RD] |
+,,,,,
+115093,k,1538,serangan,dasar,
+115093.1,x,,se- + <rang> + -an,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115093.2,x,,se- + <rangan>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115093.3,v,,<serang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+115094,k,0,serangan balik,dasar,
+115094.1,x,,se- + <rangan balik>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115095,k,0,serangan cepat,dasar,
+115095.1,x,,se- + <rangan cepat>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115096,k,0,serangan ganda,dasar,
+115096.1,x,,se- + <rangan ganda>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115096.2,x,,<serangan ga> + [-anda:-nda],bentukan,[183] [S] -anda + (i;u;a;[k:])
+115096.3,x,,<serangan gan> + [-anda:-da],bentukan,[184] [S] -anda + (an)
+115096.4,x,,<serangan g> + -anda,bentukan,[185] [S] -anda + (<others>)
+,,,,,
+115097,k,0,serangan jantung,dasar,
+115097.1,x,,se- + <rangan jantung>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115098,k,0,serangan kecemasan,dasar,
+115098.1,x,,se- + <rangan kecemas> + -an,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115098.2,x,,se- + <rangan kecemasan>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115098.3,x,,<serangan kecemas> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+115099,k,0,serangan kombinasi,dasar,
+115099.1,x,,se- + <rangan kombinasi>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115099.2,x,,<serangan kombinas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+115100,k,0,serangan langsung,dasar,
+115100.1,x,,se- + <rangan langsung>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115101,k,0,serangan maya,dasar,
+115101.1,x,,se- + <rangan maya>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115102,k,0,serangan panik,dasar,
+115102.1,x,,se- + <rangan panik>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115103,k,0,serangan udara,dasar,
+115103.1,x,,se- + <rangan udara>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115104,k,0,serangan umum 1 maret,dasar,
+115104.1,x,,se- + <rangan umum 1 maret>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115105,k,0,serangan umum surakarta,dasar,
+115105.1,x,,se- + <rangan umum surakarta>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115106,v,58,serangan-serangan,dasar,
+115106.1,x,,<serangan> [-] <r>,bentukan,[23] [RD] |
+115106.2,x,,se- + <rang> + -an [-] se- + <r> + -an,bentukan,[66] se- + (<all>) + (-an;-kan;-nya) => [23] [RD] |
+115106.3,x,,se- + <rangan> [-] se- + <r>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya) => [23] [RD] |
+115106.4,v,,<serang> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+115107,v,5,serangan-serangannya,dasar,
+115107.1,x,,<serangan> [-] <r> + -nya,bentukan,[23] [RD] |
+115107.2,x,,se- + <rang> + -an [-] se- + <r> + -an + -nya,bentukan,[66] se- + (<all>) + (-an;-kan;-nya) => [23] [RD] |
+115107.3,x,,se- + <rangan> [-] se- + <r> + -nya,bentukan,[66] se- + (<all>) + (-an;-kan;-nya) => [23] [RD] |
+115107.4,x,,<serang> + -an [-] <r> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+115107.5,x,,<serangan> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+115107.6,x,,se- + <rang> + -an [-] se- + <r> + -an + -nya,bentukan,[66] se- + (<all>) + (-an;-kan;-nya) => [23] [RD] | => [34] [SFS] -nya + (<all>)
+115107.7,x,,se- + <rangan> [-] se- + <r> + -nya,bentukan,[66] se- + (<all>) + (-an;-kan;-nya) => [23] [RD] | => [34] [SFS] -nya + (<all>)
+115107.8,v,,<serang> + -an [-] <r> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+115108,v,3,seranganku,dasar,
+115108.1,x,,se- + <ranganku>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115108.2,x,,<serangan> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+115108.3,x,,se- + <rang> + -an + -ku,bentukan,[66] se- + (<all>) + (-an;-kan;-nya) => [32] [SFS] -ku + (<all>)
+115108.4,x,,se- + <rangan> + -ku,bentukan,[66] se- + (<all>) + (-an;-kan;-nya) => [32] [SFS] -ku + (<all>)
+115108.5,v,,<serang> + -an + -ku,bentukan,[38] [S] -an + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+115109,v,45,serangannya,dasar,
+115109.1,x,,se- + <rangan> + -nya,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115109.2,x,,se- + <rangannya>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115109.3,x,,<serangan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+115109.4,x,,se- + <rang> + -an + -nya,bentukan,[66] se- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+115109.5,x,,se- + <rangan> + -nya,bentukan,[66] se- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+115109.6,v,,<serang> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+115110,k,271,serangga,dasar,
+115110.1,x,,se- + <rangga>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115111,v,16,serangga-serangga,dasar,
+115111.1,v,,<serangga> [-] <r>,bentukan,[23] [RD] |
+115111.2,x,,se- + <rangga> [-] se- + <r>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya) => [23] [RD] |
+,,,,,
+115112,k,0,serangguh,dasar,
+115112.1,x,,se- + <rangguh>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115113,k,0,seranggung,dasar,
+115113.1,x,,se- + <ranggung>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115114,k,36,serangkai,dasar,
+115114.1,v,,se- + <rangkai>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115114.2,x,,<serangka> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+115115,v,936,serangkaian,dasar,
+115115.1,v,,se- + <rangkai> + -an,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115115.2,x,,se- + <rangkaian>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115115.3,x,,<serangkai> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+115116,k,0,serangkak,dasar,
+115116.1,x,,se- + <rangkak>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115117,k,0,serangkak payung,dasar,
+115117.1,x,,se- + <rangkak payung>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115118,k,0,serangkam,dasar,
+115118.1,v,,se- + <rangkam>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115119,v,3,serangnya,dasar,
+115119.1,x,,se- + <rang> + -nya,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115119.2,x,,se- + <rangnya>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115119.3,v,,<serang> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+115119.4,x,,se- + <rang> + -nya,bentukan,[66] se- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+,,,,,
+115120,k,0,serangsang,dasar,
+115120.1,x,,se- + <rangsang>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115121,k,0,serani,dasar,
+115121.1,x,,se- + <rani>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115121.2,x,,<seran> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+115122,k,8,seranjang,dasar,
+115122.1,v,,se- + <ranjang>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115123,k,0,seranta,dasar,
+115123.1,x,,se- + <ranta>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115124,k,0,serantai,dasar,
+115124.1,v,,se- + <rantai>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115124.2,x,,<seranta> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+115125,v,6,serantang,dasar,
+115125.1,v,,se- + <rantang>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115126,k,3,serantau,dasar,
+115126.1,v,,se- + <rantau>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115127,v,3,seranting,dasar,
+115127.1,v,,se- + <ranting>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115128,v,2,seranum,dasar,
+115128.1,v,,se- + <ranum>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115129,k,128,serap,dasar,
+115129.1,x,,se- + <rap>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115130,k,0,serap mesra,dasar,
+115130.1,x,,se- + <rap mesra>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115131,k,0,serapa,dasar,
+115131.1,x,,se- + <rapa>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115132,k,61,serapah,dasar,
+115132.1,x,,se- + <rapah>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115133,v,6,serapahnya,dasar,
+115133.1,x,,se- + <rapah> + -nya,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115133.2,x,,se- + <rapahnya>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115133.3,v,,<serapah> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+115133.4,x,,se- + <rapah> + -nya,bentukan,[66] se- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+,,,,,
+115134,k,183,serapan,dasar,
+115134.1,x,,se- + <rap> + -an,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115134.2,x,,se- + <rapan>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115134.3,v,,<serap> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+115135,v,19,serapannya,dasar,
+115135.1,x,,se- + <rapan> + -nya,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115135.2,x,,se- + <rapannya>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115135.3,x,,<serapan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+115135.4,x,,se- + <rap> + -an + -nya,bentukan,[66] se- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+115135.5,x,,se- + <rapan> + -nya,bentukan,[66] se- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+115135.6,v,,<serap> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+115136,k,7,serapat,dasar,
+115136.1,v,,se- + <rapat>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115137,v,5,serapat-rapatnya,dasar,
+115137.1,x,,se- + <rapat> [-] <r> + -nya,bentukan,[66] se- + (<all>) + (-an;-kan;-nya) => [68] [RD] se-|
+115137.2,v,,se- + <rapat> [-] <r> + -nya,bentukan,[66] se- + (<all>) + (-an;-kan;-nya) => [68] [RD] se-| => [34] [SFS] -nya + (<all>)
+,,,,,
+115138,v,10,serapi,dasar,
+115138.1,v,,se- + <rapi>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115138.2,x,,<serap> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+115139,v,3,serapi-rapinya,dasar,
+115139.1,x,,se- + <rapi> [-] <r> + -nya,bentukan,[66] se- + (<all>) + (-an;-kan;-nya) => [68] [RD] se-|
+115139.2,v,,se- + <rapi> [-] <r> + -nya,bentukan,[66] se- + (<all>) + (-an;-kan;-nya) => [68] [RD] se-| => [34] [SFS] -nya + (<all>)
+,,,,,
+115140,t,2,serapih,dasar,serapi
+115140.1,x,,se- + <rapih>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115141,v,3,serapnya,dasar,
+115141.1,x,,se- + <rap> + -nya,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115141.2,x,,se- + <rapnya>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115141.3,v,,<serap> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+115141.4,x,,se- + <rap> + -nya,bentukan,[66] se- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+,,,,,
+115142,v,7,serapuh,dasar,
+115142.1,v,,se- + <rapuh>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115143,k,210,serasa,dasar,
+115143.1,v,,se- + <rasa>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115144,k,0,serasa bayang-bayang,dasar,
+,,,,,
+115145,k,14,serasah,dasar,
+115145.1,x,,se- + <rasah>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115146,k,0,serasam,dasar,
+115146.1,v,,se- + <rasam>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115147,k,184,serasi,dasar,
+115147.1,x,,se- + <rasi>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115147.2,x,,<seras> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+115148,k,367,serat,dasar,
+115148.1,x,,se- + <rat>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115149,k,0,serat alami,dasar,
+115149.1,x,,se- + <rat alami>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115149.2,v,,<serat alam> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+115150,k,0,serat bambu,dasar,
+115150.1,x,,se- + <rat bambu>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115151,k,0,serat bekas,dasar,
+115151.1,x,,se- + <rat bekas>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115152,k,0,serat buatan,dasar,
+115152.1,x,,se- + <rat buat> + -an,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115152.2,x,,se- + <rat buatan>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115152.3,v,,<serat buat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+115153,k,0,serat busa,dasar,
+115153.1,x,,se- + <rat busa>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115154,k,0,serat diet,dasar,
+115154.1,x,,se- + <rat diet>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115155,k,0,serat gelas,dasar,
+115155.1,x,,se- + <rat gelas>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115156,k,0,serat hewan,dasar,
+115156.1,x,,se- + <rat hew> + -an,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115156.2,x,,se- + <rat hewan>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115156.3,x,,<serat hew> + -an,bentukan,[38] [S] -an + (<all>)
+115156.4,x,,<serat he> + -wan,bentukan,[180] [S] -wan + (<others>)
+,,,,,
+115157,k,0,serat jagung,dasar,
+115157.1,x,,se- + <rat jagung>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115158,k,0,serat jute,dasar,
+115158.1,x,,se- + <rat jute>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115159,k,0,serat kapas,dasar,
+115159.1,x,,se- + <rat kapas>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115160,k,0,serat kasar,dasar,
+115160.1,x,,se- + <rat kasar>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115161,k,0,serat kedelai,dasar,
+115161.1,x,,se- + <rat kedelai>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115161.2,x,,<serat kedela> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+115162,k,0,serat kulit kayu,dasar,
+115162.1,x,,se- + <rat kulit kayu>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115163,k,0,serat larut,dasar,
+115163.1,x,,se- + <rat larut>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115164,k,0,serat makanan,dasar,
+115164.1,x,,se- + <rat makan> + -an,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115164.2,x,,se- + <rat makanan>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115164.3,v,,<serat makan> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+115165,k,0,serat manila,dasar,
+115165.1,x,,se- + <rat manila>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115166,k,0,serat mineral,dasar,
+115166.1,x,,se- + <rat mineral>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115167,k,0,serat nanas,dasar,
+115167.1,x,,se- + <rat nanas>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115168,k,0,serat optik,dasar,
+115168.1,x,,se- + <rat optik>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115169,k,0,serat optis,dasar,
+115169.1,x,,se- + <rat optis>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115169.2,x,,<serat opti> + [-is:-s],bentukan,[177] [S] -is + (i)
+115169.3,x,,<serat opt> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+115170,k,0,serat otot,dasar,
+115170.1,x,,se- + <rat otot>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115171,k,0,serat otot daya tahan,dasar,
+115171.1,x,,se- + <rat otot daya tah> + -an,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115171.2,x,,se- + <rat otot daya tahan>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115171.3,x,,<serat otot daya tah> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+115172,k,0,serat otot kedut cepat,dasar,
+115172.1,x,,se- + <rat otot kedut cepat>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115173,k,0,serat otot kedut lambat,dasar,
+115173.1,x,,se- + <rat otot kedut lambat>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115174,k,0,serat panjang,dasar,
+115174.1,x,,se- + <rat panjang>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115175,k,0,serat pendek,dasar,
+115175.1,x,,se- + <rat pendek>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115176,k,0,serat poliester,dasar,
+115176.1,x,,se- + <rat poliester>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115177,k,0,serat polimer,dasar,
+115177.1,x,,se- + <rat polimer>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115178,k,0,serat selulosa,dasar,
+115178.1,x,,se- + <rat selulosa>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115179,k,0,serat sintetis,dasar,
+115179.1,x,,se- + <rat sintetis>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115179.2,x,,<serat sinteti> + [-is:-s],bentukan,[177] [S] -is + (i)
+115179.3,x,,<serat sintet> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+115180,k,0,serat sintil,dasar,
+115180.1,x,,se- + <rat sintil>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115181,k,0,serat taklarut,dasar,
+115181.1,x,,se- + <rat taklarut>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115182,k,0,serat taklarut air,dasar,
+115182.1,x,,se- + <rat taklarut air>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115183,k,0,serat tiruan,dasar,
+115183.1,x,,se- + <rat tiru> + -an,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115183.2,x,,se- + <rat tiruan>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115183.3,v,,<serat tiru> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+115184,v,29,serat-serat,dasar,
+115184.1,v,,<serat> [-] <r>,bentukan,[23] [RD] |
+115184.2,x,,se- + <rat> [-] se- + <r>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya) => [23] [RD] |
+,,,,,
+115185,v,2,serat-seratnya,dasar,
+115185.1,x,,<serat> [-] <r> + -nya,bentukan,[23] [RD] |
+115185.2,x,,se- + <rat> [-] se- + <r> + -nya,bentukan,[66] se- + (<all>) + (-an;-kan;-nya) => [23] [RD] |
+115185.3,v,,<serat> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+115185.4,x,,se- + <rat> [-] se- + <r> + -nya,bentukan,[66] se- + (<all>) + (-an;-kan;-nya) => [23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+115186,k,2,serata,dasar,
+115186.1,v,,se- + <rata>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115187,k,0,seratah,dasar,
+115187.1,x,,se- + <ratah>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115188,k,3,serati,dasar,
+115188.1,x,,se- + <rati>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115188.2,x,,<serat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+115189,v,19,seratnya,dasar,
+115189.1,x,,se- + <rat> + -nya,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115189.2,x,,se- + <ratnya>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115189.3,v,,<serat> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+115189.4,x,,se- + <rat> + -nya,bentukan,[66] se- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+,,,,,
+115190,k,0,seratung,dasar,
+115190.1,x,,se- + <ratung>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115191,k,945,seratus,dasar,
+115191.1,v,,se- + <ratus>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115192,v,32,seratusan,dasar,
+115192.1,v,,se- + <ratus> + -an,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115192.2,x,,se- + <ratusan>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115192.3,x,,<seratus> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+115193,x,4,seratuspersen,dasar,
+115193.1,x,,se- + <ratuspersen>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115194,t,3,seratusribu,dasar,seratus ribu
+115194.1,x,,se- + <ratusribu>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115195,k,0,serau,dasar,
+115195.1,x,,se- + <rau>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115196,k,0,seraung,dasar,
+115196.1,x,,se- + <raung>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115197,k,0,seraunograf,dasar,
+115197.1,x,,se- + <raunograf>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115197.2,x,,<serauno> + -graf,bentukan,[191] [S] -graf + (<all>)
+,,,,,
+115198,k,0,seraunometer,dasar,
+115198.1,x,,se- + <raunometer>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115198.2,x,,<serauno> + -meter,bentukan,[189] [S] -meter + (<all>)
+,,,,,
+115199,k,2,seraup,dasar,
+115199.1,v,,se- + <raup>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115200,k,22,seraut,dasar,
+115200.1,v,,se- + <raut>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115201,k,4,serawai,dasar,
+115201.1,x,,se- + <rawai>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115201.2,x,,<serawa> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+115202,k,20,serawak,dasar,
+115202.1,x,,se- + <rawak>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115203,k,0,serawal,dasar,
+115203.1,x,,se- + <rawal>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115204,k,0,serawan,dasar,
+115204.1,x,,se- + <raw> + -an,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115204.2,v,,se- + <rawan>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115204.3,x,,<seraw> + -an,bentukan,[38] [S] -an + (<all>)
+115204.4,x,,<sera> + -wan,bentukan,[180] [S] -wan + (<others>)
+115204.5,x,,<ser> + [-wan:-awan],bentukan,[18000001] [S] -wan + (<all>)
+,,,,,
+115205,k,539,seraya,dasar,
+115205.1,x,,se- + <raya>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115206,k,0,seraya-menyeraya,dasar,
+115206.1,x,,<seraya> [-] [meng-:me-] + <r>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [24] [RD] |meng-
+115206.2,x,,se- + <raya> [-] [meng-+se-:me-+nye-] + <r>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya) => [70] [RD] se-|meng-+se-
+,,,,,
+115207,k,655,serba,dasar,
+,,,,,
+115208,k,13,serba-serbi,dasar,
+115208.1,v,,<[serba:serba-serbi]>,bentukan,[Reduplication-Rhyming]
+,,,,,
+115209,k,6,serbaada,dasar,
+,,,,,
+115210,k,0,serbaakal,dasar,
+,,,,,
+115211,k,0,serbabaru,dasar,
+,,,,,
+115212,k,17,serbabisa,dasar,
+,,,,,
+115213,v,8,serbacepat,dasar,
+,,,,,
+115214,v,2,serbacuriga,dasar,
+,,,,,
+115215,v,2,serbadigital,dasar,
+,,,,,
+115216,k,0,serbadua,dasar,
+,,,,,
+115217,k,0,serbaemas,dasar,
+,,,,,
+115218,k,73,serbaguna,dasar,
+,,,,,
+115219,k,0,serbah-serbih,dasar,
+115219.1,v,,<serbah-serbih>,bentukan,[Reduplication-Rhyming]
+,,,,,
+115220,v,4,serbahijau,dasar,
+,,,,,
+115221,v,12,serbahitam,dasar,
+,,,,,
+115222,k,0,serbaindah,dasar,
+,,,,,
+115223,v,2,serbainstan,dasar,
+115223.1,x,,<serbainst> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+115224,k,0,serbak,dasar,
+,,,,,
+115225,k,0,serbakeemasan,dasar,
+115225.1,x,,<serbakeemas> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+115226,x,3,serbakekurangan,dasar,
+115226.1,x,,<serbakekurang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+115227,k,0,serbakurang,dasar,
+,,,,,
+115228,k,0,serbamacam,dasar,
+,,,,,
+115229,v,3,serbamahal,dasar,
+,,,,,
+115230,v,3,serbamerah,dasar,
+,,,,,
+115231,v,2,serbamudah,dasar,
+,,,,,
+115232,k,16,serban,dasar,
+115232.1,x,,<serb> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+115233,v,3,serbannya,dasar,
+115233.1,v,,<serban> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+115233.2,x,,<serb> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+115234,v,2,serbapasti,dasar,
+115234.1,x,,<serbapast> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+115235,k,15,serbaputih,dasar,
+,,,,,
+115236,k,0,serbarumah,dasar,
+,,,,,
+115237,k,22,serbasalah,dasar,
+115237.1,x,,<serbasa> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+115238,k,0,serbasama,dasar,
+,,,,,
+115239,k,0,serbasedikit,dasar,
+,,,,,
+115240,v,4,serbasulit,dasar,
+,,,,,
+115241,k,2,serbasusah,dasar,
+,,,,,
+115242,k,0,serbat,dasar,
+,,,,,
+115243,v,7,serbatahu,dasar,
+,,,,,
+115244,v,4,serbaterbatas,dasar,
+,,,,,
+115245,k,0,serbausaha,dasar,
+,,,,,
+115246,k,25,serbet,dasar,
+,,,,,
+115247,k,0,serbi,dasar,
+115247.1,x,,<serb> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+115248,k,86,serbia,dasar,
+,,,,,
+115249,k,77,serbu,dasar,
+,,,,,
+115250,k,136,serbuan,dasar,
+115250.1,v,,<serbu> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+115251,k,179,serbuk,dasar,
+,,,,,
+115252,k,0,serbuk bunga,dasar,
+,,,,,
+115253,k,0,serbuk gergaji,dasar,
+115253.1,x,,<serbuk gergaj> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+115254,k,0,serbuk obat,dasar,
+,,,,,
+115255,k,0,serbuk sari,dasar,
+115255.1,x,,<serbuk sar> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+115256,k,0,serbuk tahi,dasar,
+115256.1,x,,<serbuk tah> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+115257,v,7,serbuk-serbuk,dasar,
+115257.1,v,,<serbuk> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+115258,v,3,serbuknya,dasar,
+115258.1,v,,<serbuk> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+115259,k,112,serdadu,dasar,
+,,,,,
+115260,k,0,serdadu bayaran,dasar,
+115260.1,v,,<serdadu bayar> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+115261,v,17,serdadu-serdadu,dasar,
+115261.1,v,,<serdadu> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+115262,v,2,serdadunya,dasar,
+115262.1,v,,<serdadu> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+115263,k,0,serdak,dasar,
+,,,,,
+115264,k,0,serdam,dasar,
+,,,,,
+115265,k,49,serdang,dasar,
+,,,,,
+115266,k,0,serdang bedagai,dasar,
+115266.1,x,,<serdang bedaga> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+115267,k,0,serdawa,dasar,
+,,,,,
+115268,k,0,serdi,dasar,
+115268.1,x,,<serd> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+115269,k,0,serdih,dasar,
+,,,,,
+115270,v,5,serdos,dasar,
+,,,,,
+115271,k,2,sere,dasar,
+115271.1,x,,se- + <re>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115272,k,48,sereal,dasar,
+115272.1,x,,se- + <real>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115273,k,19,serealia,dasar,
+115273.1,x,,se- + <realia>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115274,k,0,serealin,dasar,
+115274.1,x,,se- + <realin>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115275,k,0,sereat,dasar,
+115275.1,x,,se- + <reat>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115276,v,4,serebelum,dasar,
+115276.1,x,,se- + <rebelum>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115277,k,11,serebral,dasar,
+115277.1,x,,se- + <rebral>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115278,k,6,serebrospinal,dasar,
+115278.1,x,,se- + <rebrospinal>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115279,v,4,serebrovaskular,dasar,
+115279.1,x,,se- + <rebrovaskular>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115280,k,0,serebrum,dasar,
+115280.1,x,,se- + <rebrum>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115281,v,3,seredup,dasar,
+115281.1,v,,se- + <redup>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115282,k,0,seregang,dasar,
+115282.1,v,,se- + <regang>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115283,v,2,seregional,dasar,
+115283.1,v,,se- + <regional>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115284,v,5,seregu,dasar,
+115284.1,v,,se- + <regu>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115285,k,0,sereguk,dasar,
+115285.1,v,,se- + <reguk>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115286,c,16,sereh,dasar,serai
+115286.1,x,,se- + <reh>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115287,k,0,serejang,dasar,
+115287.1,v,,se- + <rejang>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115288,k,0,serejang kuda berlari,dasar,
+115288.1,v,,se- + <rejang kuda berlari>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115288.2,x,,<serejang kuda berlar> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+115289,k,0,serela,dasar,
+115289.1,v,,se- + <rela>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115290,k,0,serelanya,dasar,
+115290.1,x,,se- + <rela> + -nya,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115290.2,x,,se- + <relanya>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115290.3,x,,<serela> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+115290.4,v,,se- + <rela> + -nya,bentukan,[66] se- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+,,,,,
+115291,t,20,serem,dasar,seram
+115291.1,x,,se- + <rem>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115292,t,2,serem-serem,dasar,seram-seram
+115292.1,x,,<serem> [-] <r>,bentukan,[23] [RD] |
+115292.2,x,,se- + <rem> [-] se- + <r>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya) => [23] [RD] |
+,,,,,
+115293,k,0,serembah-serembih,dasar,
+115293.1,v,,<serembah-serembih>,bentukan,[Reduplication-Rhyming]
+,,,,,
+115294,k,0,serembai,dasar,
+115294.1,x,,se- + <rembai>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115294.2,x,,<seremba> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+115295,k,0,seremban,dasar,
+115295.1,x,,se- + <remb> + -an,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115295.2,x,,se- + <remban>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115295.3,x,,<seremb> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+115296,k,4,seremeh,dasar,
+115296.1,v,,se- + <remeh>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115297,k,52,seremoni,dasar,
+115297.1,x,,se- + <remoni>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115297.2,x,,<seremon> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+115298,k,75,seremonial,dasar,
+115298.1,x,,se- + <remonial>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115299,v,2,seremonialnya,dasar,
+115299.1,x,,se- + <remonial> + -nya,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115299.2,x,,se- + <remonialnya>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115299.3,v,,<seremonial> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+115299.4,x,,se- + <remonial> + -nya,bentukan,[66] se- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+,,,,,
+115300,k,161,serempak,dasar,
+115300.1,v,,se- + <rempak>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115301,k,0,serempe,dasar,
+115301.1,x,,se- + <rempe>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115302,k,0,serempet,dasar,
+115302.1,x,,se- + <rempet>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115303,v,3,serempetan,dasar,
+115303.1,x,,se- + <rempet> + -an,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115303.2,x,,se- + <rempetan>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115303.3,v,,<serempet> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+115304,k,0,serempu,dasar,
+115304.1,x,,se- + <rempu>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115305,v,2,seremuk,dasar,
+115305.1,v,,se- + <remuk>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115306,k,2,serenceng,dasar,
+115306.1,v,,se- + <renceng>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115307,k,62,serendah,dasar,
+115307.1,v,,se- + <rendah>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115308,v,24,serendah-rendahnya,dasar,
+115308.1,x,,se- + <rendah> [-] <r> + -nya,bentukan,[66] se- + (<all>) + (-an;-kan;-nya) => [68] [RD] se-|
+115308.2,v,,se- + <rendah> [-] <r> + -nya,bentukan,[66] se- + (<all>) + (-an;-kan;-nya) => [68] [RD] se-| => [34] [SFS] -nya + (<all>)
+,,,,,
+115309,k,0,serendeng,dasar,
+115309.1,v,,se- + <rendeng>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115310,k,0,sereng,dasar,
+115310.1,x,,se- + <reng>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115311,k,0,serengam,dasar,
+115311.1,x,,se- + <rengam>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115312,k,0,serengeh,dasar,
+115312.1,x,,se- + <rengeh>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115313,k,0,serengit,dasar,
+115313.1,x,,se- + <rengit>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115314,k,0,serenjak,dasar,
+115314.1,x,,se- + <renjak>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115315,k,0,serenjang,dasar,
+115315.1,x,,se- + <renjang>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115316,k,2,serenta,dasar,
+115316.1,x,,se- + <renta>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115317,k,563,serentak,dasar,
+115317.1,x,,se- + <rentak>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115318,k,0,serentang,dasar,
+115318.1,v,,se- + <rentang>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115319,k,0,serentang perjalanan,dasar,
+115319.1,x,,se- + <rentang perjalan> + -an,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115319.2,x,,se- + <rentang perjalanan>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115319.3,x,,<serentang perjalan> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+115320,k,0,serentang pukat,dasar,
+115320.1,v,,se- + <rentang pukat>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115321,k,0,serenteng,dasar,
+115321.1,v,,se- + <renteng>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115322,v,4,serentet,dasar,
+115322.1,v,,se- + <rentet>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115323,k,39,serentetan,dasar,
+115323.1,v,,se- + <rentet> + -an,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115323.2,x,,se- + <rentetan>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115323.3,x,,<serentet> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+115324,v,2,serenyah,dasar,
+115324.1,v,,se- + <renyah>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115325,k,0,serenyuk,dasar,
+115325.1,v,,se- + <renyuk>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115326,c,20,serep,dasar,serap
+115326.1,x,,se- + <rep>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115327,k,0,serepih,dasar,
+115327.1,v,,se- + <repih>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115328,c,4,seresah,dasar,serasah
+115328.1,v,,se- + <resah>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115329,k,0,seresam,dasar,
+115329.1,v,,se- + <resam>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115330,k,0,seresin,dasar,
+115330.1,x,,se- + <resin>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115331,v,2,seresponsif,dasar,
+115331.1,v,,se- + <responsif>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115332,k,71,seret,dasar,
+115332.1,x,,se- + <ret>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115333,v,3,seret-seret,dasar,
+115333.1,v,,<seret> [-] <r>,bentukan,[23] [RD] |
+115333.2,x,,se- + <ret> [-] se- + <r>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya) => [23] [RD] |
+,,,,,
+115334,v,2,seretak,dasar,
+115334.1,v,,se- + <retak>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115335,v,4,seretan,dasar,
+115335.1,x,,se- + <ret> + -an,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115335.2,x,,se- + <retan>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115335.3,v,,<seret> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+115336,v,12,seretnya,dasar,
+115336.1,x,,se- + <ret> + -nya,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115336.2,x,,se- + <retnya>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115336.3,v,,<seret> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+115336.4,x,,se- + <ret> + -nya,bentukan,[66] se- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+,,,,,
+115337,v,2,serevolusioner,dasar,
+115337.1,v,,se- + <revolusioner>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115338,k,58,sergah,dasar,
+,,,,,
+115339,v,24,sergahnya,dasar,
+115339.1,v,,<sergah> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+115340,k,0,sergam,dasar,
+,,,,,
+115341,k,13,sergap,dasar,
+,,,,,
+115342,k,15,sergapan,dasar,
+115342.1,v,,<sergap> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+115343,k,12,serge,dasar,
+,,,,,
+115344,k,0,sergut,dasar,
+,,,,,
+115345,c,1354,seri,dasar,ceri
+115345.1,x,,se- + <ri>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115345.2,x,,<ser> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+115346,k,0,seri balai,dasar,
+115346.1,x,,se- + <ri balai>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115346.2,x,,<seri bala> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+115347,k,0,seri gunung,dasar,
+115347.1,x,,se- + <ri gunung>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115348,k,0,seri muka,dasar,
+115348.1,x,,se- + <ri muka>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115349,k,0,seri panggung,dasar,
+115349.1,x,,se- + <ri panggung>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115350,k,0,seri pantai,dasar,
+115350.1,x,,se- + <ri pantai>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115350.2,x,,<seri panta> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+115351,k,0,seri tanah,dasar,
+115351.1,x,,se- + <ri tanah>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115352,k,0,seri wajah,dasar,
+115352.1,x,,se- + <ri wajah>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115353,v,21,seri-seri,dasar,
+115353.1,v,,<seri> [-] <r>,bentukan,[23] [RD] |
+115353.2,x,,se- + <ri> [-] se- + <r>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya) => [23] [RD] |
+115353.3,x,,<ser> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+115354,k,203,serial,dasar,
+115354.1,x,,se- + <rial>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115355,v,2,serial-serial,dasar,
+115355.1,v,,<serial> [-] <r>,bentukan,[23] [RD] |
+115355.2,x,,se- + <rial> [-] se- + <r>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya) => [23] [RD] |
+,,,,,
+115356,v,8,serialnya,dasar,
+115356.1,x,,se- + <rial> + -nya,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115356.2,x,,se- + <rialnya>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115356.3,v,,<serial> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+115356.4,x,,se- + <rial> + -nya,bentukan,[66] se- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+,,,,,
+115357,k,0,serian,dasar,
+115357.1,x,,se- + <ri> + -an,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115357.2,x,,se- + <rian>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115357.3,x,,<seri> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+115358,v,6,seriang,dasar,
+115358.1,v,,se- + <riang>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115359,k,0,seriap,dasar,
+115359.1,x,,se- + <riap>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115360,k,0,seriasi,dasar,
+115360.1,x,,se- + <riasi>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115360.2,x,,<serias> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+115361,k,0,seriat,dasar,
+115361.1,x,,se- + <riat>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115362,k,4,seriawan,dasar,
+115362.1,x,,se- + <riaw> + -an,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115362.2,x,,se- + <riawan>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115362.3,x,,<seriaw> + -an,bentukan,[38] [S] -an + (<all>)
+115362.4,x,,<seria> + -wan,bentukan,[180] [S] -wan + (<others>)
+115362.5,x,,<seri> + [-wan:-awan],bentukan,[18000001] [S] -wan + (<all>)
+,,,,,
+115363,k,0,seriawan usus,dasar,
+115363.1,x,,se- + <riawan usus>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115364,t,3,seribet,dasar,tidak praktis
+115364.1,x,,se- + <ribet>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115365,k,650,seribu,dasar,
+115365.1,v,,se- + <ribu>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115366,v,17,seribuan,dasar,
+115366.1,v,,se- + <ribu> + -an,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115366.2,x,,se- + <ribuan>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115366.3,x,,<seribu> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+115367,k,0,seribulan,dasar,
+115367.1,x,,se- + <ribul> + -an,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115367.2,x,,se- + <ribulan>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115367.3,x,,<seribul> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+115368,k,0,seribuni,dasar,
+115368.1,x,,se- + <ribuni>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115368.2,x,,<seribun> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+115369,k,0,seridanta,dasar,
+115369.1,x,,se- + <ridanta>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115370,k,0,seriding,dasar,
+115370.1,x,,se- + <riding>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115371,v,3,serif,dasar,
+115371.1,x,,se- + <rif>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115372,k,0,serigading,dasar,
+115372.1,x,,se- + <rigading>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115373,k,77,serigala,dasar,
+115373.1,x,,se- + <rigala>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115374,v,3,serigala-serigala,dasar,
+115374.1,v,,<serigala> [-] <r>,bentukan,[23] [RD] |
+115374.2,x,,se- + <rigala> [-] se- + <r>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya) => [23] [RD] |
+,,,,,
+115375,k,0,serigrafi,dasar,
+115375.1,x,,se- + <rigrafi>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115375.2,x,,<serigraf> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+115376,k,0,serigunting,dasar,
+115376.1,x,,se- + <rigunting>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115377,k,0,serik,dasar,
+115377.1,x,,se- + <rik>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115378,k,0,serikandi,dasar,
+115378.1,x,,se- + <rikandi>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115378.2,x,,<serikand> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+115379,k,3068,serikat,dasar,
+115379.1,x,,se- + <rikat>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115380,k,0,serikat buruh,dasar,
+115380.1,x,,se- + <rikat buruh>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115381,k,0,serikat dagang,dasar,
+115381.1,x,,se- + <rikat dagang>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115382,d,0,serikat pekerja,dasar,
+115382.1,x,,se- + <rikat pekerja>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115383,k,0,serikat sekerja,dasar,
+115383.1,x,,se- + <rikat sekerja>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115384,k,0,serikat yesus,dasar,
+115384.1,x,,se- + <rikat yesus>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115385,v,7,serikat-serikat,dasar,
+115385.1,v,,<serikat> [-] <r>,bentukan,[23] [RD] |
+115385.2,x,,se- + <rikat> [-] se- + <r>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya) => [23] [RD] |
+,,,,,
+115386,k,0,serikaya,dasar,
+115386.1,x,,se- + <rikaya>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115387,k,0,serimala,dasar,
+115387.1,x,,se- + <rimala>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115388,v,4,serimbun,dasar,
+115388.1,v,,se- + <rimbun>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115389,k,0,serimis,dasar,
+115389.1,v,,se- + <rimis>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115389.2,x,,<serimi> + [-is:-s],bentukan,[177] [S] -is + (i)
+115389.3,x,,<serim> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+115390,t,3,serimonial,dasar,seremonial
+115390.1,x,,se- + <rimonial>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115391,k,0,serimpet,dasar,
+115391.1,x,,se- + <rimpet>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115392,k,10,serimpi,dasar,
+115392.1,x,,se- + <rimpi>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115392.2,x,,<serimp> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+115393,k,0,serimpung,dasar,
+115393.1,x,,se- + <rimpung>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115394,c,6,serin,dasar,serina
+115394.1,x,,se- + <rin>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115395,k,2,serina,dasar,
+115395.1,x,,se- + <rina>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115396,k,0,serindai,dasar,
+115396.1,x,,se- + <rindai>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115396.2,x,,<serinda> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+115397,k,3,serindit,dasar,
+115397.1,x,,se- + <rindit>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115398,k,0,serindit gajah,dasar,
+115398.1,x,,se- + <rindit gajah>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115399,k,5640,sering,dasar,
+115399.1,x,,se- + <ring>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115400,k,0,sering kali,dasar,
+115400.1,x,,se- + <ring kali>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115400.2,x,,<sering kal> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+115401,k,61,sering-sering,dasar,
+115401.1,v,,<sering> [-] <r>,bentukan,[23] [RD] |
+115401.2,x,,se- + <ring> [-] se- + <r>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya) => [23] [RD] |
+,,,,,
+115402,v,12,sering-seringlah,dasar,
+115402.1,x,,se- + <ring> [-] se- + <r> + -lah,bentukan,[66] se- + (<all>) + (-an;-kan;-nya) => [67] [RD] se-|se-
+115402.2,v,,<sering> [-] <r> + -lah,bentukan,[23] [RD] | => [31] [FS] -lah + (<all>)
+115402.3,x,,se- + <ring> [-] se- + <r> + -lah,bentukan,[66] se- + (<all>) + (-an;-kan;-nya) => [23] [RD] | => [31] [FS] -lah + (<all>)
+,,,,,
+115403,k,33,seringai,dasar,
+115403.1,x,,se- + <ringai>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115403.2,x,,<seringa> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+115404,v,4,seringaian,dasar,
+115404.1,x,,se- + <ringai> + -an,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115404.2,x,,se- + <ringaian>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115404.3,v,,<seringai> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+115405,v,6,seringainya,dasar,
+115405.1,x,,se- + <ringai> + -nya,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115405.2,x,,se- + <ringainya>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115405.3,v,,<seringai> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+115405.4,x,,se- + <ringai> + -nya,bentukan,[66] se- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+115405.5,x,,<seringa> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+115406,v,21,seringan,dasar,
+115406.1,x,,se- + <ring> + -an,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115406.2,v,,se- + <ringan>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115406.3,x,,<sering> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+115407,v,6,seringgit,dasar,
+115407.1,v,,se- + <ringgit>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115408,k,0,seringih,dasar,
+115408.1,x,,se- + <ringih>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115409,k,0,seringing,dasar,
+115409.1,x,,se- + <ringing>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115410,v,38,seringkah,dasar,
+115410.1,x,,se- + <ringkah>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115410.2,v,,<sering> + -kah,bentukan,[30] [FS] -kah + (<all>)
+115410.3,x,,se- + <ring> + -kah,bentukan,[66] se- + (<all>) + (-an;-kan;-nya) => [30] [FS] -kah + (<all>)
+,,,,,
+115411,c,962,seringkali,dasar,sering kali
+115411.1,x,,se- + <ringkali>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115411.2,x,,<seringkal> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+115412,v,2,seringkih,dasar,
+115412.1,v,,se- + <ringkih>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115413,v,3,seringlah,dasar,
+115413.1,x,,se- + <ringlah>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115413.2,v,,<sering> + -lah,bentukan,[31] [FS] -lah + (<all>)
+115413.3,x,,se- + <ring> + -lah,bentukan,[66] se- + (<all>) + (-an;-kan;-nya) => [31] [FS] -lah + (<all>)
+,,,,,
+115414,v,168,seringnya,dasar,
+115414.1,x,,se- + <ring> + -nya,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115414.2,x,,se- + <ringnya>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115414.3,v,,<sering> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+115414.4,x,,se- + <ring> + -nya,bentukan,[66] se- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+,,,,,
+115415,v,19,serinya,dasar,
+115415.1,x,,se- + <ri> + -nya,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115415.2,x,,se- + <rinya>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115415.3,v,,<seri> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+115415.4,x,,se- + <ri> + -nya,bentukan,[66] se- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+115415.5,x,,<ser> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+115416,k,4,seriosa,dasar,
+115416.1,x,,se- + <riosa>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115417,k,0,serip,dasar,
+115417.1,x,,se- + <rip>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115418,v,3,seririt,dasar,
+115418.1,v,,se- + <ririt>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115419,k,0,serit,dasar,
+115419.1,x,,se- + <rit>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115420,k,0,seritan,dasar,
+115420.1,x,,se- + <rit> + -an,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115420.2,x,,se- + <ritan>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115420.3,v,,<serit> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+115421,v,3,seriuh,dasar,
+115421.1,v,,se- + <riuh>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115422,k,3,serium,dasar,
+115422.1,x,,se- + <rium>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115423,k,2207,serius,dasar,
+115423.1,x,,se- + <rius>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115424,v,3,serius-serius,dasar,
+115424.1,v,,<serius> [-] <r>,bentukan,[23] [RD] |
+115424.2,x,,se- + <rius> [-] se- + <r>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya) => [23] [RD] |
+,,,,,
+115425,t,3,seriusan,dasar,seriuskah
+115425.1,x,,se- + <rius> + -an,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115425.2,x,,se- + <riusan>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115425.3,x,,<serius> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+115426,t,2,seriusin,dasar,seriuskan
+115426.1,x,,se- + <riusin>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115427,v,2,seriuskah,dasar,
+115427.1,x,,se- + <riuskah>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115427.2,v,,<serius> + -kah,bentukan,[30] [FS] -kah + (<all>)
+115427.3,x,,se- + <rius> + -kah,bentukan,[66] se- + (<all>) + (-an;-kan;-nya) => [30] [FS] -kah + (<all>)
+,,,,,
+115428,v,31,seriusnya,dasar,
+115428.1,x,,se- + <rius> + -nya,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115428.2,x,,se- + <riusnya>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+115428.3,v,,<serius> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+115428.4,x,,se- + <rius> + -nya,bentukan,[66] se- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+,,,,,
+115429,v,5,serka,dasar,
+,,,,,
+115430,k,0,serkah,dasar,
+115430.1,x,,<ser> + -kah,bentukan,[30] [FS] -kah + (<all>)
+115430.2,x,,se- + <r> + -kah,bentukan,[66] se- + (<all>) + (-an;-kan;-nya) => [30] [FS] -kah + (<all>)
+,,,,,
+115431,k,0,serkai,dasar,
+115431.1,x,,<serka> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+115432,k,0,serkam,dasar,
+,,,,,
+115433,k,0,serkap,dasar,
+,,,,,
+115434,k,0,serklase,dasar,
+115434.1,x,,<serkl> + -ase,bentukan,[210] [S] -ase + (<all>)
+,,,,,
+115435,k,0,serkup,dasar,
+,,,,,
+115436,k,0,serlah,dasar,
+115436.1,x,,<ser> + -lah,bentukan,[31] [FS] -lah + (<all>)
+115436.2,x,,se- + <r> + -lah,bentukan,[66] se- + (<all>) + (-an;-kan;-nya) => [31] [FS] -lah + (<all>)
+,,,,,
+115437,k,0,serling,dasar,
+,,,,,
+115438,k,0,sermangin,dasar,
+,,,,,
+115439,k,0,sermet,dasar,
+,,,,,
+115440,k,0,sernak,dasar,
+,,,,,
+115441,k,13,sero,dasar,
+115441.1,x,,se- + <ro>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115442,k,0,serobeh,dasar,
+115442.1,x,,se- + <robeh>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115443,k,0,serobok,dasar,
+115443.1,x,,se- + <robok>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115444,k,11,serobot,dasar,
+115444.1,x,,se- + <robot>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115445,k,0,serobot-serobotan,dasar,
+115445.1,v,,<serobot> [-] <r> + -an,bentukan,[23] [RD] |
+115445.2,x,,se- + <robot> [-] se- + <r> + -an,bentukan,[66] se- + (<all>) + (-an;-kan;-nya) => [23] [RD] |
+,,,,,
+115446,k,0,seroda,dasar,
+115446.1,v,,se- + <roda>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)
+,,,,,
+115447,k,0,serodok,dasar,
+115447.1,x,,se- + <rodok>,bentukan,[66] se- + (<all>) + (-an;-kan;-nya)

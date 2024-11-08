@@ -1,0 +1,1648 @@
+Nomor,KP,Jumlah,Entri,Tipe,Pembentukan
+48861,k,9,kapasitif,dasar,
+,,,,,
+48862,k,16,kapasitor,dasar,
+,,,,,
+48863,v,2,kapasnya,dasar,
+48863.1,v,,<kapas> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+48864,k,6,kapat,dasar,
+,,,,,
+48865,k,0,kapauku,dasar,
+48865.1,x,,<kapau> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+48866,k,0,kapaur,dasar,
+,,,,,
+48867,k,0,kapauri,dasar,
+48867.1,x,,<kapaur> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+48868,k,0,kape,dasar,
+,,,,,
+48869,k,34,kapel,dasar,
+,,,,,
+48870,k,0,kapela,dasar,
+,,,,,
+48871,k,0,kapelian,dasar,
+48871.1,x,,<kapeli> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+48872,c,2,kaper,dasar,karper
+,,,,,
+48873,k,7,kapi,dasar,
+48873.1,x,,<kap> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+48874,k,0,kapilah,dasar,
+48874.1,x,,<kapi> + -lah,bentukan,[31] [FS] -lah + (<all>)
+48874.2,x,,<kap> + -i + -lah,bentukan,[28] [S] -i + (<all>) => [31] [FS] -lah + (<all>)
+,,,,,
+48875,k,2,kapilaritas,dasar,
+48875.1,x,,<kapilar> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+48876,k,0,kapilatus,dasar,
+,,,,,
+48877,k,45,kapiler,dasar,
+,,,,,
+48878,c,5,kapir,dasar,kafir
+,,,,,
+48879,k,6,kapiran,dasar,
+48879.1,x,,<kapir> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+48880,k,0,kapis,dasar,
+48880.1,x,,<kapi> + [-is:-s],bentukan,[177] [S] -is + (i)
+48880.2,x,,<kap> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+48881,k,0,kapisa,dasar,
+,,,,,
+48882,k,0,kapisator,dasar,
+,,,,,
+48883,k,0,kapit,dasar,
+,,,,,
+48884,k,159,kapita,dasar,
+,,,,,
+48885,k,0,kapita selekta,dasar,
+,,,,,
+48886,k,121,kapital,dasar,
+,,,,,
+48887,k,0,kapital besar,dasar,
+,,,,,
+48888,k,0,kapital kecil,dasar,
+,,,,,
+48889,k,114,kapitalis,dasar,
+48889.1,x,,<kapitali> + [-is:-s],bentukan,[177] [S] -is + (i)
+48889.2,v,,<kapital> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+48890,k,0,kapitalis birokrat,dasar,
+,,,,,
+48891,k,0,kapitalis borjuis,dasar,
+48891.1,x,,<kapitalis borjui> + [-is:-s],bentukan,[177] [S] -is + (i)
+48891.2,x,,<kapitalis borju> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+48892,v,2,kapitalis-kapitalis,dasar,
+48892.1,v,,<kapitalis> [-] <r>,bentukan,[23] [RD] |
+48892.2,x,,<kapitali> + [-is:-s] [-] <r> + [-is:-s],bentukan,[177] [S] -is + (i) => [23] [RD] |
+48892.3,x,,<kapital> + -is [-] <r> + -is,bentukan,[178] [S] -is + (<others>) => [23] [RD] |
+,,,,,
+48893,k,76,kapitalisasi,dasar,
+48893.1,x,,<kapitalisas> + -i,bentukan,[28] [S] -i + (<all>)
+48893.2,x,,<kapitali> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+48893.3,x,,<kapitalis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+48893.4,v,,<kapital> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+48894,k,0,kapitalisasi pendidikan,dasar,
+48894.1,x,,<kapitalisasi pendidi> + -kan,bentukan,[29] [S] -kan + (<all>)
+48894.2,x,,<kapitalisasi pendidik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+48895,k,142,kapitalisme,dasar,
+48895.1,v,,<kapital> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+48896,v,2,kapitalismenya,dasar,
+48896.1,x,,<kapitalisme> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+48896.2,v,,<kapital> + -isme + -nya,bentukan,[89] [S] -isme + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+48897,k,12,kapitalistik,dasar,
+,,,,,
+48898,k,0,kapitalistis,dasar,
+48898.1,x,,<kapitalisti> + [-is:-s],bentukan,[177] [S] -is + (i)
+48898.2,x,,<kapitalist> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+48899,v,3,kapitalnya,dasar,
+48899.1,v,,<kapital> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+48900,k,23,kapitan,dasar,
+48900.1,x,,<kapit> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+48901,v,9,kapitanya,dasar,
+48901.1,v,,<kapita> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+48902,c,7,kapiten,dasar,kapten
+,,,,,
+48903,k,0,kapitol,dasar,
+,,,,,
+48904,k,6,kapitulasi,dasar,
+48904.1,x,,<kapitulas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+48905,k,0,kapitulum,dasar,
+,,,,,
+48906,k,0,kaplares,dasar,
+,,,,,
+48907,k,0,kaplars,dasar,
+,,,,,
+48908,k,5,kaplet,dasar,
+,,,,,
+48909,c,16,kapling,dasar,kaveling
+,,,,,
+48910,k,0,kaplok,dasar,
+,,,,,
+48911,k,0,kaplok dada,dasar,
+,,,,,
+48912,v,4,kapnya,dasar,
+48912.1,v,,<kap> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+48913,k,0,kapo,dasar,
+,,,,,
+48914,k,0,kapoeira,dasar,
+,,,,,
+48915,k,85,kapok,dasar,
+,,,,,
+48916,k,0,kapok kawus,dasar,
+,,,,,
+48917,k,0,kapok lombok,dasar,
+,,,,,
+48918,v,2,kapok-kapoknya,dasar,
+48918.1,x,,<kapok> [-] <r> + -nya,bentukan,[23] [RD] |
+48918.2,v,,<kapok> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+48919,d,0,kapolda,dasar,
+,,,,,
+48920,d,0,kapoldanya,dasar,
+48920.1,v,,<kapolda> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+48921,d,0,kapolri,dasar,
+48921.1,x,,<kapolr> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+48922,k,0,kapon,dasar,
+,,,,,
+48923,k,14,kaporit,dasar,
+,,,,,
+48924,k,18,kappa,dasar,
+,,,,,
+48925,k,77,kaprah,dasar,
+,,,,,
+48926,v,3,kaprahnya,dasar,
+48926.1,v,,<kaprah> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+48927,k,7,kapri,dasar,
+48927.1,x,,<kapr> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+48928,k,0,kaprikornus,dasar,
+,,,,,
+48929,k,0,kapsaisin,dasar,
+,,,,,
+48930,k,0,kapsalon,dasar,
+,,,,,
+48931,k,0,kapsel,dasar,
+,,,,,
+48932,k,0,kapstan,dasar,
+48932.1,x,,<kapst> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+48933,k,4,kapster,dasar,
+,,,,,
+48934,k,6,kapstok,dasar,
+,,,,,
+48935,k,77,kapsul,dasar,
+,,,,,
+48936,k,0,kapsul aneroid,dasar,
+48936.1,x,,<kapsul aner> + -oid,bentukan,[209] [S] -oid + (<all>)
+,,,,,
+48937,k,0,kapsul bakteri,dasar,
+48937.1,x,,<kapsul bakter> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+48938,k,0,kapsul renik,dasar,
+,,,,,
+48939,v,5,kapsul-kapsul,dasar,
+48939.1,v,,<kapsul> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+48940,v,4,kapsula,dasar,
+,,,,,
+48941,v,3,kapsulnya,dasar,
+48941.1,v,,<kapsul> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+48942,k,322,kapten,dasar,
+,,,,,
+48943,k,0,kapten kapal,dasar,
+,,,,,
+48944,k,0,kapten pramutamu,dasar,
+48944.1,x,,<kapten pramuta> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+,,,,,
+48945,k,0,kapu,dasar,
+,,,,,
+48946,k,0,kapu-kapu,dasar,
+48946.1,v,,<kapu> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+48947,k,63,kapuas,dasar,
+,,,,,
+48948,k,0,kapuas hulu,dasar,
+,,,,,
+48949,k,0,kapucino,dasar,
+,,,,,
+48950,k,196,kapuk,dasar,
+,,,,,
+48951,v,3,kapuknya,dasar,
+48951.1,v,,<kapuk> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+48952,k,14,kapulaga,dasar,
+,,,,,
+48953,k,0,kapung,dasar,
+,,,,,
+48954,k,0,kapupurapi,dasar,
+48954.1,x,,<kapupurap> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+48955,k,155,kapur,dasar,
+,,,,,
+48956,k,0,kapur barus,dasar,
+,,,,,
+48957,k,0,kapur belanda,dasar,
+48957.1,x,,<kapur bela> + [-anda:-nda],bentukan,[183] [S] -anda + (i;u;a;[k:])
+48957.2,x,,<kapur belan> + [-anda:-da],bentukan,[184] [S] -anda + (an)
+48957.3,x,,<kapur bel> + -anda,bentukan,[185] [S] -anda + (<others>)
+,,,,,
+48958,k,0,kapur hidup,dasar,
+,,,,,
+48959,k,0,kapur jahit,dasar,
+,,,,,
+48960,k,0,kapur kembang,dasar,
+,,,,,
+48961,k,0,kapur kuripan,dasar,
+48961.1,x,,<kapur kurip> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+48962,k,0,kapur mentah,dasar,
+,,,,,
+48963,k,0,kapur sirih,dasar,
+,,,,,
+48964,k,0,kapur tohor,dasar,
+,,,,,
+48965,k,0,kapur tulis,dasar,
+48965.1,x,,<kapur tuli> + [-is:-s],bentukan,[177] [S] -is + (i)
+48965.2,x,,<kapur tul> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+48966,k,0,kapuran,dasar,
+48966.1,x,,<kapur> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+48967,k,0,kapurancang,dasar,
+,,,,,
+48968,k,0,kapuranta,dasar,
+,,,,,
+48969,v,4,kapurnya,dasar,
+48969.1,v,,<kapur> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+48970,k,0,kapurung,dasar,
+,,,,,
+48971,k,106,kara,dasar,
+,,,,,
+48972,k,0,kara benguk,dasar,
+,,,,,
+48973,k,0,kara kaji,dasar,
+48973.1,x,,<kara kaj> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+48974,k,0,karaba,dasar,
+,,,,,
+48975,k,0,karabin,dasar,
+,,,,,
+48976,k,0,karabu,dasar,
+,,,,,
+48977,k,7,karaeng,dasar,
+,,,,,
+48978,k,0,karaf,dasar,
+,,,,,
+48979,k,0,karage,dasar,
+,,,,,
+48980,k,0,karagen,dasar,
+,,,,,
+48981,k,5,karagenan,dasar,
+48981.1,x,,<karagen> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+48982,k,3,karah,dasar,
+,,,,,
+48983,k,0,karahah,dasar,
+,,,,,
+48984,c,8,karak,dasar,kerak
+,,,,,
+48985,k,1917,karakter,dasar,
+,,,,,
+48986,k,0,karakter amoral,dasar,
+,,,,,
+48987,k,0,karakter anal,dasar,
+,,,,,
+48988,k,0,karakter permintaan,dasar,
+48988.1,x,,<karakter perminta> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+48989,v,122,karakter-karakter,dasar,
+48989.1,v,,<karakter> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+48990,v,11,karakter-karakternya,dasar,
+48990.1,x,,<karakter> [-] <r> + -nya,bentukan,[23] [RD] |
+48990.2,v,,<karakter> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+48991,k,120,karakterisasi,dasar,
+48991.1,x,,<karakterisas> + -i,bentukan,[28] [S] -i + (<all>)
+48991.2,x,,<karakteri> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+48991.3,x,,<karakteris> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+48991.4,v,,<karakter> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+48992,k,1799,karakteristik,dasar,
+,,,,,
+48993,k,0,karakteristik mutu,dasar,
+,,,,,
+48994,k,0,karakteristik seks primer,dasar,
+,,,,,
+48995,k,0,karakteristik terperoleh,dasar,
+,,,,,
+48996,v,17,karakteristik-karakteristik,dasar,
+48996.1,v,,<karakteristik> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+48997,v,104,karakteristiknya,dasar,
+48997.1,v,,<karakteristik> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+48998,v,4,karaktermu,dasar,
+48998.1,v,,<karakter> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+,,,,,
+48999,v,213,karakternya,dasar,
+48999.1,v,,<karakter> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+49000,k,0,karakterologi,dasar,
+49000.1,x,,<karakterolog> + -i,bentukan,[28] [S] -i + (<all>)
+49000.2,x,,<karaktero> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+49001,k,0,karakuri,dasar,
+49001.1,x,,<karakur> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49002,k,57,karam,dasar,
+,,,,,
+49003,k,7,karamah,dasar,
+,,,,,
+49004,k,15,karamba,dasar,
+,,,,,
+49005,k,0,karambau,dasar,
+,,,,,
+49006,k,8,karambol,dasar,
+,,,,,
+49007,k,11,karamel,dasar,
+,,,,,
+49008,k,2,karamelisasi,dasar,
+49008.1,x,,<karamelisas> + -i,bentukan,[28] [S] -i + (<all>)
+49008.2,x,,<karameli> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+49008.3,x,,<karamelis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+49008.4,v,,<karamel> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+49009,v,2,karamlah,dasar,
+49009.1,v,,<karam> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+49010,v,5,karamnya,dasar,
+49010.1,v,,<karam> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+49011,k,0,karamunting,dasar,
+,,,,,
+49012,k,6,karan,dasar,
+49012.1,x,,<kar> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49013,k,443,karang,dasar,
+,,,,,
+49014,k,0,karang balita,dasar,
+,,,,,
+49015,k,0,karang gizi,dasar,
+49015.1,x,,<karang giz> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49016,k,0,karang keputraan,dasar,
+49016.1,x,,<karang keputra> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49017,k,0,karang otak,dasar,
+,,,,,
+49018,k,0,karang sedimenter,dasar,
+,,,,,
+49019,k,0,karang taruna,dasar,
+,,,,,
+49020,k,0,karang tinggi,dasar,
+49020.1,x,,<karang tingg> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49021,k,0,karang werda,dasar,
+,,,,,
+49022,v,9,karang-karang,dasar,
+49022.1,v,,<karang> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+49023,k,4,karang-karangan,dasar,
+49023.1,v,,<karang> [-] <r> + -an,bentukan,[23] [RD] |
+,,,,,
+49024,v,2,karang-karangnya,dasar,
+49024.1,x,,<karang> [-] <r> + -nya,bentukan,[23] [RD] |
+49024.2,v,,<karang> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+49025,k,5,karang-mengarang,dasar,
+49025.1,v,,<karang> [-] [meng-:me-] + <r>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [24] [RD] |meng-
+,,,,,
+49026,k,248,karangan,dasar,
+49026.1,v,,<karang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49027,k,0,karangan atas nama,dasar,
+,,,,,
+49028,k,0,karangan bunga,dasar,
+,,,,,
+49029,k,0,karangan khas,dasar,
+,,,,,
+49030,k,0,karangan khusus,dasar,
+,,,,,
+49031,k,0,karangan objektif,dasar,
+,,,,,
+49032,v,15,karangan-karangan,dasar,
+49032.1,v,,<karangan> [-] <r>,bentukan,[23] [RD] |
+49032.2,x,,<karang> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+49033,v,4,karangan-karangannya,dasar,
+49033.1,v,,<karangan> [-] <r> + -nya,bentukan,[23] [RD] |
+49033.2,x,,<karang> + -an [-] <r> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+49033.3,x,,<karangan> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+49033.4,v,,<karang> + -an [-] <r> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+49034,v,4,karanganku,dasar,
+49034.1,x,,<karangan> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+49034.2,v,,<karang> + -an + -ku,bentukan,[38] [S] -an + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+49035,v,4,karanganmu,dasar,
+49035.1,x,,<karangan> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+49035.2,v,,<karang> + -an + -mu,bentukan,[38] [S] -an + (<all>) => [33] [SFS] -mu + (<all>)
+,,,,,
+49036,v,52,karangannya,dasar,
+49036.1,x,,<karangan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+49036.2,v,,<karang> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+49037,k,82,karanganyar,dasar,
+,,,,,
+49038,k,69,karangasem,dasar,
+,,,,,
+49039,k,0,karangkan,dasar,
+49039.1,v,,<karang> + -kan,bentukan,[29] [S] -kan + (<all>)
+49039.2,x,,<karangk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49040,k,0,karangkitri,dasar,
+49040.1,x,,<karangkitr> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49041,k,0,karangwulu,dasar,
+,,,,,
+49042,k,0,karantala,dasar,
+,,,,,
+49043,k,389,karantina,dasar,
+,,,,,
+49044,k,0,karantina mandiri,dasar,
+49044.1,x,,<karantina mandir> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49045,k,0,karantina wilayah,dasar,
+,,,,,
+49046,k,0,karantinawan,dasar,
+49046.1,x,,<karantinaw> + -an,bentukan,[38] [S] -an + (<all>)
+49046.2,v,,<karantina> + -wan,bentukan,[180] [S] -wan + (<others>)
+49046.3,x,,<karantin> + [-wan:-awan],bentukan,[18000001] [S] -wan + (<all>)
+,,,,,
+49047,k,60,karaoke,dasar,
+,,,,,
+49048,v,3,karaokean,dasar,
+49048.1,v,,<karaoke> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49049,k,0,karap,dasar,
+,,,,,
+49050,k,0,karapa,dasar,
+,,,,,
+49051,k,0,karapaks,dasar,
+,,,,,
+49052,k,12,karapan,dasar,
+49052.1,x,,<karap> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49053,k,0,karapao,dasar,
+,,,,,
+49054,k,5,karapas,dasar,
+,,,,,
+49055,k,0,karar,dasar,
+,,,,,
+49056,k,2,karas,dasar,
+,,,,,
+49057,k,0,karasi,dasar,
+49057.1,x,,<karas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49058,k,86,karat,dasar,
+,,,,,
+49059,k,0,karat hati,dasar,
+49059.1,x,,<karat hat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49060,k,0,karat merah teh,dasar,
+,,,,,
+49061,k,0,karat putih,dasar,
+,,,,,
+49062,k,27,karatan,dasar,
+49062.1,v,,<karat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49063,k,0,karatase,dasar,
+49063.1,v,,<karat> + -ase,bentukan,[210] [S] -ase + (<all>)
+,,,,,
+49064,k,44,karate,dasar,
+,,,,,
+49065,k,0,karategi,dasar,
+49065.1,x,,<karateg> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49066,k,7,karateka,dasar,
+,,,,,
+49067,v,3,karatnya,dasar,
+49067.1,v,,<karat> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+49068,k,0,karau,dasar,
+,,,,,
+49069,k,14,karavan,dasar,
+49069.1,x,,<karav> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49070,k,258,karawang,dasar,
+,,,,,
+49071,k,0,karawista,dasar,
+,,,,,
+49072,k,35,karawitan,dasar,
+49072.1,x,,<karawit> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49073,k,5,karawo,dasar,
+,,,,,
+49074,k,0,karbamase,dasar,
+49074.1,x,,<karbam> + -ase,bentukan,[210] [S] -ase + (<all>)
+,,,,,
+49075,k,3,karbamat,dasar,
+,,,,,
+49076,k,0,karbid,dasar,
+,,,,,
+49077,k,0,karbida,dasar,
+,,,,,
+49078,k,0,karbidan,dasar,
+49078.1,x,,<karbid> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49079,c,13,karbit,dasar,karbida
+,,,,,
+49080,k,6,karbitan,dasar,
+49080.1,v,,<karbit> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49081,k,15,karbo,dasar,
+,,,,,
+49082,k,0,karbofobia,dasar,
+49082.1,x,,<karbo> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+49083,k,0,karbohidrase,dasar,
+49083.1,x,,<karbohidr> + -ase,bentukan,[210] [S] -ase + (<all>)
+,,,,,
+49084,k,281,karbohidrat,dasar,
+,,,,,
+49085,k,0,karbohidrat kompleks,dasar,
+,,,,,
+49086,v,12,karbohidratnya,dasar,
+49086.1,v,,<karbohidrat> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+49087,k,11,karboksil,dasar,
+,,,,,
+49088,k,12,karbol,dasar,
+,,,,,
+49089,k,0,karbolat,dasar,
+,,,,,
+49090,k,0,karbolik,dasar,
+,,,,,
+49091,k,0,karbometer,dasar,
+49091.1,x,,<karbo> + -meter,bentukan,[189] [S] -meter + (<all>)
+,,,,,
+49092,k,365,karbon,dasar,
+,,,,,
+49093,k,0,karbon aktif,dasar,
+,,,,,
+49094,k,0,karbon biru,dasar,
+,,,,,
+49095,k,0,karbon cokelat,dasar,
+,,,,,
+49096,k,0,karbon dioksida,dasar,
+,,,,,
+49097,k,0,karbon hijau,dasar,
+,,,,,
+49098,k,0,karbon hitam,dasar,
+,,,,,
+49099,k,0,karbon monoksida,dasar,
+,,,,,
+49100,k,0,karbon tetraklorida,dasar,
+,,,,,
+49101,v,3,karbon-karbon,dasar,
+49101.1,v,,<karbon> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+49102,k,0,karbonado,dasar,
+,,,,,
+49103,k,8,karbonan,dasar,
+49103.1,x,,<karbon> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49104,k,0,karbonan tetap,dasar,
+,,,,,
+49105,k,0,karbonara,dasar,
+,,,,,
+49106,k,4,karbonasi,dasar,
+49106.1,x,,<karbonas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49107,k,43,karbonat,dasar,
+,,,,,
+49108,k,18,karbonil,dasar,
+,,,,,
+49109,k,0,karbonil klorida,dasar,
+,,,,,
+49110,k,5,karbonisasi,dasar,
+49110.1,x,,<karbonisas> + -i,bentukan,[28] [S] -i + (<all>)
+49110.2,x,,<karboni> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+49110.3,x,,<karbonis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+49110.4,x,,<karbo> + [-isasi:-nisasi],bentukan,[168] [S] -isasi + (a;e;u;o)
+49110.5,v,,<karbon> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+49111,k,0,karbonium,dasar,
+,,,,,
+49112,k,0,karborundum,dasar,
+,,,,,
+49113,k,0,karburasi,dasar,
+49113.1,x,,<karburas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49114,k,24,karburator,dasar,
+,,,,,
+49115,k,0,karburisasi,dasar,
+49115.1,x,,<karburisas> + -i,bentukan,[28] [S] -i + (<all>)
+49115.2,x,,<karburi> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+49115.3,x,,<karburis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+49115.4,x,,<karbur> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+49116,k,91,karcis,dasar,
+49116.1,x,,<karci> + [-is:-s],bentukan,[177] [S] -is + (i)
+49116.2,x,,<karc> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+49117,k,0,karcis masuk,dasar,
+,,,,,
+49118,k,0,karcis terusan,dasar,
+49118.1,x,,<karcis terus> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49119,v,2,karcisku,dasar,
+49119.1,v,,<karcis> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+49119.2,x,,<karci> + [-is:-s] + -ku,bentukan,[177] [S] -is + (i) => [32] [SFS] -ku + (<all>)
+49119.3,x,,<karc> + -is + -ku,bentukan,[178] [S] -is + (<others>) => [32] [SFS] -ku + (<all>)
+,,,,,
+49120,v,5,karcisnya,dasar,
+49120.1,v,,<karcis> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+49120.2,x,,<karci> + [-is:-s] + -nya,bentukan,[177] [S] -is + (i) => [34] [SFS] -nya + (<all>)
+49120.3,x,,<karc> + -is + -nya,bentukan,[178] [S] -is + (<others>) => [34] [SFS] -nya + (<all>)
+,,,,,
+49121,k,0,kardamunggu,dasar,
+,,,,,
+49122,k,0,kardan,dasar,
+49122.1,x,,<kard> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49123,k,0,kardia,dasar,
+,,,,,
+49124,k,4,kardiak,dasar,
+,,,,,
+49125,k,7,kardigan,dasar,
+49125.1,x,,<kardig> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49126,v,2,kardigannya,dasar,
+49126.1,v,,<kardigan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+49126.2,x,,<kardig> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+49127,k,0,kardil,dasar,
+,,,,,
+49128,k,21,kardinal,dasar,
+,,,,,
+49129,v,2,kardinalitas,dasar,
+49129.1,v,,<kardinal> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+49130,v,19,kardio,dasar,
+,,,,,
+49131,k,0,kardiograf,dasar,
+49131.1,x,,<kardio> + -graf,bentukan,[191] [S] -graf + (<all>)
+,,,,,
+49132,k,0,kardiografi,dasar,
+49132.1,v,,<kardiograf> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49133,k,0,kardiogram,dasar,
+,,,,,
+49134,k,0,kardioid,dasar,
+49134.1,x,,<kardi> + -oid,bentukan,[209] [S] -oid + (<all>)
+,,,,,
+49135,k,4,kardiolog,dasar,
+,,,,,
+49136,k,15,kardiologi,dasar,
+49136.1,x,,<kardiolog> + -i,bentukan,[28] [S] -i + (<all>)
+49136.2,x,,<kardio> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+49137,k,4,kardiomiopati,dasar,
+49137.1,x,,<kardiomiopat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49138,v,3,kardiomiosit,dasar,
+,,,,,
+49139,v,4,kardioprotektif,dasar,
+,,,,,
+49140,v,4,kardiorespirasi,dasar,
+49140.1,x,,<kardiorespiras> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49141,k,0,kardiotokografi,dasar,
+49141.1,x,,<kardiotokograf> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49142,k,109,kardiovaskular,dasar,
+,,,,,
+49143,k,0,karditis,dasar,
+49143.1,x,,<karditi> + [-is:-s],bentukan,[177] [S] -is + (i)
+49143.2,x,,<kardit> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+49144,k,149,kardus,dasar,
+,,,,,
+49145,v,10,kardus-kardus,dasar,
+49145.1,v,,<kardus> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+49146,v,5,kardusnya,dasar,
+49146.1,v,,<kardus> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+49147,k,6,karedok,dasar,
+,,,,,
+49148,k,0,karees,dasar,
+,,,,,
+49149,k,0,karekeregalang,dasar,
+,,,,,
+49150,k,14,karekteristik,dasar,
+,,,,,
+49151,k,47,karel,dasar,
+,,,,,
+49152,k,0,karela,dasar,
+,,,,,
+49153,k,0,karembong,dasar,
+,,,,,
+49154,k,0,karemos,dasar,
+,,,,,
+49155,k,21881,karena,dasar,
+,,,,,
+49156,k,0,karena allah,dasar,
+49156.1,x,,<karena al> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+49157,v,2,karena-mu,dasar,
+49157.1,v,,<karena-> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+,,,,,
+49158,v,5,karena-nya,dasar,
+49158.1,v,,<karena-> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+49159,v,2,karenaku,dasar,
+49159.1,v,,<karena> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+49160,v,8,karenamu,dasar,
+49160.1,v,,<karena> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+,,,,,
+49161,v,1030,karenanya,dasar,
+49161.1,v,,<karena> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+49162,v,3,karenanyalah,dasar,
+49162.1,x,,<karenanya> + -lah,bentukan,[31] [FS] -lah + (<all>)
+49162.2,v,,<karena> + -nya + -lah,bentukan,[34] [SFS] -nya + (<all>) => [31] [FS] -lah + (<all>)
+,,,,,
+49163,k,0,karengga,dasar,
+,,,,,
+49164,k,0,karepu,dasar,
+,,,,,
+49165,k,0,karerang,dasar,
+,,,,,
+49166,k,0,kareseh-peseh,dasar,
+,,,,,
+49167,c,28,karesidenan,dasar,keresidenan
+49167.1,x,,<karesiden> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49168,k,472,karet,dasar,
+,,,,,
+49169,k,0,karet alam,dasar,
+,,,,,
+49170,k,0,karet bongkah,dasar,
+49170.1,x,,<karet bong> + -kah,bentukan,[30] [FS] -kah + (<all>)
+,,,,,
+49171,k,0,karet busa,dasar,
+,,,,,
+49172,k,0,karet gelang,dasar,
+,,,,,
+49173,k,0,karet mentah,dasar,
+,,,,,
+49174,k,0,karet sintetis,dasar,
+49174.1,x,,<karet sinteti> + [-is:-s],bentukan,[177] [S] -is + (i)
+49174.2,x,,<karet sintet> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+49175,v,2,karetan,dasar,
+49175.1,v,,<karet> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49176,v,13,karetnya,dasar,
+49176.1,v,,<karet> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+49177,k,0,karfasia,dasar,
+,,,,,
+49178,k,165,kargo,dasar,
+,,,,,
+49179,v,5,kargonya,dasar,
+49179.1,v,,<kargo> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+49180,c,70,kari,dasar,qari
+49180.1,x,,<kar> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49181,k,3,karia,dasar,
+,,,,,
+49182,k,0,kariah,dasar,
+49182.1,x,,<kar> + -iah,bentukan,[175] [S] -iah + (<others>)
+,,,,,
+49183,k,0,kariau,dasar,
+,,,,,
+49184,k,115,karib,dasar,
+,,,,,
+49185,k,0,karib baid,dasar,
+,,,,,
+49186,v,11,karibku,dasar,
+49186.1,v,,<karib> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+49187,k,2,karibu,dasar,
+,,,,,
+49188,k,751,karier,dasar,
+,,,,,
+49189,v,17,karierku,dasar,
+49189.1,v,,<karier> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+49190,v,3,kariermu,dasar,
+49190.1,v,,<karier> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+,,,,,
+49191,v,335,kariernya,dasar,
+49191.1,v,,<karier> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+49192,k,15,karies,dasar,
+,,,,,
+49193,k,0,karih,dasar,
+,,,,,
+49194,k,34,karikatur,dasar,
+,,,,,
+49195,k,9,karikatural,dasar,
+,,,,,
+49196,k,0,karikaturis,dasar,
+49196.1,x,,<karikaturi> + [-is:-s],bentukan,[177] [S] -is + (i)
+49196.2,v,,<karikatur> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+49197,k,0,karil,dasar,
+,,,,,
+49198,k,146,karim,dasar,
+,,,,,
+49199,k,38,karimah,dasar,
+,,,,,
+49200,k,114,karimun,dasar,
+,,,,,
+49201,k,26,karina,dasar,
+,,,,,
+49202,k,0,karinasi,dasar,
+49202.1,x,,<karinas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49203,k,0,karincang,dasar,
+,,,,,
+49204,k,8,karinding,dasar,
+,,,,,
+49205,k,3,kariogenik,dasar,
+,,,,,
+49206,k,0,karipap,dasar,
+,,,,,
+49207,c,310,karir,dasar,karier
+,,,,,
+49208,k,47,karisma,dasar,
+,,,,,
+49209,v,10,karismanya,dasar,
+49209.1,v,,<karisma> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+49210,k,41,karismatik,dasar,
+,,,,,
+49211,k,0,karitas,dasar,
+49211.1,x,,<kar> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+49212,k,4,karitatif,dasar,
+,,,,,
+49213,k,0,kariwari,dasar,
+49213.1,x,,<kariwar> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49214,k,24,karkas,dasar,
+,,,,,
+49215,k,0,karkas dingin,dasar,
+,,,,,
+49216,k,0,karkas layu,dasar,
+,,,,,
+49217,k,0,karkas segar,dasar,
+,,,,,
+49218,v,2,karkasnya,dasar,
+49218.1,v,,<karkas> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+49219,k,0,karkata,dasar,
+,,,,,
+49220,k,0,karkausar,dasar,
+,,,,,
+49221,k,0,karkun,dasar,
+,,,,,
+49222,k,0,karlak,dasar,
+,,,,,
+49223,k,69,karma,dasar,
+,,,,,
+49224,k,0,karmantel,dasar,
+,,,,,
+49225,v,5,karmanya,dasar,
+49225.1,v,,<karma> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+49226,k,0,karmina,dasar,
+,,,,,
+49227,k,0,karminatif,dasar,
+,,,,,
+49228,k,70,karnaval,dasar,
+,,,,,
+49229,v,2,karnaval-karnaval,dasar,
+49229.1,v,,<karnaval> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+49230,c,2,karnitin,dasar,karnitina
+,,,,,
+49231,k,0,karnitina,dasar,
+,,,,,
+49232,k,0,karnivor,dasar,
+,,,,,
+49233,c,20,karnivora,dasar,karnivor
+,,,,,
+49234,k,0,karnofobia,dasar,
+49234.1,x,,<karno> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+49235,k,0,karnosin,dasar,
+,,,,,
+49236,k,0,karnosina,dasar,
+,,,,,
+49237,k,128,karo,dasar,
+,,,,,
+49238,k,0,karoda,dasar,
+,,,,,
+49239,k,0,karon,dasar,
+,,,,,
+49240,k,0,karong,dasar,
+,,,,,
+49241,k,0,karosel,dasar,
+,,,,,
+49242,k,20,karoseri,dasar,
+49242.1,x,,<karoser> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49243,k,0,karosi,dasar,
+49243.1,x,,<karos> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49244,c,21,karoten,dasar,karotena
+,,,,,
+49245,k,0,karotena,dasar,
+,,,,,
+49246,k,16,karotenoid,dasar,
+49246.1,x,,<karoten> + -oid,bentukan,[209] [S] -oid + (<all>)
+,,,,,
+49247,k,0,karotin,dasar,
+,,,,,
+49248,k,4,karotis,dasar,
+49248.1,x,,<karoti> + [-is:-s],bentukan,[177] [S] -is + (i)
+49248.2,x,,<karot> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+49249,k,0,karpai,dasar,
+49249.1,x,,<karpa> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49250,k,0,karpal,dasar,
+,,,,,
+49251,k,0,karpatu,dasar,
+,,,,,
+49252,k,4,karpel,dasar,
+,,,,,
+49253,k,0,karper,dasar,
+,,,,,
+49254,k,188,karpet,dasar,
+,,,,,
+49255,k,0,karpet merah,dasar,
+,,,,,
+49256,v,5,karpet-karpet,dasar,
+49256.1,v,,<karpet> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+49257,v,4,karpetnya,dasar,
+49257.1,v,,<karpet> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+49258,k,0,karpopodil,dasar,
+,,,,,
+49259,k,0,karpus,dasar,
+,,,,,
+49260,k,93,karsa,dasar,
+,,,,,
+49261,v,4,karsanya,dasar,
+49261.1,v,,<karsa> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+49262,k,27,karsinogen,dasar,
+,,,,,
+49263,k,0,karsinogenik,dasar,
+,,,,,
+49264,k,0,karsinoid,dasar,
+49264.1,x,,<karsin> + -oid,bentukan,[209] [S] -oid + (<all>)
+,,,,,
+49265,k,0,karsinologi,dasar,
+49265.1,x,,<karsinolog> + -i,bentukan,[28] [S] -i + (<all>)
+49265.2,x,,<karsino> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+49266,k,28,karsinoma,dasar,
+,,,,,
+49267,k,40,karst,dasar,
+,,,,,
+49268,k,0,karteker,dasar,
+,,,,,
+49269,k,53,kartel,dasar,
+,,,,,
+49270,v,4,kartelisasi,dasar,
+49270.1,x,,<kartelisas> + -i,bentukan,[28] [S] -i + (<all>)
+49270.2,x,,<karteli> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+49270.3,x,,<kartelis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+49270.4,v,,<kartel> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+49271,k,4,karti,dasar,
+49271.1,x,,<kart> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49272,k,139,kartika,dasar,
+,,,,,
+49273,k,4,kartilago,dasar,
+,,,,,
+49274,k,3,kartografer,dasar,
+,,,,,
+49275,k,7,kartografi,dasar,
+49275.1,v,,<kartograf> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49276,v,7,kartografis,dasar,
+49276.1,v,,<kartografi> + [-is:-s],bentukan,[177] [S] -is + (i)
+49276.2,x,,<kartograf> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+49277,k,0,kartogram,dasar,
+,,,,,
+49278,k,45,karton,dasar,
+,,,,,
+49279,k,0,karton dupleks,dasar,
+,,,,,
+49280,k,0,kartonase,dasar,
+49280.1,v,,<karton> + -ase,bentukan,[210] [S] -ase + (<all>)
+,,,,,
+49281,k,0,kartonis,dasar,
+49281.1,x,,<kartoni> + [-is:-s],bentukan,[177] [S] -is + (i)
+49281.2,v,,<karton> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+49282,k,0,kartotek,dasar,
+,,,,,
+49283,k,1563,kartu,dasar,
+,,,,,
+49284,k,0,kartu adaptor jaringan,dasar,
+49284.1,x,,<kartu adaptor jaring> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49285,k,0,kartu akselerator,dasar,
+,,,,,
+49286,k,0,kartu anggota,dasar,
+,,,,,
+49287,k,0,kartu antarmuka jaringan,dasar,
+49287.1,x,,<kartu antarmuka jaring> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49288,k,0,kartu as,dasar,
+,,,,,
+49289,k,0,kartu baca,dasar,
+,,,,,
+49290,k,0,kartu besar,dasar,
+,,,,,
+49291,k,0,kartu buku induk,dasar,
+,,,,,
+49292,k,0,kartu ceki,dasar,
+49292.1,x,,<kartu cek> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49293,k,0,kartu data,dasar,
+,,,,,
+49294,k,0,kartu debit,dasar,
+,,,,,
+49295,k,0,kartu domino,dasar,
+,,,,,
+49296,k,0,kartu ekspansi,dasar,
+49296.1,x,,<kartu ekspans> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49297,k,0,kartu eropa,dasar,
+,,,,,
+49298,k,0,kartu identitas,dasar,
+49298.1,x,,<kartu ident> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+49299,k,0,kartu jam,dasar,
+,,,,,
+49300,k,0,kartu jawaban,dasar,
+49300.1,x,,<kartu jawab> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49301,k,0,kartu kecil,dasar,
+,,,,,
+49302,k,0,kartu keluarga,dasar,
+,,,,,
+49303,k,0,kartu kendali,dasar,
+49303.1,x,,<kartu kendal> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49304,k,0,kartu kendali surat keluar,dasar,
+,,,,,
+49305,k,0,kartu kendali surat masuk,dasar,
+,,,,,
+49306,k,0,kartu kredit,dasar,
+,,,,,
+49307,k,0,kartu kunci,dasar,
+49307.1,x,,<kartu kunc> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49308,k,0,kartu kuning,dasar,
+,,,,,
+49309,k,0,kartu lebaran,dasar,
+49309.1,x,,<kartu lebar> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49310,k,0,kartu mati,dasar,
+49310.1,x,,<kartu mat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49311,k,0,kartu memori,dasar,
+49311.1,x,,<kartu memor> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49312,k,0,kartu memori pc,dasar,
+,,,,,
+49313,k,0,kartu menuju sehat,dasar,
+,,,,,
+49314,k,0,kartu merah,dasar,
+,,,,,
+49315,k,0,kartu nama,dasar,
+,,,,,
+49316,k,0,kartu nasabah,dasar,
+,,,,,
+49317,k,0,kartu natal,dasar,
+,,,,,
+49318,k,0,kartu pemercepat,dasar,
+,,,,,
+49319,k,0,kartu penebukan,dasar,
+49319.1,x,,<kartu penebu> + -kan,bentukan,[29] [S] -kan + (<all>)
+49319.2,x,,<kartu penebuk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49320,k,0,kartu penumpang,dasar,
+,,,,,
+49321,k,0,kartu peringatan,dasar,
+49321.1,x,,<kartu peringat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49322,k,0,kartu permainan,dasar,
+49322.1,x,,<kartu permain> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49323,k,0,kartu pers,dasar,
+,,,,,
+49324,k,0,kartu persediaan,dasar,
+49324.1,x,,<kartu persedia> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49325,k,0,kartu pindah,dasar,
+,,,,,
+49326,k,0,kartu pintar,dasar,
+,,,,,
+49327,k,0,kartu plastik,dasar,
+,,,,,
+49328,k,0,kartu pos,dasar,
+,,,,,
+49329,k,0,kartu prabayar,dasar,
+,,,,,
+49330,k,0,kartu pribadi,dasar,
+49330.1,x,,<kartu pribad> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49331,k,0,kartu putih,dasar,
+,,,,,
+49332,k,0,kartu remi,dasar,
+49332.1,x,,<kartu rem> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49333,k,0,kartu rencana studi,dasar,
+49333.1,x,,<kartu rencana stud> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49334,k,0,kartu saran,dasar,
+49334.1,x,,<kartu sar> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49335,k,0,kartu suara,dasar,
+,,,,,
+49336,k,0,kartu tamu,dasar,
+49336.1,x,,<kartu ta> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+,,,,,
+49337,k,0,kartu tanda anggota,dasar,
+,,,,,
+49338,k,0,kartu tanda penduduk,dasar,
+,,,,,
+49339,k,0,kartu tarot,dasar,
+,,,,,
+49340,k,0,kartu terbuka,dasar,
+,,,,,
+49341,k,0,kartu tindak lanjut,dasar,
+,,,,,
+49342,k,0,kartu truf,dasar,
+,,,,,
+49343,k,0,kartu tumbuk,dasar,
+,,,,,
+49344,k,0,kartu ucapan,dasar,
+49344.1,x,,<kartu ucap> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49345,k,0,kartu ulang tahun,dasar,
+,,,,,
+49346,k,0,kartu undangan,dasar,
+49346.1,x,,<kartu undang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49347,k,0,kartu valentin,dasar,
+,,,,,
+49348,k,0,kartu waktu,dasar,
+,,,,,
+49349,v,29,kartu-kartu,dasar,
+49349.1,v,,<kartu> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+49350,v,5,kartuku,dasar,
+49350.1,v,,<kartu> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+49351,k,113,kartun,dasar,
+,,,,,
+49352,k,0,kartun editoral,dasar,
+,,,,,
+49353,v,3,kartun-kartun,dasar,
+49353.1,v,,<kartun> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+49354,v,2,kartun-kartunnya,dasar,
+49354.1,x,,<kartun> [-] <r> + -nya,bentukan,[23] [RD] |
+49354.2,v,,<kartun> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+49355,k,8,kartunis,dasar,
+49355.1,x,,<kartuni> + [-is:-s],bentukan,[177] [S] -is + (i)
+49355.2,v,,<kartun> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+49356,v,8,kartunnya,dasar,
+49356.1,v,,<kartun> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+49357,k,5,karu,dasar,
+,,,,,
+49358,k,97,karuan,dasar,
+49358.1,x,,<karu> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49359,k,0,karufa,dasar,
+,,,,,
+49360,k,5,karuhun,dasar,
+,,,,,
+49361,k,0,karuk,dasar,
+,,,,,
+49362,k,62,karun,dasar,
+,,,,,
+49363,k,181,karung,dasar,
+,,,,,
+49364,v,25,karung-karung,dasar,
+49364.1,v,,<karung> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+49365,v,3,karungan,dasar,
+49365.1,v,,<karung> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49366,k,0,karungkup,dasar,
+,,,,,
+49367,k,132,karunia,dasar,
+,,,,,
+49368,v,11,karunia-nya,dasar,
+49368.1,v,,<karunia-> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+49369,v,2,karuniakan,dasar,
+49369.1,v,,<karunia> + -kan,bentukan,[29] [S] -kan + (<all>)
+49369.2,x,,<karuniak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49370,v,3,karuniakanlah,dasar,
+49370.1,x,,<karuniakan> + -lah,bentukan,[31] [FS] -lah + (<all>)
+49370.2,v,,<karunia> + -kan + -lah,bentukan,[29] [S] -kan + (<all>) => [31] [FS] -lah + (<all>)
+49370.3,x,,<karuniak> + -an + -lah,bentukan,[38] [S] -an + (<all>) => [31] [FS] -lah + (<all>)
+,,,,,
+49371,v,2,karuniamu,dasar,
+49371.1,v,,<karunia> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+,,,,,
+49372,v,3,karunianya,dasar,
+49372.1,v,,<karunia> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+49373,k,0,karunkel,dasar,
+,,,,,
+49374,k,0,karunkula,dasar,
+,,,,,
+49375,k,0,karupit,dasar,
+,,,,,
+49376,k,0,karusi,dasar,
+49376.1,x,,<karus> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49377,k,4,karut,dasar,
+,,,,,
+49378,k,37,karut-marut,dasar,
+49378.1,v,,<[karut:karut-marut]>,bentukan,[Reduplication-Rhyming]
+,,,,,
+49379,v,4,karut-marutnya,dasar,
+49379.1,v,,<[karut:karut-marut]> + -nya,bentukan,[Reduplication-Rhyming] => [34] [SFS] -nya + (<all>)
+49379.2,v,,<[karut:karut-marut]> + -nya,bentukan,[Reduplication-Rhyming] => [34] [SFS] -nya + (<all>)
+,,,,,
+49380,k,0,karveri,dasar,
+49380.1,x,,<karver> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49381,k,0,karwemusbo,dasar,
+,,,,,
+49382,k,2615,karya,dasar,
+,,,,,
+49383,k,0,karya asli,dasar,
+49383.1,x,,<karya asl> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49384,k,0,karya cetak,dasar,
+,,,,,
+49385,k,0,karya ilmiah,dasar,
+49385.1,x,,<karya ilm> + -iah,bentukan,[175] [S] -iah + (<others>)
+,,,,,
+49386,k,0,karya intelektual,dasar,
+,,,,,
+49387,k,0,karya rekam,dasar,
+,,,,,
+49388,k,0,karya sastra,dasar,
+,,,,,
+49389,k,0,karya seni,dasar,
+49389.1,x,,<karya sen> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49390,k,0,karya tulis,dasar,
+49390.1,x,,<karya tuli> + [-is:-s],bentukan,[177] [S] -is + (i)
+49390.2,x,,<karya tul> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+49391,k,0,karya wisata,dasar,
+49391.1,x,,<karya > + -wisata,bentukan,[212] [S] -wisata + (<all>)
+,,,,,
+49392,v,374,karya-karya,dasar,
+49392.1,v,,<karya> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+49393,v,6,karya-karyaku,dasar,
+49393.1,x,,<karya-karya> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+49393.2,v,,<karya> [-] <r> + -ku,bentukan,[23] [RD] | => [32] [SFS] -ku + (<all>)
+,,,,,
+49394,v,155,karya-karyanya,dasar,
+49394.1,x,,<karya> [-] <r> + -nya,bentukan,[23] [RD] |
+49394.2,v,,<karya> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+49395,k,0,karyah,dasar,
+,,,,,
+49396,v,13,karyaku,dasar,
+49396.1,v,,<karya> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+49397,v,11,karyamu,dasar,
+49397.1,v,,<karya> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+,,,,,
+49398,v,489,karyanya,dasar,
+49398.1,v,,<karya> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+49399,k,0,karyasiswa,dasar,
+,,,,,
+49400,k,0,karyat,dasar,
+,,,,,
+49401,k,1226,karyawan,dasar,
+49401.1,x,,<karyaw> + -an,bentukan,[38] [S] -an + (<all>)
+49401.2,v,,<karya> + -wan,bentukan,[180] [S] -wan + (<others>)
+49401.3,x,,<kary> + [-wan:-awan],bentukan,[18000001] [S] -wan + (<all>)
+,,,,,
+49402,k,0,karyawan lepas,dasar,
+,,,,,
+49403,k,0,karyawan manajerial,dasar,
+,,,,,
+49404,k,0,karyawan operasional,dasar,
+,,,,,
+49405,k,0,karyawan tetap,dasar,
+,,,,,
+49406,k,0,karyawan tidak tetap,dasar,
+,,,,,
+49407,v,15,karyawan-karyawan,dasar,
+49407.1,v,,<karyawan> [-] <r>,bentukan,[23] [RD] |
+49407.2,x,,<karyaw> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+49407.3,x,,<karya> + -wan [-] <r> + -wan,bentukan,[180] [S] -wan + (<others>) => [23] [RD] |
+49407.4,x,,<kary> + [-wan:-awan] [-] <r> + [-wan:-awan],bentukan,[18000001] [S] -wan + (<all>) => [23] [RD] |
+,,,,,
+49408,v,4,karyawan-karyawannya,dasar,
+49408.1,v,,<karyawan> [-] <r> + -nya,bentukan,[23] [RD] |
+49408.2,x,,<karyaw> + -an [-] <r> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+49408.3,x,,<karya> + -wan [-] <r> + -wan + -nya,bentukan,[180] [S] -wan + (<others>) => [23] [RD] |
+49408.4,x,,<kary> + [-wan:-awan] [-] <r> + [-wan:-awan] + -nya,bentukan,[18000001] [S] -wan + (<all>) => [23] [RD] |
+49408.5,v,,<karyawan> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+49408.6,x,,<karyaw> + -an [-] <r> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [23] [RD] | => [34] [SFS] -nya + (<all>)
+49408.7,x,,<karya> + -wan [-] <r> + -wan + -nya,bentukan,[180] [S] -wan + (<others>) => [23] [RD] | => [34] [SFS] -nya + (<all>)
+49408.8,x,,<kary> + [-wan:-awan] [-] <r> + [-wan:-awan] + -nya,bentukan,[18000001] [S] -wan + (<all>) => [23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+49409,v,3,karyawanku,dasar,
+49409.1,v,,<karyawan> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+49409.2,x,,<karyaw> + -an + -ku,bentukan,[38] [S] -an + (<all>) => [32] [SFS] -ku + (<all>)
+49409.3,x,,<karya> + -wan + -ku,bentukan,[180] [S] -wan + (<others>) => [32] [SFS] -ku + (<all>)
+49409.4,x,,<kary> + [-wan:-awan] + -ku,bentukan,[18000001] [S] -wan + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+49410,v,2,karyawanmu,dasar,
+49410.1,v,,<karyawan> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+49410.2,x,,<karyaw> + -an + -mu,bentukan,[38] [S] -an + (<all>) => [33] [SFS] -mu + (<all>)
+49410.3,x,,<karya> + -wan + -mu,bentukan,[180] [S] -wan + (<others>) => [33] [SFS] -mu + (<all>)
+49410.4,x,,<kary> + [-wan:-awan] + -mu,bentukan,[18000001] [S] -wan + (<all>) => [33] [SFS] -mu + (<all>)
+,,,,,
+49411,v,173,karyawannya,dasar,
+49411.1,v,,<karyawan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+49411.2,x,,<karyaw> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+49411.3,x,,<karya> + -wan + -nya,bentukan,[180] [S] -wan + (<others>) => [34] [SFS] -nya + (<all>)
+49411.4,x,,<kary> + [-wan:-awan] + -nya,bentukan,[18000001] [S] -wan + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+49412,k,23,karyawati,dasar,
+49412.1,x,,<karyawat> + -i,bentukan,[28] [S] -i + (<all>)
+49412.2,v,,<karya> + -wati,bentukan,[181] [S] -wati + (<all>)
+,,,,,
+49413,v,4,karyawatinya,dasar,
+49413.1,v,,<karyawati> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+49413.2,x,,<karyawat> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+49413.3,x,,<karya> + -wati + -nya,bentukan,[181] [S] -wati + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+49414,k,4,karyawisata,dasar,
+49414.1,x,,<karya> + -wisata,bentukan,[212] [S] -wisata + (<all>)
+,,,,,
+49415,k,929,kas,dasar,
+,,,,,
+49416,k,0,kas besar,dasar,
+,,,,,
+49417,k,0,kas harian,dasar,
+49417.1,x,,<kas hari> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49418,k,0,kas kecil,dasar,
+,,,,,
+49419,k,0,kas kurang,dasar,
+,,,,,
+49420,k,0,kas lebih,dasar,
+,,,,,
+49421,k,0,kas negara,dasar,
+,,,,,
+49422,k,51,kasa,dasar,
+,,,,,
+49423,c,4,kasab,dasar,kasap
+,,,,,
+49424,k,0,kasabandiah,dasar,
+49424.1,x,,<kasaband> + -iah,bentukan,[175] [S] -iah + (<others>)
+,,,,,
+49425,k,9,kasad,dasar,
+,,,,,
+49426,k,0,kasah,dasar,
+,,,,,
+49427,k,5,kasai,dasar,
+49427.1,x,,<kasa> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49428,k,0,kasai janggut,dasar,
+,,,,,
+49429,k,0,kasai minyak,dasar,
+,,,,,
+49430,k,0,kasak-kisik,dasar,
+,,,,,
+49431,k,51,kasak-kusuk,dasar,
+49431.1,v,,<kasak-kusuk>,bentukan,[Reduplication-Rhyming]
+,,,,,
+49432,k,0,kasalasa,dasar,
+,,,,,
+49433,k,2,kasam,dasar,
+,,,,,
+49434,k,0,kasambang,dasar,
+,,,,,
+49435,k,2,kasang,dasar,
+,,,,,
+49436,k,4,kasap,dasar,
+,,,,,
+49437,k,0,kasap dek,dasar,
+,,,,,
+49438,k,0,kasap jantan,dasar,
+49438.1,x,,<kasap jant> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49439,k,0,kasap mesin,dasar,
+,,,,,
+49440,c,816,kasar,dasar,qasar
+,,,,,
+49441,k,0,kasar tangan,dasar,
+49441.1,x,,<kasar tang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49442,k,0,kasaraka,dasar,
+,,,,,
+49443,v,3,kasarku,dasar,
+49443.1,v,,<kasar> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+49444,v,41,kasarnya,dasar,
+49444.1,v,,<kasar> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+49445,k,144,kasasi,dasar,
+49445.1,x,,<kasas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49446,v,3,kasasinya,dasar,
+49446.1,v,,<kasasi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+49446.2,x,,<kasas> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+49447,k,0,kasat mata,dasar,
+,,,,,
+49448,k,56,kasatmata,dasar,
+,,,,,
+49449,k,9,kasau,dasar,
+,,,,,
+49450,k,0,kasau betina,dasar,
+,,,,,
+49451,k,0,kasau jantan,dasar,
+49451.1,x,,<kasau jant> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49452,k,0,kasbiah,dasar,
+49452.1,x,,<kasb> + -iah,bentukan,[175] [S] -iah + (<others>)
+,,,,,
+49453,v,4,kasbon,dasar,
+,,,,,
+49454,k,0,kasdu,dasar,
+,,,,,
+49455,k,7,kasein,dasar,
+,,,,,
+49456,k,0,kaseinogen,dasar,
+,,,,,
+49457,k,0,kasemat,dasar,
+,,,,,
+49458,k,0,kasemek,dasar,
+,,,,,
+49459,k,0,kasep,dasar,
+,,,,,
+49460,k,0,kaserin,dasar,
+,,,,,
+49461,k,0,kaserol,dasar,
+,,,,,
+49462,k,81,kaset,dasar,
+,,,,,
+49463,k,0,kaset audio,dasar,
+,,,,,
+49464,k,0,kaset video,dasar,
+,,,,,
+49465,v,8,kaset-kaset,dasar,
+49465.1,v,,<kaset> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+49466,v,8,kasetnya,dasar,
+49466.1,v,,<kaset> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+49467,k,119,kasi,dasar,
+49467.1,x,,<kas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49468,k,0,kasia,dasar,
+,,,,,
+49469,k,0,kasiat,dasar,
+,,,,,
+49470,k,0,kasid,dasar,
+,,,,,
+49471,k,13,kasidah,dasar,
+,,,,,
+49472,k,2579,kasih,dasar,
+,,,,,
+49473,k,0,kasih mesra,dasar,
+,,,,,
+49474,k,0,kasih sayang,dasar,
+,,,,,
+49475,k,396,kasihan,dasar,
+49475.1,v,,<kasih> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49476,v,4,kasihani,dasar,
+49476.1,v,,<kasihan> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49477,v,9,kasihanilah,dasar,
+49477.1,x,,<kasihani> + -lah,bentukan,[31] [FS] -lah + (<all>)
+49477.2,v,,<kasihan> + -i + -lah,bentukan,[28] [S] -i + (<all>) => [31] [FS] -lah + (<all>)
+,,,,,
+49478,v,2,kasihanmu,dasar,
+49478.1,x,,<kasihan> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+49478.2,v,,<kasih> + -an + -mu,bentukan,[38] [S] -an + (<all>) => [33] [SFS] -mu + (<all>)
+,,,,,
+49479,v,7,kasihannya,dasar,
+49479.1,x,,<kasihan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+49479.2,v,,<kasih> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+49480,t,14,kasihi,dasar,
+49480.1,v,,<kasih> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+49481,v,2,kasihilah,dasar,
+49481.1,v,,<kasihi> + -lah,bentukan,[31] [FS] -lah + (<all>)
+49481.2,v,,<kasih> + -i + -lah,bentukan,[28] [S] -i + (<all>) => [31] [FS] -lah + (<all>)
+,,,,,
+49482,v,13,kasihkan,dasar,
+49482.1,v,,<kasih> + -kan,bentukan,[29] [S] -kan + (<all>)
+49482.2,x,,<kasihk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49483,d,0,kasihmu,dasar,
+49483.1,v,,<kasih> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+,,,,,
+49484,d,0,kasihnya,dasar,
+49484.1,v,,<kasih> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+49485,k,0,kasiku,dasar,
+49485.1,x,,<kasi> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+49485.2,x,,<kas> + -i + -ku,bentukan,[28] [S] -i + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+49486,k,74,kasim,dasar,
+,,,,,
+49487,k,0,kasima,dasar,
+,,,,,
+49488,k,0,kasimbar,dasar,
+,,,,,
+49489,k,31,kasino,dasar,
+,,,,,
+49490,k,0,kasinoman,dasar,
+49490.1,x,,<kasinom> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49491,k,0,kasintu,dasar,
+,,,,,
+49492,k,0,kasiopeia,dasar,
+,,,,,
+49493,k,2,kasip,dasar,
+,,,,,
+49494,k,0,kasip bukit,dasar,
+,,,,,
+49495,k,0,kasip hutan,dasar,
+49495.1,x,,<kasip hut> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49496,k,123,kasir,dasar,
+,,,,,
+49497,v,2,kasir-kasir,dasar,
+49497.1,v,,<kasir> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+49498,v,3,kasirnya,dasar,
+49498.1,v,,<kasir> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+49499,k,0,kasiterit,dasar,
+,,,,,
+49500,k,14,kaskade,dasar,
+,,,,,
+49501,k,0,kaskado,dasar,
+,,,,,
+49502,k,0,kaskas,dasar,
+,,,,,
+49503,k,0,kaskaya,dasar,
+,,,,,
+49504,k,22,kasmaran,dasar,
+49504.1,x,,<kasmar> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+49505,k,7,kasmir,dasar,
+,,,,,
+49506,k,0,kasmutik,dasar,
+,,,,,
+49507,v,9,kasnya,dasar,
+49507.1,v,,<kas> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+49508,c,2,kaso,dasar,kasau

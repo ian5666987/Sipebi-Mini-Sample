@@ -1,0 +1,1590 @@
+Nomor,KP,Jumlah,Entri,Tipe,Pembentukan
+107863,k,0,rentang memori,dasar,
+107863.1,x,,<rentang memor> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+107864,k,0,rentang waktu,dasar,
+,,,,,
+107865,k,27,rentangan,dasar,
+107865.1,v,,<rentang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+107866,v,4,rentangkan,dasar,
+107866.1,v,,<rentang> + -kan,bentukan,[29] [S] -kan + (<all>)
+107866.2,x,,<rentangk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+107867,v,5,rentangnya,dasar,
+107867.1,v,,<rentang> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+107868,v,19,rentannya,dasar,
+107868.1,v,,<rentan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+107868.2,x,,<rent> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+107869,k,0,rentap,dasar,
+,,,,,
+107870,k,0,rentas,dasar,
+,,,,,
+107871,c,38,rente,dasar,renten
+,,,,,
+107872,k,0,renten,dasar,
+,,,,,
+107873,k,27,renteng,dasar,
+,,,,,
+107874,k,5,rentengan,dasar,
+107874.1,v,,<renteng> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+107875,k,39,rentenir,dasar,
+,,,,,
+107876,k,0,rentet,dasar,
+,,,,,
+107877,k,211,rentetan,dasar,
+107877.1,v,,<rentet> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+107878,v,2,rentetan-rentetan,dasar,
+107878.1,x,,<rentetan> [-] <r>,bentukan,[23] [RD] |
+107878.2,v,,<rentet> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+107879,v,2,rentetannya,dasar,
+107879.1,x,,<rentetan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+107879.2,v,,<rentet> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+107880,k,0,renti,dasar,
+107880.1,x,,<rent> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+107881,k,0,rentik,dasar,
+,,,,,
+107882,k,7,renung,dasar,
+,,,,,
+107883,k,67,renungan,dasar,
+107883.1,v,,<renung> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+107884,k,0,renungan hidup,dasar,
+,,,,,
+107885,v,2,renunganmu,dasar,
+107885.1,x,,<renungan> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+107885.2,v,,<renung> + -an + -mu,bentukan,[38] [S] -an + (<all>) => [33] [SFS] -mu + (<all>)
+,,,,,
+107886,v,5,renungannya,dasar,
+107886.1,x,,<renungan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+107886.2,v,,<renung> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+107887,v,47,renungkan,dasar,
+107887.1,v,,<renung> + -kan,bentukan,[29] [S] -kan + (<all>)
+107887.2,x,,<renungk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+107888,v,10,renungkanlah,dasar,
+107888.1,x,,<renungkan> + -lah,bentukan,[31] [FS] -lah + (<all>)
+107888.2,v,,<renung> + -kan + -lah,bentukan,[29] [S] -kan + (<all>) => [31] [FS] -lah + (<all>)
+107888.3,x,,<renungk> + -an + -lah,bentukan,[38] [S] -an + (<all>) => [31] [FS] -lah + (<all>)
+,,,,,
+107889,k,2,renvoi,dasar,
+107889.1,x,,<renvo> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+107890,k,87,renyah,dasar,
+,,,,,
+107891,v,3,renyahnya,dasar,
+107891.1,v,,<renyah> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+107892,c,2,renyai,dasar,rinai
+107892.1,x,,<renya> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+107893,k,0,renyai-renyai,dasar,
+107893.1,v,,<renyai> [-] <r>,bentukan,[23] [RD] |
+107893.2,x,,<renya> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+107894,k,0,renyam,dasar,
+,,,,,
+107895,k,0,renyang,dasar,
+,,,,,
+107896,k,0,renyap,dasar,
+,,,,,
+107897,k,0,renyau,dasar,
+,,,,,
+107898,k,0,renyeh,dasar,
+,,,,,
+107899,k,0,renyek,dasar,
+,,,,,
+107900,k,0,renyem,dasar,
+,,,,,
+107901,k,0,renyok,dasar,
+,,,,,
+107902,k,0,renyuk,dasar,
+,,,,,
+107903,k,2,renyut,dasar,
+,,,,,
+107904,k,0,reofili,dasar,
+107904.1,x,,<reofil> + -i,bentukan,[28] [S] -i + (<all>)
+107904.2,x,,<reo> + -fili,bentukan,[193] [S] -fili + (<all>)
+,,,,,
+107905,k,0,reofilia,dasar,
+107905.1,x,,<reo> + -filia,bentukan,[216] [S] -filia + (<all>)
+,,,,,
+107906,k,0,reofit,dasar,
+,,,,,
+107907,k,28,reog,dasar,
+,,,,,
+107908,k,0,reol,dasar,
+,,,,,
+107909,k,0,reologi,dasar,
+107909.1,x,,<reolog> + -i,bentukan,[28] [S] -i + (<all>)
+107909.2,x,,<reo> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+107910,k,0,reometri,dasar,
+107910.1,x,,<reometr> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+107911,k,0,reoplankton,dasar,
+,,,,,
+107912,k,55,reorganisasi,dasar,
+107912.1,x,,<reorganisas> + -i,bentukan,[28] [S] -i + (<all>)
+107912.2,x,,<reorgani> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+107912.3,x,,<reorganis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+107912.4,x,,<reorga> + [-isasi:-nisasi],bentukan,[168] [S] -isasi + (a;e;u;o)
+107912.5,x,,<reorgan> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+107913,k,32,reorientasi,dasar,
+107913.1,x,,<reorientas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+107914,k,0,reostat,dasar,
+,,,,,
+107915,c,23,reot,dasar,reyot
+,,,,,
+107916,k,0,rep-repan,dasar,
+107916.1,x,,<rep> [-] <r> + -an,bentukan,[23] [RD] |
+,,,,,
+107917,k,0,repah,dasar,
+,,,,,
+107918,k,0,repak,dasar,
+,,,,,
+107919,k,0,repal,dasar,
+,,,,,
+107920,k,0,repang,dasar,
+,,,,,
+107921,v,2,reparameterisasi,dasar,
+107921.1,x,,<reparameterisas> + -i,bentukan,[28] [S] -i + (<all>)
+107921.2,x,,<reparameteri> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+107921.3,x,,<reparameteris> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+107921.4,x,,<reparameter> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+107922,k,48,reparasi,dasar,
+107922.1,x,,<reparas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+107923,k,0,repas,dasar,
+,,,,,
+107924,k,0,repatrian,dasar,
+107924.1,x,,<repatri> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+107925,k,49,repatriasi,dasar,
+107925.1,x,,<repatrias> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+107926,k,0,repatriasi pajak,dasar,
+,,,,,
+107927,v,2,repatriasinya,dasar,
+107927.1,v,,<repatriasi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+107927.2,x,,<repatrias> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+107928,k,0,repek,dasar,
+,,,,,
+107929,v,5,reperfusi,dasar,
+107929.1,x,,<reperfus> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+107930,k,13,repertoar,dasar,
+,,,,,
+107931,k,0,repertorium,dasar,
+,,,,,
+107932,k,0,repes,dasar,
+,,,,,
+107933,k,0,repet,dasar,
+,,,,,
+107934,k,0,repeten,dasar,
+,,,,,
+107935,k,34,repetisi,dasar,
+107935.1,x,,<repetis> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+107936,k,22,repetitif,dasar,
+,,,,,
+107937,k,0,repetitor,dasar,
+,,,,,
+107938,k,0,repih,dasar,
+,,,,,
+107939,k,0,repihan,dasar,
+107939.1,v,,<repih> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+107940,k,0,repis,dasar,
+107940.1,x,,<repi> + [-is:-s],bentukan,[177] [S] -is + (i)
+107940.2,x,,<rep> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+107941,t,2,repitisi,dasar,
+107941.1,x,,<repitis> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+107942,t,2,repleksi,dasar,
+107942.1,x,,<repleks> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+107943,k,4,replik,dasar,
+,,,,,
+107944,k,63,replika,dasar,
+,,,,,
+107945,v,2,replika-replika,dasar,
+107945.1,v,,<replika> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+107946,v,4,replikanya,dasar,
+107946.1,v,,<replika> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+107947,k,81,replikasi,dasar,
+107947.1,x,,<replikas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+107948,v,2,replikatif,dasar,
+,,,,,
+107949,k,0,replikon,dasar,
+,,,,,
+107950,k,0,repok,dasar,
+,,,,,
+107951,k,0,repolarisasi,dasar,
+107951.1,x,,<repolarisas> + -i,bentukan,[28] [S] -i + (<all>)
+107951.2,x,,<repolari> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+107951.3,x,,<repolaris> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+107951.4,x,,<repolar> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+107952,k,0,repolper,dasar,
+,,,,,
+107953,k,0,repormir,dasar,
+,,,,,
+107954,k,28,reportase,dasar,
+107954.1,x,,<report> + -ase,bentukan,[210] [S] -ase + (<all>)
+,,,,,
+107955,k,0,reportase investigatif,dasar,
+,,,,,
+107956,v,3,reportasenya,dasar,
+107956.1,v,,<reportase> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+107956.2,x,,<report> + -ase + -nya,bentukan,[210] [S] -ase + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+107957,k,120,reporter,dasar,
+,,,,,
+107958,v,2,reporter-reporter,dasar,
+107958.1,v,,<reporter> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+107959,v,3,reporternya,dasar,
+107959.1,v,,<reporter> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+107960,k,31,reposisi,dasar,
+107960.1,x,,<reposis> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+107961,k,5,repositori,dasar,
+107961.1,x,,<repositor> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+107962,k,296,repot,dasar,
+,,,,,
+107963,k,115,repot-repot,dasar,
+107963.1,v,,<repot> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+107964,v,2,representamen,dasar,
+,,,,,
+107965,k,381,representasi,dasar,
+107965.1,x,,<representas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+107966,k,0,representasi dapat dieksekusi,dasar,
+107966.1,x,,<representasi dapat dieksekus> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+107967,v,2,representasi-representasi,dasar,
+107967.1,v,,<representasi> [-] <r>,bentukan,[23] [RD] |
+107967.2,x,,<representas> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+107968,v,3,representasikan,dasar,
+107968.1,v,,<representasi> + -kan,bentukan,[29] [S] -kan + (<all>)
+107968.2,x,,<representasik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+107969,c,2,representasiketerwakilan,dasar,
+107969.1,x,,<representasiketerwakil> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+107970,v,5,representasinya,dasar,
+107970.1,v,,<representasi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+107970.2,x,,<representas> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+107971,v,6,representasional,dasar,
+,,,,,
+107972,k,141,representatif,dasar,
+,,,,,
+107973,k,54,represi,dasar,
+107973.1,x,,<repres> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+107974,k,148,represif,dasar,
+,,,,,
+107975,k,2,represor,dasar,
+,,,,,
+107976,v,4,repro,dasar,
+,,,,,
+107977,k,364,reproduksi,dasar,
+107977.1,x,,<reproduks> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+107978,k,0,reproduksi aseksual,dasar,
+,,,,,
+107979,k,0,reproduksi seksual,dasar,
+,,,,,
+107980,v,28,reproduksinya,dasar,
+107980.1,v,,<reproduksi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+107980.2,x,,<reproduks> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+107981,v,23,reproduktif,dasar,
+,,,,,
+107982,v,2,reproduktivitas,dasar,
+107982.1,v,,<reproduktiv> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+107983,k,0,reprografi,dasar,
+107983.1,x,,<reprograf> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+107984,k,0,reprositas,dasar,
+107984.1,x,,<repros> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+107985,d,0,repsoduksi,dasar,
+107985.1,x,,<repsoduks> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+107986,v,34,reptil,dasar,
+,,,,,
+107987,k,8,reptilia,dasar,
+,,,,,
+107988,v,2,reptilian,dasar,
+107988.1,x,,<reptili> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+107989,k,4699,republik,dasar,
+,,,,,
+107990,k,29,republikan,dasar,
+107990.1,x,,<republi> + -kan,bentukan,[29] [S] -kan + (<all>)
+107990.2,v,,<republik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+107991,v,5,republikanisme,dasar,
+107991.1,x,,<republikan> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+107992,c,5,republiken,dasar,republikan
+,,,,,
+107993,k,0,repudiasi,dasar,
+107993.1,x,,<repudias> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+107994,k,0,repuh,dasar,
+,,,,,
+107995,k,0,repuh muda,dasar,
+,,,,,
+107996,k,0,repuh-repuh,dasar,
+107996.1,v,,<repuh> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+107997,k,0,repui,dasar,
+107997.1,x,,<repu> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+107998,k,0,reput,dasar,
+,,,,,
+107999,k,0,reput relai,dasar,
+107999.1,x,,<reput rela> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+108000,k,435,reputasi,dasar,
+108000.1,x,,<reputas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+108001,v,3,reputasiku,dasar,
+108001.1,v,,<reputasi> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+108001.2,x,,<reputas> + -i + -ku,bentukan,[28] [S] -i + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+108002,v,4,reputasimu,dasar,
+108002.1,v,,<reputasi> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+108002.2,x,,<reputas> + -i + -mu,bentukan,[28] [S] -i + (<all>) => [33] [SFS] -mu + (<all>)
+,,,,,
+108003,v,65,reputasinya,dasar,
+108003.1,v,,<reputasi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+108003.2,x,,<reputas> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+108004,k,0,rerak,dasar,
+,,,,,
+108005,k,0,reramuan,dasar,
+108005.1,v,,<[ramu:reramuan]>,bentukan,[Reduplication-Dwipurwa]
+108005.2,x,,<reramu> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+108006,k,18,rerangka,dasar,
+108006.1,v,,<[rangka:rerangka]>,bentukan,[Infix]
+,,,,,
+108007,k,13,reranting,dasar,
+108007.1,x,,<[ranting:reranting]>,bentukan,[Infix]
+108007.2,v,,<[ranting:reranting]>,bentukan,[Reduplication-Dwipurwa]
+,,,,,
+108008,k,0,reras,dasar,
+,,,,,
+108009,k,244,rerata,dasar,
+108009.1,v,,<[rata:rerata]>,bentukan,[Reduplication-Dwipurwa]
+,,,,,
+108010,v,10,reratanya,dasar,
+108010.1,v,,<[rata:rerata]> + -nya,bentukan,[Reduplication-Dwipurwa] => [34] [SFS] -nya + (<all>)
+108010.2,v,,<[rata:rerata]> + -nya,bentukan,[Reduplication-Dwipurwa] => [34] [SFS] -nya + (<all>)
+,,,,,
+108011,k,0,reremo,dasar,
+,,,,,
+108012,k,0,rereng,dasar,
+,,,,,
+108013,k,0,rerenggan,dasar,
+108013.1,x,,<rerengg> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+108014,k,16,rerimbun,dasar,
+108014.1,x,,<[rimbun:rerimbun]>,bentukan,[Infix]
+108014.2,v,,<[rimbun:rerimbun]>,bentukan,[Reduplication-Dwipurwa]
+,,,,,
+108015,v,23,rerimbunan,dasar,
+108015.1,v,,<[rimbun:rerimbun]> + -an,bentukan,[Reduplication-Dwipurwa] => [38] [S] -an + (<all>)
+,,,,,
+108016,v,2,rerintik,dasar,
+,,,,,
+108017,k,0,rerongkong,dasar,
+,,,,,
+108018,k,0,rerot,dasar,
+,,,,,
+108019,k,0,rerotan,dasar,
+108019.1,v,,<rerot> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+108020,k,0,rerugi,dasar,
+108020.1,x,,<rerug> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+108021,k,0,reruku,dasar,
+108021.1,v,,<[ruku:reruku]>,bentukan,[Infix]
+108021.2,x,,<reru> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+108022,k,88,rerumputan,dasar,
+108022.1,v,,<[rumput:rerumputan]>,bentukan,[Reduplication-Dwipurwa]
+108022.2,x,,<rerumput> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+108023,k,104,reruntuhan,dasar,
+108023.1,v,,<[runtuh:reruntuhan]>,bentukan,[Reduplication-Dwipurwa]
+108023.2,x,,<reruntuh> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+108024,k,3,reruntuk,dasar,
+,,,,,
+108025,k,0,reruntuk dunia,dasar,
+,,,,,
+108026,k,0,reruntukan,dasar,
+108026.1,x,,<reruntu> + -kan,bentukan,[29] [S] -kan + (<all>)
+108026.2,v,,<reruntuk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+108027,k,8,resa,dasar,
+,,,,,
+108028,k,229,resah,dasar,
+,,,,,
+108029,v,14,resahkan,dasar,
+108029.1,v,,<resah> + -kan,bentukan,[29] [S] -kan + (<all>)
+108029.2,x,,<resahk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+108030,v,4,resahnya,dasar,
+108030.1,v,,<resah> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+108031,k,0,resak,dasar,
+,,,,,
+108032,k,4,resam,dasar,
+,,,,,
+108033,k,0,resam tubuh,dasar,
+,,,,,
+108034,k,0,resan,dasar,
+108034.1,x,,<res> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+108035,k,4,resap,dasar,
+,,,,,
+108036,k,97,resapan,dasar,
+108036.1,v,,<resap> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+108037,v,10,resapi,dasar,
+108037.1,v,,<resap> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+108038,v,2,resapilah,dasar,
+108038.1,x,,<resapi> + -lah,bentukan,[31] [FS] -lah + (<all>)
+108038.2,v,,<resap> + -i + -lah,bentukan,[28] [S] -i + (<all>) => [31] [FS] -lah + (<all>)
+,,,,,
+108039,v,3,resapkan,dasar,
+108039.1,v,,<resap> + -kan,bentukan,[29] [S] -kan + (<all>)
+108039.2,x,,<resapk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+108040,k,0,resbang,dasar,
+,,,,,
+108041,k,6,resek,dasar,
+,,,,,
+108042,k,11,reseksi,dasar,
+108042.1,x,,<reseks> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+108043,v,2,reseleksi,dasar,
+108043.1,x,,<reseleks> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+108044,k,0,resem,dasar,
+,,,,,
+108045,k,45,resensi,dasar,
+108045.1,x,,<resens> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+108046,k,0,resensor,dasar,
+,,,,,
+108047,v,3,resentralisasi,dasar,
+108047.1,x,,<resentralisas> + -i,bentukan,[28] [S] -i + (<all>)
+108047.2,x,,<resentrali> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+108047.3,x,,<resentralis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+108047.4,x,,<resentral> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+108048,k,295,resep,dasar,
+,,,,,
+108049,v,12,resep-resep,dasar,
+108049.1,v,,<resep> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+108050,v,3,resepkan,dasar,
+108050.1,v,,<resep> + -kan,bentukan,[29] [S] -kan + (<all>)
+108050.2,x,,<resepk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+108051,k,101,resepsi,dasar,
+108051.1,x,,<reseps> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+108052,v,3,resepsinya,dasar,
+108052.1,v,,<resepsi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+108052.2,x,,<reseps> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+108053,k,61,resepsionis,dasar,
+108053.1,x,,<resepsioni> + [-is:-s],bentukan,[177] [S] -is + (i)
+108053.2,x,,<resepsion> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+108054,k,17,reseptif,dasar,
+,,,,,
+108055,v,2,reseptivitas,dasar,
+108055.1,v,,<reseptiv> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+108056,k,102,reseptor,dasar,
+,,,,,
+108057,k,0,reseptor lembayung,dasar,
+,,,,,
+108058,v,4,reseptor-reseptor,dasar,
+108058.1,v,,<reseptor> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+108059,v,9,reseptornya,dasar,
+108059.1,v,,<reseptor> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+108060,k,202,reserse,dasar,
+,,,,,
+108061,k,0,reserse kriminal,dasar,
+,,,,,
+108062,k,0,resersir,dasar,
+,,,,,
+108063,k,41,reservasi,dasar,
+108063.1,x,,<reservas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+108064,k,0,reservasi terkonfirmasi,dasar,
+108064.1,x,,<reservasi terkonfirmas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+108065,k,0,reservat,dasar,
+,,,,,
+108066,k,92,reserve,dasar,
+,,,,,
+108067,k,0,reservoir,dasar,
+,,,,,
+108068,k,47,reses,dasar,
+,,,,,
+108069,k,177,resesi,dasar,
+108069.1,x,,<reses> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+108070,k,11,resesif,dasar,
+,,,,,
+108071,v,2,resesinya,dasar,
+108071.1,v,,<resesi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+108071.2,x,,<reses> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+108072,k,20,reset,dasar,
+,,,,,
+108073,k,43,resi,dasar,
+108073.1,x,,<res> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+108074,k,0,resi bagasi,dasar,
+108074.1,x,,<resi bagas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+108075,k,0,resi mualim,dasar,
+,,,,,
+108076,k,75,residen,dasar,
+,,,,,
+108077,v,22,residensi,dasar,
+108077.1,x,,<residens> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+108078,k,18,residensial,dasar,
+,,,,,
+108079,k,0,residental,dasar,
+,,,,,
+108080,c,2,residif,dasar,residivistis
+,,,,,
+108081,k,10,residivis,dasar,
+108081.1,x,,<residivi> + [-is:-s],bentukan,[177] [S] -is + (i)
+108081.2,x,,<residiv> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+108082,k,0,residivisme,dasar,
+108082.1,x,,<residiv> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+108083,k,0,residivistis,dasar,
+108083.1,x,,<residivisti> + [-is:-s],bentukan,[177] [S] -is + (i)
+108083.2,x,,<residivist> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+108084,k,152,residu,dasar,
+,,,,,
+108085,v,86,residual,dasar,
+,,,,,
+108086,v,3,residualnya,dasar,
+108086.1,v,,<residual> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+108087,v,11,residunya,dasar,
+108087.1,x,,<residu> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+108088,k,29,resik,dasar,
+,,,,,
+108089,c,539,resiko,dasar,risiko
+,,,,,
+108090,t,24,resikonya,dasar,
+108090.1,v,,<resiko> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+108091,k,15,resiliensi,dasar,
+108091.1,x,,<resiliens> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+108092,k,0,resilin,dasar,
+,,,,,
+108093,k,45,resimen,dasar,
+,,,,,
+108094,k,35,resin,dasar,
+,,,,,
+108095,k,0,resinifikasi,dasar,
+108095.1,x,,<resinifikas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+108096,k,0,resinol,dasar,
+,,,,,
+108097,k,7,resipien,dasar,
+,,,,,
+108098,k,0,resipien universal,dasar,
+,,,,,
+108099,k,0,resiprok,dasar,
+,,,,,
+108100,k,26,resiprokal,dasar,
+,,,,,
+108101,k,15,resiprositas,dasar,
+108101.1,x,,<resipros> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+108102,k,11,resirkulasi,dasar,
+108102.1,x,,<resirkulas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+108103,k,12,resistan,dasar,
+108103.1,x,,<resist> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+108104,k,0,resistans,dasar,
+,,,,,
+108105,k,30,resistansi,dasar,
+108105.1,x,,<resistans> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+108106,k,0,resistansi biologis,dasar,
+108106.1,x,,<resistansi biologi> + [-is:-s],bentukan,[177] [S] -is + (i)
+108106.2,x,,<resistansi biolog> + -is,bentukan,[178] [S] -is + (<others>)
+108106.3,x,,<resistansi bio> + -logi+-s,bentukan,[194] [MS] -logi+-s + (<all>)
+,,,,,
+108107,k,0,resistansi insulin,dasar,
+,,,,,
+108108,k,0,resistat,dasar,
+,,,,,
+108109,c,241,resistensi,dasar,resistansi
+108109.1,x,,<resistens> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+108110,v,2,resistensi-resistensi,dasar,
+108110.1,v,,<resistensi> [-] <r>,bentukan,[23] [RD] |
+108110.2,x,,<resistens> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+108111,v,8,resistensinya,dasar,
+108111.1,v,,<resistensi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+108111.2,x,,<resistens> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+108112,k,2,resistif,dasar,
+,,,,,
+108113,k,0,resistin,dasar,
+,,,,,
+108114,k,3,resistivitas,dasar,
+108114.1,v,,<resistiv> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+108115,k,7,resistor,dasar,
+,,,,,
+108116,k,3,resital,dasar,
+,,,,,
+108117,k,4,resitasi,dasar,
+108117.1,x,,<resitas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+108118,k,0,resitatif,dasar,
+,,,,,
+108119,c,9,resleting,dasar,ritsleting
+,,,,,
+108120,k,3379,resmi,dasar,
+108120.1,x,,<resm> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+108121,v,2,resmi-resmian,dasar,
+108121.1,v,,<resmi> [-] <r> + -an,bentukan,[23] [RD] |
+108121.2,x,,<resm> + -i [-] <r> + -i + -an,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+108122,v,125,resmikan,dasar,
+108122.1,v,,<resmi> + -kan,bentukan,[29] [S] -kan + (<all>)
+108122.2,x,,<resmik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+108123,v,7,resmilah,dasar,
+108123.1,v,,<resmi> + -lah,bentukan,[31] [FS] -lah + (<all>)
+108123.2,x,,<resm> + -i + -lah,bentukan,[28] [S] -i + (<all>) => [31] [FS] -lah + (<all>)
+,,,,,
+108124,v,199,resminya,dasar,
+108124.1,v,,<resmi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+108124.2,x,,<resm> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+108125,k,526,resolusi,dasar,
+108125.1,x,,<resolus> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+108126,k,0,resolusi alamat,dasar,
+,,,,,
+108127,k,0,resolusi tinggi,dasar,
+108127.1,x,,<resolusi tingg> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+108128,v,2,resolusi-resolusi,dasar,
+108128.1,v,,<resolusi> [-] <r>,bentukan,[23] [RD] |
+108128.2,x,,<resolus> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+108129,v,16,resolusinya,dasar,
+108129.1,v,,<resolusi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+108129.2,x,,<resolus> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+108130,k,2,resonan,dasar,
+108130.1,x,,<reson> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+108131,k,38,resonansi,dasar,
+108131.1,x,,<resonans> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+108132,k,0,resonansi diamagnetik,dasar,
+,,,,,
+108133,v,2,resonansinya,dasar,
+108133.1,v,,<resonansi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+108133.2,x,,<resonans> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+108134,k,4,resonator,dasar,
+,,,,,
+108135,k,185,resor,dasar,
+,,,,,
+108136,k,4,resorpsi,dasar,
+108136.1,x,,<resorps> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+108137,k,0,resorpsi tulang,dasar,
+,,,,,
+108138,k,0,resorsinol,dasar,
+,,,,,
+108139,k,20,resosialisasi,dasar,
+108139.1,x,,<resosialisas> + -i,bentukan,[28] [S] -i + (<all>)
+108139.2,x,,<resosiali> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+108139.3,x,,<resosialis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+108139.4,x,,<resosial> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+108140,k,100,respek,dasar,
+,,,,,
+108141,v,2,respesifikasi,dasar,
+108141.1,x,,<respesifikas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+108142,k,58,respirasi,dasar,
+108142.1,x,,<respiras> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+108143,k,0,respirasi aerob,dasar,
+,,,,,
+108144,k,0,respirasi anaerob,dasar,
+,,,,,
+108145,k,0,respirasi seluler,dasar,
+,,,,,
+108146,k,3,respirator,dasar,
+,,,,,
+108147,v,5,respiratorik,dasar,
+,,,,,
+108148,c,830,respon,dasar,respons
+,,,,,
+108149,t,7,respon-respon,dasar,
+108149.1,v,,<respon> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+108150,k,697,responden,dasar,
+,,,,,
+108151,k,862,respons,dasar,
+,,,,,
+108152,k,0,respons frekuensi,dasar,
+108152.1,x,,<respons frekuens> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+108153,k,0,respons kelaparan,dasar,
+108153.1,x,,<respons kelapar> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+108154,k,0,respons stimulus,dasar,
+,,,,,
+108155,k,0,respons timbal-balik,dasar,
+,,,,,
+108156,v,3,respons-respons,dasar,
+108156.1,v,,<respons> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+108157,k,4,responsi,dasar,
+108157.1,x,,<respons> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+108158,v,28,responsibilitas,dasar,
+108158.1,x,,<responsibil> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+108159,k,289,responsif,dasar,
+,,,,,
+108160,v,12,responsivitas,dasar,
+108160.1,v,,<responsiv> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+108161,v,2,responsku,dasar,
+108161.1,v,,<respons> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+108162,k,0,responsorium,dasar,
+,,,,,
+108163,k,0,restan,dasar,
+108163.1,x,,<rest> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+108164,k,0,restiformis,dasar,
+108164.1,x,,<restiformi> + [-is:-s],bentukan,[177] [S] -is + (i)
+108164.2,x,,<restiform> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+108165,k,44,restitusi,dasar,
+108165.1,x,,<restitus> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+108166,v,2,restitusinya,dasar,
+108166.1,v,,<restitusi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+108166.2,x,,<restitus> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+108167,v,52,resto,dasar,
+,,,,,
+108168,v,4,resto-resto,dasar,
+108168.1,v,,<resto> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+108169,k,0,restomania,dasar,
+,,,,,
+108170,k,723,restoran,dasar,
+108170.1,x,,<restor> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+108171,v,25,restoran-restoran,dasar,
+108171.1,v,,<restoran> [-] <r>,bentukan,[23] [RD] |
+108171.2,x,,<restor> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+108172,v,2,restoranku,dasar,
+108172.1,v,,<restoran> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+108172.2,x,,<restor> + -an + -ku,bentukan,[38] [S] -an + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+108173,v,3,restoranmu,dasar,
+108173.1,v,,<restoran> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+108173.2,x,,<restor> + -an + -mu,bentukan,[38] [S] -an + (<all>) => [33] [SFS] -mu + (<all>)
+,,,,,
+108174,v,19,restorannya,dasar,
+108174.1,v,,<restoran> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+108174.2,x,,<restor> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+108175,k,110,restorasi,dasar,
+108175.1,x,,<restoras> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+108176,v,2,restorasinya,dasar,
+108176.1,v,,<restorasi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+108176.2,x,,<restoras> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+108177,k,17,restoratif,dasar,
+,,,,,
+108178,k,28,restriksi,dasar,
+108178.1,x,,<restriks> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+108179,k,9,restriktif,dasar,
+,,,,,
+108180,k,270,restrukturisasi,dasar,
+108180.1,x,,<restrukturisas> + -i,bentukan,[28] [S] -i + (<all>)
+108180.2,x,,<restrukturi> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+108180.3,x,,<restrukturis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+108180.4,x,,<restruktur> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+108181,k,0,restrukturisasi kognitif,dasar,
+,,,,,
+108182,k,0,restrukturisasi utang,dasar,
+,,,,,
+108183,k,221,restu,dasar,
+,,,,,
+108184,v,12,restui,dasar,
+108184.1,v,,<restu> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+108185,k,0,restung,dasar,
+,,,,,
+108186,v,11,restunya,dasar,
+108186.1,v,,<restu> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+108187,k,0,resu,dasar,
+,,,,,
+108188,k,9,resultan,dasar,
+108188.1,x,,<result> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+108189,v,2,resultansi,dasar,
+108189.1,x,,<resultans> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+108190,k,37,resume,dasar,
+,,,,,
+108191,v,4,resumenya,dasar,
+108191.1,v,,<resume> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+108192,k,0,resurjensi,dasar,
+108192.1,x,,<resurjens> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+108193,k,0,resus,dasar,
+,,,,,
+108194,v,6,resuspensi,dasar,
+108194.1,x,,<resuspens> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+108195,k,0,resveratrol,dasar,
+,,,,,
+108196,k,6,ret,dasar,
+,,,,,
+108197,k,0,reta,dasar,
+,,,,,
+108198,k,242,retail,dasar,
+,,,,,
+108199,k,185,retak,dasar,
+,,,,,
+108200,k,0,retak batu,dasar,
+,,,,,
+108201,k,0,retak bulu ayam,dasar,
+,,,,,
+108202,k,0,retak rambut,dasar,
+,,,,,
+108203,k,0,retak retai,dasar,
+108203.1,x,,<retak reta> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+108204,k,0,retak seribu,dasar,
+,,,,,
+108205,k,0,retak tangan,dasar,
+108205.1,x,,<retak tang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+108206,k,21,retak-retak,dasar,
+108206.1,v,,<retak> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+108207,k,39,retakan,dasar,
+108207.1,x,,<reta> + -kan,bentukan,[29] [S] -kan + (<all>)
+108207.2,v,,<retak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+108208,v,8,retakan-retakan,dasar,
+108208.1,x,,<retakan> [-] <r>,bentukan,[23] [RD] |
+108208.2,x,,<reta> + -kan [-] <r> + -kan,bentukan,[29] [S] -kan + (<all>) => [23] [RD] |
+108208.3,v,,<retak> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+108209,v,3,retakannya,dasar,
+108209.1,x,,<retakan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+108209.2,x,,<reta> + -kan + -nya,bentukan,[29] [S] -kan + (<all>) => [34] [SFS] -nya + (<all>)
+108209.3,v,,<retak> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+108210,v,9,retaknya,dasar,
+108210.1,v,,<retak> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+108211,k,0,retal,dasar,
+,,,,,
+108212,v,3,retaliasi,dasar,
+108212.1,x,,<retalias> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+108213,k,13,retardasi,dasar,
+108213.1,x,,<retardas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+108214,k,0,retardasi budaya-keluarga,dasar,
+,,,,,
+108215,k,0,retardasi mental,dasar,
+,,,,,
+108216,k,6,retas,dasar,
+,,,,,
+108217,k,0,retasan,dasar,
+108217.1,v,,<retas> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+108218,k,0,retek,dasar,
+,,,,,
+108219,k,0,retenidos,dasar,
+,,,,,
+108220,k,126,retensi,dasar,
+108220.1,x,,<retens> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+108221,k,0,retensi air,dasar,
+,,,,,
+108222,k,0,retensi bersih protein,dasar,
+,,,,,
+108223,k,0,retensi kawat,dasar,
+,,,,,
+108224,k,0,retensi kekuatan,dasar,
+108224.1,x,,<retensi kekuat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+108225,k,0,retensi protein,dasar,
+,,,,,
+108226,v,9,retensinya,dasar,
+108226.1,v,,<retensi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+108226.2,x,,<retens> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+108227,k,0,retentivitas,dasar,
+108227.1,x,,<retentiv> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+108228,k,0,retet,dasar,
+,,,,,
+108229,k,0,retih,dasar,
+,,,,,
+108230,v,3,retikulasi,dasar,
+108230.1,x,,<retikulas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+108231,k,2,retikuler,dasar,
+,,,,,
+108232,k,4,retikulosit,dasar,
+,,,,,
+108233,k,10,retikulum,dasar,
+,,,,,
+108234,k,47,retina,dasar,
+,,,,,
+108235,v,2,retinaku,dasar,
+108235.1,v,,<retina> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+108236,k,0,retinakulum,dasar,
+,,,,,
+108237,k,3,retinal,dasar,
+,,,,,
+108238,k,0,retinaldehida,dasar,
+,,,,,
+108239,v,3,retinanya,dasar,
+108239.1,v,,<retina> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+108240,k,0,retinitis,dasar,
+108240.1,x,,<retiniti> + [-is:-s],bentukan,[177] [S] -is + (i)
+108240.2,x,,<retinit> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+108241,v,3,retinoat,dasar,
+,,,,,
+108242,k,6,retinoblastoma,dasar,
+,,,,,
+108243,k,7,retinoid,dasar,
+108243.1,x,,<retin> + -oid,bentukan,[209] [S] -oid + (<all>)
+,,,,,
+108244,v,18,retinol,dasar,
+,,,,,
+108245,k,10,retinopati,dasar,
+108245.1,x,,<retinopat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+108246,k,0,retinoskop,dasar,
+,,,,,
+108247,k,0,retinoskopi,dasar,
+108247.1,x,,<retinoskop> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+108248,k,0,retok,dasar,
+,,,,,
+108249,k,14,retorik,dasar,
+,,,,,
+108250,k,120,retorika,dasar,
+,,,,,
+108251,v,2,retorikal,dasar,
+,,,,,
+108252,v,10,retorikanya,dasar,
+108252.1,v,,<retorika> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+108253,c,31,retoris,dasar,retorik
+108253.1,x,,<retori> + [-is:-s],bentukan,[177] [S] -is + (i)
+108253.2,x,,<retor> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+108254,k,0,retorsi,dasar,
+108254.1,x,,<retors> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+108255,k,0,retradisionalisasi,dasar,
+108255.1,x,,<retradisionalisas> + -i,bentukan,[28] [S] -i + (<all>)
+108255.2,x,,<retradisionali> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+108255.3,x,,<retradisionalis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+108255.4,x,,<retradisional> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+108256,k,0,retreatisme,dasar,
+108256.1,x,,<retreat> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+108257,k,8,retret,dasar,
+,,,,,
+108258,k,392,retribusi,dasar,
+108258.1,x,,<retribus> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+108259,v,10,retribusinya,dasar,
+108259.1,v,,<retribusi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+108259.2,x,,<retribus> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+108260,v,2,retributif,dasar,
+,,,,,
+108261,v,2,retriksi,dasar,
+108261.1,x,,<retriks> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+108262,k,56,retro,dasar,
+,,,,,
+108263,k,9,retroaktif,dasar,
+,,,,,
+108264,k,0,retrofili,dasar,
+108264.1,x,,<retrofil> + -i,bentukan,[28] [S] -i + (<all>)
+108264.2,x,,<retro> + -fili,bentukan,[193] [S] -fili + (<all>)
+,,,,,
+108265,k,0,retrofilia,dasar,
+108265.1,x,,<retro> + -filia,bentukan,[216] [S] -filia + (<all>)
+,,,,,
+108266,k,0,retrofleks,dasar,
+,,,,,
+108267,k,0,retrofleksi,dasar,
+108267.1,x,,<retrofleks> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+108268,k,0,retrogradasi,dasar,
+108268.1,x,,<retrogradas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+108269,k,0,retrogresi,dasar,
+108269.1,x,,<retrogres> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+108270,k,0,retrogresif,dasar,
+,,,,,
+108271,k,0,retrolingual,dasar,
+,,,,,
+108272,k,0,retromamal,dasar,
+,,,,,
+108273,k,0,retromandibuler,dasar,
+,,,,,
+108274,k,0,retronim,dasar,
+,,,,,
+108275,k,2,retroperitoneal,dasar,
+,,,,,
+108276,k,0,retroretinol,dasar,
+,,,,,
+108277,k,7,retrospeksi,dasar,
+108277.1,x,,<retrospeks> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+108278,v,52,retrospektif,dasar,
+,,,,,
+108279,k,0,retroversi,dasar,
+108279.1,x,,<retrovers> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+108280,k,6,retroviral,dasar,
+,,,,,
+108281,k,6,retrovirus,dasar,
+,,,,,
+108282,k,18,retur,dasar,
+,,,,,
+108283,k,0,retus,dasar,
+,,,,,
+108284,k,7,reumatik,dasar,
+,,,,,
+108285,k,0,reumatisme,dasar,
+108285.1,x,,<reumat> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+108286,k,0,reumatismos,dasar,
+,,,,,
+108287,k,2,reumatoid,dasar,
+108287.1,x,,<reumat> + -oid,bentukan,[209] [S] -oid + (<all>)
+,,,,,
+108288,k,0,reumatoid artritis,dasar,
+108288.1,x,,<reumatoid artriti> + [-is:-s],bentukan,[177] [S] -is + (i)
+108288.2,x,,<reumatoid artrit> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+108289,k,2,reumatologi,dasar,
+108289.1,x,,<reumatolog> + -i,bentukan,[28] [S] -i + (<all>)
+108289.2,x,,<reumato> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+108290,k,76,reuni,dasar,
+108290.1,x,,<reun> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+108291,v,5,reunian,dasar,
+108291.1,v,,<reuni> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+108292,k,16,reunifikasi,dasar,
+108292.1,x,,<reunifikas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+108293,k,0,revaksinasi,dasar,
+108293.1,x,,<revaksinas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+108294,k,40,revaluasi,dasar,
+108294.1,x,,<revaluas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+108295,k,0,revaluasi surplus,dasar,
+,,,,,
+108296,k,6,revans,dasar,
+,,,,,
+108297,v,2,revegetasi,dasar,
+108297.1,x,,<revegetas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+108298,k,0,reverberasi,dasar,
+108298.1,x,,<reverberas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+108299,v,22,reversal,dasar,
+,,,,,
+108300,k,0,reversi,dasar,
+108300.1,x,,<revers> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+108301,k,8,reversibel,dasar,
+,,,,,
+108302,k,2,reversibilitas,dasar,
+108302.1,x,,<reversibil> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+108303,v,4,reviktimisasi,dasar,
+108303.1,x,,<reviktimisas> + -i,bentukan,[28] [S] -i + (<all>)
+108303.2,x,,<reviktimi> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+108303.3,x,,<reviktimis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+108303.4,x,,<reviktim> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+108304,k,643,revisi,dasar,
+108304.1,x,,<revis> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+108305,v,2,revisi-revisi,dasar,
+108305.1,v,,<revisi> [-] <r>,bentukan,[23] [RD] |
+108305.2,x,,<revis> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+108306,k,0,revisian,dasar,
+108306.1,v,,<revisi> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+108307,k,0,revisibilitas,dasar,
+108307.1,x,,<revisibil> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+108308,v,2,revisilah,dasar,
+108308.1,v,,<revisi> + -lah,bentukan,[31] [FS] -lah + (<all>)
+108308.2,x,,<revis> + -i + -lah,bentukan,[28] [S] -i + (<all>) => [31] [FS] -lah + (<all>)
+,,,,,
+108309,v,12,revisinya,dasar,
+108309.1,v,,<revisi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+108309.2,x,,<revis> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+108310,k,7,revisionis,dasar,
+108310.1,x,,<revisioni> + [-is:-s],bentukan,[177] [S] -is + (i)
+108310.2,x,,<revision> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+108311,k,285,revitalisasi,dasar,
+108311.1,x,,<revitalisas> + -i,bentukan,[28] [S] -i + (<all>)
+108311.2,x,,<revitali> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+108311.3,x,,<revitalis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+108311.4,v,,<revital> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+108312,v,3,revitalisasinya,dasar,
+108312.1,v,,<revitalisasi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+108312.2,x,,<revitalisas> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+108312.3,x,,<revitali> + [-isasi:-sasi] + -nya,bentukan,[166] [S] -isasi + (i) => [34] [SFS] -nya + (<all>)
+108312.4,x,,<revitalis> + [-isasi:-asi] + -nya,bentukan,[167] [S] -isasi + (is) => [34] [SFS] -nya + (<all>)
+108312.5,v,,<revital> + -isasi + -nya,bentukan,[169] [S] -isasi + (<others>) => [34] [SFS] -nya + (<all>)
+,,,,,
+108313,k,56,reviu,dasar,
+,,,,,
+108314,k,8,revival,dasar,
+,,,,,
+108315,v,6,revivalis,dasar,
+108315.1,x,,<revivali> + [-is:-s],bentukan,[177] [S] -is + (i)
+108315.2,x,,<revival> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+108316,v,5,revivalisme,dasar,
+108316.1,v,,<revival> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+108317,k,0,revivifikasi,dasar,
+108317.1,x,,<revivifikas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+108318,k,668,revolusi,dasar,
+108318.1,x,,<revolus> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+108319,k,0,revolusi biru,dasar,
+,,,,,
+108320,k,0,revolusi budaya,dasar,
+,,,,,
+108321,k,0,revolusi hijau,dasar,
+,,,,,
+108322,k,0,revolusi industri,dasar,
+108322.1,x,,<revolusi industr> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+108323,d,0,revolusi mandataris,dasar,
+108323.1,x,,<revolusi mandatari> + [-is:-s],bentukan,[177] [S] -is + (i)
+108323.2,x,,<revolusi mandatar> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+108324,k,0,revolusi mental,dasar,
+,,,,,
+108325,k,0,revolusi sepak bola,dasar,
+,,,,,
+108326,v,2,revolusi-revolusi,dasar,
+108326.1,v,,<revolusi> [-] <r>,bentukan,[23] [RD] |
+108326.2,x,,<revolus> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+108327,v,7,revolusinya,dasar,
+108327.1,v,,<revolusi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+108327.2,x,,<revolus> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+108328,k,136,revolusioner,dasar,
+,,,,,
+108329,v,2,revolusionernya,dasar,
+108329.1,v,,<revolusioner> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+108330,k,0,revolusionis,dasar,
+108330.1,x,,<revolusioni> + [-is:-s],bentukan,[177] [S] -is + (i)
+108330.2,x,,<revolusion> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+108331,k,22,revolver,dasar,
+,,,,,
+108332,k,0,rewak,dasar,
+,,,,,
+108333,c,2,rewan,dasar,rawan
+108333.1,x,,<rew> + -an,bentukan,[38] [S] -an + (<all>)
+108333.2,x,,<re> + -wan,bentukan,[180] [S] -wan + (<others>)
+,,,,,
+108334,k,0,rewanda,dasar,
+108334.1,x,,<rewa> + [-anda:-nda],bentukan,[183] [S] -anda + (i;u;a;[k:])
+108334.2,x,,<rewan> + [-anda:-da],bentukan,[184] [S] -anda + (an)
+108334.3,x,,<rew> + -anda,bentukan,[185] [S] -anda + (<others>)
+,,,,,
+108335,k,3,rewang,dasar,
+,,,,,
+108336,k,73,rewel,dasar,
+,,,,,
+108337,k,0,rewet,dasar,
+,,,,,
+108338,k,0,reyal,dasar,
+,,,,,
+108339,k,35,reyot,dasar,
+,,,,,
+108340,k,318,rezeki,dasar,
+108340.1,x,,<rezek> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+108341,k,0,rezeki batin,dasar,
+,,,,,
+108342,k,0,rezeki halal,dasar,
+,,,,,
+108343,k,0,rezeki kaget,dasar,
+,,,,,
+108344,k,0,rezeki mahal,dasar,
+,,,,,
+108345,k,0,rezeki mata,dasar,
+,,,,,
+108346,k,0,rezeki meninggi,dasar,
+108346.1,x,,<rezeki meningg> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+108347,k,0,rezeki merendah,dasar,
+,,,,,
+108348,k,0,rezeki murah,dasar,
+,,,,,
+108349,k,0,rezeki musang,dasar,
+,,,,,
+108350,k,0,rezeki nomplok,dasar,
+,,,,,
+108351,v,5,rezekiku,dasar,
+108351.1,v,,<rezeki> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+108351.2,x,,<rezek> + -i + -ku,bentukan,[28] [S] -i + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+108352,v,2,rezekimu,dasar,
+108352.1,v,,<rezeki> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+108352.2,x,,<rezek> + -i + -mu,bentukan,[28] [S] -i + (<all>) => [33] [SFS] -mu + (<all>)
+,,,,,
+108353,v,32,rezekinya,dasar,
+108353.1,v,,<rezeki> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+108353.2,x,,<rezek> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+108354,k,427,rezim,dasar,
+,,,,,
+108355,k,0,rezim militer,dasar,
+,,,,,
+108356,d,0,rezim otoriter,dasar,
+,,,,,
+108357,v,12,rezim-rezim,dasar,
+108357.1,v,,<rezim> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+108358,v,9,rezimnya,dasar,
+108358.1,v,,<rezim> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+108359,c,10,rho,dasar,ro
+,,,,,
+108360,k,168,ria,dasar,
+,,,,,
+108361,k,0,riadah,dasar,
+,,,,,
+108362,k,0,riadat,dasar,
+,,,,,
+108363,k,4,riah,dasar,
+108363.1,x,,<r> + -iah,bentukan,[175] [S] -iah + (<others>)
+,,,,,
+108364,k,85,riak,dasar,
+,,,,,
+108365,k,0,riak gelombang,dasar,
+,,,,,
+108366,k,0,riak meriak,dasar,
+,,,,,
+108367,v,21,riak-riak,dasar,
+108367.1,v,,<riak> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+108368,v,2,riak-riaknya,dasar,
+108368.1,x,,<riak> [-] <r> + -nya,bentukan,[23] [RD] |
+108368.2,v,,<riak> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+108369,v,3,riaknya,dasar,
+108369.1,v,,<riak> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+108370,k,5,rial,dasar,
+,,,,,
+108371,k,0,rialat,dasar,
+,,,,,
+108372,k,5,riam,dasar,
+,,,,,
+108373,k,68,rian,dasar,
+108373.1,x,,<ri> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+108374,k,256,riang,dasar,
+,,,,,
+108375,k,0,riang gembira,dasar,
+,,,,,
+108376,k,0,riang hati,dasar,
+108376.1,x,,<riang hat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+108377,k,0,riang mulut,dasar,
+,,,,,
+108378,k,0,riang ria,dasar,
+,,,,,
+108379,k,0,riang semangat,dasar,
+,,,,,
+108380,k,0,riang-riang,dasar,
+108380.1,v,,<riang> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+108381,v,14,riangnya,dasar,
+108381.1,v,,<riang> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+108382,k,0,riantana,dasar,
+,,,,,
+108383,k,5,riap,dasar,
+,,,,,
+108384,k,2,riap-riap,dasar,
+108384.1,v,,<riap> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+108385,k,118,rias,dasar,
+,,,,,
+108386,k,120,riasan,dasar,
+108386.1,v,,<rias> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+108387,v,12,riasannya,dasar,
+108387.1,x,,<riasan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+108387.2,v,,<rias> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+108388,k,664,riau,dasar,
+,,,,,
+108389,k,65,riba,dasar,
+,,,,,
+108390,k,2,ribaan,dasar,
+108390.1,v,,<riba> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+108391,k,0,ribang,dasar,
+,,,,,
+108392,v,2,ribas,dasar,
+,,,,,
+108393,k,0,ribat,dasar,
+,,,,,
+108394,k,0,ribatat,dasar,
+,,,,,
+108395,v,6,ribawi,dasar,
+108395.1,x,,<ribaw> + -i,bentukan,[28] [S] -i + (<all>)
+108395.2,v,,<riba> + -wi,bentukan,[174] [S] -wi + (<others>)
+,,,,,
+108396,k,2,riben,dasar,
+,,,,,
+108397,k,107,ribet,dasar,
+,,,,,
+108398,v,4,ribet-ribet,dasar,
+108398.1,v,,<ribet> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+108399,v,4,ribetnya,dasar,
+108399.1,v,,<ribet> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+108400,k,0,ribi,dasar,
+108400.1,x,,<rib> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+108401,k,15,riboflavin,dasar,
+,,,,,
+108402,v,4,ribonukleat,dasar,
+,,,,,
+108403,k,2,ribonukleotida,dasar,
+,,,,,
+108404,k,4,ribosa,dasar,
+,,,,,
+108405,k,11,ribosom,dasar,
+,,,,,
+108406,v,5,ribosomal,dasar,
+,,,,,
+108407,k,3796,ribu,dasar,
+,,,,,
+108408,k,3,ribu-ribu,dasar,
+108408.1,v,,<ribu> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+108409,k,1374,ribuan,dasar,
+108409.1,v,,<ribu> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+108410,k,259,ribut,dasar,
+,,,,,
+108411,v,63,ribut-ribut,dasar,
+108411.1,v,,<ribut> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+108412,k,16,rica,dasar,
+,,,,,
+108413,k,5,rica-rica,dasar,
+108413.1,v,,<rica> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+108414,k,0,ricau,dasar,
+,,,,,
+108415,k,7,ricik,dasar,
+,,,,,
+108416,k,0,ricikan,dasar,
+108416.1,x,,<rici> + -kan,bentukan,[29] [S] -kan + (<all>)
+108416.2,v,,<ricik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+108417,c,2,ricis,dasar,rincis
+108417.1,x,,<rici> + [-is:-s],bentukan,[177] [S] -is + (i)
+108417.2,x,,<ric> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+108418,k,43,ricuh,dasar,
+,,,,,
+108419,v,2,ricuhnya,dasar,
+108419.1,v,,<ricuh> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+108420,k,52,rida,dasar,
+,,,,,
+108421,v,7,ridak,dasar,
+,,,,,
+108422,v,2,ridamu,dasar,
+108422.1,v,,<rida> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+,,,,,
+108423,k,2,ridan,dasar,
+108423.1,x,,<rid> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+108424,v,2,ridanya,dasar,
+108424.1,v,,<rida> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+108425,c,60,ridha,dasar,rida
+,,,,,
+108426,k,0,ridho,dasar,
+,,,,,
+108427,k,4,ridi,dasar,
+108427.1,x,,<rid> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+108428,k,28,riding,dasar,
+,,,,,
+108429,k,0,ridip,dasar,
+,,,,,
+108430,k,0,ridu,dasar,
+,,,,,
+108431,k,8,riel,dasar,
+,,,,,
+108432,k,0,rifler,dasar,
+,,,,,
+108433,k,0,rigai,dasar,
+108433.1,x,,<riga> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+108434,v,2,rigen,dasar,
+,,,,,
+108435,k,0,rigi-rigi,dasar,
+108435.1,x,,<rigi> [-] <r>,bentukan,[23] [RD] |
+108435.2,x,,<rig> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+108436,v,70,rigid,dasar,
+,,,,,
+108437,k,6,rigiditas,dasar,
+108437.1,v,,<rigid> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+108438,v,2,rigor,dasar,
+,,,,,
+108439,k,0,rihal,dasar,
+,,,,,
+108440,c,2,rihat,dasar,rehat
+,,,,,
+108441,k,0,rihlah,dasar,
+108441.1,x,,<rih> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+108442,k,571,riil,dasar,
+,,,,,
+108443,k,14,rijal,dasar,
+,,,,,
+108444,k,0,rijalulgaib,dasar,
+,,,,,
+108445,k,7,rijang,dasar,
+,,,,,
+108446,k,2,riketsia,dasar,
+,,,,,
+108447,k,31,rikuh,dasar,
+,,,,,
+108448,k,137,rileks,dasar,
+,,,,,
+108449,k,335,rilis,dasar,
+108449.1,x,,<rili> + [-is:-s],bentukan,[177] [S] -is + (i)
+108449.2,x,,<ril> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+108450,v,12,rilisan,dasar,
+108450.1,v,,<rilis> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+108451,k,35,rim,dasar,
+,,,,,
+108452,k,48,rima,dasar,

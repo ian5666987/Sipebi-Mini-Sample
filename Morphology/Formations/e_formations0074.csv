@@ -1,0 +1,1637 @@
+Nomor,KP,Jumlah,Entri,Tipe,Pembentukan
+33167,k,0,endapan berlapis,dasar,
+33167.1,x,,<endapan berlapi> + [-is:-s],bentukan,[177] [S] -is + (i)
+33167.2,x,,<endapan berlap> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+33168,k,0,endapan bijih,dasar,
+,,,,,
+33169,k,0,endapan cebakan,dasar,
+33169.1,x,,<endapan ceba> + -kan,bentukan,[29] [S] -kan + (<all>)
+33169.2,x,,<endapan cebak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+33170,k,0,endapan laut,dasar,
+,,,,,
+33171,k,0,endapan mineral,dasar,
+,,,,,
+33172,k,0,endapan pandan,dasar,
+33172.1,x,,<endapan pand> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+33173,k,0,endapan radioaktif,dasar,
+,,,,,
+33174,k,0,endapan sekunder,dasar,
+,,,,,
+33175,k,0,endapan sungai,dasar,
+33175.1,x,,<endapan sunga> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33176,v,5,endapan-endapan,dasar,
+33176.1,v,,<endapan> [-] <r>,bentukan,[23] [RD] |
+33176.2,x,,<endap> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+33177,v,6,endapkan,dasar,
+33177.1,v,,<endap> + -kan,bentukan,[29] [S] -kan + (<all>)
+33177.2,x,,<endapk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+33178,k,0,endasan,dasar,
+33178.1,x,,<endas> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+33179,k,69,ende,dasar,
+,,,,,
+33180,k,12,endemi,dasar,
+33180.1,x,,<endem> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33181,k,101,endemik,dasar,
+,,,,,
+33182,k,32,endemis,dasar,
+33182.1,v,,<endemi> + [-is:-s],bentukan,[177] [S] -is + (i)
+33182.2,x,,<endem> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+33183,t,0,endilau,dasar,
+,,,,,
+33184,k,0,endoderm,dasar,
+,,,,,
+33185,k,0,endoderma,dasar,
+,,,,,
+33186,k,0,endodermis,dasar,
+33186.1,x,,<endodermi> + [-is:-s],bentukan,[177] [S] -is + (i)
+33186.2,v,,<endoderm> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+33187,k,0,endofasia,dasar,
+,,,,,
+33188,k,8,endofit,dasar,
+,,,,,
+33189,k,0,endofora,dasar,
+,,,,,
+33190,k,2,endogami,dasar,
+33190.1,x,,<endogam> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33191,k,77,endogen,dasar,
+,,,,,
+33192,k,0,endokardia,dasar,
+,,,,,
+33193,k,0,endokarpium,dasar,
+,,,,,
+33194,k,38,endokrin,dasar,
+,,,,,
+33195,k,0,endokrinolog,dasar,
+,,,,,
+33196,k,9,endokrinologi,dasar,
+33196.1,x,,<endokrinolog> + -i,bentukan,[28] [S] -i + (<all>)
+33196.2,x,,<endokrino> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+33197,k,0,endolimfa,dasar,
+,,,,,
+33198,k,7,endometriosis,dasar,
+33198.1,x,,<endometriosi> + [-is:-s],bentukan,[177] [S] -is + (i)
+33198.2,x,,<endometrios> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+33199,k,0,endometritis,dasar,
+33199.1,x,,<endometriti> + [-is:-s],bentukan,[177] [S] -is + (i)
+33199.2,x,,<endometrit> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+33200,k,16,endometrium,dasar,
+,,,,,
+33201,k,0,endomiksis,dasar,
+33201.1,x,,<endomiksi> + [-is:-s],bentukan,[177] [S] -is + (i)
+33201.2,x,,<endomiks> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+33202,k,0,endomiokarditis,dasar,
+33202.1,x,,<endomiokarditi> + [-is:-s],bentukan,[177] [S] -is + (i)
+33202.2,x,,<endomiokardit> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+33203,k,0,endomisium,dasar,
+,,,,,
+33204,k,0,endomorf,dasar,
+,,,,,
+33205,k,0,endomorfik,dasar,
+,,,,,
+33206,k,0,endon,dasar,
+,,,,,
+33207,k,0,endonan,dasar,
+33207.1,v,,<endon> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+33208,k,0,endong,dasar,
+,,,,,
+33209,k,0,endoparasit,dasar,
+,,,,,
+33210,v,7,endoplasma,dasar,
+,,,,,
+33211,k,16,endorfin,dasar,
+,,,,,
+33212,k,2,endorsemen,dasar,
+,,,,,
+33213,k,0,endorsemen media sosial,dasar,
+,,,,,
+33214,k,0,endorsemen mutlak,dasar,
+,,,,,
+33215,k,0,endorsemen pinjam nama,dasar,
+,,,,,
+33216,k,0,endorsemen selebritas,dasar,
+33216.1,x,,<endorsemen selebr> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+33217,k,0,endosan,dasar,
+33217.1,v,,<endos> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+33218,c,13,endosemen,dasar,endorsemen
+,,,,,
+33219,x,2,endosentrik,dasar,
+,,,,,
+33220,k,2,endosentris,dasar,
+33220.1,v,,<endo> + -sentris,bentukan,[111] [S] -sentris + (<all>)
+33220.2,x,,<endosentri> + [-is:-s],bentukan,[177] [S] -is + (i)
+33220.3,x,,<endosentr> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+33221,v,3,endoserviks,dasar,
+,,,,,
+33222,k,0,endoskeleton,dasar,
+,,,,,
+33223,k,0,endoskop,dasar,
+,,,,,
+33224,k,6,endoskopi,dasar,
+33224.1,x,,<endoskop> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33225,v,2,endoskopik,dasar,
+,,,,,
+33226,k,0,endosmosis,dasar,
+33226.1,x,,<endosmosi> + [-is:-s],bentukan,[177] [S] -is + (i)
+33226.2,x,,<endosmos> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+33227,k,5,endosperma,dasar,
+,,,,,
+33228,k,3,endospora,dasar,
+,,,,,
+33229,k,49,endotel,dasar,
+,,,,,
+33230,k,3,endoterm,dasar,
+,,,,,
+33231,k,0,endotermal,dasar,
+,,,,,
+33232,v,2,endotermik,dasar,
+,,,,,
+33233,k,2,endotermis,dasar,
+33233.1,x,,<endotermi> + [-is:-s],bentukan,[177] [S] -is + (i)
+33233.2,x,,<endoterm> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+33234,k,2,endotoksin,dasar,
+,,,,,
+33235,k,0,endrak,dasar,
+,,,,,
+33236,k,0,endrin,dasar,
+,,,,,
+33237,k,0,enduk,dasar,
+,,,,,
+33238,k,0,endul,dasar,
+,,,,,
+33239,k,11,enduro,dasar,
+,,,,,
+33240,k,3,endus,dasar,
+,,,,,
+33241,k,0,endut,dasar,
+,,,,,
+33242,k,0,endut-endut,dasar,
+33242.1,v,,<endut> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+33243,k,0,endut-endutan,dasar,
+33243.1,v,,<endut> [-] <r> + -an,bentukan,[23] [RD] |
+,,,,,
+33244,t,3,eneg,dasar,enek
+,,,,,
+33245,k,2,enek,dasar,
+,,,,,
+33246,k,0,enema,dasar,
+,,,,,
+33247,t,8,eneng,dasar,neng
+,,,,,
+33248,k,0,enepur,dasar,
+,,,,,
+33249,k,6,energetik,dasar,
+,,,,,
+33250,k,2320,energi,dasar,
+33250.1,x,,<energ> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33251,k,0,energi aerobik,dasar,
+,,,,,
+33252,k,0,energi alternatif,dasar,
+,,,,,
+33253,k,0,energi astral,dasar,
+,,,,,
+33254,k,0,energi atom,dasar,
+,,,,,
+33255,k,0,energi bebas,dasar,
+,,,,,
+33256,k,0,energi bersih,dasar,
+,,,,,
+33257,k,0,energi galikan,dasar,
+33257.1,x,,<energi gali> + -kan,bentukan,[29] [S] -kan + (<all>)
+33257.2,x,,<energi galik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+33258,k,0,energi geotermal,dasar,
+,,,,,
+33259,k,0,energi inti,dasar,
+33259.1,x,,<energi int> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33260,k,0,energi kimia,dasar,
+,,,,,
+33261,k,0,energi kinetik,dasar,
+,,,,,
+33262,k,0,energi kotor,dasar,
+,,,,,
+33263,k,0,energi matahari,dasar,
+33263.1,x,,<energi matahar> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33264,k,0,energi mekanis,dasar,
+33264.1,x,,<energi mekani> + [-is:-s],bentukan,[177] [S] -is + (i)
+33264.2,x,,<energi mekan> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+33265,k,0,energi metabolisme,dasar,
+33265.1,x,,<energi metabol> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+33266,k,0,energi metabolisme basal,dasar,
+,,,,,
+33267,k,0,energi metabolisme istirahat,dasar,
+,,,,,
+33268,k,0,energi mimetik,dasar,
+,,,,,
+33269,k,0,energi nuklir,dasar,
+,,,,,
+33270,k,0,energi panas,dasar,
+,,,,,
+33271,k,0,energi pangan,dasar,
+33271.1,x,,<energi pang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+33272,k,0,energi pencernaan makanan,dasar,
+33272.1,x,,<energi pencernaan makan> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+33273,k,0,energi potensial,dasar,
+,,,,,
+33274,k,0,energi potensial tersedia,dasar,
+,,,,,
+33275,k,0,energi psikologi,dasar,
+33275.1,x,,<energi psikolog> + -i,bentukan,[28] [S] -i + (<all>)
+33275.2,x,,<energi psiko> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+33276,k,0,energi putar,dasar,
+,,,,,
+33277,k,0,energi radio,dasar,
+,,,,,
+33278,k,0,energi regangan,dasar,
+33278.1,x,,<energi regang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+33279,k,0,energi surya,dasar,
+,,,,,
+33280,k,0,energi tekan,dasar,
+33280.1,x,,<energi te> + -kan,bentukan,[29] [S] -kan + (<all>)
+33280.2,x,,<energi tek> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+33281,k,0,energi termal,dasar,
+,,,,,
+33282,k,0,energi termogenesis,dasar,
+33282.1,x,,<energi termogenesi> + [-is:-s],bentukan,[177] [S] -is + (i)
+33282.2,x,,<energi termogenes> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+33283,k,0,energi termogenesis makanan,dasar,
+33283.1,x,,<energi termogenesis makan> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+33284,k,0,energi tersinar,dasar,
+,,,,,
+33285,v,4,energi-energi,dasar,
+33285.1,v,,<energi> [-] <r>,bentukan,[23] [RD] |
+33285.2,x,,<energ> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+33286,k,58,energik,dasar,
+,,,,,
+33287,v,4,energiku,dasar,
+33287.1,v,,<energi> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+33287.2,x,,<energ> + -i + -ku,bentukan,[28] [S] -i + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+33288,v,2,energimu,dasar,
+33288.1,v,,<energi> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+33288.2,x,,<energ> + -i + -mu,bentukan,[28] [S] -i + (<all>) => [33] [SFS] -mu + (<all>)
+,,,,,
+33289,v,86,energinya,dasar,
+33289.1,v,,<energi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+33289.2,x,,<energ> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+33290,t,4,enerji,dasar,energi
+33290.1,x,,<enerj> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33291,k,0,enes,dasar,
+,,,,,
+33292,k,0,enetofobia,dasar,
+33292.1,x,,<eneto> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+33293,k,0,enfitotik,dasar,
+,,,,,
+33294,k,3,engah,dasar,
+,,,,,
+33295,k,0,engah-engah,dasar,
+33295.1,v,,<engah> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+33296,k,0,engap-engap,dasar,
+33296.1,v,,<engap> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+33297,k,0,engas,dasar,
+,,,,,
+33298,k,0,engel,dasar,
+,,,,,
+33299,k,1106,enggak,dasar,
+,,,,,
+33300,v,4,enggak-enggak,dasar,
+33300.1,v,,<enggak> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+33301,v,10,enggaklah,dasar,
+33301.1,v,,<enggak> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+33302,v,2,enggaknya,dasar,
+33302.1,v,,<enggak> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+33303,k,922,enggan,dasar,
+33303.1,x,,<engg> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+33304,k,0,enggan-enggan,dasar,
+33304.1,v,,<enggan> [-] <r>,bentukan,[23] [RD] |
+33304.2,x,,<engg> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+33305,k,11,enggang,dasar,
+,,,,,
+33306,k,0,enggang gading,dasar,
+,,,,,
+33307,k,0,enggang papan,dasar,
+33307.1,x,,<enggang pap> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+33308,k,9,enggano,dasar,
+,,,,,
+33309,k,0,engget,dasar,
+,,,,,
+33310,k,0,enggil,dasar,
+,,,,,
+33311,k,0,enggok,dasar,
+,,,,,
+33312,k,0,enggokan,dasar,
+33312.1,x,,<enggo> + -kan,bentukan,[29] [S] -kan + (<all>)
+33312.2,v,,<enggok> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+33313,k,0,engkadik,dasar,
+,,,,,
+33314,k,0,engkah,dasar,
+33314.1,x,,<eng> + -kah,bentukan,[30] [FS] -kah + (<all>)
+,,,,,
+33315,k,0,engkah-engkah,dasar,
+33315.1,v,,<engkah> [-] <r>,bentukan,[23] [RD] |
+33315.2,x,,<eng> + -kah [-] <r> + -kah,bentukan,[30] [FS] -kah + (<all>) => [23] [RD] |
+,,,,,
+33316,k,0,engkak,dasar,
+,,,,,
+33317,k,0,engkam,dasar,
+,,,,,
+33318,k,0,engkang,dasar,
+,,,,,
+33319,k,0,engkaras,dasar,
+,,,,,
+33320,k,249,engkau,dasar,
+,,,,,
+33321,k,0,engket-engket,dasar,
+33321.1,x,,<engket> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+33322,k,0,engklek,dasar,
+,,,,,
+33323,k,3,engkoh,dasar,
+,,,,,
+33324,k,17,engkol,dasar,
+,,,,,
+33325,k,5,engkong,dasar,
+,,,,,
+33326,k,0,engkribang,dasar,
+,,,,,
+33327,k,0,engkrunyuk,dasar,
+,,,,,
+33328,k,15,engku,dasar,
+33328.1,x,,<eng> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+33329,k,0,engkuk,dasar,
+,,,,,
+33330,k,62,engsel,dasar,
+,,,,,
+33331,k,4,enigma,dasar,
+,,,,,
+33332,k,46,enim,dasar,
+,,,,,
+33333,k,0,enjak,dasar,
+,,,,,
+33334,k,0,enjal,dasar,
+,,,,,
+33335,k,0,enjambemen,dasar,
+,,,,,
+33336,k,0,enjelai,dasar,
+33336.1,x,,<enjela> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33337,k,0,enjin,dasar,
+,,,,,
+33338,k,0,enjut,dasar,
+,,,,,
+33339,k,8,enkapsulasi,dasar,
+33339.1,x,,<enkapsulas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33340,k,0,enkefalin,dasar,
+,,,,,
+33341,k,0,enklave,dasar,
+,,,,,
+33342,k,0,enklisis,dasar,
+33342.1,x,,<enklisi> + [-is:-s],bentukan,[177] [S] -is + (i)
+33342.2,x,,<enklis> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+33343,k,3,enklitik,dasar,
+,,,,,
+33344,k,0,enkode,dasar,
+,,,,,
+33345,k,0,enkopresis,dasar,
+33345.1,x,,<enkopresi> + [-is:-s],bentukan,[177] [S] -is + (i)
+33345.2,x,,<enkopres> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+33346,k,30,enkripsi,dasar,
+33346.1,x,,<enkrips> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33347,k,0,enkripsi data,dasar,
+,,,,,
+33348,k,5,enkulturasi,dasar,
+33348.1,x,,<enkulturas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33349,k,0,enofobia,dasar,
+33349.1,x,,<eno> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+33350,k,0,enok,dasar,
+,,,,,
+33351,v,3,enoki,dasar,
+33351.1,x,,<enok> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33352,k,0,enologi,dasar,
+33352.1,x,,<enolog> + -i,bentukan,[28] [S] -i + (<all>)
+33352.2,x,,<eno> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+33353,k,2,enom,dasar,
+,,,,,
+33354,k,0,enon,dasar,
+,,,,,
+33355,k,0,enosiofobia,dasar,
+33355.1,x,,<enosio> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+33356,k,28,enrekang,dasar,
+,,,,,
+33357,k,4,ensambel,dasar,
+,,,,,
+33358,k,5,ensefalitis,dasar,
+33358.1,x,,<ensefaliti> + [-is:-s],bentukan,[177] [S] -is + (i)
+33358.2,x,,<ensefalit> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+33359,k,0,ensefalitogen,dasar,
+,,,,,
+33360,k,0,ensefalograf,dasar,
+33360.1,x,,<ensefalo> + -graf,bentukan,[191] [S] -graf + (<all>)
+,,,,,
+33361,k,0,ensefalografi,dasar,
+33361.1,x,,<ensefalograf> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33362,k,0,ensefalogram,dasar,
+,,,,,
+33363,k,0,ensefalomielitis,dasar,
+33363.1,x,,<ensefalomieliti> + [-is:-s],bentukan,[177] [S] -is + (i)
+33363.2,x,,<ensefalomielit> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+33364,k,0,ensefalon,dasar,
+,,,,,
+33365,k,0,enseladus,dasar,
+,,,,,
+33366,k,0,enseluai,dasar,
+33366.1,x,,<enselua> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33367,k,0,ensemak,dasar,
+,,,,,
+33368,k,0,ensepalin,dasar,
+,,,,,
+33369,k,0,ensepat,dasar,
+,,,,,
+33370,k,0,ensiform,dasar,
+,,,,,
+33371,k,0,ensiklik,dasar,
+,,,,,
+33372,c,41,ensiklopedi,dasar,ensiklopedia
+33372.1,x,,<ensikloped> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33373,k,58,ensiklopedia,dasar,
+,,,,,
+33374,k,0,ensiklopedis,dasar,
+33374.1,x,,<ensiklopedi> + [-is:-s],bentukan,[177] [S] -is + (i)
+33374.2,x,,<ensikloped> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+33375,k,0,ensopor,dasar,
+,,,,,
+33376,k,0,entablatur,dasar,
+,,,,,
+33377,k,1632,entah,dasar,
+,,,,,
+33378,k,0,entah-berentah,dasar,
+33378.1,v,,<entah> [-] ber- + <r>,bentukan,[16] ber- + (<others>) + (-kan;-i;-an;-nya) => [52] [RD] |ber-
+,,,,,
+33379,v,227,entahlah,dasar,
+33379.1,v,,<entah> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+33380,k,3,entak,dasar,
+,,,,,
+33381,k,31,entakan,dasar,
+33381.1,x,,<enta> + -kan,bentukan,[29] [S] -kan + (<all>)
+33381.2,v,,<entak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+33382,k,0,ental,dasar,
+,,,,,
+33383,k,5,entalpi,dasar,
+33383.1,x,,<entalp> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33384,k,6,entang,dasar,
+,,,,,
+33385,k,12,entar,dasar,
+,,,,,
+33386,k,0,entas,dasar,
+,,,,,
+33387,c,13,ente,dasar,anta
+,,,,,
+33388,k,0,entebering,dasar,
+,,,,,
+33389,k,0,entebuloh,dasar,
+,,,,,
+33390,k,4,enten,dasar,
+,,,,,
+33391,k,0,enten-enten,dasar,
+33391.1,v,,<enten> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+33392,k,224,enteng,dasar,
+,,,,,
+33393,k,0,enteng jodoh,dasar,
+,,,,,
+33394,v,3,enteng-enteng,dasar,
+33394.1,v,,<enteng> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+33395,v,2,entengkan,dasar,
+33395.1,v,,<enteng> + -kan,bentukan,[29] [S] -kan + (<all>)
+33395.2,x,,<entengk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+33396,v,7,entengnya,dasar,
+33396.1,v,,<enteng> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+33397,k,0,entente,dasar,
+,,,,,
+33398,k,4,enteritis,dasar,
+33398.1,x,,<enteriti> + [-is:-s],bentukan,[177] [S] -is + (i)
+33398.2,x,,<enterit> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+33399,k,0,enterobiasis,dasar,
+33399.1,x,,<enterobiasi> + [-is:-s],bentukan,[177] [S] -is + (i)
+33399.2,x,,<enterobias> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+33400,k,0,enterogastron,dasar,
+,,,,,
+33401,k,0,enterograf,dasar,
+33401.1,x,,<entero> + -graf,bentukan,[191] [S] -graf + (<all>)
+,,,,,
+33402,k,0,enterokrinin,dasar,
+,,,,,
+33403,k,0,enterologi,dasar,
+33403.1,x,,<enterolog> + -i,bentukan,[28] [S] -i + (<all>)
+33403.2,x,,<entero> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+33404,k,0,enteron,dasar,
+,,,,,
+33405,k,0,enteropati,dasar,
+33405.1,x,,<enteropat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33406,k,0,enterosel,dasar,
+,,,,,
+33407,k,0,enteroskop,dasar,
+,,,,,
+33408,k,0,enteroskopi,dasar,
+33408.1,x,,<enteroskop> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33409,k,0,enterostomi,dasar,
+33409.1,x,,<enterostom> + -i,bentukan,[28] [S] -i + (<all>)
+33409.2,x,,<enteros> + -tomi,bentukan,[200] [S] -tomi + (<all>)
+,,,,,
+33410,k,2,enterotoksin,dasar,
+,,,,,
+33411,k,2,enterovirus,dasar,
+,,,,,
+33412,k,0,entesopati,dasar,
+33412.1,x,,<entesopat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33413,k,2,enti,dasar,
+33413.1,x,,<ent> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33414,k,0,entisol,dasar,
+,,,,,
+33415,k,0,entit,dasar,
+,,,,,
+33416,k,393,entitas,dasar,
+33416.1,x,,<ent> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+33417,v,2,entitas-entitas,dasar,
+33417.1,v,,<entitas> [-] <r>,bentukan,[23] [RD] |
+33417.2,x,,<ent> + -itas [-] <r> + -itas,bentukan,[205] [S] -itas + (<others>) => [23] [RD] |
+,,,,,
+33418,v,9,entitasnya,dasar,
+33418.1,v,,<entitas> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+33418.2,x,,<ent> + -itas + -nya,bentukan,[205] [S] -itas + (<others>) => [34] [SFS] -nya + (<all>)
+,,,,,
+33419,k,0,entoderm,dasar,
+,,,,,
+33420,k,0,entogenus,dasar,
+,,,,,
+33421,k,0,entok,dasar,
+,,,,,
+33422,k,0,entomofagi,dasar,
+33422.1,x,,<entomofag> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33423,k,0,entomofili,dasar,
+33423.1,x,,<entomofil> + -i,bentukan,[28] [S] -i + (<all>)
+33423.2,x,,<entomo> + -fili,bentukan,[193] [S] -fili + (<all>)
+,,,,,
+33424,k,0,entomofobia,dasar,
+33424.1,x,,<entomo> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+33425,k,9,entomolog,dasar,
+,,,,,
+33426,k,12,entomologi,dasar,
+33426.1,x,,<entomolog> + -i,bentukan,[28] [S] -i + (<all>)
+33426.2,x,,<entomo> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+33427,k,7,entong,dasar,
+,,,,,
+33428,k,2,entos,dasar,
+,,,,,
+33429,k,0,entot,dasar,
+,,,,,
+33430,k,0,entozoa,dasar,
+,,,,,
+33431,k,0,entozoik,dasar,
+,,,,,
+33432,k,2,entre,dasar,
+,,,,,
+33433,k,0,entrepot,dasar,
+,,,,,
+33434,k,43,entri,dasar,
+33434.1,x,,<entr> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33435,k,0,entri data,dasar,
+,,,,,
+33436,k,0,entri leksikal,dasar,
+,,,,,
+33437,k,0,entri pokok,dasar,
+,,,,,
+33438,k,0,entrofik,dasar,
+,,,,,
+33439,k,12,entropi,dasar,
+33439.1,x,,<entrop> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33440,k,2,enukleasi,dasar,
+33440.1,x,,<enukleas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33441,k,4,enumerasi,dasar,
+33441.1,x,,<enumeras> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33442,k,7,enumerator,dasar,
+,,,,,
+33443,k,3,enuresis,dasar,
+33443.1,x,,<enuresi> + [-is:-s],bentukan,[177] [S] -is + (i)
+33443.2,x,,<enures> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+33444,k,0,envoi,dasar,
+33444.1,x,,<envo> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33445,k,25,enyah,dasar,
+,,,,,
+33446,v,12,enyahkan,dasar,
+33446.1,v,,<enyah> + -kan,bentukan,[29] [S] -kan + (<all>)
+33446.2,x,,<enyahk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+33447,v,7,enyahlah,dasar,
+33447.1,v,,<enyah> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+33448,k,2,enyak,dasar,
+,,,,,
+33449,k,285,enzim,dasar,
+,,,,,
+33450,k,0,enzim antioksidan,dasar,
+33450.1,x,,<enzim antioksid> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+33451,k,0,enzim efektif,dasar,
+,,,,,
+33452,k,0,enzim ekstraseluler,dasar,
+,,,,,
+33453,k,0,enzim metabolik,dasar,
+,,,,,
+33454,k,0,enzim pencernaan,dasar,
+33454.1,x,,<enzim pencerna> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+33455,v,18,enzim-enzim,dasar,
+33455.1,v,,<enzim> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+33456,k,24,enzimatik,dasar,
+,,,,,
+33457,k,25,enzimatis,dasar,
+33457.1,x,,<enzimati> + [-is:-s],bentukan,[177] [S] -is + (i)
+33457.2,x,,<enzimat> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+33458,v,4,enzimnya,dasar,
+33458.1,v,,<enzim> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+33459,k,0,enzimolisis,dasar,
+33459.1,x,,<enzimolisi> + [-is:-s],bentukan,[177] [S] -is + (i)
+33459.2,x,,<enzimolis> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+33460,k,0,enzimologi,dasar,
+33460.1,x,,<enzimolog> + -i,bentukan,[28] [S] -i + (<all>)
+33460.2,x,,<enzimo> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+33461,k,0,enzimosis,dasar,
+33461.1,x,,<enzimosi> + [-is:-s],bentukan,[177] [S] -is + (i)
+33461.2,x,,<enzimos> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+33462,x,2,enzimtersebut,dasar,
+,,,,,
+33463,k,0,enzootik,dasar,
+,,,,,
+33464,k,0,eofil,dasar,
+,,,,,
+33465,k,0,eolit,dasar,
+,,,,,
+33466,k,7,eon,dasar,
+,,,,,
+33467,k,3,eosen,dasar,
+,,,,,
+33468,k,23,eosin,dasar,
+,,,,,
+33469,k,0,eosofobia,dasar,
+33469.1,x,,<eoso> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+33470,k,0,eozoikum,dasar,
+,,,,,
+33471,k,0,epak,dasar,
+,,,,,
+33472,k,2,epanalepsis,dasar,
+33472.1,x,,<epanalepsi> + [-is:-s],bentukan,[177] [S] -is + (i)
+33472.2,x,,<epanaleps> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+33473,k,0,epek,dasar,
+,,,,,
+33474,k,0,epentesis,dasar,
+33474.1,x,,<epentesi> + [-is:-s],bentukan,[177] [S] -is + (i)
+33474.2,x,,<epentes> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+33475,k,0,epibentos,dasar,
+,,,,,
+33476,k,77,epidemi,dasar,
+33476.1,x,,<epidem> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33477,k,34,epidemiolog,dasar,
+,,,,,
+33478,k,116,epidemiologi,dasar,
+33478.1,x,,<epidemiolog> + -i,bentukan,[28] [S] -i + (<all>)
+33478.2,x,,<epidemio> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+33479,v,22,epidemiologis,dasar,
+33479.1,x,,<epidemiologi> + [-is:-s],bentukan,[177] [S] -is + (i)
+33479.2,x,,<epidemiolog> + -is,bentukan,[178] [S] -is + (<others>)
+33479.3,x,,<epidemio> + -logi+-s,bentukan,[194] [MS] -logi+-s + (<all>)
+,,,,,
+33480,k,30,epidermis,dasar,
+33480.1,x,,<epidermi> + [-is:-s],bentukan,[177] [S] -is + (i)
+33480.2,x,,<epiderm> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+33481,k,0,epidiaskop,dasar,
+,,,,,
+33482,k,9,epidural,dasar,
+,,,,,
+33483,k,0,epifaring,dasar,
+,,,,,
+33484,k,0,epifil,dasar,
+,,,,,
+33485,k,2,epifisis,dasar,
+33485.1,x,,<epifisi> + [-is:-s],bentukan,[177] [S] -is + (i)
+33485.2,x,,<epifis> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+33486,k,10,epifit,dasar,
+,,,,,
+33487,k,0,epifiton,dasar,
+,,,,,
+33488,k,0,epifitotik,dasar,
+,,,,,
+33489,k,0,epifora,dasar,
+,,,,,
+33490,k,0,epigastrium,dasar,
+,,,,,
+33491,k,0,epigenesis,dasar,
+33491.1,x,,<epigenesi> + [-is:-s],bentukan,[177] [S] -is + (i)
+33491.2,x,,<epigenes> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+33492,k,6,epigenetik,dasar,
+,,,,,
+33493,k,0,epigini,dasar,
+33493.1,x,,<epigin> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33494,k,3,epiglotis,dasar,
+33494.1,x,,<epigloti> + [-is:-s],bentukan,[177] [S] -is + (i)
+33494.2,x,,<epiglot> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+33495,k,2,epigon,dasar,
+,,,,,
+33496,k,2,epigraf,dasar,
+33496.1,x,,<epi> + -graf,bentukan,[191] [S] -graf + (<all>)
+,,,,,
+33497,k,3,epigrafi,dasar,
+33497.1,x,,<epigraf> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33498,k,0,epigram,dasar,
+,,,,,
+33499,k,50,epik,dasar,
+,,,,,
+33500,k,0,epikondilitis,dasar,
+33500.1,x,,<epikondiliti> + [-is:-s],bentukan,[177] [S] -is + (i)
+33500.2,x,,<epikondilit> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+33501,k,0,epikotil,dasar,
+,,,,,
+33502,k,0,epikuris,dasar,
+33502.1,x,,<epikuri> + [-is:-s],bentukan,[177] [S] -is + (i)
+33502.2,x,,<epikur> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+33503,k,30,epilepsi,dasar,
+33503.1,x,,<epileps> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33504,k,0,epileptik,dasar,
+,,,,,
+33505,k,0,epilimnion,dasar,
+,,,,,
+33506,k,32,epilog,dasar,
+,,,,,
+33507,k,0,epimatium,dasar,
+,,,,,
+33508,k,0,epimisium,dasar,
+,,,,,
+33509,k,0,epinasti,dasar,
+33509.1,x,,<epinast> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33510,k,0,epinefrina,dasar,
+,,,,,
+33511,k,0,epinurim,dasar,
+,,,,,
+33512,k,0,epipelagik,dasar,
+,,,,,
+33513,k,36,episentrum,dasar,
+,,,,,
+33514,v,3,episentrumnya,dasar,
+33514.1,v,,<episentrum> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+33515,k,0,episiklik,dasar,
+,,,,,
+33516,k,0,episiotomi,dasar,
+33516.1,x,,<episiotom> + -i,bentukan,[28] [S] -i + (<all>)
+33516.2,x,,<episio> + -tomi,bentukan,[200] [S] -tomi + (<all>)
+,,,,,
+33517,k,0,episkopal,dasar,
+,,,,,
+33518,k,0,episkopat,dasar,
+,,,,,
+33519,c,0,episod,dasar,
+,,,,,
+33520,k,172,episode,dasar,
+,,,,,
+33521,v,10,episode-episode,dasar,
+33521.1,v,,<episode> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+33522,v,9,episodenya,dasar,
+33522.1,v,,<episode> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+33523,k,7,episodik,dasar,
+,,,,,
+33524,k,0,epispora,dasar,
+,,,,,
+33525,k,0,epistaksiofobia,dasar,
+33525.1,x,,<epistaksio> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+33526,k,3,epistaksis,dasar,
+33526.1,x,,<epistaksi> + [-is:-s],bentukan,[177] [S] -is + (i)
+33526.2,x,,<epistaks> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+33527,k,6,epistasis,dasar,
+33527.1,x,,<epistasi> + [-is:-s],bentukan,[177] [S] -is + (i)
+33527.2,x,,<epistas> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+33528,k,0,epistel,dasar,
+,,,,,
+33529,k,6,epistemik,dasar,
+,,,,,
+33530,k,0,epistemofobia,dasar,
+33530.1,x,,<epistemo> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+33531,k,41,epistemologi,dasar,
+33531.1,x,,<epistemolog> + -i,bentukan,[28] [S] -i + (<all>)
+33531.2,x,,<epistemo> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+33532,v,23,epistemologis,dasar,
+33532.1,x,,<epistemologi> + [-is:-s],bentukan,[177] [S] -is + (i)
+33532.2,x,,<epistemolog> + -is,bentukan,[178] [S] -is + (<others>)
+33532.3,x,,<epistemo> + -logi+-s,bentukan,[194] [MS] -logi+-s + (<all>)
+,,,,,
+33533,k,0,epistola,dasar,
+,,,,,
+33534,k,0,epistolofobia,dasar,
+33534.1,x,,<epistolo> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+33535,k,0,epistoma,dasar,
+,,,,,
+33536,k,2,epitaf,dasar,
+,,,,,
+33537,k,0,epitaksi,dasar,
+33537.1,x,,<epitaks> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33538,k,64,epitel,dasar,
+,,,,,
+33539,k,0,epitelioma,dasar,
+,,,,,
+33540,v,3,epitelisasi,dasar,
+33540.1,x,,<epitelisas> + -i,bentukan,[28] [S] -i + (<all>)
+33540.2,x,,<epiteli> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+33540.3,x,,<epitelis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+33540.4,x,,<epitel> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+33541,k,0,epitermal,dasar,
+,,,,,
+33542,k,0,epitet,dasar,
+,,,,,
+33543,k,2,epitome,dasar,
+,,,,,
+33544,k,0,epizoik,dasar,
+,,,,,
+33545,k,0,epizootik,dasar,
+,,,,,
+33546,k,0,epizotik,dasar,
+,,,,,
+33547,k,0,epok,dasar,
+,,,,,
+33548,k,5,epoksi,dasar,
+33548.1,x,,<epoks> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33549,v,2,epoksida,dasar,
+,,,,,
+33550,v,3,epoksidasi,dasar,
+33550.1,x,,<epoksidas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33551,k,0,epolet,dasar,
+,,,,,
+33552,k,2,eponim,dasar,
+,,,,,
+33553,k,17,epos,dasar,
+,,,,,
+33554,v,2,epos-epos,dasar,
+33554.1,v,,<epos> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+33555,k,0,epsilon,dasar,
+,,,,,
+33556,k,3,epulis,dasar,
+33556.1,x,,<epuli> + [-is:-s],bentukan,[177] [S] -is + (i)
+33556.2,x,,<epul> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+33557,k,40,er,dasar,
+,,,,,
+33558,k,1985,era,dasar,
+,,,,,
+33559,k,0,era bonanza minyak,dasar,
+,,,,,
+33560,k,0,era keterbukaan,dasar,
+33560.1,x,,<era keterbuka> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+33561,k,0,era pembangunan,dasar,
+33561.1,x,,<era pembangun> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+33562,k,0,era telekomunikasi,dasar,
+33562.1,x,,<era telekomunikas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33563,v,8,era-era,dasar,
+33563.1,v,,<era> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+33564,k,17,eradikasi,dasar,
+33564.1,x,,<eradikas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33565,k,0,eragik,dasar,
+,,,,,
+33566,k,0,erai,dasar,
+33566.1,x,,<era> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33567,k,0,erak,dasar,
+,,,,,
+33568,k,0,eram,dasar,
+,,,,,
+33569,k,0,eraman,dasar,
+33569.1,v,,<eram> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+33570,k,8,erang,dasar,
+,,,,,
+33571,k,0,erang-erot,dasar,
+33571.1,x,,<[erang:erang-erot]>,bentukan,[Reduplication-Rhyming]
+,,,,,
+33572,k,34,erangan,dasar,
+33572.1,v,,<erang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+33573,v,4,erangannya,dasar,
+33573.1,x,,<erangan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+33573.2,v,,<erang> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+33574,v,2,erangnya,dasar,
+33574.1,v,,<erang> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+33575,k,1271,erat,dasar,
+,,,,,
+33576,k,99,erat-erat,dasar,
+33576.1,v,,<erat> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+33577,k,0,erata,dasar,
+,,,,,
+33578,v,3,eratkan,dasar,
+33578.1,v,,<erat> + -kan,bentukan,[29] [S] -kan + (<all>)
+33578.2,x,,<eratk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+33579,v,31,eratnya,dasar,
+33579.1,v,,<erat> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+33580,k,0,erbis,dasar,
+33580.1,x,,<erbi> + [-is:-s],bentukan,[177] [S] -is + (i)
+33580.2,x,,<erb> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+33581,k,6,erbium,dasar,
+,,,,,
+33582,c,0,erbpalsi,dasar,
+33582.1,x,,<erbpals> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33583,k,0,ercis,dasar,
+33583.1,x,,<erci> + [-is:-s],bentukan,[177] [S] -is + (i)
+33583.2,x,,<erc> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+33584,k,0,ereh,dasar,
+,,,,,
+33585,k,0,erek-erek,dasar,
+33585.1,x,,<erek> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+33586,k,40,ereksi,dasar,
+33586.1,x,,<ereks> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33587,v,5,ereksinya,dasar,
+33587.1,v,,<ereksi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+33587.2,x,,<ereks> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+33588,k,0,erektor,dasar,
+,,,,,
+33589,k,0,ereng,dasar,
+,,,,,
+33590,k,0,ereng gendeng,dasar,
+,,,,,
+33591,k,0,ereng-ereng,dasar,
+33591.1,v,,<ereng> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+33592,k,0,erepsin,dasar,
+,,,,,
+33593,k,0,eret,dasar,
+,,,,,
+33594,k,6,eretan,dasar,
+33594.1,v,,<eret> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+33595,k,0,ereutrofobia,dasar,
+33595.1,x,,<ereutro> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+33596,k,0,erg,dasar,
+,,,,,
+33597,k,0,ergasiofit,dasar,
+,,,,,
+33598,k,0,ergasiofobia,dasar,
+33598.1,x,,<ergasio> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+33599,k,0,ergatif,dasar,
+,,,,,
+33600,k,0,ergativitas,dasar,
+33600.1,x,,<ergativ> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+33601,k,0,ergodik,dasar,
+,,,,,
+33602,k,0,ergofobia,dasar,
+33602.1,x,,<ergo> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+33603,k,0,ergogenik,dasar,
+,,,,,
+33604,k,0,ergograf,dasar,
+33604.1,x,,<ergo> + -graf,bentukan,[191] [S] -graf + (<all>)
+,,,,,
+33605,k,2,ergokalsiferol,dasar,
+,,,,,
+33606,k,0,ergolitik,dasar,
+,,,,,
+33607,k,0,ergometer,dasar,
+33607.1,x,,<ergo> + -meter,bentukan,[189] [S] -meter + (<all>)
+,,,,,
+33608,k,33,ergonomi,dasar,
+33608.1,x,,<ergonom> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33609,k,5,ergonomik,dasar,
+,,,,,
+33610,k,0,ergonomika,dasar,
+,,,,,
+33611,k,0,ergonomika kognitif,dasar,
+,,,,,
+33612,v,2,ergonominya,dasar,
+33612.1,v,,<ergonomi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+33612.2,x,,<ergonom> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+33613,k,55,ergonomis,dasar,
+33613.1,v,,<ergonomi> + [-is:-s],bentukan,[177] [S] -is + (i)
+33613.2,x,,<ergonom> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+33614,v,5,ergonomisnya,dasar,
+33614.1,x,,<ergonomis> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+33614.2,v,,<ergonomi> + [-is:-s] + -nya,bentukan,[177] [S] -is + (i) => [34] [SFS] -nya + (<all>)
+33614.3,x,,<ergonom> + -is + -nya,bentukan,[178] [S] -is + (<others>) => [34] [SFS] -nya + (<all>)
+,,,,,
+33615,k,0,ergosistema,dasar,
+,,,,,
+33616,k,0,ergosterol,dasar,
+33616.1,x,,<ergo> + -sterol,bentukan,[208] [S] -sterol + (<all>)
+,,,,,
+33617,k,0,ergot,dasar,
+,,,,,
+33618,k,0,ergoterapi,dasar,
+33618.1,x,,<ergoterap> + -i,bentukan,[28] [S] -i + (<all>)
+33618.2,x,,<ergo> + -terapi,bentukan,[215] [S] -terapi + (<all>)
+,,,,,
+33619,k,38,erik,dasar,
+,,,,,
+33620,c,4,ering,dasar,hering
+,,,,,
+33621,k,0,erisipelas,dasar,
+,,,,,
+33622,k,0,eritadenin,dasar,
+,,,,,
+33623,k,7,eritema,dasar,
+,,,,,
+33624,k,10,eritrea,dasar,
+,,,,,
+33625,k,0,eritroblas,dasar,
+,,,,,
+33626,k,0,eritrofobia,dasar,
+33626.1,x,,<eritro> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+33627,k,0,eritroplakia,dasar,
+,,,,,
+33628,k,2,eritropoiesis,dasar,
+33628.1,x,,<eritropoiesi> + [-is:-s],bentukan,[177] [S] -is + (i)
+33628.2,x,,<eritropoies> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+33629,k,0,eritropoietik,dasar,
+,,,,,
+33630,k,3,eritropoietin,dasar,
+,,,,,
+33631,k,30,eritrosit,dasar,
+,,,,,
+33632,k,0,erkalsiol,dasar,
+,,,,,
+33633,k,0,erkan,dasar,
+33633.1,x,,<er> + -kan,bentukan,[29] [S] -kan + (<all>)
+33633.2,x,,<erk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+33634,k,0,ermitofobia,dasar,
+33634.1,x,,<ermito> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+33635,k,5,erodibilitas,dasar,
+33635.1,x,,<erodibil> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+33636,k,2,erong,dasar,
+,,,,,
+33637,k,1896,eropa,dasar,
+,,,,,
+33638,k,16,eror,dasar,
+,,,,,
+33639,v,2,erornya,dasar,
+33639.1,v,,<eror> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+33640,k,0,erosentrisme,dasar,
+33640.1,x,,<erosentr> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+33641,k,129,erosi,dasar,
+33641.1,x,,<eros> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33642,k,0,erosi air,dasar,
+,,,,,
+33643,k,0,erosi alamiah,dasar,
+33643.1,v,,<erosi alam> + -iah,bentukan,[175] [S] -iah + (<others>)
+,,,,,
+33644,k,0,erosi alur,dasar,
+,,,,,
+33645,k,0,erosi angin,dasar,
+,,,,,
+33646,k,0,erosi awal,dasar,
+,,,,,
+33647,k,0,erosi geologis,dasar,
+33647.1,x,,<erosi geologi> + [-is:-s],bentukan,[177] [S] -is + (i)
+33647.2,x,,<erosi geolog> + -is,bentukan,[178] [S] -is + (<others>)
+33647.3,x,,<erosi geo> + -logi+-s,bentukan,[194] [MS] -logi+-s + (<all>)
+,,,,,
+33648,k,0,erosi gigi,dasar,
+33648.1,x,,<erosi gig> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33649,k,0,erosi glasial,dasar,
+,,,,,
+33650,k,0,erosi hujan,dasar,
+33650.1,x,,<erosi huj> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+33651,k,0,erosi internal,dasar,
+,,,,,
+33652,k,0,erosi lembar,dasar,
+,,,,,
+33653,k,0,erosi lokal,dasar,
+,,,,,
+33654,k,0,erosi parit,dasar,
+,,,,,
+33655,k,0,erosi percik,dasar,
+,,,,,
+33656,k,0,erosi percikan,dasar,
+33656.1,x,,<erosi perci> + -kan,bentukan,[29] [S] -kan + (<all>)
+33656.2,x,,<erosi percik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+33657,k,0,erosi permukaan,dasar,
+33657.1,x,,<erosi permuka> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+33658,k,0,erosi pertanian,dasar,
+33658.1,x,,<erosi pertani> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+33659,k,0,erosi selokan,dasar,
+33659.1,x,,<erosi selo> + -kan,bentukan,[29] [S] -kan + (<all>)
+33659.2,x,,<erosi selok> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+33660,k,0,erosi tanah,dasar,
+,,,,,
+33661,k,4,erosivitas,dasar,
+33661.1,x,,<erosiv> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+33662,k,2,erot,dasar,
+,,,,,
+33663,k,0,erot benyot,dasar,
+,,,,,
+33664,k,0,erotan,dasar,
+33664.1,v,,<erot> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+33665,c,5,erotik,dasar,erotis
+,,,,,
+33666,k,0,erotika,dasar,
+,,,,,
+33667,k,37,erotis,dasar,
+33667.1,x,,<eroti> + [-is:-s],bentukan,[177] [S] -is + (i)
+33667.2,x,,<erot> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+33668,k,0,erotisisme,dasar,
+33668.1,v,,<erotis> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+33669,k,5,erotisme,dasar,
+33669.1,v,,<erot> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+33670,v,3,erotisnya,dasar,
+33670.1,v,,<erotis> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+33670.2,x,,<eroti> + [-is:-s] + -nya,bentukan,[177] [S] -is + (i) => [34] [SFS] -nya + (<all>)
+33670.3,x,,<erot> + -is + -nya,bentukan,[178] [S] -is + (<others>) => [34] [SFS] -nya + (<all>)
+,,,,,
+33671,k,0,erotofobia,dasar,
+33671.1,x,,<eroto> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+33672,k,0,erpah,dasar,
+,,,,,
+33673,k,0,erpak,dasar,
+,,,,,
+33674,k,0,erpalsi,dasar,
+33674.1,x,,<erpals> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33675,k,0,ertasi,dasar,
+33675.1,x,,<ertas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33676,k,4,erti,dasar,
+33676.1,x,,<ert> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33677,k,0,ertufa,dasar,
+,,,,,
+33678,k,5,eru,dasar,
+,,,,,
+33679,k,73,erupsi,dasar,
+33679.1,x,,<erups> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33680,k,543,es,dasar,
+,,,,,
+33681,k,0,es bantut,dasar,
+,,,,,
+33682,k,0,es batu,dasar,
+,,,,,
+33683,k,0,es bening,dasar,
+,,,,,
+33684,k,0,es brenibon,dasar,
+,,,,,
+33685,k,0,es buah campolai,dasar,
+33685.1,x,,<es buah campola> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33686,k,0,es buah hunkue,dasar,
+,,,,,
+33687,k,0,es buah tap,dasar,
+,,,,,
+33688,k,0,es campur,dasar,
+,,,,,
+33689,k,0,es caruk,dasar,
+,,,,,
+33690,k,0,es cendol,dasar,
+,,,,,
+33691,k,0,es cendol kopi,dasar,
+33691.1,x,,<es cendol kop> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33692,k,0,es doger,dasar,
+,,,,,
+33693,k,0,es goyang,dasar,
+,,,,,
+33694,k,0,es goyobod,dasar,
+,,,,,
+33695,k,0,es hanyut,dasar,
+,,,,,
+33696,k,0,es kering,dasar,
+,,,,,
+33697,k,0,es kolang-kaling,dasar,
+,,,,,
+33698,k,0,es krim,dasar,
+,,,,,
+33699,k,0,es krim neapolitan,dasar,
+33699.1,x,,<es krim neapolit> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+33700,k,0,es laksmana mengamuk,dasar,
+,,,,,
+33701,k,0,es lekat,dasar,
+,,,,,
+33702,k,0,es lilin,dasar,
+,,,,,
+33703,k,0,es loder,dasar,
+,,,,,
+33704,k,0,es mambo,dasar,
+,,,,,
+33705,k,0,es oyen,dasar,
+,,,,,
+33706,k,0,es pisang ijo,dasar,
+,,,,,
+33707,k,0,es podeng,dasar,
+,,,,,
+33708,k,0,es potong,dasar,
+,,,,,
+33709,k,0,es puter,dasar,
+,,,,,
+33710,k,0,es rumput laut,dasar,
+,,,,,
+33711,k,0,es saguer,dasar,
+,,,,,
+33712,k,0,es sekoteng,dasar,
+,,,,,
+33713,k,0,es selasih,dasar,
+,,,,,
+33714,k,0,es selendang mayang,dasar,
+,,,,,
+33715,k,0,es serpihan,dasar,
+33715.1,x,,<es serpih> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+33716,k,0,es serut,dasar,
+,,,,,
+33717,k,0,es tebak,dasar,
+,,,,,
+33718,k,0,es teh tarik,dasar,
+,,,,,
+33719,k,0,es teler,dasar,
+,,,,,
+33720,k,1674,esa,dasar,
+,,,,,
+33721,k,195,esai,dasar,
+33721.1,x,,<esa> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33722,v,13,esai-esai,dasar,
+33722.1,v,,<esai> [-] <r>,bentukan,[23] [RD] |
+33722.2,x,,<esa> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+33723,v,3,esai-esainya,dasar,
+33723.1,v,,<esai> [-] <r> + -nya,bentukan,[23] [RD] |
+33723.2,x,,<esa> + -i [-] <r> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+33723.3,x,,<esai> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+33723.4,x,,<esa> + -i [-] <r> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+33724,v,2,esaiku,dasar,
+33724.1,v,,<esai> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+33724.2,x,,<esa> + -i + -ku,bentukan,[28] [S] -i + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+33725,v,28,esainya,dasar,
+33725.1,v,,<esai> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+33725.2,x,,<esa> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+33726,k,14,esais,dasar,
+33726.1,x,,<esai> + [-is:-s],bentukan,[177] [S] -is + (i)
+33726.2,x,,<esa> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+33727,k,0,esak,dasar,
+,,,,,
+33728,c,2,esay,dasar,esai
+,,,,,
+33729,k,0,esek,dasar,
+,,,,,
+33730,k,752,eselon,dasar,
+,,,,,
+33731,k,0,esen,dasar,
+,,,,,
+33732,k,2,esens,dasar,
+,,,,,
+33733,k,289,esensi,dasar,
+33733.1,x,,<esens> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33734,v,4,esensi-esensi,dasar,
+33734.1,v,,<esensi> [-] <r>,bentukan,[23] [RD] |
+33734.2,x,,<esens> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+33735,k,278,esensial,dasar,
+,,,,,
+33736,v,2,esensialisme,dasar,
+33736.1,v,,<esensial> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+33737,k,0,esensialitas,dasar,
+33737.1,v,,<esensial> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+33738,v,8,esensialnya,dasar,
+33738.1,v,,<esensial> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+33739,v,50,esensinya,dasar,
+33739.1,v,,<esensi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+33739.2,x,,<esens> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+33740,k,0,eskader,dasar,
+,,,,,
+33741,k,0,eskadron,dasar,
+,,,,,
+33742,k,92,eskalasi,dasar,
+33742.1,x,,<eskalas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33743,v,3,eskalasinya,dasar,
+33743.1,v,,<eskalasi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+33743.2,x,,<eskalas> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+33744,v,2,eskalatif,dasar,
+,,,,,
+33745,k,34,eskalator,dasar,
+,,,,,
+33746,v,2,eskalatornya,dasar,
+33746.1,v,,<eskalator> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+33747,k,0,eskalop,dasar,
+,,,,,
+33748,k,0,eskan,dasar,
+33748.1,x,,<es> + -kan,bentukan,[29] [S] -kan + (<all>)
+33748.2,x,,<esk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+33749,v,2,eskapis,dasar,
+33749.1,x,,<eskapi> + [-is:-s],bentukan,[177] [S] -is + (i)
+33749.2,x,,<eskap> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+33750,v,4,eskapisme,dasar,
+33750.1,x,,<eskap> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+33751,k,0,eskas,dasar,
+,,,,,
+33752,k,2,eskatologi,dasar,
+33752.1,x,,<eskatolog> + -i,bentukan,[28] [S] -i + (<all>)
+33752.2,x,,<eskato> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+33753,k,4,eskatologis,dasar,
+33753.1,v,,<eskatologi> + [-is:-s],bentukan,[177] [S] -is + (i)
+33753.2,x,,<eskatolog> + -is,bentukan,[178] [S] -is + (<others>)
+33753.3,x,,<eskato> + -logi+-s,bentukan,[194] [MS] -logi+-s + (<all>)
+,,,,,
+33754,k,0,eskro,dasar,
+,,,,,
+33755,d,0,esktrasi,dasar,
+33755.1,x,,<esktras> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33756,k,0,eskudo,dasar,
+,,,,,
+33757,k,0,eskuivas,dasar,
+,,,,,
+33758,k,0,esofagitis,dasar,
+33758.1,x,,<esofagiti> + [-is:-s],bentukan,[177] [S] -is + (i)
+33758.2,x,,<esofagit> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+33759,k,10,esofagus,dasar,
+,,,,,
+33760,k,353,esok,dasar,
+,,,,,
+33761,k,0,esok hari,dasar,
+33761.1,x,,<esok har> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33762,k,0,esok lusa,dasar,
+,,,,,
+33763,v,116,esoknya,dasar,
+33763.1,v,,<esok> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+33764,k,0,esong,dasar,
+,,,,,
+33765,k,0,esot,dasar,
+,,,,,
+33766,k,10,esoteris,dasar,
+33766.1,x,,<esoteri> + [-is:-s],bentukan,[177] [S] -is + (i)
+33766.2,x,,<esoter> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+33767,k,0,esoterisme,dasar,
+33767.1,x,,<esoter> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+33768,k,0,espadril,dasar,
+,,,,,
+33769,k,0,esparto,dasar,
+,,,,,
+33770,k,0,espreso,dasar,
+,,,,,
+33771,c,35,essay,dasar,esai
+,,,,,
+33772,c,6,essen,dasar,esens
+,,,,,
+33773,k,75,estafet,dasar,
+,,,,,
+33774,k,0,estegram,dasar,
+,,,,,
+33775,k,54,ester,dasar,
+,,,,,
+33776,k,5,esterase,dasar,
+33776.1,x,,<ester> + -ase,bentukan,[210] [S] -ase + (<all>)
+,,,,,
+33777,k,0,esterase leukosit,dasar,
+,,,,,
+33778,k,7,esterifikasi,dasar,
+33778.1,x,,<esterifikas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33779,k,0,estesia,dasar,
+,,,,,
+33780,k,72,estetik,dasar,
+,,,,,
+33781,k,299,estetika,dasar,
+,,,,,
+33782,k,0,estetika ekstatis,dasar,
+33782.1,x,,<estetika ekstati> + [-is:-s],bentukan,[177] [S] -is + (i)
+33782.2,x,,<estetika ekstat> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+33783,k,0,estetika lango,dasar,
+,,,,,
+33784,v,7,estetikanya,dasar,
+33784.1,v,,<estetika> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+33785,v,11,estetiknya,dasar,
+33785.1,v,,<estetik> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+33786,k,0,estetikus,dasar,
+,,,,,
+33787,k,68,estetis,dasar,
+33787.1,x,,<esteti> + [-is:-s],bentukan,[177] [S] -is + (i)
+33787.2,x,,<estet> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+33788,v,6,estetisnya,dasar,
+33788.1,v,,<estetis> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+33788.2,x,,<esteti> + [-is:-s] + -nya,bentukan,[177] [S] -is + (i) => [34] [SFS] -nya + (<all>)
+33788.3,x,,<estet> + -is + -nya,bentukan,[178] [S] -is + (<others>) => [34] [SFS] -nya + (<all>)
+,,,,,
+33789,k,338,estimasi,dasar,
+33789.1,x,,<estimas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33790,v,2,estimasi-estimasi,dasar,
+33790.1,v,,<estimasi> [-] <r>,bentukan,[23] [RD] |
+33790.2,x,,<estimas> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+33791,v,10,estimasinya,dasar,
+33791.1,v,,<estimasi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+33791.2,x,,<estimas> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+33792,v,13,estimator,dasar,
+,,,,,
+33793,k,0,estival,dasar,
+,,,,,
+33794,k,0,estivasi,dasar,
+33794.1,x,,<estivas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33795,k,20,estonia,dasar,
+,,,,,
+33796,k,5,estradiol,dasar,
+,,,,,
+33797,k,0,estriol,dasar,
+,,,,,
+33798,k,44,estrogen,dasar,
+,,,,,
+33799,k,3,estrogenik,dasar,
+,,,,,
+33800,k,0,estron,dasar,
+,,,,,
+33801,k,5,estrus,dasar,
+,,,,,
+33802,k,14,estuari,dasar,
+33802.1,x,,<estuar> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+33803,k,0,estuari baji garam,dasar,

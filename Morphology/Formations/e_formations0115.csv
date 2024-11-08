@@ -1,0 +1,1347 @@
+Nomor,KP,Jumlah,Entri,Tipe,Pembentukan
+54191,v,2,kerahmatan,dasar,
+54191.1,v,,ke- + <rahmat> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54191.2,x,,ke- + <rahmatan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54191.3,x,,<kerahmat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54192,v,2,kerahnya,dasar,
+54192.1,x,,ke- + <rah> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54192.2,x,,ke- + <rahnya>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54192.3,v,,<kerah> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+54192.4,x,,ke- + <rah> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+,,,,,
+54193,k,6,kerai,dasar,
+54193.1,x,,ke- + <rai>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54193.2,x,,<kera> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+54194,k,717,kerajaan,dasar,
+54194.1,v,,ke- + <raja> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54194.2,x,,ke- + <rajaan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54194.3,x,,<keraja> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54195,k,0,kerajaan absolut,dasar,
+54195.1,x,,ke- + <rajaan absolut>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54196,k,0,kerajaan konstitusional,dasar,
+54196.1,x,,ke- + <rajaan konstitusional>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54197,d,0,kerajaan mataram,dasar,
+54197.1,x,,ke- + <rajaan mataram>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54198,k,0,kerajaan mutlak,dasar,
+54198.1,x,,ke- + <rajaan mutlak>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54199,k,0,kerajaan parlementer,dasar,
+54199.1,x,,ke- + <rajaan parlementer>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54200,v,59,kerajaan-kerajaan,dasar,
+54200.1,v,,<kerajaan> [-] <r>,bentukan,[23] [RD] |
+54200.2,v,,ke- + <raja> + -an [-] ke- + <r> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [23] [RD] |
+54200.3,x,,ke- + <rajaan> [-] ke- + <r>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [23] [RD] |
+54200.4,x,,<keraja> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+54201,v,5,kerajaanku,dasar,
+54201.1,x,,ke- + <rajaanku>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54201.2,v,,<kerajaan> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+54201.3,v,,ke- + <raja> + -an + -ku,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [32] [SFS] -ku + (<all>)
+54201.4,x,,ke- + <rajaan> + -ku,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [32] [SFS] -ku + (<all>)
+54201.5,x,,<keraja> + -an + -ku,bentukan,[38] [S] -an + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+54202,d,0,kerajaanmu,dasar,
+54202.1,x,,ke- + <rajaanmu>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54202.2,v,,<kerajaan> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+54202.3,v,,ke- + <raja> + -an + -mu,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [33] [SFS] -mu + (<all>)
+54202.4,x,,ke- + <rajaan> + -mu,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [33] [SFS] -mu + (<all>)
+54202.5,x,,<keraja> + -an + -mu,bentukan,[38] [S] -an + (<all>) => [33] [SFS] -mu + (<all>)
+,,,,,
+54203,v,30,kerajaannya,dasar,
+54203.1,x,,ke- + <rajaan> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54203.2,x,,ke- + <rajaannya>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54203.3,v,,<kerajaan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+54203.4,v,,ke- + <raja> + -an + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+54203.5,x,,ke- + <rajaan> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+54203.6,x,,<keraja> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+54204,k,0,kerajang,dasar,
+54204.1,x,,ke- + <rajang>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54205,k,0,kerajat,dasar,
+54205.1,x,,ke- + <rajat>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54206,k,371,kerajinan,dasar,
+54206.1,v,,ke- + <rajin> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54206.2,x,,ke- + <rajinan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54206.3,x,,<kerajin> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54207,k,0,kerajinan rumah tangga,dasar,
+54207.1,x,,ke- + <rajinan rumah tangga>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54208,k,0,kerajinan tangan,dasar,
+54208.1,x,,ke- + <rajinan tang> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54208.2,x,,ke- + <rajinan tangan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54208.3,x,,<kerajinan tang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54209,v,9,kerajinannya,dasar,
+54209.1,x,,ke- + <rajinan> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54209.2,x,,ke- + <rajinannya>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54209.3,v,,<kerajinan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+54209.4,v,,ke- + <rajin> + -an + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+54209.5,x,,ke- + <rajinan> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+54209.6,x,,<kerajin> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+54210,k,64,kerak,dasar,
+54210.1,x,,ke- + <rak>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54211,k,0,kerak bumi,dasar,
+54211.1,x,,ke- + <rak bumi>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54211.2,x,,<kerak bum> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+54212,k,0,kerak gurun,dasar,
+54212.1,x,,ke- + <rak gurun>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54213,k,0,kerak nasi,dasar,
+54213.1,x,,ke- + <rak nasi>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54213.2,x,,<kerak nas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+54214,k,0,kerak pai,dasar,
+54214.1,x,,ke- + <rak pai>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54214.2,x,,<kerak pa> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+54215,k,0,kerak roti,dasar,
+54215.1,x,,ke- + <rak roti>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54215.2,x,,<kerak rot> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+54216,k,0,kerak telur,dasar,
+54216.1,x,,ke- + <rak telur>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54217,k,0,keraka,dasar,
+54217.1,x,,ke- + <raka>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54218,k,0,kerakah,dasar,
+54218.1,x,,ke- + <rakah>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54218.2,x,,<kera> + -kah,bentukan,[30] [FS] -kah + (<all>)
+54218.3,x,,ke- + <ra> + -kah,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [30] [FS] -kah + (<all>)
+,,,,,
+54219,k,3,kerakal,dasar,
+54219.1,x,,ke- + <rakal>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54220,k,4,kerakap,dasar,
+54220.1,x,,ke- + <rakap>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54221,k,0,kerakeling,dasar,
+54221.1,x,,ke- + <rakeling>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54222,k,31,kerakusan,dasar,
+54222.1,v,,ke- + <rakus> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54222.2,x,,ke- + <rakusan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54222.3,x,,<kerakus> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54223,k,152,kerakyatan,dasar,
+54223.1,v,,ke- + <rakyat> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54223.2,x,,ke- + <rakyatan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54223.3,x,,<kerakyat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54224,v,2,kerakyatannya,dasar,
+54224.1,x,,ke- + <rakyatan> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54224.2,x,,ke- + <rakyatannya>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54224.3,v,,<kerakyatan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+54224.4,v,,ke- + <rakyat> + -an + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+54224.5,x,,ke- + <rakyatan> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+54224.6,x,,<kerakyat> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+54225,k,11,keram,dasar,
+54225.1,x,,ke- + <ram>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54226,k,0,kerama,dasar,
+54226.1,x,,ke- + <rama>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54227,k,125,keramahan,dasar,
+54227.1,v,,ke- + <ramah> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54227.2,x,,ke- + <ramahan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54227.3,x,,<keramah> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54228,v,14,keramahannya,dasar,
+54228.1,x,,ke- + <ramahan> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54228.2,x,,ke- + <ramahannya>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54228.3,v,,<keramahan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+54228.4,v,,ke- + <ramah> + -an + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+54228.5,x,,ke- + <ramahan> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+54228.6,x,,<keramah> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+54229,k,23,keramahtamahan,dasar,
+54229.1,v,,ke- + <ramahtamah> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54229.2,x,,ke- + <ramahtamahan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54229.3,x,,<keramahtamah> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54230,k,313,keramaian,dasar,
+54230.1,v,,ke- + <ramai> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54230.2,x,,ke- + <ramaian>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54230.3,x,,<keramai> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54231,v,3,keramaian-keramaian,dasar,
+54231.1,v,,<keramaian> [-] <r>,bentukan,[23] [RD] |
+54231.2,v,,ke- + <ramai> + -an [-] ke- + <r> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [23] [RD] |
+54231.3,x,,ke- + <ramaian> [-] ke- + <r>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [23] [RD] |
+54231.4,x,,<keramai> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+54232,k,0,keraman,dasar,
+54232.1,x,,ke- + <ram> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54232.2,x,,ke- + <raman>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54232.3,x,,<keram> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54233,k,33,keramas,dasar,
+54233.1,x,,ke- + <ramas>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54234,k,0,keramas kutu,dasar,
+54234.1,x,,ke- + <ramas kutu>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54235,v,3,keramaslah,dasar,
+54235.1,x,,ke- + <ramaslah>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54235.2,v,,<keramas> + -lah,bentukan,[31] [FS] -lah + (<all>)
+54235.3,x,,ke- + <ramas> + -lah,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [31] [FS] -lah + (<all>)
+,,,,,
+54236,k,127,keramat,dasar,
+54236.1,x,,ke- + <ramat>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54237,v,3,keramatnya,dasar,
+54237.1,x,,ke- + <ramat> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54237.2,x,,ke- + <ramatnya>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54237.3,v,,<keramat> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+54237.4,x,,ke- + <ramat> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+,,,,,
+54238,k,31,keramba,dasar,
+54238.1,x,,ke- + <ramba>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54239,k,3,kerambil,dasar,
+54239.1,x,,ke- + <rambil>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54240,k,2,kerambit,dasar,
+54240.1,x,,ke- + <rambit>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54241,v,5,kerambitan,dasar,
+54241.1,x,,ke- + <rambit> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54241.2,x,,ke- + <rambitan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54241.3,v,,<kerambit> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54242,k,0,keramboja,dasar,
+54242.1,x,,ke- + <ramboja>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54243,k,180,keramik,dasar,
+54243.1,x,,ke- + <ramik>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54244,v,2,keramiknya,dasar,
+54244.1,x,,ke- + <ramik> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54244.2,x,,ke- + <ramiknya>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54244.3,v,,<keramik> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+54244.4,x,,ke- + <ramik> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+,,,,,
+54245,k,0,keramikus,dasar,
+54245.1,x,,ke- + <ramikus>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54246,k,0,kerampagi,dasar,
+54246.1,x,,ke- + <rampagi>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54246.2,x,,<kerampag> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+54247,k,0,kerampang,dasar,
+54247.1,x,,ke- + <rampang>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54248,k,0,kerampatan,dasar,
+54248.1,v,,ke- + <rampat> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54248.2,x,,ke- + <rampatan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54248.3,x,,<kerampat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54249,k,0,keramu,dasar,
+54249.1,x,,ke- + <ramu>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54249.2,x,,<kera> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+54249.3,x,,ke- + <ra> + -mu,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [33] [SFS] -mu + (<all>)
+,,,,,
+54250,k,0,keramunting,dasar,
+54250.1,x,,ke- + <ramunting>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54251,k,140,keran,dasar,
+54251.1,x,,ke- + <r> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54251.2,x,,ke- + <ran>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54251.3,x,,<ker> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54252,k,0,keran bola,dasar,
+54252.1,x,,ke- + <ran bola>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54253,k,0,keran kebakaran,dasar,
+54253.1,x,,ke- + <ran kebakar> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54253.2,x,,ke- + <ran kebakaran>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54253.3,x,,<keran kebakar> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54254,k,0,keran piringan,dasar,
+54254.1,x,,ke- + <ran piring> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54254.2,x,,ke- + <ran piringan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54254.3,x,,<keran piring> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54255,k,0,keran putar,dasar,
+54255.1,x,,ke- + <ran putar>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54256,k,0,keran ungkit,dasar,
+54256.1,x,,ke- + <ran ungkit>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54257,k,0,kerancak-rancakan,dasar,
+54257.1,v,,ke- + <rancak> [-] <r> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [81] [RD] ke-|
+,,,,,
+54258,k,0,kerancakan,dasar,
+54258.1,v,,ke- + <rancak> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54258.2,x,,ke- + <ranca> + -kan,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54258.3,x,,ke- + <rancakan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54258.4,x,,<keranca> + -kan,bentukan,[29] [S] -kan + (<all>)
+54258.5,x,,<kerancak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54259,k,0,kerancang,dasar,
+54259.1,x,,ke- + <rancang>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54260,k,44,kerancuan,dasar,
+54260.1,v,,ke- + <rancu> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54260.2,x,,ke- + <rancuan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54260.3,x,,<kerancu> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54261,k,35,keranda,dasar,
+54261.1,x,,ke- + <randa>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54261.2,x,,<kera> + [-anda:-nda],bentukan,[183] [S] -anda + (i;u;a;[k:])
+54261.3,x,,<keran> + [-anda:-da],bentukan,[184] [S] -anda + (an)
+54261.4,x,,<ker> + -anda,bentukan,[185] [S] -anda + (<others>)
+,,,,,
+54262,v,4,kerandanya,dasar,
+54262.1,x,,ke- + <randa> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54262.2,x,,ke- + <randanya>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54262.3,v,,<keranda> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+54262.4,x,,ke- + <randa> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+54262.5,x,,<kera> + [-anda:-nda] + -nya,bentukan,[183] [S] -anda + (i;u;a;[k:]) => [34] [SFS] -nya + (<all>)
+54262.6,x,,<keran> + [-anda:-da] + -nya,bentukan,[184] [S] -anda + (an) => [34] [SFS] -nya + (<all>)
+54262.7,x,,<ker> + -anda + -nya,bentukan,[185] [S] -anda + (<others>) => [34] [SFS] -nya + (<all>)
+,,,,,
+54263,k,100,kerang,dasar,
+54263.1,x,,ke- + <rang>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54264,k,0,kerang darah,dasar,
+54264.1,x,,ke- + <rang darah>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54265,k,0,kerang hijau,dasar,
+54265.1,x,,ke- + <rang hijau>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54266,k,0,kerang kampak,dasar,
+54266.1,x,,ke- + <rang kampak>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54267,k,0,kerang kuku,dasar,
+54267.1,x,,ke- + <rang kuku>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54267.2,x,,<kerang ku> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+54267.3,x,,ke- + <rang ku> + -ku,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [32] [SFS] -ku + (<all>)
+54267.4,x,,<kerang > + -ku + -ku,bentukan,[32] [SFS] -ku + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+54268,k,0,kerang mata tujuh,dasar,
+54268.1,x,,ke- + <rang mata tujuh>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54269,k,0,kerang mutiara,dasar,
+54269.1,x,,ke- + <rang mutiara>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54270,k,0,kerang pisau,dasar,
+54270.1,x,,ke- + <rang pisau>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54271,k,7,kerang-kerangan,dasar,
+54271.1,v,,<kerang> [-] <r> + -an,bentukan,[23] [RD] |
+54271.2,x,,ke- + <rang> [-] ke- + <r> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [23] [RD] |
+,,,,,
+54272,k,0,kerang-keroh,dasar,
+54272.1,x,,<[keroh:kerang-keroh]>,bentukan,[Reduplication-Rhyming]
+,,,,,
+54273,k,0,kerang-kerot,dasar,
+54273.1,x,,<[kerot:kerang-kerot]>,bentukan,[Reduplication-Rhyming]
+,,,,,
+54274,k,0,kerang-keruk,dasar,
+54274.1,x,,<[kerang:kerang-keruk]>,bentukan,[Reduplication-Rhyming]
+,,,,,
+54275,k,0,kerang-kerung,dasar,
+54275.1,x,,<[kerang:kerang-kerung]>,bentukan,[Reduplication-Rhyming]
+,,,,,
+54276,k,2,kerangas,dasar,
+54276.1,x,,ke- + <rangas>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54277,k,0,kerangga,dasar,
+54277.1,x,,ke- + <rangga>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54278,k,1355,kerangka,dasar,
+54278.1,v,,ke- + <rangka>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54279,k,0,kerangka acuan,dasar,
+54279.1,x,,ke- + <rangka acu> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54279.2,x,,ke- + <rangka acuan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54279.3,x,,<kerangka acu> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54280,k,0,kerangka acuan global,dasar,
+54280.1,x,,ke- + <rangka acuan global>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54281,k,0,kerangka acuan lembam,dasar,
+54281.1,x,,ke- + <rangka acuan lembam>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54282,k,0,kerangka acuan lokal,dasar,
+54282.1,x,,ke- + <rangka acuan lokal>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54283,k,0,kerangka atas,dasar,
+54283.1,x,,ke- + <rangka atas>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54284,d,0,kerangka dasar,dasar,
+54284.1,x,,ke- + <rangka dasar>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54285,k,0,kerangka luar,dasar,
+54285.1,x,,ke- + <rangka luar>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54286,d,0,kerangka teoretis,dasar,
+54286.1,x,,ke- + <rangka teoretis>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54286.2,x,,<kerangka teoreti> + [-is:-s],bentukan,[177] [S] -is + (i)
+54286.3,x,,<kerangka teoret> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+54287,k,0,kerangka teori,dasar,
+54287.1,x,,ke- + <rangka teori>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54287.2,x,,<kerangka teor> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+54288,k,0,kerangka teori tindakan,dasar,
+54288.1,x,,ke- + <rangka teori tindak> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54288.2,x,,ke- + <rangka teori tinda> + -kan,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54288.3,x,,ke- + <rangka teori tindakan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54288.4,x,,<kerangka teori tinda> + -kan,bentukan,[29] [S] -kan + (<all>)
+54288.5,x,,<kerangka teori tindak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54289,k,0,kerangkai,dasar,
+54289.1,x,,ke- + <rangkai>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54289.2,x,,<kerangka> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+54290,k,0,kerangkang,dasar,
+54290.1,x,,ke- + <rangkang>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54291,v,11,kerangkanya,dasar,
+54291.1,x,,ke- + <rangka> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54291.2,x,,ke- + <rangkanya>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54291.3,v,,<kerangka> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+54291.4,x,,ke- + <rangka> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+,,,,,
+54292,k,16,kerangkeng,dasar,
+54292.1,x,,ke- + <rangkeng>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54293,v,2,kerangkengnya,dasar,
+54293.1,x,,ke- + <rangkeng> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54293.2,x,,ke- + <rangkengnya>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54293.3,v,,<kerangkeng> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+54293.4,x,,ke- + <rangkeng> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+,,,,,
+54294,k,6,kerani,dasar,
+54294.1,x,,ke- + <rani>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54294.2,x,,<keran> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+54295,k,0,kerani kapal,dasar,
+54295.1,x,,ke- + <rani kapal>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54296,k,153,keranjang,dasar,
+54296.1,x,,ke- + <ranjang>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54297,k,0,keranjang ayam,dasar,
+54297.1,x,,ke- + <ranjang ayam>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54298,k,0,keranjang bambu,dasar,
+54298.1,x,,ke- + <ranjang bambu>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54299,k,0,keranjang bayi,dasar,
+54299.1,x,,ke- + <ranjang bayi>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54299.2,x,,<keranjang bay> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+54300,k,0,keranjang pandan,dasar,
+54300.1,x,,ke- + <ranjang pand> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54300.2,x,,ke- + <ranjang pandan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54300.3,x,,<keranjang pand> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54301,k,0,keranjang plastik,dasar,
+54301.1,x,,ke- + <ranjang plastik>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54302,k,0,keranjang rotan,dasar,
+54302.1,x,,ke- + <ranjang rot> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54302.2,x,,ke- + <ranjang rotan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54302.3,x,,<keranjang rot> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54303,k,0,keranjang sampah,dasar,
+54303.1,x,,ke- + <ranjang sampah>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54304,v,5,keranjangnya,dasar,
+54304.1,x,,ke- + <ranjang> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54304.2,x,,ke- + <ranjangnya>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54304.3,v,,<keranjang> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+54304.4,x,,ke- + <ranjang> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+,,,,,
+54305,k,0,keranjat,dasar,
+54305.1,x,,ke- + <ranjat>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54306,k,0,keranji,dasar,
+54306.1,x,,ke- + <ranji>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54306.2,x,,<keranj> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+54307,k,30,keranjingan,dasar,
+54307.1,v,,ke- + <ranjing> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54307.2,x,,ke- + <ranjingan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54307.3,x,,<keranjing> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54308,k,0,keranta,dasar,
+54308.1,x,,ke- + <ranta>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54309,v,2,kerantang,dasar,
+54309.1,x,,ke- + <rantang>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54310,k,0,kerantong,dasar,
+54310.1,x,,ke- + <rantong>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54311,v,2,keranya,dasar,
+54311.1,x,,ke- + <ra> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54311.2,x,,ke- + <ranya>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54311.3,v,,<kera> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+54311.4,x,,ke- + <ra> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+,,,,,
+54312,k,2119,kerap,dasar,
+54312.1,x,,ke- + <rap>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54313,k,0,kerap kali,dasar,
+54313.1,x,,ke- + <rap kali>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54313.2,x,,<kerap kal> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+54314,k,0,kerap pati,dasar,
+54314.1,x,,ke- + <rap pati>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54314.2,x,,<kerap pat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+54315,k,0,kerap-kerap,dasar,
+54315.1,v,,<kerap> [-] <r>,bentukan,[23] [RD] |
+54315.2,x,,ke- + <rap> [-] ke- + <r>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [23] [RD] |
+,,,,,
+54316,k,96,kerapatan,dasar,
+54316.1,v,,ke- + <rapat> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54316.2,x,,ke- + <rapatan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54316.3,x,,<kerapat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54317,v,2,kerapatannya,dasar,
+54317.1,x,,ke- + <rapatan> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54317.2,x,,ke- + <rapatannya>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54317.3,v,,<kerapatan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+54317.4,v,,ke- + <rapat> + -an + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+54317.5,x,,ke- + <rapatan> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+54317.6,x,,<kerapat> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+54318,k,41,kerapian,dasar,
+54318.1,v,,ke- + <rapi> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54318.2,x,,ke- + <rapian>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54318.3,x,,<kerapi> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54319,v,4,kerapiannya,dasar,
+54319.1,x,,ke- + <rapian> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54319.2,x,,ke- + <rapiannya>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54319.3,v,,<kerapian> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+54319.4,v,,ke- + <rapi> + -an + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+54319.5,x,,ke- + <rapian> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+54319.6,x,,<kerapi> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+54320,t,20,kerapihan,dasar,kerapian
+54320.1,v,,ke- + <rapih> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54320.2,x,,ke- + <rapihan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54320.3,x,,<kerapih> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54321,v,8,kerapnya,dasar,
+54321.1,x,,ke- + <rap> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54321.2,x,,ke- + <rapnya>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54321.3,v,,<kerap> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+54321.4,x,,ke- + <rap> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+,,,,,
+54322,k,34,kerapu,dasar,
+54322.1,x,,ke- + <rapu>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54323,k,0,kerapu epinefelid,dasar,
+54323.1,x,,ke- + <rapu epinefelid>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54324,k,0,kerapu jenang,dasar,
+54324.1,x,,ke- + <rapu jenang>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54325,k,0,kerapu lumpur,dasar,
+54325.1,x,,ke- + <rapu lumpur>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54326,k,0,kerapu macan,dasar,
+54326.1,x,,ke- + <rapu mac> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54326.2,x,,ke- + <rapu macan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54326.3,x,,<kerapu mac> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54327,k,0,kerapu sunu,dasar,
+54327.1,x,,ke- + <rapu sunu>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54328,k,0,kerapu tikus,dasar,
+54328.1,x,,ke- + <rapu tikus>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54329,k,34,kerapuhan,dasar,
+54329.1,v,,ke- + <rapuh> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54329.2,x,,ke- + <rapuhan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54329.3,x,,<kerapuh> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54330,v,2,kerapuhannya,dasar,
+54330.1,x,,ke- + <rapuhan> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54330.2,x,,ke- + <rapuhannya>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54330.3,v,,<kerapuhan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+54330.4,v,,ke- + <rapuh> + -an + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+54330.5,x,,ke- + <rapuhan> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+54330.6,x,,<kerapuh> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+54331,k,0,keraras,dasar,
+54331.1,x,,ke- + <raras>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54332,v,2,kerarifan,dasar,
+54332.1,x,,ke- + <rarif> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54332.2,x,,ke- + <rarifan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54332.3,x,,<kerarif> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54333,k,3488,keras,dasar,
+54333.1,x,,ke- + <ras>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54334,k,0,keras hati,dasar,
+54334.1,x,,ke- + <ras hati>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54334.2,x,,<keras hat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+54335,k,0,keras kepala,dasar,
+54335.1,x,,ke- + <ras kepala>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54336,d,0,keras kepalanya,dasar,
+54336.1,x,,ke- + <ras kepala> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54336.2,x,,ke- + <ras kepalanya>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54336.3,v,,<keras kepala> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+54336.4,x,,ke- + <ras kepala> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+,,,,,
+54337,k,0,keras kerak,dasar,
+54337.1,x,,ke- + <ras kerak>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54338,k,0,keras lidah,dasar,
+54338.1,x,,ke- + <ras lidah>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54339,k,0,keras mangkas,dasar,
+54339.1,x,,ke- + <ras mangkas>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54340,k,0,keras mulut,dasar,
+54340.1,x,,ke- + <ras mulut>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54341,k,0,keras tulang,dasar,
+54341.1,x,,ke- + <ras tulang>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54342,v,106,keras-keras,dasar,
+54342.1,v,,<keras> [-] <r>,bentukan,[23] [RD] |
+54342.2,x,,ke- + <ras> [-] ke- + <r>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [23] [RD] |
+,,,,,
+54343,v,2,keras-kerasnya,dasar,
+54343.1,v,,<keras> [-] <r> + -nya,bentukan,[23] [RD] |
+54343.2,x,,ke- + <ras> [-] ke- + <r> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [23] [RD] |
+54343.3,v,,<keras> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+54343.4,x,,ke- + <ras> [-] ke- + <r> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+54344,k,0,keras-mengerasi,dasar,
+54344.1,v,,<keras> [-] [meng-:me-] + <r> + -i,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [24] [RD] |meng-
+,,,,,
+54345,v,21,kerasa,dasar,
+54345.1,v,,ke- + <rasa>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54346,k,0,kerasak,dasar,
+54346.1,x,,ke- + <rasak>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54347,k,34,kerasan,dasar,
+54347.1,x,,ke- + <ras> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54347.2,x,,ke- + <rasan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54347.3,x,,<keras> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54348,k,6,kerasionalan,dasar,
+54348.1,v,,ke- + <rasional> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54348.2,x,,ke- + <rasionalan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54348.3,x,,<kerasional> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54349,v,3,kerasionalannya,dasar,
+54349.1,x,,ke- + <rasionalan> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54349.2,x,,ke- + <rasionalannya>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54349.3,v,,<kerasionalan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+54349.4,v,,ke- + <rasional> + -an + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+54349.5,x,,ke- + <rasionalan> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+54349.6,x,,<kerasional> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+54350,v,3,keraskan,dasar,
+54350.1,x,,ke- + <rask> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54350.2,x,,ke- + <ras> + -kan,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54350.3,x,,ke- + <raskan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54350.4,v,,<keras> + -kan,bentukan,[29] [S] -kan + (<all>)
+54350.5,x,,<kerask> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54351,v,200,kerasnya,dasar,
+54351.1,x,,ke- + <ras> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54351.2,x,,ke- + <rasnya>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54351.3,v,,<keras> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+54351.4,x,,ke- + <ras> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+,,,,,
+54352,k,48,kerasukan,dasar,
+54352.1,v,,ke- + <rasuk> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54352.2,x,,ke- + <rasu> + -kan,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54352.3,x,,ke- + <rasukan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54352.4,x,,<kerasu> + -kan,bentukan,[29] [S] -kan + (<all>)
+54352.5,x,,<kerasuk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54353,k,11,kerasulan,dasar,
+54353.1,v,,ke- + <rasul> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54353.2,x,,ke- + <rasulan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54353.3,x,,<kerasul> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54354,v,7,kerasulannya,dasar,
+54354.1,x,,ke- + <rasulan> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54354.2,x,,ke- + <rasulannya>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54354.3,v,,<kerasulan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+54354.4,v,,ke- + <rasul> + -an + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+54354.5,x,,ke- + <rasulan> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+54354.6,x,,<kerasul> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+54355,k,10,kerat,dasar,
+54355.1,x,,ke- + <rat>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54356,v,2,kerataan,dasar,
+54356.1,v,,ke- + <rata> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54356.2,x,,ke- + <rataan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54356.3,x,,<kerata> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54357,k,0,keratabasa,dasar,
+54357.1,x,,ke- + <ratabasa>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54358,k,4,keratan,dasar,
+54358.1,x,,ke- + <rat> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54358.2,x,,ke- + <ratan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54358.3,v,,<kerat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54359,k,0,keratau,dasar,
+54359.1,x,,ke- + <ratau>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54360,k,9,keratin,dasar,
+54360.1,x,,ke- + <ratin>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54361,k,0,keratin sulfat,dasar,
+54361.1,x,,ke- + <ratin sulfat>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54362,k,0,keratin telur,dasar,
+54362.1,x,,ke- + <ratin telur>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54363,k,0,keratinase,dasar,
+54363.1,x,,ke- + <ratinase>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54363.2,x,,<keratin> + -ase,bentukan,[210] [S] -ase + (<all>)
+,,,,,
+54364,k,2,keratinisasi,dasar,
+54364.1,x,,ke- + <ratinisasi>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54364.2,x,,<keratinisas> + -i,bentukan,[28] [S] -i + (<all>)
+54364.3,x,,<keratini> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+54364.4,x,,<keratinis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+54364.5,v,,<keratin> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+54365,k,0,keratitis,dasar,
+54365.1,x,,ke- + <ratitis>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54365.2,x,,<keratiti> + [-is:-s],bentukan,[177] [S] -is + (i)
+54365.3,x,,<keratit> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+54366,k,0,keratoelastin,dasar,
+54366.1,x,,ke- + <ratoelastin>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54367,k,0,keratolitik,dasar,
+54367.1,x,,ke- + <ratolitik>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54368,k,0,keratomalasia,dasar,
+54368.1,x,,ke- + <ratomalasia>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54369,k,0,keratometer,dasar,
+54369.1,x,,ke- + <ratometer>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54369.2,v,,<kerato> + -meter,bentukan,[189] [S] -meter + (<all>)
+,,,,,
+54370,k,172,keraton,dasar,
+54370.1,x,,ke- + <raton>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54371,k,0,keratopati,dasar,
+54371.1,x,,ke- + <ratopati>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54371.2,x,,<keratopat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+54372,k,0,keratoplasti,dasar,
+54372.1,x,,ke- + <ratoplasti>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54372.2,x,,<keratoplast> + -i,bentukan,[28] [S] -i + (<all>)
+54372.3,v,,<kerato> + -plasti,bentukan,[199] [S] -plasti + (<all>)
+,,,,,
+54373,k,0,keratosis,dasar,
+54373.1,x,,ke- + <ratosis>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54373.2,x,,<keratosi> + [-is:-s],bentukan,[177] [S] -is + (i)
+54373.3,x,,<keratos> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+54374,k,0,kerau,dasar,
+54374.1,x,,ke- + <rau>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54375,k,0,keraunofobia,dasar,
+54375.1,x,,ke- + <raunofobia>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54375.2,x,,<kerauno> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+54376,k,0,kerawai,dasar,
+54376.1,x,,ke- + <rawai>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54376.2,x,,<kerawa> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+54377,k,0,kerawak,dasar,
+54377.1,x,,ke- + <rawak>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54378,k,128,kerawanan,dasar,
+54378.1,v,,ke- + <rawan> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54378.2,x,,ke- + <rawanan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54378.3,x,,<kerawan> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54379,k,0,kerawanan gizi,dasar,
+54379.1,x,,ke- + <rawanan gizi>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54379.2,x,,<kerawanan giz> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+54380,k,10,kerawang,dasar,
+54380.1,x,,ke- + <rawang>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54381,k,0,kerawangan,dasar,
+54381.1,x,,ke- + <rawang> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54381.2,x,,ke- + <rawangan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54381.3,v,,<kerawang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54382,k,0,kerawat,dasar,
+54382.1,x,,ke- + <rawat>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54383,k,0,kerawit,dasar,
+54383.1,x,,ke- + <rawit>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54384,k,0,kerawitan,dasar,
+54384.1,v,,ke- + <rawit> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54384.2,x,,ke- + <rawitan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54384.3,x,,<kerawit> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54385,k,0,kerbang,dasar,
+,,,,,
+54386,k,0,kerbat,dasar,
+,,,,,
+54387,k,260,kerbau,dasar,
+,,,,,
+54388,k,0,kerbau air,dasar,
+,,,,,
+54389,k,0,kerbau balar,dasar,
+,,,,,
+54390,k,0,kerbau benuang,dasar,
+,,,,,
+54391,k,0,kerbau beras,dasar,
+,,,,,
+54392,k,0,kerbau jalang,dasar,
+,,,,,
+54393,k,0,kerbau melukut,dasar,
+,,,,,
+54394,k,0,kerbau pendek,dasar,
+,,,,,
+54395,k,0,kerbau perah,dasar,
+,,,,,
+54396,k,0,kerbau pudu,dasar,
+,,,,,
+54397,k,0,kerbau rawa,dasar,
+,,,,,
+54398,k,0,kerbau sambao,dasar,
+,,,,,
+54399,k,0,kerbau sungai,dasar,
+54399.1,x,,<kerbau sunga> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+54400,v,12,kerbaunya,dasar,
+54400.1,v,,<kerbau> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+54401,v,4,kerberhasilan,dasar,
+54401.1,x,,<kerberhasil> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54402,k,0,kerbin,dasar,
+,,,,,
+54403,v,2,kerbohidrat,dasar,
+,,,,,
+54404,k,0,kerbuk,dasar,
+,,,,,
+54405,k,0,kercap-kercip,dasar,
+54405.1,v,,<kercap-kercip>,bentukan,[Reduplication-Rhyming]
+,,,,,
+54406,k,0,kercap-kercup,dasar,
+54406.1,v,,<kercap-kercup>,bentukan,[Reduplication-Rhyming]
+,,,,,
+54407,k,0,kercing,dasar,
+,,,,,
+54408,k,0,kercit,dasar,
+,,,,,
+54409,k,0,kercut,dasar,
+,,,,,
+54410,k,0,kerdak,dasar,
+,,,,,
+54411,k,0,kerdam,dasar,
+,,,,,
+54412,k,73,kerdil,dasar,
+,,,,,
+54413,k,0,kerdip,dasar,
+,,,,,
+54414,t,4,kerdipan,dasar,
+54414.1,v,,<kerdip> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54415,k,0,kerdom,dasar,
+,,,,,
+54416,k,0,kerdum,dasar,
+,,,,,
+54417,k,0,kerdus,dasar,
+,,,,,
+54418,k,0,kerdut,dasar,
+,,,,,
+54419,k,23,kere,dasar,
+54419.1,x,,ke- + <re>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54420,v,3,kereaktifan,dasar,
+54420.1,v,,ke- + <reaktif> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54420.2,x,,ke- + <reaktifan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54420.3,x,,<kereaktif> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54421,v,2,kereaktifannya,dasar,
+54421.1,x,,ke- + <reaktifan> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54421.2,x,,ke- + <reaktifannya>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54421.3,v,,<kereaktifan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+54421.4,v,,ke- + <reaktif> + -an + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+54421.5,x,,ke- + <reaktifan> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+54421.6,x,,<kereaktif> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+54422,k,0,kerebok,dasar,
+54422.1,x,,ke- + <rebok>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54423,k,0,kereceng,dasar,
+54423.1,x,,ke- + <receng>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54424,k,0,kerecik,dasar,
+54424.1,x,,ke- + <recik>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54425,k,0,kerecokan,dasar,
+54425.1,v,,ke- + <recok> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54425.2,x,,ke- + <reco> + -kan,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54425.3,x,,ke- + <recokan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54425.4,x,,<kereco> + -kan,bentukan,[29] [S] -kan + (<all>)
+54425.5,x,,<kerecok> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54426,k,0,keredaan,dasar,
+54426.1,v,,ke- + <reda> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54426.2,x,,ke- + <redaan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54426.3,x,,<kereda> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54427,k,0,keredak,dasar,
+54427.1,x,,ke- + <redak>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54428,v,2,keredaksian,dasar,
+54428.1,v,,ke- + <redaksi> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54428.2,x,,ke- + <redaksian>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54428.3,x,,<keredaksi> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54429,k,0,keredep,dasar,
+54429.1,x,,ke- + <redep>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54430,k,0,keredok,dasar,
+54430.1,x,,ke- + <redok>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54431,k,0,keredong,dasar,
+54431.1,x,,ke- + <redong>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54432,k,0,keredupan,dasar,
+54432.1,v,,ke- + <redup> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54432.2,x,,ke- + <redupan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54432.3,x,,<keredup> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54433,v,3,keregangan,dasar,
+54433.1,v,,ke- + <regang> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54433.2,x,,ke- + <regangan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54433.3,x,,<keregang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54434,k,0,keregenan,dasar,
+54434.1,v,,ke- + <regen> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54434.2,x,,ke- + <regenan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54434.3,x,,<keregen> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54435,k,5,kerek,dasar,
+54435.1,x,,ke- + <rek>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54436,k,0,kerekah,dasar,
+54436.1,x,,ke- + <rekah>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54436.2,x,,<kere> + -kah,bentukan,[30] [FS] -kah + (<all>)
+54436.3,x,,ke- + <re> + -kah,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [30] [FS] -kah + (<all>)
+,,,,,
+54437,k,3,kerekan,dasar,
+54437.1,x,,ke- + <rek> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54437.2,x,,ke- + <re> + -kan,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54437.3,x,,ke- + <rekan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54437.4,x,,<kere> + -kan,bentukan,[29] [S] -kan + (<all>)
+54437.5,v,,<kerek> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54438,k,5,kerekatan,dasar,
+54438.1,v,,ke- + <rekat> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54438.2,x,,ke- + <rekatan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54438.3,x,,<kerekat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54439,k,0,kereket,dasar,
+54439.1,x,,ke- + <reket>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54440,k,0,kerekot,dasar,
+54440.1,x,,ke- + <rekot>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54441,k,0,kerekut,dasar,
+54441.1,x,,ke- + <rekut>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54442,k,71,kerelaan,dasar,
+54442.1,v,,ke- + <rela> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54442.2,x,,ke- + <relaan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54442.3,x,,<kerela> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54443,v,4,kerelaannya,dasar,
+54443.1,x,,ke- + <relaan> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54443.2,x,,ke- + <relaannya>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54443.3,x,,<kerelaan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+54443.4,v,,ke- + <rela> + -an + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+54443.5,x,,ke- + <relaan> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+54443.6,x,,<kerela> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+54444,v,7,kerelawanan,dasar,
+54444.1,v,,ke- + <relawan> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54444.2,x,,ke- + <relawanan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54444.3,x,,<kerelawan> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54445,v,2,kereligiusan,dasar,
+54445.1,v,,ke- + <religius> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54445.2,x,,ke- + <religiusan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54445.3,x,,<kereligius> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54446,k,0,keremahan,dasar,
+54446.1,v,,ke- + <remah> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54446.2,x,,ke- + <remahan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54446.3,x,,<keremah> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54447,k,5,keremajaan,dasar,
+54447.1,v,,ke- + <remaja> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54447.2,x,,ke- + <remajaan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54447.3,x,,<keremaja> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54448,k,31,keremangan,dasar,
+54448.1,v,,ke- + <remang> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54448.2,x,,ke- + <remangan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54448.3,x,,<keremang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54449,k,0,keremehan,dasar,
+54449.1,v,,ke- + <remeh> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54449.2,x,,ke- + <remehan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54449.3,x,,<keremeh> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54450,c,2,keremi,dasar,kerawit
+54450.1,x,,ke- + <remi>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54450.2,x,,<kerem> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+54451,k,0,keremian,dasar,
+54451.1,v,,ke- + <remi> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54451.2,x,,ke- + <remian>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54451.3,v,,<keremi> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54452,k,0,keremot,dasar,
+54452.1,x,,ke- + <remot>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54453,k,0,kerempagi,dasar,
+54453.1,x,,ke- + <rempagi>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54453.2,x,,<kerempag> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+54454,k,25,kerempeng,dasar,
+54454.1,x,,ke- + <rempeng>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54455,k,0,kerempung,dasar,
+54455.1,x,,ke- + <rempung>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54456,k,0,keremunting,dasar,
+54456.1,x,,ke- + <remunting>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54457,k,0,keremus,dasar,
+54457.1,x,,ke- + <remus>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54458,k,0,keremut,dasar,
+54458.1,x,,ke- + <remut>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54459,v,395,keren,dasar,
+54459.1,x,,ke- + <ren>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54460,k,2,keren-kerenan,dasar,
+54460.1,v,,<keren> [-] <r> + -an,bentukan,[23] [RD] |
+54460.2,x,,ke- + <ren> [-] ke- + <r> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [23] [RD] |
+,,,,,
+54461,k,0,kerenah,dasar,
+54461.1,x,,ke- + <renah>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54462,k,0,kerencang,dasar,
+54462.1,x,,ke- + <rencang>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54463,k,0,kerencing,dasar,
+54463.1,x,,ke- + <rencing>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54464,k,0,kerencung,dasar,
+54464.1,x,,ke- + <rencung>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54465,k,81,kerendahan,dasar,
+54465.1,v,,ke- + <rendah> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54465.2,x,,ke- + <rendahan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54465.3,x,,<kerendah> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54466,k,0,kerendahhatian,dasar,
+54466.1,v,,ke- + <rendahhati> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54466.2,x,,ke- + <rendahhatian>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54466.3,x,,<kerendahhati> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54467,k,0,kerendang,dasar,
+54467.1,x,,ke- + <rendang>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54468,k,0,kereneng,dasar,
+54468.1,x,,ke- + <reneng>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54469,k,0,kereng,dasar,
+54469.1,x,,ke- + <reng>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54470,k,0,kerengga,dasar,
+54470.1,x,,ke- + <rengga>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54471,k,0,kerenggamunggu,dasar,
+54471.1,x,,ke- + <renggamunggu>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54472,k,13,kerenggangan,dasar,
+54472.1,v,,ke- + <renggang> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54472.2,x,,ke- + <renggangan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54472.3,x,,<kerenggang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54473,k,0,kerengkam,dasar,
+54473.1,x,,ke- + <rengkam>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54474,k,0,kerengkiang,dasar,
+54474.1,x,,ke- + <rengkiang>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54475,k,0,kerentam,dasar,
+54475.1,x,,ke- + <rentam>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54476,k,207,kerentanan,dasar,
+54476.1,v,,ke- + <rentan> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54476.2,x,,ke- + <rentanan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54476.3,x,,<kerentan> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54477,v,2,kerentanannya,dasar,
+54477.1,x,,ke- + <rentanan> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54477.2,x,,ke- + <rentanannya>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54477.3,v,,<kerentanan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+54477.4,v,,ke- + <rentan> + -an + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+54477.5,x,,ke- + <rentanan> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+54477.6,x,,<kerentan> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+54478,k,0,kerentang,dasar,
+54478.1,x,,ke- + <rentang>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54479,k,0,kerenting,dasar,
+54479.1,x,,ke- + <renting>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54480,k,5,kerenyahan,dasar,
+54480.1,v,,ke- + <renyah> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54480.2,x,,ke- + <renyahan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54480.3,x,,<kerenyah> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54481,k,0,kerenyau,dasar,
+54481.1,x,,ke- + <renyau>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54482,k,0,kerenyit,dasar,
+54482.1,x,,ke- + <renyit>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54483,k,0,kerenyot,dasar,
+54483.1,x,,ke- + <renyot>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54484,k,0,kerenyut,dasar,
+54484.1,x,,ke- + <renyut>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54485,k,3,kerep,dasar,
+54485.1,x,,ke- + <rep>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54486,k,0,kerepai,dasar,
+54486.1,x,,ke- + <repai>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54486.2,x,,<kerepa> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+54487,k,0,kerepak,dasar,
+54487.1,x,,ke- + <repak>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54488,k,0,kerepas,dasar,
+54488.1,x,,ke- + <repas>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54489,k,0,kerepek,dasar,
+54489.1,x,,ke- + <repek>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54490,k,0,kerepes,dasar,
+54490.1,x,,ke- + <repes>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54491,k,0,kerepot,dasar,
+54491.1,x,,ke- + <repot>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54492,k,88,kerepotan,dasar,
+54492.1,v,,ke- + <repot> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54492.2,x,,ke- + <repotan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54492.3,x,,<kerepot> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54493,k,0,kerepu,dasar,
+54493.1,x,,ke- + <repu>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54494,k,0,kerepyak,dasar,
+54494.1,x,,ke- + <repyak>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54495,v,2,kererampilan,dasar,
+54495.1,x,,ke- + <rerampil> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54495.2,x,,ke- + <rerampilan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54495.3,x,,<kererampil> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54496,k,152,keresahan,dasar,
+54496.1,v,,ke- + <resah> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54496.2,x,,ke- + <resahan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54496.3,x,,<keresah> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54497,v,2,keresahanku,dasar,
+54497.1,x,,ke- + <resahanku>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54497.2,v,,<keresahan> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+54497.3,v,,ke- + <resah> + -an + -ku,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [32] [SFS] -ku + (<all>)
+54497.4,x,,ke- + <resahan> + -ku,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [32] [SFS] -ku + (<all>)
+54497.5,x,,<keresah> + -an + -ku,bentukan,[38] [S] -an + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+54498,v,7,keresahannya,dasar,
+54498.1,x,,ke- + <resahan> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54498.2,x,,ke- + <resahannya>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54498.3,v,,<keresahan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+54498.4,v,,ke- + <resah> + -an + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+54498.5,x,,ke- + <resahan> + -nya,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya) => [34] [SFS] -nya + (<all>)
+54498.6,x,,<keresah> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+54499,k,0,kerese pese,dasar,
+54499.1,x,,ke- + <rese pese>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54500,c,13,keresek,dasar,kerisik
+54500.1,x,,ke- + <resek>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54501,k,0,kereseng,dasar,
+54501.1,x,,ke- + <reseng>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54502,k,0,keresesifan,dasar,
+54502.1,v,,ke- + <resesif> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54502.2,x,,ke- + <resesifan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54502.3,x,,<keresesif> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54503,k,21,keresidenan,dasar,
+54503.1,v,,ke- + <residen> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54503.2,x,,ke- + <residenan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54503.3,x,,<keresiden> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54504,k,0,keresikan,dasar,
+54504.1,v,,ke- + <resik> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54504.2,x,,ke- + <resi> + -kan,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54504.3,x,,ke- + <resikan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54504.4,x,,<keresi> + -kan,bentukan,[29] [S] -kan + (<all>)
+54504.5,x,,<keresik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54505,k,0,keresmian,dasar,
+54505.1,v,,ke- + <resmi> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54505.2,x,,ke- + <resmian>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54505.3,x,,<keresmi> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54506,k,0,keresot,dasar,
+54506.1,x,,ke- + <resot>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54507,v,4,keresponsifan,dasar,
+54507.1,v,,ke- + <responsif> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54507.2,x,,ke- + <responsifan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54507.3,x,,<keresponsif> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54508,k,0,keret,dasar,
+54508.1,x,,ke- + <ret>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54509,k,1055,kereta,dasar,
+54509.1,x,,ke- + <reta>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54510,k,0,kereta angin,dasar,
+54510.1,x,,ke- + <reta angin>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54511,k,0,kereta api,dasar,
+54511.1,x,,ke- + <reta api>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54511.2,x,,<kereta ap> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+54512,k,0,kereta api bawah tanah,dasar,
+54512.1,x,,ke- + <reta api bawah tanah>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54513,k,0,kereta api bumel,dasar,
+54513.1,x,,ke- + <reta api bumel>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54514,k,0,kereta api diesel,dasar,
+54514.1,x,,ke- + <reta api diesel>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54515,k,0,kereta api ekspres,dasar,
+54515.1,x,,ke- + <reta api ekspres>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54516,k,0,kereta api listrik,dasar,
+54516.1,x,,ke- + <reta api listrik>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54517,k,0,kereta api magnet,dasar,
+54517.1,x,,ke- + <reta api magnet>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54518,k,0,kereta api uap,dasar,
+54518.1,x,,ke- + <reta api uap>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54519,k,0,kereta baja,dasar,
+54519.1,x,,ke- + <reta baja>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54520,k,0,kereta balik,dasar,
+54520.1,x,,ke- + <reta balik>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54521,k,0,kereta barang,dasar,
+54521.1,x,,ke- + <reta barang>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54522,k,0,kereta bogi,dasar,
+54522.1,x,,ke- + <reta bogi>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54522.2,x,,<kereta bog> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+54523,k,0,kereta cepat,dasar,
+54523.1,x,,ke- + <reta cepat>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54524,k,0,kereta dorong,dasar,
+54524.1,x,,ke- + <reta dorong>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54525,k,0,kereta gandeng,dasar,
+54525.1,x,,ke- + <reta gandeng>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54526,k,0,kereta gantung,dasar,
+54526.1,x,,ke- + <reta gantung>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54527,k,0,kereta jenazah,dasar,
+54527.1,x,,ke- + <reta jenazah>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54528,k,0,kereta kamera,dasar,
+54528.1,x,,ke- + <reta kamera>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54529,k,0,kereta klutuk,dasar,
+54529.1,x,,ke- + <reta klutuk>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54530,k,0,kereta kuda,dasar,
+54530.1,x,,ke- + <reta kuda>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54531,k,0,kereta landasan,dasar,
+54531.1,x,,ke- + <reta landas> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54531.2,x,,ke- + <reta landasan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54531.3,x,,<kereta landas> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54532,k,0,kereta lereng,dasar,
+54532.1,x,,ke- + <reta lereng>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54533,k,0,kereta makan,dasar,
+54533.1,x,,ke- + <reta mak> + -an,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54533.2,x,,ke- + <reta ma> + -kan,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54533.3,x,,ke- + <reta makan>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54533.4,x,,<kereta ma> + -kan,bentukan,[29] [S] -kan + (<all>)
+54533.5,x,,<kereta mak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+54534,k,0,kereta mati,dasar,
+54534.1,x,,ke- + <reta mati>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+54534.2,x,,<kereta mat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+54535,k,0,kereta mayat,dasar,
+54535.1,x,,ke- + <reta mayat>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54536,k,0,kereta monorel,dasar,
+54536.1,x,,ke- + <reta monorel>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)
+,,,,,
+54537,k,0,kereta pelangkin,dasar,
+54537.1,x,,ke- + <reta pelangkin>,bentukan,[79] ke- + (<all>) + (-an;-kan;-nya)

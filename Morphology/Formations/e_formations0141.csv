@@ -1,0 +1,1662 @@
+Nomor,KP,Jumlah,Entri,Tipe,Pembentukan
+67114,k,0,manjareal,dasar,
+,,,,,
+67115,k,3,manjau,dasar,
+,,,,,
+67116,k,0,manjeri,dasar,
+67116.1,x,,<manjer> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67117,k,7,manjing,dasar,
+,,,,,
+67118,k,0,manjujai,dasar,
+67118.1,x,,<manjuja> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67119,k,0,manjung,dasar,
+,,,,,
+67120,k,0,manjungan,dasar,
+67120.1,v,,<manjung> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67121,k,77,manjur,dasar,
+,,,,,
+67122,k,9,manna,dasar,
+,,,,,
+67123,k,8,mano,dasar,
+,,,,,
+67124,k,0,manokwari,dasar,
+67124.1,x,,<manokwar> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67125,k,0,manol,dasar,
+,,,,,
+67126,k,12,manometer,dasar,
+67126.1,x,,<mano> + -meter,bentukan,[189] [S] -meter + (<all>)
+,,,,,
+67127,k,0,manometer air,dasar,
+,,,,,
+67128,k,0,manometer merkuri,dasar,
+67128.1,x,,<manometer merkur> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67129,k,0,manometri,dasar,
+67129.1,x,,<manometr> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67130,k,0,manora,dasar,
+,,,,,
+67131,k,0,manortor,dasar,
+,,,,,
+67132,k,0,manoskopi,dasar,
+67132.1,x,,<manoskop> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67133,k,0,manostat,dasar,
+,,,,,
+67134,k,11,manset,dasar,
+,,,,,
+67135,k,0,manset kancing,dasar,
+,,,,,
+67136,k,0,manset lengan,dasar,
+67136.1,x,,<manset leng> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67137,k,0,manset prancis,dasar,
+67137.1,x,,<manset pranci> + [-is:-s],bentukan,[177] [S] -is + (i)
+67137.2,x,,<manset pranc> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+67138,k,0,manset rajut,dasar,
+,,,,,
+67139,k,0,manset siku,dasar,
+67139.1,x,,<manset si> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+67139.2,x,,<manset s> + -i + -ku,bentukan,[28] [S] -i + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+67140,k,0,manset tangan,dasar,
+67140.1,x,,<manset tang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67141,k,0,mansi-mansi,dasar,
+67141.1,v,,<mansi> [-] <r>,bentukan,[23] [RD] |
+67141.2,x,,<mans> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+67142,k,0,mansiang,dasar,
+,,,,,
+67143,k,0,mansiang agam,dasar,
+,,,,,
+67144,k,0,mansiang mancik,dasar,
+,,,,,
+67145,k,0,mansim,dasar,
+,,,,,
+67146,v,18,mansion,dasar,
+,,,,,
+67147,k,4,mansukh,dasar,
+,,,,,
+67148,k,11,manta,dasar,
+,,,,,
+67149,c,13,mantab,dasar,mantap
+,,,,,
+67150,k,2387,mantan,dasar,
+67150.1,x,,<mant> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67151,v,6,mantan-mantan,dasar,
+67151.1,v,,<mantan> [-] <r>,bentukan,[23] [RD] |
+67151.2,x,,<mant> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+67152,v,2,mantan-mantannya,dasar,
+67152.1,x,,<mantan> [-] <r> + -nya,bentukan,[23] [RD] |
+67152.2,x,,<mant> + -an [-] <r> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+67152.3,v,,<mantan> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+67152.4,x,,<mant> + -an [-] <r> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+67153,k,0,mantangan,dasar,
+67153.1,x,,<mantang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67154,v,5,mantanku,dasar,
+67154.1,v,,<mantan> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+67154.2,x,,<mant> + -an + -ku,bentukan,[38] [S] -an + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+67155,v,3,mantanmu,dasar,
+67155.1,v,,<mantan> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+67155.2,x,,<mant> + -an + -mu,bentukan,[38] [S] -an + (<all>) => [33] [SFS] -mu + (<all>)
+,,,,,
+67156,v,8,mantannya,dasar,
+67156.1,v,,<mantan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+67156.2,x,,<mant> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+67157,k,370,mantap,dasar,
+,,,,,
+67158,v,9,mantapkan,dasar,
+67158.1,v,,<mantap> + -kan,bentukan,[29] [S] -kan + (<all>)
+67158.2,x,,<mantapk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67159,v,7,mantaplah,dasar,
+67159.1,v,,<mantap> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+67160,v,4,mantapnya,dasar,
+67160.1,v,,<mantap> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+67161,c,2,mantari,dasar,mentari
+67161.1,x,,<mantar> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67162,k,4,mantau,dasar,
+,,,,,
+67163,k,0,mantawai,dasar,
+67163.1,x,,<mantawa> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67164,k,60,mantel,dasar,
+,,,,,
+67165,k,0,mantel ambilan,dasar,
+67165.1,x,,<mantel ambil> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67166,k,0,mantel kardigan,dasar,
+67166.1,x,,<mantel kardig> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67167,k,0,mantel kasmir,dasar,
+,,,,,
+67168,k,0,mantel kasual,dasar,
+,,,,,
+67169,k,0,mantel kemah,dasar,
+,,,,,
+67170,k,0,mantel kendara,dasar,
+,,,,,
+67171,k,0,mantel klasik,dasar,
+,,,,,
+67172,k,0,mantel kotak,dasar,
+,,,,,
+67173,k,0,mantel pantai,dasar,
+67173.1,x,,<mantel panta> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67174,k,0,mantel pelaut,dasar,
+,,,,,
+67175,k,0,mantel tudung,dasar,
+,,,,,
+67176,k,7,manten,dasar,
+,,,,,
+67177,c,22,mantera,dasar,mantra
+,,,,,
+67178,k,0,manti,dasar,
+67178.1,x,,<mant> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67179,k,4,mantik,dasar,
+,,,,,
+67180,k,0,mantiki,dasar,
+67180.1,x,,<mantik> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67181,k,0,mantila,dasar,
+,,,,,
+67182,k,0,mantion,dasar,
+,,,,,
+67183,k,0,mantisa,dasar,
+,,,,,
+67184,k,0,manto keponakan,dasar,
+67184.1,x,,<manto kepona> + -kan,bentukan,[29] [S] -kan + (<all>)
+67184.2,x,,<manto keponak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67185,k,0,mantol,dasar,
+,,,,,
+67186,k,186,mantra,dasar,
+,,,,,
+67187,k,0,mantra gajah,dasar,
+,,,,,
+67188,k,0,mantra kejahatan,dasar,
+67188.1,x,,<mantra kejahat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67189,k,0,mantra keselamatan,dasar,
+67189.1,x,,<mantra keselamat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67190,k,0,mantra penawar,dasar,
+,,,,,
+67191,k,0,mantra pitanggang,dasar,
+,,,,,
+67192,v,23,mantra-mantra,dasar,
+67192.1,v,,<mantra> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+67193,v,3,mantraku,dasar,
+67193.1,v,,<mantra> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+67194,c,2,mantram,dasar,mantra
+,,,,,
+67195,v,4,mantranya,dasar,
+67195.1,v,,<mantra> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+67196,k,49,mantri,dasar,
+67196.1,x,,<mantr> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67197,k,0,mantri cacar,dasar,
+,,,,,
+67198,k,0,mantri garam,dasar,
+,,,,,
+67199,k,0,mantri hewan,dasar,
+67199.1,x,,<mantri hew> + -an,bentukan,[38] [S] -an + (<all>)
+67199.2,x,,<mantri he> + -wan,bentukan,[180] [S] -wan + (<others>)
+,,,,,
+67200,k,0,mantri kesehatan,dasar,
+67200.1,x,,<mantri kesehat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67201,k,0,mantri pasar,dasar,
+,,,,,
+67202,k,0,mantri polisi,dasar,
+67202.1,x,,<mantri polis> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67203,k,0,mantri ukur,dasar,
+,,,,,
+67204,k,27,mantu,dasar,
+,,,,,
+67205,k,0,mantuk,dasar,
+,,,,,
+67206,v,3,mantul,dasar,
+,,,,,
+67207,v,6,mantunya,dasar,
+67207.1,v,,<mantu> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+67208,k,749,manual,dasar,
+,,,,,
+67209,k,0,manual pengguna,dasar,
+,,,,,
+67210,v,11,manualnya,dasar,
+67210.1,v,,<manual> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+67211,k,517,manufaktur,dasar,
+,,,,,
+67212,k,4,manufakturing,dasar,
+,,,,,
+67213,v,8,manufakturnya,dasar,
+67213.1,v,,<manufaktur> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+67214,k,21,manuk,dasar,
+,,,,,
+67215,k,0,manuk one,dasar,
+,,,,,
+67216,v,29,manula,dasar,
+,,,,,
+67217,k,0,manumisio,dasar,
+,,,,,
+67218,k,0,manumpak,dasar,
+,,,,,
+67219,k,38,manunggal,dasar,
+,,,,,
+67220,v,2,manunggalnya,dasar,
+67220.1,v,,<manunggal> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+67221,k,28,manurung,dasar,
+,,,,,
+67222,k,6291,manusia,dasar,
+,,,,,
+67223,k,0,manusia hijau,dasar,
+,,,,,
+67224,d,0,manusia modern,dasar,
+,,,,,
+67225,k,0,manusia perahu,dasar,
+,,,,,
+67226,k,0,manusia purba,dasar,
+,,,,,
+67227,k,0,manusia siap pakai,dasar,
+67227.1,x,,<manusia siap paka> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67228,k,0,manusia super,dasar,
+,,,,,
+67229,k,0,manusia tiga zaman,dasar,
+67229.1,x,,<manusia tiga zam> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67230,v,104,manusia-manusia,dasar,
+67230.1,v,,<manusia> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+67231,v,132,manusianya,dasar,
+67231.1,v,,<manusia> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+67232,k,289,manusiawi,dasar,
+67232.1,x,,<manusiaw> + -i,bentukan,[28] [S] -i + (<all>)
+67232.2,v,,<manusia> + -wi,bentukan,[174] [S] -wi + (<others>)
+,,,,,
+67233,v,4,manusiawinya,dasar,
+67233.1,v,,<manusiawi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+67233.2,x,,<manusiaw> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+67233.3,v,,<manusia> + -wi + -nya,bentukan,[174] [S] -wi + (<others>) => [34] [SFS] -nya + (<all>)
+,,,,,
+67234,k,34,manuskrip,dasar,
+,,,,,
+67235,v,4,manuskrip-manuskrip,dasar,
+67235.1,v,,<manuskrip> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+67236,k,30,manut,dasar,
+,,,,,
+67237,k,0,manutan,dasar,
+67237.1,v,,<manut> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67238,k,181,manuver,dasar,
+,,,,,
+67239,k,0,manuver alih,dasar,
+,,,,,
+67240,k,0,manuver lapangan,dasar,
+67240.1,x,,<manuver lapang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67241,k,0,manuver peta,dasar,
+,,,,,
+67242,k,0,manuver peta dua pihak,dasar,
+,,,,,
+67243,k,0,manuver peta satu pihak,dasar,
+,,,,,
+67244,k,0,manuver politik,dasar,
+,,,,,
+67245,k,0,manuver strategis,dasar,
+67245.1,x,,<manuver strategi> + [-is:-s],bentukan,[177] [S] -is + (i)
+67245.2,x,,<manuver strateg> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+67246,k,0,manuver taktis,dasar,
+67246.1,x,,<manuver takti> + [-is:-s],bentukan,[177] [S] -is + (i)
+67246.2,x,,<manuver takt> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+67247,v,10,manuver-manuver,dasar,
+67247.1,v,,<manuver> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+67248,v,2,manuver-manuvernya,dasar,
+67248.1,x,,<manuver> [-] <r> + -nya,bentukan,[23] [RD] |
+67248.2,v,,<manuver> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+67249,v,15,manuvernya,dasar,
+67249.1,v,,<manuver> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+67250,k,0,manuwa,dasar,
+,,,,,
+67251,k,0,manyala,dasar,
+,,,,,
+67252,k,2,manyang,dasar,
+,,,,,
+67253,k,15,manyar,dasar,
+,,,,,
+67254,k,6,manyun,dasar,
+,,,,,
+67255,k,0,manyung,dasar,
+,,,,,
+67256,k,0,manzil,dasar,
+,,,,,
+67257,k,0,manzilah,dasar,
+67257.1,x,,<manzi> + -lah,bentukan,[31] [FS] -lah + (<all>)
+67257.2,x,,<manz> + -i + -lah,bentukan,[28] [S] -i + (<all>) => [31] [FS] -lah + (<all>)
+,,,,,
+67258,k,0,maois,dasar,
+67258.1,x,,<maoi> + [-is:-s],bentukan,[177] [S] -is + (i)
+67258.2,x,,<mao> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+67259,k,0,maori,dasar,
+67259.1,x,,<maor> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67260,k,202,map,dasar,
+,,,,,
+67261,k,0,map dokumen,dasar,
+,,,,,
+67262,k,0,mapak,dasar,
+,,,,,
+67263,k,0,mapalus,dasar,
+,,,,,
+67264,k,303,mapan,dasar,
+67264.1,x,,<map> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67265,v,4,mapannya,dasar,
+67265.1,v,,<mapan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+67265.2,x,,<map> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+67266,v,21,mapel,dasar,
+,,,,,
+67267,v,2,mapenda,dasar,
+,,,,,
+67268,k,0,mapi,dasar,
+67268.1,x,,<map> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67269,v,39,mapolda,dasar,
+,,,,,
+67270,v,16,mapolres,dasar,
+,,,,,
+67271,v,4,mapolresta,dasar,
+,,,,,
+67272,v,3,mapolrestabes,dasar,
+,,,,,
+67273,v,9,mapolsek,dasar,
+,,,,,
+67274,k,0,mapor,dasar,
+,,,,,
+67275,k,0,mappi,dasar,
+67275.1,x,,<mapp> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67276,v,2,mapras,dasar,
+,,,,,
+67277,v,5,mapres,dasar,
+,,,,,
+67278,k,0,mapur,dasar,
+,,,,,
+67279,k,68,mar,dasar,
+,,,,,
+67280,k,54,mara,dasar,
+,,,,,
+67281,k,0,mara bahaya,dasar,
+,,,,,
+67282,k,3,maradika,dasar,
+,,,,,
+67283,k,1062,marah,dasar,
+,,,,,
+67284,k,163,marah-marah,dasar,
+67284.1,v,,<marah> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+67285,v,3,marah-marahnya,dasar,
+67285.1,x,,<marah> [-] <r> + -nya,bentukan,[23] [RD] |
+67285.2,v,,<marah> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+67286,k,9,marahan,dasar,
+67286.1,v,,<marah> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67287,v,16,marahi,dasar,
+67287.1,v,,<marah> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67288,v,5,marahkah,dasar,
+67288.1,v,,<marah> + -kah,bentukan,[30] [FS] -kah + (<all>)
+,,,,,
+67289,v,6,marahlah,dasar,
+67289.1,v,,<marah> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+67290,v,43,marahnya,dasar,
+67290.1,v,,<marah> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+67291,k,330,marak,dasar,
+,,,,,
+67292,k,4,marakas,dasar,
+,,,,,
+67293,v,337,maraknya,dasar,
+67293.1,v,,<marak> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+67294,k,0,marambung,dasar,
+,,,,,
+67295,k,0,maramus,dasar,
+,,,,,
+67296,k,0,maranta,dasar,
+,,,,,
+67297,d,0,maranya,dasar,
+67297.1,x,,<mara> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+67298,k,5,marapu,dasar,
+,,,,,
+67299,k,0,marapu humba,dasar,
+,,,,,
+67300,k,2,marapulai,dasar,
+67300.1,x,,<marapula> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67301,k,6,maras,dasar,
+,,,,,
+67302,k,0,marasai,dasar,
+67302.1,x,,<marasa> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67303,k,0,marasmik,dasar,
+,,,,,
+67304,k,0,marasmus,dasar,
+,,,,,
+67305,c,54,marathon,dasar,maraton
+,,,,,
+67306,k,85,maraton,dasar,
+,,,,,
+67307,k,3,marau,dasar,
+,,,,,
+67308,k,0,marawis,dasar,
+67308.1,x,,<marawi> + [-is:-s],bentukan,[177] [S] -is + (i)
+67308.2,x,,<maraw> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+67309,k,4,marbling,dasar,
+,,,,,
+67310,c,8,marbot,dasar,marbut
+,,,,,
+67311,k,6,marbut,dasar,
+,,,,,
+67312,k,3,marcapada,dasar,
+,,,,,
+67313,k,0,mardatillah,dasar,
+67313.1,x,,<mardatil> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+67314,k,4,mardud,dasar,
+,,,,,
+67315,k,9,mare,dasar,
+,,,,,
+67316,k,0,marem,dasar,
+,,,,,
+67317,k,0,marema,dasar,
+,,,,,
+67318,k,0,marembi,dasar,
+67318.1,x,,<maremb> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67319,k,0,marengge,dasar,
+,,,,,
+67320,k,3500,maret,dasar,
+,,,,,
+67321,k,0,marfuk,dasar,
+,,,,,
+67322,k,239,marga,dasar,
+,,,,,
+67323,k,0,marga ketip,dasar,
+,,,,,
+67324,k,0,marga khusus,dasar,
+,,,,,
+67325,k,0,marga monotipe,dasar,
+,,,,,
+67326,v,5,marga-marga,dasar,
+67326.1,v,,<marga> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+67327,k,0,margalit,dasar,
+,,,,,
+67328,k,0,margana,dasar,
+,,,,,
+67329,v,6,marganya,dasar,
+67329.1,v,,<marga> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+67330,k,26,margarin,dasar,
+,,,,,
+67331,k,0,margarin surogat,dasar,
+,,,,,
+67332,v,8,margarita,dasar,
+,,,,,
+67333,k,40,margasatwa,dasar,
+,,,,,
+67334,k,234,margin,dasar,
+,,,,,
+67335,k,0,margin kotor,dasar,
+,,,,,
+67336,k,0,margin penjualan,dasar,
+67336.1,x,,<margin penjual> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67337,k,0,margin penyelamat,dasar,
+,,,,,
+67338,k,100,marginal,dasar,
+,,,,,
+67339,k,36,marginalisasi,dasar,
+67339.1,x,,<marginalisas> + -i,bentukan,[28] [S] -i + (<all>)
+67339.2,x,,<marginali> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+67339.3,x,,<marginalis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+67339.4,v,,<marginal> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+67340,k,0,marginalisme,dasar,
+67340.1,v,,<marginal> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+67341,k,0,margrit,dasar,
+,,,,,
+67342,k,9,marhaban,dasar,
+67342.1,x,,<marhab> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67343,k,0,marhabanan,dasar,
+67343.1,v,,<marhaban> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67344,k,12,marhaen,dasar,
+,,,,,
+67345,k,4,marhaenis,dasar,
+67345.1,x,,<marhaeni> + [-is:-s],bentukan,[177] [S] -is + (i)
+67345.2,v,,<marhaen> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+67346,k,6,marhaenisme,dasar,
+67346.1,v,,<marhaen> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+67347,c,2,marhum,dasar,almarhum
+,,,,,
+67348,k,0,marhumah,dasar,
+,,,,,
+67349,k,916,mari,dasar,
+67349.1,x,,<mar> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67350,k,329,maria,dasar,
+,,,,,
+67351,k,0,marihuana,dasar,
+,,,,,
+67352,k,0,marikan,dasar,
+67352.1,v,,<mari> + -kan,bentukan,[29] [S] -kan + (<all>)
+67352.2,x,,<marik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67353,k,0,marikh,dasar,
+,,,,,
+67354,k,0,marikultur,dasar,
+67354.1,x,,<mari> + -kultur,bentukan,[204] [S] -kultur + (<all>)
+,,,,,
+67355,v,176,marilah,dasar,
+67355.1,v,,<mari> + -lah,bentukan,[31] [FS] -lah + (<all>)
+67355.2,x,,<mar> + -i + -lah,bentukan,[28] [S] -i + (<all>) => [31] [FS] -lah + (<all>)
+,,,,,
+67356,k,2,marimba,dasar,
+,,,,,
+67357,k,0,marimu,dasar,
+67357.1,x,,<mari> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+67357.2,x,,<mar> + -i + -mu,bentukan,[28] [S] -i + (<all>) => [33] [SFS] -mu + (<all>)
+,,,,,
+67358,k,64,marina,dasar,
+,,,,,
+67359,k,0,marinade,dasar,
+,,,,,
+67360,k,0,marinasi,dasar,
+67360.1,x,,<marinas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67361,k,2,marind,dasar,
+,,,,,
+67362,k,0,marind-anim,dasar,
+,,,,,
+67363,k,0,marindanim,dasar,
+,,,,,
+67364,k,84,marine,dasar,
+,,,,,
+67365,k,59,marinir,dasar,
+,,,,,
+67366,k,0,marinyo,dasar,
+,,,,,
+67367,k,0,marinyu,dasar,
+,,,,,
+67368,k,0,mariologi,dasar,
+67368.1,x,,<mariolog> + -i,bentukan,[28] [S] -i + (<all>)
+67368.2,x,,<mario> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+67369,k,0,mariologis,dasar,
+67369.1,v,,<mariologi> + [-is:-s],bentukan,[177] [S] -is + (i)
+67369.2,x,,<mariolog> + -is,bentukan,[178] [S] -is + (<others>)
+67369.3,x,,<mario> + -logi+-s,bentukan,[194] [MS] -logi+-s + (<all>)
+,,,,,
+67370,k,5,marital,dasar,
+,,,,,
+67371,k,283,maritim,dasar,
+,,,,,
+67372,v,4,maritimnya,dasar,
+67372.1,v,,<maritim> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+67373,k,6,mariyuana,dasar,
+,,,,,
+67374,k,0,marjik,dasar,
+,,,,,
+67375,c,55,marjin,dasar,margin
+,,,,,
+67376,c,60,marjinal,dasar,marginal
+,,,,,
+67377,c,23,marjinalisasi,dasar,marginalisasi
+67377.1,x,,<marjinalisas> + -i,bentukan,[28] [S] -i + (<all>)
+67377.2,x,,<marjinali> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+67377.3,x,,<marjinalis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+67377.4,v,,<marjinal> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+67378,k,0,marjoram,dasar,
+,,,,,
+67379,k,342,mark,dasar,
+,,,,,
+67380,c,65,marka,dasar,markah
+,,,,,
+67381,k,0,markado,dasar,
+,,,,,
+67382,k,3,markah,dasar,
+67382.1,x,,<mar> + -kah,bentukan,[30] [FS] -kah + (<all>)
+,,,,,
+67383,k,0,markah abrasi,dasar,
+67383.1,x,,<markah abras> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67384,k,0,markah jalan,dasar,
+67384.1,x,,<markah jal> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67385,k,0,markah lambung timbul,dasar,
+,,,,,
+67386,k,0,markah plimsol,dasar,
+,,,,,
+67387,k,0,markah tanah,dasar,
+,,,,,
+67388,k,0,markah tirta,dasar,
+,,,,,
+67389,k,0,markah tirta digital,dasar,
+,,,,,
+67390,k,622,markas,dasar,
+,,,,,
+67391,k,0,markas besar,dasar,
+,,,,,
+67392,k,0,markas polisi,dasar,
+67392.1,x,,<markas polis> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67393,k,0,markas tentara,dasar,
+,,,,,
+67394,v,2,markas-markas,dasar,
+67394.1,v,,<markas> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+67395,k,0,markasit,dasar,
+,,,,,
+67396,v,29,markasnya,dasar,
+67396.1,v,,<markas> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+67397,k,0,marketri,dasar,
+67397.1,x,,<marketr> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67398,k,0,marki,dasar,
+67398.1,x,,<mark> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67399,k,15,markis,dasar,
+67399.1,x,,<marki> + [-is:-s],bentukan,[177] [S] -is + (i)
+67399.2,x,,<mark> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+67400,k,7,markisa,dasar,
+,,,,,
+67401,k,2,markoni,dasar,
+67401.1,x,,<markon> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67402,k,4,markonis,dasar,
+67402.1,x,,<markoni> + [-is:-s],bentukan,[177] [S] -is + (i)
+67402.2,x,,<markon> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+67403,k,42,markus,dasar,
+,,,,,
+67404,k,0,markusip,dasar,
+,,,,,
+67405,k,7,marlin,dasar,
+,,,,,
+67406,c,3,marmar,dasar,marmer
+,,,,,
+67407,k,0,marmelade,dasar,
+,,,,,
+67408,k,68,marmer,dasar,
+,,,,,
+67409,v,2,marmernya,dasar,
+67409.1,v,,<marmer> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+67410,k,3,marmot,dasar,
+,,,,,
+67411,c,7,marmut,dasar,marmot
+,,,,,
+67412,k,8,maro,dasar,
+,,,,,
+67413,k,0,marobo,dasar,
+,,,,,
+67414,k,92,maroko,dasar,
+,,,,,
+67415,k,44,maros,dasar,
+,,,,,
+67416,k,0,marpaud,dasar,
+,,,,,
+67417,k,136,mars,dasar,
+,,,,,
+67418,k,0,marsaoleh,dasar,
+,,,,,
+67419,k,94,marsekal,dasar,
+,,,,,
+67420,k,0,marsekal besar tni,dasar,
+67420.1,x,,<marsekal besar tn> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67421,k,0,marsekal madya tni,dasar,
+67421.1,x,,<marsekal madya tn> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67422,k,0,marsekal muda tni,dasar,
+67422.1,x,,<marsekal muda tn> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67423,k,0,marsekal pertama tni,dasar,
+67423.1,x,,<marsekal pertama tn> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67424,k,0,marsepen,dasar,
+,,,,,
+67425,k,0,marshall (kepulauan),dasar,
+,,,,,
+67426,k,4,marsose,dasar,
+,,,,,
+67427,k,0,marsupial,dasar,
+,,,,,
+67428,v,2,marsupialisasi,dasar,
+67428.1,x,,<marsupialisas> + -i,bentukan,[28] [S] -i + (<all>)
+67428.2,x,,<marsupiali> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+67428.3,x,,<marsupialis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+67428.4,v,,<marsupial> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+67429,k,32,martabak,dasar,
+,,,,,
+67430,k,0,martabak asin,dasar,
+,,,,,
+67431,k,0,martabak manis,dasar,
+67431.1,x,,<martabak mani> + [-is:-s],bentukan,[177] [S] -is + (i)
+67431.2,x,,<martabak man> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+67432,k,0,martabak telur,dasar,
+,,,,,
+67433,k,0,martaban,dasar,
+67433.1,x,,<martab> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67434,k,411,martabat,dasar,
+,,,,,
+67435,v,60,martabatnya,dasar,
+67435.1,v,,<martabat> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+67436,k,0,martandang,dasar,
+,,,,,
+67437,k,14,martil,dasar,
+,,,,,
+67438,k,28,martini,dasar,
+67438.1,x,,<martin> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67439,k,31,martir,dasar,
+,,,,,
+67440,k,0,martirium,dasar,
+,,,,,
+67441,k,6,maru,dasar,
+,,,,,
+67442,k,32,marun,dasar,
+,,,,,
+67443,k,0,marus,dasar,
+,,,,,
+67444,k,18,marut,dasar,
+,,,,,
+67445,c,55,marwah,dasar,muruah
+,,,,,
+67446,k,3,marwas,dasar,
+,,,,,
+67447,k,0,marxisme,dasar,
+67447.1,x,,<marx> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+67448,k,49,maryam,dasar,
+,,,,,
+67449,c,0,marzipan,dasar,marsepen
+67449.1,x,,<marzip> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67450,k,727,mas,dasar,
+,,,,,
+67451,k,0,mas adipati,dasar,
+67451.1,x,,<mas adipat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67452,k,0,mas ajeng,dasar,
+,,,,,
+67453,k,0,mas ayu,dasar,
+,,,,,
+67454,k,0,mas koki,dasar,
+67454.1,x,,<mas kok> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67455,k,0,mas manah,dasar,
+,,,,,
+67456,k,0,mas tempawan,dasar,
+67456.1,x,,<mas tempaw> + -an,bentukan,[38] [S] -an + (<all>)
+67456.2,x,,<mas tempa> + -wan,bentukan,[180] [S] -wan + (<others>)
+67456.3,x,,<mas temp> + [-wan:-awan],bentukan,[18000001] [S] -wan + (<all>)
+,,,,,
+67457,k,0,mas tumenggung,dasar,
+,,,,,
+67458,v,9,mas-mas,dasar,
+67458.1,v,,<mas> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+67459,k,8308,masa,dasar,
+,,,,,
+67460,k,0,masa anak-anak,dasar,
+,,,,,
+67461,k,0,masa bakti,dasar,
+67461.1,x,,<masa bakt> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67462,k,0,masa berahi,dasar,
+67462.1,x,,<masa berah> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67463,k,0,masa berburu,dasar,
+,,,,,
+67464,k,0,masa bercocok tanam,dasar,
+,,,,,
+67465,k,0,masa berlaku,dasar,
+67465.1,x,,<masa berla> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+67466,k,0,masa bodoh,dasar,
+,,,,,
+67467,k,0,masa bunting,dasar,
+,,,,,
+67468,k,0,masa depan,dasar,
+67468.1,x,,<masa dep> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67469,k,0,masa detensi hidraulik,dasar,
+,,,,,
+67470,k,0,masa dewasa,dasar,
+,,,,,
+67471,k,0,masa emosional,dasar,
+,,,,,
+67472,k,0,masa gencat,dasar,
+,,,,,
+67473,k,0,masa gencat mesin,dasar,
+,,,,,
+67474,k,0,masa glasial,dasar,
+,,,,,
+67475,k,0,masa henti,dasar,
+67475.1,x,,<masa hent> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67476,k,0,masa hidup,dasar,
+,,,,,
+67477,k,0,masa inap,dasar,
+,,,,,
+67478,k,0,masa inkubasi,dasar,
+67478.1,x,,<masa inkubas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67479,k,0,masa intelektual,dasar,
+,,,,,
+67480,k,0,masa isolasi,dasar,
+67480.1,x,,<masa isolas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67481,k,0,masa istirahat,dasar,
+,,,,,
+67482,k,0,masa jendela,dasar,
+,,,,,
+67483,d,0,masa kampanye,dasar,
+,,,,,
+67484,k,0,masa kanak-kanak,dasar,
+,,,,,
+67485,k,0,masa karantina,dasar,
+,,,,,
+67486,k,0,masa kawin,dasar,
+,,,,,
+67487,d,0,masa kecil,dasar,
+,,,,,
+67488,k,0,masa keemasan,dasar,
+67488.1,x,,<masa keemas> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67489,k,0,masa kekeringan,dasar,
+67489.1,x,,<masa kekering> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67490,k,0,masa kembali modal,dasar,
+,,,,,
+67491,d,0,masa kemerdekaan,dasar,
+67491.1,x,,<masa kemerdeka> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67492,d,0,masa kepemimpinan,dasar,
+67492.1,x,,<masa kepemimpin> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67493,k,0,masa kering,dasar,
+,,,,,
+67494,k,0,masa kerja,dasar,
+,,,,,
+67495,k,0,masa kini,dasar,
+67495.1,x,,<masa kin> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67496,d,0,masa kolonial,dasar,
+,,,,,
+67497,k,0,masa kosong,dasar,
+,,,,,
+67498,k,0,masa laku visa,dasar,
+,,,,,
+67499,k,0,masa lalu,dasar,
+,,,,,
+67500,k,0,masa laten,dasar,
+,,,,,
+67501,k,0,masa leluasa,dasar,
+,,,,,
+67502,k,0,masa lia,dasar,
+,,,,,
+67503,k,0,masa menentang,dasar,
+,,,,,
+67504,k,0,masa menganggur,dasar,
+,,,,,
+67505,k,0,masa menyusu,dasar,
+,,,,,
+67506,k,0,masa meramu,dasar,
+67506.1,x,,<masa mera> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+,,,,,
+67507,d,0,masa otonomi,dasar,
+67507.1,x,,<masa otonom> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67508,k,0,masa pajak,dasar,
+,,,,,
+67509,k,0,masa pancaroba,dasar,
+,,,,,
+67510,k,0,masa peka,dasar,
+,,,,,
+67511,d,0,masa pemeliharaan,dasar,
+67511.1,x,,<masa pemelihara> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67512,d,0,masa pemerintahan,dasar,
+67512.1,x,,<masa pemerintah> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67513,k,0,masa penyerahan,dasar,
+67513.1,x,,<masa penyerah> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67514,k,0,masa peralihan,dasar,
+67514.1,x,,<masa peralih> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67515,k,0,masa percobaan,dasar,
+67515.1,x,,<masa percoba> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67516,d,0,masa perkembangan,dasar,
+67516.1,x,,<masa perkembang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67517,k,0,masa perlindungan,dasar,
+67517.1,x,,<masa perlindung> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67518,k,0,masa persiapan pensiun,dasar,
+,,,,,
+67519,d,0,masa pertumbuhan,dasar,
+67519.1,x,,<masa pertumbuh> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67520,k,0,masa pertunangan,dasar,
+67520.1,x,,<masa pertunang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67521,k,0,masa pertunjukan,dasar,
+67521.1,x,,<masa pertunju> + -kan,bentukan,[29] [S] -kan + (<all>)
+67521.2,x,,<masa pertunjuk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67522,k,0,masa perundagian,dasar,
+67522.1,x,,<masa perundagi> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67523,k,0,masa pinjaman,dasar,
+67523.1,x,,<masa pinjam> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67524,k,0,masa pluvial,dasar,
+,,,,,
+67525,k,0,masa polis,dasar,
+67525.1,x,,<masa poli> + [-is:-s],bentukan,[177] [S] -is + (i)
+67525.2,x,,<masa pol> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+67526,k,0,masa prenatal,dasar,
+,,,,,
+67527,k,0,masa puber,dasar,
+,,,,,
+67528,d,0,masa reformasi,dasar,
+67528.1,x,,<masa reformas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67529,k,0,masa remaja,dasar,
+,,,,,
+67530,k,0,masa remisi,dasar,
+67530.1,x,,<masa remis> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67531,k,0,masa reses,dasar,
+,,,,,
+67532,k,0,masa retensi,dasar,
+67532.1,x,,<masa retens> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67533,k,0,masa sangkal,dasar,
+,,,,,
+67534,k,0,masa senggang,dasar,
+,,,,,
+67535,k,0,masa sidang dewan perwakilan rakyat,dasar,
+,,,,,
+67536,d,0,masa silam,dasar,
+,,,,,
+67537,d,0,masa simpan,dasar,
+67537.1,x,,<masa simp> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67538,k,0,masa singkapan,dasar,
+67538.1,x,,<masa singkap> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67539,k,0,masa subur,dasar,
+,,,,,
+67540,k,0,masa tanam,dasar,
+,,,,,
+67541,k,0,masa tenggang,dasar,
+,,,,,
+67542,k,0,masa terseleksi,dasar,
+67542.1,x,,<masa terseleks> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67543,d,0,masa transisi,dasar,
+67543.1,x,,<masa transis> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67544,k,0,masa tua,dasar,
+,,,,,
+67545,k,0,masa tunas,dasar,
+,,,,,
+67546,k,0,masa tunggu,dasar,
+,,,,,
+67547,v,429,masa-masa,dasar,
+67547.1,v,,<masa> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+67548,v,3,masa-masanya,dasar,
+67548.1,x,,<masa> [-] <r> + -nya,bentukan,[23] [RD] |
+67548.2,v,,<masa> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+67549,k,0,masagus,dasar,
+,,,,,
+67550,k,31,masai,dasar,
+67550.1,x,,<masa> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67551,k,500,masak,dasar,
+,,,,,
+67552,k,0,masak air,dasar,
+,,,,,
+67553,k,0,masak ajar,dasar,
+,,,,,
+67554,k,0,masak akal,dasar,
+,,,,,
+67555,k,0,masak besar,dasar,
+,,,,,
+67556,k,0,masak dini,dasar,
+67556.1,x,,<masak din> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67557,k,0,masak kelamin,dasar,
+,,,,,
+67558,k,0,masak lambat,dasar,
+,,,,,
+67559,k,0,masak lum,dasar,
+,,,,,
+67560,k,0,masak masai,dasar,
+67560.1,x,,<masak masa> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67561,k,0,masak niat,dasar,
+,,,,,
+67562,k,0,masak pote,dasar,
+,,,,,
+67563,k,0,masak sekolah,dasar,
+67563.1,x,,<masak seko> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+67564,k,0,masak tangan,dasar,
+67564.1,x,,<masak tang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67565,k,0,masak timbangan,dasar,
+67565.1,x,,<masak timbang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67566,k,46,masak-masak,dasar,
+67566.1,v,,<masak> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+67567,v,7,masak-masakan,dasar,
+67567.1,v,,<masak> [-] <r> + -an,bentukan,[23] [RD] |
+,,,,,
+67568,k,12,masak-memasak,dasar,
+67568.1,v,,<masak> [-] [meng-:me-] + <r>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [24] [RD] |meng-
+,,,,,
+67569,k,314,masakan,dasar,
+67569.1,x,,<masa> + -kan,bentukan,[29] [S] -kan + (<all>)
+67569.2,v,,<masak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67570,v,8,masakan-masakan,dasar,
+67570.1,x,,<masakan> [-] <r>,bentukan,[23] [RD] |
+67570.2,x,,<masa> + -kan [-] <r> + -kan,bentukan,[29] [S] -kan + (<all>) => [23] [RD] |
+67570.3,v,,<masak> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+67571,v,5,masakanku,dasar,
+67571.1,v,,<masakan> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+67571.2,x,,<masa> + -kan + -ku,bentukan,[29] [S] -kan + (<all>) => [32] [SFS] -ku + (<all>)
+67571.3,v,,<masak> + -an + -ku,bentukan,[38] [S] -an + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+67572,v,4,masakanmu,dasar,
+67572.1,v,,<masakan> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+67572.2,x,,<masa> + -kan + -mu,bentukan,[29] [S] -kan + (<all>) => [33] [SFS] -mu + (<all>)
+67572.3,v,,<masak> + -an + -mu,bentukan,[38] [S] -an + (<all>) => [33] [SFS] -mu + (<all>)
+,,,,,
+67573,v,40,masakannya,dasar,
+67573.1,v,,<masakan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+67573.2,x,,<masa> + -kan + -nya,bentukan,[29] [S] -kan + (<all>) => [34] [SFS] -nya + (<all>)
+67573.3,v,,<masak> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+67574,k,0,masakat,dasar,
+,,,,,
+67575,v,4,masakkan,dasar,
+67575.1,v,,<masak> + -kan,bentukan,[29] [S] -kan + (<all>)
+67575.2,x,,<masakk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67576,v,7,masaklah,dasar,
+67576.1,v,,<masak> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+67577,v,15,masaknya,dasar,
+67577.1,v,,<masak> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+67578,v,5,masaku,dasar,
+67578.1,v,,<masa> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+67579,c,75,masal,dasar,massal
+,,,,,
+67580,k,2,masala,dasar,
+,,,,,
+67581,k,6984,masalah,dasar,
+67581.1,x,,<masa> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+67582,k,0,masalah bernstein,dasar,
+,,,,,
+67583,k,0,masalah seksual,dasar,
+,,,,,
+67584,k,0,masalah warga negara,dasar,
+,,,,,
+67585,v,430,masalah-masalah,dasar,
+67585.1,v,,<masalah> [-] <r>,bentukan,[23] [RD] |
+67585.2,x,,<masa> + -lah [-] <r> + -lah,bentukan,[31] [FS] -lah + (<all>) => [23] [RD] |
+,,,,,
+67586,v,10,masalah-masalahnya,dasar,
+67586.1,x,,<masalah> [-] <r> + -nya,bentukan,[23] [RD] |
+67586.2,x,,<masa> + -lah [-] <r> + -lah + -nya,bentukan,[31] [FS] -lah + (<all>) => [23] [RD] |
+67586.3,v,,<masalah> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+67586.4,x,,<masa> + -lah [-] <r> + -lah + -nya,bentukan,[31] [FS] -lah + (<all>) => [23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+67587,v,914,masalahnya,dasar,
+67587.1,v,,<masalah> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+67587.2,x,,<masa> + -lah + -nya,bentukan,[31] [FS] -lah + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+67588,k,103,masam,dasar,
+,,,,,
+67589,k,0,masama,dasar,
+,,,,,
+67590,k,0,masambia,dasar,
+,,,,,
+67591,k,0,masamper,dasar,
+,,,,,
+67592,v,2,masamu,dasar,
+67592.1,v,,<masa> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+,,,,,
+67593,k,2,masan,dasar,
+67593.1,x,,<mas> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67594,v,182,masanya,dasar,
+67594.1,v,,<masa> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+67595,k,0,masap,dasar,
+,,,,,
+67596,c,6,masarakat,dasar,masyarakat
+,,,,,
+67597,k,5,masase,dasar,
+67597.1,x,,<mas> + -ase,bentukan,[210] [S] -ase + (<all>)
+,,,,,
+67598,k,2,masayu,dasar,
+,,,,,
+67599,k,0,masbuk,dasar,
+,,,,,
+67600,k,20,masdar,dasar,
+,,,,,
+67601,k,127,masehi,dasar,
+67601.1,x,,<maseh> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67602,k,0,masenrempulu,dasar,
+,,,,,
+67603,k,0,masep,dasar,
+,,,,,
+67604,k,0,maser,dasar,
+,,,,,
+67605,k,37,maserasi,dasar,
+67605.1,x,,<maseras> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67606,k,0,masgul,dasar,
+,,,,,
+67607,k,0,mashaf,dasar,
+,,,,,
+67608,c,6,mashur,dasar,masyhur
+,,,,,
+67609,k,479,masif,dasar,
+,,,,,
+67610,v,3,masifkan,dasar,
+67610.1,v,,<masif> + -kan,bentukan,[29] [S] -kan + (<all>)
+67610.2,x,,<masifk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67611,k,16206,masih,dasar,
+,,,,,
+67612,k,0,masih hijau,dasar,
+,,,,,
+67613,v,33,masihkah,dasar,
+67613.1,v,,<masih> + -kah,bentukan,[30] [FS] -kah + (<all>)
+,,,,,
+67614,k,0,masimasi,dasar,
+67614.1,x,,<masimas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67615,c,8,masin,dasar,mesin
+,,,,,
+67616,k,0,masinal,dasar,
+,,,,,
+67617,k,6151,masing-masing,dasar,
+67617.1,v,,<masing> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+67618,k,33,masinis,dasar,
+67618.1,x,,<masini> + [-is:-s],bentukan,[177] [S] -is + (i)
+67618.2,x,,<masin> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+67619,k,0,masip,dasar,
+,,,,,
+67620,k,2,masir,dasar,
+,,,,,
+67621,k,1030,masjid,dasar,
+,,,,,
+67622,k,0,masjid agung,dasar,
+,,,,,
+67623,k,0,masjid jami,dasar,
+67623.1,x,,<masjid jam> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67624,v,56,masjid-masjid,dasar,
+67624.1,v,,<masjid> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+67625,k,0,masjidilaksa,dasar,
+,,,,,
+67626,k,0,masjidilaqsa,dasar,
+,,,,,
+67627,k,4,masjidilharam,dasar,
+,,,,,
+67628,k,0,maskanat,dasar,
+,,,,,
+67629,k,331,maskapai,dasar,
+67629.1,x,,<maskapa> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67630,k,0,maskapai komersial,dasar,
+,,,,,
+67631,k,0,maskapai niaga berjadwal,dasar,
+,,,,,
+67632,k,0,maskapai niaga takberjadwal,dasar,
+,,,,,
+67633,k,0,maskapai penerbangan,dasar,
+67633.1,x,,<maskapai penerbang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67634,v,10,maskapai-maskapai,dasar,
+67634.1,v,,<maskapai> [-] <r>,bentukan,[23] [RD] |
+67634.2,x,,<maskapa> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+,,,,,
+67635,v,8,maskapainya,dasar,
+67635.1,v,,<maskapai> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+67635.2,x,,<maskapa> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+67636,k,44,maskara,dasar,
+,,,,,
+67637,k,0,maskara cair,dasar,
+,,,,,
+67638,k,0,maskara padat,dasar,
+,,,,,
+67639,k,0,maskat,dasar,
+,,,,,
+67640,k,11,maskawin,dasar,
+,,,,,
+67641,k,690,masker,dasar,
+,,,,,
+67642,k,0,masker alamat,dasar,
+,,,,,
+67643,k,0,masker gas,dasar,
+,,,,,
+67644,k,0,masker hijab,dasar,
+,,,,,
+67645,k,0,masker kecantikan,dasar,
+67645.1,x,,<masker kecanti> + -kan,bentukan,[29] [S] -kan + (<all>)
+67645.2,x,,<masker kecantik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67646,k,0,masker lumpur,dasar,
+,,,,,
+67647,k,0,masker pencerah,dasar,
+,,,,,
+67648,v,2,maskerku,dasar,
+67648.1,v,,<masker> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+67649,v,17,maskernya,dasar,
+67649.1,v,,<masker> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+67650,k,0,maskodok,dasar,
+,,,,,
+67651,k,0,maskon,dasar,
+,,,,,
+67652,k,21,maskot,dasar,
+,,,,,
+67653,v,5,masku,dasar,
+67653.1,v,,<mas> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+67654,k,115,maskulin,dasar,
+,,,,,
+67655,v,2,maskulinisasi,dasar,
+67655.1,x,,<maskulinisas> + -i,bentukan,[28] [S] -i + (<all>)
+67655.2,x,,<maskulini> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+67655.3,x,,<maskulinis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+67655.4,v,,<maskulin> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+67656,k,0,maskulinismus,dasar,
+67656.1,v,,<maskulin> + -ismus,bentukan,[198] [S] -ismus + (<all>)
+,,,,,
+67657,k,27,maskulinitas,dasar,
+67657.1,v,,<maskulin> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+67658,v,2,maskulinitasnya,dasar,
+67658.1,v,,<maskulinitas> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+67658.2,v,,<maskulin> + -itas + -nya,bentukan,[205] [S] -itas + (<others>) => [34] [SFS] -nya + (<all>)
+,,,,,
+67659,k,11,maskumambang,dasar,
+,,,,,
+67660,k,35,maslahat,dasar,
+,,,,,
+67661,v,3,maslahatnya,dasar,
+67661.1,v,,<maslahat> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+67662,v,6,masmu,dasar,
+67662.1,v,,<mas> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+,,,,,
+67663,k,2,masnawi,dasar,
+67663.1,x,,<masnaw> + -i,bentukan,[28] [S] -i + (<all>)
+67663.2,x,,<masna> + -wi,bentukan,[174] [S] -wi + (<others>)
+,,,,,
+67664,v,4,masnya,dasar,
+67664.1,v,,<mas> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+67665,k,5,masohi,dasar,
+67665.1,x,,<masoh> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67666,k,0,masoi,dasar,
+67666.1,x,,<maso> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67667,k,0,masokhis,dasar,
+67667.1,x,,<masokhi> + [-is:-s],bentukan,[177] [S] -is + (i)
+67667.2,x,,<masokh> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+67668,k,0,masokhisme,dasar,
+67668.1,x,,<masokh> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+67669,k,43,mason,dasar,
+,,,,,
+67670,k,0,masori,dasar,
+67670.1,x,,<masor> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67671,k,0,masoyi,dasar,
+67671.1,x,,<masoy> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67672,k,0,masrum,dasar,
+,,,,,
+67673,k,1664,massa,dasar,
+,,,,,
+67674,k,0,massa atom,dasar,
+,,,,,
+67675,k,0,massa atom relatif,dasar,
+,,,,,
+67676,k,0,massa diam,dasar,
+,,,,,
+67677,k,0,massa jenis,dasar,
+67677.1,x,,<massa jeni> + [-is:-s],bentukan,[177] [S] -is + (i)
+67677.2,x,,<massa jen> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+67678,k,0,massa mengambang,dasar,
+,,,,,
+67679,k,0,massa produksi,dasar,
+67679.1,x,,<massa produks> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67680,k,0,massa rakyat,dasar,
+,,,,,
+67681,k,0,massa skrotum,dasar,
+,,,,,
+67682,k,0,massa tubuh nirlemak,dasar,
+,,,,,
+67683,k,0,massa tulang puncak,dasar,
+,,,,,
+67684,k,0,massa udara,dasar,
+,,,,,
+67685,k,0,massa udara basah,dasar,
+,,,,,
+67686,k,0,massa udara kering,dasar,
+,,,,,
+67687,k,0,massa udara takmantap,dasar,
+,,,,,
+67688,k,656,massal,dasar,
+,,,,,
+67689,v,24,massanya,dasar,
+67689.1,v,,<massa> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+67690,k,2,massenrempulu,dasar,
+,,,,,
+67691,k,0,massep,dasar,
+,,,,,
+67692,k,0,mastalgia,dasar,
+,,,,,
+67693,k,0,mastautin,dasar,
+,,,,,
+67694,k,7,mastektomi,dasar,
+67694.1,x,,<mastektom> + -i,bentukan,[28] [S] -i + (<all>)
+67694.2,x,,<mastek> + -tomi,bentukan,[200] [S] -tomi + (<all>)
+,,,,,
+67695,k,335,master,dasar,
+,,,,,
+67696,k,0,master internasional,dasar,
+,,,,,
+67697,k,0,master kicauan,dasar,
+67697.1,x,,<master kicau> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67698,k,0,masteran,dasar,
+67698.1,v,,<master> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67699,v,13,masternya,dasar,
+67699.1,v,,<master> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+67700,k,72,masterplan,dasar,
+67700.1,x,,<masterpl> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67701,k,0,mastigofobia,dasar,
+67701.1,x,,<mastigo> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+67702,k,0,mastik,dasar,
+,,,,,
+67703,k,2,mastikasi,dasar,
+67703.1,x,,<mastikas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67704,k,6,mastitis,dasar,
+67704.1,x,,<mastiti> + [-is:-s],bentukan,[177] [S] -is + (i)
+67704.2,x,,<mastit> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+67705,k,2,mastodon,dasar,
+,,,,,
+67706,k,0,mastuli,dasar,
+67706.1,x,,<mastul> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67707,k,24,masturbasi,dasar,
+67707.1,x,,<masturbas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67708,k,0,masturbator,dasar,
+,,,,,
+67709,k,8204,masuk,dasar,
+,,,,,
+67710,k,0,masuk ajar,dasar,
+,,,,,
+67711,k,0,masuk akal,dasar,
+,,,,,
+67712,d,0,masuk akalkah,dasar,
+67712.1,v,,<masuk akal> + -kah,bentukan,[30] [FS] -kah + (<all>)
+,,,,,
+67713,k,0,masuk angin,dasar,
+,,,,,
+67714,k,0,masuk buku,dasar,
+67714.1,x,,<masuk bu> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+67715,k,0,masuk bursa,dasar,
+,,,,,
+67716,k,0,masuk daun,dasar,
+,,,,,
+67717,k,0,masuk kerja,dasar,
+,,,,,
+67718,k,0,masuk langsung,dasar,
+,,,,,
+67719,k,0,masuk sekolah,dasar,
+67719.1,x,,<masuk seko> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+67720,k,0,masuk serani,dasar,
+67720.1,x,,<masuk seran> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67721,k,0,masuk serdadu,dasar,
+,,,,,
+67722,k,0,masuk suluk,dasar,
+,,,,,
+67723,k,0,masuk tentara,dasar,
+,,,,,
+67724,k,0,masuk ulur,dasar,
+,,,,,
+67725,k,1456,masukan,dasar,
+67725.1,x,,<masu> + -kan,bentukan,[29] [S] -kan + (<all>)
+67725.2,v,,<masuk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67726,v,61,masukan-masukan,dasar,
+67726.1,x,,<masukan> [-] <r>,bentukan,[23] [RD] |
+67726.2,x,,<masu> + -kan [-] <r> + -kan,bentukan,[29] [S] -kan + (<all>) => [23] [RD] |
+67726.3,v,,<masuk> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+67727,v,16,masukannya,dasar,
+67727.1,v,,<masukan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+67727.2,x,,<masu> + -kan + -nya,bentukan,[29] [S] -kan + (<all>) => [34] [SFS] -nya + (<all>)
+67727.3,v,,<masuk> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+67728,v,258,masukkan,dasar,
+67728.1,v,,<masuk> + -kan,bentukan,[29] [S] -kan + (<all>)
+67728.2,x,,<masukk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67729,v,6,masukkanlah,dasar,
+67729.1,v,,<masukkan> + -lah,bentukan,[31] [FS] -lah + (<all>)
+67729.2,v,,<masuk> + -kan + -lah,bentukan,[29] [S] -kan + (<all>) => [31] [FS] -lah + (<all>)
+67729.3,x,,<masukk> + -an + -lah,bentukan,[38] [S] -an + (<all>) => [31] [FS] -lah + (<all>)
+,,,,,
+67730,v,77,masuklah,dasar,
+67730.1,v,,<masuk> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+67731,v,653,masuknya,dasar,
+67731.1,v,,<masuk> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+67732,k,0,masula,dasar,
+,,,,,
+67733,k,0,masuliah,dasar,
+67733.1,x,,<masul> + -iah,bentukan,[175] [S] -iah + (<others>)
+,,,,,
+67734,k,0,maswar,dasar,
+,,,,,
+67735,k,0,masya allah,dasar,
+67735.1,x,,<masya al> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+67736,k,6,masyaallah,dasar,
+67736.1,x,,<masyaal> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+67737,k,0,masyakah,dasar,
+67737.1,x,,<masya> + -kah,bentukan,[30] [FS] -kah + (<all>)
+,,,,,
+67738,c,19,masyakat,dasar,masyakah
+,,,,,
+67739,k,11885,masyarakat,dasar,
+,,,,,
+67740,k,0,masyarakat adat,dasar,
+,,,,,
+67741,d,0,masyarakat awam,dasar,
+,,,,,
+67742,d,0,masyarakat baca,dasar,
+,,,,,
+67743,k,0,masyarakat bahasa,dasar,
+,,,,,
+67744,k,0,masyarakat bawah,dasar,
+,,,,,
+67745,k,0,masyarakat bercocok tanam,dasar,
+,,,,,
+67746,k,0,masyarakat berpenghasilan rendah,dasar,
+,,,,,
+67747,k,0,masyarakat desa,dasar,
+,,,,,
+67748,k,0,masyarakat hukum,dasar,
+,,,,,
+67749,d,0,masyarakat ilmiah,dasar,
+67749.1,x,,<masyarakat ilm> + -iah,bentukan,[175] [S] -iah + (<others>)
+,,,,,
+67750,d,0,masyarakat industri,dasar,
+67750.1,x,,<masyarakat industr> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67751,d,0,masyarakat internasional,dasar,
+,,,,,
+67752,k,0,masyarakat kecil,dasar,
+,,,,,
+67753,k,0,masyarakat kelas atas,dasar,
+,,,,,
+67754,k,0,masyarakat kelas bawah,dasar,
+,,,,,
+67755,k,0,masyarakat kelas menengah,dasar,
+,,,,,
+67756,k,0,masyarakat komunal,dasar,
+,,,,,
+67757,k,0,masyarakat kota,dasar,
+,,,,,
+67758,d,0,masyarakat lokal,dasar,
+,,,,,
+67759,k,0,masyarakat madani,dasar,
+67759.1,x,,<masyarakat madan> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67760,k,0,masyarakat majemuk,dasar,
+,,,,,
+67761,d,0,masyarakat menengah,dasar,
+,,,,,
+67762,d,0,masyarakat miskin,dasar,
+,,,,,
+67763,k,0,masyarakat modern,dasar,
+,,,,,
+67764,k,0,masyarakat peladang,dasar,
+,,,,,
+67765,k,0,masyarakat pemburu,dasar,
+,,,,,
+67766,k,0,masyarakat peramu,dasar,
+67766.1,x,,<masyarakat pera> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+,,,,,
+67767,k,0,masyarakat perdesaan,dasar,
+67767.1,x,,<masyarakat perdesa> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67768,k,0,masyarakat pinggiran,dasar,
+67768.1,x,,<masyarakat pinggir> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+67769,k,0,masyarakat primitif,dasar,
+,,,,,
+67770,k,0,masyarakat ramai,dasar,
+67770.1,x,,<masyarakat rama> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+67771,d,0,masyarakat sipil,dasar,
+,,,,,
+67772,k,0,masyarakat tradisional,dasar,
+,,,,,
+67773,v,10,masyarakat-masyarakat,dasar,
+67773.1,v,,<masyarakat> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+67774,v,466,masyarakatnya,dasar,
+67774.1,v,,<masyarakat> + -nya,bentukan,[34] [SFS] -nya + (<all>)

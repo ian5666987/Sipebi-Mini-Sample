@@ -1,0 +1,1255 @@
+Nomor,KP,Jumlah,Entri,Tipe,Pembentukan
+100689,t,3,perkecamatan,dasar,per kecamatan
+100689.1,x,,per- + <kecamat> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100689.2,x,,per- + <kecamatan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100689.3,x,,<perkecamat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100690,k,31,perkecambahan,dasar,
+100690.1,v,,per- + <kecambah> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100690.2,x,,per- + <kecambahan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100690.3,x,,<perkecambah> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100691,v,5,perkecil,dasar,
+100691.1,v,,per- + <kecil>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+,,,,,
+100692,k,32,perkecualian,dasar,
+100692.1,v,,per- + <kecuali> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100692.2,x,,per- + <kecualian>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100692.3,x,,<perkecuali> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100693,k,0,perkedaian,dasar,
+100693.1,v,,per- + <kedai> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100693.2,x,,per- + <kedaian>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100693.3,x,,<perkedai> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100694,k,12,perkedel,dasar,
+100694.1,x,,per- + <kedel>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+,,,,,
+100695,k,0,perkedel jagung,dasar,
+100695.1,x,,per- + <kedel jagung>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+,,,,,
+100696,k,0,perkedel tahu,dasar,
+100696.1,x,,per- + <kedel tahu>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+,,,,,
+100697,k,157,perkelahian,dasar,
+100697.1,v,,per- + <kelahi> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100697.2,x,,per- + <kelahian>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100697.3,x,,<perkelahi> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100698,k,0,perkelahian seorang lawan seorang,dasar,
+100698.1,x,,per- + <kelahian seorang lawan seorang>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+,,,,,
+100699,v,2,perkelahianku,dasar,
+100699.1,x,,per- + <kelahianku>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100699.2,x,,<perkelahian> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+100699.3,v,,per- + <kelahi> + -an + -ku,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [32] [SFS] -ku + (<all>)
+100699.4,x,,per- + <kelahian> + -ku,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [32] [SFS] -ku + (<all>)
+100699.5,x,,<perkelahi> + -an + -ku,bentukan,[38] [S] -an + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+100700,v,2,perkelahiannya,dasar,
+100700.1,x,,per- + <kelahiannya>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100700.2,x,,<perkelahian> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+100700.3,v,,per- + <kelahi> + -an + -nya,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [34] [SFS] -nya + (<all>)
+100700.4,x,,per- + <kelahian> + -nya,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [34] [SFS] -nya + (<all>)
+100700.5,x,,<perkelahi> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+100701,k,0,perkelang,dasar,
+100701.1,x,,per- + <kelang>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+,,,,,
+100702,t,2,perkelas,dasar,per kelas
+100702.1,x,,per- + <kelas>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+,,,,,
+100703,t,5,perkelompok,dasar,per kelompok
+100703.1,x,,per- + <kelompok>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+,,,,,
+100704,k,0,perkeluargaan,dasar,
+100704.1,v,,per- + <keluarga> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100704.2,x,,per- + <keluargaan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100704.3,x,,<perkeluarga> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100705,k,56,perkemahan,dasar,
+100705.1,v,,per- + <kemah> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100705.2,x,,per- + <kemahan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100705.3,x,,<perkemah> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100706,k,3,perkemasan,dasar,
+100706.1,v,,per- + <kemas> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100706.2,x,,per- + <kemasan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100706.3,x,,<perkemas> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100707,k,4249,perkembangan,dasar,
+100707.1,v,,per- + <kembang> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100707.2,x,,per- + <kembangan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100707.3,x,,<perkembang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100708,k,0,perkembangan abnormal,dasar,
+100708.1,x,,per- + <kembangan abnormal>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+,,,,,
+100709,k,0,perkembangan gerak,dasar,
+100709.1,x,,per- + <kembangan gerak>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+,,,,,
+100710,k,0,perkembangan kognitif,dasar,
+100710.1,x,,per- + <kembangan kognitif>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+,,,,,
+100711,k,0,perkembangan psikoseksual,dasar,
+100711.1,x,,per- + <kembangan psikoseksual>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+,,,,,
+100712,v,10,perkembangan-perkembangan,dasar,
+100712.1,v,,<perkembangan> [-] <r>,bentukan,[23] [RD] |
+100712.2,v,,per- + <kembang> + -an [-] per- + <r> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [23] [RD] |
+100712.3,x,,per- + <kembangan> [-] per- + <r>,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [23] [RD] |
+100712.4,x,,<perkembang> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+100713,v,3,perkembanganku,dasar,
+100713.1,x,,per- + <kembanganku>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100713.2,x,,<perkembangan> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+100713.3,v,,per- + <kembang> + -an + -ku,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [32] [SFS] -ku + (<all>)
+100713.4,x,,per- + <kembangan> + -ku,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [32] [SFS] -ku + (<all>)
+100713.5,x,,<perkembang> + -an + -ku,bentukan,[38] [S] -an + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+100714,v,2,perkembanganmu,dasar,
+100714.1,x,,per- + <kembanganmu>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100714.2,x,,<perkembangan> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+100714.3,v,,per- + <kembang> + -an + -mu,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [33] [SFS] -mu + (<all>)
+100714.4,x,,per- + <kembangan> + -mu,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [33] [SFS] -mu + (<all>)
+100714.5,x,,<perkembang> + -an + -mu,bentukan,[38] [S] -an + (<all>) => [33] [SFS] -mu + (<all>)
+,,,,,
+100715,v,538,perkembangannya,dasar,
+100715.1,x,,per- + <kembangannya>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100715.2,x,,<perkembangan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+100715.3,v,,per- + <kembang> + -an + -nya,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [34] [SFS] -nya + (<all>)
+100715.4,x,,per- + <kembangan> + -nya,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [34] [SFS] -nya + (<all>)
+100715.5,x,,<perkembang> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+100716,v,28,perkembangbiakan,dasar,
+100716.1,v,,per- + <kembangbiak> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100716.2,x,,per- + <kembangbia> + -kan,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100716.3,x,,per- + <kembangbiakan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100716.4,x,,<perkembangbia> + -kan,bentukan,[29] [S] -kan + (<all>)
+100716.5,x,,<perkembangbiak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100717,v,5,perkembangbiakannya,dasar,
+100717.1,x,,per- + <kembangbiakannya>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100717.2,x,,<perkembangbiakan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+100717.3,v,,per- + <kembangbiak> + -an + -nya,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [34] [SFS] -nya + (<all>)
+100717.4,x,,per- + <kembangbia> + -kan + -nya,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [34] [SFS] -nya + (<all>)
+100717.5,x,,per- + <kembangbiakan> + -nya,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [34] [SFS] -nya + (<all>)
+100717.6,x,,<perkembangbia> + -kan + -nya,bentukan,[29] [S] -kan + (<all>) => [34] [SFS] -nya + (<all>)
+100717.7,x,,<perkembangbiak> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+100718,t,3,perkembangkan,dasar,perkembangan
+100718.1,x,,per- + <kembangk> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100718.2,x,,per- + <kembang> + -kan,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100718.3,x,,per- + <kembangkan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100718.4,x,,<perkembang> + -kan,bentukan,[29] [S] -kan + (<all>)
+100718.5,x,,<perkembangk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100719,v,3,perkembangnya,dasar,
+100719.1,x,,per- + <kembangnya>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100719.2,x,,<perkembang> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+100719.3,x,,per- + <kembang> + -nya,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [34] [SFS] -nya + (<all>)
+,,,,,
+100720,k,0,perkenaan,dasar,
+100720.1,v,,per- + <kena> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100720.2,x,,per- + <kenaan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100720.3,x,,<perkena> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100721,k,218,perkenalan,dasar,
+100721.1,v,,per- + <kenal> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100721.2,x,,per- + <kenalan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100721.3,x,,<perkenal> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100722,v,5,perkenalanku,dasar,
+100722.1,x,,per- + <kenalanku>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100722.2,x,,<perkenalan> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+100722.3,v,,per- + <kenal> + -an + -ku,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [32] [SFS] -ku + (<all>)
+100722.4,x,,per- + <kenalan> + -ku,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [32] [SFS] -ku + (<all>)
+100722.5,x,,<perkenal> + -an + -ku,bentukan,[38] [S] -an + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+100723,v,28,perkenalannya,dasar,
+100723.1,x,,per- + <kenalannya>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100723.2,x,,<perkenalan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+100723.3,v,,per- + <kenal> + -an + -nya,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [34] [SFS] -nya + (<all>)
+100723.4,x,,per- + <kenalan> + -nya,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [34] [SFS] -nya + (<all>)
+100723.5,x,,<perkenal> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+100724,v,90,perkenalkan,dasar,
+100724.1,x,,per- + <kenalk> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100724.2,v,,per- + <kenal> + -kan,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100724.3,x,,per- + <kenalkan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100724.4,x,,<perkenal> + -kan,bentukan,[29] [S] -kan + (<all>)
+100724.5,x,,<perkenalk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100725,k,18,perkenan,dasar,
+100725.1,x,,per- + <ken> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100725.2,v,,per- + <kenan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100725.3,x,,<perken> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100726,k,0,perkenanan,dasar,
+100726.1,v,,per- + <kenan> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100726.2,x,,per- + <kenanan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100726.3,x,,<perkenan> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100727,v,14,perkenankan,dasar,
+100727.1,x,,per- + <kenank> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100727.2,v,,per- + <kenan> + -kan,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100727.3,x,,per- + <kenankan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100727.4,x,,<perkenan> + -kan,bentukan,[29] [S] -kan + (<all>)
+100727.5,x,,<perkenank> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100728,v,6,perkenankanlah,dasar,
+100728.1,x,,per- + <kenankanlah>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100728.2,x,,<perkenankan> + -lah,bentukan,[31] [FS] -lah + (<all>)
+100728.3,x,,per- + <kenank> + -an + -lah,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [31] [FS] -lah + (<all>)
+100728.4,v,,per- + <kenan> + -kan + -lah,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [31] [FS] -lah + (<all>)
+100728.5,x,,per- + <kenankan> + -lah,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [31] [FS] -lah + (<all>)
+100728.6,x,,<perkenan> + -kan + -lah,bentukan,[29] [S] -kan + (<all>) => [31] [FS] -lah + (<all>)
+100728.7,x,,<perkenank> + -an + -lah,bentukan,[38] [S] -an + (<all>) => [31] [FS] -lah + (<all>)
+,,,,,
+100729,k,2,perkencanan,dasar,
+100729.1,v,,per- + <kencan> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100729.2,x,,per- + <kencanan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100729.3,x,,<perkencan> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100730,k,0,perkencingan,dasar,
+100730.1,v,,per- + <kencing> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100730.2,x,,per- + <kencingan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100730.3,x,,<perkencing> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100731,k,0,perkerangan,dasar,
+100731.1,v,,per- + <kerang> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100731.2,x,,per- + <kerangan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100731.3,x,,<perkerang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100732,k,31,perkerasan,dasar,
+100732.1,v,,per- + <keras> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100732.2,x,,per- + <kerasan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100732.3,x,,<perkeras> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100733,k,0,perkerasan jalan,dasar,
+100733.1,x,,per- + <kerasan jal> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100733.2,x,,per- + <kerasan jalan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100733.3,x,,<perkerasan jal> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100734,k,0,perkerasan kaku,dasar,
+100734.1,x,,per- + <kerasan kaku>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100734.2,x,,<perkerasan ka> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+100734.3,x,,per- + <kerasan ka> + -ku,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [32] [SFS] -ku + (<all>)
+,,,,,
+100735,k,0,perkerasan lentur,dasar,
+100735.1,x,,per- + <kerasan lentur>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+,,,,,
+100736,k,0,perkeretaan,dasar,
+100736.1,v,,per- + <kereta> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100736.2,x,,per- + <keretaan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100736.3,x,,<perkereta> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100737,k,0,perkeretaapian,dasar,
+100737.1,v,,per- + <keretaapi> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100737.2,x,,per- + <keretaapian>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100737.3,x,,<perkeretaapi> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100738,k,0,perkerisan,dasar,
+100738.1,v,,per- + <keris> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100738.2,x,,per- + <kerisan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100738.3,x,,<perkeris> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100739,t,12,perkerjaan,dasar,pekerjaan
+100739.1,x,,per- + <kerjaan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100739.2,x,,<perkerja> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100740,v,21,perketat,dasar,
+100740.1,v,,per- + <ketat>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+,,,,,
+100741,k,0,perkialan,dasar,
+100741.1,v,,per- + <kial> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100741.2,x,,per- + <kialan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100741.3,x,,<perkial> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100742,k,0,perkilangan,dasar,
+100742.1,v,,per- + <kilang> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100742.2,x,,per- + <kilangan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100742.3,x,,<perkilang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100743,t,2,perkilo,dasar,per kilo
+100743.1,x,,per- + <kilo>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+,,,,,
+100744,t,4,perkilogram,dasar,per kilogram
+100744.1,x,,per- + <kilogram>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+,,,,,
+100745,k,0,perkintakaan,dasar,
+100745.1,v,,per- + <kintaka> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100745.2,x,,per- + <kintakaan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100745.3,x,,<perkintaka> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100746,k,709,perkiraan,dasar,
+100746.1,v,,per- + <kira> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100746.2,x,,per- + <kiraan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100746.3,x,,<perkira> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100747,k,0,perkiraan antarsensus,dasar,
+100747.1,x,,per- + <kiraan antarsensus>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+,,,,,
+100748,k,0,perkiraan hunian,dasar,
+100748.1,x,,per- + <kiraan huni> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100748.2,x,,per- + <kiraan hunian>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100748.3,x,,<perkiraan huni> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100749,k,0,perkiraan neraca pembayaran,dasar,
+100749.1,x,,per- + <kiraan neraca pembayar> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100749.2,x,,per- + <kiraan neraca pembayaran>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100749.3,x,,<perkiraan neraca pembayar> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100750,k,0,perkiraan pascasensus,dasar,
+100750.1,x,,per- + <kiraan pascasensus>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+,,,,,
+100751,k,0,perkiraan penduduk,dasar,
+100751.1,x,,per- + <kiraan penduduk>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+,,,,,
+100752,v,3,perkiraan-perkiraan,dasar,
+100752.1,x,,<perkiraan> [-] <r>,bentukan,[23] [RD] |
+100752.2,v,,per- + <kira> + -an [-] per- + <r> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [23] [RD] |
+100752.3,x,,per- + <kiraan> [-] per- + <r>,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [23] [RD] |
+100752.4,x,,<perkira> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+100753,v,15,perkiraanku,dasar,
+100753.1,x,,per- + <kiraanku>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100753.2,x,,<perkiraan> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+100753.3,v,,per- + <kira> + -an + -ku,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [32] [SFS] -ku + (<all>)
+100753.4,x,,per- + <kiraan> + -ku,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [32] [SFS] -ku + (<all>)
+100753.5,x,,<perkira> + -an + -ku,bentukan,[38] [S] -an + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+100754,v,3,perkiraanmu,dasar,
+100754.1,x,,per- + <kiraanmu>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100754.2,x,,<perkiraan> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+100754.3,v,,per- + <kira> + -an + -mu,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [33] [SFS] -mu + (<all>)
+100754.4,x,,per- + <kiraan> + -mu,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [33] [SFS] -mu + (<all>)
+100754.5,x,,<perkira> + -an + -mu,bentukan,[38] [S] -an + (<all>) => [33] [SFS] -mu + (<all>)
+,,,,,
+100755,v,21,perkiraannya,dasar,
+100755.1,x,,per- + <kiraannya>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100755.2,x,,<perkiraan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+100755.3,v,,per- + <kira> + -an + -nya,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [34] [SFS] -nya + (<all>)
+100755.4,x,,per- + <kiraan> + -nya,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [34] [SFS] -nya + (<all>)
+100755.5,x,,<perkira> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+100756,k,99,perkirakan,dasar,
+100756.1,x,,per- + <kirak> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100756.2,v,,per- + <kira> + -kan,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100756.3,x,,per- + <kirakan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100756.4,x,,<perkira> + -kan,bentukan,[29] [S] -kan + (<all>)
+100756.5,x,,<perkirak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100757,k,0,perkiriman,dasar,
+100757.1,v,,per- + <kirim> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100757.2,x,,per- + <kiriman>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100757.3,x,,<perkirim> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100758,k,0,perkisaran,dasar,
+100758.1,v,,per- + <kisar> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100758.2,x,,per- + <kisaran>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100758.3,x,,<perkisar> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100759,k,0,perkitaran,dasar,
+100759.1,v,,per- + <kitar> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100759.2,x,,per- + <kitaran>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100759.3,x,,<perkitar> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100760,k,0,perklenikan,dasar,
+100760.1,v,,per- + <klenik> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100760.2,x,,per- + <kleni> + -kan,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100760.3,x,,per- + <klenikan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100760.4,x,,<perkleni> + -kan,bentukan,[29] [S] -kan + (<all>)
+100760.5,x,,<perklenik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100761,v,3,perklorat,dasar,
+100761.1,x,,per- + <klorat>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+,,,,,
+100762,t,4,perkoempoelan,dasar,perkumpulan
+100762.1,x,,per- + <koempoel> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100762.2,x,,per- + <koempoelan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100762.3,x,,<perkoempoel> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100763,v,7,perkokoh,dasar,
+100763.1,v,,per- + <kokoh>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+,,,,,
+100764,k,0,perkolar,dasar,
+100764.1,x,,per- + <kolar>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+,,,,,
+100765,k,10,perkolasi,dasar,
+100765.1,x,,per- + <kolas> + -i,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100765.2,x,,per- + <kolasi>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100765.3,x,,<perkolas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+100766,k,0,perkolator,dasar,
+100766.1,x,,per- + <kolator>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+,,,,,
+100767,k,0,perkoler,dasar,
+100767.1,x,,per- + <koler>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+,,,,,
+100768,v,6,perkoncoan,dasar,
+100768.1,v,,per- + <konco> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100768.2,x,,per- + <koncoan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100768.3,x,,<perkonco> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100769,k,5,perkongsian,dasar,
+100769.1,v,,per- + <kongsi> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100769.2,x,,per- + <kongsian>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100769.3,x,,<perkongsi> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100770,k,55,perkoperasian,dasar,
+100770.1,v,,per- + <koperasi> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100770.2,x,,per- + <koperasian>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100770.3,x,,<perkoperasi> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100771,k,3,perkopian,dasar,
+100771.1,v,,per- + <kopi> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100771.2,x,,per- + <kopian>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100771.3,x,,<perkopi> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100772,k,0,perkopraan,dasar,
+100772.1,v,,per- + <kopra> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100772.2,x,,per- + <kopraan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100772.3,x,,<perkopra> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100773,k,17,perkosa,dasar,
+100773.1,x,,per- + <kosa>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+,,,,,
+100774,k,44,perkosaan,dasar,
+100774.1,x,,per- + <kosa> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100774.2,x,,per- + <kosaan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100774.3,v,,<perkosa> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100775,k,0,perkosaan thd pasangan,dasar,
+100775.1,x,,per- + <kosaan thd pasang> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100775.2,x,,per- + <kosaan thd pasangan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100775.3,x,,<perkosaan thd pasang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100776,k,659,perkotaan,dasar,
+100776.1,v,,per- + <kota> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100776.2,x,,per- + <kotaan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100776.3,x,,<perkota> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100777,v,3,perkotaannya,dasar,
+100777.1,x,,per- + <kotaannya>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100777.2,x,,<perkotaan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+100777.3,v,,per- + <kota> + -an + -nya,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [34] [SFS] -nya + (<all>)
+100777.4,x,,per- + <kotaan> + -nya,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [34] [SFS] -nya + (<all>)
+100777.5,x,,<perkota> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+100778,k,193,perkreditan,dasar,
+100778.1,v,,per- + <kredit> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100778.2,x,,per- + <kreditan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100778.3,x,,<perkredit> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100779,v,168,perkuat,dasar,
+100779.1,v,,per- + <kuat>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+,,,,,
+100780,v,41,perkuatan,dasar,
+100780.1,v,,per- + <kuat> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100780.2,x,,per- + <kuatan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100780.3,x,,<perkuat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100781,k,9,perkubuan,dasar,
+100781.1,v,,per- + <kubu> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100781.2,x,,per- + <kubuan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100781.3,x,,<perkubu> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100782,k,11,perkuburan,dasar,
+100782.1,v,,per- + <kubur> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100782.2,x,,per- + <kuburan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100782.3,x,,<perkubur> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100783,k,0,perkudaan,dasar,
+100783.1,v,,per- + <kuda> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100783.2,x,,per- + <kudaan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100783.3,x,,<perkuda> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100784,t,2,perkukuhkan,dasar,pengukuhan
+100784.1,x,,per- + <kukuhk> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100784.2,v,,per- + <kukuh> + -kan,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100784.3,x,,per- + <kukuhkan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100784.4,x,,<perkukuh> + -kan,bentukan,[29] [S] -kan + (<all>)
+100784.5,x,,<perkukuhk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100785,k,9,perkulakan,dasar,
+100785.1,v,,per- + <kulak> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100785.2,x,,per- + <kula> + -kan,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100785.3,x,,per- + <kulakan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100785.4,x,,<perkula> + -kan,bentukan,[29] [S] -kan + (<all>)
+100785.5,x,,<perkulak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100786,k,200,perkuliahan,dasar,
+100786.1,v,,per- + <kuliah> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100786.2,x,,per- + <kuliahan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100786.3,x,,<perkuliah> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100787,v,2,perkuliahanku,dasar,
+100787.1,x,,per- + <kuliahanku>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100787.2,x,,<perkuliahan> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+100787.3,v,,per- + <kuliah> + -an + -ku,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [32] [SFS] -ku + (<all>)
+100787.4,x,,per- + <kuliahan> + -ku,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [32] [SFS] -ku + (<all>)
+100787.5,x,,<perkuliah> + -an + -ku,bentukan,[38] [S] -an + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+100788,v,11,perkuliahannya,dasar,
+100788.1,x,,per- + <kuliahannya>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100788.2,x,,<perkuliahan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+100788.3,v,,per- + <kuliah> + -an + -nya,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [34] [SFS] -nya + (<all>)
+100788.4,x,,per- + <kuliahan> + -nya,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [34] [SFS] -nya + (<all>)
+100788.5,x,,<perkuliah> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+100789,k,0,perkulitan,dasar,
+100789.1,v,,per- + <kulit> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100789.2,x,,per- + <kulitan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100789.3,x,,<perkulit> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100790,k,374,perkumpulan,dasar,
+100790.1,v,,per- + <kumpul> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100790.2,x,,per- + <kumpulan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100790.3,x,,<perkumpul> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100791,k,0,perkumpulan kematian,dasar,
+100791.1,x,,per- + <kumpulan kemati> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100791.2,x,,per- + <kumpulan kematian>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100791.3,x,,<perkumpulan kemati> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100792,v,14,perkumpulan-perkumpulan,dasar,
+100792.1,x,,<perkumpulan> [-] <r>,bentukan,[23] [RD] |
+100792.2,v,,per- + <kumpul> + -an [-] per- + <r> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [23] [RD] |
+100792.3,x,,per- + <kumpulan> [-] per- + <r>,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [23] [RD] |
+100792.4,x,,<perkumpul> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+100793,v,4,perkumpulannya,dasar,
+100793.1,x,,per- + <kumpulannya>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100793.2,x,,<perkumpulan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+100793.3,v,,per- + <kumpul> + -an + -nya,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [34] [SFS] -nya + (<all>)
+100793.4,x,,per- + <kumpulan> + -nya,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [34] [SFS] -nya + (<all>)
+100793.5,x,,<perkumpul> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+100794,k,22,perkusi,dasar,
+100794.1,x,,per- + <kus> + -i,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100794.2,x,,per- + <kusi>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100794.3,x,,<perkus> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+100795,k,19,perkutut,dasar,
+100795.1,x,,per- + <kutut>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+,,,,,
+100796,k,0,perkutut jawa,dasar,
+100796.1,x,,per- + <kutut jawa>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+,,,,,
+100797,v,2,perkututnya,dasar,
+100797.1,x,,per- + <kututnya>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100797.2,v,,<perkutut> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+100797.3,x,,per- + <kutut> + -nya,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [34] [SFS] -nya + (<all>)
+,,,,,
+100798,k,18,perladangan,dasar,
+100798.1,v,,per- + <ladang> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100798.2,x,,per- + <ladangan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100798.3,x,,<perladang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100799,k,0,perlagaan,dasar,
+100799.1,v,,per- + <laga> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100799.2,x,,per- + <lagaan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100799.3,x,,<perlaga> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100800,k,1024,perlahan,dasar,
+100800.1,x,,per- + <lah> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100800.2,x,,per- + <lahan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100800.3,x,,<perlah> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100801,k,305,perlahan-lahan,dasar,
+100801.1,x,,<[perlahan:perlahan-lahan]>,bentukan,[Reduplication-Dwiwasana]
+100801.2,x,,per- + <lah> [-] <r> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [59] [RD] per-|
+100801.3,v,,per- + <lahan> [-] <r>,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [59] [RD] per-|
+,,,,,
+100802,k,0,perlainan,dasar,
+100802.1,v,,per- + <lain> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100802.2,x,,per- + <lainan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100802.3,x,,<perlain> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100803,k,0,perlajuan,dasar,
+100803.1,v,,per- + <laju> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100803.2,x,,per- + <lajuan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100803.3,x,,<perlaju> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100804,k,4,perlak,dasar,
+100804.1,x,,per- + <lak>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+,,,,,
+100805,k,1321,perlakuan,dasar,
+100805.1,v,,per- + <laku> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100805.2,x,,per- + <lakuan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100805.3,x,,<perlaku> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100806,k,0,perlakuan kanak,dasar,
+100806.1,x,,per- + <lakuan kanak>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+,,,,,
+100807,v,10,perlakuan-perlakuan,dasar,
+100807.1,x,,<perlakuan> [-] <r>,bentukan,[23] [RD] |
+100807.2,v,,per- + <laku> + -an [-] per- + <r> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [23] [RD] |
+100807.3,x,,per- + <lakuan> [-] per- + <r>,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [23] [RD] |
+100807.4,x,,<perlaku> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+100808,v,3,perlakuanmu,dasar,
+100808.1,x,,per- + <lakuanmu>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100808.2,x,,<perlakuan> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+100808.3,v,,per- + <laku> + -an + -mu,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [33] [SFS] -mu + (<all>)
+100808.4,x,,per- + <lakuan> + -mu,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [33] [SFS] -mu + (<all>)
+100808.5,x,,<perlaku> + -an + -mu,bentukan,[38] [S] -an + (<all>) => [33] [SFS] -mu + (<all>)
+,,,,,
+100809,v,26,perlakuannya,dasar,
+100809.1,x,,per- + <lakuannya>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100809.2,x,,<perlakuan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+100809.3,v,,per- + <laku> + -an + -nya,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [34] [SFS] -nya + (<all>)
+100809.4,x,,per- + <lakuan> + -nya,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [34] [SFS] -nya + (<all>)
+100809.5,x,,<perlaku> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+100810,v,97,perlakukan,dasar,
+100810.1,x,,per- + <lakuk> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100810.2,v,,per- + <laku> + -kan,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100810.3,x,,per- + <lakukan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100810.4,x,,<perlaku> + -kan,bentukan,[29] [S] -kan + (<all>)
+100810.5,x,,<perlakuk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100811,v,5,perlakukanlah,dasar,
+100811.1,x,,per- + <lakukanlah>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100811.2,x,,<perlakukan> + -lah,bentukan,[31] [FS] -lah + (<all>)
+100811.3,x,,per- + <lakuk> + -an + -lah,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [31] [FS] -lah + (<all>)
+100811.4,v,,per- + <laku> + -kan + -lah,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [31] [FS] -lah + (<all>)
+100811.5,x,,per- + <lakukan> + -lah,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [31] [FS] -lah + (<all>)
+100811.6,x,,<perlaku> + -kan + -lah,bentukan,[29] [S] -kan + (<all>) => [31] [FS] -lah + (<all>)
+100811.7,x,,<perlakuk> + -an + -lah,bentukan,[38] [S] -an + (<all>) => [31] [FS] -lah + (<all>)
+,,,,,
+100812,k,0,perlalulintasan,dasar,
+100812.1,v,,per- + <lalulintas> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100812.2,x,,per- + <lalulintasan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100812.3,x,,<perlalulintas> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100813,k,44,perlambang,dasar,
+100813.1,v,,per- + <lambang>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+,,,,,
+100814,v,6,perlambangan,dasar,
+100814.1,v,,per- + <lambang> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100814.2,x,,per- + <lambangan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100814.3,x,,<perlambang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100815,v,6,perlambat,dasar,
+100815.1,v,,per- + <lambat>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+,,,,,
+100816,k,166,perlambatan,dasar,
+100816.1,v,,per- + <lambat> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100816.2,x,,per- + <lambatan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100816.3,x,,<perlambat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100817,k,0,perlampuan,dasar,
+100817.1,v,,per- + <lampu> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100817.2,x,,per- + <lampuan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100817.3,x,,<perlampu> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100818,k,0,perlanggaran,dasar,
+100818.1,v,,per- + <langgar> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100818.2,x,,per- + <langgaran>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100818.3,x,,<perlanggar> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100819,k,0,perlangkahan,dasar,
+100819.1,v,,per- + <langkah> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100819.2,x,,per- + <langkahan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100819.3,x,,<perlangkah> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100820,k,0,perlangsungan,dasar,
+100820.1,v,,per- + <langsung> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100820.2,x,,per- + <langsungan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100820.3,x,,<perlangsung> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100821,k,0,perlanjutan,dasar,
+100821.1,v,,per- + <lanjut> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100821.2,x,,per- + <lanjutan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100821.3,x,,<perlanjut> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100822,k,0,perlanjutan jenis,dasar,
+100822.1,x,,per- + <lanjutan jenis>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100822.2,x,,<perlanjutan jeni> + [-is:-s],bentukan,[177] [S] -is + (i)
+100822.3,x,,<perlanjutan jen> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+100823,t,2,perlantikan,dasar,pelantikan
+100823.1,v,,per- + <lantik> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100823.2,x,,per- + <lanti> + -kan,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100823.3,x,,per- + <lantikan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100823.4,x,,<perlanti> + -kan,bentukan,[29] [S] -kan + (<all>)
+100823.5,x,,<perlantik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100824,t,3,perlapisan,dasar,pelapisan
+100824.1,v,,per- + <lapis> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100824.2,x,,per- + <lapisan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100824.3,x,,<perlapis> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100825,k,619,perlawanan,dasar,
+100825.1,v,,per- + <lawan> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100825.2,x,,per- + <lawanan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100825.3,x,,<perlawan> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100826,v,8,perlawanan-perlawanan,dasar,
+100826.1,x,,<perlawanan> [-] <r>,bentukan,[23] [RD] |
+100826.2,v,,per- + <lawan> + -an [-] per- + <r> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [23] [RD] |
+100826.3,x,,per- + <lawanan> [-] per- + <r>,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [23] [RD] |
+100826.4,x,,<perlawan> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+100827,v,4,perlawananku,dasar,
+100827.1,x,,per- + <lawananku>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100827.2,x,,<perlawanan> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+100827.3,v,,per- + <lawan> + -an + -ku,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [32] [SFS] -ku + (<all>)
+100827.4,x,,per- + <lawanan> + -ku,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [32] [SFS] -ku + (<all>)
+100827.5,x,,<perlawan> + -an + -ku,bentukan,[38] [S] -an + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+100828,v,18,perlawanannya,dasar,
+100828.1,x,,per- + <lawanannya>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100828.2,x,,<perlawanan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+100828.3,v,,per- + <lawan> + -an + -nya,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [34] [SFS] -nya + (<all>)
+100828.4,x,,per- + <lawanan> + -nya,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [34] [SFS] -nya + (<all>)
+100828.5,x,,<perlawan> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+100829,k,7,perlawatan,dasar,
+100829.1,v,,per- + <lawat> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100829.2,x,,per- + <lawatan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100829.3,x,,<perlawat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100830,v,5,perlawatannya,dasar,
+100830.1,x,,per- + <lawatannya>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100830.2,x,,<perlawatan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+100830.3,v,,per- + <lawat> + -an + -nya,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [34] [SFS] -nya + (<all>)
+100830.4,x,,per- + <lawatan> + -nya,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [34] [SFS] -nya + (<all>)
+100830.5,x,,<perlawat> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+100831,t,2,perlayanan,dasar,pelayanan
+100831.1,x,,per- + <layan> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100831.2,x,,per- + <layanan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100831.3,x,,<perlayan> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100832,k,2,perlebahan,dasar,
+100832.1,v,,per- + <lebah> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100832.2,x,,per- + <lebahan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100832.3,x,,<perlebah> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100833,k,25,perlekatan,dasar,
+100833.1,v,,per- + <lekat> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100833.2,x,,per- + <lekatan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100833.3,x,,<perlekat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100834,v,2,perlekatannya,dasar,
+100834.1,x,,per- + <lekatannya>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100834.2,x,,<perlekatan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+100834.3,v,,per- + <lekat> + -an + -nya,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [34] [SFS] -nya + (<all>)
+100834.4,x,,per- + <lekatan> + -nya,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [34] [SFS] -nya + (<all>)
+100834.5,x,,<perlekat> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+100835,k,0,perlelangan,dasar,
+100835.1,v,,per- + <lelang> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100835.2,x,,per- + <lelangan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100835.3,x,,<perlelang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100836,v,3,perlemahan,dasar,
+100836.1,v,,per- + <lemah> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100836.2,x,,per- + <lemahan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100836.3,x,,<perlemah> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100837,v,6,perlemakan,dasar,
+100837.1,v,,per- + <lemak> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100837.2,x,,per- + <lema> + -kan,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100837.3,x,,per- + <lemakan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100837.4,x,,<perlema> + -kan,bentukan,[29] [S] -kan + (<all>)
+100837.5,x,,<perlemak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100838,k,0,perlembagaan,dasar,
+100838.1,v,,per- + <lembaga> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100838.2,x,,per- + <lembagaan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100838.3,x,,<perlembaga> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100839,t,4,perlembar,dasar,per lembar
+100839.1,x,,per- + <lembar>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+,,,,,
+100840,t,4,perlemen,dasar,parlemen
+100840.1,x,,per- + <lemen>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+,,,,,
+100841,t,2,perlementer,dasar,parlementer
+100841.1,x,,per- + <lementer>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+,,,,,
+100842,v,2,perlendiran,dasar,
+100842.1,v,,per- + <lendir> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100842.2,x,,per- + <lendiran>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100842.3,x,,<perlendir> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100843,k,0,perleng,dasar,
+100843.1,x,,per- + <leng>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+,,,,,
+100844,k,648,perlengkapan,dasar,
+100844.1,v,,per- + <lengkap> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100844.2,x,,per- + <lengkapan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100844.3,x,,<perlengkap> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100845,k,0,perlengkapan bawaan,dasar,
+100845.1,x,,per- + <lengkapan bawa> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100845.2,x,,per- + <lengkapan bawaan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100845.3,x,,<perlengkapan bawa> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100846,k,0,perlengkapan pemain,dasar,
+100846.1,x,,per- + <lengkapan pemain>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+,,,,,
+100847,v,2,perlengkapan-perlengkapan,dasar,
+100847.1,x,,<perlengkapan> [-] <r>,bentukan,[23] [RD] |
+100847.2,v,,per- + <lengkap> + -an [-] per- + <r> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [23] [RD] |
+100847.3,x,,per- + <lengkapan> [-] per- + <r>,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [23] [RD] |
+100847.4,x,,<perlengkap> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+100848,v,73,perlengkapannya,dasar,
+100848.1,x,,per- + <lengkapannya>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100848.2,x,,<perlengkapan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+100848.3,v,,per- + <lengkap> + -an + -nya,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [34] [SFS] -nya + (<all>)
+100848.4,x,,per- + <lengkapan> + -nya,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [34] [SFS] -nya + (<all>)
+100848.5,x,,<perlengkap> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+100849,v,5,perlengketan,dasar,
+100849.1,v,,per- + <lengket> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100849.2,x,,per- + <lengketan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100849.3,x,,<perlengket> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100850,k,20,perlente,dasar,
+100850.1,x,,per- + <lente>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+,,,,,
+100851,k,0,perlenteh,dasar,
+100851.1,x,,per- + <lenteh>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+,,,,,
+100852,k,12,perletakan,dasar,
+100852.1,v,,per- + <letak> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100852.2,x,,per- + <leta> + -kan,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100852.3,x,,per- + <letakan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100852.4,x,,<perleta> + -kan,bentukan,[29] [S] -kan + (<all>)
+100852.5,x,,<perletak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100853,v,3,perletakannya,dasar,
+100853.1,x,,per- + <letakannya>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100853.2,x,,<perletakan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+100853.3,v,,per- + <letak> + -an + -nya,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [34] [SFS] -nya + (<all>)
+100853.4,x,,per- + <leta> + -kan + -nya,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [34] [SFS] -nya + (<all>)
+100853.5,x,,per- + <letakan> + -nya,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [34] [SFS] -nya + (<all>)
+100853.6,x,,<perleta> + -kan + -nya,bentukan,[29] [S] -kan + (<all>) => [34] [SFS] -nya + (<all>)
+100853.7,x,,<perletak> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+100854,k,0,perli,dasar,
+100854.1,x,,per- + <l> + -i,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100854.2,x,,per- + <li>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100854.3,x,,<perl> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+100855,k,0,perlian,dasar,
+100855.1,x,,per- + <li> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100855.2,x,,per- + <lian>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100855.3,v,,<perli> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100856,t,4,perlibatan,dasar,pelibatan
+100856.1,v,,per- + <libat> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100856.2,x,,per- + <libatan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100856.3,x,,<perlibat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100857,k,61,perlihatkan,dasar,
+100857.1,x,,per- + <lihatk> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100857.2,v,,per- + <lihat> + -kan,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100857.3,x,,per- + <lihatkan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100857.4,x,,<perlihat> + -kan,bentukan,[29] [S] -kan + (<all>)
+100857.5,x,,<perlihatk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100858,v,9,perlima,dasar,
+100858.1,x,,per- + <lima>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+,,,,,
+100859,k,0,perlina,dasar,
+100859.1,x,,per- + <lina>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+,,,,,
+100860,k,2300,perlindungan,dasar,
+100860.1,v,,per- + <lindung> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100860.2,x,,per- + <lindungan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100860.3,x,,<perlindung> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100861,k,0,perlindungan anak,dasar,
+100861.1,x,,per- + <lindungan anak>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+,,,,,
+100862,k,0,perlindungan badan,dasar,
+100862.1,x,,per- + <lindungan bad> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100862.2,x,,per- + <lindungan badan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100862.3,x,,<perlindungan bad> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100863,k,0,perlindungan hutan,dasar,
+100863.1,x,,per- + <lindungan hut> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100863.2,x,,per- + <lindungan hutan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100863.3,x,,<perlindungan hut> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100864,k,0,perlindungan khusus,dasar,
+100864.1,x,,per- + <lindungan khusus>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+,,,,,
+100865,k,0,perlindungan lingkungan hidup,dasar,
+100865.1,x,,per- + <lindungan lingkungan hidup>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+,,,,,
+100866,v,14,perlindungannya,dasar,
+100866.1,x,,per- + <lindungannya>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100866.2,x,,<perlindungan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+100866.3,v,,per- + <lindung> + -an + -nya,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [34] [SFS] -nya + (<all>)
+100866.4,x,,per- + <lindungan> + -nya,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [34] [SFS] -nya + (<all>)
+100866.5,x,,<perlindung> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+100867,k,0,perling,dasar,
+100867.1,x,,per- + <ling>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+,,,,,
+100868,k,60,perlintasan,dasar,
+100868.1,v,,per- + <lintas> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100868.2,x,,per- + <lintasan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100868.3,x,,<perlintas> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100869,c,0,perlintih,dasar,parlenteh
+100869.1,x,,per- + <lintih>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+,,,,,
+100870,k,0,perlip,dasar,
+100870.1,x,,per- + <lip>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+,,,,,
+100871,k,0,perlip-perlipan,dasar,
+100871.1,v,,<perlip> [-] <r> + -an,bentukan,[23] [RD] |
+100871.2,x,,per- + <lip> [-] per- + <r> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [23] [RD] |
+,,,,,
+100872,k,0,perlipatan,dasar,
+100872.1,v,,per- + <lipat> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100872.2,x,,per- + <lipatan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100872.3,x,,<perlipat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100873,k,9,perlistrikan,dasar,
+100873.1,v,,per- + <listrik> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100873.2,x,,per- + <listri> + -kan,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100873.3,x,,per- + <listrikan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100873.4,x,,<perlistri> + -kan,bentukan,[29] [S] -kan + (<all>)
+100873.5,x,,<perlistrik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100874,k,8,perlit,dasar,
+100874.1,x,,per- + <lit>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+,,,,,
+100875,t,2,perliter,dasar,per liter
+100875.1,x,,per- + <liter>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+,,,,,
+100876,t,4,perloe,dasar,perlu
+100876.1,x,,per- + <loe>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+,,,,,
+100877,v,5,perlokusi,dasar,
+100877.1,x,,per- + <lokus> + -i,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100877.2,x,,per- + <lokusi>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100877.3,x,,<perlokus> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+100878,k,255,perlombaan,dasar,
+100878.1,v,,per- + <lomba> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100878.2,x,,per- + <lombaan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100878.3,x,,<perlomba> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100879,k,0,perlombaan senjata,dasar,
+100879.1,x,,per- + <lombaan senjata>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+,,,,,
+100880,v,3,perlombaan-perlombaan,dasar,
+100880.1,x,,<perlombaan> [-] <r>,bentukan,[23] [RD] |
+100880.2,v,,per- + <lomba> + -an [-] per- + <r> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [23] [RD] |
+100880.3,x,,per- + <lombaan> [-] per- + <r>,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [23] [RD] |
+100880.4,x,,<perlomba> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+100881,v,2,perlombaannya,dasar,
+100881.1,x,,per- + <lombaannya>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100881.2,x,,<perlombaan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+100881.3,v,,per- + <lomba> + -an + -nya,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [34] [SFS] -nya + (<all>)
+100881.4,x,,per- + <lombaan> + -nya,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [34] [SFS] -nya + (<all>)
+100881.5,x,,<perlomba> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+100882,k,4,perlop,dasar,
+100882.1,x,,per- + <lop>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+,,,,,
+100883,k,12037,perlu,dasar,
+100883.1,x,,per- + <lu>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+,,,,,
+100884,v,42,perluas,dasar,
+100884.1,v,,per- + <luas>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+,,,,,
+100885,k,740,perluasan,dasar,
+100885.1,v,,per- + <luas> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100885.2,x,,per- + <luasan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100885.3,x,,<perluas> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100886,k,0,perluasan kewajiban,dasar,
+100886.1,x,,per- + <luasan kewajib> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100886.2,x,,per- + <luasan kewajiban>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100886.3,x,,<perluasan kewajib> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100887,v,7,perluasannya,dasar,
+100887.1,x,,per- + <luasannya>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100887.2,x,,<perluasan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+100887.3,v,,per- + <luas> + -an + -nya,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [34] [SFS] -nya + (<all>)
+100887.4,x,,per- + <luasan> + -nya,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [34] [SFS] -nya + (<all>)
+100887.5,x,,<perluas> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+100888,v,4,perluaslah,dasar,
+100888.1,x,,per- + <luaslah>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100888.2,x,,<perluas> + -lah,bentukan,[31] [FS] -lah + (<all>)
+100888.3,v,,per- + <luas> + -lah,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [31] [FS] -lah + (<all>)
+,,,,,
+100889,v,2,perlubangan,dasar,
+100889.1,v,,per- + <lubang> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100889.2,x,,per- + <lubangan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100889.3,x,,<perlubang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100890,v,4,perlucutan,dasar,
+100890.1,v,,per- + <lucut> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100890.2,x,,per- + <lucutan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100890.3,x,,<perlucut> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100891,k,13,perlukaan,dasar,
+100891.1,v,,per- + <luka> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100891.2,x,,per- + <lukaan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100891.3,x,,<perluka> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100892,v,47,perlukah,dasar,
+100892.1,x,,per- + <lukah>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100892.2,v,,<perlu> + -kah,bentukan,[30] [FS] -kah + (<all>)
+100892.3,x,,per- + <lu> + -kah,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [30] [FS] -kah + (<all>)
+,,,,,
+100893,v,119,perlukan,dasar,
+100893.1,x,,per- + <luk> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100893.2,x,,per- + <lu> + -kan,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100893.3,x,,per- + <lukan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100893.4,v,,<perlu> + -kan,bentukan,[29] [S] -kan + (<all>)
+100893.5,x,,<perluk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100894,v,45,perlulah,dasar,
+100894.1,x,,per- + <lulah>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100894.2,v,,<perlu> + -lah,bentukan,[31] [FS] -lah + (<all>)
+100894.3,x,,per- + <lu> + -lah,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [31] [FS] -lah + (<all>)
+,,,,,
+100895,v,659,perlunya,dasar,
+100895.1,x,,per- + <lunya>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100895.2,v,,<perlu> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+100895.3,x,,per- + <lu> + -nya,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [34] [SFS] -nya + (<all>)
+,,,,,
+100896,k,0,perlup,dasar,
+100896.1,x,,per- + <lup>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+,,,,,
+100897,k,0,perlus,dasar,
+100897.1,x,,per- + <lus>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+,,,,,
+100898,k,0,perlusidus,dasar,
+100898.1,x,,per- + <lusidus>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+,,,,,
+100899,k,0,permaafan,dasar,
+100899.1,v,,per- + <maaf> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100899.2,x,,per- + <maafan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100899.3,x,,<permaaf> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100900,k,38,permadani,dasar,
+100900.1,x,,per- + <madan> + -i,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100900.2,x,,per- + <madani>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100900.3,x,,<permadan> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+100901,k,0,permaduan,dasar,
+100901.1,v,,per- + <madu> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100901.2,x,,per- + <maduan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100901.3,x,,<permadu> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100902,k,0,permafiaan,dasar,
+100902.1,v,,per- + <mafia> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100902.2,x,,per- + <mafiaan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100902.3,x,,<permafia> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100903,k,0,permahadutaan,dasar,
+100903.1,v,,per- + <mahaduta> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100903.2,x,,per- + <mahadutaan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100903.3,x,,<permahaduta> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100904,k,84,permai,dasar,
+100904.1,x,,per- + <ma> + -i,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100904.2,x,,per- + <mai>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100904.3,x,,<perma> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+100905,k,1311,permainan,dasar,
+100905.1,v,,per- + <main> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100905.2,x,,per- + <mainan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100905.3,x,,<permain> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100906,k,0,permainan 17 set,dasar,
+100906.1,x,,per- + <mainan 17 set>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+,,,,,
+100907,k,0,permainan arkade,dasar,
+100907.1,x,,per- + <mainan arkade>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+,,,,,
+100908,k,0,permainan hati,dasar,
+100908.1,x,,per- + <mainan hat> + -i,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100908.2,x,,per- + <mainan hati>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100908.3,x,,<permainan hat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+100909,k,0,permainan jumlah-nol,dasar,
+,,,,,
+100910,k,0,permainan lima set,dasar,
+100910.1,x,,per- + <mainan lima set>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+,,,,,
+100911,k,0,permainan papan,dasar,
+100911.1,x,,per- + <mainan pap> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100911.2,x,,per- + <mainan papan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100911.3,x,,<permainan pap> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100912,k,0,permainan pengembangan,dasar,
+100912.1,x,,per- + <mainan pengembang> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100912.2,x,,per- + <mainan pengembangan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100912.3,x,,<permainan pengembang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100913,k,0,permainan selesai,dasar,
+100913.1,x,,per- + <mainan selesa> + -i,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100913.2,x,,per- + <mainan selesai>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100913.3,x,,<permainan selesa> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+100914,k,0,permainan tiga set,dasar,
+100914.1,x,,per- + <mainan tiga set>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+,,,,,
+100915,v,14,permainan-permainan,dasar,
+100915.1,x,,<permainan> [-] <r>,bentukan,[23] [RD] |
+100915.2,v,,per- + <main> + -an [-] per- + <r> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [23] [RD] |
+100915.3,x,,per- + <mainan> [-] per- + <r>,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [23] [RD] |
+100915.4,x,,<permain> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+100916,v,4,permainanku,dasar,
+100916.1,x,,per- + <mainanku>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100916.2,x,,<permainan> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+100916.3,v,,per- + <main> + -an + -ku,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [32] [SFS] -ku + (<all>)
+100916.4,x,,per- + <mainan> + -ku,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [32] [SFS] -ku + (<all>)
+100916.5,x,,<permain> + -an + -ku,bentukan,[38] [S] -an + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+100917,v,4,permainanmu,dasar,
+100917.1,x,,per- + <mainanmu>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100917.2,x,,<permainan> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+100917.3,v,,per- + <main> + -an + -mu,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [33] [SFS] -mu + (<all>)
+100917.4,x,,per- + <mainan> + -mu,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [33] [SFS] -mu + (<all>)
+100917.5,x,,<permain> + -an + -mu,bentukan,[38] [S] -an + (<all>) => [33] [SFS] -mu + (<all>)
+,,,,,
+100918,v,95,permainannya,dasar,
+100918.1,x,,per- + <mainannya>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100918.2,x,,<permainan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+100918.3,v,,per- + <main> + -an + -nya,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [34] [SFS] -nya + (<all>)
+100918.4,x,,per- + <mainan> + -nya,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [34] [SFS] -nya + (<all>)
+100918.5,x,,<permain> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+100919,v,10,permainkan,dasar,
+100919.1,x,,per- + <maink> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100919.2,v,,per- + <main> + -kan,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100919.3,x,,per- + <mainkan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100919.4,x,,<permain> + -kan,bentukan,[29] [S] -kan + (<all>)
+100919.5,x,,<permaink> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100920,k,31,permaisuri,dasar,
+100920.1,x,,per- + <maisur> + -i,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100920.2,x,,per- + <maisuri>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100920.3,x,,<permaisur> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+100921,v,2,permaisuriku,dasar,
+100921.1,x,,per- + <maisuriku>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100921.2,v,,<permaisuri> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+100921.3,x,,per- + <maisur> + -i + -ku,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [32] [SFS] -ku + (<all>)
+100921.4,x,,per- + <maisuri> + -ku,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [32] [SFS] -ku + (<all>)
+100921.5,x,,<permaisur> + -i + -ku,bentukan,[28] [S] -i + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+100922,v,13,permaisurinya,dasar,
+100922.1,x,,per- + <maisurinya>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100922.2,v,,<permaisuri> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+100922.3,x,,per- + <maisur> + -i + -nya,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [34] [SFS] -nya + (<all>)
+100922.4,x,,per- + <maisuri> + -nya,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [34] [SFS] -nya + (<all>)
+100922.5,x,,<permaisur> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+100923,k,5,permak,dasar,
+100923.1,x,,per- + <mak>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+,,,,,
+100924,k,26,permakaman,dasar,
+100924.1,v,,per- + <makam> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100924.2,x,,per- + <makaman>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100924.3,x,,<permakam> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100925,k,3,permakanan,dasar,
+100925.1,v,,per- + <makan> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100925.2,x,,per- + <makanan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100925.3,x,,<permakan> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100926,k,0,permakultur,dasar,
+100926.1,x,,per- + <makultur>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100926.2,x,,<perma> + -kultur,bentukan,[204] [S] -kultur + (<all>)
+,,,,,
+100927,t,2,permakzulan,dasar,pemakzulan
+100927.1,x,,per- + <makzul> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100927.2,x,,per- + <makzulan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100927.3,x,,<permakzul> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100928,k,0,permalaman,dasar,
+100928.1,v,,per- + <malam> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100928.2,x,,per- + <malaman>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100928.3,x,,<permalam> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100929,k,0,permalim,dasar,
+100929.1,x,,per- + <malim>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+,,,,,
+100930,k,0,permalin,dasar,
+100930.1,x,,per- + <malin>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+,,,,,
+100931,v,3,permalukan,dasar,
+100931.1,x,,per- + <maluk> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100931.2,v,,per- + <malu> + -kan,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100931.3,x,,per- + <malukan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100931.4,x,,<permalu> + -kan,bentukan,[29] [S] -kan + (<all>)
+100931.5,x,,<permaluk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100932,k,58,permana,dasar,
+100932.1,x,,per- + <mana>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+,,,,,
+100933,k,7,permandian,dasar,
+100933.1,v,,per- + <mandi> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100933.2,x,,per- + <mandian>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100933.3,x,,<permandi> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100934,k,561,permanen,dasar,
+100934.1,x,,per- + <manen>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+,,,,,
+100935,t,33,permanent,dasar,permanen
+100935.1,x,,per- + <manent>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+,,,,,
+100936,k,7,permanganat,dasar,
+100936.1,x,,per- + <manganat>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+,,,,,
+100937,k,0,permanjungan,dasar,
+100937.1,v,,per- + <manjung> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100937.2,x,,per- + <manjungan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100937.3,x,,<permanjung> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100938,t,3,permarkah,dasar,
+100938.1,x,,per- + <markah>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100938.2,x,,<permar> + -kah,bentukan,[30] [FS] -kah + (<all>)
+100938.3,x,,per- + <mar> + -kah,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [30] [FS] -kah + (<all>)
+,,,,,
+100939,t,35,permasalah,dasar,per masalah
+100939.1,x,,per- + <masalah>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100939.2,x,,<permasa> + -lah,bentukan,[31] [FS] -lah + (<all>)
+100939.3,x,,per- + <masa> + -lah,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [31] [FS] -lah + (<all>)
+,,,,,
+100940,k,2553,permasalahan,dasar,
+100940.1,v,,per- + <masalah> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100940.2,x,,per- + <masalahan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100940.3,x,,<permasalah> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100941,k,0,permasalahan derajat kebebasan,dasar,
+100941.1,x,,per- + <masalahan derajat kebebas> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100941.2,x,,per- + <masalahan derajat kebebasan>,bentukan,[19] per- + (<others>) + (-i;-an;-kan)
+100941.3,x,,<permasalahan derajat kebebas> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+100942,v,87,permasalahan-permasalahan,dasar,
+100942.1,x,,<permasalahan> [-] <r>,bentukan,[23] [RD] |
+100942.2,v,,per- + <masalah> + -an [-] per- + <r> + -an,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [23] [RD] |
+100942.3,x,,per- + <masalahan> [-] per- + <r>,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [23] [RD] |
+100942.4,x,,<permasalah> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+100943,v,2,permasalahan-permasalahannya,dasar,
+100943.1,x,,<permasalahan> [-] <r> + -nya,bentukan,[23] [RD] |
+100943.2,v,,per- + <masalah> + -an [-] per- + <r> + -an + -nya,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [23] [RD] |
+100943.3,x,,per- + <masalahan> [-] per- + <r> + -nya,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [23] [RD] |
+100943.4,x,,<permasalah> + -an [-] <r> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+100943.5,x,,<permasalahan> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+100943.6,v,,per- + <masalah> + -an [-] per- + <r> + -an + -nya,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [23] [RD] | => [34] [SFS] -nya + (<all>)
+100943.7,x,,per- + <masalahan> [-] per- + <r> + -nya,bentukan,[19] per- + (<others>) + (-i;-an;-kan) => [23] [RD] | => [34] [SFS] -nya + (<all>)
+100943.8,x,,<permasalah> + -an [-] <r> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [23] [RD] | => [34] [SFS] -nya + (<all>)

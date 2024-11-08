@@ -1,0 +1,1146 @@
+Nomor,KP,Jumlah,Entri,Tipe,Pembentukan
+75063,k,0,menganjung-anjung,dasar,
+75063.1,v,,meng- + <anjung> [-] <r>,bentukan,[5] [VD] meng- + (<all>) => [25] [RD] meng-|
+,,,,,
+75064,k,0,menganjung-anjungkan,dasar,
+75064.1,v,,meng- + <anjung> [-] <r> + -kan,bentukan,[5] [VD] meng- + (<all>) => [25] [RD] meng-|
+,,,,,
+75065,k,0,menganjungkan,dasar,
+75065.1,x,,[meng-:me-] + <nganjung> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75065.2,x,,[meng-:me-] + <kanjung> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75065.3,x,,[meng-:me-] + <nganjungkan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75065.4,x,,[meng-:me-] + <kanjungkan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75065.5,v,,meng- + <anjung> + -kan,bentukan,[5] [VD] meng- + (<all>)
+75065.6,x,,meng- + <anjungkan>,bentukan,[5] [VD] meng- + (<all>)
+75065.7,x,,<menganjung> + -kan,bentukan,[29] [S] -kan + (<all>)
+75065.8,x,,<menganjungk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+75066,k,5,menganjur,dasar,
+75066.1,x,,[meng-:me-] + <nganjur>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75066.2,x,,[meng-:me-] + <kanjur>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75066.3,v,,meng- + <anjur>,bentukan,[5] [VD] meng- + (<all>)
+,,,,,
+75067,k,0,menganjur diri,dasar,
+75067.1,x,,[meng-:me-] + <nganjur dir> + -i,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75067.2,x,,[meng-:me-] + <kanjur dir> + -i,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75067.3,x,,[meng-:me-] + <nganjur diri>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75067.4,x,,[meng-:me-] + <kanjur diri>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75067.5,x,,meng- + <anjur dir> + -i,bentukan,[5] [VD] meng- + (<all>)
+75067.6,x,,meng- + <anjur diri>,bentukan,[5] [VD] meng- + (<all>)
+75067.7,x,,<menganjur dir> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+75068,k,0,menganjur surut,dasar,
+75068.1,x,,[meng-:me-] + <nganjur surut>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75068.2,x,,[meng-:me-] + <kanjur surut>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75068.3,x,,meng- + <anjur surut>,bentukan,[5] [VD] meng- + (<all>)
+,,,,,
+75069,k,0,menganjuri,dasar,
+75069.1,x,,[meng-:me-] + <nganjur> + -i,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75069.2,x,,[meng-:me-] + <kanjur> + -i,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75069.3,x,,[meng-:me-] + <nganjuri>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75069.4,x,,[meng-:me-] + <kanjuri>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75069.5,v,,meng- + <anjur> + -i,bentukan,[5] [VD] meng- + (<all>)
+75069.6,x,,meng- + <anjuri>,bentukan,[5] [VD] meng- + (<all>)
+75069.7,x,,<menganjur> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+75070,k,296,menganjurkan,dasar,
+75070.1,x,,[meng-:me-] + <nganjur> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75070.2,x,,[meng-:me-] + <kanjur> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75070.3,x,,[meng-:me-] + <nganjurkan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75070.4,x,,[meng-:me-] + <kanjurkan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75070.5,v,,meng- + <anjur> + -kan,bentukan,[5] [VD] meng- + (<all>)
+75070.6,x,,meng- + <anjurkan>,bentukan,[5] [VD] meng- + (<all>)
+75070.7,x,,<menganjur> + -kan,bentukan,[29] [S] -kan + (<all>)
+75070.8,x,,<menganjurk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+75071,v,3,menganjurkanku,dasar,
+75071.1,x,,[meng-:me-] + <nganjurkanku>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75071.2,x,,[meng-:me-] + <kanjurkanku>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75071.3,x,,meng- + <anjurkanku>,bentukan,[5] [VD] meng- + (<all>)
+75071.4,x,,<menganjurkan> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+75071.5,x,,[meng-:me-] + <nganjur> + -kan + -ku,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [32] [SFS] -ku + (<all>)
+75071.6,x,,[meng-:me-] + <kanjur> + -kan + -ku,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [32] [SFS] -ku + (<all>)
+75071.7,x,,[meng-:me-] + <nganjurkan> + -ku,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [32] [SFS] -ku + (<all>)
+75071.8,x,,[meng-:me-] + <kanjurkan> + -ku,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [32] [SFS] -ku + (<all>)
+75071.9,v,,meng- + <anjur> + -kan + -ku,bentukan,[5] [VD] meng- + (<all>) => [32] [SFS] -ku + (<all>)
+75071.1,x,,meng- + <anjurkan> + -ku,bentukan,[5] [VD] meng- + (<all>) => [32] [SFS] -ku + (<all>)
+75071.11,x,,<menganjur> + -kan + -ku,bentukan,[29] [S] -kan + (<all>) => [32] [SFS] -ku + (<all>)
+75071.12,x,,<menganjurk> + -an + -ku,bentukan,[38] [S] -an + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+75072,v,6,menganjurkannya,dasar,
+75072.1,x,,[meng-:me-] + <nganjurkannya>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75072.2,x,,[meng-:me-] + <kanjurkannya>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75072.3,x,,meng- + <anjurkannya>,bentukan,[5] [VD] meng- + (<all>)
+75072.4,x,,<menganjurkan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+75072.5,x,,[meng-:me-] + <nganjur> + -kan + -nya,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+75072.6,x,,[meng-:me-] + <kanjur> + -kan + -nya,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+75072.7,x,,[meng-:me-] + <nganjurkan> + -nya,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+75072.8,x,,[meng-:me-] + <kanjurkan> + -nya,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+75072.9,v,,meng- + <anjur> + -kan + -nya,bentukan,[5] [VD] meng- + (<all>) => [34] [SFS] -nya + (<all>)
+75072.1,x,,meng- + <anjurkan> + -nya,bentukan,[5] [VD] meng- + (<all>) => [34] [SFS] -nya + (<all>)
+75072.11,x,,<menganjur> + -kan + -nya,bentukan,[29] [S] -kan + (<all>) => [34] [SFS] -nya + (<all>)
+75072.12,x,,<menganjurk> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+75073,k,2,menganonimkan,dasar,
+75073.1,x,,[meng-:me-] + <nganonim> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75073.2,x,,[meng-:me-] + <kanonim> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75073.3,x,,[meng-:me-] + <nganonimkan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75073.4,x,,[meng-:me-] + <kanonimkan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75073.5,v,,meng- + <anonim> + -kan,bentukan,[5] [VD] meng- + (<all>)
+75073.6,x,,meng- + <anonimkan>,bentukan,[5] [VD] meng- + (<all>)
+75073.7,x,,<menganonim> + -kan,bentukan,[29] [S] -kan + (<all>)
+75073.8,x,,<menganonimk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+75074,k,0,mengansel,dasar,
+75074.1,x,,[meng-:me-] + <ngansel>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75074.2,v,,[meng-:me-] + <kansel>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75074.3,x,,meng- + <ansel>,bentukan,[5] [VD] meng- + (<all>)
+,,,,,
+75075,k,0,mengantamir,dasar,
+75075.1,x,,[meng-:me-] + <ngantamir>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75075.2,x,,[meng-:me-] + <kantamir>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75075.3,v,,meng- + <antamir>,bentukan,[5] [VD] meng- + (<all>)
+,,,,,
+75076,k,0,mengantang,dasar,
+75076.1,x,,[meng-:me-] + <ngantang>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75076.2,v,,[meng-:me-] + <kantang>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75076.3,x,,meng- + <antang>,bentukan,[5] [VD] meng- + (<all>)
+,,,,,
+75077,k,0,mengantapkan,dasar,
+75077.1,x,,[meng-:me-] + <ngantap> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75077.2,x,,[meng-:me-] + <kantap> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75077.3,x,,[meng-:me-] + <ngantapkan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75077.4,x,,[meng-:me-] + <kantapkan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75077.5,v,,meng- + <antap> + -kan,bentukan,[5] [VD] meng- + (<all>)
+75077.6,x,,meng- + <antapkan>,bentukan,[5] [VD] meng- + (<all>)
+75077.7,x,,<mengantap> + -kan,bentukan,[29] [S] -kan + (<all>)
+75077.8,x,,<mengantapk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+75078,k,511,mengantar,dasar,
+75078.1,x,,[meng-:me-] + <ngantar>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75078.2,x,,[meng-:me-] + <kantar>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75078.3,v,,meng- + <antar>,bentukan,[5] [VD] meng- + (<all>)
+,,,,,
+75079,d,0,mengantar jemput,dasar,
+75079.1,x,,[meng-:me-] + <ngantar jemput>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75079.2,x,,[meng-:me-] + <kantar jemput>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75079.3,x,,meng- + <antar jemput>,bentukan,[5] [VD] meng- + (<all>)
+,,,,,
+75080,k,0,mengantara,dasar,
+75080.1,x,,[meng-:me-] + <ngantara>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75080.2,x,,[meng-:me-] + <kantara>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75080.3,v,,meng- + <antara>,bentukan,[5] [VD] meng- + (<all>)
+,,,,,
+75081,k,3,mengantarai,dasar,
+75081.1,x,,[meng-:me-] + <ngantara> + -i,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75081.2,x,,[meng-:me-] + <kantara> + -i,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75081.3,x,,[meng-:me-] + <ngantarai>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75081.4,x,,[meng-:me-] + <kantarai>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75081.5,v,,meng- + <antara> + -i,bentukan,[5] [VD] meng- + (<all>)
+75081.6,x,,meng- + <antarai>,bentukan,[5] [VD] meng- + (<all>)
+75081.7,x,,<mengantara> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+75082,k,0,mengantari,dasar,
+75082.1,x,,[meng-:me-] + <ngantar> + -i,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75082.2,x,,[meng-:me-] + <kantar> + -i,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75082.3,x,,[meng-:me-] + <ngantari>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75082.4,x,,[meng-:me-] + <kantari>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75082.5,v,,meng- + <antar> + -i,bentukan,[5] [VD] meng- + (<all>)
+75082.6,x,,meng- + <antari>,bentukan,[5] [VD] meng- + (<all>)
+75082.7,x,,<mengantar> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+75083,k,549,mengantarkan,dasar,
+75083.1,x,,[meng-:me-] + <ngantar> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75083.2,x,,[meng-:me-] + <kantar> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75083.3,x,,[meng-:me-] + <ngantarkan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75083.4,x,,[meng-:me-] + <kantarkan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75083.5,v,,meng- + <antar> + -kan,bentukan,[5] [VD] meng- + (<all>)
+75083.6,x,,meng- + <antarkan>,bentukan,[5] [VD] meng- + (<all>)
+75083.7,x,,<mengantar> + -kan,bentukan,[29] [S] -kan + (<all>)
+75083.8,x,,<mengantark> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+75084,v,10,mengantarkanku,dasar,
+75084.1,x,,[meng-:me-] + <ngantarkanku>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75084.2,x,,[meng-:me-] + <kantarkanku>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75084.3,x,,meng- + <antarkanku>,bentukan,[5] [VD] meng- + (<all>)
+75084.4,x,,<mengantarkan> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+75084.5,x,,[meng-:me-] + <ngantar> + -kan + -ku,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [32] [SFS] -ku + (<all>)
+75084.6,x,,[meng-:me-] + <kantar> + -kan + -ku,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [32] [SFS] -ku + (<all>)
+75084.7,x,,[meng-:me-] + <ngantarkan> + -ku,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [32] [SFS] -ku + (<all>)
+75084.8,x,,[meng-:me-] + <kantarkan> + -ku,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [32] [SFS] -ku + (<all>)
+75084.9,v,,meng- + <antar> + -kan + -ku,bentukan,[5] [VD] meng- + (<all>) => [32] [SFS] -ku + (<all>)
+75084.1,x,,meng- + <antarkan> + -ku,bentukan,[5] [VD] meng- + (<all>) => [32] [SFS] -ku + (<all>)
+75084.11,x,,<mengantar> + -kan + -ku,bentukan,[29] [S] -kan + (<all>) => [32] [SFS] -ku + (<all>)
+75084.12,x,,<mengantark> + -an + -ku,bentukan,[38] [S] -an + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+75085,v,6,mengantarkanmu,dasar,
+75085.1,x,,[meng-:me-] + <ngantarkanmu>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75085.2,x,,[meng-:me-] + <kantarkanmu>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75085.3,x,,meng- + <antarkanmu>,bentukan,[5] [VD] meng- + (<all>)
+75085.4,x,,<mengantarkan> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+75085.5,x,,[meng-:me-] + <ngantar> + -kan + -mu,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [33] [SFS] -mu + (<all>)
+75085.6,x,,[meng-:me-] + <kantar> + -kan + -mu,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [33] [SFS] -mu + (<all>)
+75085.7,x,,[meng-:me-] + <ngantarkan> + -mu,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [33] [SFS] -mu + (<all>)
+75085.8,x,,[meng-:me-] + <kantarkan> + -mu,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [33] [SFS] -mu + (<all>)
+75085.9,v,,meng- + <antar> + -kan + -mu,bentukan,[5] [VD] meng- + (<all>) => [33] [SFS] -mu + (<all>)
+75085.1,x,,meng- + <antarkan> + -mu,bentukan,[5] [VD] meng- + (<all>) => [33] [SFS] -mu + (<all>)
+75085.11,x,,<mengantar> + -kan + -mu,bentukan,[29] [S] -kan + (<all>) => [33] [SFS] -mu + (<all>)
+75085.12,x,,<mengantark> + -an + -mu,bentukan,[38] [S] -an + (<all>) => [33] [SFS] -mu + (<all>)
+,,,,,
+75086,v,103,mengantarkannya,dasar,
+75086.1,x,,[meng-:me-] + <ngantarkannya>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75086.2,x,,[meng-:me-] + <kantarkannya>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75086.3,x,,meng- + <antarkannya>,bentukan,[5] [VD] meng- + (<all>)
+75086.4,x,,<mengantarkan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+75086.5,x,,[meng-:me-] + <ngantar> + -kan + -nya,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+75086.6,x,,[meng-:me-] + <kantar> + -kan + -nya,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+75086.7,x,,[meng-:me-] + <ngantarkan> + -nya,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+75086.8,x,,[meng-:me-] + <kantarkan> + -nya,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+75086.9,v,,meng- + <antar> + -kan + -nya,bentukan,[5] [VD] meng- + (<all>) => [34] [SFS] -nya + (<all>)
+75086.1,x,,meng- + <antarkan> + -nya,bentukan,[5] [VD] meng- + (<all>) => [34] [SFS] -nya + (<all>)
+75086.11,x,,<mengantar> + -kan + -nya,bentukan,[29] [S] -kan + (<all>) => [34] [SFS] -nya + (<all>)
+75086.12,x,,<mengantark> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+75087,v,61,mengantarku,dasar,
+75087.1,x,,[meng-:me-] + <ngantarku>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75087.2,x,,[meng-:me-] + <kantarku>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75087.3,x,,meng- + <antarku>,bentukan,[5] [VD] meng- + (<all>)
+75087.4,x,,<mengantar> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+75087.5,x,,[meng-:me-] + <ngantar> + -ku,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [32] [SFS] -ku + (<all>)
+75087.6,x,,[meng-:me-] + <kantar> + -ku,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [32] [SFS] -ku + (<all>)
+75087.7,v,,meng- + <antar> + -ku,bentukan,[5] [VD] meng- + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+75088,v,29,mengantarmu,dasar,
+75088.1,x,,[meng-:me-] + <ngantarmu>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75088.2,x,,[meng-:me-] + <kantarmu>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75088.3,x,,meng- + <antarmu>,bentukan,[5] [VD] meng- + (<all>)
+75088.4,x,,<mengantar> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+75088.5,x,,[meng-:me-] + <ngantar> + -mu,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [33] [SFS] -mu + (<all>)
+75088.6,x,,[meng-:me-] + <kantar> + -mu,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [33] [SFS] -mu + (<all>)
+75088.7,v,,meng- + <antar> + -mu,bentukan,[5] [VD] meng- + (<all>) => [33] [SFS] -mu + (<all>)
+,,,,,
+75089,v,116,mengantarnya,dasar,
+75089.1,x,,[meng-:me-] + <ngantarnya>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75089.2,x,,[meng-:me-] + <kantarnya>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75089.3,x,,meng- + <antarnya>,bentukan,[5] [VD] meng- + (<all>)
+75089.4,x,,<mengantar> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+75089.5,x,,[meng-:me-] + <ngantar> + -nya,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+75089.6,x,,[meng-:me-] + <kantar> + -nya,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+75089.7,v,,meng- + <antar> + -nya,bentukan,[5] [VD] meng- + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+75090,k,0,mengantepi,dasar,
+75090.1,x,,[meng-:me-] + <ngantep> + -i,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75090.2,x,,[meng-:me-] + <kantep> + -i,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75090.3,x,,[meng-:me-] + <ngantepi>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75090.4,x,,[meng-:me-] + <kantepi>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75090.5,v,,meng- + <antep> + -i,bentukan,[5] [VD] meng- + (<all>)
+75090.6,x,,meng- + <antepi>,bentukan,[5] [VD] meng- + (<all>)
+75090.7,x,,<mengantep> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+75091,k,0,mengantih,dasar,
+75091.1,x,,[meng-:me-] + <ngantih>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75091.2,x,,[meng-:me-] + <kantih>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75091.3,v,,meng- + <antih>,bentukan,[5] [VD] meng- + (<all>)
+,,,,,
+75092,k,0,mengantikkan,dasar,
+75092.1,x,,[meng-:me-] + <ngantik> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75092.2,x,,[meng-:me-] + <kantik> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75092.3,x,,[meng-:me-] + <ngantikkan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75092.4,x,,[meng-:me-] + <kantikkan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75092.5,v,,meng- + <antik> + -kan,bentukan,[5] [VD] meng- + (<all>)
+75092.6,x,,meng- + <antikkan>,bentukan,[5] [VD] meng- + (<all>)
+75092.7,x,,<mengantik> + -kan,bentukan,[29] [S] -kan + (<all>)
+75092.8,x,,<mengantikk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+75093,k,0,menganting,dasar,
+75093.1,x,,[meng-:me-] + <nganting>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75093.2,x,,[meng-:me-] + <kanting>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75093.3,v,,meng- + <anting>,bentukan,[5] [VD] meng- + (<all>)
+,,,,,
+75094,k,919,mengantisipasi,dasar,
+75094.1,x,,[meng-:me-] + <ngantisipas> + -i,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75094.2,x,,[meng-:me-] + <kantisipas> + -i,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75094.3,x,,[meng-:me-] + <ngantisipasi>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75094.4,x,,[meng-:me-] + <kantisipasi>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75094.5,x,,meng- + <antisipas> + -i,bentukan,[5] [VD] meng- + (<all>)
+75094.6,v,,meng- + <antisipasi>,bentukan,[5] [VD] meng- + (<all>)
+75094.7,x,,<mengantisipas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+75095,k,0,mengantisipasikan,dasar,
+75095.1,x,,[meng-:me-] + <ngantisipasi> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75095.2,x,,[meng-:me-] + <kantisipasi> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75095.3,x,,[meng-:me-] + <ngantisipasikan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75095.4,x,,[meng-:me-] + <kantisipasikan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75095.5,v,,meng- + <antisipasi> + -kan,bentukan,[5] [VD] meng- + (<all>)
+75095.6,x,,meng- + <antisipasikan>,bentukan,[5] [VD] meng- + (<all>)
+75095.7,x,,<mengantisipasi> + -kan,bentukan,[29] [S] -kan + (<all>)
+75095.8,x,,<mengantisipasik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+75096,v,47,mengantisipasinya,dasar,
+75096.1,x,,[meng-:me-] + <ngantisipasinya>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75096.2,x,,[meng-:me-] + <kantisipasinya>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75096.3,x,,meng- + <antisipasinya>,bentukan,[5] [VD] meng- + (<all>)
+75096.4,x,,<mengantisipasi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+75096.5,x,,[meng-:me-] + <ngantisipas> + -i + -nya,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+75096.6,x,,[meng-:me-] + <kantisipas> + -i + -nya,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+75096.7,x,,[meng-:me-] + <ngantisipasi> + -nya,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+75096.8,x,,[meng-:me-] + <kantisipasi> + -nya,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+75096.9,x,,meng- + <antisipas> + -i + -nya,bentukan,[5] [VD] meng- + (<all>) => [34] [SFS] -nya + (<all>)
+75096.1,v,,meng- + <antisipasi> + -nya,bentukan,[5] [VD] meng- + (<all>) => [34] [SFS] -nya + (<all>)
+75096.11,x,,<mengantisipas> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+75097,k,385,mengantongi,dasar,
+75097.1,x,,[meng-:me-] + <ngantong> + -i,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75097.2,v,,[meng-:me-] + <kantong> + -i,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75097.3,x,,[meng-:me-] + <ngantongi>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75097.4,x,,[meng-:me-] + <kantongi>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75097.5,x,,meng- + <antong> + -i,bentukan,[5] [VD] meng- + (<all>)
+75097.6,x,,meng- + <antongi>,bentukan,[5] [VD] meng- + (<all>)
+75097.7,x,,<mengantong> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+75098,v,6,mengantonginya,dasar,
+75098.1,x,,[meng-:me-] + <ngantonginya>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75098.2,x,,[meng-:me-] + <kantonginya>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75098.3,x,,meng- + <antonginya>,bentukan,[5] [VD] meng- + (<all>)
+75098.4,x,,<mengantongi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+75098.5,x,,[meng-:me-] + <ngantong> + -i + -nya,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+75098.6,v,,[meng-:me-] + <kantong> + -i + -nya,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+75098.7,x,,[meng-:me-] + <ngantongi> + -nya,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+75098.8,x,,[meng-:me-] + <kantongi> + -nya,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+75098.9,x,,meng- + <antong> + -i + -nya,bentukan,[5] [VD] meng- + (<all>) => [34] [SFS] -nya + (<all>)
+75098.1,x,,meng- + <antongi> + -nya,bentukan,[5] [VD] meng- + (<all>) => [34] [SFS] -nya + (<all>)
+75098.11,x,,<mengantong> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+75099,k,96,mengantre,dasar,
+75099.1,x,,[meng-:me-] + <ngantre>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75099.2,x,,[meng-:me-] + <kantre>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75099.3,v,,meng- + <antre>,bentukan,[5] [VD] meng- + (<all>)
+,,,,,
+75100,k,167,mengantuk,dasar,
+75100.1,x,,[meng-:me-] + <ngantuk>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75100.2,v,,[meng-:me-] + <kantuk>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75100.3,v,,meng- + <antuk>,bentukan,[5] [VD] meng- + (<all>)
+,,,,,
+75101,k,0,mengantukkan,dasar,
+75101.1,x,,[meng-:me-] + <ngantuk> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75101.2,v,,[meng-:me-] + <kantuk> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75101.3,x,,[meng-:me-] + <ngantukkan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75101.4,x,,[meng-:me-] + <kantukkan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75101.5,x,,meng- + <antuk> + -kan,bentukan,[5] [VD] meng- + (<all>)
+75101.6,x,,meng- + <antukkan>,bentukan,[5] [VD] meng- + (<all>)
+75101.7,x,,<mengantuk> + -kan,bentukan,[29] [S] -kan + (<all>)
+75101.8,x,,<mengantukk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+75102,k,0,mengantul,dasar,
+75102.1,x,,[meng-:me-] + <ngantul>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75102.2,x,,[meng-:me-] + <kantul>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75102.3,v,,meng- + <antul>,bentukan,[5] [VD] meng- + (<all>)
+,,,,,
+75103,v,14,mengantungi,dasar,
+75103.1,x,,[meng-:me-] + <ngantung> + -i,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75103.2,v,,[meng-:me-] + <kantung> + -i,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75103.3,x,,[meng-:me-] + <ngantungi>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75103.4,x,,[meng-:me-] + <kantungi>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75103.5,x,,meng- + <antung> + -i,bentukan,[5] [VD] meng- + (<all>)
+75103.6,x,,meng- + <antungi>,bentukan,[5] [VD] meng- + (<all>)
+75103.7,x,,<mengantung> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+75104,k,21,menganugerahi,dasar,
+75104.1,x,,[meng-:me-] + <nganugerah> + -i,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75104.2,x,,[meng-:me-] + <kanugerah> + -i,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75104.3,x,,[meng-:me-] + <nganugerahi>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75104.4,x,,[meng-:me-] + <kanugerahi>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75104.5,v,,meng- + <anugerah> + -i,bentukan,[5] [VD] meng- + (<all>)
+75104.6,x,,meng- + <anugerahi>,bentukan,[5] [VD] meng- + (<all>)
+75104.7,x,,<menganugerah> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+75105,v,5,menganugerahinya,dasar,
+75105.1,x,,[meng-:me-] + <nganugerahinya>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75105.2,x,,[meng-:me-] + <kanugerahinya>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75105.3,x,,meng- + <anugerahinya>,bentukan,[5] [VD] meng- + (<all>)
+75105.4,x,,<menganugerahi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+75105.5,x,,[meng-:me-] + <nganugerah> + -i + -nya,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+75105.6,x,,[meng-:me-] + <kanugerah> + -i + -nya,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+75105.7,x,,[meng-:me-] + <nganugerahi> + -nya,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+75105.8,x,,[meng-:me-] + <kanugerahi> + -nya,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+75105.9,v,,meng- + <anugerah> + -i + -nya,bentukan,[5] [VD] meng- + (<all>) => [34] [SFS] -nya + (<all>)
+75105.1,x,,meng- + <anugerahi> + -nya,bentukan,[5] [VD] meng- + (<all>) => [34] [SFS] -nya + (<all>)
+75105.11,x,,<menganugerah> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+75106,k,47,menganugerahkan,dasar,
+75106.1,x,,[meng-:me-] + <nganugerah> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75106.2,x,,[meng-:me-] + <kanugerah> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75106.3,x,,[meng-:me-] + <nganugerahkan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75106.4,x,,[meng-:me-] + <kanugerahkan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75106.5,v,,meng- + <anugerah> + -kan,bentukan,[5] [VD] meng- + (<all>)
+75106.6,x,,meng- + <anugerahkan>,bentukan,[5] [VD] meng- + (<all>)
+75106.7,x,,<menganugerah> + -kan,bentukan,[29] [S] -kan + (<all>)
+75106.8,x,,<menganugerahk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+75107,k,38,menganulir,dasar,
+75107.1,x,,[meng-:me-] + <nganulir>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75107.2,x,,[meng-:me-] + <kanulir>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75107.3,v,,meng- + <anulir>,bentukan,[5] [VD] meng- + (<all>)
+,,,,,
+75108,v,4,menganulirnya,dasar,
+75108.1,x,,[meng-:me-] + <nganulirnya>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75108.2,x,,[meng-:me-] + <kanulirnya>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75108.3,x,,meng- + <anulirnya>,bentukan,[5] [VD] meng- + (<all>)
+75108.4,x,,<menganulir> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+75108.5,x,,[meng-:me-] + <nganulir> + -nya,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+75108.6,x,,[meng-:me-] + <kanulir> + -nya,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+75108.7,v,,meng- + <anulir> + -nya,bentukan,[5] [VD] meng- + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+75109,k,344,menganut,dasar,
+75109.1,x,,[meng-:me-] + <nganut>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75109.2,x,,[meng-:me-] + <kanut>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75109.3,v,,meng- + <anut>,bentukan,[5] [VD] meng- + (<all>)
+,,,,,
+75110,k,0,menganuti,dasar,
+75110.1,x,,[meng-:me-] + <nganut> + -i,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75110.2,x,,[meng-:me-] + <kanut> + -i,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75110.3,x,,[meng-:me-] + <nganuti>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75110.4,x,,[meng-:me-] + <kanuti>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75110.5,v,,meng- + <anut> + -i,bentukan,[5] [VD] meng- + (<all>)
+75110.6,x,,meng- + <anuti>,bentukan,[5] [VD] meng- + (<all>)
+75110.7,x,,<menganut> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+75111,v,5,menganutnya,dasar,
+75111.1,x,,[meng-:me-] + <nganutnya>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75111.2,x,,[meng-:me-] + <kanutnya>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75111.3,x,,meng- + <anutnya>,bentukan,[5] [VD] meng- + (<all>)
+75111.4,x,,<menganut> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+75111.5,x,,[meng-:me-] + <nganut> + -nya,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+75111.6,x,,[meng-:me-] + <kanut> + -nya,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+75111.7,v,,meng- + <anut> + -nya,bentukan,[5] [VD] meng- + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+75112,k,0,menganvaskan,dasar,
+75112.1,x,,[meng-:me-] + <nganvas> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75112.2,v,,[meng-:me-] + <kanvas> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75112.3,x,,[meng-:me-] + <nganvaskan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75112.4,x,,[meng-:me-] + <kanvaskan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75112.5,x,,meng- + <anvas> + -kan,bentukan,[5] [VD] meng- + (<all>)
+75112.6,x,,meng- + <anvaskan>,bentukan,[5] [VD] meng- + (<all>)
+75112.7,x,,<menganvas> + -kan,bentukan,[29] [S] -kan + (<all>)
+75112.8,x,,<menganvask> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+75113,k,26,menganyam,dasar,
+75113.1,x,,[meng-:me-] + <nganyam>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75113.2,x,,[meng-:me-] + <kanyam>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75113.3,v,,meng- + <anyam>,bentukan,[5] [VD] meng- + (<all>)
+,,,,,
+75114,k,0,menganyam rambut,dasar,
+75114.1,x,,[meng-:me-] + <nganyam rambut>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75114.2,x,,[meng-:me-] + <kanyam rambut>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75114.3,x,,meng- + <anyam rambut>,bentukan,[5] [VD] meng- + (<all>)
+,,,,,
+75115,v,3,menganyamnya,dasar,
+75115.1,x,,[meng-:me-] + <nganyamnya>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75115.2,x,,[meng-:me-] + <kanyamnya>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75115.3,x,,meng- + <anyamnya>,bentukan,[5] [VD] meng- + (<all>)
+75115.4,x,,<menganyam> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+75115.5,x,,[meng-:me-] + <nganyam> + -nya,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+75115.6,x,,[meng-:me-] + <kanyam> + -nya,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+75115.7,v,,meng- + <anyam> + -nya,bentukan,[5] [VD] meng- + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+75116,k,0,menganyang,dasar,
+75116.1,x,,[meng-:me-] + <nganyang>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75116.2,x,,[meng-:me-] + <kanyang>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75116.3,v,,meng- + <anyang>,bentukan,[5] [VD] meng- + (<all>)
+,,,,,
+75117,k,0,menganyang hati,dasar,
+75117.1,x,,[meng-:me-] + <nganyang hat> + -i,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75117.2,x,,[meng-:me-] + <kanyang hat> + -i,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75117.3,x,,[meng-:me-] + <nganyang hati>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75117.4,x,,[meng-:me-] + <kanyang hati>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75117.5,x,,meng- + <anyang hat> + -i,bentukan,[5] [VD] meng- + (<all>)
+75117.6,x,,meng- + <anyang hati>,bentukan,[5] [VD] meng- + (<all>)
+75117.7,x,,<menganyang hat> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+75118,k,0,mengaoki,dasar,
+75118.1,x,,[meng-:me-] + <ngaok> + -i,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75118.2,v,,[meng-:me-] + <kaok> + -i,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75118.3,x,,[meng-:me-] + <ngaoki>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75118.4,x,,[meng-:me-] + <kaoki>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75118.5,x,,meng- + <aok> + -i,bentukan,[5] [VD] meng- + (<all>)
+75118.6,x,,meng- + <aoki>,bentukan,[5] [VD] meng- + (<all>)
+75118.7,x,,<mengaok> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+75119,k,0,mengap,dasar,
+75119.1,x,,[meng-:me-] + <ngap>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75119.2,x,,[meng-:me-] + <kap>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+,,,,,
+75120,k,3,mengap-mengap,dasar,
+75120.1,v,,<mengap> [-] <r>,bentukan,[23] [RD] |
+75120.2,x,,[meng-:me-] + <ngap> [-] [meng-:me-] + <r>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [23] [RD] |
+75120.3,x,,[meng-:me-] + <kap> [-] [meng-:me-] + <r>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [23] [RD] |
+,,,,,
+75121,k,2446,mengapa,dasar,
+75121.1,x,,[meng-:me-] + <ngapa>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75121.2,x,,[meng-:me-] + <kapa>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75121.3,v,,meng- + <apa>,bentukan,[5] [VD] meng- + (<all>)
+,,,,,
+75122,k,0,mengapa-apai,dasar,
+75122.1,v,,meng- + <apa> [-] <r> + -i,bentukan,[5] [VD] meng- + (<all>) => [25] [RD] meng-|
+,,,,,
+75123,k,3,mengapai,dasar,
+75123.1,x,,[meng-:me-] + <ngapa> + -i,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75123.2,x,,[meng-:me-] + <kapa> + -i,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75123.3,x,,[meng-:me-] + <ngapai>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75123.4,x,,[meng-:me-] + <kapai>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75123.5,v,,meng- + <apa> + -i,bentukan,[5] [VD] meng- + (<all>)
+75123.6,x,,meng- + <apai>,bentukan,[5] [VD] meng- + (<all>)
+75123.7,x,,<mengapa> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+75124,v,11,mengapakah,dasar,
+75124.1,x,,[meng-:me-] + <ngapakah>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75124.2,x,,[meng-:me-] + <kapakah>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75124.3,x,,meng- + <apakah>,bentukan,[5] [VD] meng- + (<all>)
+75124.4,x,,<mengapa> + -kah,bentukan,[30] [FS] -kah + (<all>)
+75124.5,x,,[meng-:me-] + <ngapa> + -kah,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [30] [FS] -kah + (<all>)
+75124.6,x,,[meng-:me-] + <kapa> + -kah,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [30] [FS] -kah + (<all>)
+75124.7,v,,meng- + <apa> + -kah,bentukan,[5] [VD] meng- + (<all>) => [30] [FS] -kah + (<all>)
+,,,,,
+75125,k,0,mengapakan,dasar,
+75125.1,x,,[meng-:me-] + <ngapa> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75125.2,x,,[meng-:me-] + <kapa> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75125.3,x,,[meng-:me-] + <ngapakan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75125.4,x,,[meng-:me-] + <kapakan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75125.5,v,,meng- + <apa> + -kan,bentukan,[5] [VD] meng- + (<all>)
+75125.6,x,,meng- + <apakan>,bentukan,[5] [VD] meng- + (<all>)
+75125.7,x,,<mengapa> + -kan,bentukan,[29] [S] -kan + (<all>)
+75125.8,x,,<mengapak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+75126,k,5,mengapalkan,dasar,
+75126.1,x,,[meng-:me-] + <ngapal> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75126.2,v,,[meng-:me-] + <kapal> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75126.3,x,,[meng-:me-] + <ngapalkan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75126.4,x,,[meng-:me-] + <kapalkan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75126.5,x,,meng- + <apal> + -kan,bentukan,[5] [VD] meng- + (<all>)
+75126.6,x,,meng- + <apalkan>,bentukan,[5] [VD] meng- + (<all>)
+75126.7,x,,<mengapal> + -kan,bentukan,[29] [S] -kan + (<all>)
+75126.8,x,,<mengapalk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+75127,k,0,mengapam,dasar,
+75127.1,x,,[meng-:me-] + <ngapam>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75127.2,x,,[meng-:me-] + <kapam>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75127.3,v,,meng- + <apam>,bentukan,[5] [VD] meng- + (<all>)
+,,,,,
+75128,k,0,mengaparkan,dasar,
+75128.1,x,,[meng-:me-] + <ngapar> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75128.2,v,,[meng-:me-] + <kapar> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75128.3,x,,[meng-:me-] + <ngaparkan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75128.4,x,,[meng-:me-] + <kaparkan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75128.5,x,,meng- + <apar> + -kan,bentukan,[5] [VD] meng- + (<all>)
+75128.6,x,,meng- + <aparkan>,bentukan,[5] [VD] meng- + (<all>)
+75128.7,x,,<mengapar> + -kan,bentukan,[29] [S] -kan + (<all>)
+75128.8,x,,<mengapark> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+75129,k,0,mengapartemenkan,dasar,
+75129.1,x,,[meng-:me-] + <ngapartemen> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75129.2,x,,[meng-:me-] + <kapartemen> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75129.3,x,,[meng-:me-] + <ngapartemenkan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75129.4,x,,[meng-:me-] + <kapartemenkan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75129.5,v,,meng- + <apartemen> + -kan,bentukan,[5] [VD] meng- + (<all>)
+75129.6,x,,meng- + <apartemenkan>,bentukan,[5] [VD] meng- + (<all>)
+75129.7,x,,<mengapartemen> + -kan,bentukan,[29] [S] -kan + (<all>)
+75129.8,x,,<mengapartemenk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+75130,k,0,mengapas,dasar,
+75130.1,x,,[meng-:me-] + <ngapas>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75130.2,v,,[meng-:me-] + <kapas>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75130.3,x,,meng- + <apas>,bentukan,[5] [VD] meng- + (<all>)
+,,,,,
+75131,v,2,mengapel,dasar,
+75131.1,x,,[meng-:me-] + <ngapel>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75131.2,x,,[meng-:me-] + <kapel>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75131.3,v,,meng- + <apel>,bentukan,[5] [VD] meng- + (<all>)
+,,,,,
+75132,k,0,mengapi,dasar,
+75132.1,x,,[meng-:me-] + <ngap> + -i,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75132.2,x,,[meng-:me-] + <kap> + -i,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75132.3,x,,[meng-:me-] + <ngapi>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75132.4,x,,[meng-:me-] + <kapi>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75132.5,v,,meng- + <api>,bentukan,[5] [VD] meng- + (<all>)
+75132.6,x,,<mengap> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+75133,k,0,mengapi-apikan,dasar,
+75133.1,v,,meng- + <api> [-] <r> + -kan,bentukan,[5] [VD] meng- + (<all>) => [25] [RD] meng-|
+,,,,,
+75134,k,0,mengapikkan,dasar,
+75134.1,x,,[meng-:me-] + <ngapik> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75134.2,x,,[meng-:me-] + <kapik> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75134.3,x,,[meng-:me-] + <ngapikkan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75134.4,x,,[meng-:me-] + <kapikkan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75134.5,v,,meng- + <apik> + -kan,bentukan,[5] [VD] meng- + (<all>)
+75134.6,x,,meng- + <apikkan>,bentukan,[5] [VD] meng- + (<all>)
+75134.7,x,,<mengapik> + -kan,bentukan,[29] [S] -kan + (<all>)
+75134.8,x,,<mengapikk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+75135,k,37,mengapit,dasar,
+75135.1,x,,[meng-:me-] + <ngapit>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75135.2,x,,[meng-:me-] + <kapit>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75135.3,v,,meng- + <apit>,bentukan,[5] [VD] meng- + (<all>)
+,,,,,
+75136,k,0,mengapit minyak,dasar,
+75136.1,x,,[meng-:me-] + <ngapit minyak>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75136.2,x,,[meng-:me-] + <kapit minyak>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75136.3,x,,meng- + <apit minyak>,bentukan,[5] [VD] meng- + (<all>)
+,,,,,
+75137,k,5,mengapitalisasi,dasar,
+75137.1,x,,[meng-:me-] + <ngapitalisas> + -i,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75137.2,x,,[meng-:me-] + <kapitalisas> + -i,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75137.3,x,,[meng-:me-] + <ngapitalisasi>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75137.4,v,,[meng-:me-] + <kapitalisasi>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75137.5,x,,meng- + <apitalisas> + -i,bentukan,[5] [VD] meng- + (<all>)
+75137.6,x,,meng- + <apitalisasi>,bentukan,[5] [VD] meng- + (<all>)
+75137.7,x,,<mengapitalisas> + -i,bentukan,[28] [S] -i + (<all>)
+75137.8,x,,<mengapitali> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+75137.9,x,,<mengapitalis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+75137.1,x,,<mengapital> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+75138,k,0,mengapitalisasikan,dasar,
+75138.1,x,,[meng-:me-] + <ngapitalisasi> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75138.2,v,,[meng-:me-] + <kapitalisasi> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75138.3,x,,[meng-:me-] + <ngapitalisasikan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75138.4,x,,[meng-:me-] + <kapitalisasikan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75138.5,x,,meng- + <apitalisasi> + -kan,bentukan,[5] [VD] meng- + (<all>)
+75138.6,x,,meng- + <apitalisasikan>,bentukan,[5] [VD] meng- + (<all>)
+75138.7,x,,<mengapitalisasi> + -kan,bentukan,[29] [S] -kan + (<all>)
+75138.8,x,,<mengapitalisasik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+75139,k,0,mengapitaliskan,dasar,
+75139.1,x,,[meng-:me-] + <ngapitalis> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75139.2,v,,[meng-:me-] + <kapitalis> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75139.3,x,,[meng-:me-] + <ngapitaliskan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75139.4,x,,[meng-:me-] + <kapitaliskan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75139.5,x,,meng- + <apitalis> + -kan,bentukan,[5] [VD] meng- + (<all>)
+75139.6,x,,meng- + <apitaliskan>,bentukan,[5] [VD] meng- + (<all>)
+75139.7,x,,<mengapitalis> + -kan,bentukan,[29] [S] -kan + (<all>)
+75139.8,x,,<mengapitalisk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+75140,k,0,mengapitalkan,dasar,
+75140.1,x,,[meng-:me-] + <ngapital> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75140.2,v,,[meng-:me-] + <kapital> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75140.3,x,,[meng-:me-] + <ngapitalkan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75140.4,x,,[meng-:me-] + <kapitalkan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75140.5,x,,meng- + <apital> + -kan,bentukan,[5] [VD] meng- + (<all>)
+75140.6,x,,meng- + <apitalkan>,bentukan,[5] [VD] meng- + (<all>)
+75140.7,x,,<mengapital> + -kan,bentukan,[29] [S] -kan + (<all>)
+75140.8,x,,<mengapitalk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+75141,v,5,mengapitnya,dasar,
+75141.1,x,,[meng-:me-] + <ngapitnya>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75141.2,x,,[meng-:me-] + <kapitnya>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75141.3,x,,meng- + <apitnya>,bentukan,[5] [VD] meng- + (<all>)
+75141.4,x,,<mengapit> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+75141.5,x,,[meng-:me-] + <ngapit> + -nya,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+75141.6,x,,[meng-:me-] + <kapit> + -nya,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+75141.7,v,,meng- + <apit> + -nya,bentukan,[5] [VD] meng- + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+75142,k,0,mengapkir,dasar,
+75142.1,x,,[meng-:me-] + <ngapkir>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75142.2,x,,[meng-:me-] + <kapkir>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75142.3,v,,meng- + <apkir>,bentukan,[5] [VD] meng- + (<all>)
+,,,,,
+75143,k,301,mengaplikasikan,dasar,
+75143.1,x,,[meng-:me-] + <ngaplikasi> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75143.2,x,,[meng-:me-] + <kaplikasi> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75143.3,x,,[meng-:me-] + <ngaplikasikan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75143.4,x,,[meng-:me-] + <kaplikasikan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75143.5,v,,meng- + <aplikasi> + -kan,bentukan,[5] [VD] meng- + (<all>)
+75143.6,x,,meng- + <aplikasikan>,bentukan,[5] [VD] meng- + (<all>)
+75143.7,x,,<mengaplikasi> + -kan,bentukan,[29] [S] -kan + (<all>)
+75143.8,x,,<mengaplikasik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+75144,v,53,mengaplikasikannya,dasar,
+75144.1,x,,[meng-:me-] + <ngaplikasikannya>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75144.2,x,,[meng-:me-] + <kaplikasikannya>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75144.3,x,,meng- + <aplikasikannya>,bentukan,[5] [VD] meng- + (<all>)
+75144.4,x,,<mengaplikasikan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+75144.5,x,,[meng-:me-] + <ngaplikasi> + -kan + -nya,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+75144.6,x,,[meng-:me-] + <kaplikasi> + -kan + -nya,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+75144.7,x,,[meng-:me-] + <ngaplikasikan> + -nya,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+75144.8,x,,[meng-:me-] + <kaplikasikan> + -nya,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+75144.9,v,,meng- + <aplikasi> + -kan + -nya,bentukan,[5] [VD] meng- + (<all>) => [34] [SFS] -nya + (<all>)
+75144.1,x,,meng- + <aplikasikan> + -nya,bentukan,[5] [VD] meng- + (<all>) => [34] [SFS] -nya + (<all>)
+75144.11,x,,<mengaplikasi> + -kan + -nya,bentukan,[29] [S] -kan + (<all>) => [34] [SFS] -nya + (<all>)
+75144.12,x,,<mengaplikasik> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+75145,k,0,mengaplus,dasar,
+75145.1,x,,[meng-:me-] + <ngaplus>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75145.2,x,,[meng-:me-] + <kaplus>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75145.3,v,,meng- + <aplus>,bentukan,[5] [VD] meng- + (<all>)
+,,,,,
+75146,k,0,mengapokkan,dasar,
+75146.1,x,,[meng-:me-] + <ngapok> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75146.2,v,,[meng-:me-] + <kapok> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75146.3,x,,[meng-:me-] + <ngapokkan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75146.4,x,,[meng-:me-] + <kapokkan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75146.5,x,,meng- + <apok> + -kan,bentukan,[5] [VD] meng- + (<all>)
+75146.6,x,,meng- + <apokkan>,bentukan,[5] [VD] meng- + (<all>)
+75146.7,x,,<mengapok> + -kan,bentukan,[29] [S] -kan + (<all>)
+75146.8,x,,<mengapokk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+75147,k,675,mengapresiasi,dasar,
+75147.1,x,,[meng-:me-] + <ngapresias> + -i,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75147.2,x,,[meng-:me-] + <kapresias> + -i,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75147.3,x,,[meng-:me-] + <ngapresiasi>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75147.4,x,,[meng-:me-] + <kapresiasi>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75147.5,x,,meng- + <apresias> + -i,bentukan,[5] [VD] meng- + (<all>)
+75147.6,v,,meng- + <apresiasi>,bentukan,[5] [VD] meng- + (<all>)
+75147.7,x,,<mengapresias> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+75148,v,6,mengapresiasikan,dasar,
+75148.1,x,,[meng-:me-] + <ngapresiasi> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75148.2,x,,[meng-:me-] + <kapresiasi> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75148.3,x,,[meng-:me-] + <ngapresiasikan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75148.4,x,,[meng-:me-] + <kapresiasikan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75148.5,v,,meng- + <apresiasi> + -kan,bentukan,[5] [VD] meng- + (<all>)
+75148.6,x,,meng- + <apresiasikan>,bentukan,[5] [VD] meng- + (<all>)
+75148.7,x,,<mengapresiasi> + -kan,bentukan,[29] [S] -kan + (<all>)
+75148.8,x,,<mengapresiasik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+75149,v,7,mengapresiasinya,dasar,
+75149.1,x,,[meng-:me-] + <ngapresiasinya>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75149.2,x,,[meng-:me-] + <kapresiasinya>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75149.3,x,,meng- + <apresiasinya>,bentukan,[5] [VD] meng- + (<all>)
+75149.4,x,,<mengapresiasi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+75149.5,x,,[meng-:me-] + <ngapresias> + -i + -nya,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+75149.6,x,,[meng-:me-] + <kapresias> + -i + -nya,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+75149.7,x,,[meng-:me-] + <ngapresiasi> + -nya,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+75149.8,x,,[meng-:me-] + <kapresiasi> + -nya,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+75149.9,x,,meng- + <apresias> + -i + -nya,bentukan,[5] [VD] meng- + (<all>) => [34] [SFS] -nya + (<all>)
+75149.1,v,,meng- + <apresiasi> + -nya,bentukan,[5] [VD] meng- + (<all>) => [34] [SFS] -nya + (<all>)
+75149.11,x,,<mengapresias> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+75150,k,0,mengaprit,dasar,
+75150.1,x,,[meng-:me-] + <ngaprit>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75150.2,x,,[meng-:me-] + <kaprit>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75150.3,v,,meng- + <aprit>,bentukan,[5] [VD] meng- + (<all>)
+,,,,,
+75151,k,0,mengapsulkan,dasar,
+75151.1,x,,[meng-:me-] + <ngapsul> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75151.2,v,,[meng-:me-] + <kapsul> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75151.3,x,,[meng-:me-] + <ngapsulkan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75151.4,x,,[meng-:me-] + <kapsulkan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75151.5,x,,meng- + <apsul> + -kan,bentukan,[5] [VD] meng- + (<all>)
+75151.6,x,,meng- + <apsulkan>,bentukan,[5] [VD] meng- + (<all>)
+75151.7,x,,<mengapsul> + -kan,bentukan,[29] [S] -kan + (<all>)
+75151.8,x,,<mengapsulk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+75152,k,0,mengapteni,dasar,
+75152.1,x,,[meng-:me-] + <ngapten> + -i,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75152.2,v,,[meng-:me-] + <kapten> + -i,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75152.3,x,,[meng-:me-] + <ngapteni>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75152.4,x,,[meng-:me-] + <kapteni>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75152.5,x,,meng- + <apten> + -i,bentukan,[5] [VD] meng- + (<all>)
+75152.6,x,,meng- + <apteni>,bentukan,[5] [VD] meng- + (<all>)
+75152.7,x,,<mengapten> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+75153,k,111,mengapung,dasar,
+75153.1,x,,[meng-:me-] + <ngapung>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75153.2,x,,[meng-:me-] + <kapung>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75153.3,v,,meng- + <apung>,bentukan,[5] [VD] meng- + (<all>)
+,,,,,
+75154,v,5,mengapung-apung,dasar,
+75154.1,v,,meng- + <apung> [-] <r>,bentukan,[5] [VD] meng- + (<all>) => [25] [RD] meng-|
+,,,,,
+75155,k,6,mengapungkan,dasar,
+75155.1,x,,[meng-:me-] + <ngapung> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75155.2,x,,[meng-:me-] + <kapung> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75155.3,x,,[meng-:me-] + <ngapungkan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75155.4,x,,[meng-:me-] + <kapungkan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75155.5,v,,meng- + <apung> + -kan,bentukan,[5] [VD] meng- + (<all>)
+75155.6,x,,meng- + <apungkan>,bentukan,[5] [VD] meng- + (<all>)
+75155.7,x,,<mengapung> + -kan,bentukan,[29] [S] -kan + (<all>)
+75155.8,x,,<mengapungk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+75156,k,2,mengapur,dasar,
+75156.1,x,,[meng-:me-] + <ngapur>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75156.2,v,,[meng-:me-] + <kapur>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75156.3,x,,meng- + <apur>,bentukan,[5] [VD] meng- + (<all>)
+,,,,,
+75157,k,0,mengarabkan,dasar,
+75157.1,x,,[meng-:me-] + <ngarab> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75157.2,x,,[meng-:me-] + <karab> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75157.3,x,,[meng-:me-] + <ngarabkan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75157.4,x,,[meng-:me-] + <karabkan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75157.5,v,,meng- + <arab> + -kan,bentukan,[5] [VD] meng- + (<all>)
+75157.6,x,,meng- + <arabkan>,bentukan,[5] [VD] meng- + (<all>)
+75157.7,x,,<mengarab> + -kan,bentukan,[29] [S] -kan + (<all>)
+75157.8,x,,<mengarabk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+75158,k,1044,mengarah,dasar,
+75158.1,x,,[meng-:me-] + <ngarah>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75158.2,x,,[meng-:me-] + <karah>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75158.3,v,,meng- + <arah>,bentukan,[5] [VD] meng- + (<all>)
+,,,,,
+75159,k,0,mengarah-arahi,dasar,
+75159.1,v,,meng- + <arah> [-] <r> + -i,bentukan,[5] [VD] meng- + (<all>) => [25] [RD] meng-|
+,,,,,
+75160,k,857,mengarahkan,dasar,
+75160.1,x,,[meng-:me-] + <ngarah> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75160.2,x,,[meng-:me-] + <karah> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75160.3,x,,[meng-:me-] + <ngarahkan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75160.4,x,,[meng-:me-] + <karahkan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75160.5,v,,meng- + <arah> + -kan,bentukan,[5] [VD] meng- + (<all>)
+75160.6,x,,meng- + <arahkan>,bentukan,[5] [VD] meng- + (<all>)
+75160.7,x,,<mengarah> + -kan,bentukan,[29] [S] -kan + (<all>)
+75160.8,x,,<mengarahk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+75161,v,2,mengarahkanku,dasar,
+75161.1,x,,[meng-:me-] + <ngarahkanku>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75161.2,x,,[meng-:me-] + <karahkanku>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75161.3,x,,meng- + <arahkanku>,bentukan,[5] [VD] meng- + (<all>)
+75161.4,x,,<mengarahkan> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+75161.5,x,,[meng-:me-] + <ngarah> + -kan + -ku,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [32] [SFS] -ku + (<all>)
+75161.6,x,,[meng-:me-] + <karah> + -kan + -ku,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [32] [SFS] -ku + (<all>)
+75161.7,x,,[meng-:me-] + <ngarahkan> + -ku,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [32] [SFS] -ku + (<all>)
+75161.8,x,,[meng-:me-] + <karahkan> + -ku,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [32] [SFS] -ku + (<all>)
+75161.9,v,,meng- + <arah> + -kan + -ku,bentukan,[5] [VD] meng- + (<all>) => [32] [SFS] -ku + (<all>)
+75161.1,x,,meng- + <arahkan> + -ku,bentukan,[5] [VD] meng- + (<all>) => [32] [SFS] -ku + (<all>)
+75161.11,x,,<mengarah> + -kan + -ku,bentukan,[29] [S] -kan + (<all>) => [32] [SFS] -ku + (<all>)
+75161.12,x,,<mengarahk> + -an + -ku,bentukan,[38] [S] -an + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+75162,v,38,mengarahkannya,dasar,
+75162.1,x,,[meng-:me-] + <ngarahkannya>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75162.2,x,,[meng-:me-] + <karahkannya>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75162.3,x,,meng- + <arahkannya>,bentukan,[5] [VD] meng- + (<all>)
+75162.4,x,,<mengarahkan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+75162.5,x,,[meng-:me-] + <ngarah> + -kan + -nya,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+75162.6,x,,[meng-:me-] + <karah> + -kan + -nya,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+75162.7,x,,[meng-:me-] + <ngarahkan> + -nya,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+75162.8,x,,[meng-:me-] + <karahkan> + -nya,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+75162.9,v,,meng- + <arah> + -kan + -nya,bentukan,[5] [VD] meng- + (<all>) => [34] [SFS] -nya + (<all>)
+75162.1,x,,meng- + <arahkan> + -nya,bentukan,[5] [VD] meng- + (<all>) => [34] [SFS] -nya + (<all>)
+75162.11,x,,<mengarah> + -kan + -nya,bentukan,[29] [S] -kan + (<all>) => [34] [SFS] -nya + (<all>)
+75162.12,x,,<mengarahk> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+75163,k,25,mengarak,dasar,
+75163.1,x,,[meng-:me-] + <ngarak>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75163.2,x,,[meng-:me-] + <karak>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75163.3,v,,meng- + <arak>,bentukan,[5] [VD] meng- + (<all>)
+,,,,,
+75164,k,0,mengarak panja,dasar,
+75164.1,x,,[meng-:me-] + <ngarak panja>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75164.2,x,,[meng-:me-] + <karak panja>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75164.3,x,,meng- + <arak panja>,bentukan,[5] [VD] meng- + (<all>)
+,,,,,
+75165,k,0,mengaram,dasar,
+75165.1,x,,[meng-:me-] + <ngaram>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75165.2,v,,[meng-:me-] + <karam>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75165.3,x,,meng- + <aram>,bentukan,[5] [VD] meng- + (<all>)
+,,,,,
+75166,k,0,mengaramelkan,dasar,
+75166.1,x,,[meng-:me-] + <ngaramel> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75166.2,v,,[meng-:me-] + <karamel> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75166.3,x,,[meng-:me-] + <ngaramelkan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75166.4,x,,[meng-:me-] + <karamelkan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75166.5,x,,meng- + <aramel> + -kan,bentukan,[5] [VD] meng- + (<all>)
+75166.6,x,,meng- + <aramelkan>,bentukan,[5] [VD] meng- + (<all>)
+75166.7,x,,<mengaramel> + -kan,bentukan,[29] [S] -kan + (<all>)
+75166.8,x,,<mengaramelk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+75167,k,0,mengaramkan,dasar,
+75167.1,x,,[meng-:me-] + <ngaram> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75167.2,v,,[meng-:me-] + <karam> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75167.3,x,,[meng-:me-] + <ngaramkan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75167.4,x,,[meng-:me-] + <karamkan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75167.5,x,,meng- + <aram> + -kan,bentukan,[5] [VD] meng- + (<all>)
+75167.6,x,,meng- + <aramkan>,bentukan,[5] [VD] meng- + (<all>)
+75167.7,x,,<mengaram> + -kan,bentukan,[29] [S] -kan + (<all>)
+75167.8,x,,<mengaramk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+75168,k,151,mengarang,dasar,
+75168.1,x,,[meng-:me-] + <ngarang>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75168.2,v,,[meng-:me-] + <karang>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75168.3,v,,meng- + <arang>,bentukan,[5] [VD] meng- + (<all>)
+,,,,,
+75169,k,20,mengarang-ngarang,dasar,
+75169.1,x,,[meng-:me-] + <ngarang> [-] <r>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [25] [RD] meng-|
+75169.2,v,,[meng-:me-] + <karang> [-] <r>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [25] [RD] meng-|
+,,,,,
+75170,k,2,mengarangkan,dasar,
+75170.1,x,,[meng-:me-] + <ngarang> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75170.2,v,,[meng-:me-] + <karang> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75170.3,x,,[meng-:me-] + <ngarangkan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75170.4,x,,[meng-:me-] + <karangkan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75170.5,v,,meng- + <arang> + -kan,bentukan,[5] [VD] meng- + (<all>)
+75170.6,x,,meng- + <arangkan>,bentukan,[5] [VD] meng- + (<all>)
+75170.7,x,,<mengarang> + -kan,bentukan,[29] [S] -kan + (<all>)
+75170.8,x,,<mengarangk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+75171,v,3,mengarangnya,dasar,
+75171.1,x,,[meng-:me-] + <ngarangnya>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75171.2,x,,[meng-:me-] + <karangnya>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75171.3,x,,meng- + <arangnya>,bentukan,[5] [VD] meng- + (<all>)
+75171.4,x,,<mengarang> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+75171.5,x,,[meng-:me-] + <ngarang> + -nya,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+75171.6,v,,[meng-:me-] + <karang> + -nya,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+75171.7,v,,meng- + <arang> + -nya,bentukan,[5] [VD] meng- + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+75172,k,7,mengaransemen,dasar,
+75172.1,x,,[meng-:me-] + <ngaransemen>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75172.2,x,,[meng-:me-] + <karansemen>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75172.3,v,,meng- + <aransemen>,bentukan,[5] [VD] meng- + (<all>)
+,,,,,
+75173,k,0,mengaransemenkan,dasar,
+75173.1,x,,[meng-:me-] + <ngaransemen> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75173.2,x,,[meng-:me-] + <karansemen> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75173.3,x,,[meng-:me-] + <ngaransemenkan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75173.4,x,,[meng-:me-] + <karansemenkan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75173.5,v,,meng- + <aransemen> + -kan,bentukan,[5] [VD] meng- + (<all>)
+75173.6,x,,meng- + <aransemenkan>,bentukan,[5] [VD] meng- + (<all>)
+75173.7,x,,<mengaransemen> + -kan,bentukan,[29] [S] -kan + (<all>)
+75173.8,x,,<mengaransemenk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+75174,k,6,mengarantina,dasar,
+75174.1,x,,[meng-:me-] + <ngarantina>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75174.2,v,,[meng-:me-] + <karantina>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75174.3,x,,meng- + <arantina>,bentukan,[5] [VD] meng- + (<all>)
+,,,,,
+75175,k,0,mengarantinakan,dasar,
+75175.1,x,,[meng-:me-] + <ngarantina> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75175.2,v,,[meng-:me-] + <karantina> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75175.3,x,,[meng-:me-] + <ngarantinakan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75175.4,x,,[meng-:me-] + <karantinakan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75175.5,x,,meng- + <arantina> + -kan,bentukan,[5] [VD] meng- + (<all>)
+75175.6,x,,meng- + <arantinakan>,bentukan,[5] [VD] meng- + (<all>)
+75175.7,x,,<mengarantina> + -kan,bentukan,[29] [S] -kan + (<all>)
+75175.8,x,,<mengarantinak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+75176,k,0,mengaras,dasar,
+75176.1,x,,[meng-:me-] + <ngaras>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75176.2,x,,[meng-:me-] + <karas>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75176.3,v,,meng- + <aras>,bentukan,[5] [VD] meng- + (<all>)
+,,,,,
+75177,k,0,mengaras awan,dasar,
+75177.1,x,,[meng-:me-] + <ngaras awan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75177.2,x,,[meng-:me-] + <karas awan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75177.3,x,,meng- + <aras awan>,bentukan,[5] [VD] meng- + (<all>)
+75177.4,x,,<mengaras aw> + -an,bentukan,[38] [S] -an + (<all>)
+75177.5,x,,<mengaras a> + -wan,bentukan,[180] [S] -wan + (<others>)
+75177.6,x,,<mengaras > + [-wan:-awan],bentukan,[18000001] [S] -wan + (<all>)
+,,,,,
+75178,k,0,mengarau,dasar,
+75178.1,x,,[meng-:me-] + <ngarau>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75178.2,v,,[meng-:me-] + <karau>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75178.3,x,,meng- + <arau>,bentukan,[5] [VD] meng- + (<all>)
+,,,,,
+75179,k,0,mengarbida,dasar,
+75179.1,x,,[meng-:me-] + <ngarbida>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75179.2,v,,[meng-:me-] + <karbida>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75179.3,x,,meng- + <arbida>,bentukan,[5] [VD] meng- + (<all>)
+,,,,,
+75180,k,0,mengarbol,dasar,
+75180.1,x,,[meng-:me-] + <ngarbol>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75180.2,v,,[meng-:me-] + <karbol>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75180.3,x,,meng- + <arbol>,bentukan,[5] [VD] meng- + (<all>)
+,,,,,
+75181,k,0,mengares,dasar,
+75181.1,x,,[meng-:me-] + <ngares>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75181.2,x,,[meng-:me-] + <kares>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75181.3,v,,meng- + <ares>,bentukan,[5] [VD] meng- + (<all>)
+,,,,,
+75182,k,0,mengaret,dasar,
+75182.1,x,,[meng-:me-] + <ngaret>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75182.2,v,,[meng-:me-] + <karet>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75182.3,x,,meng- + <aret>,bentukan,[5] [VD] meng- + (<all>)
+,,,,,
+75183,v,2,mengargumentasikan,dasar,
+75183.1,x,,[meng-:me-] + <ngargumentasi> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75183.2,x,,[meng-:me-] + <kargumentasi> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75183.3,x,,[meng-:me-] + <ngargumentasikan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75183.4,x,,[meng-:me-] + <kargumentasikan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75183.5,v,,meng- + <argumentasi> + -kan,bentukan,[5] [VD] meng- + (<all>)
+75183.6,x,,meng- + <argumentasikan>,bentukan,[5] [VD] meng- + (<all>)
+75183.7,x,,<mengargumentasi> + -kan,bentukan,[29] [S] -kan + (<all>)
+75183.8,x,,<mengargumentasik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+75184,k,0,mengari,dasar,
+75184.1,x,,[meng-:me-] + <ngar> + -i,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75184.2,x,,[meng-:me-] + <kar> + -i,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75184.3,x,,[meng-:me-] + <ngari>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75184.4,x,,[meng-:me-] + <kari>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75184.5,v,,meng- + <ari>,bentukan,[5] [VD] meng- + (<all>)
+75184.6,x,,<mengar> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+75185,k,0,mengari kuda,dasar,
+75185.1,x,,[meng-:me-] + <ngari kuda>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75185.2,x,,[meng-:me-] + <kari kuda>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75185.3,x,,meng- + <ari kuda>,bentukan,[5] [VD] meng- + (<all>)
+,,,,,
+75186,k,0,mengarib,dasar,
+75186.1,x,,[meng-:me-] + <ngarib>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75186.2,v,,[meng-:me-] + <karib>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75186.3,x,,meng- + <arib>,bentukan,[5] [VD] meng- + (<all>)
+,,,,,
+75187,k,0,mengaribi,dasar,
+75187.1,x,,[meng-:me-] + <ngarib> + -i,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75187.2,v,,[meng-:me-] + <karib> + -i,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75187.3,x,,[meng-:me-] + <ngaribi>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75187.4,x,,[meng-:me-] + <karibi>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75187.5,x,,meng- + <arib> + -i,bentukan,[5] [VD] meng- + (<all>)
+75187.6,x,,meng- + <aribi>,bentukan,[5] [VD] meng- + (<all>)
+75187.7,x,,<mengarib> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+75188,k,0,mengaribkan,dasar,
+75188.1,x,,[meng-:me-] + <ngarib> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75188.2,v,,[meng-:me-] + <karib> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75188.3,x,,[meng-:me-] + <ngaribkan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75188.4,x,,[meng-:me-] + <karibkan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75188.5,x,,meng- + <arib> + -kan,bentukan,[5] [VD] meng- + (<all>)
+75188.6,x,,meng- + <aribkan>,bentukan,[5] [VD] meng- + (<all>)
+75188.7,x,,<mengarib> + -kan,bentukan,[29] [S] -kan + (<all>)
+75188.8,x,,<mengaribk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+75189,k,0,mengarifi,dasar,
+75189.1,x,,[meng-:me-] + <ngarif> + -i,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75189.2,x,,[meng-:me-] + <karif> + -i,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75189.3,x,,[meng-:me-] + <ngarifi>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75189.4,x,,[meng-:me-] + <karifi>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75189.5,v,,meng- + <arif> + -i,bentukan,[5] [VD] meng- + (<all>)
+75189.6,x,,meng- + <arifi>,bentukan,[5] [VD] meng- + (<all>)
+75189.7,x,,<mengarif> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+75190,k,0,mengarifkan,dasar,
+75190.1,x,,[meng-:me-] + <ngarif> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75190.2,x,,[meng-:me-] + <karif> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75190.3,x,,[meng-:me-] + <ngarifkan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75190.4,x,,[meng-:me-] + <karifkan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75190.5,v,,meng- + <arif> + -kan,bentukan,[5] [VD] meng- + (<all>)
+75190.6,x,,meng- + <arifkan>,bentukan,[5] [VD] meng- + (<all>)
+75190.7,x,,<mengarif> + -kan,bentukan,[29] [S] -kan + (<all>)
+75190.8,x,,<mengarifk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+75191,k,0,mengarih,dasar,
+75191.1,x,,[meng-:me-] + <ngarih>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75191.2,v,,[meng-:me-] + <karih>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75191.3,v,,meng- + <arih>,bentukan,[5] [VD] meng- + (<all>)
+,,,,,
+75192,k,0,mengarihkan,dasar,
+75192.1,x,,[meng-:me-] + <ngarih> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75192.2,v,,[meng-:me-] + <karih> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75192.3,x,,[meng-:me-] + <ngarihkan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75192.4,x,,[meng-:me-] + <karihkan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75192.5,v,,meng- + <arih> + -kan,bentukan,[5] [VD] meng- + (<all>)
+75192.6,x,,meng- + <arihkan>,bentukan,[5] [VD] meng- + (<all>)
+75192.7,x,,<mengarih> + -kan,bentukan,[29] [S] -kan + (<all>)
+75192.8,x,,<mengarihk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+75193,k,0,mengarik,dasar,
+75193.1,x,,[meng-:me-] + <ngarik>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75193.2,x,,[meng-:me-] + <karik>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75193.3,v,,meng- + <arik>,bentukan,[5] [VD] meng- + (<all>)
+,,,,,
+75194,k,0,mengarincang,dasar,
+75194.1,x,,[meng-:me-] + <ngarincang>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75194.2,v,,[meng-:me-] + <karincang>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75194.3,x,,meng- + <arincang>,bentukan,[5] [VD] meng- + (<all>)
+,,,,,
+75195,k,2,mengarit,dasar,
+75195.1,x,,[meng-:me-] + <ngarit>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75195.2,x,,[meng-:me-] + <karit>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75195.3,v,,meng- + <arit>,bentukan,[5] [VD] meng- + (<all>)
+,,,,,
+75196,k,2,mengaron,dasar,
+75196.1,x,,[meng-:me-] + <ngaron>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75196.2,x,,[meng-:me-] + <karon>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75196.3,v,,meng- + <aron>,bentukan,[5] [VD] meng- + (<all>)
+,,,,,
+75197,k,0,mengarsip,dasar,
+75197.1,x,,[meng-:me-] + <ngarsip>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75197.2,x,,[meng-:me-] + <karsip>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75197.3,v,,meng- + <arsip>,bentukan,[5] [VD] meng- + (<all>)
+,,,,,
+75198,k,9,mengarsipkan,dasar,
+75198.1,x,,[meng-:me-] + <ngarsip> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75198.2,x,,[meng-:me-] + <karsip> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75198.3,x,,[meng-:me-] + <ngarsipkan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75198.4,x,,[meng-:me-] + <karsipkan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75198.5,v,,meng- + <arsip> + -kan,bentukan,[5] [VD] meng- + (<all>)
+75198.6,x,,meng- + <arsipkan>,bentukan,[5] [VD] meng- + (<all>)
+75198.7,x,,<mengarsip> + -kan,bentukan,[29] [S] -kan + (<all>)
+75198.8,x,,<mengarsipk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+75199,k,4,mengarsir,dasar,
+75199.1,x,,[meng-:me-] + <ngarsir>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75199.2,x,,[meng-:me-] + <karsir>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75199.3,v,,meng- + <arsir>,bentukan,[5] [VD] meng- + (<all>)
+,,,,,
+75200,v,2,mengarsiteki,dasar,
+75200.1,x,,[meng-:me-] + <ngarsitek> + -i,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75200.2,x,,[meng-:me-] + <karsitek> + -i,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75200.3,x,,[meng-:me-] + <ngarsiteki>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75200.4,x,,[meng-:me-] + <karsiteki>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75200.5,v,,meng- + <arsitek> + -i,bentukan,[5] [VD] meng- + (<all>)
+75200.6,x,,meng- + <arsiteki>,bentukan,[5] [VD] meng- + (<all>)
+75200.7,x,,<mengarsitek> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+75201,k,148,mengartikan,dasar,
+75201.1,x,,[meng-:me-] + <ngarti> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75201.2,x,,[meng-:me-] + <karti> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75201.3,x,,[meng-:me-] + <ngartikan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75201.4,x,,[meng-:me-] + <kartikan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75201.5,v,,meng- + <arti> + -kan,bentukan,[5] [VD] meng- + (<all>)
+75201.6,x,,meng- + <artikan>,bentukan,[5] [VD] meng- + (<all>)
+75201.7,x,,<mengarti> + -kan,bentukan,[29] [S] -kan + (<all>)
+75201.8,x,,<mengartik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+75202,v,11,mengartikannya,dasar,
+75202.1,x,,[meng-:me-] + <ngartikannya>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75202.2,x,,[meng-:me-] + <kartikannya>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75202.3,x,,meng- + <artikannya>,bentukan,[5] [VD] meng- + (<all>)
+75202.4,x,,<mengartikan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+75202.5,x,,[meng-:me-] + <ngarti> + -kan + -nya,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+75202.6,x,,[meng-:me-] + <karti> + -kan + -nya,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+75202.7,x,,[meng-:me-] + <ngartikan> + -nya,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+75202.8,x,,[meng-:me-] + <kartikan> + -nya,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+75202.9,v,,meng- + <arti> + -kan + -nya,bentukan,[5] [VD] meng- + (<all>) => [34] [SFS] -nya + (<all>)
+75202.1,x,,meng- + <artikan> + -nya,bentukan,[5] [VD] meng- + (<all>) => [34] [SFS] -nya + (<all>)
+75202.11,x,,<mengarti> + -kan + -nya,bentukan,[29] [S] -kan + (<all>) => [34] [SFS] -nya + (<all>)
+75202.12,x,,<mengartik> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+75203,k,0,mengartikelkan,dasar,
+75203.1,x,,[meng-:me-] + <ngartikel> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75203.2,x,,[meng-:me-] + <kartikel> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75203.3,x,,[meng-:me-] + <ngartikelkan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75203.4,x,,[meng-:me-] + <kartikelkan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75203.5,v,,meng- + <artikel> + -kan,bentukan,[5] [VD] meng- + (<all>)
+75203.6,x,,meng- + <artikelkan>,bentukan,[5] [VD] meng- + (<all>)
+75203.7,x,,<mengartikel> + -kan,bentukan,[29] [S] -kan + (<all>)
+75203.8,x,,<mengartikelk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+75204,v,2,mengartikulasi,dasar,
+75204.1,x,,[meng-:me-] + <ngartikulas> + -i,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75204.2,x,,[meng-:me-] + <kartikulas> + -i,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75204.3,x,,[meng-:me-] + <ngartikulasi>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75204.4,x,,[meng-:me-] + <kartikulasi>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75204.5,x,,meng- + <artikulas> + -i,bentukan,[5] [VD] meng- + (<all>)
+75204.6,v,,meng- + <artikulasi>,bentukan,[5] [VD] meng- + (<all>)
+75204.7,x,,<mengartikulas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+75205,k,35,mengartikulasikan,dasar,
+75205.1,x,,[meng-:me-] + <ngartikulasi> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75205.2,x,,[meng-:me-] + <kartikulasi> + -kan,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75205.3,x,,[meng-:me-] + <ngartikulasikan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75205.4,x,,[meng-:me-] + <kartikulasikan>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75205.5,v,,meng- + <artikulasi> + -kan,bentukan,[5] [VD] meng- + (<all>)
+75205.6,x,,meng- + <artikulasikan>,bentukan,[5] [VD] meng- + (<all>)
+75205.7,x,,<mengartikulasi> + -kan,bentukan,[29] [S] -kan + (<all>)
+75205.8,x,,<mengartikulasik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+75206,v,4,mengartikulasikannya,dasar,
+75206.1,x,,[meng-:me-] + <ngartikulasikannya>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75206.2,x,,[meng-:me-] + <kartikulasikannya>,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan)
+75206.3,x,,meng- + <artikulasikannya>,bentukan,[5] [VD] meng- + (<all>)
+75206.4,x,,<mengartikulasikan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+75206.5,x,,[meng-:me-] + <ngartikulasi> + -kan + -nya,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+75206.6,x,,[meng-:me-] + <kartikulasi> + -kan + -nya,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+75206.7,x,,[meng-:me-] + <ngartikulasikan> + -nya,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+75206.8,x,,[meng-:me-] + <kartikulasikan> + -nya,bentukan,[1] meng- + (l;m;n;ng;ny;r;w;y;[t:n];[p:m];[k:ng];[s:ny]) + (-i;-kan) => [34] [SFS] -nya + (<all>)
+75206.9,v,,meng- + <artikulasi> + -kan + -nya,bentukan,[5] [VD] meng- + (<all>) => [34] [SFS] -nya + (<all>)
+75206.1,x,,meng- + <artikulasikan> + -nya,bentukan,[5] [VD] meng- + (<all>) => [34] [SFS] -nya + (<all>)
+75206.11,x,,<mengartikulasi> + -kan + -nya,bentukan,[29] [S] -kan + (<all>) => [34] [SFS] -nya + (<all>)
+75206.12,x,,<mengartikulasik> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)

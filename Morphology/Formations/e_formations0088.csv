@@ -1,0 +1,1626 @@
+Nomor,KP,Jumlah,Entri,Tipe,Pembentukan
+42293,k,0,hutan musim,dasar,
+,,,,,
+42294,k,0,hutan negara,dasar,
+,,,,,
+42295,k,0,hutan normal,dasar,
+,,,,,
+42296,k,0,hutan pantai,dasar,
+42296.1,x,,<hutan panta> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+42297,k,0,hutan pegunungan atas,dasar,
+,,,,,
+42298,k,0,hutan pegunungan rendah,dasar,
+,,,,,
+42299,k,0,hutan pegunungan tinggi,dasar,
+42299.1,x,,<hutan pegunungan tingg> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+42300,k,0,hutan perawan,dasar,
+42300.1,x,,<hutan peraw> + -an,bentukan,[38] [S] -an + (<all>)
+42300.2,x,,<hutan pera> + -wan,bentukan,[180] [S] -wan + (<others>)
+42300.3,x,,<hutan per> + [-wan:-awan],bentukan,[18000001] [S] -wan + (<all>)
+,,,,,
+42301,k,0,hutan plantasi,dasar,
+42301.1,x,,<hutan plantas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+42302,k,0,hutan primer,dasar,
+,,,,,
+42303,k,0,hutan produksi,dasar,
+42303.1,x,,<hutan produks> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+42304,k,0,hutan rakyat,dasar,
+,,,,,
+42305,k,0,hutan rantau,dasar,
+,,,,,
+42306,k,0,hutan rawa,dasar,
+,,,,,
+42307,k,0,hutan rimba,dasar,
+,,,,,
+42308,k,0,hutan rontok,dasar,
+,,,,,
+42309,k,0,hutan sabana,dasar,
+,,,,,
+42310,k,0,hutan sekunder,dasar,
+,,,,,
+42311,k,0,hutan semak belukar,dasar,
+,,,,,
+42312,k,0,hutan suaka alam,dasar,
+,,,,,
+42313,k,0,hutan subalpin,dasar,
+,,,,,
+42314,k,0,hutan subtropis,dasar,
+42314.1,x,,<hutan subtropi> + [-is:-s],bentukan,[177] [S] -is + (i)
+42314.2,x,,<hutan subtrop> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+42315,k,0,hutan tanah,dasar,
+,,,,,
+42316,k,0,hutan tropis,dasar,
+42316.1,x,,<hutan tropi> + [-is:-s],bentukan,[177] [S] -is + (i)
+42316.2,x,,<hutan trop> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+42317,k,0,hutan tua,dasar,
+,,,,,
+42318,k,0,hutan tutupan,dasar,
+42318.1,x,,<hutan tutup> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+42319,k,0,hutan wisata,dasar,
+42319.1,x,,<hutan > + -wisata,bentukan,[212] [S] -wisata + (<all>)
+,,,,,
+42320,v,78,hutan-hutan,dasar,
+42320.1,v,,<hutan> [-] <r>,bentukan,[23] [RD] |
+42320.2,x,,<hut> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+42321,v,2,hutan-hutannya,dasar,
+42321.1,x,,<hutan> [-] <r> + -nya,bentukan,[23] [RD] |
+42321.2,x,,<hut> + -an [-] <r> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+42321.3,v,,<hutan> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+42321.4,x,,<hut> + -an [-] <r> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+42322,c,245,hutang,dasar,utang
+,,,,,
+42323,t,13,hutang-hutang,dasar,utang-utang
+42323.1,x,,<hutang> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+42324,t,5,hutang-hutangnya,dasar,utang-utangnya
+42324.1,x,,<hutang> [-] <r> + -nya,bentukan,[23] [RD] |
+42324.2,x,,<hutang> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+42325,t,4,hutang-piutang,dasar,utang-piutang
+,,,,,
+42326,t,2,hutangi,dasar,utangi
+42326.1,x,,<hutang> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+42327,t,2,hutangkan,dasar,utangkan
+42327.1,x,,<hutang> + -kan,bentukan,[29] [S] -kan + (<all>)
+42327.2,x,,<hutangk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+42328,t,25,hutangnya,dasar,utangnya
+42328.1,x,,<hutang> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+42329,v,32,hutannya,dasar,
+42329.1,v,,<hutan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+42329.2,x,,<hut> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+42330,k,7,huwa,dasar,
+,,,,,
+42331,k,0,huwali,dasar,
+42331.1,x,,<huwal> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+42332,k,0,huyung,dasar,
+,,,,,
+42333,k,53,hyang,dasar,
+,,,,,
+42334,k,0,hymne,dasar,
+,,,,,
+42335,k,0,i,dasar,
+,,,,,
+42336,k,9761,ia,dasar,
+,,,,,
+42337,k,0,iaido,dasar,
+,,,,,
+42338,k,0,iaidoka,dasar,
+,,,,,
+42339,k,1232,ialah,dasar,
+42339.1,v,,<ia> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+42340,k,0,iambus,dasar,
+,,,,,
+42341,k,0,iap,dasar,
+,,,,,
+42342,k,0,iapetus,dasar,
+,,,,,
+42343,k,0,iatrofobia,dasar,
+42343.1,x,,<iatro> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+42344,k,0,iatrogenik,dasar,
+,,,,,
+42345,k,180,iba,dasar,
+,,,,,
+42346,k,1047,ibadah,dasar,
+,,,,,
+42347,k,0,ibadah badaniah,dasar,
+42347.1,x,,<ibadah badan> + -iah,bentukan,[175] [S] -iah + (<others>)
+,,,,,
+42348,k,0,ibadah haji,dasar,
+42348.1,x,,<ibadah haj> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+42349,k,0,ibadah puasa,dasar,
+,,,,,
+42350,k,0,ibadah sunah,dasar,
+,,,,,
+42351,k,0,ibadah wajib,dasar,
+,,,,,
+42352,v,12,ibadah-ibadah,dasar,
+42352.1,v,,<ibadah> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+42353,d,0,ibadahnya,dasar,
+42353.1,v,,<ibadah> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+42354,k,38,ibadat,dasar,
+,,,,,
+42355,k,0,ibadat arwah,dasar,
+,,,,,
+42356,v,2,ibadat-ibadat,dasar,
+42356.1,v,,<ibadat> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+42357,v,5,ibadatnya,dasar,
+42357.1,v,,<ibadat> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+42358,k,0,ibadurahman,dasar,
+42358.1,x,,<ibadurahm> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+42359,k,0,ibah,dasar,
+,,,,,
+42360,k,0,iban,dasar,
+42360.1,x,,<ib> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+42361,v,2,ibanya,dasar,
+42361.1,v,,<iba> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+42362,k,0,ibar-ibar,dasar,
+42362.1,x,,<ibar> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+42363,k,483,ibarat,dasar,
+,,,,,
+42364,v,15,ibaratkan,dasar,
+42364.1,v,,<ibarat> + -kan,bentukan,[29] [S] -kan + (<all>)
+42364.2,x,,<ibaratk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+42365,v,82,ibaratnya,dasar,
+42365.1,v,,<ibarat> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+42366,k,0,ibayuh,dasar,
+,,,,,
+42367,k,0,ibidem,dasar,
+,,,,,
+42368,k,0,ibing,dasar,
+,,,,,
+42369,k,0,ibis cucuk besi,dasar,
+42369.1,x,,<ibis cucuk bes> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+42370,k,181,iblis,dasar,
+42370.1,x,,<ibli> + [-is:-s],bentukan,[177] [S] -is + (i)
+42370.2,x,,<ibl> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+42371,v,18,iblis-iblis,dasar,
+42371.1,v,,<iblis> [-] <r>,bentukan,[23] [RD] |
+42371.2,x,,<ibli> + [-is:-s] [-] <r> + [-is:-s],bentukan,[177] [S] -is + (i) => [23] [RD] |
+42371.3,x,,<ibl> + -is [-] <r> + -is,bentukan,[178] [S] -is + (<others>) => [23] [RD] |
+,,,,,
+42372,v,3,iblisnya,dasar,
+42372.1,v,,<iblis> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+42372.2,x,,<ibli> + [-is:-s] + -nya,bentukan,[177] [S] -is + (i) => [34] [SFS] -nya + (<all>)
+42372.3,x,,<ibl> + -is + -nya,bentukan,[178] [S] -is + (<others>) => [34] [SFS] -nya + (<all>)
+,,,,,
+42373,k,2,ibni,dasar,
+42373.1,x,,<ibn> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+42374,k,182,ibnu,dasar,
+,,,,,
+42375,k,0,ibnusabil,dasar,
+,,,,,
+42376,k,11,ibra,dasar,
+,,,,,
+42377,k,8,ibrah,dasar,
+,,,,,
+42378,k,306,ibrahim,dasar,
+,,,,,
+42379,k,14,ibrani,dasar,
+42379.1,x,,<ibran> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+42380,k,0,ibrit,dasar,
+,,,,,
+42381,k,2,ibtida,dasar,
+,,,,,
+42382,k,2,ibtidaiah,dasar,
+42382.1,v,,<ibtida> + -iah,bentukan,[175] [S] -iah + (<others>)
+,,,,,
+42383,k,3994,ibu,dasar,
+,,,,,
+42384,k,0,ibu akar,dasar,
+,,,,,
+42385,k,0,ibu angkat,dasar,
+,,,,,
+42386,k,0,ibu ayam,dasar,
+,,,,,
+42387,k,0,ibu bapak,dasar,
+,,,,,
+42388,k,0,ibu baptis,dasar,
+42388.1,x,,<ibu bapti> + [-is:-s],bentukan,[177] [S] -is + (i)
+42388.2,x,,<ibu bapt> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+42389,k,0,ibu jari,dasar,
+42389.1,x,,<ibu jar> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+42390,k,0,ibu kaki,dasar,
+42390.1,x,,<ibu kak> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+42391,k,0,ibu kandung,dasar,
+,,,,,
+42392,d,0,ibu kantin,dasar,
+,,,,,
+42393,k,0,ibu kecamatan,dasar,
+42393.1,x,,<ibu kecamat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+42394,k,0,ibu kota,dasar,
+,,,,,
+42395,k,0,ibu kota kabupaten,dasar,
+,,,,,
+42396,k,0,ibu kota madya,dasar,
+,,,,,
+42397,k,0,ibu kota negara,dasar,
+,,,,,
+42398,k,0,ibu kota provinsi,dasar,
+42398.1,x,,<ibu kota provins> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+42399,k,0,ibu negara,dasar,
+,,,,,
+42400,k,0,ibu negeri,dasar,
+42400.1,x,,<ibu neger> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+42401,k,0,ibu papan,dasar,
+42401.1,x,,<ibu pap> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+42402,k,0,ibu pasir,dasar,
+,,,,,
+42403,k,0,ibu pengganti,dasar,
+42403.1,x,,<ibu penggant> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+42404,k,0,ibu permandian,dasar,
+42404.1,x,,<ibu permandi> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+42405,k,0,ibu pertiwi,dasar,
+42405.1,x,,<ibu pertiw> + -i,bentukan,[28] [S] -i + (<all>)
+42405.2,x,,<ibu perti> + -wi,bentukan,[174] [S] -wi + (<others>)
+,,,,,
+42406,k,0,ibu pungut,dasar,
+,,,,,
+42407,k,0,ibu rumah tangga,dasar,
+,,,,,
+42408,k,0,ibu sambung,dasar,
+,,,,,
+42409,k,0,ibu siaga,dasar,
+,,,,,
+42410,k,0,ibu sungai,dasar,
+42410.1,x,,<ibu sunga> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+42411,k,0,ibu suri,dasar,
+42411.1,x,,<ibu sur> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+42412,k,0,ibu tangan,dasar,
+42412.1,x,,<ibu tang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+42413,k,0,ibu tangga,dasar,
+,,,,,
+42414,k,0,ibu tiri,dasar,
+42414.1,x,,<ibu tir> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+42415,v,2,ibu-ibunya,dasar,
+42415.1,x,,<ibu> [-] <r> + -nya,bentukan,[23] [RD] |
+42415.2,v,,<ibu> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+42416,c,3,ibuk,dasar,hibuk
+,,,,,
+42417,c,478,ibukota,dasar,ibu kota
+,,,,,
+42418,v,264,ibuku,dasar,
+42418.1,v,,<ibu> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+42419,v,3,ibukulah,dasar,
+42419.1,x,,<ibuku> + -lah,bentukan,[31] [FS] -lah + (<all>)
+42419.2,v,,<ibu> + -ku + -lah,bentukan,[32] [SFS] -ku + (<all>) => [31] [FS] -lah + (<all>)
+,,,,,
+42420,k,0,ibul,dasar,
+,,,,,
+42421,v,24,ibulah,dasar,
+42421.1,v,,<ibu> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+42422,v,216,ibumu,dasar,
+42422.1,v,,<ibu> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+,,,,,
+42423,v,3,ibumulah,dasar,
+42423.1,x,,<ibumu> + -lah,bentukan,[31] [FS] -lah + (<all>)
+42423.2,v,,<ibu> + -mu + -lah,bentukan,[33] [SFS] -mu + (<all>) => [31] [FS] -lah + (<all>)
+,,,,,
+42424,k,4,ibun,dasar,
+,,,,,
+42425,k,0,ibun abadi,dasar,
+42425.1,x,,<ibun abad> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+42426,k,0,ibun bening,dasar,
+,,,,,
+42427,k,0,ibun kristal,dasar,
+,,,,,
+42428,k,0,ibun tanah,dasar,
+,,,,,
+42429,k,112,ibunda,dasar,
+42429.1,x,,<ibu> + [-anda:-nda],bentukan,[183] [S] -anda + (i;u;a;[k:])
+,,,,,
+42430,v,35,ibundanya,dasar,
+42430.1,v,,<ibunda> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+42430.2,x,,<ibu> + [-anda:-nda] + -nya,bentukan,[183] [S] -anda + (i;u;a;[k:]) => [34] [SFS] -nya + (<all>)
+,,,,,
+42431,k,0,ibung,dasar,
+,,,,,
+42432,v,1084,ibunya,dasar,
+42432.1,v,,<ibu> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+42433,v,11,ibunyalah,dasar,
+42433.1,x,,<ibunya> + -lah,bentukan,[31] [FS] -lah + (<all>)
+42433.2,v,,<ibu> + -nya + -lah,bentukan,[34] [SFS] -nya + (<all>) => [31] [FS] -lah + (<all>)
+,,,,,
+42434,v,8,ibuprofen,dasar,
+,,,,,
+42435,k,3,ibus,dasar,
+,,,,,
+42436,k,0,icak-icak,dasar,
+42436.1,x,,<icak> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+42437,k,0,icip,dasar,
+,,,,,
+42438,k,5,icip-icip,dasar,
+42438.1,v,,<icip> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+42439,k,293,id,dasar,
+,,,,,
+42440,k,212,ida,dasar,
+,,,,,
+42441,k,0,ida ayu,dasar,
+,,,,,
+42442,k,0,ida bagus,dasar,
+,,,,,
+42443,k,10,idah,dasar,
+,,,,,
+42444,k,0,idah gelap,dasar,
+,,,,,
+42445,k,0,idah terang,dasar,
+,,,,,
+42446,k,13,idam,dasar,
+,,,,,
+42447,k,0,idam-idam,dasar,
+42447.1,v,,<idam> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+42448,v,16,idam-idamkan,dasar,
+42448.1,v,,<idam> [-] <r> + -kan,bentukan,[23] [RD] |
+,,,,,
+42449,k,128,idaman,dasar,
+42449.1,v,,<idam> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+42450,v,23,idamannya,dasar,
+42450.1,x,,<idaman> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+42450.2,v,,<idam> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+42451,v,15,idamkan,dasar,
+42451.1,v,,<idam> + -kan,bentukan,[29] [S] -kan + (<all>)
+42451.2,x,,<idamk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+42452,k,11,idap,dasar,
+,,,,,
+42453,k,0,idapan,dasar,
+42453.1,v,,<idap> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+42454,k,0,idarah,dasar,
+,,,,,
+42455,k,0,idas,dasar,
+,,,,,
+42456,k,1233,ide,dasar,
+,,,,,
+42457,v,296,ide-ide,dasar,
+42457.1,v,,<ide> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+42458,v,34,ide-idenya,dasar,
+42458.1,x,,<ide> [-] <r> + -nya,bentukan,[23] [RD] |
+42458.2,v,,<ide> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+42459,k,857,ideal,dasar,
+,,,,,
+42460,v,4,ideal-ideal,dasar,
+42460.1,v,,<ideal> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+42461,k,89,idealis,dasar,
+42461.1,x,,<ideali> + [-is:-s],bentukan,[177] [S] -is + (i)
+42461.2,v,,<ideal> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+42462,k,13,idealisasi,dasar,
+42462.1,x,,<idealisas> + -i,bentukan,[28] [S] -i + (<all>)
+42462.2,x,,<ideali> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+42462.3,x,,<idealis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+42462.4,v,,<ideal> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+42463,k,127,idealisme,dasar,
+42463.1,v,,<ideal> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+42464,v,19,idealismenya,dasar,
+42464.1,x,,<idealisme> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+42464.2,v,,<ideal> + -isme + -nya,bentukan,[89] [S] -isme + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+42465,t,5,idealistik,dasar,idealistis
+,,,,,
+42466,k,7,idealistis,dasar,
+42466.1,x,,<idealisti> + [-is:-s],bentukan,[177] [S] -is + (i)
+42466.2,x,,<idealist> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+42467,v,334,idealnya,dasar,
+42467.1,v,,<ideal> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+42468,k,9,ideasional,dasar,
+,,,,,
+42469,v,10,ideku,dasar,
+42469.1,v,,<ide> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+42470,k,12,idem,dasar,
+,,,,,
+42471,v,4,idemu,dasar,
+42471.1,v,,<ide> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+,,,,,
+42472,k,947,identifikasi,dasar,
+42472.1,x,,<identifikas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+42473,k,0,identifikasi nomor otomatis,dasar,
+42473.1,x,,<identifikasi nomor otomati> + [-is:-s],bentukan,[177] [S] -is + (i)
+42473.2,x,,<identifikasi nomor otomat> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+42474,v,12,identifikasikan,dasar,
+42474.1,v,,<identifikasi> + -kan,bentukan,[29] [S] -kan + (<all>)
+42474.2,x,,<identifikasik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+42475,v,10,identifikasilah,dasar,
+42475.1,v,,<identifikasi> + -lah,bentukan,[31] [FS] -lah + (<all>)
+42475.2,x,,<identifikas> + -i + -lah,bentukan,[28] [S] -i + (<all>) => [31] [FS] -lah + (<all>)
+,,,,,
+42476,v,2,identifikatif,dasar,
+,,,,,
+42477,k,537,identik,dasar,
+,,,,,
+42478,v,2,identikkan,dasar,
+42478.1,v,,<identik> + -kan,bentukan,[29] [S] -kan + (<all>)
+42478.2,x,,<identikk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+42479,k,0,identis,dasar,
+42479.1,x,,<identi> + [-is:-s],bentukan,[177] [S] -is + (i)
+42479.2,x,,<ident> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+42480,k,1671,identitas,dasar,
+42480.1,x,,<ident> + -itas,bentukan,[205] [S] -itas + (<others>)
+,,,,,
+42481,k,0,identitas androgini,dasar,
+42481.1,x,,<identitas androgin> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+42482,k,0,identitas diri,dasar,
+42482.1,x,,<identitas dir> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+42483,k,0,identitas etnik,dasar,
+,,,,,
+42484,k,0,identitas gender,dasar,
+,,,,,
+42485,k,0,identitas terpisah,dasar,
+,,,,,
+42486,v,8,identitas-identitas,dasar,
+42486.1,v,,<identitas> [-] <r>,bentukan,[23] [RD] |
+42486.2,x,,<ident> + -itas [-] <r> + -itas,bentukan,[205] [S] -itas + (<others>) => [23] [RD] |
+,,,,,
+42487,v,5,identitasku,dasar,
+42487.1,v,,<identitas> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+42487.2,x,,<ident> + -itas + -ku,bentukan,[205] [S] -itas + (<others>) => [32] [SFS] -ku + (<all>)
+,,,,,
+42488,v,3,identitasmu,dasar,
+42488.1,v,,<identitas> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+42488.2,x,,<ident> + -itas + -mu,bentukan,[205] [S] -itas + (<others>) => [33] [SFS] -mu + (<all>)
+,,,,,
+42489,v,234,identitasnya,dasar,
+42489.1,v,,<identitas> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+42489.2,x,,<ident> + -itas + -nya,bentukan,[205] [S] -itas + (<others>) => [34] [SFS] -nya + (<all>)
+,,,,,
+42490,v,115,idenya,dasar,
+42490.1,v,,<ide> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+42491,k,0,ideofobia,dasar,
+42491.1,x,,<ideo> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+42492,k,0,ideofon,dasar,
+,,,,,
+42493,k,0,ideograf,dasar,
+42493.1,x,,<ideo> + -graf,bentukan,[191] [S] -graf + (<all>)
+,,,,,
+42494,k,0,ideografi,dasar,
+42494.1,v,,<ideograf> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+42495,k,0,ideografis,dasar,
+42495.1,x,,<ideografi> + [-is:-s],bentukan,[177] [S] -is + (i)
+42495.2,v,,<ideograf> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+42496,k,0,ideogram,dasar,
+,,,,,
+42497,k,549,ideologi,dasar,
+42497.1,x,,<ideolog> + -i,bentukan,[28] [S] -i + (<all>)
+42497.2,x,,<ideo> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+42498,k,0,ideologi politik,dasar,
+,,,,,
+42499,v,25,ideologi-ideologi,dasar,
+42499.1,v,,<ideologi> [-] <r>,bentukan,[23] [RD] |
+42499.2,x,,<ideolog> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+42499.3,x,,<ideo> + -logi [-] <r> + -logi,bentukan,[190] [S] -logi + (<all>) => [23] [RD] |
+,,,,,
+42500,v,46,ideologinya,dasar,
+42500.1,v,,<ideologi> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+42500.2,x,,<ideolog> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+42500.3,x,,<ideo> + -logi + -nya,bentukan,[190] [S] -logi + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+42501,k,154,ideologis,dasar,
+42501.1,v,,<ideologi> + [-is:-s],bentukan,[177] [S] -is + (i)
+42501.2,x,,<ideolog> + -is,bentukan,[178] [S] -is + (<others>)
+42501.3,x,,<ideo> + -logi+-s,bentukan,[194] [MS] -logi+-s + (<all>)
+,,,,,
+42502,v,6,ideologisnya,dasar,
+42502.1,v,,<ideologis> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+42502.2,v,,<ideologi> + [-is:-s] + -nya,bentukan,[177] [S] -is + (i) => [34] [SFS] -nya + (<all>)
+42502.3,x,,<ideolog> + -is + -nya,bentukan,[178] [S] -is + (<others>) => [34] [SFS] -nya + (<all>)
+42502.4,x,,<ideo> + -logi+-s + -nya,bentukan,[194] [MS] -logi+-s + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+42503,k,3,idep,dasar,
+,,,,,
+42504,k,0,ider,dasar,
+,,,,,
+42505,v,4,idih,dasar,
+,,,,,
+42506,c,5,idiil,dasar,ideal
+,,,,,
+42507,k,2,idiofon,dasar,
+,,,,,
+42508,k,0,idiografik,dasar,
+,,,,,
+42509,k,0,idiokromatik,dasar,
+,,,,,
+42510,k,2,idiolek,dasar,
+,,,,,
+42511,c,20,idiologi,dasar,ideologi
+42511.1,x,,<idiolog> + -i,bentukan,[28] [S] -i + (<all>)
+42511.2,x,,<idio> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+42512,t,2,idiologi-idiologi,dasar,ideologi-ideologi
+42512.1,x,,<idiologi> [-] <r>,bentukan,[23] [RD] |
+42512.2,x,,<idiolog> + -i [-] <r> + -i,bentukan,[28] [S] -i + (<all>) => [23] [RD] |
+42512.3,x,,<idio> + -logi [-] <r> + -logi,bentukan,[190] [S] -logi + (<all>) => [23] [RD] |
+,,,,,
+42513,t,6,idiologis,dasar,ideologis
+42513.1,x,,<idiologi> + [-is:-s],bentukan,[177] [S] -is + (i)
+42513.2,x,,<idiolog> + -is,bentukan,[178] [S] -is + (<others>)
+42513.3,x,,<idio> + -logi+-s,bentukan,[194] [MS] -logi+-s + (<all>)
+,,,,,
+42514,k,39,idiom,dasar,
+,,,,,
+42515,v,14,idiom-idiom,dasar,
+42515.1,v,,<idiom> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+42516,t,4,idiomatik,dasar,idiomatis
+,,,,,
+42517,k,3,idiomatis,dasar,
+42517.1,x,,<idiomati> + [-is:-s],bentukan,[177] [S] -is + (i)
+42517.2,x,,<idiomat> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+42518,k,0,idiomatologi,dasar,
+42518.1,x,,<idiomatolog> + -i,bentukan,[28] [S] -i + (<all>)
+42518.2,x,,<idiomato> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+42519,k,0,idiomorf,dasar,
+,,,,,
+42520,k,0,idiosi,dasar,
+42520.1,x,,<idios> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+42521,k,0,idiosinkrasi,dasar,
+42521.1,x,,<idiosinkras> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+42522,k,3,idiosinkratik,dasar,
+,,,,,
+42523,k,22,idiot,dasar,
+,,,,,
+42524,k,0,idip-idip,dasar,
+42524.1,x,,<idip> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+42525,t,24,idol,dasar,idola
+,,,,,
+42526,k,137,idola,dasar,
+,,,,,
+42527,v,7,idolaku,dasar,
+42527.1,v,,<idola> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+42528,v,4,idolamu,dasar,
+42528.1,v,,<idola> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+,,,,,
+42529,v,55,idolanya,dasar,
+42529.1,v,,<idola> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+42530,k,0,idolisasi,dasar,
+42530.1,x,,<idolisas> + -i,bentukan,[28] [S] -i + (<all>)
+42530.2,x,,<idoli> + [-isasi:-sasi],bentukan,[166] [S] -isasi + (i)
+42530.3,x,,<idolis> + [-isasi:-asi],bentukan,[167] [S] -isasi + (is)
+42530.4,x,,<idol> + -isasi,bentukan,[169] [S] -isasi + (<others>)
+,,,,,
+42531,k,0,idrak,dasar,
+,,,,,
+42532,k,111,idris,dasar,
+42532.1,x,,<idri> + [-is:-s],bentukan,[177] [S] -is + (i)
+42532.2,x,,<idr> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+42533,k,0,idu,dasar,
+,,,,,
+42534,t,0,idul fitri,dasar,idulfitri
+42534.1,x,,<idul fitr> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+42535,k,10,iduladha,dasar,
+,,,,,
+42536,k,41,idulfitri,dasar,
+42536.1,x,,<idulfitr> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+42537,k,0,idulkurban,dasar,
+42537.1,x,,<idulkurb> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+42538,k,0,idzin,dasar,
+,,,,,
+42539,k,2,ifah,dasar,
+,,,,,
+42540,k,4,ifrit,dasar,
+,,,,,
+42541,k,5,iftar,dasar,
+,,,,,
+42542,k,3,iftitah,dasar,
+,,,,,
+42543,k,0,ifumi,dasar,
+42543.1,x,,<ifum> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+42544,k,37,iga,dasar,
+,,,,,
+42545,k,0,iga landung,dasar,
+,,,,,
+42546,k,0,iga selungkang,dasar,
+,,,,,
+42547,k,0,iga wekas,dasar,
+,,,,,
+42548,v,2,igaku,dasar,
+42548.1,v,,<iga> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+42549,k,0,igal,dasar,
+,,,,,
+42550,v,5,iganya,dasar,
+42550.1,v,,<iga> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+42551,k,5,igau,dasar,
+,,,,,
+42552,k,0,igau-igauan,dasar,
+42552.1,v,,<igau> [-] <r> + -an,bentukan,[23] [RD] |
+,,,,,
+42553,k,14,igauan,dasar,
+42553.1,v,,<igau> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+42554,v,2,igaunya,dasar,
+42554.1,v,,<igau> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+42555,k,0,iglo,dasar,
+,,,,,
+42556,k,0,igora,dasar,
+,,,,,
+42557,k,8,iguana,dasar,
+,,,,,
+42558,k,55,ih,dasar,
+,,,,,
+42559,k,0,ihanah,dasar,
+,,,,,
+42560,k,0,ihau,dasar,
+,,,,,
+42561,k,0,ihdad,dasar,
+,,,,,
+42562,k,0,ihlas,dasar,
+,,,,,
+42563,k,0,ihoko,dasar,
+,,,,,
+42564,k,32,ihram,dasar,
+,,,,,
+42565,k,67,ihsan,dasar,
+42565.1,x,,<ihs> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+42566,k,0,ihsanat,dasar,
+,,,,,
+42567,k,0,ihsas,dasar,
+,,,,,
+42568,c,3,ihtiar,dasar,ikhtiar
+,,,,,
+42569,k,0,ihtifal,dasar,
+,,,,,
+42570,k,0,ihtikar,dasar,
+,,,,,
+42571,k,0,ihtimal,dasar,
+,,,,,
+42572,k,462,ihwal,dasar,
+,,,,,
+42573,v,3,ihwalnya,dasar,
+42573.1,v,,<ihwal> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+42574,k,0,ija lunggi,dasar,
+42574.1,x,,<ija lungg> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+42575,k,39,ijab,dasar,
+,,,,,
+42576,k,0,ijab kabul,dasar,
+,,,,,
+42577,k,0,ijab nikah,dasar,
+42577.1,x,,<ijab ni> + -kah,bentukan,[30] [FS] -kah + (<all>)
+42577.2,x,,<ijab n> + -i + -kah,bentukan,[28] [S] -i + (<all>) => [30] [FS] -kah + (<all>)
+,,,,,
+42578,k,0,ijabah,dasar,
+,,,,,
+42579,k,0,ijabat,dasar,
+,,,,,
+42580,k,0,ijajil,dasar,
+,,,,,
+42581,k,0,ijambe,dasar,
+,,,,,
+42582,k,53,ijarah,dasar,
+,,,,,
+42583,k,0,ijas,dasar,
+,,,,,
+42584,c,19,ijasah,dasar,ijazah
+,,,,,
+42585,k,268,ijazah,dasar,
+,,,,,
+42586,k,0,ijazah bodong,dasar,
+,,,,,
+42587,v,20,ijazahnya,dasar,
+42587.1,v,,<ijazah> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+42588,k,0,ijbar,dasar,
+,,,,,
+42589,k,0,ijeman,dasar,
+42589.1,x,,<ijem> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+42590,c,313,ijin,dasar,izin
+,,,,,
+42591,t,3,ijin-ijin,dasar,izin-izin
+42591.1,x,,<ijin> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+42592,t,13,ijinkan,dasar,izinkan
+42592.1,x,,<ijin> + -kan,bentukan,[29] [S] -kan + (<all>)
+42592.2,x,,<ijink> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+42593,t,2,ijinkanlah,dasar,izinkanlah
+42593.1,x,,<ijinkan> + -lah,bentukan,[31] [FS] -lah + (<all>)
+42593.2,x,,<ijin> + -kan + -lah,bentukan,[29] [S] -kan + (<all>) => [31] [FS] -lah + (<all>)
+42593.3,x,,<ijink> + -an + -lah,bentukan,[38] [S] -an + (<all>) => [31] [FS] -lah + (<all>)
+,,,,,
+42594,t,2,ijitihad,dasar,ijtihad
+,,,,,
+42595,t,18,ijma,dasar,ijmak
+,,,,,
+42596,k,4,ijmak,dasar,
+,,,,,
+42597,k,0,ijmak ulama,dasar,
+,,,,,
+42598,k,0,ijmal,dasar,
+,,,,,
+42599,c,50,ijo,dasar,hijau
+,,,,,
+42600,k,15,ijon,dasar,
+,,,,,
+42601,k,53,ijtihad,dasar,
+,,,,,
+42602,c,19,ijtima,dasar,ijtimak
+,,,,,
+42603,k,0,ijtimaiah,dasar,
+42603.1,x,,<ijtima> + -iah,bentukan,[175] [S] -iah + (<others>)
+,,,,,
+42604,k,6,ijtimak,dasar,
+,,,,,
+42605,k,46,ijuk,dasar,
+,,,,,
+42606,v,2,ijuknya,dasar,
+42606.1,v,,<ijuk> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+42607,k,0,ikab,dasar,
+,,,,,
+42608,k,70,ikal,dasar,
+,,,,,
+42609,k,0,ikal mayang,dasar,
+,,,,,
+42610,k,0,ikal takterhingga,dasar,
+,,,,,
+42611,k,0,ikalan,dasar,
+42611.1,v,,<ikal> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+42612,v,3,ikalku,dasar,
+42612.1,v,,<ikal> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+42613,v,10,ikalnya,dasar,
+42613.1,v,,<ikal> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+42614,k,5,ikamah,dasar,
+,,,,,
+42615,k,1331,ikan,dasar,
+42615.1,x,,<i> + -kan,bentukan,[29] [S] -kan + (<all>)
+42615.2,x,,<ik> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+42616,k,0,ikan abisal,dasar,
+,,,,,
+42617,k,0,ikan adfluvial,dasar,
+,,,,,
+42618,k,0,ikan adu siam,dasar,
+,,,,,
+42619,k,0,ikan air tawar,dasar,
+,,,,,
+42620,k,0,ikan alu,dasar,
+,,,,,
+42621,k,0,ikan anadrom fluvial,dasar,
+,,,,,
+42622,k,0,ikan anadrom lakustrin,dasar,
+,,,,,
+42623,k,0,ikan arapaima,dasar,
+,,,,,
+42624,k,0,ikan asap,dasar,
+,,,,,
+42625,k,0,ikan asin,dasar,
+,,,,,
+42626,k,0,ikan badut,dasar,
+,,,,,
+42627,k,0,ikan bakar,dasar,
+,,,,,
+42628,k,0,ikan basah,dasar,
+,,,,,
+42629,k,0,ikan batipelagis,dasar,
+42629.1,x,,<ikan batipelagi> + [-is:-s],bentukan,[177] [S] -is + (i)
+42629.2,x,,<ikan batipelag> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+42630,k,0,ikan batu,dasar,
+,,,,,
+42631,k,0,ikan bedukang,dasar,
+,,,,,
+42632,k,0,ikan beku,dasar,
+42632.1,x,,<ikan be> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+,,,,,
+42633,k,0,ikan belalang,dasar,
+,,,,,
+42634,k,0,ikan beliung,dasar,
+,,,,,
+42635,k,0,ikan belukang,dasar,
+,,,,,
+42636,k,0,ikan bembam,dasar,
+,,,,,
+42637,k,0,ikan bentik,dasar,
+,,,,,
+42638,k,0,ikan bersirip,dasar,
+,,,,,
+42639,k,0,ikan biawan,dasar,
+42639.1,x,,<ikan biaw> + -an,bentukan,[38] [S] -an + (<all>)
+42639.2,x,,<ikan bia> + -wan,bentukan,[180] [S] -wan + (<others>)
+42639.3,x,,<ikan bi> + [-wan:-awan],bentukan,[18000001] [S] -wan + (<all>)
+,,,,,
+42640,k,0,ikan bidadari,dasar,
+42640.1,x,,<ikan bidadar> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+42641,k,0,ikan boto-boto,dasar,
+,,,,,
+42642,k,0,ikan buas,dasar,
+,,,,,
+42643,k,0,ikan bulalao,dasar,
+,,,,,
+42644,k,0,ikan bulan,dasar,
+42644.1,x,,<ikan bul> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+42645,k,0,ikan capelin,dasar,
+,,,,,
+42646,k,0,ikan capung,dasar,
+,,,,,
+42647,k,0,ikan cue,dasar,
+,,,,,
+42648,k,0,ikan darat,dasar,
+,,,,,
+42649,k,0,ikan dasar,dasar,
+,,,,,
+42650,k,0,ikan demersal,dasar,
+,,,,,
+42651,k,0,ikan diskus,dasar,
+,,,,,
+42652,k,0,ikan dokter,dasar,
+,,,,,
+42653,k,0,ikan duri,dasar,
+42653.1,x,,<ikan dur> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+42654,k,0,ikan eksotik,dasar,
+,,,,,
+42655,k,0,ikan emas,dasar,
+,,,,,
+42656,k,0,ikan emas pamarasan,dasar,
+42656.1,x,,<ikan emas pamaras> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+42657,k,0,ikan fluvial,dasar,
+,,,,,
+42658,k,0,ikan forare,dasar,
+,,,,,
+42659,k,0,ikan fosil hidup,dasar,
+,,,,,
+42660,k,0,ikan gajah,dasar,
+,,,,,
+42661,k,0,ikan glodok,dasar,
+,,,,,
+42662,k,0,ikan gobi belirik,dasar,
+,,,,,
+42663,k,0,ikan graskap,dasar,
+,,,,,
+42664,k,0,ikan gurita,dasar,
+,,,,,
+42665,k,0,ikan herbivor,dasar,
+,,,,,
+42666,k,0,ikan hias,dasar,
+,,,,,
+42667,k,0,ikan hibrida,dasar,
+,,,,,
+42668,k,0,ikan jarang gigi,dasar,
+42668.1,x,,<ikan jarang gig> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+42669,k,0,ikan jelawat,dasar,
+,,,,,
+42670,k,0,ikan kambing,dasar,
+,,,,,
+42671,k,0,ikan kancera domas,dasar,
+,,,,,
+42672,k,0,ikan kapas,dasar,
+,,,,,
+42673,k,0,ikan kapindang,dasar,
+,,,,,
+42674,k,0,ikan karang,dasar,
+,,,,,
+42675,k,0,ikan kawal,dasar,
+,,,,,
+42676,k,0,ikan kawan,dasar,
+42676.1,x,,<ikan kaw> + -an,bentukan,[38] [S] -an + (<all>)
+42676.2,x,,<ikan ka> + -wan,bentukan,[180] [S] -wan + (<others>)
+42676.3,x,,<ikan k> + [-wan:-awan],bentukan,[18000001] [S] -wan + (<all>)
+,,,,,
+42677,k,0,ikan kayu,dasar,
+,,,,,
+42678,k,0,ikan keli,dasar,
+42678.1,x,,<ikan kel> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+42679,k,0,ikan kena tuba,dasar,
+,,,,,
+42680,k,0,ikan kepala timah,dasar,
+,,,,,
+42681,k,0,ikan kering,dasar,
+,,,,,
+42682,k,0,ikan koki,dasar,
+42682.1,x,,<ikan kok> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+42683,k,0,ikan kutuk,dasar,
+,,,,,
+42684,k,0,ikan kuwe hitam,dasar,
+,,,,,
+42685,k,0,ikan laga,dasar,
+,,,,,
+42686,k,0,ikan lakustrin,dasar,
+,,,,,
+42687,k,0,ikan laut,dasar,
+,,,,,
+42688,k,0,ikan layak,dasar,
+,,,,,
+42689,k,0,ikan lepu batu karang,dasar,
+,,,,,
+42690,k,0,ikan lidi,dasar,
+42690.1,x,,<ikan lid> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+42691,k,0,ikan lodan,dasar,
+42691.1,x,,<ikan lod> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+42692,k,0,ikan lou han,dasar,
+42692.1,x,,<ikan lou h> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+42693,k,0,ikan makanan,dasar,
+42693.1,x,,<ikan makan> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+42694,k,0,ikan mambo buntal,dasar,
+,,,,,
+42695,k,0,ikan mangsi,dasar,
+42695.1,x,,<ikan mangs> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+42696,k,0,ikan matang,dasar,
+,,,,,
+42697,k,0,ikan merakar,dasar,
+,,,,,
+42698,k,0,ikan mua,dasar,
+,,,,,
+42699,k,0,ikan muara,dasar,
+,,,,,
+42700,k,0,ikan napoleon,dasar,
+,,,,,
+42701,k,0,ikan nila,dasar,
+,,,,,
+42702,k,0,ikan olahan,dasar,
+42702.1,x,,<ikan olah> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+42703,k,0,ikan ole,dasar,
+,,,,,
+42704,k,0,ikan oseani,dasar,
+42704.1,x,,<ikan osean> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+42705,k,0,ikan ovipar,dasar,
+,,,,,
+42706,k,0,ikan ovovivipar,dasar,
+,,,,,
+42707,k,0,ikan pantai,dasar,
+42707.1,x,,<ikan panta> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+42708,k,0,ikan paru-paru,dasar,
+,,,,,
+42709,k,0,ikan paus,dasar,
+,,,,,
+42710,k,0,ikan peda,dasar,
+,,,,,
+42711,k,0,ikan pekasam,dasar,
+,,,,,
+42712,k,0,ikan pelangi,dasar,
+42712.1,x,,<ikan pelang> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+42713,k,0,ikan pipih,dasar,
+,,,,,
+42714,k,0,ikan puput,dasar,
+,,,,,
+42715,k,0,ikan raja laut,dasar,
+,,,,,
+42716,k,0,ikan rucah,dasar,
+,,,,,
+42717,k,0,ikan salai,dasar,
+42717.1,x,,<ikan sala> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+42718,k,0,ikan salmon,dasar,
+,,,,,
+42719,k,0,ikan sebelah,dasar,
+42719.1,x,,<ikan sebe> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+42720,k,0,ikan semah,dasar,
+,,,,,
+42721,k,0,ikan sembilang,dasar,
+,,,,,
+42722,k,0,ikan serdadu,dasar,
+,,,,,
+42723,k,0,ikan setan,dasar,
+42723.1,x,,<ikan set> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+42724,k,0,ikan setoka,dasar,
+,,,,,
+42725,k,0,ikan sia,dasar,
+,,,,,
+42726,k,0,ikan sia-sia,dasar,
+,,,,,
+42727,k,0,ikan skorpion,dasar,
+,,,,,
+42728,k,0,ikan sturgeon,dasar,
+,,,,,
+42729,k,0,ikan sumpit,dasar,
+,,,,,
+42730,k,0,ikan sungai,dasar,
+42730.1,x,,<ikan sunga> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+42731,k,0,ikan tambakan,dasar,
+42731.1,x,,<ikan tamba> + -kan,bentukan,[29] [S] -kan + (<all>)
+42731.2,x,,<ikan tambak> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+42732,k,0,ikan tamban,dasar,
+42732.1,x,,<ikan tamb> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+42733,k,0,ikan temenggung,dasar,
+,,,,,
+42734,k,0,ikan tepi,dasar,
+42734.1,x,,<ikan tep> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+42735,k,0,ikan terbang,dasar,
+,,,,,
+42736,k,0,ikan vivipar,dasar,
+,,,,,
+42737,k,156,ikan-ikan,dasar,
+42737.1,v,,<ikan> [-] <r>,bentukan,[23] [RD] |
+42737.2,x,,<i> + -kan [-] <r> + -kan,bentukan,[29] [S] -kan + (<all>) => [23] [RD] |
+42737.3,x,,<ik> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+42738,v,3,ikan-ikanan,dasar,
+42738.1,v,,<ikan> [-] <r> + -an,bentukan,[23] [RD] |
+42738.2,x,,<i> + -kan [-] <r> + -kan + -an,bentukan,[29] [S] -kan + (<all>) => [23] [RD] |
+42738.3,x,,<ik> + -an [-] <r> + -an + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+42739,v,10,ikan-ikannya,dasar,
+42739.1,x,,<ikan> [-] <r> + -nya,bentukan,[23] [RD] |
+42739.2,x,,<i> + -kan [-] <r> + -kan + -nya,bentukan,[29] [S] -kan + (<all>) => [23] [RD] |
+42739.3,x,,<ik> + -an [-] <r> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+42739.4,v,,<ikan> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+42739.5,x,,<i> + -kan [-] <r> + -kan + -nya,bentukan,[29] [S] -kan + (<all>) => [23] [RD] | => [34] [SFS] -nya + (<all>)
+42739.6,x,,<ik> + -an [-] <r> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+42740,k,0,ikanan,dasar,
+42740.1,v,,<ikan> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+42741,v,5,ikanku,dasar,
+42741.1,v,,<ikan> + -ku,bentukan,[32] [SFS] -ku + (<all>)
+42741.2,x,,<i> + -kan + -ku,bentukan,[29] [S] -kan + (<all>) => [32] [SFS] -ku + (<all>)
+42741.3,x,,<ik> + -an + -ku,bentukan,[38] [S] -an + (<all>) => [32] [SFS] -ku + (<all>)
+,,,,,
+42742,v,70,ikannya,dasar,
+42742.1,v,,<ikan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+42742.2,x,,<i> + -kan + -nya,bentukan,[29] [S] -kan + (<all>) => [34] [SFS] -nya + (<all>)
+42742.3,x,,<ik> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+42743,k,239,ikat,dasar,
+,,,,,
+42744,k,0,ikat kepala,dasar,
+,,,,,
+42745,k,0,ikat kolam,dasar,
+,,,,,
+42746,k,0,ikat permata,dasar,
+,,,,,
+42747,k,0,ikat pinggang,dasar,
+,,,,,
+42748,k,0,ikat-ikatan,dasar,
+42748.1,v,,<ikat> [-] <r> + -an,bentukan,[23] [RD] |
+,,,,,
+42749,k,1090,ikatan,dasar,
+42749.1,v,,<ikat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+42750,k,0,ikatan dinas,dasar,
+,,,,,
+42751,k,0,ikatan homopolar,dasar,
+,,,,,
+42752,k,0,ikatan kimia,dasar,
+,,,,,
+42753,k,0,ikatan kovalen,dasar,
+,,,,,
+42754,v,37,ikatan-ikatan,dasar,
+42754.1,v,,<ikatan> [-] <r>,bentukan,[23] [RD] |
+42754.2,v,,<ikat> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+42755,v,29,ikatannya,dasar,
+42755.1,v,,<ikatan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+42755.2,v,,<ikat> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+42756,v,5,ikatkan,dasar,
+42756.1,v,,<ikat> + -kan,bentukan,[29] [S] -kan + (<all>)
+42756.2,x,,<ikatk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+42757,v,3,ikatlah,dasar,
+42757.1,v,,<ikat> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+42758,k,2,ikebana,dasar,
+,,,,,
+42759,k,0,ikhbar,dasar,
+,,,,,
+42760,k,333,ikhlas,dasar,
+,,,,,
+42761,t,2,ikhlasin,dasar,ikhlaskan
+,,,,,
+42762,v,20,ikhlaskan,dasar,
+42762.1,v,,<ikhlas> + -kan,bentukan,[29] [S] -kan + (<all>)
+42762.2,x,,<ikhlask> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+42763,v,2,ikhlaskanlah,dasar,
+42763.1,x,,<ikhlaskan> + -lah,bentukan,[31] [FS] -lah + (<all>)
+42763.2,v,,<ikhlas> + -kan + -lah,bentukan,[29] [S] -kan + (<all>) => [31] [FS] -lah + (<all>)
+42763.3,x,,<ikhlask> + -an + -lah,bentukan,[38] [S] -an + (<all>) => [31] [FS] -lah + (<all>)
+,,,,,
+42764,t,2,ikhram,dasar,ihram
+,,,,,
+42765,k,194,ikhtiar,dasar,
+,,,,,
+42766,v,2,ikhtiar-ikhtiar,dasar,
+42766.1,v,,<ikhtiar> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+42767,k,0,ikhtiari,dasar,
+42767.1,v,,<ikhtiar> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+42768,v,5,ikhtiarkan,dasar,
+42768.1,v,,<ikhtiar> + -kan,bentukan,[29] [S] -kan + (<all>)
+42768.2,x,,<ikhtiark> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+42769,v,2,ikhtiarmu,dasar,
+42769.1,v,,<ikhtiar> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+,,,,,
+42770,v,9,ikhtiarnya,dasar,
+42770.1,v,,<ikhtiar> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+42771,k,4,ikhtilaf,dasar,
+,,,,,
+42772,k,0,ikhtiogeografi,dasar,
+42772.1,v,,<ikhtiogeograf> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+42773,k,0,ikhtiosarkotoksisme,dasar,
+42773.1,v,,<ikhtiosarkotoks> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+42774,k,0,ikhtiotoksisme,dasar,
+42774.1,v,,<ikhtiotoks> + -isme,bentukan,[89] [S] -isme + (<all>)
+,,,,,
+42775,k,105,ikhtisar,dasar,
+,,,,,
+42776,k,0,ikhtisar laba rugi,dasar,
+42776.1,x,,<ikhtisar laba rug> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+42777,k,0,ikhtisar pengenal,dasar,
+,,,,,
+42778,k,0,ikhtisar penunjuk,dasar,
+,,,,,
+42779,c,12,ikhwal,dasar,ihwal
+,,,,,
+42780,k,25,ikhwan,dasar,
+42780.1,x,,<ikhw> + -an,bentukan,[38] [S] -an + (<all>)
+42780.2,x,,<ikh> + -wan,bentukan,[179] [S] -wan + ([h:])
+42780.3,x,,<ikh> + -wan,bentukan,[180] [S] -wan + (<others>)
+,,,,,
+42781,k,0,ikhwanusafa,dasar,
+,,,,,
+42782,k,574,iklan,dasar,
+42782.1,x,,<ikl> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+42783,k,0,iklan baris,dasar,
+42783.1,x,,<iklan bari> + [-is:-s],bentukan,[177] [S] -is + (i)
+42783.2,x,,<iklan bar> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+42784,k,0,iklan berita,dasar,
+,,,,,
+42785,k,0,iklan bersandi,dasar,
+42785.1,x,,<iklan bersand> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+42786,k,0,iklan blok,dasar,
+,,,,,
+42787,k,0,iklan buku telepon,dasar,
+,,,,,
+42788,k,0,iklan buta,dasar,
+,,,,,
+42789,k,0,iklan halaman muka,dasar,
+,,,,,
+42790,k,0,iklan kecil,dasar,
+,,,,,
+42791,k,0,iklan keluarga,dasar,
+,,,,,
+42792,k,0,iklan kolom,dasar,
+,,,,,
+42793,k,0,iklan komik,dasar,
+,,,,,
+42794,k,0,iklan kuping,dasar,
+,,,,,
+42795,k,0,iklan langsung,dasar,
+,,,,,
+42796,k,0,iklan layanan masyarakat,dasar,
+,,,,,
+42797,k,0,iklan majalah,dasar,
+42797.1,x,,<iklan maja> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+42798,k,0,iklan mini,dasar,
+42798.1,x,,<iklan min> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+42799,k,0,iklan muhibah,dasar,
+,,,,,
+42800,k,0,iklan pulau,dasar,
+,,,,,
+42801,k,0,iklan ragaan,dasar,
+42801.1,x,,<iklan raga> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+42802,k,0,iklan sinema,dasar,
+,,,,,
+42803,k,0,iklan sponsor,dasar,
+,,,,,
+42804,k,0,iklan surat kabar,dasar,
+,,,,,
+42805,k,0,iklan udara,dasar,
+,,,,,
+42806,v,40,iklan-iklan,dasar,
+42806.1,v,,<iklan> [-] <r>,bentukan,[23] [RD] |
+42806.2,x,,<ikl> + -an [-] <r> + -an,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+,,,,,
+42807,v,2,iklan-iklannya,dasar,
+42807.1,x,,<iklan> [-] <r> + -nya,bentukan,[23] [RD] |
+42807.2,x,,<ikl> + -an [-] <r> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [23] [RD] |
+42807.3,v,,<iklan> [-] <r> + -nya,bentukan,[23] [RD] | => [34] [SFS] -nya + (<all>)
+42807.4,x,,<ikl> + -an [-] <r> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [23] [RD] | => [34] [SFS] -nya + (<all>)
+,,,,,
+42808,v,3,iklankan,dasar,
+42808.1,v,,<iklan> + -kan,bentukan,[29] [S] -kan + (<all>)
+42808.2,x,,<iklank> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+42809,v,2,iklanmu,dasar,
+42809.1,v,,<iklan> + -mu,bentukan,[33] [SFS] -mu + (<all>)
+42809.2,x,,<ikl> + -an + -mu,bentukan,[38] [S] -an + (<all>) => [33] [SFS] -mu + (<all>)
+,,,,,
+42810,v,36,iklannya,dasar,
+42810.1,v,,<iklan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+42810.2,x,,<ikl> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+42811,c,8,iklas,dasar,ikhlas
+,,,,,
+42812,k,1041,iklim,dasar,
+,,,,,
+42813,k,0,iklim antara,dasar,
+,,,,,
+42814,k,0,iklim bahari,dasar,
+42814.1,x,,<iklim bahar> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+42815,k,0,iklim benua,dasar,
+,,,,,
+42816,k,0,iklim buatan,dasar,
+42816.1,x,,<iklim buat> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+42817,k,0,iklim dataran tinggi,dasar,
+42817.1,x,,<iklim dataran tingg> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+42818,k,0,iklim global hipotetis,dasar,
+42818.1,x,,<iklim global hipoteti> + [-is:-s],bentukan,[177] [S] -is + (i)
+42818.2,x,,<iklim global hipotet> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+42819,k,0,iklim gunung,dasar,
+,,,,,
+42820,k,0,iklim historis,dasar,
+42820.1,x,,<iklim histori> + [-is:-s],bentukan,[177] [S] -is + (i)
+42820.2,x,,<iklim histor> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+42821,k,0,iklim investasi,dasar,
+42821.1,x,,<iklim investas> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+42822,k,0,iklim kepulauan,dasar,
+42822.1,x,,<iklim kepulau> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+42823,k,0,iklim kering,dasar,
+,,,,,
+42824,k,0,iklim kerja,dasar,
+,,,,,
+42825,k,0,iklim khatulistiwa,dasar,
+,,,,,
+42826,k,0,iklim kuarterner,dasar,
+,,,,,
+42827,k,0,iklim kutub,dasar,
+,,,,,
+42828,k,0,iklim makro,dasar,
+,,,,,
+42829,k,0,iklim meso,dasar,
+,,,,,
+42830,k,0,iklim mikro,dasar,
+,,,,,
+42831,k,0,iklim monsun,dasar,
+,,,,,
+42832,k,0,iklim padang rumput,dasar,
+,,,,,
+42833,k,0,iklim panas,dasar,
+,,,,,
+42834,k,0,iklim politik,dasar,
+,,,,,
+42835,k,0,iklim radiasi,dasar,
+42835.1,x,,<iklim radias> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+42836,k,0,iklim ruangan,dasar,
+42836.1,x,,<iklim ruang> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+42837,k,0,iklim rumah kaca,dasar,
+,,,,,
+42838,k,0,iklim sedang,dasar,
+,,,,,
+42839,k,0,iklim suai,dasar,
+42839.1,x,,<iklim sua> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+42840,k,0,iklim subtropis,dasar,
+42840.1,x,,<iklim subtropi> + [-is:-s],bentukan,[177] [S] -is + (i)
+42840.2,x,,<iklim subtrop> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+42841,k,0,iklim suhu,dasar,
+,,,,,
+42842,k,0,iklim termal,dasar,
+,,,,,
+42843,k,0,iklim tropis,dasar,
+42843.1,x,,<iklim tropi> + [-is:-s],bentukan,[177] [S] -is + (i)
+42843.2,x,,<iklim trop> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+42844,v,14,iklimnya,dasar,
+42844.1,v,,<iklim> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+42845,k,264,ikon,dasar,
+,,,,,
+42846,k,0,ikon pop,dasar,
+,,,,,
+42847,v,14,ikon-ikon,dasar,
+42847.1,v,,<ikon> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+42848,k,87,ikonik,dasar,
+,,,,,
+42849,v,3,ikoniknya,dasar,
+42849.1,v,,<ikonik> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+42850,k,12,ikonis,dasar,
+42850.1,x,,<ikoni> + [-is:-s],bentukan,[177] [S] -is + (i)
+42850.2,v,,<ikon> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+42851,k,0,ikonofobia,dasar,
+42851.1,x,,<ikono> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+42852,k,0,ikonograf,dasar,
+42852.1,x,,<ikono> + -graf,bentukan,[191] [S] -graf + (<all>)
+,,,,,
+42853,k,3,ikonografi,dasar,
+42853.1,x,,<ikonograf> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+42854,k,0,ikonoklasme,dasar,
+,,,,,
+42855,k,0,ikonometer,dasar,
+42855.1,x,,<ikono> + -meter,bentukan,[189] [S] -meter + (<all>)
+,,,,,
+42856,k,0,ikosahedron,dasar,
+,,,,,
+42857,k,0,ikrab,dasar,
+,,,,,
+42858,k,16,ikram,dasar,
+,,,,,
+42859,k,93,ikrar,dasar,
+,,,,,
+42860,v,4,ikrarkan,dasar,
+42860.1,v,,<ikrar> + -kan,bentukan,[29] [S] -kan + (<all>)
+42860.2,x,,<ikrark> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+42861,v,3,ikrarnya,dasar,
+42861.1,v,,<ikrar> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+42862,k,0,iktibar,dasar,
+,,,,,
+42863,k,0,iktidal,dasar,
+,,,,,
+42864,k,57,iktikad,dasar,
+,,,,,
+42865,k,16,iktikaf,dasar,
+,,,,,
+42866,k,0,iktiofobia,dasar,
+42866.1,x,,<iktio> + -fobia,bentukan,[107] [S] -fobia + (<all>)
+,,,,,
+42867,k,0,iktiografi,dasar,
+42867.1,x,,<iktiograf> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+42868,k,0,iktiolit,dasar,
+,,,,,
+42869,k,0,iktiologi,dasar,
+42869.1,x,,<iktiolog> + -i,bentukan,[28] [S] -i + (<all>)
+42869.2,x,,<iktio> + -logi,bentukan,[190] [S] -logi + (<all>)
+,,,,,
+42870,k,0,iktiologik,dasar,
+,,,,,
+42871,k,0,iktiologis,dasar,
+42871.1,x,,<iktiologi> + [-is:-s],bentukan,[177] [S] -is + (i)
+42871.2,x,,<iktiolog> + -is,bentukan,[178] [S] -is + (<others>)
+42871.3,x,,<iktio> + -logi+-s,bentukan,[194] [MS] -logi+-s + (<all>)
+,,,,,
+42872,k,0,iktiosis,dasar,
+42872.1,x,,<iktiosi> + [-is:-s],bentukan,[177] [S] -is + (i)
+42872.2,x,,<iktios> + -is,bentukan,[178] [S] -is + (<others>)
+,,,,,
+42873,k,0,iktirad,dasar,
+,,,,,
+42874,k,0,iktiraf,dasar,
+,,,,,
+42875,k,0,iktisab,dasar,
+,,,,,
+42876,t,2,iktisar,dasar,ikhtisar
+,,,,,
+42877,k,0,ikuh,dasar,
+,,,,,
+42878,k,0,ikura,dasar,
+,,,,,
+42879,k,4591,ikut,dasar,
+,,,,,
+42880,k,0,ikut bersuara,dasar,
+,,,,,
+42881,k,0,ikut serta,dasar,
+,,,,,
+42882,k,27,ikut-ikut,dasar,
+42882.1,v,,<ikut> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+42883,k,206,ikut-ikutan,dasar,
+42883.1,v,,<ikut> [-] <r> + -an,bentukan,[23] [RD] |
+,,,,,
+42884,k,160,ikutan,dasar,
+42884.1,v,,<ikut> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+42885,d,0,ikutannya,dasar,
+42885.1,x,,<ikutan> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+42885.2,v,,<ikut> + -an + -nya,bentukan,[38] [S] -an + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+42886,v,463,ikuti,dasar,
+42886.1,v,,<ikut> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+42887,v,29,ikutilah,dasar,
+42887.1,x,,<ikuti> + -lah,bentukan,[31] [FS] -lah + (<all>)
+42887.2,v,,<ikut> + -i + -lah,bentukan,[28] [S] -i + (<all>) => [31] [FS] -lah + (<all>)
+,,,,,
+42888,t,11,ikutin,dasar,ikuti
+,,,,,
+42889,d,0,ikutinya,dasar,
+42889.1,x,,<ikuti> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+42889.2,v,,<ikut> + -i + -nya,bentukan,[28] [S] -i + (<all>) => [34] [SFS] -nya + (<all>)
+,,,,,
+42890,v,6,ikutkan,dasar,
+42890.1,v,,<ikut> + -kan,bentukan,[29] [S] -kan + (<all>)
+42890.2,x,,<ikutk> + -an,bentukan,[38] [S] -an + (<all>)
+,,,,,
+42891,v,20,ikutlah,dasar,
+42891.1,v,,<ikut> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+42892,v,7,ikutnya,dasar,
+42892.1,v,,<ikut> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+42893,k,0,ilafi,dasar,
+42893.1,x,,<ilaf> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+42894,k,0,ilah,dasar,
+42894.1,x,,<i> + -lah,bentukan,[31] [FS] -lah + (<all>)
+,,,,,
+42895,k,99,ilahi,dasar,
+42895.1,v,,<ilah> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+42896,k,24,ilahiah,dasar,
+42896.1,v,,<ilah> + -iah,bentukan,[175] [S] -iah + (<others>)
+,,,,,
+42897,k,0,ilahiat,dasar,
+,,,,,
+42898,k,0,ilai,dasar,
+42898.1,x,,<ila> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+42899,k,0,ilak,dasar,
+,,,,,
+42900,k,91,ilalang,dasar,
+,,,,,
+42901,v,2,ilalang-ilalang,dasar,
+42901.1,v,,<ilalang> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+42902,k,0,ilam-ilam,dasar,
+42902.1,x,,<ilam> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+42903,k,17,ilang,dasar,
+,,,,,
+42904,k,0,ilanun,dasar,
+,,,,,
+42905,k,0,ilar,dasar,
+,,,,,
+42906,k,0,ilas,dasar,
+,,,,,
+42907,k,0,ilat,dasar,
+,,,,,
+42908,k,0,ilat-ilatan,dasar,
+42908.1,v,,<ilat> [-] <r> + -an,bentukan,[23] [RD] |
+,,,,,
+42909,k,531,ilegal,dasar,
+,,,,,
+42910,k,0,ilep,dasar,
+,,,,,
+42911,k,5,iler,dasar,
+,,,,,
+42912,k,0,iles,dasar,
+,,,,,
+42913,k,5,iles-iles,dasar,
+42913.1,v,,<iles> [-] <r>,bentukan,[23] [RD] |
+,,,,,
+42914,k,5,ileum,dasar,
+,,,,,
+42915,k,156,ilham,dasar,
+,,,,,
+42916,v,3,ilhamnya,dasar,
+42916.1,v,,<ilham> + -nya,bentukan,[34] [SFS] -nya + (<all>)
+,,,,,
+42917,k,4,ili,dasar,
+42917.1,x,,<il> + -i,bentukan,[28] [S] -i + (<all>)
+,,,,,
+42918,k,0,ilian,dasar,
+42918.1,x,,<ili> + -an,bentukan,[38] [S] -an + (<all>)
