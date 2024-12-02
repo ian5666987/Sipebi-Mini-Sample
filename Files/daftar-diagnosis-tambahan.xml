@@ -77,4 +77,11 @@
 	  <AppearOnVersion>1.2.0.0</AppearOnVersion>
 	  <IsCustom>true</IsCustom>
 	</SipebiDiagnosticsErrorInformation>
+	<SipebiDiagnosticsErrorInformation>
+	  <ErrorCode>TE02</ErrorCode>
+	  <Error>Tanda hubung digunakan untuk menyambung unsur bentuk ulang</Error>
+	  <ErrorExplanation>Tanda hubung digunakan untuk menyambung unsur bentuk ulang</ErrorExplanation>
+	  <AppearOnVersion>1.2.0.0</AppearOnVersion>
+	  <IsCustom>true</IsCustom>
+	</SipebiDiagnosticsErrorInformation>
 </ArrayOfSipebiDiagnosticsErrorInformation>
